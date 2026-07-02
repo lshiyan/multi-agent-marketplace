@@ -14,7 +14,10 @@ from fastapi import FastAPI, Request
 from ..database.base import BaseDatabaseController
 from ..protocol.base import BaseMarketplaceProtocol
 from .auth import AuthService
-
+from a2a.server.routes import (
+    create_agent_card_routes,
+    create_jsonrpc_routes,
+)
 
 class MarketplaceServer(FastAPI):
     """FastAPI server for the Magentic Marketplace API with hybrid dependency injection.
@@ -83,12 +86,19 @@ class MarketplaceServer(FastAPI):
 
         # Include all route modules
         from .routes import actions, agents, health, logs
+        from ..a2a.routes import get_agent_card, get_request_handler
 
         self.include_router(agents.router)
         self.include_router(actions.router)
         self.include_router(logs.router)
         self.include_router(health.router)
-
+        
+        agent_card = get_agent_card()
+        request_handler = get_request_handler()
+        
+        self.router.routes.extend(create_agent_card_routes(agent_card))
+        self.router.routes.extend(create_jsonrpc_routes(request_handler, '/a2a'))
+        
     def serve(
         self,
         host: str = "127.0.0.1",
@@ -210,3 +220,8 @@ def get_protocol(request: Request) -> BaseMarketplaceProtocol:
 def get_auth_service(request: Request) -> AuthService:
     """Get the auth service from app state."""
     return request.app.state.auth_service
+
+if __name__ == "__main__":
+    server = MarketplaceServer()
+    
+    server.serve()
