@@ -94,6 +94,21 @@ class SearchResponse(BaseModel):
     total_pages: int | None = Field(
         default=None, description="Total number of pages available"
     )
+    
+class InspectBusiness(BaseAction):
+    """Retrieve a single business by its agent ID."""
+
+    type: Literal["inspect_business"] = "inspect_business"
+    business_id: str = Field(
+        description="ID of the business agent to retrieve"
+    )
+
+class InspectBusinessResponse(BaseModel):
+    """Response containing the requested business."""
+
+    business: BusinessAgentProfile = Field(
+        description="Profile of the requested business"
+    )
 
 
 # Action is a union type of the action types

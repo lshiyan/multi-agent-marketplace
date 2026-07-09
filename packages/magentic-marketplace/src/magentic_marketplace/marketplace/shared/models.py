@@ -130,4 +130,4 @@ class SearchConstraints(BaseModel):
     menu_items: list[str] | None = Field(
         default=None,
         description="Required menu_features",
-    )
+    ) 

@@ -13,10 +13,12 @@ from ..actions import (
     FetchMessages,
     Search,
     SendMessage,
+    InspectBusiness
 )
 from .fetch_messages import execute_fetch_messages
 from .search import execute_search
 from .send_message import execute_send_message
+from .inspect_business import execute_inspect
 
 
 class SimpleMarketplaceProtocol(BaseMarketplaceProtocol):
@@ -100,6 +102,11 @@ CREATE INDEX IF NOT EXISTS actions_fetch_messages_idx
         elif isinstance(parsed_action, Search):
             return await execute_search(
                 search=parsed_action, agent=agent, database=database
+            )
+        
+        elif isinstance(parsed_action, InspectBusiness):
+            return await execute_inspect(
+                parsed_action, database
             )
         else:
             raise ValueError(f"Unknown action type: {parsed_action.type}")
