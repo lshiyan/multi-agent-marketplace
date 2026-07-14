@@ -3,7 +3,7 @@
 from enum import Enum
 from typing import Annotated, Literal
 
-from pydantic import AwareDatetime, BaseModel, Field
+from pydantic import AliasChoices, AwareDatetime, BaseModel, Field
 from pydantic.type_adapter import TypeAdapter
 
 from magentic_marketplace.platform.shared.models import BaseAction
@@ -100,7 +100,7 @@ class InspectBusiness(BaseAction):
 
     type: Literal["inspect_business"] = "inspect_business"
     business_id: str = Field(
-        description="ID of the business agent to retrieve"
+        validation_alias=AliasChoices("business_id", "business")
     )
 
 class InspectBusinessResponse(BaseModel):

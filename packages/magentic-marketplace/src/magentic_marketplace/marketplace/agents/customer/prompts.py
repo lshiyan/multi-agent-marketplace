@@ -112,7 +112,7 @@ These are your ONLY available actions:
 * Send "text" messages to submit requirements.
 * The marketplace agent creates proposals; you accept suitable proposals by sending "pay" messages.
 * You cannot create order proposals yourself.
-* Always check for responses after sending messages.
+* Always check for responses after sending messages. Do not send multiple messages for the same request.
 * Do not wait for the customer to make decisions. You are acting autonomously on their behalf.
 * You must complete the purchase when a suitable proposal satisfies the customer's requirements and budget.
 * Only end the transaction after a payment succeeds.

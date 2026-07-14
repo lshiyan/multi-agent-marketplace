@@ -24,6 +24,9 @@ class MarketplaceAction(BaseModel):
     reason: str = Field(description="Reason for taking this action")
 
     business_id: str = Field(description="Id of business to inspect.")
+    
+    order_proposal_message: ServiceOrderProposalMessageRequest | None = None
+
     # Search-specific fields
     search_query: str | None = Field(
         default=None,

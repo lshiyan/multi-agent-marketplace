@@ -16,6 +16,8 @@ from magentic_marketplace.platform.database import (
 )
 from magentic_marketplace.platform.database.converter import convert_postgres_to_sqlite
 from magentic_marketplace.platform.launcher import AgentLauncher, MarketplaceLauncher
+from magentic_marketplace.marketplace.shared.models import BusinessAgentProfile
+from magentic_marketplace.platform.client import MarketplaceClient
 
 
 async def run_marketplace_experiment(
@@ -87,6 +89,13 @@ async def run_marketplace_experiment(
         logger.info(
             f"Marketplace experiment started:\nbusinesses={len(businesses)}\ncustomers={len(customers)}\ndata_dir={data_dir}\nexperiment_name:{experiment_name}",
         )
+        
+        async with MarketplaceClient(marketplace_launcher.server_url) as client:
+            for business in businesses:
+                profile = BusinessAgentProfile.from_business(business)
+                await client.agents.register(profile)
+
+        print(f"Registered {len(businesses)} searchable businesses")
 
         # Create agents from loaded profiles
         marketplace_agent = [

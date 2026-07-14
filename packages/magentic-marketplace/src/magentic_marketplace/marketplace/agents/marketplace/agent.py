@@ -251,7 +251,7 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
                 limit=self._search_bandwidth,
                 page=action.search_page,
             )
-            print(search_action)
+
             search_result = await self.execute_action(search_action)
 
             if not search_result.is_error:
@@ -284,7 +284,7 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
             session.add_event(action, result)
 
         elif action.action_type == "create_order_proposal":
-            proposal = await self._create_order_proposal(action)
+            proposal = await self._create_order_proposal(session, action)
             session.add_event(action, proposal)
 
         elif action.action_type == "end_transaction":
