@@ -1,6 +1,7 @@
 from langchain_core.tools import tool
 from langchain_core.messages import HumanMessage, ToolMessage
 from pydantic import BaseModel, Field
+from collections import defaultdict
 
 from ...actions import (
     OrderProposal,
@@ -10,12 +11,15 @@ from ...actions import (
     SearchAlgorithm,
     SearchResponse,
     TextMessage,
+    InspectBusiness
 )
+from ..proposal_storage import OrderProposalStorage
+from ...actions import OrderProposal, OrderItem
 
 from ...llm.config import BaseLLMConfig
 from ..base import BaseSimpleMarketplaceAgent
 from magentic_marketplace.platform.shared.models import AgentProfile
-from .models import MarketplaceAction, MarketplaceRequestSession
+from .models import MarketplaceAction, MarketplaceRequestSession, MarketplaceAgentProfile
 from magentic_marketplace.platform.shared.models import (
     BaseAction,
 )
@@ -24,6 +28,7 @@ from .prompts import PromptsHandler
 import asyncio
 import uuid
 import traceback
+
 
 MAX_ITERS = 6
 
@@ -37,7 +42,6 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
 
     def __init__(
         self,
-        profile: AgentProfile,
         base_url: str,
         llm_config: BaseLLMConfig | None = None,
         search_algorithm: str = "simple",
@@ -45,6 +49,7 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
         polling_interval: float = 2,
         max_steps: int | None = None,
     ):
+        profile = MarketplaceAgentProfile(id = "marketplace")
         super().__init__(profile, base_url, llm_config)
 
         self.conversation_step: int = 0
@@ -60,26 +65,110 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
 
         self._active_request: str | None = None
 
-    async def handle_customer_requests(self, customer_id: str, text: str):
-        """Creates an async task for an incoming customer request."""
-        request_id = uuid.uuid4().hex
+    async def step(self):
+        """One step of marketplace agent logic - check messages, then advance sessions."""
+        messages = await self.fetch_messages()
 
-        session = MarketplaceRequestSession(
-            request_id=request_id,
-            customer_id=customer_id,
-            request_text=text,
-            event_history=[],
-            completed_transactions=[],
-        )
+        new_messages_by_customer: dict[str, list[ReceivedMessage]] = defaultdict(list)
+        for received_message in messages.messages:
+            new_messages_by_customer[received_message.from_agent_id].append(
+                received_message
+            )
 
-        self.sessions[request_id] = session
+        if new_messages_by_customer:
+            await asyncio.gather(
+                *[
+                    self._handle_new_customer_messages(customer_id, msgs)
+                    for customer_id, msgs in new_messages_by_customer.items()
+                ]
+            )
 
-        asyncio.create_task(self._run_session(request_id))
+        # 2. Advance any active sessions by one LLM-decided action
+        active_sessions = [s for s in self.sessions.values() if s.status == "active"]
+        if active_sessions:
+            await asyncio.gather(
+                *[self._step_session(s.request_id) for s in active_sessions]
+            )
 
+        # 3. Backoff only if nothing happened at all
+        if not new_messages_by_customer and not active_sessions:
+            await asyncio.sleep(self._polling_interval)
+        else:
+            await asyncio.sleep(0)
+
+    async def _handle_new_customer_messages(
+        self, customer_id: str, new_messages: list[ReceivedMessage]
+    ):
+        """Routes incoming messages to the right session, creating one if needed."""
+        for received_message in new_messages:
+            message = received_message.message
+
+            if isinstance(message, Payment):
+                session = self._find_session_for_payment(customer_id, message)
+                if session is None:
+                    self.logger.error(
+                        f"Received payment from {customer_id} with no matching session"
+                    )
+                    continue
+                response = await self.handle_customer_payment(
+                    session.request_id, message
+                )
+                await self.send_message(customer_id, response)
+
+            elif isinstance(message, TextMessage):
+                session = self._find_active_session_for_customer(customer_id)
+                if session is None:
+                    request_id = uuid.uuid4().hex
+                    session = MarketplaceRequestSession(
+                        request_id=request_id,
+                        customer_id=customer_id,
+                        request_text=message.content
+                    )
+                    self.sessions[request_id] = session
+                else:
+                    session.event_history.append(f"Customer: {message.content}")
+
+            else:
+                self.logger.warning(
+                    f"Ignoring unsupported message type from {customer_id}: {type(message)}"
+                )
+
+    def _find_active_session_for_customer(
+        self, customer_id: str
+    ) -> MarketplaceRequestSession | None:
+        for session in self.sessions.values():
+            if session.customer_id == customer_id and session.status == "active":
+                return session
+        return None
+
+    def _find_session_for_payment(
+        self, customer_id: str, payment: Payment
+    ) -> MarketplaceRequestSession | None:
+        for session in self.sessions.values():
+            if (
+                session.customer_id == customer_id
+                and payment.proposal_message_id in session.pending_proposal_ids
+            ):
+                return session
+        return None
+
+    async def _step_session(self, session_id: str):
+        """Advances a single session by one LLM-decided action."""
+        session = self.sessions[session_id]
+        session.step += 1
+
+        action = await self._generate_marketplace_action(session_id)
+        if action is None:
+            return
+
+        await self._execute_marketplace_action(session, action)
+
+        if self._max_steps is not None and session.step >= self._max_steps:
+            session.status = "failed"
+            
     async def execute_action(self, action: BaseAction):
         """Execute an action through the marketplace platform."""
         return await super().execute_action(action)
-
 
     async def _run_session(self, session_id: str):
         """Runs the LLM concurrently on a given session_id."""
@@ -104,23 +193,19 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
         self.logger.info("Starting centralized marketplace agent.")
 
     def _get_prompts_handler(self, session_id: str) -> PromptsHandler:
-        if self._active_request is None:
-            raise ValueError("Marketplace agent has no active request.")
-
         session = self.sessions[session_id]
         
         if session_id not in self.prompt_handlers:
-            self.prompt_handlers = PromptsHandler(
+            self.prompt_handlers[session_id] = PromptsHandler(
             marketplace_agent_id=self.id,
             session=session,
-            completed_transactions=self.completed_transactions,
-            event_history=self._event_history,
             logger=self.logger,
         )
         
         return self.prompt_handlers[session_id]
 
     async def _generate_marketplace_action(self, session_id: str) -> MarketplaceAction | None:
+        session = self.sessions[session_id]
         prompts = self._get_prompts_handler(session_id)
 
         system_prompt = prompts.format_system_prompt().strip()
@@ -136,7 +221,7 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
             )
 
             self.logger.info(
-                f"[Step {self.conversation_step}/{self._max_steps or 'inf'}] "
+                f"[Step {session.step}/{self._max_steps or 'inf'}] "
                 f"Action: {action.action_type}. Reason: {action.reason}"
             )
 
@@ -147,7 +232,7 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
                 f"[Step {self.conversation_step}/{self._max_steps or 'inf'}] "
                 "LLM decision failed."
             )
-            self._event_history.append(
+            session.event_history.append(
                 f"LLM decision failed: {traceback.format_exc()}"
             )
             return None
@@ -166,7 +251,7 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
                 limit=self._search_bandwidth,
                 page=action.search_page,
             )
-
+            print(search_action)
             search_result = await self.execute_action(search_action)
 
             if not search_result.is_error:
@@ -194,12 +279,13 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
                 session.add_event(action, search_result)
 
         elif action.action_type == "inspect_business":
-            result = await self._inspect_business(action.business_id)
+            inspect_action = InspectBusiness(business = action.business_id)
+            result = await self.execute_action(inspect_action)
             session.add_event(action, result)
 
         elif action.action_type == "create_order_proposal":
-            result = await self._create_order_proposal(action)
-            session.add_event(action, result)
+            proposal = await self._create_order_proposal(action)
+            session.add_event(action, proposal)
 
         elif action.action_type == "end_transaction":
             session.status="finished"
@@ -208,29 +294,69 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
             self.logger.warning(
                 f"Unknown marketplace action type: {action.action_type}"
             )
-            self._event_history.append(
+            session.event_history.append(
                 f"Unknown marketplace action type: {action.action_type}"
             )
 
         return False
+    
+    async def _create_order_proposal(
+        self,
+        session: MarketplaceRequestSession,
+        action: MarketplaceAction,
+    ) -> OrderProposal:
+        """Creates and then sends an order proposal to the customer."""
+        proposal = OrderProposal(
+            id=uuid.uuid4().hex,
+            items=action.items,
+            total_price=action.total_price,
+            message=action.proposal_message,
+        )
 
-    async def _inspect_business(self, business_id: str):
-        """Directly inspect a business.
+        session.proposal_storage.add_proposal(
+            proposal=proposal,
+            business_id=action.business_id,
+            customer_id=session.customer_id,
+        )
 
-        Replace this with the actual platform/database action once available.
-        """
-        
+        session.pending_proposal_ids.append(proposal.id)
 
-    async def _create_order_proposal(self, action: MarketplaceAction):
-        """Create a proposal directly from marketplace business data.
+        await self.send_message(
+            session.customer_id,
+            proposal,
+        )
 
-        Replace this with your centralized proposal-generation logic.
-        """
-        raise NotImplementedError("create_order_proposal is not wired yet.")
+        return proposal
 
-    async def _reply_to_requester(self, action: MarketplaceAction):
-        """Return a final response to whoever submitted the marketplace request.
+    async def handle_customer_payment(
+        self,
+        session_id: str,
+        payment: Payment,
+    ) -> TextMessage:
+        session = self.sessions[session_id]
+        proposal_id = payment.proposal_message_id
 
-        This replaces customer/business messaging.
-        """
-        raise NotImplementedError("reply_to_requester is not wired yet.")
+        stored = session.proposal_storage.get_proposal(proposal_id)
+
+        if stored is None:
+            return TextMessage(
+                content=f"No proposal found with id {proposal_id}."
+            )
+
+        if stored.status != "pending":
+            return TextMessage(
+                content=f"Proposal {proposal_id} is already {stored.status}."
+            )
+
+        session.proposal_storage.update_proposal_status(
+            proposal_id,
+            "accepted",
+        )
+
+        session.completed_transactions.append(proposal_id)
+        self.completed_transactions.append(proposal_id)
+        session.status = "finished"
+
+        return TextMessage(
+            content=f"Payment confirmed for proposal {proposal_id}."
+        )

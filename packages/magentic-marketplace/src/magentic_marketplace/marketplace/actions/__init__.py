@@ -10,6 +10,8 @@ from .actions import (
     SearchAlgorithm,
     SearchResponse,
     SendMessage,
+    InspectBusiness,
+    InspectBusinessResponse
 )
 from .messaging import (
     Message,
@@ -36,4 +38,6 @@ __all__ = [
     "SearchResponse",
     "SendMessage",
     "TextMessage",
+    "InspectBusiness",
+    "InspectBusinessResponse"
 ]

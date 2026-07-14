@@ -9,7 +9,7 @@ from magentic_marketplace.experiments.utils import (
     load_businesses_from_yaml,
     load_customers_from_yaml,
 )
-from magentic_marketplace.marketplace.agents import BusinessAgent, CustomerAgent
+from magentic_marketplace.marketplace.agents import BusinessAgent, CustomerAgent, MarketplaceAgent
 from magentic_marketplace.marketplace.protocol.protocol import SimpleMarketplaceProtocol
 from magentic_marketplace.platform.database import (
     connect_to_postgresql_database,
@@ -89,9 +89,8 @@ async def run_marketplace_experiment(
         )
 
         # Create agents from loaded profiles
-        business_agents = [
-            BusinessAgent(business, marketplace_launcher.server_url)
-            for business in businesses
+        marketplace_agent = [
+            MarketplaceAgent(marketplace_launcher.server_url, search_algorithm = search_algorithm, search_bandwidth = search_bandwidth)
         ]
 
         customer_agents = [
@@ -109,7 +108,7 @@ async def run_marketplace_experiment(
         async with AgentLauncher(marketplace_launcher.server_url) as agent_launcher:
             try:
                 await agent_launcher.run_agents_with_dependencies(
-                    primary_agents=customer_agents, dependent_agents=business_agents
+                    primary_agents=customer_agents, dependent_agents=marketplace_agent
                 )
             except KeyboardInterrupt:
                 logger.warning("Simulation interrupted by user")

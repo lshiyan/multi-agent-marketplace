@@ -21,7 +21,7 @@ async def execute_lexical_search(
     # Get all business agents
     business_filter = agent_query(path="$.business", value=None, operator="!=")
     all_agent_rows = await database.agents.find(business_filter, RangeQueryParams())
-
+    
     # Convert to BusinessAgentProfile objects
     businesses = await convert_agent_rows_to_businesses(all_agent_rows)
 

@@ -9,11 +9,9 @@ class PromptsHandler:
         self,
         marketplace_agent_id: str,
         session: MarketplaceRequestSession,
-        completed_transactions: list[str],
         logger: MarketplaceLogger,
     ):
         self.marketplace_agent_id = marketplace_agent_id
-        self.completed_transactions = completed_transactions
         self.logger = logger
         self.session = session
 
@@ -64,31 +62,18 @@ These are your ONLY available actions:
 # Marketplace Fulfillment Strategy
 
 1. Parse the incoming request:
-   - requested product or service
-   - quantity
-   - budget
-   - location or delivery constraints
-   - timing constraints
-   - quality/preferences
-   - hard requirements versus soft preferences
+   - required menu items
+   - required amenities
 
 2. Search the marketplace:
    - find relevant businesses directly
    - inspect details for promising candidates
-   - discard businesses that cannot satisfy hard constraints
+   - discard businesses that cannot satisfy requirements
 
 3. Generate candidate proposals:
-   - create feasible proposals from business offerings
+   - create feasible proposals from business information
    - ensure each proposal is grounded in real business capabilities
    - do not invent unavailable products, prices, or services
-
-4. Compare options:
-   - prioritize satisfying hard requirements
-   - then optimize for price, quality, rating, availability, and customer preferences
-
-5. Execute the best valid option:
-   - execute only a proposal that satisfies the request
-   - do not execute if required information is missing
 
 6. Finalize:
    - end the transaction only after successful execution
@@ -96,9 +81,8 @@ These are your ONLY available actions:
 # Important Rules
 
 - You represent the marketplace as a centralized coordinator.
-- You do not negotiate with autonomous business agents.
 - You directly use marketplace data and platform actions.
-- Do not invent business capabilities.
+- Do not invent business capabilities, only use information that you have obtained through searching or inspecting businesses.
 - Do not ask the requester for clarification unless fulfillment is impossible or critically ambiguous.
 - Prefer completing the request when a valid marketplace option exists.
 """.strip()
@@ -132,9 +116,15 @@ These are your ONLY available actions:
 
     Step {last_step + 1}: What action should you take?
 
-    Send "text" messages to ask questions or express interest. Services will send "order_proposal" messages with offers. Send "pay" messages to accept proposals you want to purchase. When you receive an order_proposal message, use its message_id as the proposal_id in your payment. Always check for responses after sending messages. You must pay for proposals when you have sufficient information - do not wait for the customer. Only end the transaction after successfully paying for a proposal.
+    Use 'search_businesses' when you want to search for relevant businesses related to a customer's request.
+    
+    Use 'inspect_business' when you want to find more detailed information regarding a business.
 
-    Choose your action carefully.
+    Use 'create_order_proposal' when you've decided a suitable business to fulfill the customer's request.
+
+    Continue taking actions until the customer's request has been successfully fulfilled or cannot be completed. Only end the transaction after payment has succeeded and the purchase has been confirmed. If fulfillment is impossible, explain the reason clearly.
+
+    Choose the next action carefully.
     """
 
     def format_event_history(self):
@@ -163,6 +153,10 @@ These are your ONLY available actions:
         elif action.action_type == "inspect_business":
             return self._format_marketplace_inspect_business_event(
                 action, result, step_number
+            )
+        elif action.action_type == "create_order_proposal":
+            return self._format_marketplace_order_proposal_event(
+                action, 
             )
         else:
             self.logger.warning(f"Unrecognized action type: {action.action_type}")
@@ -211,7 +205,7 @@ These are your ONLY available actions:
 
     def _format_marketplace_inspect_business_event(
         self, action: MarketplaceAction, result: MarketplaceActionResult, step_number: int
-    ):
+    ): 
         lines: list[str] = self._format_step_header(current_step=step_number)
         lines.append(
             f"Action: inspect_business: {action.model_dump_json(include={'action_type'})}"
@@ -232,7 +226,7 @@ These are your ONLY available actions:
             else:
                 lines.append("- No menu items listed")
                 
-            lines.append("Amenities:")
+            lines.append("Available Amenities:")
             available_amenities = [
                 amenity
                 for amenity, available in business_profile.amenity_features.items()
