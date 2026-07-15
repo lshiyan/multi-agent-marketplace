@@ -308,9 +308,8 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
         """Creates and then sends an order proposal to the customer."""
         proposal = OrderProposal(
             id=uuid.uuid4().hex,
-            items=action.items,
-            total_price=action.total_price,
-            message=action.proposal_message,
+            items=action.order_proposal_message.items,
+            total_price=action.order_proposal_message.total_price,
         )
 
         session.proposal_storage.add_proposal(

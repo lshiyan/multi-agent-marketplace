@@ -1,6 +1,7 @@
 from magentic_marketplace.platform.logger import MarketplaceLogger
 from .models import MarketplaceAction, MarketplaceRequestSession, MarketplaceActionResult
 from ...actions.actions import InspectBusinessResponse, SearchResponse
+from .models import OrderProposal
 
 class PromptsHandler:
     """Prompt generation for a centralized marketplace/platform agent."""
@@ -156,7 +157,7 @@ These are your ONLY available actions:
             )
         elif action.action_type == "create_order_proposal":
             return self._format_marketplace_order_proposal_event(
-                action, 
+                action, result, step_number
             )
         else:
             self.logger.warning(f"Unrecognized action type: {action.action_type}")
@@ -243,6 +244,44 @@ These are your ONLY available actions:
 
         return lines
 
+    def _format_marketplace_order_proposal_event(
+        self,
+        action: MarketplaceAction,
+        result: MarketplaceActionResult,
+        step_number: int,
+    ) -> list[str]:
+        """Format a create_order_proposal action and its result."""
+
+        lines: list[str] = self._format_step_header(current_step=step_number)
+
+        proposal = result
+         
+        lines.append(
+            "Action: create_order_proposal: "
+            f"{action.model_dump_json(include={'business_id', 'request_details'})}"
+        )
+        lines.append(
+            f"Step {step_number} result: Successfully created order proposal."
+        )
+        lines.append(f"Proposal ID: {proposal.id}")
+
+        business_id = getattr(action, "business_id", None)
+        if business_id:
+            lines.append(f"Business ID: {business_id}")
+
+        lines.append("Order items:")
+
+        for item in proposal.items:
+            lines.append(
+                f"- {item.item_name}: "
+                f"{item.quantity} × ${item.unit_price:.2f} "
+                f"= ${item.quantity * item.unit_price:.2f}"
+            )
+
+        lines.append(f"Total price: ${proposal.total_price:.2f}")
+
+        return lines
+        
     def _format_log_event(self, event: str, step_number: int):
         lines = self._format_step_header(current_step=step_number)
         lines.append(f"Error: {event}")

@@ -5,7 +5,7 @@ from magentic_marketplace.platform.shared.models import ActionExecutionResult
 from magentic_marketplace.platform.shared.models import AgentProfile
 from ...actions import SearchResponse, InspectBusinessResponse, OrderProposal
 from ..proposal_storage import OrderProposalStorage
-
+from ..business.models import ServiceOrderProposalMessageRequest
 class MarketplaceAction(BaseModel):
     """Actions the Assistant can take.
 
@@ -50,6 +50,11 @@ class MarketplaceAction(BaseModel):
             if not self.business_id: 
                 raise ValueError(
                     "business_id is required when action_type is inspect_business"
+                )
+        if self.action_type == "create_order_proposal":
+            if not self.order_proposal_message: 
+                raise ValueError(
+                    "order_proposal_message is required when action_type is create_order_proposal"
                 )
 
         return self

@@ -70,7 +70,7 @@ Themarketplace agent represents the entire marketplace and has direct access to 
 
 These are your ONLY available actions:
 
-* send_messages: Send messages to the centralized marketplace agent to submit the customer's request, ask questions, provide additional requirements, or accept and pay for proposals.
+* send_messages: Send messages to the centralized marketplace agent to submit the customer's request, ask questions, provide additional requirements, or accept and pay for proposals. Send messages with the to_agent_id 'marketplace.'
 * check_messages(): Get proposals from the centralized marketplace agent.
 * end_transaction: Complete the transaction after successfully accepting and paying for a suitable proposal.
 

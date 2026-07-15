@@ -32,16 +32,6 @@ class OrderProposal(BaseModel):
         description="Required; the list of OrderItem objects with item_name, quantity, and unit_price",
     )
     total_price: float = Field(description="Required; total price for the entire order")
-    special_instructions: str | None = Field(
-        default=None, description="Optional; any special requests or notes"
-    )
-    estimated_delivery: str | None = Field(
-        default=None, description="Optional; estimated delivery time"
-    )
-    expiry_time: str | None = Field(
-        default=None, description="Optional; when this proposal expires"
-    )
-
 
 class Payment(BaseModel):
     """A payment message to accept an order proposal."""
