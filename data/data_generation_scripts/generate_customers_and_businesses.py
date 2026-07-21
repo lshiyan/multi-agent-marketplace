@@ -104,17 +104,12 @@ def _generate_request(
 ) -> str:
     """Generate a customer request string given the menu and amenity features."""
     menu_items = json.dumps(dict.fromkeys(menu_features.keys(), 1), indent=2)
-    amenity_items = "\n".join([f"- {item}" for item in amenity_features])
-
+    
     prompt = f"""
 Imagine that a customer is contacting a concierge or assistant to place a specific order from a business that meets their needs.
 The customer needs a business that serves the following menu items (order quantities are noted):
 
 {menu_items}
-
-AND, that has the following amenities:
-
-{amenity_items}
 
 These needs are very important to the customer, and they will not consider a business that does not meet all of them.
 Upon finding such a business, it is the customer's intention to place an order, as reflected above.
@@ -122,8 +117,7 @@ Please genertate a short-but-complete and polite request from the customer to th
 
 You DO NOT need to start with 'Dear concierge' or similar, just start with the request itself.
 
-Be sure to be precise and use the exact names and quantities of the menu items and amenities as given above,
-and express the intention to purchase the items.
+Be sure to be precise and use the exact names and quantities of the menu items, and express the intention to purchase the items.
 
 Output the request as JSON object with the following field:
 
@@ -155,11 +149,6 @@ def main(features_dir: str, n_customers: int, output_dir: str) -> None:
     with open(os.path.join(features_dir, "items.yaml")) as f:
         for i in yaml.safe_load(f):
             items.append(ItemFeature(**i))
-
-    with open(os.path.join(features_dir, "amenities.yaml")) as f:
-        for a in yaml.safe_load(f):
-            assert isinstance(a, str)
-            amenities.append(a)
 
     with open(os.path.join(features_dir, "people.yaml")) as f:
         for p in yaml.safe_load(f):
@@ -269,16 +258,13 @@ def main(features_dir: str, n_customers: int, output_dir: str) -> None:
         for item in orders[i]:
             menu_features[item.name] = item.mean_price
 
-        # Randonly sample on desired amenity
-        amenity_features = random.sample(amenities, random.randint(1, 2))
-
         # Generate the customer
         customer = Customer(
             id=f"customer_{len(customers) + 1:04}",
             name=people[i],
-            request=_generate_request(menu_features, amenity_features),
+            request=_generate_request(menu_features, None),
             menu_features=menu_features,
-            amenity_features=amenity_features,
+            amenity_features=[],
         )
         customers.append(customer)
 
@@ -317,33 +303,6 @@ def main(features_dir: str, n_customers: int, output_dir: str) -> None:
 
             menus.append(menu)
 
-        # Generate 3 amenity sets, each with different distractor amenities
-        amenity_sets: list[dict[str, bool]] = []
-        for _ in range(3):
-            amenity_set: dict[str, bool] = {}
-
-            # Generate an empty set of amenities
-            for a in amenities:
-                amenity_set[a] = False
-
-            # Turn on some distractor amenities
-            n_distractor_amenities = random.randint(
-                MIN_DISTRACTOR_AMENITIES_PER_BUSINESS,
-                MAX_DISTRACTOR_AMENITIES_PER_BUSINESS,
-            )
-            for a in random.sample(amenities, n_distractor_amenities):
-                amenity_set[a] = True
-
-            amenity_sets.append(amenity_set)
-
-        # Add the required amenities to all of the sets
-        for a in customer.amenity_features:
-            for s in amenity_sets:
-                s[a] = True
-
-        # Force one of the businesses to NOT have one of the required amenities
-        amenity_sets[-1][customer.amenity_features[0]] = False
-
         # Generate the businesses
         for i in range(len(menus)):
             # Break the insertion order of the menus dict
@@ -376,7 +335,7 @@ def main(features_dir: str, n_customers: int, output_dir: str) -> None:
                 rating=1.0,
                 progenitor_customer=customer.id,
                 menu_features=menus[i],
-                amenity_features=amenity_sets[i],
+                amenity_features={},
                 min_price_factor=round(random.uniform(0.6, 0.95), 2),
             )
             businesses.append(business)

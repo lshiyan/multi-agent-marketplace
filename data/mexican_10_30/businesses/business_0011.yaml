@@ -1,32 +1,24 @@
 id: business_0011
-name: Fire & Fresco
-description: Experience bold Mexican and Tex-Mex flavors in a fresh, modern setting.
-  From sizzling bowls to smoky, savory meats and vibrant salads, every dish is crafted
-  to excite your taste buds.
+name: "El Jard\xEDn de Sabores"
+description: A vibrant destination celebrating the bold and fresh flavors of Mexican
+  and Tex-Mex cuisine. Enjoy inventive small plates, colorful salads, and signature
+  drinks in a welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0004
 menu_features:
-  Smoky BBQ Carnitas: 13.89
-  Coconut Rice Pudding: 5.84
-  Ancho Chicken Burrito Bowl: 7.98
-  Shrimp Fajita Bowl: 14.16
-  Creamy Avocado Caesar Salad: 11.05
-  Tequila Lime Chicken Wings: 11.09
-  Sizzling Fajita Bowl: 10.3
-  Tres Leches Cake: 6.93
-  Smoky Chipotle Ribs: 17.84
-  Sizzling Veggie Quesadilla: 10.37
-  Shrimp Diablo Burritos: 12.83
-  Poblano & Cream Cheese Quesadilla: 12.04
-amenity_features:
-  Takes Reservations: false
-  Private Dining: false
-  Large Groups: true
-  Onsite Parking: true
-  Outdoor Seating: true
-  Children's Menu: false
-  Free Wifi: false
-  Live Music: true
-  Wheelchair Accessible: false
-  Happy Hour: false
-min_price_factor: 0.65
+  Spicy Shrimp Nacho Platter: 9.89
+  Spicy Black Bean Enchiladas: 9.4
+  Pineapple Pico de Gallo Nachos: 11.81
+  Salted Caramel Margarita: 10.21
+  Tequila Sunrise Smoothie: 8.53
+  Black Bean & Cheese Enchiladas: 11.03
+  Red Chili Chicken Pozole: 12.17
+  Loaded Sweet Potato Fries: 7.62
+  Crispy Tinga Chicken Tacos: 10.9
+  Three Cheese Sope: 9.19
+  Chili-Lime Cauliflower Bites: 8.54
+  Smoky BBQ Pork Tostadas: 10.88
+  Black Bean and Corn Fiesta Salad: 8.83
+  Stuffed Avocado Delight: 7.68
+amenity_features: {}
+min_price_factor: 0.6

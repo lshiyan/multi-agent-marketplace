@@ -1,33 +1,27 @@
 id: business_0025
-name: Casa Pimiento Rojo
-description: Experience bold Mexican and Tex-Mex flavors in a warm, inviting atmosphere.
-  From sizzling tacos to vibrant vegetarian creations, every dish celebrates fresh
-  ingredients and a passion for spice.
+name: Fiesta Flame
+description: Experience the vibrant flavors of modern Mexican and Tex-Mex cuisine
+  in a lively, welcoming atmosphere. From zesty starters to sizzling main courses
+  and creative drinks, every dish is crafted to ignite your taste buds.
 rating: 1.0
 progenitor_customer: customer_0009
 menu_features:
-  Vegetarian Stuffed Bell Peppers: 11.6
-  Nachos Supremo Platter: 12.73
-  Chipotle Black Bean Burger: 14.54
-  Creamy Queso Dip: 6.19
-  Smoky Chipotle Enchiladas: 12.97
-  Ancho Chili Chicken Wings: 6.19
-  Grilled Steak Fajita Tacos: 6.3
-  Chocolate and Cinnamon Flan: 8.59
-  Blueberry Jalapeno Lemonade: 6.17
-  Spice-Rubbed Ribeye: 22.74
-  Spicy Beef Chimichanga: 9.51
-  Chipotle Chicken Caesar Burrito: 14.39
-  Carnitas Salsa Verde Tacos: 11.03
-amenity_features:
-  Takes Reservations: false
-  Private Dining: false
-  Large Groups: true
-  Onsite Parking: true
-  Outdoor Seating: true
-  Children's Menu: false
-  Free Wifi: false
-  Live Music: true
-  Wheelchair Accessible: false
-  Happy Hour: false
-min_price_factor: 0.69
+  Roasted Poblano Queso Dip: 6.55
+  Chili-Lime Cauliflower Bites: 9.34
+  Chipotle Lime Chicken Salad: 10.43
+  Queso Fundido Supreme: 11.35
+  Horchata Latte: 5.03
+  Veggie Fajita Platter: 15.78
+  Passionfruit Paloma: 7.91
+  Queso Fundido with Chorizo: 9.01
+  Black Bean and Sweet Potato Empanadas: 10.09
+  Grilled Elote Corn: 5.09
+  Blueberry Hibiscus Margarita: 8.29
+  Tangy Tomato Salsa Soup: 7.85
+  Sizzling Chicken Fajitas: 15.18
+  Smoky Black Bean Tostadas: 7.5
+  Verde Chicken Enchiladas: 12.01
+  Cocoa Dusted Churro Bites: 5.39
+  Coconut Lime Margarita: 10.6
+amenity_features: {}
+min_price_factor: 0.87

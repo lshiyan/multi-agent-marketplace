@@ -1,10 +1,9 @@
 id: customer_0001
-name: Alexander Okoro
-request: Please help me find a business that offers a Pineapple Salsa Pork Burrito
-  and a Spicy Black Bean Quesadilla, and also has Happy Hour. I would like to place
-  an order once you locate a suitable establishment. Thank you!
+name: Benjamin Wilson
+request: "Could you please find a business or restaurant that offers both of the following\
+  \ menu items: 1 Cheesy Jalape\xF1o Queso Dip and 1 Carne Asada Nachos? I intend\
+  \ to place an order once you confirm these items are available. Thank you!"
 menu_features:
-  Pineapple Salsa Pork Burrito: 11.99
-  Spicy Black Bean Quesadilla: 9.99
-amenity_features:
-- Happy Hour
+  "Cheesy Jalape\xF1o Queso Dip": 7.99
+  Carne Asada Nachos: 12.49
+amenity_features: []

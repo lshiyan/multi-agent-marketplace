@@ -1,31 +1,26 @@
 id: business_0015
-name: Pueblo Palate
-description: Discover vibrant Mexican and Tex-Mex flavors in a warm and welcoming
-  setting. Indulge in creative cocktails, crave-worthy appetizers, and delicious desserts
-  crafted with a modern twist.
+name: Holy Queso!
+description: Dive into a playful twist on Mexican and Tex-Mex favorites, where queso
+  flows, street corn sizzles, and bold flavors meet creative flair. From crispy bites
+  to sweet finales, every dish is crafted for a fiesta in every bite.
 rating: 1.0
 progenitor_customer: customer_0005
 menu_features:
-  Churro Cinnamon Roll: 3.91
-  Coconut Flan: 9.86
-  Beef Barbacoa Nachos: 17.38
-  Classic Beef Empanadas: 10.94
-  Passionfruit Paloma: 12.05
-  Tequila Sunrise Slushie: 8.6
-  Pineapple Cilantro Margarita: 8.81
-  Vegetarian Stuffed Bell Peppers: 8.68
-  Roasted Poblano Queso Dip: 7.62
-  Sizzling Steak Quesadilla: 17.11
-  Chorizo Sweet Potato Tacos: 6.43
-amenity_features:
-  Takes Reservations: true
-  Private Dining: false
-  Large Groups: true
-  Onsite Parking: false
-  Outdoor Seating: false
-  Children's Menu: false
-  Free Wifi: false
-  Live Music: false
-  Wheelchair Accessible: true
-  Happy Hour: true
-min_price_factor: 0.73
+  Ancho Chili Braised Beef Enchiladas: 13.23
+  Street Corn Elote: 4.78
+  Black Bean & Corn Queso Dip: 6.78
+  Caramelized Onion and Goat Cheese Empanadas: 6.77
+  Roasted Pecan Flan: 6.15
+  Queso Fundido with Chorizo: 9.21
+  Spicy Black Bean Nacho Platter: 10.69
+  Crispy Avocado Bites: 9.63
+  Chipotle Chicken Enchiladas: 13.75
+  Strawberry Jalapeno Lemonade: 4.79
+  Roasted Pepper Queso Dip: 6.97
+  Blueberry Agave Agua Fresca: 6.18
+  Spicy Pineapple Salsa Dip: 5.68
+  Honey Lime Chicken Fajitas: 12.9
+  Chili Lime Street Corn: 5.61
+  Grilled Elote Corn: 2.79
+amenity_features: {}
+min_price_factor: 0.79

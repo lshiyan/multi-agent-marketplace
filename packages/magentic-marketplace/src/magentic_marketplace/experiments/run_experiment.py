@@ -102,6 +102,11 @@ async def run_marketplace_experiment(
             MarketplaceAgent(marketplace_launcher.server_url, search_algorithm = search_algorithm, search_bandwidth = search_bandwidth)
         ]
 
+        business_agents = [
+            BusinessAgent(business, marketplace_launcher.server_url)
+            for business in businesses
+        ]
+         
         customer_agents = [
             CustomerAgent(
                 customer,

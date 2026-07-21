@@ -1,13 +1,12 @@
 id: customer_0010
-name: James Turner
-request: 'Please assist me in finding a business that offers both ''Queso Fundido
-  with Chorizo'' (1) and ''Spicy Black Bean Quesadilla'' (1), and also ensures the
-  amenities: Wheelchair Accessible and Takes Reservations. It is important that these
-  conditions are met, as I intend to place an order with the business you find. Thank
-  you for your assistance.'
+name: Liam Turner
+request: 'I would like assistance in locating a business where I can place an order
+  for the following items: 1 Blue Corn Enchilada Bake, 1 Stuffed Chicken Poblano,
+  and 1 Horchata Iced Coffee. It is important that the business can fulfill this exact
+  order. Once identified, I intend to proceed with placing the order. Thank you for
+  your help.'
 menu_features:
-  Queso Fundido with Chorizo: 8.99
-  Spicy Black Bean Quesadilla: 9.99
-amenity_features:
-- Wheelchair Accessible
-- Takes Reservations
+  Blue Corn Enchilada Bake: 13.49
+  Stuffed Chicken Poblano: 13.49
+  Horchata Iced Coffee: 4.49
+amenity_features: []

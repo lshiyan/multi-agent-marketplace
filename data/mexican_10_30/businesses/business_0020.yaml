@@ -1,33 +1,25 @@
 id: business_0020
-name: Taco 'Bout Flavor
-description: Dive into a fiesta of bold flavors and fresh ingredients at Taco 'Bout
-  Flavor, where every bite is a celebration of Tex-Mex creativity. From smoky wings
-  to zesty margaritas, our menu brings a twist of fun to every meal.
+name: Pine & Spice Kitchen
+description: Bold flavors meet tropical inspiration at Pine & Spice Kitchen, where
+  fresh Mexican and Tex-Mex favorites are reimagined with vibrant produce, zesty salsas,
+  and exciting twists. Gather for a lively atmosphere and an unforgettable dining
+  experience crafted with creativity and care.
 rating: 1.0
 progenitor_customer: customer_0007
 menu_features:
-  Sizzling Beef Enchiladas: 7.39
-  Spicy Cucumber Margarita: 6.03
-  Avocado Lime Salad: 9.3
-  Jalapeno Cheese Dip: 6.83
-  Chorizo & Potato Tacos: 10.21
-  Grilled Lime Chicken Fajitas: 14.63
-  Mexican Chocolate Pudding: 6.17
-  Charred Veggie Tacos: 12.8
-  Honey Chipotle Glazed Wings: 8.77
-  Southwest Caesar Salad: 7.27
-  Roasted Red Pepper Queso: 6.85
-  Tequila Sunrise Spritzer: 6.54
-  Chipotle Lime Chicken Wings: 8.45
-amenity_features:
-  Takes Reservations: false
-  Private Dining: true
-  Large Groups: true
-  Onsite Parking: true
-  Outdoor Seating: true
-  Children's Menu: false
-  Free Wifi: false
-  Live Music: true
-  Wheelchair Accessible: false
-  Happy Hour: false
-min_price_factor: 0.75
+  Tropical Pineapple Salsa: 3.21
+  Beef Barbacoa Tostadas: 12.05
+  Cinnamon Churro Bites: 4.63
+  Pineapple Tequila Chicken Skewers: 13.36
+  Pineapple Habanero Sake: 6.79
+  Avocado Ranch Burrito Bowl: 14.27
+  Vanilla Almond Horchata: 3.74
+  Spicy Mango Margarita: 10.29
+  Chipotle Bourbon Carnitas: 14.49
+  Cactus Jack Quesadilla: 8.88
+  Grilled Pineapple Salmon: 19.28
+  Caramelized Plantain Empanadas: 7.48
+  Red Chili Braised Beef Brisket: 14.78
+  Tamale Trio Sampler: 10.98
+amenity_features: {}
+min_price_factor: 0.64

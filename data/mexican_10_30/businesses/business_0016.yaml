@@ -1,34 +1,22 @@
 id: business_0016
-name: La Vida Picante
-description: Experience bold flavors and warm hospitality at La Vida Picante, where
-  classic and creative Mexican dishes are served in a vibrant setting. Discover an
-  enticing selection of savory bites, zesty specialties, and sweet treats, perfect
-  for sharing and savoring.
+name: Cielo Rojo Cantina
+description: Experience vibrant Tex-Mex and Mexican flavors in a warm, inviting atmosphere.
+  Enjoy a menu filled with classic favorites, bold spices, and fresh seasonal ingredients.
 rating: 1.0
 progenitor_customer: customer_0006
 menu_features:
-  Salted Caramel Churros: 8.11
-  Spicy Bean and Cheese Nachos: 8.39
-  Ancho Chili Chicken Wings: 10.23
-  Poblano Corn Chowder: 6.6
-  Black Bean and Sweet Potato Empanadas: 11.45
-  Berry Sangria Punch: 7.36
-  Beef Fajita Burrito Bowl: 16.61
-  Three-Cheese Stuffed Poblano: 11.41
-  Sizzling Skillet Fajitas: 10.79
-  Pork Carnitas Torta: 16.43
-  Chili Lime Shrimp Enchiladas: 14.01
-  Black Bean Enchiladas: 2.71
-  Herb-Roasted Corn Salad: 9.77
-amenity_features:
-  Takes Reservations: false
-  Private Dining: false
-  Large Groups: false
-  Onsite Parking: true
-  Outdoor Seating: false
-  Children's Menu: true
-  Free Wifi: true
-  Live Music: false
-  Wheelchair Accessible: false
-  Happy Hour: false
-min_price_factor: 0.73
+  Smoky Chipotle BBQ Ribs: 18.41
+  Fresh Mango Salsa Nachos: 9.6
+  Cheesy Jalapeno Poppers: 7.22
+  Crispy Avocado Tostadas: 9.89
+  Vanilla Almond Horchata: 3.82
+  Hatch Green Chile Stew: 14.03
+  Midnight Mole Enchiladas: 16.07
+  Coconut Lime Paleta: 2.89
+  Black Bean Chili Bowl: 6.98
+  Spicy Chipotle Chicken Wings: 8.38
+  Chocolate Churro Bites: 6.38
+  Spicy Shrimp Ceviche: 10.97
+  Breakfast Burrito Supreme: 11.27
+amenity_features: {}
+min_price_factor: 0.92

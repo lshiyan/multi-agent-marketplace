@@ -20,20 +20,21 @@ class CustomerSendMessageResults:
 
 
 class AssistantTextMessageRequest(TextMessage):
-    """Request for sending a text message."""
+    """Request for sending a text message to the centralized marketplace."""
 
-    to_business_id: str = Field(
-        description="The id of the business this message should be sent to."
+    to_business_id: Literal["marketplace"] = Field(
+        default="marketplace",
+        description='Must always be "marketplace".',
     )
 
 
 class AssistantPayMessageRequest(Payment):
-    """Request for sending a payment message to accept an order proposal."""
+    """Request for accepting an order proposal."""
 
-    to_business_id: str = Field(
-        description="The id of the business this message should be sent to."
+    to_business_id: Literal["marketplace"] = Field(
+        default="marketplace",
+        description='Must always be "marketplace".',
     )
-
 
 class Messages(BaseModel):
     """Messages to be sent to services.

@@ -1,10 +1,10 @@
 id: customer_0005
-name: Hannah Scott
-request: Could you please find a business that serves one Tequila Sunrise Slushie
-  and offers free Wifi and wheelchair accessibility? These requirements are very important
-  to me, and I intend to place an order once such a business is found. Thank you.
+name: Lily Moore
+request: 'Could you please help me find a business that serves exactly the following
+  menu items: 1 Ancho Chili Braised Beef Enchiladas and 1 Honey Lime Chicken Fajitas?
+  It is very important that both items are available. Once you find such a business,
+  I intend to place an order for these items. Thank you for your assistance.'
 menu_features:
-  Tequila Sunrise Slushie: 7.99
-amenity_features:
-- Free Wifi
-- Wheelchair Accessible
+  Ancho Chili Braised Beef Enchiladas: 13.99
+  Honey Lime Chicken Fajitas: 14.99
+amenity_features: []

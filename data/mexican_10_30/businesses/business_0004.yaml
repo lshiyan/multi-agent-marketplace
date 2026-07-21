@@ -1,32 +1,24 @@
 id: business_0004
-name: Holy Chipotle!
-description: Where bold flavors and fresh twists on Mexican and Tex-Mex classics meet
-  in every bite. From sizzling empanadas to crisp salads and just-sweet-enough treats,
-  it's a vibrant fiesta for your taste buds.
+name: Mucho Ado About Salsa
+description: Bold, bright, and full of vibrant flavors, our kitchen puts a fresh twist
+  on Mexican and Tex-Mex classics. Enjoy a fiesta of inventive tacos, zesty bowls,
+  and crave-worthy shareables, all crafted with a playful spirit.
 rating: 1.0
 progenitor_customer: customer_0002
 menu_features:
-  Spicy Beef Empanadas: 7.6
-  Chorizo and Egg Tacos: 8.82
-  Caramelized Onion and Chorizo Empanadas: 9.82
-  Southwest Black Bean Quesadilla: 10.65
-  Grilled Shrimp and Mango Salad: 12.6
-  Black Bean Corn Salsa: 3.59
-  Honey-Lime Cucumber Salad: 8.41
-  Chocolate Dusted Churro Bites: 5.46
-  Smoky Chipotle Burger: 10.52
-  Crispy Cactus Fries: 7.14
-  Horchata Latte: 5.24
-  Smoky Chipotle Beef Empanadas: 10.01
-amenity_features:
-  Takes Reservations: true
-  Private Dining: true
-  Large Groups: true
-  Onsite Parking: false
-  Outdoor Seating: true
-  Children's Menu: false
-  Free Wifi: false
-  Live Music: false
-  Wheelchair Accessible: false
-  Happy Hour: true
-min_price_factor: 0.61
+  Chipotle Lime Cauliflower Tacos: 13.69
+  Vanilla Cinnamon Horchata: 2.77
+  Blue Corn Tortilla Soup: 8.3
+  Loaded Nacho Platter: 10.11
+  Honey Lime Chicken Fajitas: 15.38
+  Fajita Veggie Burrito Bowl: 13.45
+  Grilled Steak Quesadilla: 14.11
+  Street Corn Fritters: 7.26
+  Sweet and Spicy Chicken Tostadas: 9.81
+  Cactus Jack Quesadilla: 12.15
+  Spicy Beef Enchilada Bake: 10.77
+  Black Bean Avocado Enchiladas: 11.34
+  Street Corn Elote: 5.21
+  Pineapple Tequila Chicken Skewers: 17.31
+amenity_features: {}
+min_price_factor: 0.81

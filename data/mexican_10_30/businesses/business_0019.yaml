@@ -1,33 +1,26 @@
 id: business_0019
-name: Marg My Words
-description: Sip, savor, and spice things up at Marg My Words, where vibrant Mexican
-  and Tex-Mex flavors meet cool, creative margaritas. Our fresh, colorful fare and
-  inventive drinks will have you coming back for more.
+name: Poblano Palate
+description: Savor bold Mexican and Tex-Mex flavors made with fresh, vibrant ingredients.
+  From sizzling skillets to sweet treats, our menu offers a colorful twist on timeless
+  classics.
 rating: 1.0
 progenitor_customer: customer_0007
 menu_features:
-  Tequila Sunrise Spritzer: 10.21
-  Chipotle Lime Rice: 3.16
-  Crispy Chicken Tortilla Soup: 5.47
-  Horchata Almond Cake: 8.08
-  Frozen Raspberry Margarita: 8.23
-  Spicy Cucumber Margarita: 8.76
-  Spicy Grilled Pineapple Margarita: 5.96
-  Pico de Gallo Nachos: 8.74
-  Sweet Corn Tamale Bites: 7.76
-  Citrus Cilantro Rice Bowl: 10.32
-  Avocado Lime Salad: 3.62
-  Sizzling Cactus Wrap: 15.92
-  Tequila Lime Shrimp Skewers: 14.54
-amenity_features:
-  Takes Reservations: false
-  Private Dining: false
-  Large Groups: true
-  Onsite Parking: false
-  Outdoor Seating: true
-  Children's Menu: false
-  Free Wifi: true
-  Live Music: true
-  Wheelchair Accessible: false
-  Happy Hour: false
-min_price_factor: 0.64
+  Coconut Lime Tres Leches: 6.01
+  Gourmet Nacho Platter: 10.21
+  Mexican Hot Chocolate: 5.23
+  Roasted Poblano Veggie Skillet: 12.46
+  Blueberry Agave Margarita: 11.9
+  Verde Ranchero Huevos: 11.95
+  Tamale Trio Sampler: 12.6
+  Fresh Corn Elote: 4.12
+  Crispy Fish Street Tacos: 19.3
+  Sizzling Chicken Fajitas: 13.53
+  Loaded Sweet Potato Fries: 7.42
+  Avocado Ranch Burrito Bowl: 11.73
+  Verde Chicken Enchiladas: 9.57
+  Creamy Avocado Caesar Salad: 8.58
+  Three-Cheese Enchilada Stack: 13.36
+  Classic Tortilla Soup: 6.33
+amenity_features: {}
+min_price_factor: 0.83

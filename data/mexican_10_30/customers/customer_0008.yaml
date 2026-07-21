@@ -1,13 +1,11 @@
 id: customer_0008
-name: Noah Harris
-request: 'Could you please assist me in finding a restaurant that offers the following
-  menu items: 1 Beer-Battered Avocado Fries, 1 Tropical Lime Ceviche, and 1 Frozen
-  Mango Margarita? It is essential that the restaurant also takes reservations. Once
-  you identify such a place, I would like to place an order for these items. Thank
-  you!'
+name: Matthew Young
+request: 'Could you please assist me in finding a business that offers the following
+  menu items: 1 Horchata Iced Coffee, 1 Breakfast Chilaquiles Verde, and 1 Blue Corn
+  Enchilada Bake? It is important that the business has all these items available,
+  as I would like to place an order for exactly these items. Thank you for your help.'
 menu_features:
-  Beer-Battered Avocado Fries: 8.49
-  Tropical Lime Ceviche: 10.99
-  Frozen Mango Margarita: 9.99
-amenity_features:
-- Takes Reservations
+  Horchata Iced Coffee: 4.49
+  Breakfast Chilaquiles Verde: 9.99
+  Blue Corn Enchilada Bake: 13.49
+amenity_features: []

@@ -1,31 +1,25 @@
 id: business_0012
-name: Kernel of Truth
-description: Dive into bold Tex-Mex flavors where fresh corn, zesty salsas, and succulent
-  meats meet a creative culinary twist. Our vibrant menu reimagines classics with
-  a modern, mouthwatering flair.
+name: Carnival del Sabor
+description: Step right up for a vibrant fusion of Mexican and Tex-Mex flavors, where
+  every dish is a celebration of fresh ingredients and bold spices. Indulge in inventive
+  takes on classic favorites, from savory stews and skewers to irresistible desserts.
 rating: 1.0
 progenitor_customer: customer_0004
 menu_features:
-  Chipotle Lime Grilled Corn: 6.86
-  Chipotle Chicken Queso: 11.3
-  Watermelon Agua Fresca: 4.8
-  Creamy Avocado Caesar Salad: 8.27
-  Spicy Pulled Pork Burrito: 15.25
-  Cactus and Black Bean Salad: 9.38
-  Zesty Lime Chicken Salad: 9.79
-  Black Bean and Corn Enchiladas: 13.99
-  Smoky Chipotle Burrito: 11.81
-  Chicken Tinga Tostadas: 10.19
-  Creamy Avocado Smoothie: 8.73
-amenity_features:
-  Takes Reservations: false
-  Private Dining: false
-  Large Groups: false
-  Onsite Parking: false
-  Outdoor Seating: false
-  Children's Menu: false
-  Free Wifi: true
-  Live Music: false
-  Wheelchair Accessible: true
-  Happy Hour: false
-min_price_factor: 0.68
+  Chipotle Lime Shrimp Skewers: 12.92
+  Tamale Pie Casserole: 13.52
+  Green Chile Pork Stew: 15.37
+  Crispy Tinga Chicken Tacos: 7.92
+  Honey Lime Grilled Corn: 5.17
+  Carne Asada Fajitas: 17.1
+  Coconut Lime Flan: 5.73
+  Tamarind Glazed Wings: 15.44
+  Sweet Corn Tamales: 8.95
+  Choco Flan Combo: 6.89
+  Cactus Flower Iced Tea: 4.14
+  Fresh Lime Cilantro Rice: 2.82
+  Mexican Coffee Flan: 5.7
+  Red Chili Chicken Pozole: 13.38
+  Creamy Chipotle Pasta: 8.83
+amenity_features: {}
+min_price_factor: 0.62

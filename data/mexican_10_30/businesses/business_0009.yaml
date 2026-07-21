@@ -1,34 +1,25 @@
 id: business_0009
-name: Zest & Sizzle
-description: Experience the vibrant flavors of modern Mexican and Tex-Mex cuisine,
-  brought to life with creative twists and fresh ingredients. From bold tacos to irresistible
-  desserts, every dish is crafted to excite your taste buds.
+name: Taco 'Bout a Fiesta
+description: Step into a lively kitchen where every dish bursts with fresh flavors,
+  zesty salsas, and a playful twist on Mexican and Tex-Mex classics. Whether you're
+  craving tacos, sizzling fajitas, or a sweet churro treat, come join the fiesta!
 rating: 1.0
 progenitor_customer: customer_0003
 menu_features:
-  Breakfast Chorizo Tacos: 7.1
-  Beef Barbacoa Empanadas: 12.17
-  Chocolate Dipped Flan: 5.83
-  Dulce de Leche Flan: 3.71
-  Zesty Shrimp Ceviche: 10.53
-  Al Pastor Pork Tacos: 10.39
-  Blackened Shrimp Fajitas: 19.9
-  Beef Enchilada Platter: 10.96
-  Smoky Lime Guacamole: 11.54
-  Street Style Beef Tacos: 12.39
-  Avocado Cilantro Smoothie: 6.46
-  Sizzling Fajita Salad: 15.05
-  Horchata Iced Coffee: 3.47
-  Peach Habanero Salsa Wings: 16.49
-amenity_features:
-  Takes Reservations: false
-  Private Dining: false
-  Large Groups: false
-  Onsite Parking: false
-  Outdoor Seating: false
-  Children's Menu: false
-  Free Wifi: true
-  Live Music: false
-  Wheelchair Accessible: false
-  Happy Hour: true
-min_price_factor: 0.85
+  Cilantro Lime Chicken Tacos: 11.47
+  Fresh Lime and Cilantro Guacamole: 9.59
+  Cinnamon Sugar Churros: 5.96
+  Al Pastor Pork Tacos: 12.75
+  Pineapple Jalapeno Salsa: 4.92
+  Hatch Chile Queso Dip: 8.27
+  Spice-Rubbed Grilled Fajitas: 14.56
+  Blueberry Agave Margarita: 8.04
+  Smoky Lime Quinoa Salad: 12.15
+  Creamy Poblano Corn Chowder: 8.1
+  Fire Roasted Salsa Sampler: 6.02
+  Frozen Strawberry Daiquiri: 5.98
+  Pico Avocado Toast: 7.66
+  Mango Jalapeno Slush: 5.44
+  Sizzling Chicken Fajitas: 17.6
+amenity_features: {}
+min_price_factor: 0.65

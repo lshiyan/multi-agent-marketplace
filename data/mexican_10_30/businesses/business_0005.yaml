@@ -1,31 +1,26 @@
 id: business_0005
-name: Empanada Palooza
-description: Dive into a fiesta of bold flavors and zesty creations inspired by the
-  heart of Mexico and Tex-Mex traditions. From crisp hand-held bites to savory classics
-  with a twist, we serve up mouthwatering goodness for every appetite.
+name: Casa Dorada Mexicana
+description: Casa Dorada Mexicana celebrates vibrant Mexican and Tex-Mex flavors with
+  a modern twist. Join us for a fresh take on traditional street-inspired favorites
+  and distinctive house specialties in a welcoming, lively atmosphere.
 rating: 1.0
 progenitor_customer: customer_0002
 menu_features:
-  Flaky Beef Empanadas: 11.29
-  Avocado Cilantro Dip: 4.06
-  Stuffed Poblano Peppers: 10.17
-  Breakfast Chilaquiles: 6.49
-  Caramelized Onion & Cheese Quesadilla: 9.39
-  Crispy Chicken Enchiladas: 12.46
-  Smoky Chipotle Burger: 16.16
-  Smoky Beef Enchiladas: 15.08
-  Passion Fruit Mojito Twist: 4.73
-  Tequila Sunrise Chicken Wings: 14.31
-  Grilled Lime Chicken Tacos: 10.51
-amenity_features:
-  Takes Reservations: true
-  Private Dining: false
-  Large Groups: true
-  Onsite Parking: true
-  Outdoor Seating: false
-  Children's Menu: true
-  Free Wifi: false
-  Live Music: false
-  Wheelchair Accessible: true
-  Happy Hour: true
-min_price_factor: 0.81
+  Shrimp Ceviche Bowl: 12.3
+  Avocado Street Tacos: 9.04
+  Ranchero Eggs Benedict: 10.09
+  Mexican Coffee Flan: 5.83
+  Honey Lime Chicken Fajitas: 16.43
+  Smoky Mezcal Mule: 10.29
+  Classic Flan Delight: 7.21
+  Street Corn Fritters: 6.69
+  Street Corn Elote: 6.21
+  Tropical Coconut Margarita: 8.11
+  Roasted Corn Elote: 4.47
+  Housemade Horchata: 3.51
+  Vanilla Cinnamon Horchata: 2.83
+  Bacon Wrapped Jalapeno Bites: 6.04
+  Poblano Pepper Queso Dip: 7.94
+  Jalapeno Cheddar Cornbread: 5.7
+amenity_features: {}
+min_price_factor: 0.69

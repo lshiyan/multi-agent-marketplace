@@ -1,37 +1,25 @@
 id: business_0002
-name: Pepper & Palate
-description: Pepper & Palate serves up vibrant Mexican and Tex-Mex flavors, featuring
-  an enticing mix of classic and creative dishes. From zesty appetizers to delectable
-  desserts, every bite is a fiesta of taste and tradition.
+name: La Cocina Alegre
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  inviting setting. La Cocina Alegre serves up bold dishes and creative cocktails
+  inspired by tradition, perfect for gathering with friends and family.
 rating: 1.0
 progenitor_customer: customer_0001
 menu_features:
-  Fresh Tomato Salsa Nachos: 9.15
-  Mexican Chocolate Tres Leches: 6.69
-  Chocolate Dusted Flan: 7.42
-  Raspberry Chipotle Margarita: 9.45
-  Pineapple Salsa Pork Burrito: 10.77
-  Black Bean and Corn Soup: 7.91
-  Honey Chipotle Grilled Chicken: 16.52
-  Fresh Cactus Salad: 12.04
-  Roasted Red Pepper Queso: 7.14
-  Roasted Poblano Queso Dip: 6.65
-  Ancho Chili Chicken Wings: 9.17
-  Chocolate Dipped Churros: 7.21
-  Chili Lime Chicken Quesadilla: 7.49
-  Classic Lime Margarita: 6.04
-  Spicy Black Bean Quesadilla: 10.75
-  Sweet Lime Agua Fresca: 3.74
-  Chipotle Beef Quesadilla: 6.66
-amenity_features:
-  Takes Reservations: false
-  Private Dining: false
-  Large Groups: true
-  Onsite Parking: false
-  Outdoor Seating: false
-  Children's Menu: false
-  Free Wifi: true
-  Live Music: false
-  Wheelchair Accessible: true
-  Happy Hour: true
-min_price_factor: 0.78
+  Tamarind Citrus Margarita: 10.44
+  "Cheesy Jalape\xF1o Queso Dip": 6.71
+  Adobo Pork Sliders: 9.95
+  Tamale Trio Sampler: 13.21
+  Flan with Caramel Drizzle: 4.18
+  Carne Asada Nachos: 12.46
+  Passion Fruit Mojito: 9.19
+  Spiked Horchata Cooler: 7.0
+  Grilled Chipotle Chicken Burrito: 9.25
+  Peppered Steak Nachos: 12.08
+  Pork Carnitas Platter: 10.16
+  Chili Lime Skirt Steak: 17.6
+  Pico de Gallo Chicken Salad: 10.69
+  Loaded Street Corn: 6.83
+  Twice-Baked Sweet Potato: 6.88
+amenity_features: {}
+min_price_factor: 0.86

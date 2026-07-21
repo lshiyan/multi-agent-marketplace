@@ -1,32 +1,24 @@
 id: business_0018
-name: Corny Concoctions
-description: Dive into a flavorful adventure where vibrant Mexican and Tex-Mex classics
-  meet a creative twist. From spicy starters to sweet treats, our eclectic menu is
-  sure to delight every palate.
+name: Mint & Masa
+description: Blending bold Mexican flavors with a fresh, modern twist, Mint & Masa
+  serves up vibrant classics alongside creative cocktails. Enjoy a colorful journey
+  of taste, from zesty street favorites to rich, comforting plates.
 rating: 1.0
 progenitor_customer: customer_0006
 menu_features:
-  Churro Cinnamon Roll: 4.89
-  Tres Amigos Sampler Platter: 12.94
-  Avocado Toast with Pico: 11.69
-  Herb-Roasted Corn Salad: 9.48
-  Ancho Chicken Enchiladas: 19.52
-  Honey Lime Grilled Salmon: 7.87
-  Hibiscus Iced Tea: 2.56
-  Habanero Hot Wings: 12.09
-  Slow-Cooked Barbacoa Enchiladas: 9.93
-  Cheesy Street Corn Bites: 9.52
-  Zesty Chicken Tortilla Soup: 6.4
-  Hatch Green Chile Burger: 14.28
-amenity_features:
-  Takes Reservations: true
-  Private Dining: false
-  Large Groups: false
-  Onsite Parking: true
-  Outdoor Seating: false
-  Children's Menu: false
-  Free Wifi: false
-  Live Music: false
-  Wheelchair Accessible: false
-  Happy Hour: false
-min_price_factor: 0.85
+  Classic Mojito with Mint: 8.29
+  Sweet Plantain Empanadas: 7.62
+  Chili Lime Margarita: 9.43
+  Coffee Cinnamon Mexican Mocha: 5.82
+  Mexican Street Corn Dip: 10.98
+  Margarita Lime Cheesecake: 6.98
+  Creamy Avocado Soup: 7.42
+  Baja Fish Taco Plate: 15.95
+  Sea Breeze Ceviche: 13.66
+  Street Corn Elote: 6.08
+  Citrus Cilantro Rice: 5.56
+  Chipotle Chicken Burrito Bowl: 15.85
+  Street Corn Quesadilla: 10.95
+  Midnight Mole Enchiladas: 10.52
+amenity_features: {}
+min_price_factor: 0.84

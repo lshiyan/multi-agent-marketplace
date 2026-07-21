@@ -1,11 +1,9 @@
 id: customer_0002
-name: Elijah Carter
-request: Could you please help me find a business that serves a Smoky Chipotle Burger
-  (1) and has the amenities to take reservations and accommodate large groups? It's
-  very important that all these requirements are met, as I intend to place an order.
-  Thank you!
+name: Daniel Perez
+request: Could you please help me find a business that offers both Honey Lime Chicken
+  Fajitas and Vanilla Cinnamon Horchata? I need one of each and intend to place an
+  order as soon as possible if these specific items are available. Thank you!
 menu_features:
-  Smoky Chipotle Burger: 12.99
-amenity_features:
-- Takes Reservations
-- Large Groups
+  Honey Lime Chicken Fajitas: 14.99
+  Vanilla Cinnamon Horchata: 3.49
+amenity_features: []
