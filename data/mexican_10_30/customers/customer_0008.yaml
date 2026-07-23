@@ -1,11 +1,11 @@
 id: customer_0008
-name: Matthew Young
-request: 'Could you please assist me in finding a business that offers the following
-  menu items: 1 Horchata Iced Coffee, 1 Breakfast Chilaquiles Verde, and 1 Blue Corn
-  Enchilada Bake? It is important that the business has all these items available,
-  as I would like to place an order for exactly these items. Thank you for your help.'
+name: Maria Garcia
+request: 'Could you please find a business that offers and can serve the following
+  specific menu items: 1 Beef Enchiladas Verdes, 1 Passionfruit Paloma, and 1 Smoky
+  Black Bean Soup? It is very important that the business can provide all of these
+  items as I intend to place an order with them. Thank you for your assistance!'
 menu_features:
-  Horchata Iced Coffee: 4.49
-  Breakfast Chilaquiles Verde: 9.99
-  Blue Corn Enchilada Bake: 13.49
+  Beef Enchiladas Verdes: 12.99
+  Passionfruit Paloma: 8.49
+  Smoky Black Bean Soup: 6.99
 amenity_features: []

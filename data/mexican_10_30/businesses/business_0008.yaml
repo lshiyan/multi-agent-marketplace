@@ -1,26 +1,37 @@
 id: business_0008
-name: Viva Verde Kitchen
-description: Experience fresh, vibrant flavors inspired by Mexican and Tex-Mex traditions
-  in a lively, modern setting. From tropical cocktails to creative tacos and colorful
-  salads, every dish is crafted with bold, seasonal ingredients.
+name: Lime & Leaf
+description: Lime & Leaf celebrates vibrant Mexican and Tex-Mex flavors in a relaxed,
+  inviting setting. Enjoy fresh margaritas, zesty tacos, savory classics, and unique
+  vegetarian offerings crafted with regional ingredients.
 rating: 1.0
 progenitor_customer: customer_0003
 menu_features:
-  Tropical Coconut Margarita: 9.74
-  Veggie Fajita Platter: 13.23
-  Roasted Poblano Queso Dip: 7.38
-  Citrus Marinated Carne Asada: 15.94
-  Grilled Steak Quesadilla: 12.19
-  Pineapple Tequila Chicken Skewers: 16.05
-  Cilantro Lime Rice Bowl: 12.18
-  Crispy Avocado Tostadas: 9.69
-  Cheesy Jalapeno Queso: 8.9
-  Spicy Zucchini Tostadas: 8.71
-  Honey Lime Grilled Fajitas: 14.85
-  Baja Fish Taco Plate: 16.48
-  Roasted Corn and Avocado Salad: 8.5
-  Chorizo Breakfast Tacos: 10.67
-  Paloma Breeze Cocktail: 10.55
-  Smoky Lime Quinoa Salad: 11.42
+  Beef Enchiladas Verdes: 12.73
+  Classic Flan Delight: 6.53
+  Agave Lime Margarita: 8.64
+  Tequila Lime Shrimp Skewers: 15.17
+  Crispy Avocado and Lime Tacos: 11.1
+  Tamarind-Glazed Ribs: 14.06
+  Smoky Lime Quinoa Salad: 12.98
+  Red Chili Chicken Pozole: 11.41
+  Smoky Chipotle BBQ Ribs: 15.19
+  Hatch Green Chile Quesadilla: 12.59
+  Cactus Flower Iced Tea: 4.34
+  Blueberry Mint Agua Fresca: 3.78
+  Vegetarian Tamale Platter: 13.87
 amenity_features: {}
-min_price_factor: 0.76
+min_price_factor: 0.67
+minimum_menu_prices:
+  Beef Enchiladas Verdes: 8.53
+  Classic Flan Delight: 4.38
+  Agave Lime Margarita: 5.79
+  Tequila Lime Shrimp Skewers: 10.16
+  Crispy Avocado and Lime Tacos: 7.44
+  Tamarind-Glazed Ribs: 9.42
+  Smoky Lime Quinoa Salad: 8.7
+  Red Chili Chicken Pozole: 7.64
+  Smoky Chipotle BBQ Ribs: 10.18
+  Hatch Green Chile Quesadilla: 8.44
+  Cactus Flower Iced Tea: 2.91
+  Blueberry Mint Agua Fresca: 2.53
+  Vegetarian Tamale Platter: 9.29

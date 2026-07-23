@@ -1,27 +1,41 @@
 id: business_0006
-name: Pepper & Pecan
-description: Pepper & Pecan brings together bold Mexican and Tex-Mex flavors with
-  vibrant, creative twists. Enjoy a colorful menu of comforting classics and contemporary
-  specialties, perfect for any occasion.
+name: Tamale Terrace
+description: Experience vibrant Mexican and Tex-Mex flavors in a cozy, welcoming setting.
+  From zesty vegetarian delights to indulgent desserts, every dish is crafted with
+  a modern, fresh twist.
 rating: 1.0
 progenitor_customer: customer_0002
 menu_features:
-  Tamarind Citrus Margarita: 9.38
-  Vanilla Flan with Caramel Sauce: 5.89
-  Hatch Green Chile Rice: 5.69
-  Spiced Chocolate Tres Leches: 6.87
-  Chipotle Lime Cauliflower Tacos: 10.84
-  Tamarind Spiced Agua Fresca: 3.68
-  Pico Avocado Toast: 6.98
-  Three-Cheese Queso Dip: 7.72
-  Stuffed Avocado Boats: 9.11
-  Cinnamon Sugar Sopapillas: 5.6
-  Black Bean Stuffed Bell Peppers: 10.87
-  Creamy Poblano Corn Chowder: 8.02
-  Honey Lime Chicken Fajitas: 16.9
-  Sweet Chili Lime Elote: 4.65
-  Smoky Black Bean Nachos: 10.99
-  Vanilla Cinnamon Horchata: 3.4
-  Roasted Pecan Flan: 6.49
+  Vegetarian Tamale Platter: 10.47
+  Refreshing Agua Fresca Trio: 9.14
+  Chocolate Sopapilla Bites: 5.82
+  Spiced Pumpkin Empanadas: 4.39
+  Hibiscus Agua Fresca: 3.47
+  Breakfast Burrito Bowl: 8.53
+  Spicy Chipotle Chicken Wings: 8.45
+  Mexican Spiced Chocolate Cake: 6.95
+  Spicy Black Bean Enchiladas: 12.62
+  Chocolate Dipped Flan: 5.35
+  Fresh Lime Cilantro Rice: 2.98
+  Tamale Trio Sampler: 11.62
+  Black Bean Avocado Enchiladas: 10.13
+  Three-Cheese Enchilada Stack: 14.03
+  Spicy Beef Empanadas: 10.06
 amenity_features: {}
-min_price_factor: 0.93
+min_price_factor: 0.76
+minimum_menu_prices:
+  Vegetarian Tamale Platter: 7.96
+  Refreshing Agua Fresca Trio: 6.95
+  Chocolate Sopapilla Bites: 4.42
+  Spiced Pumpkin Empanadas: 3.34
+  Hibiscus Agua Fresca: 2.64
+  Breakfast Burrito Bowl: 6.48
+  Spicy Chipotle Chicken Wings: 6.42
+  Mexican Spiced Chocolate Cake: 5.28
+  Spicy Black Bean Enchiladas: 9.59
+  Chocolate Dipped Flan: 4.07
+  Fresh Lime Cilantro Rice: 2.26
+  Tamale Trio Sampler: 8.83
+  Black Bean Avocado Enchiladas: 7.7
+  Three-Cheese Enchilada Stack: 10.66
+  Spicy Beef Empanadas: 7.65

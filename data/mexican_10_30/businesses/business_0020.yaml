@@ -1,25 +1,45 @@
 id: business_0020
-name: Pine & Spice Kitchen
-description: Bold flavors meet tropical inspiration at Pine & Spice Kitchen, where
-  fresh Mexican and Tex-Mex favorites are reimagined with vibrant produce, zesty salsas,
-  and exciting twists. Gather for a lively atmosphere and an unforgettable dining
-  experience crafted with creativity and care.
+name: El Rancho Alegre
+description: Experience vibrant Mexican and Tex-Mex flavors crafted with fresh ingredients
+  and a creative twist. From savory street eats to refreshing agua frescas, El Rancho
+  Alegre brings festive flair and authentic taste to every meal.
 rating: 1.0
 progenitor_customer: customer_0007
 menu_features:
-  Tropical Pineapple Salsa: 3.21
-  Beef Barbacoa Tostadas: 12.05
-  Cinnamon Churro Bites: 4.63
-  Pineapple Tequila Chicken Skewers: 13.36
-  Pineapple Habanero Sake: 6.79
-  Avocado Ranch Burrito Bowl: 14.27
-  Vanilla Almond Horchata: 3.74
-  Spicy Mango Margarita: 10.29
-  Chipotle Bourbon Carnitas: 14.49
-  Cactus Jack Quesadilla: 8.88
-  Grilled Pineapple Salmon: 19.28
-  Caramelized Plantain Empanadas: 7.48
-  Red Chili Braised Beef Brisket: 14.78
-  Tamale Trio Sampler: 10.98
+  Black Bean and Corn Salsa: 4.98
+  Mexican Street Corn Dip: 10.29
+  Crispy Avocado Burrito: 12.17
+  Roasted Corn Elote: 3.58
+  Mango Habanero Salsa: 5.55
+  Grilled Pineapple & Shrimp Quesadillas: 12.59
+  Hibiscus Agua Fresca: 3.64
+  Smoky Chipotle BBQ Nachos: 9.14
+  Caramel Corn Flan: 8.55
+  Sizzling Carne Asada: 17.49
+  Caramel Apple Empanadas: 4.65
+  Passion Fruit Agua Fresca: 3.48
+  Spicy Beef Empanadas: 10.4
+  Blueberry Jalapeno Margarita: 11.37
+  "Cheesy Jalape\xF1o Quesadillas": 10.56
+  Spicy Avocado Burger: 10.57
+  Avocado Lime Grilled Shrimp: 14.15
 amenity_features: {}
 min_price_factor: 0.64
+minimum_menu_prices:
+  Black Bean and Corn Salsa: 3.19
+  Mexican Street Corn Dip: 6.59
+  Crispy Avocado Burrito: 7.79
+  Roasted Corn Elote: 2.29
+  Mango Habanero Salsa: 3.55
+  Grilled Pineapple & Shrimp Quesadillas: 8.06
+  Hibiscus Agua Fresca: 2.33
+  Smoky Chipotle BBQ Nachos: 5.85
+  Caramel Corn Flan: 5.47
+  Sizzling Carne Asada: 11.19
+  Caramel Apple Empanadas: 2.98
+  Passion Fruit Agua Fresca: 2.23
+  Spicy Beef Empanadas: 6.66
+  Blueberry Jalapeno Margarita: 7.28
+  "Cheesy Jalape\xF1o Quesadillas": 6.76
+  Spicy Avocado Burger: 6.76
+  Avocado Lime Grilled Shrimp: 9.06

@@ -1,25 +1,41 @@
 id: business_0012
-name: Carnival del Sabor
-description: Step right up for a vibrant fusion of Mexican and Tex-Mex flavors, where
-  every dish is a celebration of fresh ingredients and bold spices. Indulge in inventive
-  takes on classic favorites, from savory stews and skewers to irresistible desserts.
+name: La Mesa Dorada
+description: Experience vibrant Mexican and Tex-Mex flavors at La Mesa Dorada, where
+  every dish is crafted with fresh ingredients and bold spices. Gather around our
+  golden table for a memorable meal inspired by classic and modern culinary traditions.
 rating: 1.0
 progenitor_customer: customer_0004
 menu_features:
-  Chipotle Lime Shrimp Skewers: 12.92
-  Tamale Pie Casserole: 13.52
-  Green Chile Pork Stew: 15.37
-  Crispy Tinga Chicken Tacos: 7.92
-  Honey Lime Grilled Corn: 5.17
-  Carne Asada Fajitas: 17.1
-  Coconut Lime Flan: 5.73
-  Tamarind Glazed Wings: 15.44
-  Sweet Corn Tamales: 8.95
-  Choco Flan Combo: 6.89
-  Cactus Flower Iced Tea: 4.14
-  Fresh Lime Cilantro Rice: 2.82
-  Mexican Coffee Flan: 5.7
-  Red Chili Chicken Pozole: 13.38
-  Creamy Chipotle Pasta: 8.83
+  Sizzling Fajita Plate: 15.38
+  Roasted Poblano Corn Chowder: 8.47
+  Avocado Lime Empanadas: 9.04
+  Savory Chorizo Street Tacos: 10.3
+  Blue Corn Tortilla Soup: 7.55
+  Crispy Avocado Bites: 8.33
+  Creamy Jalapeno Corn Fritters: 7.6
+  Warm Cinnamon Churros: 5.65
+  Breakfast Tostada Stack: 9.74
+  Chili-Lime Cauliflower Bites: 7.71
+  Sweet Corn Tamale Bites: 5.91
+  Street Style Quesadillas: 11.83
+  Breakfast Burrito Supreme: 8.32
+  Mango Agua Fresca: 3.55
+  Pineapple Chipotle Pork: 14.67
 amenity_features: {}
-min_price_factor: 0.62
+min_price_factor: 0.93
+minimum_menu_prices:
+  Sizzling Fajita Plate: 14.3
+  Roasted Poblano Corn Chowder: 7.88
+  Avocado Lime Empanadas: 8.41
+  Savory Chorizo Street Tacos: 9.58
+  Blue Corn Tortilla Soup: 7.02
+  Crispy Avocado Bites: 7.75
+  Creamy Jalapeno Corn Fritters: 7.07
+  Warm Cinnamon Churros: 5.25
+  Breakfast Tostada Stack: 9.06
+  Chili-Lime Cauliflower Bites: 7.17
+  Sweet Corn Tamale Bites: 5.5
+  Street Style Quesadillas: 11.0
+  Breakfast Burrito Supreme: 7.74
+  Mango Agua Fresca: 3.3
+  Pineapple Chipotle Pork: 13.64

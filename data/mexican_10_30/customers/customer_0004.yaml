@@ -1,8 +1,8 @@
 id: customer_0004
-name: Joshua Lee
-request: Could you please find a business that offers 'Crispy Tinga Chicken Tacos'
-  and assist me in placing an order for 1 of them? This menu item is important to
-  me, and I intend to purchase it. Thank you.
+name: James Robinson
+request: Could you please assist me in finding a business that offers a 'Sizzling
+  Fajita Plate'? I would like to place an order for 1 Sizzling Fajita Plate. Thank
+  you!
 menu_features:
-  Crispy Tinga Chicken Tacos: 9.49
+  Sizzling Fajita Plate: 14.99
 amenity_features: []

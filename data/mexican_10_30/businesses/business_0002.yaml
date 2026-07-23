@@ -1,25 +1,41 @@
 id: business_0002
-name: La Cocina Alegre
-description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
-  inviting setting. La Cocina Alegre serves up bold dishes and creative cocktails
-  inspired by tradition, perfect for gathering with friends and family.
+name: Casa de Sabor Mexicano
+description: Enjoy a vibrant journey through modern Mexican and Tex-Mex flavors at
+  Casa de Sabor Mexicano. Our kitchen celebrates fresh ingredients and timeless traditions
+  in every colorful, zesty dish.
 rating: 1.0
 progenitor_customer: customer_0001
 menu_features:
-  Tamarind Citrus Margarita: 10.44
-  "Cheesy Jalape\xF1o Queso Dip": 6.71
-  Adobo Pork Sliders: 9.95
-  Tamale Trio Sampler: 13.21
-  Flan with Caramel Drizzle: 4.18
-  Carne Asada Nachos: 12.46
-  Passion Fruit Mojito: 9.19
-  Spiked Horchata Cooler: 7.0
-  Grilled Chipotle Chicken Burrito: 9.25
-  Peppered Steak Nachos: 12.08
-  Pork Carnitas Platter: 10.16
-  Chili Lime Skirt Steak: 17.6
-  Pico de Gallo Chicken Salad: 10.69
-  Loaded Street Corn: 6.83
-  Twice-Baked Sweet Potato: 6.88
+  Molten Queso Fundido: 7.09
+  Zesty Lime Shrimp Tostadas: 8.86
+  Margarita Lime Pie: 6.07
+  Chili Lime Street Corn: 5.9
+  Coconut Flan Delight: 6.94
+  Smoky BBQ Pork Tostadas: 7.48
+  Chipotle Bourbon Carnitas: 12.84
+  Black Bean Stuffed Sweet Potatoes: 10.05
+  Tex-Mex Fajita Wrap: 11.18
+  Three Cheese Sope: 9.6
+  Southwestern Quinoa Salad: 10.15
+  Spiked Horchata Cooler: 7.62
+  Grilled Steak Quesadilla: 12.73
+  Tropical Pineapple Salsa: 3.83
+  Chili Lime Shrimp Skewers: 12.88
 amenity_features: {}
-min_price_factor: 0.86
+min_price_factor: 0.88
+minimum_menu_prices:
+  Molten Queso Fundido: 6.24
+  Zesty Lime Shrimp Tostadas: 7.8
+  Margarita Lime Pie: 5.34
+  Chili Lime Street Corn: 5.19
+  Coconut Flan Delight: 6.11
+  Smoky BBQ Pork Tostadas: 6.58
+  Chipotle Bourbon Carnitas: 11.3
+  Black Bean Stuffed Sweet Potatoes: 8.84
+  Tex-Mex Fajita Wrap: 9.84
+  Three Cheese Sope: 8.45
+  Southwestern Quinoa Salad: 8.93
+  Spiked Horchata Cooler: 6.71
+  Grilled Steak Quesadilla: 11.2
+  Tropical Pineapple Salsa: 3.37
+  Chili Lime Shrimp Skewers: 11.33

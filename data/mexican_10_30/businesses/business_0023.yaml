@@ -1,24 +1,45 @@
 id: business_0023
-name: Casa Azul Cocina
-description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
-  inviting setting. From refreshing drinks to classic enchiladas and savory grilled
-  dishes, Casa Azul Cocina celebrates tradition with a modern twist.
+name: Pepper & Paloma
+description: A vibrant destination for fresh, flavorful Mexican and Tex-Mex cuisine,
+  blending traditional favorites with inventive twists. Enjoy lively bites, bold spices,
+  and refreshing drinks in a welcoming, spirited setting.
 rating: 1.0
 progenitor_customer: customer_0008
 menu_features:
-  Horchata Iced Coffee: 3.99
-  Mexican Coffee Flan: 5.33
-  Minty Mojito Refresher: 7.63
-  Chili Lime Margarita: 7.73
-  Blue Corn Enchilada Bake: 12.94
-  Roasted Poblano Rellenos: 8.83
-  Breakfast Chilaquiles Verde: 10.25
-  Smoky Chipotle Steak Fajitas: 12.6
-  Hatch Chile Queso Dip: 7.25
-  Pomegranate Agua Fresca: 3.61
-  Classic Beef Barbacoa: 14.45
-  Verde Chicken Enchiladas: 12.2
-  Sunset Grilled Veggie Tacos: 12.04
-  Tropical Coconut Margarita: 9.95
+  Passionfruit Paloma: 7.81
+  Pico de Gallo Chicken Salad: 8.38
+  Beef Enchiladas Verdes: 13.52
+  Stuffed Avocado Delight: 5.94
+  Loaded Nacho Platter: 9.82
+  Braised Beef Barbacoa Tacos: 15.81
+  Crispy Avocado Wedges: 6.9
+  Breakfast Chilaquiles Verde: 9.64
+  Pineapple Jalapeno Sangria: 7.71
+  Smoky Black Bean Soup: 7.21
+  Classic Tortilla Soup: 5.24
+  Chili Chocolate Lava Cake: 7.2
+  Cilantro Lime Shrimp Skewers: 8.11
+  Queso Fundido Supreme: 8.52
+  Cheesy Jalapeno Poppers: 7.34
+  Roasted Poblano Corn Chowder: 5.99
+  Black Bean Breakfast Burrito: 7.75
 amenity_features: {}
-min_price_factor: 0.74
+min_price_factor: 0.91
+minimum_menu_prices:
+  Passionfruit Paloma: 7.11
+  Pico de Gallo Chicken Salad: 7.63
+  Beef Enchiladas Verdes: 12.3
+  Stuffed Avocado Delight: 5.41
+  Loaded Nacho Platter: 8.94
+  Braised Beef Barbacoa Tacos: 14.39
+  Crispy Avocado Wedges: 6.28
+  Breakfast Chilaquiles Verde: 8.77
+  Pineapple Jalapeno Sangria: 7.02
+  Smoky Black Bean Soup: 6.56
+  Classic Tortilla Soup: 4.77
+  Chili Chocolate Lava Cake: 6.55
+  Cilantro Lime Shrimp Skewers: 7.38
+  Queso Fundido Supreme: 7.75
+  Cheesy Jalapeno Poppers: 6.68
+  Roasted Poblano Corn Chowder: 5.45
+  Black Bean Breakfast Burrito: 7.05

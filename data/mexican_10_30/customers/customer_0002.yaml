@@ -1,9 +1,10 @@
 id: customer_0002
-name: Daniel Perez
-request: Could you please help me find a business that offers both Honey Lime Chicken
-  Fajitas and Vanilla Cinnamon Horchata? I need one of each and intend to place an
-  order as soon as possible if these specific items are available. Thank you!
+name: Christopher Walker
+request: I would like assistance in finding a business that offers both 'Black Bean
+  Avocado Enchiladas' and 'Hibiscus Agua Fresca'. I intend to place an order for 1
+  Black Bean Avocado Enchilada and 1 Hibiscus Agua Fresca from such a business. Thank
+  you for your help.
 menu_features:
-  Honey Lime Chicken Fajitas: 14.99
-  Vanilla Cinnamon Horchata: 3.49
+  Black Bean Avocado Enchiladas: 11.99
+  Hibiscus Agua Fresca: 3.49
 amenity_features: []

@@ -1,10 +1,9 @@
 id: customer_0009
-name: Ethan White
-request: Could you please help me find a business that offers both a Chipotle Lime
-  Chicken Salad and a Passionfruit Paloma? I am looking to order exactly 1 of each
-  item. Thank you for your assistance in finding a suitable business to fulfill this
-  order.
+name: Liam O'Reilly
+request: 'I would like to place an order with a business that can provide the following
+  items: 1 Spicy Avocado Smash Burger and 1 Sweet Corn Tostadas. Please ensure that
+  the business can meet all of my requirements before proceeding. Thank you!'
 menu_features:
-  Chipotle Lime Chicken Salad: 10.99
-  Passionfruit Paloma: 8.49
+  Spicy Avocado Smash Burger: 12.49
+  Sweet Corn Tostadas: 8.49
 amenity_features: []

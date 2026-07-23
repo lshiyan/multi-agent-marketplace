@@ -20,6 +20,8 @@ from .messaging import (
     OrderProposal,
     Payment,
     TextMessage,
+    SearchRequestMessage,
+    SearchResultsMessage
 )
 
 __all__ = [
@@ -39,5 +41,7 @@ __all__ = [
     "SendMessage",
     "TextMessage",
     "InspectBusiness",
-    "InspectBusinessResponse"
+    "InspectBusinessResponse",
+    "SearchRequestMessage",
+    "SearchResultsMessage"
 ]

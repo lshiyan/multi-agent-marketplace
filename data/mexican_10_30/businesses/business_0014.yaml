@@ -1,26 +1,43 @@
 id: business_0014
-name: "Saz\xF3n & Fire Kitchen"
-description: "Saz\xF3n & Fire Kitchen brings bold, modern flavors to classic Mexican\
-  \ and Tex-Mex favorites, blending zesty spices with a fresh, vibrant twist. Gather\
-  \ with friends and savor creative dishes and signature drinks in a colorful, upbeat\
-  \ setting."
+name: Fiesta Flavors
+description: Fiesta Flavors brings you vibrant Mexican and Tex-Mex cuisine with fresh
+  ingredients and bold, creative combinations. Savor a festive array of dishes, from
+  zesty grilled favorites to decadent desserts, in a lively and inviting atmosphere.
 rating: 1.0
 progenitor_customer: customer_0005
 menu_features:
-  Ancho Chile Beef Chili: 12.66
-  Spicy Pork Tamales: 11.25
-  Honey Lime Chicken Fajitas: 11.81
-  Ancho Chili Braised Beef Enchiladas: 16.4
-  Carnitas Breakfast Burrito: 13.51
-  Agave Lime Chicken Skewers: 13.29
-  Cilantro Lime Shrimp Skewers: 14.26
-  Southwestern Quinoa Salad: 9.2
-  Blueberry Jalapeno Lemonade: 4.68
-  Sweet Plantain Empanadas: 6.9
-  Spicy Black Bean Enchiladas: 12.16
-  Pineapple Habanero Sake: 8.66
-  Vanilla Flan with Caramel Sauce: 7.38
-  Churro Ice Cream Sandwich: 6.29
-  Spicy Chicken Tortilla Soup: 5.64
+  Flan with Caramel Drizzle: 5.12
+  Black Bean & Corn Enchiladas: 9.1
+  Tamarind Ginger Cooler: 3.57
+  Black Bean Avocado Tostadas: 12.82
+  Caramelized Banana Flan: 5.64
+  Margarita Grilled Chicken: 12.59
+  Tequila Lime Shrimp Skewers: 13.67
+  Honey-Lime Grilled Shrimp: 12.09
+  Baja Shrimp Quesadilla: 12.56
+  Grilled Pineapple Dessert Quesadilla: 7.98
+  Blueberry Jalapeno Lemonade: 3.88
+  Avocado Lime Quinoa Bowl: 10.97
+  Street Corn Quesadilla: 12.32
+  Spicy Chipotle Chicken Wings: 8.66
+  Chocolate Cinnamon Flan: 6.2
+  Honey Chipotle Shrimp Bowl: 14.78
 amenity_features: {}
-min_price_factor: 0.88
+min_price_factor: 0.68
+minimum_menu_prices:
+  Flan with Caramel Drizzle: 3.48
+  Black Bean & Corn Enchiladas: 6.19
+  Tamarind Ginger Cooler: 2.43
+  Black Bean Avocado Tostadas: 8.72
+  Caramelized Banana Flan: 3.84
+  Margarita Grilled Chicken: 8.56
+  Tequila Lime Shrimp Skewers: 9.3
+  Honey-Lime Grilled Shrimp: 8.22
+  Baja Shrimp Quesadilla: 8.54
+  Grilled Pineapple Dessert Quesadilla: 5.43
+  Blueberry Jalapeno Lemonade: 2.64
+  Avocado Lime Quinoa Bowl: 7.46
+  Street Corn Quesadilla: 8.38
+  Spicy Chipotle Chicken Wings: 5.89
+  Chocolate Cinnamon Flan: 4.22
+  Honey Chipotle Shrimp Bowl: 10.05

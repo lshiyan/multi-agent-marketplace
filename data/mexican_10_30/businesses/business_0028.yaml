@@ -1,26 +1,36 @@
 id: business_0028
-name: Mango Mesa
-description: Mango Mesa serves up vibrant Mexican and Tex-Mex fare bursting with fresh
-  flavors and creative twists. Join us for colorful plates, bold salsas, and a welcoming
-  atmosphere celebrating every meal.
+name: "El Jard\xEDn de Saz\xF3n"
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm and colorful
+  setting, where every dish is crafted with fresh ingredients and bold, creative twists.
+  Enjoy refreshing beverages and decadent desserts alongside savory classics and modern
+  favorites.
 rating: 1.0
 progenitor_customer: customer_0010
 menu_features:
-  Stuffed Chicken Poblano: 9.6
-  Mesquite Grilled Steak Fajitas: 13.13
-  Fresh Mango Salsa Nachos: 8.36
-  Sunrise Breakfast Tacos: 10.68
-  Grilled Chipotle Chicken Burrito: 11.86
-  Black Bean Avocado Enchiladas: 13.26
-  Lime-Cilantro Quinoa Salad: 8.58
-  Blue Corn Enchilada Bake: 11.58
-  Caramelized Banana Flan: 4.07
-  Spicy Beef Empanadas: 10.14
-  Frozen Mango Margarita: 11.92
-  Grilled Pineapple Salmon: 16.51
-  Cheesy Jalapeno Queso: 8.21
-  Flan with Caramel Drizzle: 5.63
-  Spicy Avocado Burger: 12.05
-  Horchata Iced Coffee: 4.98
+  Passionfruit Agua Fresca: 3.74
+  Toasted Coconut Flan: 7.16
+  Spicy Avocado Smash Burger: 11.91
+  Sea Breeze Ceviche: 11.8
+  Smoky Chipotle Black Bean Soup: 6.46
+  Ranchero Steak Fajitas: 17.61
+  Spicy Pineapple Salsa Dip: 5.11
+  Horchata Cold Brew Coffee: 4.4
+  Three Cheese Sope: 10.16
+  Black Bean Avocado Enchiladas: 12.46
+  Tex-Mex Breakfast Skillet: 10.15
+  Roasted Poblano Corn Chowder: 8.36
 amenity_features: {}
-min_price_factor: 0.65
+min_price_factor: 0.74
+minimum_menu_prices:
+  Passionfruit Agua Fresca: 2.77
+  Toasted Coconut Flan: 5.3
+  Spicy Avocado Smash Burger: 8.81
+  Sea Breeze Ceviche: 8.73
+  Smoky Chipotle Black Bean Soup: 4.78
+  Ranchero Steak Fajitas: 13.03
+  Spicy Pineapple Salsa Dip: 3.78
+  Horchata Cold Brew Coffee: 3.26
+  Three Cheese Sope: 7.52
+  Black Bean Avocado Enchiladas: 9.22
+  Tex-Mex Breakfast Skillet: 7.51
+  Roasted Poblano Corn Chowder: 6.19

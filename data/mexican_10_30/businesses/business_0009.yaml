@@ -1,25 +1,43 @@
 id: business_0009
-name: Taco 'Bout a Fiesta
-description: Step into a lively kitchen where every dish bursts with fresh flavors,
-  zesty salsas, and a playful twist on Mexican and Tex-Mex classics. Whether you're
-  craving tacos, sizzling fajitas, or a sweet churro treat, come join the fiesta!
+name: Sabroso Social
+description: A vibrant modern eatery blending classic Mexican flavors with fresh,
+  contemporary twists. Enjoy bold plates, bright salsas, and creative beverages in
+  a lively setting perfect for sharing.
 rating: 1.0
 progenitor_customer: customer_0003
 menu_features:
-  Cilantro Lime Chicken Tacos: 11.47
-  Fresh Lime and Cilantro Guacamole: 9.59
-  Cinnamon Sugar Churros: 5.96
-  Al Pastor Pork Tacos: 12.75
-  Pineapple Jalapeno Salsa: 4.92
-  Hatch Chile Queso Dip: 8.27
-  Spice-Rubbed Grilled Fajitas: 14.56
-  Blueberry Agave Margarita: 8.04
-  Smoky Lime Quinoa Salad: 12.15
-  Creamy Poblano Corn Chowder: 8.1
-  Fire Roasted Salsa Sampler: 6.02
-  Frozen Strawberry Daiquiri: 5.98
-  Pico Avocado Toast: 7.66
-  Mango Jalapeno Slush: 5.44
-  Sizzling Chicken Fajitas: 17.6
+  Vegetarian Tamale Platter: 11.7
+  Lime-Cilantro Quinoa Salad: 9.7
+  Crispy Fish Street Tacos: 15.07
+  Beef Enchiladas Verdes: 11.14
+  Al Pastor Quesadilla: 12.33
+  Tamarind-Glazed Ribs: 16.2
+  Three-Cheese Enchilada Stack: 9.85
+  Street Corn Elote: 6.82
+  "Cheesy Jalape\xF1o Quesadillas": 9.55
+  Classic Flan Delight: 6.91
+  Pineapple Salsa Pork Tacos: 9.36
+  Honey Chipotle Shrimp Bowl: 12.6
+  Black Bean & Corn Queso Dip: 6.72
+  Salted Caramel Margarita: 10.39
+  Roasted Tomato Salsa Dip: 3.59
+  Blueberry Mint Agua Fresca: 4.1
 amenity_features: {}
-min_price_factor: 0.65
+min_price_factor: 0.93
+minimum_menu_prices:
+  Vegetarian Tamale Platter: 10.88
+  Lime-Cilantro Quinoa Salad: 9.02
+  Crispy Fish Street Tacos: 14.02
+  Beef Enchiladas Verdes: 10.36
+  Al Pastor Quesadilla: 11.47
+  Tamarind-Glazed Ribs: 15.07
+  Three-Cheese Enchilada Stack: 9.16
+  Street Corn Elote: 6.34
+  "Cheesy Jalape\xF1o Quesadillas": 8.88
+  Classic Flan Delight: 6.43
+  Pineapple Salsa Pork Tacos: 8.7
+  Honey Chipotle Shrimp Bowl: 11.72
+  Black Bean & Corn Queso Dip: 6.25
+  Salted Caramel Margarita: 9.66
+  Roasted Tomato Salsa Dip: 3.34
+  Blueberry Mint Agua Fresca: 3.81

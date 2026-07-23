@@ -340,13 +340,28 @@ def main(features_dir: str, n_customers: int, output_dir: str) -> None:
             )
             businesses.append(business)
 
+            
             # Write the business to a file
             os.makedirs(os.path.join(output_dir, "businesses"), exist_ok=True)
             fname = os.path.join(output_dir, "businesses", f"{business.id}.yaml")
             print(f"Writing {fname}")
-            with open(fname, "w") as f:
-                f.write(yaml.safe_dump(business.model_dump(), sort_keys=False))
+            
+            business_data = business.model_dump()
 
+            business_data["minimum_menu_prices"] = {
+                item_name: round(
+                    max(0.01, listed_price * business.min_price_factor),
+                    2,
+                )
+                for item_name, listed_price in business.menu_features.items()
+            }
+
+            with open(fname, "w") as f:
+                yaml.safe_dump(
+                    business_data,
+                    f,
+                    sort_keys=False,
+                )
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

@@ -1,24 +1,41 @@
 id: business_0003
-name: Chile & Citrus Cantina
-description: Experience a vibrant fusion of bold flavors with our fresh, inventive
-  take on Mexican and Tex-Mex classics. Sip on tangy margaritas and savor dishes bursting
-  with zest in a lively, colorful setting.
+name: Cielito Bonito Grill
+description: Experience the vibrant flavors of Mexico and the Southwest at Cielito
+  Bonito Grill. Our kitchen brings fresh seafood, sizzling specialties, and sweet
+  treats together for a warm and memorable dining adventure.
 rating: 1.0
 progenitor_customer: customer_0001
 menu_features:
-  Breakfast Tostada Stack: 12.09
-  Stuffed Avocado Delight: 9.31
-  Coconut Lime Shrimp Skewers: 17.56
-  Ancho Chile Beef Chili: 14.91
-  Carne Asada Nachos: 12.28
-  Coconut Lime Tres Leches: 6.03
-  Pineapple Habanero Margarita: 9.64
-  Roasted Corn Elote: 4.1
-  Chipotle Lime Chicken Skewers: 11.67
-  Shrimp and Avocado Ceviche: 13.01
-  Avocado Street Tacos: 12.32
-  "Cheesy Jalape\xF1o Queso Dip": 8.92
-  Smoky Chipotle BBQ Wings: 10.22
-  Tamarind Citrus Margarita: 9.65
+  Shrimp Ceviche Cups: 13.91
+  Sizzling Fajita Skillet: 17.91
+  Spiced Pumpkin Empanadas: 6.81
+  Honey Lime Grilled Chicken: 14.09
+  Coconut Flan Delight: 7.1
+  Ancho Honey-Glazed Salmon: 12.78
+  Sizzling Carne Asada: 17.13
+  Sweet Corn Tamales: 11.38
+  Crisp Jicama Slaw: 4.96
+  Crispy Fish Tacos: 12.34
+  Pumpkin Spice Flan: 7.19
+  Spicy Chipotle Chicken Wings: 8.82
+  Smoky Black Bean Tostadas: 8.55
+  Smoky Black Bean Nachos: 11.72
+  Zesty Shrimp Ceviche: 11.53
 amenity_features: {}
-min_price_factor: 0.65
+min_price_factor: 0.63
+minimum_menu_prices:
+  Shrimp Ceviche Cups: 8.76
+  Sizzling Fajita Skillet: 11.28
+  Spiced Pumpkin Empanadas: 4.29
+  Honey Lime Grilled Chicken: 8.88
+  Coconut Flan Delight: 4.47
+  Ancho Honey-Glazed Salmon: 8.05
+  Sizzling Carne Asada: 10.79
+  Sweet Corn Tamales: 7.17
+  Crisp Jicama Slaw: 3.12
+  Crispy Fish Tacos: 7.77
+  Pumpkin Spice Flan: 4.53
+  Spicy Chipotle Chicken Wings: 5.56
+  Smoky Black Bean Tostadas: 5.39
+  Smoky Black Bean Nachos: 7.38
+  Zesty Shrimp Ceviche: 7.26

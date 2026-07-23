@@ -1,23 +1,45 @@
 id: business_0007
 name: "Sol y Saz\xF3n"
-description: "Experience vibrant Mexican and Tex-Mex flavors with a fresh, modern\
-  \ twist. From smoky soups to creative tacos and refreshing margaritas, Sol y Saz\xF3\
-  n brings bold taste and sunny vibes to every bite."
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm, inviting atmosphere.
+  From savory classics to refreshing cocktails, each dish is crafted to bring a burst
+  of sunshine to your table.
 rating: 1.0
 progenitor_customer: customer_0003
 menu_features:
-  Smoky Chipotle Black Bean Soup: 9.21
-  "Blueberry Jalape\xF1o Margarita": 9.95
-  Classic Beef Barbacoa: 15.35
-  Pineapple Salsa Pork Tacos: 15.19
-  Baja Fish Burrito: 13.05
-  Chipotle Lime Cauliflower Tacos: 8.76
-  Roasted Poblano Soup: 8.44
-  Three-Cheese Chile Rellenos: 13.69
-  Caramelized Onion and Goat Cheese Empanadas: 5.58
-  Smoky Lime Quinoa Salad: 10.24
-  Ancho Chili Spiced Ribs: 18.02
-  Mushroom & Cheese Tamales: 9.38
-  Tropical Pineapple Salsa: 3.44
+  Tamarind-Glazed Ribs: 19.5
+  Beef Enchiladas Verdes: 12.97
+  Paloma Breeze Cocktail: 5.62
+  Vegetarian Tamale Platter: 12.74
+  Chorizo Breakfast Burrito: 8.91
+  Agave Lime Chicken Skewers: 10.16
+  Classic Beef Barbacoa: 12.81
+  Chocolate Cinnamon Flan: 7.28
+  Blueberry Agave Margarita: 9.95
+  Frozen Strawberry Margarita: 9.45
+  Mango Jalapeno Salsa and Chips: 5.55
+  Horchata Iced Coffee: 5.0
+  Southwest Chopped Salad: 8.2
+  Sizzling Carne Asada: 18.28
+  Jicama and Citrus Salad: 7.73
+  Classic Flan Delight: 5.37
+  Grilled Street Corn: 5.6
 amenity_features: {}
-min_price_factor: 0.63
+min_price_factor: 0.86
+minimum_menu_prices:
+  Tamarind-Glazed Ribs: 16.77
+  Beef Enchiladas Verdes: 11.15
+  Paloma Breeze Cocktail: 4.83
+  Vegetarian Tamale Platter: 10.96
+  Chorizo Breakfast Burrito: 7.66
+  Agave Lime Chicken Skewers: 8.74
+  Classic Beef Barbacoa: 11.02
+  Chocolate Cinnamon Flan: 6.26
+  Blueberry Agave Margarita: 8.56
+  Frozen Strawberry Margarita: 8.13
+  Mango Jalapeno Salsa and Chips: 4.77
+  Horchata Iced Coffee: 4.3
+  Southwest Chopped Salad: 7.05
+  Sizzling Carne Asada: 15.72
+  Jicama and Citrus Salad: 6.65
+  Classic Flan Delight: 4.62
+  Grilled Street Corn: 4.82

@@ -1,27 +1,35 @@
 id: business_0013
-name: Lime & Lava
-description: Experience the vibrant flavors of Mexico and the Southwest in a lively,
-  colorful setting. Enjoy refreshing drinks, sizzling platters, and inventive twists
-  on beloved classics.
+name: El Sabor del Sol
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  lively setting. Fresh ingredients and creative twists await in every refreshing
+  sip and delicious bite.
 rating: 1.0
 progenitor_customer: customer_0005
 menu_features:
-  Chili Lime Margarita: 8.44
-  Baja Fish Tacos: 14.83
-  Honey Lime Chicken Fajitas: 14.66
-  Jalapeno Cheddar Cornbread: 4.94
-  Twice-Baked Sweet Potato: 8.55
-  Sweet Plantain Empanadas: 7.43
-  Chocolate Tamale Cake: 8.35
-  Sizzling Fajita Platter: 19.19
-  Honey-Lime Grilled Salmon: 18.15
-  Zesty Lime Grilled Shrimp: 17.17
-  Pomegranate Agua Fresca: 3.5
-  Choco Flan Combo: 7.02
-  Blue Corn Tostada Salad: 9.74
-  Beef Barbacoa Tostadas: 11.74
-  Fajita Veggie Burrito Bowl: 14.19
-  Caramelized Plantain Empanadas: 6.69
-  Ancho Chili Braised Beef Enchiladas: 12.51
+  Chipotle Lime Shrimp Tacos: 14.67
+  Blueberry Jalapeno Lemonade: 4.08
+  Blueberry Agave Mojito: 8.57
+  Caramelized Onion Queso Dip: 8.06
+  Black Bean & Corn Queso Dip: 6.82
+  Chocolate Cinnamon Flan: 5.25
+  Shrimp and Avocado Ceviche: 13.37
+  Classic Lime Margarita: 10.14
+  Avocado Lime Quinoa Bowl: 11.24
+  Pico Avocado Toast: 7.11
+  Avocado Lime Salsa: 5.79
+  Chili Lime Margarita: 9.17
 amenity_features: {}
-min_price_factor: 0.86
+min_price_factor: 0.62
+minimum_menu_prices:
+  Chipotle Lime Shrimp Tacos: 9.1
+  Blueberry Jalapeno Lemonade: 2.53
+  Blueberry Agave Mojito: 5.31
+  Caramelized Onion Queso Dip: 5.0
+  Black Bean & Corn Queso Dip: 4.23
+  Chocolate Cinnamon Flan: 3.25
+  Shrimp and Avocado Ceviche: 8.29
+  Classic Lime Margarita: 6.29
+  Avocado Lime Quinoa Bowl: 6.97
+  Pico Avocado Toast: 4.41
+  Avocado Lime Salsa: 3.59
+  Chili Lime Margarita: 5.69

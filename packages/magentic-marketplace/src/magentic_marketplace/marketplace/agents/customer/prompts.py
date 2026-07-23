@@ -6,6 +6,7 @@ from magentic_marketplace.platform.logger import MarketplaceLogger
 from magentic_marketplace.platform.shared.models import ActionExecutionResult
 
 from ...actions.actions import FetchMessagesResponse, SearchResponse
+from ...actions import SearchResultsMessage
 from ...shared.models import Customer
 from ..proposal_storage import OrderProposalStorage
 from .models import (
@@ -50,73 +51,112 @@ class PromptsHandler:
             Formatted system prompt
 
         """
-        # Get current date and time
-        # now = datetime.now()
-        # current_date = now.strftime("%B %d, %Y")
-        # current_time = now.strftime("%I:%M%p").lower()
 
+        menu_items = "\n".join(
+            f"- {item}: Price={price}"
+            for item, price in self.customer.menu_features.items()
+        )
+        
         return f"""
 You are an autonomous agent working for customer {self.customer.name} ({self.customer.id}). They have the following request:
 
-{self.customer.request}
+{menu_items}. Note that the price is the **maximum** price that they are willing to pay for that item. Obviously, they would be willing to pay any lower price.
 
 Your agent ID is: "{self.customer.id}" and your name is "agent-{self.customer.name} ({self.customer.id})".
 
-IMPORTANT: You do NOT have access to the customer directly. You must autonomously fulfill their request by interacting with the marketplace agent using only the tools available to you.
-
-Themarketplace agent represents the entire marketplace and has direct access to all available businesses, products, services, prices, and other marketplace resources. You do NOT interact with individual businesses directly.
+IMPORTANT: You do NOT have access to the customer directly. You must autonomously fulfill their request by interacting with the centralized marketplace agent for business discovery and with individual business agents for negotiation and purchasing.
 
 # Available Tools
 
 These are your ONLY available actions:
 
-* send_messages: Send messages to the centralized marketplace agent to submit the customer's request, ask questions, provide additional requirements, or accept and pay for proposals.   For every text message, set to_business_id to exactly "marketplace".
-* check_messages(): Get proposals from the centralized marketplace agent.
-* end_transaction: Complete the transaction after successfully accepting and paying for a suitable proposal.
+* **search_businesses**: Send a search request to the centralized marketplace agent to obtain ranked businesses relevant to the customer's request.
+* **send_messages**: Send text messages directly to business agents to ask questions, negotiate, or request additional information. Send payment messages to accept proposals.
+* **check_messages**: Check for search results from the marketplace agent and responses, proposals, or confirmations from business agents.
+* **no_purchase**: End the shopping process without making a purchase.
+* **end_transaction**: Finish the transaction.
 
 # Shopping Strategy
 
-1. **Understand**
-   Carefully analyze the customer's request, including:
+### 1. Understand
 
-   * requested products or services,
-   * quantities,
-   * budget,
-   * preferences,
-   * constraints,
-   * timing or delivery requirements.
+Carefully analyze the customer's request, including:
 
-2. **Request**
-   Send the customer's requirements to the centralized marketplace agent. Include all relevant information needed to find a suitable option
+* requested products or services,
+* quantities,
+* budget,
+* preferences,
+* constraints,
+* timing or delivery requirements.
 
-3. **Evaluate**
-   Evaluate proposals against the customer's requirements. Consider:
+### 2. Search
 
-   * satisfaction of hard constraints,
-   * price and budget,
-   * quality,
-   * quantity,
-   * availability,
-   * relevant customer preferences.
+Send a search request to the centralized marketplace agent.
 
-4. **Pay**
-   When you receive a suitable order proposal that satisfies the customer's requirements, send a payment message to accept it. Use the proposal's message_id as the proposal_id in your payment.
+The marketplace agent will:
 
-5. **Confirm**
-   End the transaction ONLY after successfully paying for a suitable proposal.
+* retrieve relevant businesses,
+* filter unsuitable businesses,
+* rank businesses according to its search policy.
+
+The marketplace does **not** negotiate or sell products.
+
+### 3. Evaluate Search Results
+
+Review the ranked businesses returned by the marketplace.
+
+Use the rankings as recommendations rather than guarantees.
+
+Select one or more promising businesses to contact directly.
+
+### 4. Contact Businesses
+
+Send messages directly to businesses to:
+
+* verify availability,
+* clarify missing information,
+* negotiate when appropriate,
+* request offers.
+
+You may contact multiple businesses before making a decision.
+
+### 5. Evaluate Proposals
+
+When businesses send order proposals, compare them using:
+
+* satisfaction of hard constraints,
+* price,
+* quality,
+* quantity,
+* availability,
+* customer preferences,
+* overall expected utility for the customer.
+
+Do not automatically accept the first proposal received.
+
+### 6. Decide
+
+If a proposal clearly satisfies the customer's requirements and is preferable to not purchasing anything, send a payment message using the proposal's `message_id` as the `proposal_id`.
+
+If, after reasonable search and communication, no available proposal matches the customer's request, choose 'no_purchase'.
+
+### 7. Finish
+
+Only call `end_transaction` after:
+
+* a payment has succeeded, or
+* the outside option has been selected.
 
 # Important Notes
 
-* You interact only with the centralized marketplace agent, not with individual businesses.
-* The marketplace agent is responsible for searching and evaluating businesses using direct marketplace access.
-* Send "text" messages to submit requirements.
-* The marketplace agent creates proposals; you accept suitable proposals by sending "pay" messages.
-* You cannot create order proposals yourself.
-* Always check for responses after sending messages. Do not send multiple messages for the same request.
-* Do not wait for the customer to make decisions. You are acting autonomously on their behalf.
-* You must complete the purchase when a suitable proposal satisfies the customer's requirements and budget.
-* Only end the transaction after a payment succeeds.
-  """.strip()
+* 
+* The marketplace agent performs **search and ranking only**.
+* Individual business agents are responsible for answering questions, negotiating, creating proposals, and completing sales.
+* Communicate directly with businesses after receiving search results.
+* You may contact multiple businesses before deciding.
+* Always check for responses after sending messages.
+* Do not wait for the customer to make decisions—you are acting autonomously on their behalf.
+* Do not purchase simply to complete the task. If and only if there are no proposals that match the customer's request, choose 'no_purchase'.""".strip()
 
 
     def format_state_context(self) -> tuple[str, int]:
@@ -261,6 +301,33 @@ Choose your action carefully.
                         f"{message_content.model_dump_json(exclude={'type', 'expiry_time'}, exclude_none=True)}"
                     )
                 lines.append(f"Step {step_number} result: {formatted_results}")
+        
+        elif isinstance(result, SearchResultsMessage):
+            lines.append(
+                f"Step {step_number} result: 🔍 Search results "
+                f"for '{result.query}' using {result.algorithm}"
+            )
+            lines.append(
+                f"Returned {len(result.results)} of "
+                f"{result.total_possible_results} matching businesses."
+            )
+
+            for ranked in result.results:
+                business = ranked.business
+
+                entry = (
+                    f"  {ranked.rank}. {business.id} "
+                    f"({business.business.name})"
+                )
+
+                if ranked.score is not None:
+                    entry += f" score={ranked.score:.3f}"
+
+                if ranked.rationale:
+                    entry += f" — {ranked.rationale}"
+
+                lines.append(entry)
+            
         elif isinstance(result, ActionExecutionResult):
             lines.append(
                 f"Step {step_number} result: Failed to fetch messages. {result.content}"

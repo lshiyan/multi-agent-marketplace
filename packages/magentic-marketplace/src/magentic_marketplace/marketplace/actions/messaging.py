@@ -1,10 +1,11 @@
 """Messaging actions for the simple marketplace."""
 
 from typing import Annotated, Literal
-
+from uuid import uuid4
 from pydantic import BaseModel, Field
 from pydantic.type_adapter import TypeAdapter
 
+from ..shared.models import BusinessAgentProfile, SearchConstraints
 
 class OrderItem(BaseModel):
     """An item in an order with quantity and pricing."""
@@ -33,6 +34,37 @@ class OrderProposal(BaseModel):
     )
     total_price: float = Field(description="Required; total price for the entire order")
 
+
+class SearchRequestMessage(BaseModel):
+    type: Literal["search_request"] = "search_request"
+
+    request_id: str = Field(
+        default_factory=lambda: uuid4().hex
+    )
+    query: str = Field(min_length=1)
+    limit: int = Field(default=10, ge=1)
+    page: int = Field(default=1, ge=1)
+
+
+class RankedBusiness(BaseModel):
+    business: BusinessAgentProfile
+    rank: int = Field(ge=1)
+
+    # Optional when using deterministic ranking.
+    score: float | None = None
+    rationale: str | None = None
+
+
+class SearchResultsMessage(BaseModel):
+    type: Literal["search_results"] = "search_results"
+
+    request_id: str
+    query: str
+    algorithm: str
+    results: list[RankedBusiness]
+    total_possible_results: int
+    total_pages: int
+    
 class Payment(BaseModel):
     """A payment message to accept an order proposal."""
 
@@ -53,7 +85,7 @@ class Payment(BaseModel):
 
 
 # Message is a union type of the message types
-Message = Annotated[TextMessage | OrderProposal | Payment, Field(discriminator="type")]
+Message = Annotated[TextMessage | OrderProposal | Payment | SearchRequestMessage | SearchResultsMessage , Field(discriminator="type")]
 
 # Type adapter for Message for serialization/deserialization
 MessageAdapter: TypeAdapter[Message] = TypeAdapter(Message)

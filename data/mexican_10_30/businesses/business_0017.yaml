@@ -1,22 +1,42 @@
 id: business_0017
-name: "Ma\xEDz & Ember"
-description: "Ma\xEDz & Ember is a modern Mexican eatery celebrating bold flavors\
-  \ and creative twists on classic dishes. Savor flame-grilled specialties, vibrant\
-  \ street fare, and drinks crafted with fresh, seasonal ingredients in a lively,\
-  \ welcoming atmosphere."
+name: Wrap Battle
+description: "Dive into a bold blend of Mexican and Tex-Mex flavors where classics\
+  \ meet creative twists\u2014wraps, bowls, and bites are always freshly prepared\
+  \ and fiesta-ready. Satisfy your craving for spice, sizzle, and something a little\
+  \ unexpected!"
 rating: 1.0
 progenitor_customer: customer_0006
 menu_features:
-  Street Corn Quesadilla: 11.96
-  Roasted Pumpkin Tamale: 6.78
-  Fresh Corn Elote: 4.13
-  Grilled Shrimp Skewers: 12.73
-  Roasted Poblano and Cheese Empanadas: 8.06
-  Black Bean Stuffed Bell Peppers: 10.9
-  Midnight Mole Enchiladas: 15.41
-  Blueberry Jalapeno Lemonade: 4.08
-  Cilantro Lime Chicken Tacos: 10.61
-  Caramel Apple Empanadas: 6.43
-  Grilled Pineapple and Pork Tacos: 13.46
+  Honey Chipotle Shrimp Bowl: 14.72
+  Stuffed Chicken Poblano: 14.5
+  Cinnamon Churro Bites: 5.06
+  Tex-Mex Fajita Wrap: 12.3
+  Chocolate Cinnamon Flan: 6.63
+  Chorizo Breakfast Burrito: 10.18
+  Spicy Shrimp Fajitas: 12.59
+  Street Corn Quesadilla: 12.62
+  Spicy Beef Chimichangas: 15.29
+  Tequila Lime Grilled Chicken: 14.09
+  Citrus Marinated Carne Asada: 15.23
+  Warm Churro Bites: 5.64
+  Chili-Lime Cauliflower Bites: 8.4
+  Loaded Nachos Grande: 12.17
+  Fresh Watermelon Aqua Fresca: 3.53
 amenity_features: {}
-min_price_factor: 0.87
+min_price_factor: 0.88
+minimum_menu_prices:
+  Honey Chipotle Shrimp Bowl: 12.95
+  Stuffed Chicken Poblano: 12.76
+  Cinnamon Churro Bites: 4.45
+  Tex-Mex Fajita Wrap: 10.82
+  Chocolate Cinnamon Flan: 5.83
+  Chorizo Breakfast Burrito: 8.96
+  Spicy Shrimp Fajitas: 11.08
+  Street Corn Quesadilla: 11.11
+  Spicy Beef Chimichangas: 13.46
+  Tequila Lime Grilled Chicken: 12.4
+  Citrus Marinated Carne Asada: 13.4
+  Warm Churro Bites: 4.96
+  Chili-Lime Cauliflower Bites: 7.39
+  Loaded Nachos Grande: 10.71
+  Fresh Watermelon Aqua Fresca: 3.11

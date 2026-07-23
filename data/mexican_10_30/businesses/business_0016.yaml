@@ -1,22 +1,41 @@
 id: business_0016
-name: Cielo Rojo Cantina
-description: Experience vibrant Tex-Mex and Mexican flavors in a warm, inviting atmosphere.
-  Enjoy a menu filled with classic favorites, bold spices, and fresh seasonal ingredients.
+name: Holy Smokes & Spicy Folks
+description: Discover a fiesta of bold flavors and sweet sips, where smoky barbecued
+  favorites meet zesty Tex-Mex classics. Our vibrant kitchen serves up inventive drinks,
+  satisfying mains, and crave-worthy desserts in a lively, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0006
 menu_features:
-  Smoky Chipotle BBQ Ribs: 18.41
-  Fresh Mango Salsa Nachos: 9.6
-  Cheesy Jalapeno Poppers: 7.22
-  Crispy Avocado Tostadas: 9.89
-  Vanilla Almond Horchata: 3.82
-  Hatch Green Chile Stew: 14.03
-  Midnight Mole Enchiladas: 16.07
-  Coconut Lime Paleta: 2.89
-  Black Bean Chili Bowl: 6.98
-  Spicy Chipotle Chicken Wings: 8.38
-  Chocolate Churro Bites: 6.38
-  Spicy Shrimp Ceviche: 10.97
-  Breakfast Burrito Supreme: 11.27
+  Vanilla Almond Horchata: 4.07
+  Chocolate Dipped Flan: 6.82
+  Coconut Lime Margarita: 9.78
+  Spicy Beef Chimichangas: 16.4
+  Smoky Chipotle BBQ Ribs: 14.72
+  Ancho Chile BBQ Ribs: 18.4
+  Huevos Rancheros: 12.94
+  Caramelized Onion Queso Dip: 6.04
+  Roasted Corn Enchiladas: 9.9
+  Cactus Flower Iced Tea: 3.33
+  Ancho Chili Spiced Ribs: 11.63
+  Coconut Lime Paleta: 4.25
+  Tex-Mex Fajita Wrap: 13.82
+  Grilled Street Corn: 4.6
+  Classic Horchata Smoothie: 4.71
 amenity_features: {}
-min_price_factor: 0.92
+min_price_factor: 0.66
+minimum_menu_prices:
+  Vanilla Almond Horchata: 2.69
+  Chocolate Dipped Flan: 4.5
+  Coconut Lime Margarita: 6.45
+  Spicy Beef Chimichangas: 10.82
+  Smoky Chipotle BBQ Ribs: 9.72
+  Ancho Chile BBQ Ribs: 12.14
+  Huevos Rancheros: 8.54
+  Caramelized Onion Queso Dip: 3.99
+  Roasted Corn Enchiladas: 6.53
+  Cactus Flower Iced Tea: 2.2
+  Ancho Chili Spiced Ribs: 7.68
+  Coconut Lime Paleta: 2.81
+  Tex-Mex Fajita Wrap: 9.12
+  Grilled Street Corn: 3.04
+  Classic Horchata Smoothie: 3.11

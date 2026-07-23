@@ -1,28 +1,43 @@
 id: business_0022
-name: Mesa & Mingle
-description: Mesa & Mingle invites you to savor vibrant Mexican and Tex-Mex flavors
-  in a welcoming, contemporary setting. Enjoy a diverse array of creative dishes and
-  refreshing drinks with friends and family.
+name: Mucho Ado About Salsa
+description: Where bold flavors meet creative twists, Mucho Ado About Salsa serves
+  up vibrant Mexican and Tex-Mex comfort with a playful bite. Fresh ingredients, inspired
+  drinks, and a fiesta of satisfying meals await your appetite.
 rating: 1.0
 progenitor_customer: customer_0008
 menu_features:
-  Breakfast Chilaquiles Verde: 9.19
-  Ancho Honey-Glazed Salmon: 16.87
-  Southwestern Quinoa Salad: 8.11
-  Loaded Nacho Bowl: 10.8
-  Green Chile Cheesesteak: 16.98
-  Blue Corn Enchilada Bake: 15.42
-  Blueberry Mint Agua Fresca: 5.06
-  Spicy Avocado Burger: 13.55
-  Mesquite Grilled Steak Fajitas: 13.48
-  Coconut Flan Delight: 8.28
-  Mexican Street Corn Dip: 8.68
-  Classic Beef Barbacoa: 11.02
-  Sunset Grilled Veggie Tacos: 13.07
-  Sweet Corn Tamale Cake: 8.44
-  Tequila Lime Shrimp Skewers: 14.96
-  Cocoa Cinnamon Tequila: 10.1
-  Horchata Iced Coffee: 4.18
-  Sea Breeze Ceviche: 11.54
+  Passionfruit Paloma: 7.2
+  Chorizo and Egg Tacos: 6.73
+  Tequila Lime Grilled Shrimp: 12.6
+  Golden Tequila Sunrise: 7.65
+  Spicy Zucchini Tostadas: 10.47
+  Blueberry Tequila Sunrise: 11.4
+  Beef Barbacoa Burrito Bowl: 11.47
+  Beef Enchiladas Verdes: 11.81
+  Stuffed Poblano Peppers: 13.1
+  Breakfast Burrito Bonanza: 6.82
+  Avocado Ranch Burrito Bowl: 14.01
+  Charred Corn & Cotija Nachos: 9.56
+  Spicy Pork Tamales: 10.89
+  Mexican Chocolate Milkshake: 6.39
+  Black Bean and Avocado Wrap: 13.08
+  Smoky Black Bean Soup: 7.7
 amenity_features: {}
-min_price_factor: 0.77
+min_price_factor: 0.79
+minimum_menu_prices:
+  Passionfruit Paloma: 5.69
+  Chorizo and Egg Tacos: 5.32
+  Tequila Lime Grilled Shrimp: 9.95
+  Golden Tequila Sunrise: 6.04
+  Spicy Zucchini Tostadas: 8.27
+  Blueberry Tequila Sunrise: 9.01
+  Beef Barbacoa Burrito Bowl: 9.06
+  Beef Enchiladas Verdes: 9.33
+  Stuffed Poblano Peppers: 10.35
+  Breakfast Burrito Bonanza: 5.39
+  Avocado Ranch Burrito Bowl: 11.07
+  Charred Corn & Cotija Nachos: 7.55
+  Spicy Pork Tamales: 8.6
+  Mexican Chocolate Milkshake: 5.05
+  Black Bean and Avocado Wrap: 10.33
+  Smoky Black Bean Soup: 6.08

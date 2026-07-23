@@ -1,26 +1,42 @@
 id: business_0005
-name: Casa Dorada Mexicana
-description: Casa Dorada Mexicana celebrates vibrant Mexican and Tex-Mex flavors with
-  a modern twist. Join us for a fresh take on traditional street-inspired favorites
-  and distinctive house specialties in a welcoming, lively atmosphere.
+name: Zest & Agave
+description: Experience a refreshing twist on Mexican and Tex-Mex classics at Zest
+  & Agave, where vibrant flavors and creative bites meet a laid-back, modern atmosphere.
+  Sip, savor, and enjoy bold dishes crafted with fresh ingredients and a touch of
+  culinary flair.
 rating: 1.0
 progenitor_customer: customer_0002
 menu_features:
-  Shrimp Ceviche Bowl: 12.3
-  Avocado Street Tacos: 9.04
-  Ranchero Eggs Benedict: 10.09
-  Mexican Coffee Flan: 5.83
-  Honey Lime Chicken Fajitas: 16.43
-  Smoky Mezcal Mule: 10.29
-  Classic Flan Delight: 7.21
-  Street Corn Fritters: 6.69
-  Street Corn Elote: 6.21
-  Tropical Coconut Margarita: 8.11
-  Roasted Corn Elote: 4.47
-  Housemade Horchata: 3.51
-  Vanilla Cinnamon Horchata: 2.83
-  Bacon Wrapped Jalapeno Bites: 6.04
-  Poblano Pepper Queso Dip: 7.94
-  Jalapeno Cheddar Cornbread: 5.7
+  Coconut Lime Tres Leches: 6.24
+  Grilled Avocado and Quinoa Bowl: 11.43
+  Salted Caramel Margarita: 8.82
+  Ancho Chile Chicken Salad: 9.57
+  Avocado Lime Salsa: 4.86
+  Hibiscus Agua Fresca: 3.06
+  Bacon Wrapped Jalapeno Bites: 7.7
+  Mole Chicken Quesadilla: 12.07
+  "Cheesy Jalape\xF1o Quesadillas": 11.14
+  Fresh Limeade: 3.57
+  Poblano Pepper Queso Dip: 6.86
+  Creamy Avocado Caesar Salad: 8.49
+  Sizzling Steak Fajitas: 15.46
+  Black Bean Avocado Enchiladas: 11.25
+  Three-Cheese Enchilada Stack: 9.82
 amenity_features: {}
-min_price_factor: 0.69
+min_price_factor: 0.76
+minimum_menu_prices:
+  Coconut Lime Tres Leches: 4.74
+  Grilled Avocado and Quinoa Bowl: 8.69
+  Salted Caramel Margarita: 6.7
+  Ancho Chile Chicken Salad: 7.27
+  Avocado Lime Salsa: 3.69
+  Hibiscus Agua Fresca: 2.33
+  Bacon Wrapped Jalapeno Bites: 5.85
+  Mole Chicken Quesadilla: 9.17
+  "Cheesy Jalape\xF1o Quesadillas": 8.47
+  Fresh Limeade: 2.71
+  Poblano Pepper Queso Dip: 5.21
+  Creamy Avocado Caesar Salad: 6.45
+  Sizzling Steak Fajitas: 11.75
+  Black Bean Avocado Enchiladas: 8.55
+  Three-Cheese Enchilada Stack: 7.46

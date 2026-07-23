@@ -1,9 +1,8 @@
 id: customer_0001
-name: Benjamin Wilson
-request: "Could you please find a business or restaurant that offers both of the following\
-  \ menu items: 1 Cheesy Jalape\xF1o Queso Dip and 1 Carne Asada Nachos? I intend\
-  \ to place an order once you confirm these items are available. Thank you!"
+name: Benjamin Kim
+request: 'Could you please assist me in finding a business that serves the following
+  menu item: Coconut Flan Delight (1)? I intend to place an order for this item. Thank
+  you for your help!'
 menu_features:
-  "Cheesy Jalape\xF1o Queso Dip": 7.99
-  Carne Asada Nachos: 12.49
+  Coconut Flan Delight: 7.29
 amenity_features: []

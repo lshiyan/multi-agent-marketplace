@@ -1,23 +1,39 @@
 id: business_0027
-name: Amaranto Cocina
-description: Experience vibrant flavors and creative cocktails in a lively, modern
-  setting. Amaranto Cocina serves up fresh, inventive Mexican and Tex-Mex dishes alongside
-  handcrafted drinks inspired by tropical fruits and bold spices.
+name: Chili & Char Cantina
+description: Experience a vibrant celebration of bold flavors and fresh ingredients
+  at Chili & Char Cantina. Discover creative Tex-Mex and Mexican-inspired dishes,
+  expertly grilled, roasted, and spiced to perfection in a lively and welcoming setting.
 rating: 1.0
 progenitor_customer: customer_0009
 menu_features:
-  Caramelized Onion and Chorizo Quesadilla: 8.83
-  Blueberry Hibiscus Margarita: 8.3
-  Crispy Avocado Wedges: 8.63
-  Passion Fruit Mojito: 6.81
-  Zesty Lime Chicken Enchiladas: 11.75
-  Tropical Coconut Margarita: 7.86
-  Chipotle Lime Chicken Salad: 12.39
-  Roasted Tomato Salsa Dip: 3.05
-  Tequila Lime Grilled Chicken: 12.22
-  Crispy Avocado Bites: 8.83
-  Passionfruit Paloma: 9.43
-  Smoky Black Bean Enchiladas: 13.61
-  Cilantro Lime Shrimp Skewers: 13.32
+  Sweet Corn Tostadas: 8.35
+  Zesty Lime Grilled Shrimp: 12.22
+  Spicy Black Bean Enchiladas: 13.4
+  Crispy Carnitas Quesadilla: 7.62
+  Baja Fish Taco Plate: 15.47
+  Spicy Avocado Smash Burger: 13.71
+  Roasted Corn Enchiladas: 10.04
+  Smoky Chipotle BBQ Ribs: 15.07
+  Spicy Shrimp Ceviche: 10.86
+  Roasted Poblano Quesadilla: 12.59
+  Sweet and Spicy Chicken Tostadas: 10.9
+  Smoky Chipotle Black Bean Soup: 8.34
+  Chipotle BBQ Tacos: 12.93
+  Hatch Green Chile Burger: 10.18
 amenity_features: {}
-min_price_factor: 0.66
+min_price_factor: 0.8
+minimum_menu_prices:
+  Sweet Corn Tostadas: 6.68
+  Zesty Lime Grilled Shrimp: 9.78
+  Spicy Black Bean Enchiladas: 10.72
+  Crispy Carnitas Quesadilla: 6.1
+  Baja Fish Taco Plate: 12.38
+  Spicy Avocado Smash Burger: 10.97
+  Roasted Corn Enchiladas: 8.03
+  Smoky Chipotle BBQ Ribs: 12.06
+  Spicy Shrimp Ceviche: 8.69
+  Roasted Poblano Quesadilla: 10.07
+  Sweet and Spicy Chicken Tostadas: 8.72
+  Smoky Chipotle Black Bean Soup: 6.67
+  Chipotle BBQ Tacos: 10.34
+  Hatch Green Chile Burger: 8.14

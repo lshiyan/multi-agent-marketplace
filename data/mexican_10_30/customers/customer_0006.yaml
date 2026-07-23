@@ -1,7 +1,8 @@
 id: customer_0006
-name: Zoe Hall
-request: Please help me find a business that offers the Midnight Mole Enchiladas,
-  as I would like to place an order for 1 of these. Thank you!
+name: Anna Kim
+request: Could you please assist me in finding a business that serves Spicy Beef Chimichangas?
+  I would like to place an order for 1 Spicy Beef Chimichanga. This is quite important
+  to me, so I appreciate your help in locating a suitable business. Thank you!
 menu_features:
-  Midnight Mole Enchiladas: 13.99
+  Spicy Beef Chimichangas: 14.49
 amenity_features: []

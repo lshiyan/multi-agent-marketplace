@@ -1,8 +1,9 @@
 id: customer_0007
-name: Ethan Thompson
-request: Could you please assist me in finding a business that offers the 'Avocado
-  Ranch Burrito Bowl'? I would like to purchase 1 of this item. Thank you for your
-  help in locating a suitable option.
+name: Lily Moore
+request: 'I would like to place an order for the following items: 1 Hibiscus Agua
+  Fresca and 1 Crispy Avocado Burrito. Please help me find a business that offers
+  both of these menu items, and assist with placing the order. Thank you.'
 menu_features:
-  Avocado Ranch Burrito Bowl: 12.49
+  Hibiscus Agua Fresca: 3.49
+  Crispy Avocado Burrito: 11.99
 amenity_features: []

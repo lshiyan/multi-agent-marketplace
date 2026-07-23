@@ -1,25 +1,44 @@
 id: business_0024
-name: Citrus & Ember
-description: Experience modern Mexican and Tex-Mex flavors with a vibrant menu, highlighting
-  fresh citrus, savory chiles, and chargrilled favorites. Join us for creative cocktails
-  and a lively, welcoming atmosphere.
+name: Calle Fresca
+description: Calle Fresca brings vibrant, modern Mexican and Tex-Mex flavors to the
+  table with fresh takes on classic street eats, refreshing aguas frescas, and inventive
+  twists for every appetite. Experience a lively, colorful atmosphere where each bite
+  tastes like a fiesta.
 rating: 1.0
 progenitor_customer: customer_0008
 menu_features:
-  Zesty Lime Grilled Shrimp: 13.73
-  Chorizo and Egg Tacos: 8.64
-  Horchata Iced Coffee: 5.4
-  Adobo Roasted Corn Salad: 8.53
-  Spicy Avocado Burger: 12.43
-  Roasted Corn and Avocado Salad: 10.43
-  Crispy Avocado Tacos: 13.51
-  Classic Lime Margarita: 8.94
-  Zesty Shrimp Ceviche: 11.96
-  Blue Corn Enchilada Bake: 12.68
-  Sizzling Chicken Fajitas: 12.72
-  Crispy Avocado Fritters: 6.92
-  Classic Tortilla Soup: 7.6
-  Chili Lime Jicama Sticks: 6.64
-  Breakfast Chilaquiles Verde: 8.92
+  Black Bean & Corn Enchiladas: 13.57
+  Blueberry Agave Agua Fresca: 5.05
+  Beef Enchiladas Verdes: 12.42
+  Green Chile Cheesesteak: 11.03
+  Sweet Corn Tamales: 10.73
+  Crispy Fish Street Tacos: 13.79
+  Smoky Chipotle Black Bean Soup: 8.15
+  Mushroom & Cheese Tamales: 7.51
+  Crispy Tortilla Breakfast Bowl: 11.56
+  Smoky Black Bean Soup: 6.53
+  Sunrise Breakfast Tacos: 10.62
+  Pineapple Agua Fresca: 3.92
+  Carnitas Plantain Burrito: 14.42
+  Passionfruit Paloma: 4.98
+  Mexican Coffee Flan: 4.98
+  Hibiscus Iced Tea: 3.45
 amenity_features: {}
-min_price_factor: 0.71
+min_price_factor: 0.61
+minimum_menu_prices:
+  Black Bean & Corn Enchiladas: 8.28
+  Blueberry Agave Agua Fresca: 3.08
+  Beef Enchiladas Verdes: 7.58
+  Green Chile Cheesesteak: 6.73
+  Sweet Corn Tamales: 6.55
+  Crispy Fish Street Tacos: 8.41
+  Smoky Chipotle Black Bean Soup: 4.97
+  Mushroom & Cheese Tamales: 4.58
+  Crispy Tortilla Breakfast Bowl: 7.05
+  Smoky Black Bean Soup: 3.98
+  Sunrise Breakfast Tacos: 6.48
+  Pineapple Agua Fresca: 2.39
+  Carnitas Plantain Burrito: 8.8
+  Passionfruit Paloma: 3.04
+  Mexican Coffee Flan: 3.04
+  Hibiscus Iced Tea: 2.1

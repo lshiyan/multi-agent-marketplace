@@ -15,6 +15,8 @@ from ...actions import (
     SearchAlgorithm,
     SearchResponse,
     TextMessage,
+    SearchRequestMessage,
+    SearchResultsMessage
 )
 from ...llm.config import BaseLLMConfig
 from ...shared.models import Customer, CustomerAgentProfile
@@ -204,26 +206,15 @@ class CustomerAgent(BaseSimpleMarketplaceAgent[CustomerAgentProfile]):
         """
         # Execute search and update known businesses
         if action.action_type == "search_businesses":
-            search_action = Search(
+            request = SearchRequestMessage(
                 query=action.search_query or self.customer.request,
-                search_algorithm=self._search_algorithm,
                 limit=self._search_bandwidth,
                 page=action.search_page,
             )
-            search_result = await self.execute_action(search_action)
 
-            if not search_result.is_error:
-                search_response = SearchResponse.model_validate(search_result.content)
-                business_names = [ba.business.name for ba in search_response.businesses]
-                business_names_str = ",".join(business_names)
+            result = await self.send_message("marketplace", request)
+            self._event_history.append((action, result))
 
-                self.logger.info(
-                    f'Search: "{search_action.query}", {search_action.search_algorithm}, resulting in {len(search_response.businesses)} business(es) found out of {search_response.total_possible_results} total business(es). Showing page {action.search_page} of {search_response.total_pages}.'
-                )
-                self.logger.info(f"Search Result: {business_names_str}")
-                self._event_history.append((action, search_response))
-            else:
-                self._event_history.append((action, search_result))
         # Check for new messages
         elif action.action_type == "check_messages":
             fetch_response = await self.fetch_messages()
@@ -231,6 +222,7 @@ class CustomerAgent(BaseSimpleMarketplaceAgent[CustomerAgentProfile]):
             messages = fetch_response.messages
             await self._process_new_messages(messages)
             return len(messages) > 0
+        
         elif action.action_type == "send_messages":
             # Send messages directly with proper error handling
             if action.messages is None:

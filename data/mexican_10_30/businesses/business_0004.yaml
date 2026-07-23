@@ -1,24 +1,46 @@
 id: business_0004
-name: Mucho Ado About Salsa
-description: Bold, bright, and full of vibrant flavors, our kitchen puts a fresh twist
-  on Mexican and Tex-Mex classics. Enjoy a fiesta of inventive tacos, zesty bowls,
-  and crave-worthy shareables, all crafted with a playful spirit.
+name: Masa & Ember
+description: Masa & Ember brings vibrant Mexican and Tex-Mex flavors to life with
+  a creative menu full of bold, fresh ingredients. Enjoy delicious small plates, vibrant
+  enchiladas, zesty margaritas, and street-inspired favorites in a lively, modern
+  setting.
 rating: 1.0
 progenitor_customer: customer_0002
 menu_features:
-  Chipotle Lime Cauliflower Tacos: 13.69
-  Vanilla Cinnamon Horchata: 2.77
-  Blue Corn Tortilla Soup: 8.3
-  Loaded Nacho Platter: 10.11
-  Honey Lime Chicken Fajitas: 15.38
-  Fajita Veggie Burrito Bowl: 13.45
-  Grilled Steak Quesadilla: 14.11
-  Street Corn Fritters: 7.26
-  Sweet and Spicy Chicken Tostadas: 9.81
-  Cactus Jack Quesadilla: 12.15
-  Spicy Beef Enchilada Bake: 10.77
-  Black Bean Avocado Enchiladas: 11.34
-  Street Corn Elote: 5.21
-  Pineapple Tequila Chicken Skewers: 17.31
+  Spicy Black Bean Enchiladas: 11.47
+  Smoky Chipotle BBQ Wings: 11.74
+  Classic Lime Margarita: 8.48
+  Sizzling Fajita Platter: 15.51
+  Hibiscus Agua Fresca: 3.4
+  Chili Lime Margarita: 8.44
+  Black Bean & Cheese Tostadas: 9.2
+  Honey Lime Grilled Chicken: 15.61
+  Blue Corn Tortilla Soup: 7.98
+  Crispy Avocado Tostadas: 10.12
+  Fresh Mango Salsa Nachos: 9.99
+  Black Bean Avocado Enchiladas: 7.91
+  Fiesta Street Corn: 5.6
+  Ancho Chili Braised Beef Enchiladas: 14.43
+  Grilled Pineapple Dessert Quesadilla: 9.29
+  Shrimp Ceviche Cups: 9.16
+  Red Chili Chicken Pozole: 12.85
 amenity_features: {}
-min_price_factor: 0.81
+min_price_factor: 0.94
+minimum_menu_prices:
+  Spicy Black Bean Enchiladas: 10.78
+  Smoky Chipotle BBQ Wings: 11.04
+  Classic Lime Margarita: 7.97
+  Sizzling Fajita Platter: 14.58
+  Hibiscus Agua Fresca: 3.2
+  Chili Lime Margarita: 7.93
+  Black Bean & Cheese Tostadas: 8.65
+  Honey Lime Grilled Chicken: 14.67
+  Blue Corn Tortilla Soup: 7.5
+  Crispy Avocado Tostadas: 9.51
+  Fresh Mango Salsa Nachos: 9.39
+  Black Bean Avocado Enchiladas: 7.44
+  Fiesta Street Corn: 5.26
+  Ancho Chili Braised Beef Enchiladas: 13.56
+  Grilled Pineapple Dessert Quesadilla: 8.73
+  Shrimp Ceviche Cups: 8.61
+  Red Chili Chicken Pozole: 12.08

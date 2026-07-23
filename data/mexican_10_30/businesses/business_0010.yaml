@@ -1,24 +1,35 @@
 id: business_0010
-name: Citrus & Chile Kitchen
-description: Experience vibrant Mexican and Tex-Mex flavors crafted with fresh ingredients
-  and a creative twist. From zesty grilled dishes to refreshing coolers and decadent
-  desserts, every meal brings a bold and modern taste of tradition.
+name: Guac and Awe
+description: Step into a vibrant celebration of fresh flavors with a playful Tex-Mex
+  twist. Our colorful creations and zesty bites are sure to wow your taste buds, from
+  sizzling plates to refreshing sips.
 rating: 1.0
 progenitor_customer: customer_0004
 menu_features:
-  Spicy Chipotle Chicken Wrap: 11.61
-  Guava Limeade Cooler: 4.3
-  Ancho Chile Beef Chili: 13.74
-  Al Pastor Pork Tacos: 12.12
-  Crispy Tinga Chicken Tacos: 11.59
-  Margarita Grilled Chicken: 14.32
-  Coconut Flan Delight: 6.25
-  Blue Corn Tortilla Chips: 4.16
-  Tequila Lime Grilled Shrimp: 14.74
-  Coconut Lime Rice Bowl: 11.86
-  Southwest Chopped Salad: 8.87
-  Al Pastor Quesadilla: 9.99
-  Verde Ranchero Huevos: 10.1
-  Black Bean and Cilantro Rice: 4.19
+  Crispy Avocado Bites: 8.46
+  Fresh Watermelon Aqua Fresca: 4.66
+  Sizzling Fajita Plate: 16.69
+  Veggie Fajita Platter: 13.05
+  Chili Lime Jicama Sticks: 5.65
+  Fresh Mango Salsa Nachos: 8.49
+  Honey-Lime Grilled Salmon: 16.11
+  Sweet Corn Tamale Cake: 8.39
+  Spicy Beef Enchilada Bake: 13.44
+  Twice-Baked Sweet Potato: 7.36
+  Grilled Pineapple and Pork Tacos: 10.03
+  Tex-Mex Fajita Wrap: 11.02
 amenity_features: {}
-min_price_factor: 0.94
+min_price_factor: 0.61
+minimum_menu_prices:
+  Crispy Avocado Bites: 5.16
+  Fresh Watermelon Aqua Fresca: 2.84
+  Sizzling Fajita Plate: 10.18
+  Veggie Fajita Platter: 7.96
+  Chili Lime Jicama Sticks: 3.45
+  Fresh Mango Salsa Nachos: 5.18
+  Honey-Lime Grilled Salmon: 9.83
+  Sweet Corn Tamale Cake: 5.12
+  Spicy Beef Enchilada Bake: 8.2
+  Twice-Baked Sweet Potato: 4.49
+  Grilled Pineapple and Pork Tacos: 6.12
+  Tex-Mex Fajita Wrap: 6.72

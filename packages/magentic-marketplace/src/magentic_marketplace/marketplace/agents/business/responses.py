@@ -124,9 +124,6 @@ class ResponseHandler:
                     id=deterministic_id,
                     items=proposal.items,
                     total_price=proposal.total_price,
-                    special_instructions=proposal.special_instructions,
-                    estimated_delivery=proposal.estimated_delivery,
-                    expiry_time=proposal.expiry_time,
                 )
 
                 return proposal_with_id

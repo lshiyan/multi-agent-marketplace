@@ -1,26 +1,41 @@
 id: business_0029
-name: Skewered & Sauced
-description: "Where classic Mexican flavors sizzle with a modern twist\u2014fresh,\
-  \ fiery, and full of color. Enjoy creative street eats, shareable plates, and vibrant\
-  \ drinks in a fun, fiesta-inspired setting."
+name: Cantina Cielo Verde
+description: Experience vibrant Mexican and Tex-Mex flavors in a lively and welcoming
+  atmosphere. Enjoy fresh, zesty dishes and inventive drinks that celebrate the spirit
+  of the Southwest.
 rating: 1.0
 progenitor_customer: customer_0010
 menu_features:
-  Chipotle Lime Chicken Skewers: 10.3
-  Fresh Lime Cilantro Rice: 3.19
-  Pork Carnitas Platter: 12.91
-  Blue Corn Enchilada Bake: 14.72
-  Molten Queso Fundido: 6.77
-  Mango Habanero Salsa: 4.21
-  Crispy Avocado Wedges: 8.26
-  Pineapple Chipotle Pork: 13.45
-  Horchata Iced Coffee: 5.21
-  Mexican Hot Chocolate: 4.78
-  Mini Street Tacos Platter: 11.25
-  Stuffed Chicken Poblano: 12.44
-  Tamarind Citrus Margarita: 8.97
-  Grilled Street Corn: 5.21
-  Crispy Carnitas Tacos: 11.09
-  Chocolate Mole Chicken: 12.68
+  Charred Corn & Cotija Nachos: 8.17
+  Grilled Pineapple Mojito: 9.49
+  Spiced Churro Bites: 5.7
+  Cilantro Lime Grilled Shrimp: 14.45
+  Chili Lime Skirt Steak: 18.8
+  Cinnamon Sugar Sopapillas: 5.09
+  Mexican Chocolate Lava Cake: 8.03
+  Creamy Avocado Smoothie: 5.19
+  Black Bean Avocado Enchiladas: 13.34
+  Spicy Chicken Tortilla Soup: 6.37
+  Agave Lime Margarita: 11.22
+  Southwest Chopped Salad: 10.58
+  Spicy Avocado Smash Burger: 11.0
+  Black Bean Chili Bowl: 8.14
+  Zesty Lime Grilled Chicken: 14.62
 amenity_features: {}
-min_price_factor: 0.6
+min_price_factor: 0.76
+minimum_menu_prices:
+  Charred Corn & Cotija Nachos: 6.21
+  Grilled Pineapple Mojito: 7.21
+  Spiced Churro Bites: 4.33
+  Cilantro Lime Grilled Shrimp: 10.98
+  Chili Lime Skirt Steak: 14.29
+  Cinnamon Sugar Sopapillas: 3.87
+  Mexican Chocolate Lava Cake: 6.1
+  Creamy Avocado Smoothie: 3.94
+  Black Bean Avocado Enchiladas: 10.14
+  Spicy Chicken Tortilla Soup: 4.84
+  Agave Lime Margarita: 8.53
+  Southwest Chopped Salad: 8.04
+  Spicy Avocado Smash Burger: 8.36
+  Black Bean Chili Bowl: 6.19
+  Zesty Lime Grilled Chicken: 11.11

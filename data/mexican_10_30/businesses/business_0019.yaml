@@ -1,26 +1,35 @@
 id: business_0019
-name: Poblano Palate
-description: Savor bold Mexican and Tex-Mex flavors made with fresh, vibrant ingredients.
-  From sizzling skillets to sweet treats, our menu offers a colorful twist on timeless
-  classics.
+name: Pico & Platter
+description: Pico & Platter brings a modern twist to Mexican and Tex-Mex favorites
+  with vibrant, bold flavors and fresh ingredients. Enjoy creative dishes and refreshing
+  drinks in a lively, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0007
 menu_features:
-  Coconut Lime Tres Leches: 6.01
-  Gourmet Nacho Platter: 10.21
-  Mexican Hot Chocolate: 5.23
-  Roasted Poblano Veggie Skillet: 12.46
-  Blueberry Agave Margarita: 11.9
-  Verde Ranchero Huevos: 11.95
-  Tamale Trio Sampler: 12.6
-  Fresh Corn Elote: 4.12
-  Crispy Fish Street Tacos: 19.3
-  Sizzling Chicken Fajitas: 13.53
-  Loaded Sweet Potato Fries: 7.42
-  Avocado Ranch Burrito Bowl: 11.73
-  Verde Chicken Enchiladas: 9.57
-  Creamy Avocado Caesar Salad: 8.58
-  Three-Cheese Enchilada Stack: 13.36
-  Classic Tortilla Soup: 6.33
+  Loaded Sweet Potato Fries: 6.29
+  Beef Barbacoa Burrito Bowl: 11.2
+  Mesquite Grilled Steak Fajitas: 13.26
+  Tamale Pie Casserole: 14.12
+  Black Bean Stuffed Sweet Potatoes: 10.04
+  Roasted Poblano Quesadilla: 10.2
+  Hibiscus Agua Fresca: 3.35
+  Crisp Jicama Slaw: 4.35
+  Crispy Avocado Nachos: 8.11
+  Honey Lime Grilled Fajitas: 12.0
+  Crispy Avocado Burrito: 14.61
+  Fresh Mango Salsa Nachos: 8.28
 amenity_features: {}
-min_price_factor: 0.83
+min_price_factor: 0.75
+minimum_menu_prices:
+  Loaded Sweet Potato Fries: 4.72
+  Beef Barbacoa Burrito Bowl: 8.4
+  Mesquite Grilled Steak Fajitas: 9.95
+  Tamale Pie Casserole: 10.59
+  Black Bean Stuffed Sweet Potatoes: 7.53
+  Roasted Poblano Quesadilla: 7.65
+  Hibiscus Agua Fresca: 2.51
+  Crisp Jicama Slaw: 3.26
+  Crispy Avocado Nachos: 6.08
+  Honey Lime Grilled Fajitas: 9.0
+  Crispy Avocado Burrito: 10.96
+  Fresh Mango Salsa Nachos: 6.21

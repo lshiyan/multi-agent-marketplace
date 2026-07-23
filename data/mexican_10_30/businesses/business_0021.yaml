@@ -1,26 +1,37 @@
 id: business_0021
-name: Luna & Lime Kitchen
-description: Luna & Lime Kitchen brings a vibrant, modern twist to classic Mexican
-  and Tex-Mex flavors. Delight in bold spices, fresh ingredients, and a warm, lively
-  atmosphere perfect for sharing and savoring.
+name: "Az\xFAcar & Ember"
+description: "A vibrant spot blending modern Mexican and Tex-Mex flavors, Az\xFAcar\
+  \ & Ember serves up fresh, flavorful meals and crave-worthy sweets in a lively,\
+  \ welcoming atmosphere. Savor smoky, zesty, and sweet bites with every visit."
 rating: 1.0
 progenitor_customer: customer_0007
 menu_features:
-  Spiced Pumpkin Empanadas: 4.55
-  Spicy Avocado Burger: 13.14
-  Warm Cinnamon Churros: 5.44
-  Tequila Lime Chicken Wings: 9.58
-  Cheesy Jalapeno Poppers: 9.63
-  Avocado Lime Dip: 7.88
-  Fresh Limeade: 3.18
-  Grilled Street Corn: 6.62
-  Toasted Coconut Flan: 5.71
-  Cinnamon Sugar Sopapillas: 6.89
-  Tangy Tomato Salsa Soup: 6.85
-  Mexican Chocolate Milkshake: 5.73
-  Avocado Ranch Burrito Bowl: 15.56
-  Ancho Chili Rubbed Steak: 15.35
-  Al Pastor Pork Tacos: 12.39
-  Crispy Carnitas Quesadilla: 12.41
+  Chocolate Churro Bites: 6.67
+  Pumpkin Spice Flan: 6.6
+  Horchata Iced Latte: 5.85
+  Poblano Pepper Queso Dip: 7.26
+  Pork Carnitas Platter: 13.23
+  Agave Lime Chicken Skewers: 14.65
+  Chipotle Lime Shrimp Skewers: 15.34
+  Hibiscus Agua Fresca: 3.49
+  Southwest Chopped Salad: 9.01
+  Crispy Avocado Burrito: 10.9
+  Chorizo Breakfast Burrito: 8.98
+  Cocoa Cinnamon Tequila: 8.47
+  Adobo Roasted Corn Salad: 8.76
 amenity_features: {}
-min_price_factor: 0.84
+min_price_factor: 0.91
+minimum_menu_prices:
+  Chocolate Churro Bites: 6.07
+  Pumpkin Spice Flan: 6.01
+  Horchata Iced Latte: 5.32
+  Poblano Pepper Queso Dip: 6.61
+  Pork Carnitas Platter: 12.04
+  Agave Lime Chicken Skewers: 13.33
+  Chipotle Lime Shrimp Skewers: 13.96
+  Hibiscus Agua Fresca: 3.18
+  Southwest Chopped Salad: 8.2
+  Crispy Avocado Burrito: 9.92
+  Chorizo Breakfast Burrito: 8.17
+  Cocoa Cinnamon Tequila: 7.71
+  Adobo Roasted Corn Salad: 7.97

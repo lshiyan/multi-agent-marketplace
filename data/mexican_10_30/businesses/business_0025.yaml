@@ -1,27 +1,41 @@
 id: business_0025
-name: Fiesta Flame
-description: Experience the vibrant flavors of modern Mexican and Tex-Mex cuisine
-  in a lively, welcoming atmosphere. From zesty starters to sizzling main courses
-  and creative drinks, every dish is crafted to ignite your taste buds.
+name: Avocado Grove
+description: A fresh, inviting spot serving modern Mexican and Tex-Mex flavors with
+  bold spices and garden-inspired twists. Enjoy a vibrant atmosphere and creative
+  dishes perfect for breakfast, lunch, or an evening out.
 rating: 1.0
 progenitor_customer: customer_0009
 menu_features:
-  Roasted Poblano Queso Dip: 6.55
-  Chili-Lime Cauliflower Bites: 9.34
-  Chipotle Lime Chicken Salad: 10.43
-  Queso Fundido Supreme: 11.35
-  Horchata Latte: 5.03
-  Veggie Fajita Platter: 15.78
-  Passionfruit Paloma: 7.91
-  Queso Fundido with Chorizo: 9.01
-  Black Bean and Sweet Potato Empanadas: 10.09
-  Grilled Elote Corn: 5.09
-  Blueberry Hibiscus Margarita: 8.29
-  Tangy Tomato Salsa Soup: 7.85
-  Sizzling Chicken Fajitas: 15.18
-  Smoky Black Bean Tostadas: 7.5
-  Verde Chicken Enchiladas: 12.01
-  Cocoa Dusted Churro Bites: 5.39
-  Coconut Lime Margarita: 10.6
+  Mexican Coffee Flan: 6.45
+  Cilantro Lime Grilled Shrimp: 12.16
+  Avocado & Tomato Breakfast Tostadas: 9.24
+  Blueberry Mint Agua Fresca: 3.85
+  Spicy Avocado Smash Burger: 13.43
+  Shrimp Ceviche Cups: 12.04
+  Sweet Corn Tostadas: 8.91
+  Black Bean Stuffed Sweet Potatoes: 8.22
+  Crispy Avocado Wedges: 6.24
+  Sizzling Carne Asada: 17.42
+  Spicy Black Bean Nachos: 7.24
+  Horchata Cold Brew Coffee: 4.94
+  Passion Fruit Agua Fresca: 3.57
+  Grilled Pineapple Salsa: 6.43
+  Tamarind Citrus Margarita: 9.54
 amenity_features: {}
-min_price_factor: 0.87
+min_price_factor: 0.7
+minimum_menu_prices:
+  Mexican Coffee Flan: 4.51
+  Cilantro Lime Grilled Shrimp: 8.51
+  Avocado & Tomato Breakfast Tostadas: 6.47
+  Blueberry Mint Agua Fresca: 2.69
+  Spicy Avocado Smash Burger: 9.4
+  Shrimp Ceviche Cups: 8.43
+  Sweet Corn Tostadas: 6.24
+  Black Bean Stuffed Sweet Potatoes: 5.75
+  Crispy Avocado Wedges: 4.37
+  Sizzling Carne Asada: 12.19
+  Spicy Black Bean Nachos: 5.07
+  Horchata Cold Brew Coffee: 3.46
+  Passion Fruit Agua Fresca: 2.5
+  Grilled Pineapple Salsa: 4.5
+  Tamarind Citrus Margarita: 6.68

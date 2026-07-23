@@ -1,12 +1,9 @@
 id: customer_0010
-name: Liam Turner
-request: 'I would like assistance in locating a business where I can place an order
-  for the following items: 1 Blue Corn Enchilada Bake, 1 Stuffed Chicken Poblano,
-  and 1 Horchata Iced Coffee. It is important that the business can fulfill this exact
-  order. Once identified, I intend to proceed with placing the order. Thank you for
-  your help.'
+name: Olivia Clark
+request: Could you please help me find a business that offers both a Spicy Avocado
+  Smash Burger and Black Bean Avocado Enchiladas? I would like to place an order for
+  exactly 1 of each. Thank you very much!
 menu_features:
-  Blue Corn Enchilada Bake: 13.49
-  Stuffed Chicken Poblano: 13.49
-  Horchata Iced Coffee: 4.49
+  Spicy Avocado Smash Burger: 12.49
+  Black Bean Avocado Enchiladas: 11.99
 amenity_features: []

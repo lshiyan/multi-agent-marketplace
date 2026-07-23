@@ -8,7 +8,7 @@ from pydantic import BaseModel, Field, model_validator
 from magentic_marketplace.platform.shared.models import ActionExecutionResult
 
 from ...actions.actions import FetchMessagesResponse, SearchResponse
-from ...actions.messaging import Payment, TextMessage
+from ...actions.messaging import Payment, TextMessage, SearchResultsMessage
 
 
 @dataclass
@@ -20,21 +20,24 @@ class CustomerSendMessageResults:
 
 
 class AssistantTextMessageRequest(TextMessage):
-    """Request for sending a text message to the centralized marketplace."""
+    """A message sent directly to a business."""
 
-    to_business_id: Literal["marketplace"] = Field(
-        default="marketplace",
-        description='Must always be "marketplace".',
+    to_business_id: str = Field(
+        min_length=1,
+        description=(
+            "ID of a business returned by the marketplace search."
+        ),
     )
-
 
 class AssistantPayMessageRequest(Payment):
-    """Request for accepting an order proposal."""
+    """Accept an order proposal from a business."""
 
-    to_business_id: Literal["marketplace"] = Field(
-        default="marketplace",
-        description='Must always be "marketplace".',
-    )
+    to_business_id: str = Field(
+        min_length=1,
+        description=(
+            "ID of the business that sent the proposal."
+        ),
+    )   
 
 class Messages(BaseModel):
     """Messages to be sent to services.
@@ -59,7 +62,7 @@ class CustomerAction(BaseModel):
     """
 
     action_type: Literal[
-        "search_businesses", "send_messages", "check_messages", "end_transaction"
+        "search_businesses", "send_messages", "check_messages", "no_purchase", "end_transaction"
     ] = Field(description="Type of action to take")
     reason: str = Field(description="Reason for taking this action")
 
@@ -112,4 +115,5 @@ CustomerActionResult = (
     | SearchResponse
     | CustomerSendMessageResults
     | FetchMessagesResponse
+    | SearchResultsMessage
 )

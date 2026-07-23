@@ -2,6 +2,7 @@
 """Script to run marketplace experiments using YAML configuration files."""
 
 import socket
+import random
 from datetime import datetime
 from pathlib import Path
 
@@ -89,13 +90,6 @@ async def run_marketplace_experiment(
         logger.info(
             f"Marketplace experiment started:\nbusinesses={len(businesses)}\ncustomers={len(customers)}\ndata_dir={data_dir}\nexperiment_name:{experiment_name}",
         )
-        
-        async with MarketplaceClient(marketplace_launcher.server_url) as client:
-            for business in businesses:
-                profile = BusinessAgentProfile.from_business(business)
-                await client.agents.register(profile)
-
-        print(f"Registered {len(businesses)} searchable businesses")
 
         # Create agents from loaded profiles
         marketplace_agent = [
@@ -118,14 +112,18 @@ async def run_marketplace_experiment(
             for customer in customers
         ]
 
-        # Create agent launcher and run agents with dependency management
-        async with AgentLauncher(marketplace_launcher.server_url) as agent_launcher:
-            try:
-                await agent_launcher.run_agents_with_dependencies(
-                    primary_agents=customer_agents, dependent_agents=marketplace_agent
-                )
-            except KeyboardInterrupt:
-                logger.warning("Simulation interrupted by user")
+        for i in range(5):
+            
+            logger.info(f"Starting run {i+1} out of {10}.")
+            sampled_customers = random.sample(customer_agents, 2)
+            # Create agent launcher and run agents with dependency management
+            async with AgentLauncher(marketplace_launcher.server_url) as agent_launcher:
+                try:
+                    await agent_launcher.run_agents_with_dependencies(
+                        primary_agents=sampled_customers, dependent_agents=[*marketplace_agent, *business_agents]
+                    )
+                except KeyboardInterrupt:
+                    logger.warning("Simulation interrupted by user")
 
         # Convert PostgreSQL database to SQLite (if requested)
         if export_sqlite:

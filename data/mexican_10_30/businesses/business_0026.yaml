@@ -1,25 +1,35 @@
 id: business_0026
-name: Sabor Sereno Cocina
-description: Experience the vibrant flavors of Mexico and the Southwest in a welcoming,
-  relaxed setting. Savor fresh salads, hearty bowls, classic favorites, and chef-inspired
-  cocktails from our creative menu.
+name: Pueblo Palate
+description: Pueblo Palate serves up a creative twist on Mexican and Tex-Mex classics
+  in a cozy, welcoming atmosphere. Experience bold flavors and fresh ingredients through
+  a variety of inventive dishes and refreshing beverages.
 rating: 1.0
 progenitor_customer: customer_0009
 menu_features:
-  Blue Corn Tostada Salad: 11.68
-  Blueberry Tequila Sunrise: 9.85
-  Black Bean Chili Bowl: 9.07
-  Three-Cheese Enchilada Stack: 12.91
-  Crispy Tortilla Breakfast Bowl: 12.0
-  Tequila Sunrise Smoothie: 7.07
-  Passionfruit Paloma: 10.1
-  Breakfast Chorizo Torta: 8.6
-  Grilled Elote Corn: 4.43
-  Chocolate Churro Bites: 5.23
-  Grilled Pineapple and Pork Tacos: 15.11
-  Grilled Shrimp Quesadilla: 13.46
-  Smoky Chipotle Steak Fajitas: 13.42
-  Chipotle Lime Chicken Salad: 13.35
-  Stuffed Poblano Peppers: 14.33
+  Warm Churro Bites: 6.14
+  Rich Chocolate Tamales: 6.72
+  Black Bean and Avocado Wrap: 9.22
+  Roasted Poblano Rellenos: 15.63
+  Sweet Corn Tostadas: 7.83
+  Tamarind Spiced Agua Fresca: 4.1
+  Pico Avocado Toast: 7.65
+  Coconut Lime Shrimp Skewers: 14.05
+  Mango Jalapeno Slush: 3.38
+  Black Bean & Corn Quesadilla: 9.49
+  Spicy Avocado Smash Burger: 12.92
+  Twice-Baked Sweet Potato: 8.59
 amenity_features: {}
-min_price_factor: 0.86
+min_price_factor: 0.87
+minimum_menu_prices:
+  Warm Churro Bites: 5.34
+  Rich Chocolate Tamales: 5.85
+  Black Bean and Avocado Wrap: 8.02
+  Roasted Poblano Rellenos: 13.6
+  Sweet Corn Tostadas: 6.81
+  Tamarind Spiced Agua Fresca: 3.57
+  Pico Avocado Toast: 6.66
+  Coconut Lime Shrimp Skewers: 12.22
+  Mango Jalapeno Slush: 2.94
+  Black Bean & Corn Quesadilla: 8.26
+  Spicy Avocado Smash Burger: 11.24
+  Twice-Baked Sweet Potato: 7.47

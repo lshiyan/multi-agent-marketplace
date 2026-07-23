@@ -1,26 +1,39 @@
 id: business_0015
-name: Holy Queso!
-description: Dive into a playful twist on Mexican and Tex-Mex favorites, where queso
-  flows, street corn sizzles, and bold flavors meet creative flair. From crispy bites
-  to sweet finales, every dish is crafted for a fiesta in every bite.
+name: Crisp & Crema Cantina
+description: A vibrant spot where bold Mexican and Tex-Mex flavors take center stage.
+  Enjoy handcrafted dishes from sizzling skewers to fresh elote, all paired with lively
+  drinks in a warm, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0005
 menu_features:
-  Ancho Chili Braised Beef Enchiladas: 13.23
-  Street Corn Elote: 4.78
-  Black Bean & Corn Queso Dip: 6.78
-  Caramelized Onion and Goat Cheese Empanadas: 6.77
-  Roasted Pecan Flan: 6.15
-  Queso Fundido with Chorizo: 9.21
-  Spicy Black Bean Nacho Platter: 10.69
-  Crispy Avocado Bites: 9.63
-  Chipotle Chicken Enchiladas: 13.75
-  Strawberry Jalapeno Lemonade: 4.79
-  Roasted Pepper Queso Dip: 6.97
-  Blueberry Agave Agua Fresca: 6.18
-  Spicy Pineapple Salsa Dip: 5.68
-  Honey Lime Chicken Fajitas: 12.9
-  Chili Lime Street Corn: 5.61
-  Grilled Elote Corn: 2.79
+  Street Corn Elote: 4.88
+  Fresh Corn Elote: 2.91
+  Chipotle Bourbon Carnitas: 15.86
+  Zesty Lime Shrimp Skewers: 14.55
+  Honey Lime Grilled Fajitas: 15.49
+  Al Pastor Quesadilla: 9.3
+  Avocado Lime Crema Tostadas: 9.13
+  Crispy Tinga Chicken Tacos: 9.83
+  Strawberry Jalapeno Lemonade: 3.71
+  Crispy Fish Tacos: 11.39
+  Vegetarian Tamale Platter: 11.89
+  Grilled Shrimp Quesadilla: 12.12
+  Jalapeno Cheddar Cornbread: 5.93
+  Avocado Lime Quinoa Bowl: 8.84
 amenity_features: {}
-min_price_factor: 0.79
+min_price_factor: 0.78
+minimum_menu_prices:
+  Street Corn Elote: 3.81
+  Fresh Corn Elote: 2.27
+  Chipotle Bourbon Carnitas: 12.37
+  Zesty Lime Shrimp Skewers: 11.35
+  Honey Lime Grilled Fajitas: 12.08
+  Al Pastor Quesadilla: 7.25
+  Avocado Lime Crema Tostadas: 7.12
+  Crispy Tinga Chicken Tacos: 7.67
+  Strawberry Jalapeno Lemonade: 2.89
+  Crispy Fish Tacos: 8.88
+  Vegetarian Tamale Platter: 9.27
+  Grilled Shrimp Quesadilla: 9.45
+  Jalapeno Cheddar Cornbread: 4.63
+  Avocado Lime Quinoa Bowl: 6.9

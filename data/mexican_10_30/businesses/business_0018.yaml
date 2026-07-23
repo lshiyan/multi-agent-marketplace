@@ -1,24 +1,37 @@
 id: business_0018
-name: Mint & Masa
-description: Blending bold Mexican flavors with a fresh, modern twist, Mint & Masa
-  serves up vibrant classics alongside creative cocktails. Enjoy a colorful journey
-  of taste, from zesty street favorites to rich, comforting plates.
+name: Carnitas Corner
+description: Experience vibrant Mexican and Tex-Mex flavors at Carnitas Corner, where
+  classic dishes and refreshing beverages come together in a cozy, welcoming atmosphere.
+  Start your day or end your evening with our inventive plates and signature drinks.
 rating: 1.0
 progenitor_customer: customer_0006
 menu_features:
-  Classic Mojito with Mint: 8.29
-  Sweet Plantain Empanadas: 7.62
-  Chili Lime Margarita: 9.43
-  Coffee Cinnamon Mexican Mocha: 5.82
-  Mexican Street Corn Dip: 10.98
-  Margarita Lime Cheesecake: 6.98
-  Creamy Avocado Soup: 7.42
-  Baja Fish Taco Plate: 15.95
-  Sea Breeze Ceviche: 13.66
-  Street Corn Elote: 6.08
-  Citrus Cilantro Rice: 5.56
-  Chipotle Chicken Burrito Bowl: 15.85
-  Street Corn Quesadilla: 10.95
-  Midnight Mole Enchiladas: 10.52
+  Pineapple Agua Fresca: 4.42
+  Spicy Beef Chimichangas: 12.84
+  Pork Carnitas Platter: 15.17
+  Vanilla Almond Horchata: 3.77
+  Roasted Corn and Black Bean Salad: 8.39
+  Toasted Coconut Flan: 5.64
+  Carnitas Breakfast Burrito: 10.89
+  Mushroom & Cheese Tamales: 6.7
+  Golden Tequila Sunrise: 9.46
+  Crispy Tortilla Breakfast Bowl: 9.75
+  Avocado Lime Salad: 9.43
+  Roasted Pepper Queso Dip: 7.34
+  Classic Mojito with Mint: 8.14
 amenity_features: {}
-min_price_factor: 0.84
+min_price_factor: 0.85
+minimum_menu_prices:
+  Pineapple Agua Fresca: 3.76
+  Spicy Beef Chimichangas: 10.91
+  Pork Carnitas Platter: 12.89
+  Vanilla Almond Horchata: 3.2
+  Roasted Corn and Black Bean Salad: 7.13
+  Toasted Coconut Flan: 4.79
+  Carnitas Breakfast Burrito: 9.26
+  Mushroom & Cheese Tamales: 5.7
+  Golden Tequila Sunrise: 8.04
+  Crispy Tortilla Breakfast Bowl: 8.29
+  Avocado Lime Salad: 8.02
+  Roasted Pepper Queso Dip: 6.24
+  Classic Mojito with Mint: 6.92

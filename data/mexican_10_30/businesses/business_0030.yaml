@@ -1,26 +1,35 @@
 id: business_0030
-name: Pico & Poblano
-description: Discover bold flavors and vibrant colors at Pico & Poblano, where classic
-  Mexican and Tex-Mex traditions meet creative culinary twists. Enjoy a curated menu
-  featuring favorites from smoky grilled dishes to fresh, zesty plates in a lively,
-  welcoming atmosphere.
+name: Taco the Town
+description: Dive into bold, fresh flavors and vibrant eats with a creative twist
+  on classic Mexican and Tex-Mex favorites. From hearty bowls to zesty salads and
+  sizzling platters, every dish is crafted to delight your taste buds.
 rating: 1.0
 progenitor_customer: customer_0010
 menu_features:
-  Cilantro Lime Shrimp Skewers: 11.49
-  Stuffed Chicken Poblano: 16.56
-  Black Bean and Sweet Potato Empanadas: 9.09
-  Cactus Jack Quesadilla: 13.67
-  Citrus Grilled Chicken Tacos: 11.06
-  Tres Leches Cake: 7.49
-  Pico Avocado Toast: 8.82
-  Roasted Poblano Quesadilla: 11.4
-  Blue Corn Enchilada Bake: 15.39
-  Horchata Iced Coffee: 4.69
-  Spicy Chocolate Lava Cake: 8.18
-  Pineapple Salsa Pork Tacos: 13.79
-  Black Bean Sweet Potato Burrito: 7.0
-  Crispy Avocado Fritters: 7.88
-  Roasted Poblano and Cheese Empanadas: 8.1
+  Black Bean Taco Bowl: 9.47
+  Black Bean & Cheese Enchiladas: 11.07
+  Loaded Nacho Platter: 10.8
+  Chipotle Lime Chicken Salad: 14.21
+  Sizzling Pork Carnitas Bowl: 13.13
+  Spicy Avocado Smash Burger: 12.17
+  Toasted Coconut Flan: 6.07
+  Black Bean Avocado Enchiladas: 13.04
+  Tequila Sunrise Smoothie: 7.04
+  Crisp Jicama Slaw: 5.16
+  Spicy Street Corn: 5.13
+  Stuffed Chicken Poblano: 14.6
 amenity_features: {}
-min_price_factor: 0.81
+min_price_factor: 0.67
+minimum_menu_prices:
+  Black Bean Taco Bowl: 6.34
+  Black Bean & Cheese Enchiladas: 7.42
+  Loaded Nacho Platter: 7.24
+  Chipotle Lime Chicken Salad: 9.52
+  Sizzling Pork Carnitas Bowl: 8.8
+  Spicy Avocado Smash Burger: 8.15
+  Toasted Coconut Flan: 4.07
+  Black Bean Avocado Enchiladas: 8.74
+  Tequila Sunrise Smoothie: 4.72
+  Crisp Jicama Slaw: 3.46
+  Spicy Street Corn: 3.44
+  Stuffed Chicken Poblano: 9.78

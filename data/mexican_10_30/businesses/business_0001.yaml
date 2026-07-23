@@ -1,25 +1,34 @@
 id: business_0001
-name: "Guac n\u2019 Roll"
-description: "Experience a fresh spin on Mexican and Tex-Mex classics, where bold\
-  \ flavors and unique twists take center stage. From zesty appetizers to unforgettable\
-  \ entr\xE9es and sweet treats, every bite brings the fiesta to you."
+name: La Cocina Alegre
+description: Experience the vibrant flavors of Mexico and the Southwest at La Cocina
+  Alegre, where classic dishes and modern twists come together in a warm, inviting
+  atmosphere. Perfect for breakfast, lunch, or a sweet treat, our kitchen celebrates
+  bold spices and fresh ingredients.
 rating: 1.0
 progenitor_customer: customer_0001
 menu_features:
-  Carnitas Plantain Burrito: 12.27
-  Sizzling Carne Asada: 19.0
-  Caramel Apple Empanadas: 6.59
-  Fresh Lime Cilantro Rice: 2.65
-  Sweet Chili Lime Elote: 4.27
-  Raspberry Chipotle Barbecue Ribs: 14.22
-  Queso Fundido Supreme: 9.58
-  Coconut Tres Leches: 6.29
-  Pico Avocado Toast: 8.32
-  "Cheesy Jalape\xF1o Queso Dip": 6.69
-  Hatch Green Chile Stew: 11.23
-  Tex-Mex Breakfast Skillet: 10.74
-  Citrus Cilantro Rice: 4.36
-  Carne Asada Nachos: 15.32
-  Spiced Agave Margarita: 10.08
+  Coconut Flan Delight: 8.12
+  Tex-Mex Breakfast Skillet: 10.18
+  Breakfast Chilaquiles Verde: 9.14
+  Savory Carne Asada Burrito: 10.67
+  Lime-Cilantro Quinoa Salad: 9.19
+  Smoky BBQ Pork Tostadas: 10.56
+  Pineapple Habanero Salsa: 3.52
+  Chipotle Bourbon Carnitas: 17.73
+  Cocoa Dusted Churro Bites: 6.22
+  Spicy Chicken Chimichanga: 13.22
+  Cheesy Jalapeno Queso: 6.7
 amenity_features: {}
-min_price_factor: 0.83
+min_price_factor: 0.88
+minimum_menu_prices:
+  Coconut Flan Delight: 7.15
+  Tex-Mex Breakfast Skillet: 8.96
+  Breakfast Chilaquiles Verde: 8.04
+  Savory Carne Asada Burrito: 9.39
+  Lime-Cilantro Quinoa Salad: 8.09
+  Smoky BBQ Pork Tostadas: 9.29
+  Pineapple Habanero Salsa: 3.1
+  Chipotle Bourbon Carnitas: 15.6
+  Cocoa Dusted Churro Bites: 5.47
+  Spicy Chicken Chimichanga: 11.63
+  Cheesy Jalapeno Queso: 5.9
