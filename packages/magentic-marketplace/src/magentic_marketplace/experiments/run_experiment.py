@@ -3,6 +3,7 @@
 
 import socket
 import random
+import asyncio
 from datetime import datetime
 from pathlib import Path
 
@@ -85,45 +86,115 @@ async def run_marketplace_experiment(
 
     # Use marketplace launcher as async context manager
     async with marketplace_launcher:
-        # Create logger
-        logger = await marketplace_launcher.create_logger("marketplace_experiment")
+        logger = await marketplace_launcher.create_logger(
+            "marketplace_experiment"
+        )
         logger.info(
-            f"Marketplace experiment started:\nbusinesses={len(businesses)}\ncustomers={len(customers)}\ndata_dir={data_dir}\nexperiment_name:{experiment_name}",
+            "Marketplace experiment started:\n"
+            f"businesses={len(businesses)}\n"
+            f"customers={len(customers)}\n"
+            f"data_dir={data_dir}\n"
+            f"experiment_name={experiment_name}"
         )
 
-        # Create agents from loaded profiles
-        marketplace_agent = [
-            MarketplaceAgent(marketplace_launcher.server_url, search_algorithm = search_algorithm, search_bandwidth = search_bandwidth)
-        ]
-
+        # These agents are started once and remain alive for every run.
+        marketplace_agent = MarketplaceAgent(
+            marketplace_launcher.server_url,
+            search_algorithm=search_algorithm,
+            search_bandwidth=search_bandwidth,
+        )
         business_agents = [
-            BusinessAgent(business, marketplace_launcher.server_url)
+            BusinessAgent(
+                business,
+                marketplace_launcher.server_url,
+            )
             for business in businesses
         ]
-         
-        customer_agents = [
-            CustomerAgent(
-                customer,
-                marketplace_launcher.server_url,
-                search_algorithm=search_algorithm,
-                search_bandwidth=search_bandwidth,
-                max_steps=customer_max_steps,
-            )
-            for customer in customers
+        dependent_agents = [
+            marketplace_agent,
+            *business_agents,
         ]
 
-        for i in range(5):
-            
-            logger.info(f"Starting run {i+1} out of {10}.")
-            sampled_customers = random.sample(customer_agents, 2)
-            # Create agent launcher and run agents with dependency management
-            async with AgentLauncher(marketplace_launcher.server_url) as agent_launcher:
-                try:
-                    await agent_launcher.run_agents_with_dependencies(
-                        primary_agents=sampled_customers, dependent_agents=[*marketplace_agent, *business_agents]
+        num_runs = 5
+        customers_per_run = 2
+
+        async with AgentLauncher(
+            marketplace_launcher.server_url
+        ) as agent_launcher:
+            # Start the marketplace and business agents only once.
+            dependent_tasks = [
+                asyncio.create_task(
+                    agent.run(),
+                    name=f"persistent-{type(agent).__name__}-{index}",
+                )
+                for index, agent in enumerate(dependent_agents)
+            ]
+
+            try:
+                # Give persistent agents time to connect and register.
+                await asyncio.sleep(0.2)
+
+                # Surface an immediate startup failure instead of allowing
+                # customer agents to wait indefinitely.
+                for task in dependent_tasks:
+                    if task.done():
+                        task.result()
+
+                for run_index in range(num_runs):
+                    logger.info(
+                        f"Starting run {run_index + 1} "
+                        f"out of {num_runs}."
                     )
-                except KeyboardInterrupt:
-                    logger.warning("Simulation interrupted by user")
+
+                    # Instantiate fresh customer agents for every run.
+                    # A completed CustomerAgent should not be reused.
+                    sampled_customers = random.sample(
+                        customers,
+                        customers_per_run,
+                    )
+                    customer_agents = [
+                        CustomerAgent(
+                            customer,
+                            marketplace_launcher.server_url,
+                            search_algorithm=search_algorithm,
+                            search_bandwidth=search_bandwidth,
+                            max_steps=customer_max_steps,
+                        )
+                        for customer in sampled_customers
+                    ]
+
+                    await agent_launcher.run_agents(*customer_agents)
+
+            except KeyboardInterrupt:
+                logger.warning("Simulation interrupted by user")
+            finally:
+                # Shut down the persistent agents only after every run.
+                logger.info(
+                    "All experiment runs finished; "
+                    "shutting down persistent agents."
+                )
+
+                for agent in dependent_agents:
+                    agent.shutdown()
+
+                persistent_results = await asyncio.gather(
+                    *dependent_tasks,
+                    return_exceptions=True,
+                )
+
+                for agent, result in zip(
+                    dependent_agents,
+                    persistent_results,
+                    strict=True,
+                ):
+                    if isinstance(result, BaseException) and not isinstance(
+                        result,
+                        asyncio.CancelledError,
+                    ):
+                        logger.error(
+                            f"{type(agent).__name__} exited with an error: "
+                            f"{result!r}"
+                    )
 
         # Convert PostgreSQL database to SQLite (if requested)
         if export_sqlite:

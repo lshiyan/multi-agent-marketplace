@@ -1,8 +1,8 @@
 """Prompt generation for the business agent."""
 
 from magentic_marketplace.platform.logger import MarketplaceLogger
-
-from ...shared.models import Business
+from typing import List
+from ...shared.models import Business, Customer
 
 
 class PromptsHandler:
@@ -137,3 +137,31 @@ DECISION PRIORITY:
 REMEMBER: Order proposals let you actively shape the transaction instead of just responding to customer orders!"""
 
         return prompt
+
+    def format_update_prompt(self, customers: List[Customer], current_prices: dict[str, float], minimum_prices: dict[str, float]):
+        
+        current_prices_string = self.format_prices(minimum_prices)
+        
+        minimum_prices_string = self.format_prices(current_prices)
+        
+        requests = [self.format_prices(request)
+        
+        return f"""You are a business owner whose goal is to maximize long term profits. Your current menu items and respective prices are: 
+    
+        {current_prices_string}.
+        
+        The absolute minimum you will accept for each menu item are: 
+        
+        {minimum_prices_string}.
+        
+        In the past business period, you received several inquiries: 
+        """
+    
+    def format_prices(self, items: dict[str, float]) -> str:
+    
+        menu_items = "\n".join(
+            f"- {item}: Price={price}"
+            for item, price in items
+        )
+        
+        return menu_items

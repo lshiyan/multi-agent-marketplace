@@ -55,6 +55,11 @@ class BusinessAgent(BaseSimpleMarketplaceAgent[BusinessAgentProfile]):
             logger=self.logger,
             generate_struct_fn=self.generate_struct,
         )
+        
+        self.current_prices: dict[str, float] = {}
+        
+        for item in business.menu_features:
+            self.current_prices[item] = business.menu_features[item]
 
     @property
     def business(self) -> Business:
