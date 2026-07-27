@@ -20,6 +20,7 @@ from .models import (
     BusinessPriceUpdate,
     BusinessSummary,
     RequestOutcome,
+    MenuItemPriceUpdate
 )
 from .responses import ResponseHandler
 from ..proposal_storage import StoredOrderProposal
@@ -297,8 +298,19 @@ class BusinessAgent(BaseSimpleMarketplaceAgent[BusinessAgentProfile]):
             response_format=BusinessPriceUpdate,
         )
 
+        proposed_prices: dict[str, float] = {}
+
+        for item_update in update.price_updates:
+            if item_update.item_name in proposed_prices:
+                self.logger.warning(
+                    "Duplicate price update returned for "
+                    f"{item_update.item_name}; using the final value."
+                )
+
+            proposed_prices[item_update.item_name] = item_update.price
+
         unknown_items = (
-            set(update.prices)
+            set(proposed_prices)
             - set(self.current_prices)
         )
 
@@ -311,7 +323,7 @@ class BusinessAgent(BaseSimpleMarketplaceAgent[BusinessAgentProfile]):
         validated_prices: dict[str, float] = {}
 
         for item_name, current_price in self.current_prices.items():
-            proposed_price = update.prices.get(
+            proposed_price = proposed_prices.get(
                 item_name,
                 current_price,
             )
@@ -330,22 +342,26 @@ class BusinessAgent(BaseSimpleMarketplaceAgent[BusinessAgentProfile]):
             )
 
         self.current_prices = validated_prices
-
-        self.business.menu_features.update(
-            validated_prices
-        )
+        self.business.menu_features.update(validated_prices)
 
         validated_update = BusinessPriceUpdate(
-            prices=validated_prices,
+            price_updates=[
+                MenuItemPriceUpdate(
+                    item_name=item_name,
+                    price=price,
+                )
+                for item_name, price in validated_prices.items()
+            ],
             reasoning=update.reasoning,
         )
-
+        
         self.logger.info(
             f"Updated prices: {validated_prices}. "
             f"Reasoning: {update.reasoning}"
         )
 
         return validated_update
+    
     def consume_completed_payments(self) -> list[StoredOrderProposal]:
         """Return completed payments since the previous business update.
 

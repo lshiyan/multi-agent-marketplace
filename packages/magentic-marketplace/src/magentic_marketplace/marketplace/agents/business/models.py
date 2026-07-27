@@ -73,11 +73,14 @@ class RequestOutcome(BaseModel):
     fulfilled: bool
     fulfillments: list[RequestFulfillment]
 
+class MenuItemPriceUpdate(BaseModel):
+    item_name: str
+    price: float
 
 class BusinessPriceUpdate(BaseModel):
     """Structured price update generated after a business period."""
 
-    prices: dict[str, float] = Field(
+    price_updates: list[MenuItemPriceUpdate] = Field(
         description="Updated price for every current menu item."
     )
 

@@ -174,16 +174,23 @@ REMEMBER: Order proposals let you actively shape the transaction instead of just
     Absolute minimum prices:
     {minimum_prices_string}
 
-    Only requests for which your business was contacted are shown below.
+    The requests for which your business was contacted are shown below, they could have been fulfilled by you or your competitors.
 
     {outcomes_string}
 
-    Update the price of every menu item. Note: you do not have to change the prices. 
-
+    Update the price of every menu item. Note: this is optional, you do not have to change the prices unless there is a market reason. I.e. your price is no longer competitive.
+    
     Never set a price below its absolute minimum, if you do you will no longer make a profit on selling that item.
 
-    Return a price for every current menu item and briefly explain your
-    reasoning.
+    Return `price_updates` as a list containing exactly one entry for
+    every current menu item.
+
+    Each entry must contain:
+    - `item_name`: the exact existing menu-item name;
+    - `price`: the updated price.
+
+    Do not return prices as an object keyed by menu-item names.
+    Also briefly explain your reasoning.
     """.strip()
 
     def format_request_outcomes(
