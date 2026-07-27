@@ -22,7 +22,30 @@ class ServiceOrderProposalMessageRequest(OrderProposal):
         description="The id of the customer this message should be sent to."
     )
 
+class ContactedBusiness(BaseModel):
+    """A business contacted during one customer request."""
 
+    business_id: str
+    business_name: str
+
+
+class FulfillmentItem(BaseModel):
+    """An item purchased as part of a completed payment."""
+
+    item_name: str
+    quantity: int
+    unit_price: float
+
+
+class RequestFulfillment(BaseModel):
+    """A completed payment that fulfilled a customer request."""
+
+    business_id: str
+    business_name: str
+    proposal_id: str
+    items: list[FulfillmentItem]
+    total_price: float
+    
 class BusinessAction(BaseModel):
     """Actions the service agent can take."""
 
@@ -33,7 +56,35 @@ class BusinessAction(BaseModel):
     text_message: ServiceTextMessageRequest | None = None
     order_proposal_message: ServiceOrderProposalMessageRequest | None = None
 
+class RequestOutcome(BaseModel):
+    """Run-level outcome for one customer request."""
 
+    run_index: int
+
+    customer_id: str
+    customer_name: str
+
+    request: str
+    requested_items: dict[str, float]
+    required_amenities: list[str]
+
+    contacted_businesses: list[ContactedBusiness]
+
+    fulfilled: bool
+    fulfillments: list[RequestFulfillment]
+
+
+class BusinessPriceUpdate(BaseModel):
+    """Structured price update generated after a business period."""
+
+    prices: dict[str, float] = Field(
+        description="Updated price for every current menu item."
+    )
+
+    reasoning: str = Field(
+        description="Brief explanation of the price changes."
+    )
+    
 class BusinessSummary(BaseModel):
     """Summary of business operations."""
 

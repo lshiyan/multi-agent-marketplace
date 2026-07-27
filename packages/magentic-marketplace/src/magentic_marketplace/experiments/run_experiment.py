@@ -20,8 +20,181 @@ from magentic_marketplace.platform.database.converter import convert_postgres_to
 from magentic_marketplace.platform.launcher import AgentLauncher, MarketplaceLauncher
 from magentic_marketplace.marketplace.shared.models import BusinessAgentProfile
 from magentic_marketplace.platform.client import MarketplaceClient
+from collections import defaultdict
+from magentic_marketplace.marketplace.agents.business.models import (
+    ContactedBusiness,
+    FulfillmentItem,
+    RequestFulfillment,
+    RequestOutcome,
+)
+from magentic_marketplace.platform.logger import MarketplaceLogger
 
+async def _wait_for_business_confirmations(
+    expected_payment_ids: set[str],
+    business_agents: list[BusinessAgent],
+    logger: MarketplaceLogger,
+    timeout_seconds: float = 10.0,
+    poll_interval_seconds: float = 0.1,
+) -> None:
+    """Wait for persistent businesses to process submitted payments.
 
+    CustomerAgent.completed_transactions means that the payment
+    message was successfully submitted. BusinessAgent.confirmed_orders
+    means the business actually processed and accepted it.
+    """
+    if not expected_payment_ids:
+        return
+
+    event_loop = asyncio.get_running_loop()
+    deadline = event_loop.time() + timeout_seconds
+
+    while True:
+        confirmed_payment_ids = {
+            proposal_id
+            for business_agent in business_agents
+            for proposal_id in business_agent.confirmed_orders
+        }
+
+        missing_payment_ids = (
+            expected_payment_ids
+            - confirmed_payment_ids
+        )
+
+        if not missing_payment_ids:
+            return
+
+        if event_loop.time() >= deadline:
+            logger.warning(
+                "Timed out waiting for businesses to process "
+                f"{len(missing_payment_ids)} payment(s): "
+                f"{sorted(missing_payment_ids)}"
+            )
+            return
+
+        await asyncio.sleep(poll_interval_seconds)
+
+def _build_request_outcomes(
+    run_index: int,
+    customer_agents: list[CustomerAgent],
+    business_agents: list[BusinessAgent],
+    expected_payment_ids: set[str],
+) -> list[RequestOutcome]:
+    """Build one outcome entry for every customer request."""
+    businesses_by_id = {
+        business_agent.id: business_agent
+        for business_agent in business_agents
+    }
+
+    fulfillments_by_customer: dict[
+        str,
+        list[RequestFulfillment],
+    ] = defaultdict(list)
+
+    # Only include payment IDs submitted by customers in this run.
+    # This prevents confirmed payments from earlier runs from leaking
+    # into the current period.
+    for business_agent in business_agents:
+        for proposal_id in business_agent.confirmed_orders:
+            if proposal_id not in expected_payment_ids:
+                continue
+
+            stored_proposal = (
+                business_agent.proposal_storage.get_proposal(
+                    proposal_id
+                )
+            )
+
+            if stored_proposal is None:
+                business_agent.logger.warning(
+                    f"Confirmed proposal {proposal_id} was "
+                    "not found in proposal storage."
+                )
+                continue
+
+            if stored_proposal.status != "accepted":
+                business_agent.logger.warning(
+                    f"Confirmed proposal {proposal_id} has "
+                    f"unexpected status "
+                    f"{stored_proposal.status}."
+                )
+                continue
+
+            fulfillment = RequestFulfillment(
+                business_id=business_agent.id,
+                business_name=business_agent.business.name,
+                proposal_id=proposal_id,
+                items=[
+                    FulfillmentItem(
+                        item_name=item.item_name,
+                        quantity=item.quantity,
+                        unit_price=item.unit_price,
+                    )
+                    for item
+                    in stored_proposal.proposal.items
+                ],
+                total_price=(
+                    stored_proposal.proposal.total_price
+                ),
+            )
+
+            fulfillments_by_customer[
+                stored_proposal.customer_id
+            ].append(fulfillment)
+
+    outcomes: list[RequestOutcome] = []
+
+    for customer_agent in customer_agents:
+        contacted_businesses: list[
+            ContactedBusiness
+        ] = []
+
+        for business_id in sorted(
+            customer_agent.contacted_businesses
+        ):
+            business_agent = businesses_by_id.get(
+                business_id
+            )
+
+            business_name = (
+                business_agent.business.name
+                if business_agent is not None
+                else business_id
+            )
+
+            contacted_businesses.append(
+                ContactedBusiness(
+                    business_id=business_id,
+                    business_name=business_name,
+                )
+            )
+
+        fulfillments = fulfillments_by_customer.get(
+            customer_agent.id,
+            [],
+        )
+
+        outcomes.append(
+            RequestOutcome(
+                run_index=run_index + 1,
+                customer_id=customer_agent.id,
+                customer_name=customer_agent.customer.name,
+                request=customer_agent.customer.request,
+                requested_items=dict(
+                    customer_agent.customer.menu_features
+                ),
+                required_amenities=list(
+                    customer_agent.customer.amenity_features
+                ),
+                contacted_businesses=(
+                    contacted_businesses
+                ),
+                fulfilled=bool(fulfillments),
+                fulfillments=fulfillments,
+            )
+        )
+
+    return outcomes
+    
 async def run_marketplace_experiment(
     data_dir: str | Path,
     experiment_name: str | None = None,
@@ -130,6 +303,8 @@ async def run_marketplace_experiment(
                 for index, agent in enumerate(dependent_agents)
             ]
 
+            all_request_outcomes: list[RequestOutcome] = []
+
             try:
                 # Give persistent agents time to connect and register.
                 await asyncio.sleep(0.2)
@@ -165,6 +340,35 @@ async def run_marketplace_experiment(
 
                     await agent_launcher.run_agents(*customer_agents)
 
+                    expected_payment_ids = {
+                        proposal_id
+                        for customer_agent in customer_agents
+                        for proposal_id
+                        in customer_agent.completed_transactions
+                    }
+
+                    await _wait_for_business_confirmations(
+                        expected_payment_ids=expected_payment_ids,
+                        business_agents=business_agents,
+                        logger=logger,
+                    )
+
+                    period_request_outcomes = _build_request_outcomes(
+                        run_index=run_index,
+                        customer_agents=customer_agents,
+                        business_agents=business_agents,
+                        expected_payment_ids=expected_payment_ids,
+                    )
+
+                    all_request_outcomes.extend(
+                        period_request_outcomes
+                    )
+
+                    for business_agent in business_agents:
+                        await business_agent.update_prices(
+                            request_outcomes=period_request_outcomes
+                        )
+                        
             except KeyboardInterrupt:
                 logger.warning("Simulation interrupted by user")
             finally:

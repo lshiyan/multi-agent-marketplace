@@ -67,6 +67,9 @@ class CustomerAgent(BaseSimpleMarketplaceAgent[CustomerAgentProfile]):
         self._event_history: list[
             tuple[CustomerAction, CustomerActionResult] | str
         ] = []
+        
+        self.contacted_businesses: set[str] = set()
+        
         self._search_algorithm = SearchAlgorithm(search_algorithm)
         self._search_bandwidth = search_bandwidth
 
@@ -252,6 +255,7 @@ class CustomerAgent(BaseSimpleMarketplaceAgent[CustomerAgentProfile]):
                         send_message_results.text_message_results.append(
                             (True, "Success!")
                         )
+                        self.contacted_businesses.add(business_id)
                 except Exception:
                     self.logger.exception(f"Failed to send message to {business_id}")
                     send_message_results.text_message_results.append(
@@ -292,6 +296,7 @@ class CustomerAgent(BaseSimpleMarketplaceAgent[CustomerAgentProfile]):
                                     (True, "Payment accepted!")
                                 )
                                 self.completed_transactions.append(proposal_to_accept)
+                                self.contacted_businesses.add(stored_proposal.business_id)
                             else:
                                 send_message_results.pay_message_results.append(
                                     (False, "Failed to update order proposal status.")

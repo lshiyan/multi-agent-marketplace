@@ -2,8 +2,8 @@
 
 from magentic_marketplace.platform.logger import MarketplaceLogger
 from typing import List
-from ...shared.models import Business, Customer
-
+from ...shared.models import Business
+from .models import RequestOutcome
 
 class PromptsHandler:
     """Handles prompt generation for the business agent."""
@@ -138,30 +138,171 @@ REMEMBER: Order proposals let you actively shape the transaction instead of just
 
         return prompt
 
-    def format_update_prompt(self, customers: List[Customer], current_prices: dict[str, float], minimum_prices: dict[str, float]):
-        
-        current_prices_string = self.format_prices(minimum_prices)
-        
-        minimum_prices_string = self.format_prices(current_prices)
-        
-        requests = [self.format_prices(request)
-        
-        return f"""You are a business owner whose goal is to maximize long term profits. Your current menu items and respective prices are: 
-    
-        {current_prices_string}.
-        
-        The absolute minimum you will accept for each menu item are: 
-        
-        {minimum_prices_string}.
-        
-        In the past business period, you received several inquiries: 
+    def format_update_prompt(
+    self,
+    request_outcomes: list[RequestOutcome],
+    current_prices: dict[str, float],
+    minimum_prices: dict[str, float],
+) -> str:
+        """Format the price-update prompt for one business.
+
+        Only requests where this business was contacted are included.
         """
-    
-    def format_prices(self, items: dict[str, float]) -> str:
-    
-        menu_items = "\n".join(
-            f"- {item}: Price={price}"
-            for item, price in items
+        relevant_outcomes = [
+            outcome
+            for outcome in request_outcomes
+            if any(
+                contacted.business_id == self.business.id
+                for contacted in outcome.contacted_businesses
+            )
+        ]
+
+        current_prices_string = self.format_prices(current_prices)
+        minimum_prices_string = self.format_prices(minimum_prices)
+        outcomes_string = self.format_request_outcomes(
+            relevant_outcomes
         )
-        
-        return menu_items
+
+        return f"""
+    You are the owner of {self.business.name}. Your goal is to maximize
+    long-term profit by updating your menu prices after the latest
+    business period.
+
+    Current prices:
+    {current_prices_string}
+
+    Absolute minimum prices:
+    {minimum_prices_string}
+
+    Only requests for which your business was contacted are shown below.
+
+    {outcomes_string}
+
+    Update the price of every menu item. Note: you do not have to change the prices. 
+
+    Never set a price below its absolute minimum, if you do you will no longer make a profit on selling that item.
+
+    Return a price for every current menu item and briefly explain your
+    reasoning.
+    """.strip()
+
+    def format_request_outcomes(
+        self,
+        request_outcomes: list[RequestOutcome],
+    ) -> str:
+        """Format relevant customer requests for the update prompt."""
+        if not request_outcomes:
+            return (
+                "Your business was not contacted for any requests "
+                "during this period."
+            )
+
+        outcome_blocks: list[str] = []
+
+        for outcome in request_outcomes:
+            requested_items = "\n".join(
+                (
+                    f"    - {item_name}: "
+                    f"target price ${target_price:.2f}"
+                )
+                for item_name, target_price
+                in outcome.requested_items.items()
+            )
+
+            if not requested_items:
+                requested_items = "    - None specified"
+
+            required_amenities = (
+                ", ".join(outcome.required_amenities)
+                if outcome.required_amenities
+                else "None specified"
+            )
+
+            contacted_businesses = "\n".join(
+                (
+                    f"    - {contacted.business_name} "
+                    f"({contacted.business_id})"
+                    + (
+                        " [YOUR BUSINESS]"
+                        if contacted.business_id == self.business.id
+                        else ""
+                    )
+                )
+                for contacted in outcome.contacted_businesses
+            )
+
+            if outcome.fulfillments:
+                fulfillment_blocks: list[str] = []
+
+                for fulfillment in outcome.fulfillments:
+                    purchased_items = "\n".join(
+                        (
+                            f"        - {item.quantity} x "
+                            f"{item.item_name} at "
+                            f"${item.unit_price:.2f} each"
+                        )
+                        for item in fulfillment.items
+                    )
+
+                    winner_label = (
+                        " [YOUR BUSINESS]"
+                        if fulfillment.business_id == self.business.id
+                        else ""
+                    )
+
+                    fulfillment_blocks.append(
+                        "\n".join(
+                            [
+                                (
+                                    f"    - {fulfillment.business_name} "
+                                    f"({fulfillment.business_id})"
+                                    f"{winner_label}"
+                                ),
+                                purchased_items,
+                                (
+                                    "      Total paid: "
+                                    f"${fulfillment.total_price:.2f}"
+                                ),
+                            ]
+                        )
+                    )
+
+                fulfillment_text = "\n".join(
+                    fulfillment_blocks
+                )
+            else:
+                fulfillment_text = "    - Not fulfilled"
+
+            outcome_blocks.append(
+                "\n".join(
+                    [
+                        (
+                            f"- Customer: {outcome.customer_name} "
+                            f"({outcome.customer_id})"
+                        ),
+                        f"  Request: {outcome.request}",
+                        "  Requested items:",
+                        requested_items,
+                        (
+                            "  Required amenities: "
+                            f"{required_amenities}"
+                        ),
+                        "  Businesses contacted:",
+                        contacted_businesses,
+                        "  Fulfilled by:",
+                        fulfillment_text,
+                    ]
+                )
+            )
+
+        return "\n\n".join(outcome_blocks)
+
+    def format_prices(
+        self,
+        items: dict[str, float],
+    ) -> str:
+        """Format menu prices for a prompt."""
+        return "\n".join(
+            f"- {item_name}: ${price:.2f}"
+            for item_name, price in items.items()
+        )

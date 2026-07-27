@@ -1,6 +1,7 @@
 """Main business agent implementation."""
 
 import asyncio
+import math
 from collections import defaultdict
 from typing import Literal
 
@@ -15,8 +16,13 @@ from ...llm.config import BaseLLMConfig
 from ...shared.models import Business, BusinessAgentProfile
 from ..base import BaseSimpleMarketplaceAgent
 from ..proposal_storage import OrderProposalStorage
-from .models import BusinessSummary
+from .models import (
+    BusinessPriceUpdate,
+    BusinessSummary,
+    RequestOutcome,
+)
 from .responses import ResponseHandler
+from ..proposal_storage import StoredOrderProposal
 
 
 class BusinessAgent(BaseSimpleMarketplaceAgent[BusinessAgentProfile]):
@@ -44,6 +50,10 @@ class BusinessAgent(BaseSimpleMarketplaceAgent[BusinessAgentProfile]):
         # Initialize state from BaseBusinessAgent
         self.customer_histories: dict[str, list[str]] = defaultdict(list)
         self.proposal_storage = OrderProposalStorage()
+        
+        self.confirmed_orders: list[str] = []
+
+        self._completed_payment_cursor = 0
         self.confirmed_orders: list[str] = []
         self._polling_interval = polling_interval
 
@@ -56,10 +66,15 @@ class BusinessAgent(BaseSimpleMarketplaceAgent[BusinessAgentProfile]):
             generate_struct_fn=self.generate_struct,
         )
         
-        self.current_prices: dict[str, float] = {}
-        
-        for item in business.menu_features:
-            self.current_prices[item] = business.menu_features[item]
+        self.current_prices: dict[str, float] = dict(
+            business.menu_features
+        )
+
+        self.minimum_prices: dict[str, float] = {
+            item_name: original_price * business.min_price_factor
+            for item_name, original_price
+            in business.menu_features.items()
+        }
 
     @property
     def business(self) -> Business:
@@ -247,15 +262,119 @@ class BusinessAgent(BaseSimpleMarketplaceAgent[BusinessAgentProfile]):
             delivery_available=self.business.amenity_features.get("delivery", False),
         )
 
-    # async def on_will_stop(self):
-    #     """Handle agent pre-shutdown.
+    async def update_prices(
+    self,
+    request_outcomes: list[RequestOutcome],
+) -> BusinessPriceUpdate | None:
+        """Update prices after one experiment run.
 
-    #     Override this method to implement custom pre-shutdown logic.
-    #     """
-    #     self.logger.info("Business agent shutting down...")
+        Only requests for which this business was contacted are used.
+        """
+        relevant_outcomes = [
+            outcome
+            for outcome in request_outcomes
+            if any(
+                contacted.business_id == self.id
+                for contacted in outcome.contacted_businesses
+            )
+        ]
 
-    #     for customer_id in self.customer_histories.keys():
-    #         conversation_history = "\n".join(self.customer_histories[customer_id])
-    #         self.logger.info(
-    #             f"\nFinal conversation history with customer {customer_id}:\n{conversation_history}"
-    #         )
+        if not relevant_outcomes:
+            self.logger.info(
+                "Skipping price update because this business was not "
+                "contacted during the period."
+            )
+            return None
+
+        prompt = self._responses.prompts.format_update_prompt(
+            request_outcomes=relevant_outcomes,
+            current_prices=self.current_prices,
+            minimum_prices=self.minimum_prices,
+        )
+
+        update, _ = await self.generate_struct(
+            prompt=prompt,
+            response_format=BusinessPriceUpdate,
+        )
+
+        unknown_items = (
+            set(update.prices)
+            - set(self.current_prices)
+        )
+
+        if unknown_items:
+            self.logger.warning(
+                "Ignoring prices for unknown menu items: "
+                f"{sorted(unknown_items)}"
+            )
+
+        validated_prices: dict[str, float] = {}
+
+        for item_name, current_price in self.current_prices.items():
+            proposed_price = update.prices.get(
+                item_name,
+                current_price,
+            )
+
+            if not math.isfinite(proposed_price):
+                self.logger.warning(
+                    f"Invalid price returned for {item_name}: "
+                    f"{proposed_price}. Keeping current price "
+                    f"${current_price:.2f}."
+                )
+                proposed_price = current_price
+
+            validated_prices[item_name] = max(
+                self.minimum_prices[item_name],
+                proposed_price,
+            )
+
+        self.current_prices = validated_prices
+
+        self.business.menu_features.update(
+            validated_prices
+        )
+
+        validated_update = BusinessPriceUpdate(
+            prices=validated_prices,
+            reasoning=update.reasoning,
+        )
+
+        self.logger.info(
+            f"Updated prices: {validated_prices}. "
+            f"Reasoning: {update.reasoning}"
+        )
+
+        return validated_update
+    def consume_completed_payments(self) -> list[StoredOrderProposal]:
+        """Return completed payments since the previous business update.
+
+        Calling this method marks those payments as consumed by the update process.
+        """
+        new_proposal_ids = self.confirmed_orders[
+            self._completed_payment_cursor:
+        ]
+
+        completed_payments: list[StoredOrderProposal] = []
+
+        for proposal_id in new_proposal_ids:
+            stored_proposal = self.proposal_storage.get_proposal(proposal_id)
+
+            if stored_proposal is None:
+                self.logger.warning(
+                    f"Completed proposal {proposal_id} was not found in storage."
+                )
+                continue
+
+            if stored_proposal.status != "accepted":
+                self.logger.warning(
+                    f"Completed proposal {proposal_id} has unexpected "
+                    f"status {stored_proposal.status}."
+                )
+                continue
+
+            completed_payments.append(stored_proposal)
+
+        self._completed_payment_cursor = len(self.confirmed_orders)
+
+        return completed_payments
