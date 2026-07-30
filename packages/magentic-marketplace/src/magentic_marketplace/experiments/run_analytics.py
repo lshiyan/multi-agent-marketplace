@@ -132,21 +132,26 @@ class MarketplaceAnalytics:
         ] = {}
 
     async def load_data(self):
-        """Load and parse agents data from database."""
+        """Load customers and businesses, skipping system-level agents."""
         agents = await self.db.agents.get_all()
 
         for agent_row in agents:
-            agent_data = agent_row.data
-            agent = MarketplaceAgentProfileAdapter.validate_python(
-                agent_data.model_dump()
-            )
+            agent_data = agent_row.data.model_dump()
+            agent_id = agent_data.get("id", "unknown")
+
+            # Centralized marketplace/system agents do not contain either
+            # a `customer` or `business` profile.
+            if "customer" not in agent_data and "business" not in agent_data:
+                print(f"Skipping non-participant agent: {agent_id}")
+                continue
+
+            agent = MarketplaceAgentProfileAdapter.validate_python(agent_data)
 
             if isinstance(agent, CustomerAgentProfile):
                 self.customer_agents[agent.id] = agent
-            elif isinstance(agent, BusinessAgentProfile):  # pyright: ignore[reportUnnecessaryIsInstance] # Makes code more readable
+
+            elif isinstance(agent, BusinessAgentProfile):
                 self.business_agents[agent.id] = agent
-            else:
-                raise TypeError(f"Unrecognized agent type: {agent}")
 
         await self.load_llm_logs()
 
@@ -1218,7 +1223,7 @@ async def run_analytics(
         async with connect_to_postgresql_database(
             schema=db_path_or_schema,
             host="localhost",
-            port=5432,
+            port=5433,
             password="postgres",
             mode="existing",
         ) as db_controller:

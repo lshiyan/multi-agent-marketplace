@@ -280,13 +280,6 @@ class BusinessAgent(BaseSimpleMarketplaceAgent[BusinessAgentProfile]):
             )
         ]
 
-        if not relevant_outcomes:
-            self.logger.info(
-                "Skipping price update because this business was not "
-                "contacted during the period."
-            )
-            return None
-
         prompt = self._responses.prompts.format_update_prompt(
             request_outcomes=relevant_outcomes,
             current_prices=self.current_prices,

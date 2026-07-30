@@ -34,6 +34,7 @@ class Business(BaseModel):
         description="ID of customer that inspired this business"
     )
     menu_features: dict[str, float] = Field(description="Menu item name -> price")
+    base_menu_features: dict[str, float] = Field(description="Base menu item name -> price", default = {})
     amenity_features: dict[str, bool] = Field(description="Amenity name -> available")
     min_price_factor: float = Field(description="Minimum price factor for pricing")
 

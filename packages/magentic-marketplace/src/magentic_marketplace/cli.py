@@ -188,6 +188,18 @@ def main():
         type=str,
         help="Path to the data directory containing businesses/ and customers/ subdirectories",
     )
+    
+    experiment_parser.add_argument(
+        "--customers_per_run",
+        type=int,
+        help="Customers to sample per run",
+    )
+    
+    experiment_parser.add_argument(
+        "--num_runs",
+        type=str,
+        help="Number of runs",
+    )
 
     experiment_parser.add_argument(
         "--search-algorithm",

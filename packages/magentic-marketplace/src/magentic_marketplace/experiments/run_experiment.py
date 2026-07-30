@@ -212,6 +212,8 @@ async def run_marketplace_experiment(
     export_sqlite: bool = False,
     export_dir: str | None = None,
     export_filename: str | None = None,
+    customers_per_run: int = 10,
+    num_runs: int = 1
 ):
     """Run a marketplace experiment using YAML configuration files."""
     # Load businesses and customers from YAML files
@@ -283,13 +285,14 @@ async def run_marketplace_experiment(
             )
             for business in businesses
         ]
+        
+        for agent in business_agents: 
+            agent.business.base_menu_features = agent.business.menu_features.copy()
+            
         dependent_agents = [
             marketplace_agent,
             *business_agents,
         ]
-
-        num_runs = 5
-        customers_per_run = 2
 
         async with AgentLauncher(
             marketplace_launcher.server_url
