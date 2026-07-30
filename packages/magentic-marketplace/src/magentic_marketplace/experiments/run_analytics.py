@@ -501,7 +501,14 @@ class MarketplaceAnalytics:
                         )
                     )
 
-                elif abs(item.unit_price - business_menu[item.item_name]) >= 0.01:
+                    continue
+                
+                minimum_unit_price = self._get_minimum_unit_price(
+                    business_agent_id,
+                    item.item_name,
+                )
+
+                if item.unit_price < minimum_unit_price - 0.01:
                     errors.append(
                         InvalidMenuItemPrice(
                             proposal_id=proposal.id,
@@ -509,9 +516,10 @@ class MarketplaceAnalytics:
                             customer_agent_id=customer_agent_id,
                             menu_item=item.item_name,
                             proposed_price=item.unit_price,
-                            actual_price=business_menu[item.item_name],
+                            # This field now represents the minimum allowed price.
+                            actual_price=minimum_unit_price,
                         )
-                    )
+        )
             if abs(proposal.total_price - proposed_total) >= 0.01:
                 errors.append(
                     InvalidTotalPrice(
@@ -581,30 +589,88 @@ class MarketplaceAnalytics:
         utility = match_score - total_payments_to_business
         return round(utility, 2)
 
+    def _get_minimum_unit_price(
+        self,
+        business_agent_id: str,
+        item_name: str,
+    ) -> float:
+        """Gets the minimum unit price (marginal cost) for a specific business and item."""
+        business = self.business_agents[business_agent_id].business
+
+        if item_name not in business.base_menu_features:
+            raise KeyError(
+                f"Item {item_name!r} does not exist for "
+                f"business {business_agent_id!r}"
+            )
+
+        return (
+            business.base_menu_features[item_name]
+            * business.min_price_factor
+        )
+        
+    def _get_minimum_order_price(
+        self,
+        business_agent_id: str,
+        proposal: OrderProposal,
+    ) -> float:
+        """Calculate the minimum acceptable price for an entire proposal."""
+        minimum_total = 0.0
+
+        for item in proposal.items:
+            minimum_unit_price = self._get_minimum_unit_price(
+                business_agent_id,
+                item.item_name,
+            )
+            minimum_total += minimum_unit_price * item.quantity
+
+        return round(minimum_total, 2)
+    
     def _calculate_business_utilities(self) -> dict[str, float]:
-        """Calculate utility (revenue) for each business based on payments received."""
+        """Calculate business utility as sale revenue minus minimum acceptable price."""
         business_utilities: defaultdict[str, float] = defaultdict(float)
 
-        # Go through all payments and find which businesses received them
         for customer_agent_id, payments in self.customer_payments.items():
+            proposals_received = self.customer_orders.get(customer_agent_id, [])
+
             for payment in payments:
-                # Find the corresponding proposal to get business info
-                proposals_received = self.customer_orders.get(customer_agent_id, [])
                 proposal = next(
                     (
-                        p
-                        for p in proposals_received
-                        if p.id == payment.proposal_message_id
+                        proposal
+                        for proposal in proposals_received
+                        if proposal.id == payment.proposal_message_id
                     ),
                     None,
                 )
-                if proposal:
-                    # Use the helper method to find the business
-                    business_agent_id = self._find_business_for_proposal(proposal.id)
-                    if business_agent_id:
-                        business_utilities[business_agent_id] += proposal.total_price
 
-        return dict(business_utilities)
+                if proposal is None:
+                    continue
+
+                business_agent_id = self._find_business_for_proposal(proposal.id)
+                if business_agent_id is None:
+                    continue
+
+                try:
+                    minimum_order_price = self._get_minimum_order_price(
+                        business_agent_id,
+                        proposal,
+                    )
+                except KeyError as error:
+                    print(
+                        f"Warning: Could not calculate business utility for "
+                        f"proposal {proposal.id}: {error}"
+                    )
+                    continue
+
+                # This is the adjusted price actually paid by the customer.
+                realized_sale_price = proposal.total_price
+
+                transaction_utility = realized_sale_price - minimum_order_price
+                business_utilities[business_agent_id] += transaction_utility
+
+        return {
+            business_id: round(utility, 2)
+            for business_id, utility in business_utilities.items()
+        }
 
     def collect_analytics_results(self) -> AnalyticsResults:
         """Collect all analytics results into a structured format."""
