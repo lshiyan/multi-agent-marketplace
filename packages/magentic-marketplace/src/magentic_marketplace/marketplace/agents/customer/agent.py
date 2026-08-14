@@ -332,7 +332,7 @@ class CustomerAgent(BaseSimpleMarketplaceAgent[CustomerAgentProfile]):
 
             self._event_history.append((action, send_message_results))
 
-        elif action.action_type == "end_transaction":
+        elif action.action_type == "end_transaction" or action.action_type == "no_purchase":
             # Accept the proposal specified by the LLM
             self.shutdown()
 

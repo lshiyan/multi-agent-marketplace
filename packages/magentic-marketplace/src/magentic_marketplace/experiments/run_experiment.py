@@ -28,6 +28,7 @@ from magentic_marketplace.marketplace.agents.business.models import (
     RequestOutcome,
 )
 from magentic_marketplace.platform.logger import MarketplaceLogger
+import matplotlib.pyplot as plt
 
 async def _wait_for_business_confirmations(
     expected_payment_ids: set[str],
@@ -195,6 +196,170 @@ def _build_request_outcomes(
 
     return outcomes
     
+def _calculate_period_average_welfare(
+    request_outcomes: list[RequestOutcome],
+    business_agents: list[BusinessAgent],
+) -> tuple[float, float]:
+    """Calculate average customer and business welfare for one period.
+
+    Customer welfare:
+        Value of a satisfied request minus the adjusted price paid.
+
+    Business welfare:
+        Realized sale price minus the minimum acceptable price.
+
+    Customers and businesses with no completed transaction contribute zero.
+    """
+    businesses_by_id = {
+        business_agent.id: business_agent
+        for business_agent in business_agents
+    }
+
+    total_customer_welfare = 0.0
+    total_business_welfare = 0.0
+
+    business_welfare_by_id: dict[str, float] = defaultdict(float)
+    
+    for outcome in request_outcomes:
+        total_paid = sum(
+            fulfillment.total_price
+            for fulfillment in outcome.fulfillments
+        )
+
+        needs_met = False
+
+        for fulfillment in outcome.fulfillments:
+            business_agent = businesses_by_id.get(
+                fulfillment.business_id
+            )
+                        
+            if business_agent is None:
+                continue
+
+            purchased_items = {
+                item.item_name
+                for item in fulfillment.items
+            }
+            requested_items = set(outcome.requested_items)
+
+            available_amenities = {
+                amenity
+                for amenity, available
+                in business_agent.business.amenity_features.items()
+                if available
+            }
+
+            items_match = requested_items.issubset(
+                purchased_items
+            )
+            amenities_match = set(
+                outcome.required_amenities
+            ).issubset(available_amenities)
+
+            if items_match and amenities_match:
+                needs_met = True
+
+            # Calculate this completed sale's business welfare.
+            try:
+                minimum_order_price = sum(
+                    business_agent.business.base_menu_features[
+                        item.item_name
+                    ]
+                    * business_agent.business.min_price_factor
+                    * item.quantity
+                    for item in fulfillment.items
+                )
+            except KeyError as error:
+                business_agent.logger.warning(
+                    "Could not calculate welfare for "
+                    f"proposal {fulfillment.proposal_id}: "
+                    f"unknown item {error}."
+                )
+                continue
+
+            business_welfare = (
+                fulfillment.total_price
+                - minimum_order_price
+            )
+
+            business_welfare_by_id[
+                business_agent.id
+            ] += business_welfare
+
+        customer_value = (
+            2 * sum(outcome.requested_items.values())
+            if needs_met
+            else 0.0
+        )
+
+        total_customer_welfare += (
+            customer_value - total_paid
+        )
+
+    average_customer_welfare = (
+        total_customer_welfare / len(request_outcomes)
+        if request_outcomes
+        else 0.0
+    )
+
+    nonzero_business_welfares = [
+        welfare
+        for welfare in business_welfare_by_id.values()
+        if welfare != 0
+    ]
+
+    average_business_welfare = (
+        sum(nonzero_business_welfares)
+        / len(nonzero_business_welfares)
+        if nonzero_business_welfares
+        else 0.0
+    )
+
+    return (
+        round(average_customer_welfare, 2),
+        round(average_business_welfare, 2),
+    )
+    
+def _plot_average_welfare_by_period(
+    periods: list[int],
+    average_customer_welfare: list[float],
+    average_business_welfare: list[float],
+    output_path: Path,
+) -> None:
+    """Save average customer and business welfare over time."""
+    figure, axis = plt.subplots(figsize=(9, 5))
+
+    axis.plot(
+        periods,
+        average_customer_welfare,
+        marker="o",
+        label="Average customer welfare",
+    )
+    axis.plot(
+        periods,
+        average_business_welfare,
+        marker="o",
+        label="Average business welfare",
+    )
+
+    axis.axhline(
+        0,
+        linewidth=0.8,
+        linestyle="--",
+    )
+
+    axis.set_title(
+        "Average Customer and Business Welfare by Period"
+    )
+    axis.set_xlabel("Period")
+    axis.set_ylabel("Average welfare")
+    axis.legend()
+    axis.grid(alpha=0.3)
+
+    figure.tight_layout()
+    figure.savefig(output_path, dpi=200)
+    plt.close(figure)
+    
 async def run_marketplace_experiment(
     data_dir: str | Path,
     experiment_name: str | None = None,
@@ -213,7 +378,8 @@ async def run_marketplace_experiment(
     export_dir: str | None = None,
     export_filename: str | None = None,
     customers_per_run: int = 10,
-    num_runs: int = 1
+    num_runs: int = 1,
+    plot_path: str = None
 ):
     """Run a marketplace experiment using YAML configuration files."""
     # Load businesses and customers from YAML files
@@ -307,6 +473,9 @@ async def run_marketplace_experiment(
             ]
 
             all_request_outcomes: list[RequestOutcome] = []
+            period_numbers: list[int] = []
+            average_customer_welfare_by_period: list[float] = []
+            average_business_welfare_by_period: list[float] = []
 
             try:
                 # Give persistent agents time to connect and register.
@@ -365,6 +534,32 @@ async def run_marketplace_experiment(
 
                     all_request_outcomes.extend(
                         period_request_outcomes
+                    )
+
+                    (
+                        average_customer_welfare,
+                        average_business_welfare,
+                    ) = _calculate_period_average_welfare(
+                        request_outcomes=period_request_outcomes,
+                        business_agents=business_agents,
+                    )
+
+                    period_number = run_index + 1
+
+                    period_numbers.append(period_number)
+                    average_customer_welfare_by_period.append(
+                        average_customer_welfare
+                    )
+                    average_business_welfare_by_period.append(
+                        average_business_welfare
+                    )
+
+                    logger.info(
+                        f"Period {period_number} welfare:\n"
+                        f"average_customer_welfare="
+                        f"{average_customer_welfare:.2f}\n"
+                        f"average_business_welfare="
+                        f"{average_business_welfare:.2f}"
                     )
 
                     for business_agent in business_agents:
@@ -427,4 +622,27 @@ async def run_marketplace_experiment(
                 await convert_postgres_to_sqlite(db, sqlite_path)
                 logger.info(f"Database conversion complete: {sqlite_path}")
 
+        if period_numbers:
+            default_plot_path = Path(
+                f"average_welfare_{experiment_name}.png"
+            )
+            
+            welfare_plot_path = default_plot_path if not plot_path else plot_path
+
+            _plot_average_welfare_by_period(
+                periods=range(len(period_numbers)),
+                average_customer_welfare=(
+                    average_customer_welfare_by_period
+                ),
+                average_business_welfare=(
+                    average_business_welfare_by_period
+                ),
+                output_path=welfare_plot_path,
+            )
+
+            print(
+                "\nAverage welfare plot saved to: "
+                f"{welfare_plot_path.resolve()}"
+            )
+            
         print(f"\nRun analytics with: magentic-marketplace analyze {experiment_name}")

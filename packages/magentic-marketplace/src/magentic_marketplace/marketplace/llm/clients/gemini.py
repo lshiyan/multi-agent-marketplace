@@ -150,18 +150,6 @@ class GeminiClient(ProviderClient[GeminiConfig]):
         if max_tokens is not None:
             config.max_output_tokens = max_tokens
 
-        # Handle reasoning effort -> thinking config
-        if reasoning_effort is not None:
-            if reasoning_effort == "minimal":
-                reasoning_effort = 0
-            elif isinstance(reasoning_effort, str):
-                reasoning_effort = 0  # Fallback for unsupported string values
-
-            if isinstance(reasoning_effort, int) and reasoning_effort >= -1:  # type: ignore[misc]
-                config.thinking_config = google.genai.types.ThinkingConfig(
-                    thinking_budget=reasoning_effort
-                )
-
         # Add system instruction if we have system messages
         if system_prompt:
             config.system_instruction = system_prompt
@@ -219,20 +207,8 @@ class GeminiClient(ProviderClient[GeminiConfig]):
         if max_tokens is not None:
             config.max_output_tokens = max_tokens
 
-        # Handle reasoning effort -> thinking config
-        if reasoning_effort is not None:
-            if reasoning_effort == "minimal":
-                reasoning_effort = 0
-            elif isinstance(reasoning_effort, str):
-                reasoning_effort = 0  # Fallback for unsupported string values
-
-            if isinstance(reasoning_effort, int) and reasoning_effort >= -1:  # type: ignore[misc]
-                config.thinking_config = google.genai.types.ThinkingConfig(
-                    thinking_budget=reasoning_effort
-                )
-
         # Configure for structured output
-        config.response_schema = response_format.model_json_schema()
+        config.response_schema = response_format
         config.response_mime_type = "application/json"
 
         # Add system instruction if we have system messages

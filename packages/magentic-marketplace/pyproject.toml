@@ -20,6 +20,7 @@ dependencies = [
     "ftfy>=6.0.0",
     "pydantic>=2.11.9",
     "pyyaml>=6.0.2",
+    "matplotlib>=3.9.0",
 ]
 
 [project.scripts]

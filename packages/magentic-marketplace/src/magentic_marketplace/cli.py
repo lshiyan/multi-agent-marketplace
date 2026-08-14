@@ -94,6 +94,9 @@ def run_experiment_command(args):
             export_sqlite=args.export,
             export_dir=args.export_dir,
             export_filename=args.export_filename,
+            customers_per_run=args.customers_per_run,
+            num_runs=args.num_runs,
+            plot_path=args.plot_path
         )
     )
 
@@ -192,13 +195,21 @@ def main():
     experiment_parser.add_argument(
         "--customers_per_run",
         type=int,
+        default=10,
         help="Customers to sample per run",
     )
     
     experiment_parser.add_argument(
         "--num_runs",
-        type=str,
+        type=int,
+        default=1,
         help="Number of runs",
+    )
+    
+    experiment_parser.add_argument(
+        "--plot_path",
+        type=str,
+        help="Output path of the output plots.",
     )
 
     experiment_parser.add_argument(
