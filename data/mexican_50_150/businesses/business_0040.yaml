@@ -1,0 +1,45 @@
+id: business_0040
+name: "Taco \u2018Bout a Flavor Storm"
+description: Experience a vibrant whirlwind of modern Mexican and Tex-Mex creations,
+  from fresh salsa-kissed tacos to sweet tamales and zesty cocktails. Our bold, inventive
+  menu will keep your taste buds on their toes!
+rating: 1.0
+progenitor_customer: customer_0014
+menu_features:
+  Pineapple Salsa Pork Tacos: 9.79
+  Crispy Tinga Chicken Tacos: 8.89
+  Strawberry Jalapeno Lemonade: 3.46
+  Rich Chocolate Tamales: 7.35
+  Blue Corn Enchilada Bake: 10.74
+  Roasted Poblano Rellenos: 11.38
+  Ancho Honey-Glazed Salmon: 17.87
+  Grilled Steak Quesadilla: 11.67
+  Chipotle Bourbon Carnitas: 15.75
+  Ranchero Eggs Benedict: 13.45
+  Shrimp Ceviche Bowl: 12.29
+  Blue Corn Tortilla Chips: 4.28
+  Paloma Breeze Cocktail: 10.78
+  Sizzling Chicken Fajitas: 12.71
+  Housemade Horchata: 4.16
+  Roasted Poblano Queso Dip: 5.56
+  Mexican Hot Chocolate: 4.28
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Pineapple Salsa Pork Tacos: 8.42
+  Crispy Tinga Chicken Tacos: 7.65
+  Strawberry Jalapeno Lemonade: 2.98
+  Rich Chocolate Tamales: 6.32
+  Blue Corn Enchilada Bake: 9.24
+  Roasted Poblano Rellenos: 9.79
+  Ancho Honey-Glazed Salmon: 15.37
+  Grilled Steak Quesadilla: 10.04
+  Chipotle Bourbon Carnitas: 13.54
+  Ranchero Eggs Benedict: 11.57
+  Shrimp Ceviche Bowl: 10.57
+  Blue Corn Tortilla Chips: 3.68
+  Paloma Breeze Cocktail: 9.27
+  Sizzling Chicken Fajitas: 10.93
+  Housemade Horchata: 3.58
+  Roasted Poblano Queso Dip: 4.78
+  Mexican Hot Chocolate: 3.68

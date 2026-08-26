@@ -1,0 +1,43 @@
+id: business_0085
+name: Holy Guacamole & Grill Marks
+description: Serving up a feast of bold Mexican and Tex-Mex flavors, our kitchen blends
+  the freshness of the garden and the sizzle of the grill. Experience a vibrant menu
+  where tradition meets creative twists, all in a lively and welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0029
+menu_features:
+  Street Style Corn on the Cob: 4.55
+  Sizzling Fajita Skillet: 16.58
+  Black Bean Stuffed Sweet Potatoes: 8.69
+  Chocolate Churro Bites: 6.2
+  Creamy Avocado Soup: 8.62
+  Spicy Avocado Burger: 11.86
+  Avocado Ranch Burrito Bowl: 12.19
+  Smoky BBQ Pork Tostadas: 13.04
+  Red Chili Braised Beef Brisket: 15.02
+  Chili Lime Jicama Sticks: 6.25
+  Coconut Tres Leches: 8.08
+  Honey-Lime Shrimp Skewers: 12.98
+  Crispy Fish Tacos: 10.09
+  Queso Fundido with Chorizo: 8.49
+  Chipotle Lime Cauliflower Tacos: 11.22
+  Margarita Grilled Chicken: 16.64
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Street Style Corn on the Cob: 3.0
+  Sizzling Fajita Skillet: 10.94
+  Black Bean Stuffed Sweet Potatoes: 5.74
+  Chocolate Churro Bites: 4.09
+  Creamy Avocado Soup: 5.69
+  Spicy Avocado Burger: 7.83
+  Avocado Ranch Burrito Bowl: 8.05
+  Smoky BBQ Pork Tostadas: 8.61
+  Red Chili Braised Beef Brisket: 9.91
+  Chili Lime Jicama Sticks: 4.12
+  Coconut Tres Leches: 5.33
+  Honey-Lime Shrimp Skewers: 8.57
+  Crispy Fish Tacos: 6.66
+  Queso Fundido with Chorizo: 5.6
+  Chipotle Lime Cauliflower Tacos: 7.41
+  Margarita Grilled Chicken: 10.98

@@ -1,0 +1,10 @@
+id: customer_0150
+name: Kevin Hall
+request: Please help me find a business that offers both the 'Black Bean & Corn Queso
+  Dip' and the 'Spicy Black Bean Nacho Platter'. I would like to place an order for
+  1 of each item. It is important that both items are available at the same location.
+  Thank you!
+menu_features:
+  Black Bean & Corn Queso Dip: 6.49
+  Spicy Black Bean Nacho Platter: 10.99
+amenity_features: []

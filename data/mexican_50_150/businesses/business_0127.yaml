@@ -1,0 +1,41 @@
+id: business_0127
+name: Guac to the Sizzle
+description: Dive into a fresh twist on Mexican and Tex-Mex classics at this lively
+  spot, where bold flavors and sizzling creativity come together. Enjoy vibrant drinks
+  and crave-worthy bites in a fun, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0043
+menu_features:
+  Pico Avocado Toast: 8.0
+  Honey Lime Fajita Sizzlers: 15.5
+  Rich Chocolate Tamales: 9.23
+  Grilled Pineapple Mojito: 11.43
+  Crispy Avocado Tacos: 10.73
+  Tequila Sunrise Smoothie: 6.45
+  Savory Carne Asada Burrito: 11.55
+  Smoky BBQ Pork Tostadas: 10.27
+  Pumpkin Spice Churros: 5.26
+  Coconut Lime Flan: 5.98
+  Pineapple Pico de Gallo Salsa: 5.33
+  Mexican Chocolate Flan: 7.48
+  Chipotle Lime Shrimp Skewers: 11.2
+  Smoky Lime Quinoa Salad: 12.58
+  Carnitas Breakfast Burrito: 12.77
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Pico Avocado Toast: 7.04
+  Honey Lime Fajita Sizzlers: 13.64
+  Rich Chocolate Tamales: 8.12
+  Grilled Pineapple Mojito: 10.06
+  Crispy Avocado Tacos: 9.44
+  Tequila Sunrise Smoothie: 5.68
+  Savory Carne Asada Burrito: 10.16
+  Smoky BBQ Pork Tostadas: 9.04
+  Pumpkin Spice Churros: 4.63
+  Coconut Lime Flan: 5.26
+  Pineapple Pico de Gallo Salsa: 4.69
+  Mexican Chocolate Flan: 6.58
+  Chipotle Lime Shrimp Skewers: 9.86
+  Smoky Lime Quinoa Salad: 11.07
+  Carnitas Breakfast Burrito: 11.24

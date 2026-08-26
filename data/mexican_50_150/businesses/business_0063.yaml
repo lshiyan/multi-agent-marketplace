@@ -1,0 +1,33 @@
+id: business_0063
+name: Kernel of Truth Cantina
+description: Dive into bold Mexican and Tex-Mex flavors at Kernel of Truth Cantina,
+  where street corn, sizzling quesadillas, and sweet treats take center stage. Enjoy
+  a fresh spin on classic favorites in a lively, colorful atmosphere.
+rating: 1.0
+progenitor_customer: customer_0021
+menu_features:
+  Grilled Shrimp Quesadilla: 8.36
+  Chili Con Queso Supreme: 5.93
+  Margarita Lime Pie: 4.97
+  Toasted Coconut Flan: 6.8
+  Street Corn Elote: 4.33
+  Chipotle Bean Burrito: 9.78
+  Creamy Poblano Corn Chowder: 10.34
+  Ranchero Eggs Benedict: 10.65
+  Roasted Poblano Rellenos: 14.19
+  Chili Lime Margarita: 9.05
+  Black Bean & Corn Quesadilla: 8.92
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Grilled Shrimp Quesadilla: 5.85
+  Chili Con Queso Supreme: 4.15
+  Margarita Lime Pie: 3.48
+  Toasted Coconut Flan: 4.76
+  Street Corn Elote: 3.03
+  Chipotle Bean Burrito: 6.85
+  Creamy Poblano Corn Chowder: 7.24
+  Ranchero Eggs Benedict: 7.46
+  Roasted Poblano Rellenos: 9.93
+  Chili Lime Margarita: 6.33
+  Black Bean & Corn Quesadilla: 6.24

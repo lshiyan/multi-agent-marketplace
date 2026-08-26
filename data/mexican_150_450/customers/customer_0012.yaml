@@ -1,0 +1,11 @@
+id: customer_0012
+name: Ethan Morales
+request: "Could you please help me find a business that offers the following items\
+  \ on their menu: 1 Southwest Chopped Salad, 1 Strawberry Jalape\xF1o Mocktail, and\
+  \ 1 Zesty Lime Chicken Taco? I intend to place an order for these items as soon\
+  \ as possible. Thank you for your assistance."
+menu_features:
+  Southwest Chopped Salad: 9.49
+  "Strawberry Jalape\xF1o Mocktail": 5.99
+  Zesty Lime Chicken Tacos: 10.49
+amenity_features: []

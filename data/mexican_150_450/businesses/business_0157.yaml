@@ -1,0 +1,47 @@
+id: business_0157
+name: La Parada Mexicana
+description: Step into a vibrant Tex-Mex haven where bold flavors, fresh ingredients,
+  and playful twists on classic favorites await. La Parada Mexicana invites you to
+  savor the spirit of the street, one colorful bite and festive sip at a time.
+rating: 1.0
+progenitor_customer: customer_0053
+menu_features:
+  Charred Corn and Black Bean Salad: 8.85
+  Stuffed Poblano Peppers: 14.57
+  Frozen Strawberry Daiquiri: 8.86
+  Horchata Milkshake: 5.06
+  Crispy Fish Street Tacos: 15.24
+  Spicy Avocado Smash Burger: 10.52
+  Creamy Avocado Smoothie: 5.15
+  Rich Chocolate Tamales: 6.71
+  Street Corn Elote: 4.94
+  Cactus Cooler Margarita: 8.31
+  Churro Ice Cream Sandwich: 7.89
+  Cilantro Lime Chicken Tacos: 11.71
+  Classic Tortilla Soup: 6.2
+  Crispy Avocado and Lime Tacos: 10.73
+  Smoky Black Bean Enchiladas: 12.12
+  Chili-Lime Cauliflower Bites: 9.82
+  Tropical Coconut Margarita: 10.09
+  Horchata Latte: 4.24
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Charred Corn and Black Bean Salad: 7.35
+  Stuffed Poblano Peppers: 12.09
+  Frozen Strawberry Daiquiri: 7.35
+  Horchata Milkshake: 4.2
+  Crispy Fish Street Tacos: 12.65
+  Spicy Avocado Smash Burger: 8.73
+  Creamy Avocado Smoothie: 4.27
+  Rich Chocolate Tamales: 5.57
+  Street Corn Elote: 4.1
+  Cactus Cooler Margarita: 6.9
+  Churro Ice Cream Sandwich: 6.55
+  Cilantro Lime Chicken Tacos: 9.72
+  Classic Tortilla Soup: 5.15
+  Crispy Avocado and Lime Tacos: 8.91
+  Smoky Black Bean Enchiladas: 10.06
+  Chili-Lime Cauliflower Bites: 8.15
+  Tropical Coconut Margarita: 8.37
+  Horchata Latte: 3.52

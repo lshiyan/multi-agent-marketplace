@@ -1,0 +1,45 @@
+id: business_0239
+name: Shrimply Irresistible & The Pineapple Grind
+description: A playful spot for inventive Mexican and Tex-Mex fare, blending zesty
+  seafood, sizzling grill favorites, and sweetly spiced desserts. Experience fresh
+  flavors and bold twists in every vibrant dish.
+rating: 1.0
+progenitor_customer: customer_0080
+menu_features:
+  Chili Lime Shrimp Skewers: 11.41
+  Pineapple Salsa Pork Tacos: 9.18
+  Grilled Street Corn: 5.9
+  Veggie Fajita Platter: 14.33
+  Grilled Steak Quesadilla: 14.09
+  Margarita Lime Cheesecake: 6.25
+  Black Bean and Corn Fiesta Salad: 8.33
+  Huevos Rancheros: 10.08
+  Baja Fish Tacos: 12.14
+  Chili Con Queso Supreme: 7.48
+  Spiced Chocolate Tres Leches: 5.21
+  Gourmet Nacho Platter: 10.63
+  Crispy Tinga Chicken Tacos: 9.57
+  Lime-Garlic Grilled Chicken: 15.61
+  Mexican Coffee Flan: 5.52
+  Black Bean and Cilantro Rice: 3.78
+  Pineapple Chipotle Pork: 13.61
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Chili Lime Shrimp Skewers: 7.07
+  Pineapple Salsa Pork Tacos: 5.69
+  Grilled Street Corn: 3.66
+  Veggie Fajita Platter: 8.88
+  Grilled Steak Quesadilla: 8.74
+  Margarita Lime Cheesecake: 3.88
+  Black Bean and Corn Fiesta Salad: 5.16
+  Huevos Rancheros: 6.25
+  Baja Fish Tacos: 7.53
+  Chili Con Queso Supreme: 4.64
+  Spiced Chocolate Tres Leches: 3.23
+  Gourmet Nacho Platter: 6.59
+  Crispy Tinga Chicken Tacos: 5.93
+  Lime-Garlic Grilled Chicken: 9.68
+  Mexican Coffee Flan: 3.42
+  Black Bean and Cilantro Rice: 2.34
+  Pineapple Chipotle Pork: 8.44

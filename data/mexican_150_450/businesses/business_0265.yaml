@@ -1,0 +1,36 @@
+id: business_0265
+name: La Parrilla Zestada
+description: Experience the vibrant flavors of Mexico and the Southwest with our expertly
+  grilled specialties and zesty dishes, all served in a lively and welcoming atmosphere.
+  From savory starters to sizzling mains, our kitchen celebrates bold tastes with
+  a fresh twist.
+rating: 1.0
+progenitor_customer: customer_0089
+menu_features:
+  Tequila Lime Shrimp Skewers: 14.2
+  Zesty Lime Shrimp Salad: 9.78
+  Smoky Chipotle BBQ Nachos: 9.36
+  Queso Fundido with Chorizo: 8.89
+  Tamale Pie Casserole: 15.73
+  Bacon Wrapped Jalapeno Bites: 7.03
+  Zesty Lime Grilled Chicken: 12.33
+  Tex-Mex Fajita Wrap: 10.65
+  Black Bean and Cilantro Rice: 4.36
+  Fresh Corn Elote: 4.85
+  Grilled Shrimp Skewers: 11.24
+  Flamin' Skillet Fajitas: 17.66
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Tequila Lime Shrimp Skewers: 11.08
+  Zesty Lime Shrimp Salad: 7.63
+  Smoky Chipotle BBQ Nachos: 7.3
+  Queso Fundido with Chorizo: 6.93
+  Tamale Pie Casserole: 12.27
+  Bacon Wrapped Jalapeno Bites: 5.48
+  Zesty Lime Grilled Chicken: 9.62
+  Tex-Mex Fajita Wrap: 8.31
+  Black Bean and Cilantro Rice: 3.4
+  Fresh Corn Elote: 3.78
+  Grilled Shrimp Skewers: 8.77
+  Flamin' Skillet Fajitas: 13.77

@@ -1,0 +1,37 @@
+id: business_0026
+name: Queso & Quench
+description: A lively locale serving up creative Mexican and Tex-Mex flavors, refreshing
+  drinks, and crave-worthy cheesy bites. Join us for a delicious twist on tradition
+  in every dish.
+rating: 1.0
+progenitor_customer: customer_0009
+menu_features:
+  Grilled Pineapple & Shrimp Quesadillas: 13.16
+  Black Bean Breakfast Burrito: 8.14
+  Blueberry Mint Agua Fresca: 4.29
+  Grilled Chipotle Chicken Burrito: 11.76
+  Tequila Lime Grilled Chicken: 14.42
+  Spiced Chocolate Tres Leches: 5.87
+  Adobo Roasted Corn Salad: 8.84
+  Mexican Street Corn Salad: 7.2
+  Three-Cheese Queso Dip: 6.96
+  Chipotle Lime Chicken Salad: 11.27
+  Creamy Queso Dip: 6.66
+  Warm Cinnamon Churros: 5.7
+  Roasted Pepper Queso Dip: 8.47
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Grilled Pineapple & Shrimp Quesadillas: 9.87
+  Black Bean Breakfast Burrito: 6.11
+  Blueberry Mint Agua Fresca: 3.22
+  Grilled Chipotle Chicken Burrito: 8.82
+  Tequila Lime Grilled Chicken: 10.81
+  Spiced Chocolate Tres Leches: 4.4
+  Adobo Roasted Corn Salad: 6.63
+  Mexican Street Corn Salad: 5.4
+  Three-Cheese Queso Dip: 5.22
+  Chipotle Lime Chicken Salad: 8.45
+  Creamy Queso Dip: 5.0
+  Warm Cinnamon Churros: 4.28
+  Roasted Pepper Queso Dip: 6.35

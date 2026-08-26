@@ -1,0 +1,47 @@
+id: business_0035
+name: "Jalape\xF1o Business"
+description: Spice up your day at this lively spot serving Mexican and Tex-Mex favorites,
+  from flavor-packed tacos to sizzling skillets and decadent desserts. Dive in for
+  bold bites and refreshing drinks all crafted with a creative twist.
+rating: 1.0
+progenitor_customer: customer_0012
+menu_features:
+  Fresh Limeade: 3.91
+  "Strawberry Jalape\xF1o Mocktail": 5.92
+  Southwest Chopped Salad: 8.7
+  Sizzling Pork Carnitas Bowl: 10.83
+  Hatch Green Chile Rice: 4.82
+  Black Bean & Corn Quesadilla: 9.32
+  Ranchero Steak Fajitas: 18.65
+  Zesty Lime Chicken Tacos: 10.94
+  Mexican Coffee Flan: 6.86
+  Roasted Pecan Flan: 5.78
+  Loaded Nacho Skillet: 11.63
+  Salted Caramel Margarita: 10.69
+  Tequila Lime Shrimp Skewers: 12.17
+  Verde Ranchero Huevos: 11.22
+  Passion Fruit Agua Fresca: 4.88
+  Mexican Chocolate Brownie: 5.85
+  Caramelized Plantain Empanadas: 8.69
+  Mesquite Grilled Steak Fajitas: 13.99
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Fresh Limeade: 2.85
+  "Strawberry Jalape\xF1o Mocktail": 4.32
+  Southwest Chopped Salad: 6.35
+  Sizzling Pork Carnitas Bowl: 7.91
+  Hatch Green Chile Rice: 3.52
+  Black Bean & Corn Quesadilla: 6.8
+  Ranchero Steak Fajitas: 13.61
+  Zesty Lime Chicken Tacos: 7.99
+  Mexican Coffee Flan: 5.01
+  Roasted Pecan Flan: 4.22
+  Loaded Nacho Skillet: 8.49
+  Salted Caramel Margarita: 7.8
+  Tequila Lime Shrimp Skewers: 8.88
+  Verde Ranchero Huevos: 8.19
+  Passion Fruit Agua Fresca: 3.56
+  Mexican Chocolate Brownie: 4.27
+  Caramelized Plantain Empanadas: 6.34
+  Mesquite Grilled Steak Fajitas: 10.21

@@ -1,0 +1,44 @@
+id: business_0327
+name: "Sabores del Jard\xEDn"
+description: A vibrant Mexican and Tex-Mex eatery offering a fresh spin on timeless
+  flavors, from zesty starters and bold mains to refreshing drinks and decadent desserts.
+  Experience a colorful gathering place where every dish celebrates the spirit of
+  the garden and the heart of tradition.
+rating: 1.0
+progenitor_customer: customer_0109
+menu_features:
+  Avocado Lime Salsa: 4.54
+  Cucumber Jalapeno Agua Fresca: 3.55
+  Black Bean and Corn Fiesta Salad: 8.74
+  Crispy Carnitas Quesadilla: 7.4
+  Smoky Black Bean Nachos: 10.46
+  Black Bean Chili Bowl: 9.73
+  Sizzling Fajita Platter: 14.3
+  Toasted Coconut Flan: 6.99
+  Paloma Breeze Cocktail: 8.96
+  Tropical Guava Mint Punch: 5.41
+  Tamarind Glazed Wings: 13.99
+  Caramel Apple Empanadas: 6.59
+  Horchata Latte: 5.01
+  Carnitas Breakfast Burrito: 14.73
+  Poblano Pepper Queso Dip: 7.15
+  Tequila Lime Flan: 7.3
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Avocado Lime Salsa: 2.95
+  Cucumber Jalapeno Agua Fresca: 2.31
+  Black Bean and Corn Fiesta Salad: 5.68
+  Crispy Carnitas Quesadilla: 4.81
+  Smoky Black Bean Nachos: 6.8
+  Black Bean Chili Bowl: 6.32
+  Sizzling Fajita Platter: 9.29
+  Toasted Coconut Flan: 4.54
+  Paloma Breeze Cocktail: 5.82
+  Tropical Guava Mint Punch: 3.52
+  Tamarind Glazed Wings: 9.09
+  Caramel Apple Empanadas: 4.28
+  Horchata Latte: 3.26
+  Carnitas Breakfast Burrito: 9.57
+  Poblano Pepper Queso Dip: 4.65
+  Tequila Lime Flan: 4.75

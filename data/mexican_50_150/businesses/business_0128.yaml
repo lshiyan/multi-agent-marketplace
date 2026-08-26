@@ -1,0 +1,45 @@
+id: business_0128
+name: Holy Flan-tastic
+description: Dive into a bold blend of Tex-Mex classics and inventive twists, all
+  served with a pop of citrus and spice. Satisfy your cravings with sizzling specialties
+  and sweet treats in a fun, fiesta-filled atmosphere.
+rating: 1.0
+progenitor_customer: customer_0043
+menu_features:
+  Coconut Lime Flan: 6.37
+  Agave Lime Chicken Skewers: 12.91
+  Blue Agave Tequila Sunrise: 10.14
+  Loaded Nacho Fries: 9.48
+  Sizzling Carne Asada: 16.78
+  Chili-Lime Cauliflower Bites: 8.01
+  Crispy Avocado Tacos: 11.66
+  Baja Fish Tacos: 14.02
+  Coconut Flan Delight: 7.16
+  Mexican Coffee Flan: 5.25
+  Loaded Nacho Bowl: 11.8
+  Classic Horchata Delight: 4.27
+  Black Bean and Corn Fiesta Salad: 7.13
+  Sizzling Steak Fajitas: 17.5
+  Pico Avocado Toast: 8.61
+  Midnight Mole Enchiladas: 13.23
+  Roasted Poblano Corn Chowder: 6.08
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Coconut Lime Flan: 5.54
+  Agave Lime Chicken Skewers: 11.23
+  Blue Agave Tequila Sunrise: 8.82
+  Loaded Nacho Fries: 8.25
+  Sizzling Carne Asada: 14.6
+  Chili-Lime Cauliflower Bites: 6.97
+  Crispy Avocado Tacos: 10.14
+  Baja Fish Tacos: 12.2
+  Coconut Flan Delight: 6.23
+  Mexican Coffee Flan: 4.57
+  Loaded Nacho Bowl: 10.27
+  Classic Horchata Delight: 3.71
+  Black Bean and Corn Fiesta Salad: 6.2
+  Sizzling Steak Fajitas: 15.22
+  Pico Avocado Toast: 7.49
+  Midnight Mole Enchiladas: 11.51
+  Roasted Poblano Corn Chowder: 5.29

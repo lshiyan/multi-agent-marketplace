@@ -1,0 +1,45 @@
+id: business_0434
+name: Cinnamon & Skirt
+description: Step into Cinnamon & Skirt for bold flavors and vibrant Mexican-inspired
+  eats in a welcoming, colorful space. Enjoy crave-worthy tamales, fresh drinks, and
+  sizzling mains prepared with a twist.
+rating: 1.0
+progenitor_customer: customer_0145
+menu_features:
+  Vanilla Cinnamon Horchata: 3.35
+  Creamy Avocado Smoothie: 6.32
+  Chili Con Queso Supreme: 7.22
+  Fresh Limeade: 3.49
+  Horchata Iced Latte: 6.01
+  Black Bean Taco Bowl: 11.21
+  Sweet Corn Tamales: 12.02
+  Chili Lime Skirt Steak: 16.04
+  Fiesta Street Corn: 5.82
+  Roasted Pumpkin Tamale: 6.52
+  Pineapple Chipotle Salsa & Chips: 5.81
+  Crispy Carnitas Tacos: 9.58
+  Spicy Black Bean and Cheese Quesadilla: 11.29
+  Crispy Avocado Burrito: 11.34
+  Poblano Pepper Queso Dip: 8.04
+  Mexican Chocolate Lava Cake: 8.22
+  Pineapple Agua Fresca: 4.36
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Vanilla Cinnamon Horchata: 2.51
+  Creamy Avocado Smoothie: 4.74
+  Chili Con Queso Supreme: 5.42
+  Fresh Limeade: 2.62
+  Horchata Iced Latte: 4.51
+  Black Bean Taco Bowl: 8.41
+  Sweet Corn Tamales: 9.02
+  Chili Lime Skirt Steak: 12.03
+  Fiesta Street Corn: 4.37
+  Roasted Pumpkin Tamale: 4.89
+  Pineapple Chipotle Salsa & Chips: 4.36
+  Crispy Carnitas Tacos: 7.19
+  Spicy Black Bean and Cheese Quesadilla: 8.47
+  Crispy Avocado Burrito: 8.5
+  Poblano Pepper Queso Dip: 6.03
+  Mexican Chocolate Lava Cake: 6.17
+  Pineapple Agua Fresca: 3.27

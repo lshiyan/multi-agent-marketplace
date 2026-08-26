@@ -1,0 +1,12 @@
+id: customer_0129
+name: Charlotte Hernandez
+request: 'I would like assistance in finding a business that serves the following
+  menu items: Carne Asada Nachos (1), Ancho Chili Spiced Ribs (1), and Fresh Mango
+  Salsa Nachos (1). It is important that the business offers all of these items. Once
+  such a business is identified, I intend to place an order for the specified quantities.
+  Thank you for your help.'
+menu_features:
+  Carne Asada Nachos: 12.49
+  Ancho Chili Spiced Ribs: 15.99
+  Fresh Mango Salsa Nachos: 8.69
+amenity_features: []

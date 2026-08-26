@@ -1,0 +1,10 @@
+id: customer_0028
+name: Georgina Antonescu
+request: 'Could you please help me find a business that offers the following menu
+  items: 1 Smoky Chipotle BBQ Wings, 1 Sweet Chili Lime Elote, and 1 Mexican Spiced
+  Chocolate Cake? I would like to place an order for these specific items. Thank you.'
+menu_features:
+  Smoky Chipotle BBQ Wings: 10.99
+  Sweet Chili Lime Elote: 4.99
+  Mexican Spiced Chocolate Cake: 7.49
+amenity_features: []

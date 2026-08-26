@@ -1,0 +1,39 @@
+id: business_0040
+name: El Dorado Cocina
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  welcoming atmosphere. El Dorado Cocina serves up a tempting array of classic and
+  creative dishes inspired by rich culinary traditions.
+rating: 1.0
+progenitor_customer: customer_0014
+menu_features:
+  Tex-Mex Fajita Wrap: 10.79
+  Bacon Wrapped Jalapeno Bites: 8.21
+  Choco Flan Combo: 5.82
+  Sweet Corn Tamales: 9.71
+  Pineapple Salsa Pork Tacos: 11.22
+  Baja Shrimp Quesadilla: 11.22
+  Chocolate Molten Tamale: 7.22
+  Breakfast Chorizo Tostadas: 10.54
+  Smoky Chipotle Black Bean Soup: 8.28
+  Avocado Lime Crema Tostadas: 8.28
+  Caramel Corn Flan: 7.69
+  Pineapple Habanero Salsa: 4.02
+  Tomatillo Ranch Enchiladas: 11.07
+  Chocolate Dipped Flan: 6.45
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Tex-Mex Fajita Wrap: 9.39
+  Bacon Wrapped Jalapeno Bites: 7.14
+  Choco Flan Combo: 5.06
+  Sweet Corn Tamales: 8.45
+  Pineapple Salsa Pork Tacos: 9.76
+  Baja Shrimp Quesadilla: 9.76
+  Chocolate Molten Tamale: 6.28
+  Breakfast Chorizo Tostadas: 9.17
+  Smoky Chipotle Black Bean Soup: 7.2
+  Avocado Lime Crema Tostadas: 7.2
+  Caramel Corn Flan: 6.69
+  Pineapple Habanero Salsa: 3.5
+  Tomatillo Ranch Enchiladas: 9.63
+  Chocolate Dipped Flan: 5.61

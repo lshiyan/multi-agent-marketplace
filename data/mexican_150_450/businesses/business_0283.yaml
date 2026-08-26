@@ -1,0 +1,43 @@
+id: business_0283
+name: Spice & Sizzle Eatery
+description: Discover a fresh take on modern Mexican and Tex-Mex flavors in a vibrant,
+  lively atmosphere. From bold salads to sweet desserts and creative cocktails, every
+  dish is crafted to ignite your senses.
+rating: 1.0
+progenitor_customer: customer_0095
+menu_features:
+  Southwestern Quinoa Salad: 9.82
+  Smoky Black Bean Tostadas: 7.45
+  Smoky Black Bean Enchiladas: 11.57
+  Mexican Chocolate Lava Cake: 5.98
+  "Blueberry Jalape\xF1o Margarita": 7.24
+  Spicy Black Bean Enchiladas: 9.43
+  Smoky Black Bean Nachos: 8.89
+  Sizzling Fajita Skillet: 12.43
+  Coconut Lime Tres Leches: 5.34
+  Huevos Rancheros: 10.13
+  Pineapple Habanero Sake: 8.54
+  Baja Fish Burrito: 13.87
+  Frozen Strawberry Daiquiri: 8.4
+  Green Chile Pork Stew: 13.44
+  Spiced Agave Margarita: 9.53
+  Spicy Mango Margarita: 8.5
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Southwestern Quinoa Salad: 8.15
+  Smoky Black Bean Tostadas: 6.18
+  Smoky Black Bean Enchiladas: 9.6
+  Mexican Chocolate Lava Cake: 4.96
+  "Blueberry Jalape\xF1o Margarita": 6.01
+  Spicy Black Bean Enchiladas: 7.83
+  Smoky Black Bean Nachos: 7.38
+  Sizzling Fajita Skillet: 10.32
+  Coconut Lime Tres Leches: 4.43
+  Huevos Rancheros: 8.41
+  Pineapple Habanero Sake: 7.09
+  Baja Fish Burrito: 11.51
+  Frozen Strawberry Daiquiri: 6.97
+  Green Chile Pork Stew: 11.16
+  Spiced Agave Margarita: 7.91
+  Spicy Mango Margarita: 7.05

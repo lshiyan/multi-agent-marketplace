@@ -1,0 +1,35 @@
+id: business_0177
+name: Lime & Ember Social
+description: A modern, vibrant spot serving up bold Tex-Mex and Mexican eats with
+  a creative twist. Enjoy fresh flavors, zesty cocktails, and an inviting atmosphere
+  perfect for sharing with friends.
+rating: 1.0
+progenitor_customer: customer_0059
+menu_features:
+  Cilantro Lime Chicken Tacos: 12.81
+  Pineapple Jalapeno Margarita: 9.65
+  Chili Lime Shrimp Skewers: 10.13
+  Choco-Chili Volcano Cake: 9.01
+  Ancho Honey-Glazed Salmon: 17.72
+  Poblano Pepper Relleno Plate: 12.4
+  Fresh Lime and Cilantro Guacamole: 7.9
+  Roasted Pecan Flan: 4.5
+  Ancho Chile Beef Chili: 14.36
+  Sunset Grilled Veggie Tacos: 12.71
+  Chili-Lime Cauliflower Bites: 8.51
+  Pineapple Jalapeno Salsa: 5.28
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Cilantro Lime Chicken Tacos: 11.53
+  Pineapple Jalapeno Margarita: 8.69
+  Chili Lime Shrimp Skewers: 9.12
+  Choco-Chili Volcano Cake: 8.11
+  Ancho Honey-Glazed Salmon: 15.95
+  Poblano Pepper Relleno Plate: 11.16
+  Fresh Lime and Cilantro Guacamole: 7.11
+  Roasted Pecan Flan: 4.05
+  Ancho Chile Beef Chili: 12.92
+  Sunset Grilled Veggie Tacos: 11.44
+  Chili-Lime Cauliflower Bites: 7.66
+  Pineapple Jalapeno Salsa: 4.75

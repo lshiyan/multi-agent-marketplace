@@ -1,0 +1,43 @@
+id: business_0411
+name: Sabrosa Ember Kitchen
+description: Experience a modern take on Mexican and Tex-Mex favorites, from vibrant
+  salads to sizzling grill specialties and decadent desserts. Fresh flavors and bold
+  spices come together in a warm, contemporary setting perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0137
+menu_features:
+  Mesquite Grilled Steak Fajitas: 16.29
+  Jicama and Citrus Salad: 7.83
+  Coffee Cinnamon Mexican Mocha: 5.08
+  Sweet Plantain Empanadas: 8.19
+  Mexican Coffee Flan: 6.89
+  Loaded Nacho Platter: 10.15
+  Stuffed Chicken Poblano: 10.38
+  Classic Horchata Delight: 3.92
+  Mexican Chocolate Lava Cake: 10.03
+  Loaded Nacho Fiesta: 7.76
+  Crispy Avocado Tostadas: 11.64
+  Midnight Mole Enchiladas: 14.02
+  Breakfast Burrito Bowl: 9.33
+  Tequila Lime Shrimp Skewers: 14.46
+  Black Bean Stuffed Sweet Potatoes: 8.95
+  Coconut Lime Shrimp Skewers: 15.71
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Mesquite Grilled Steak Fajitas: 12.71
+  Jicama and Citrus Salad: 6.11
+  Coffee Cinnamon Mexican Mocha: 3.96
+  Sweet Plantain Empanadas: 6.39
+  Mexican Coffee Flan: 5.37
+  Loaded Nacho Platter: 7.92
+  Stuffed Chicken Poblano: 8.1
+  Classic Horchata Delight: 3.06
+  Mexican Chocolate Lava Cake: 7.82
+  Loaded Nacho Fiesta: 6.05
+  Crispy Avocado Tostadas: 9.08
+  Midnight Mole Enchiladas: 10.94
+  Breakfast Burrito Bowl: 7.28
+  Tequila Lime Shrimp Skewers: 11.28
+  Black Bean Stuffed Sweet Potatoes: 6.98
+  Coconut Lime Shrimp Skewers: 12.25

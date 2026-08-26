@@ -1,0 +1,37 @@
+id: business_0077
+name: Tamarindo & Lime
+description: Experience bold, refreshing flavors at Tamarindo & Lime, where vibrant
+  Mexican and Tex-Mex cuisine meets a modern, upbeat atmosphere. Enjoy creative cocktails
+  and inventive dishes, perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0026
+menu_features:
+  Tamarind-Glazed Ribs: 17.02
+  Housemade Horchata: 4.34
+  Mexican Street Corn Dip: 7.74
+  Margarita Lime Cheesecake: 5.99
+  Zesty Lime Shrimp Tostadas: 12.57
+  Crispy Fish Street Tacos: 14.3
+  Blueberry Agave Mojito: 9.74
+  Blue Corn Tortilla Chips: 4.93
+  Tex-Mex Breakfast Skillet: 7.69
+  Tamarind Ginger Cooler: 4.34
+  Avocado Lime Salad: 7.42
+  Baja Shrimp Quesadilla: 11.94
+  Chipotle Bourbon Carnitas: 17.07
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Tamarind-Glazed Ribs: 15.15
+  Housemade Horchata: 3.86
+  Mexican Street Corn Dip: 6.89
+  Margarita Lime Cheesecake: 5.33
+  Zesty Lime Shrimp Tostadas: 11.19
+  Crispy Fish Street Tacos: 12.73
+  Blueberry Agave Mojito: 8.67
+  Blue Corn Tortilla Chips: 4.39
+  Tex-Mex Breakfast Skillet: 6.84
+  Tamarind Ginger Cooler: 3.86
+  Avocado Lime Salad: 6.6
+  Baja Shrimp Quesadilla: 10.63
+  Chipotle Bourbon Carnitas: 15.19

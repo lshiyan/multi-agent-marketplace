@@ -1,0 +1,44 @@
+id: business_0396
+name: Sabroso Skillet Cantina
+description: Experience the bold flavors of Mexico and the Southwest at Sabroso Skillet
+  Cantina, where vibrant dishes are crafted with a smoky twist. Gather with friends
+  to savor creative nachos, sizzling fajitas, stuffed avocados, and inventive street
+  fare in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0132
+menu_features:
+  Smoky Black Bean Nachos: 9.19
+  Pineapple Salsa Pork Tacos: 12.54
+  Flamin' Skillet Fajitas: 17.5
+  Creamy Poblano Corn Chowder: 9.24
+  Fiesta Street Corn: 4.35
+  Stuffed Avocado Delight: 6.97
+  Pineapple Habanero Sake: 8.2
+  Smoky Chipotle Enchiladas: 13.89
+  Chili Lime Roasted Corn: 3.98
+  Smoky Chipotle BBQ Wings: 12.27
+  Midnight Mole Enchiladas: 16.05
+  Crispy Carnitas Quesadilla: 9.45
+  Spicy Chorizo Enchiladas: 13.6
+  Street Style Quesadillas: 6.65
+  Cactus Flower Iced Tea: 4.22
+  Peppered Steak Nachos: 10.7
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Smoky Black Bean Nachos: 5.88
+  Pineapple Salsa Pork Tacos: 8.03
+  Flamin' Skillet Fajitas: 11.2
+  Creamy Poblano Corn Chowder: 5.91
+  Fiesta Street Corn: 2.78
+  Stuffed Avocado Delight: 4.46
+  Pineapple Habanero Sake: 5.25
+  Smoky Chipotle Enchiladas: 8.89
+  Chili Lime Roasted Corn: 2.55
+  Smoky Chipotle BBQ Wings: 7.85
+  Midnight Mole Enchiladas: 10.27
+  Crispy Carnitas Quesadilla: 6.05
+  Spicy Chorizo Enchiladas: 8.7
+  Street Style Quesadillas: 4.26
+  Cactus Flower Iced Tea: 2.7
+  Peppered Steak Nachos: 6.85

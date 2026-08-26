@@ -1,0 +1,39 @@
+id: business_0031
+name: Cactus & Cravings
+description: Experience vibrant Mexican and Tex-Mex flavors in a lively, modern setting.
+  From tantalizing small bites to bold, zesty mains and creative cocktails, there's
+  a dish to satisfy every craving.
+rating: 1.0
+progenitor_customer: customer_0011
+menu_features:
+  Spiced Churro Bites: 6.8
+  Sweet Corn Tamale Cake: 9.27
+  Lime-Cilantro Quinoa Salad: 10.08
+  Crispy Avocado Tacos: 13.92
+  Citrus Grilled Chicken Tacos: 13.1
+  Pico Avocado Toast: 5.85
+  Smoky Chipotle BBQ Ribs: 17.46
+  Flamin' Skillet Fajitas: 16.09
+  Pineapple Habanero Margarita: 7.88
+  Spicy Black Bean Nacho Platter: 10.87
+  Caramelized Onion and Goat Cheese Empanadas: 5.93
+  Jalapeno Mango Margarita: 8.06
+  Classic Horchata Delight: 3.39
+  Stuffed Avocado Delight: 8.04
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Spiced Churro Bites: 4.35
+  Sweet Corn Tamale Cake: 5.93
+  Lime-Cilantro Quinoa Salad: 6.45
+  Crispy Avocado Tacos: 8.91
+  Citrus Grilled Chicken Tacos: 8.38
+  Pico Avocado Toast: 3.74
+  Smoky Chipotle BBQ Ribs: 11.17
+  Flamin' Skillet Fajitas: 10.3
+  Pineapple Habanero Margarita: 5.04
+  Spicy Black Bean Nacho Platter: 6.96
+  Caramelized Onion and Goat Cheese Empanadas: 3.8
+  Jalapeno Mango Margarita: 5.16
+  Classic Horchata Delight: 2.17
+  Stuffed Avocado Delight: 5.15

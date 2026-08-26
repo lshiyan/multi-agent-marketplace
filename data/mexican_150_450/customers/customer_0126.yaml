@@ -1,0 +1,11 @@
+id: customer_0126
+name: Noah Clark
+request: 'Could you please assist me in placing an order from a business that offers
+  the following menu items: 1 Crispy Avocado Fritter, 1 Crispy Tortilla Breakfast
+  Bowl, and 1 Honey-Lime Grilled Salmon? It is important that all these items are
+  available together. Thank you.'
+menu_features:
+  Crispy Avocado Fritters: 8.29
+  Crispy Tortilla Breakfast Bowl: 10.49
+  Honey-Lime Grilled Salmon: 14.99
+amenity_features: []

@@ -1,0 +1,40 @@
+id: business_0357
+name: Casa de la Brisa Sabrosa
+description: Experience vibrant Mexican and Tex-Mex flavors at Casa de la Brisa Sabrosa,
+  where fresh ingredients and classic recipes are brought to life in a welcoming,
+  colorful setting. Enjoy a diverse menu featuring savory wraps, hearty bowls, and
+  irresistible desserts, all inspired by the rich culinary traditions of Mexico.
+rating: 1.0
+progenitor_customer: customer_0119
+menu_features:
+  Smoky Lime Quinoa Salad: 10.98
+  Classic Flan Delight: 7.5
+  Classic Beef Barbacoa: 12.33
+  Pico Avocado Toast: 9.72
+  Spicy Chipotle Chicken Wrap: 8.95
+  Caramelized Banana Flan: 5.29
+  Crispy Carnitas Tacos: 10.93
+  Chili Lime Jicama Sticks: 6.23
+  Fajita Veggie Burrito Bowl: 13.92
+  Black Bean and Avocado Wrap: 11.58
+  Black Bean and Cilantro Rice: 2.79
+  Black Bean Chili Bowl: 8.96
+  Roasted Poblano Rellenos: 15.05
+  Blueberry Agave Margarita: 9.95
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Smoky Lime Quinoa Salad: 8.78
+  Classic Flan Delight: 6.0
+  Classic Beef Barbacoa: 9.86
+  Pico Avocado Toast: 7.78
+  Spicy Chipotle Chicken Wrap: 7.16
+  Caramelized Banana Flan: 4.23
+  Crispy Carnitas Tacos: 8.74
+  Chili Lime Jicama Sticks: 4.98
+  Fajita Veggie Burrito Bowl: 11.14
+  Black Bean and Avocado Wrap: 9.26
+  Black Bean and Cilantro Rice: 2.23
+  Black Bean Chili Bowl: 7.17
+  Roasted Poblano Rellenos: 12.04
+  Blueberry Agave Margarita: 7.96

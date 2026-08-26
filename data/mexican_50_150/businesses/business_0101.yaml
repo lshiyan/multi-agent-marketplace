@@ -1,0 +1,40 @@
+id: business_0101
+name: "La Mesa de Ma\xEDz"
+description: "La Mesa de Ma\xEDz brings a fresh take on Mexican and Tex-Mex cuisine,\
+  \ celebrating vibrant flavors with creative dishes and refreshing sips. Gather with\
+  \ friends and family for an inviting dining experience inspired by tradition and\
+  \ seasonal ingredients."
+rating: 1.0
+progenitor_customer: customer_0034
+menu_features:
+  Stuffed Avocado Delight: 6.05
+  Roasted Tomato Salsa Dip: 3.05
+  Fresh Watermelon Aqua Fresca: 3.26
+  Crispy Avocado Nachos: 10.25
+  Roasted Corn Enchiladas: 9.71
+  Grilled Pineapple and Shrimp Salad: 10.01
+  Chili Lime Margarita: 7.27
+  Roasted Pumpkin Tamale: 8.11
+  Zesty Lime Grilled Chicken: 17.62
+  Southwestern Quinoa Salad: 10.16
+  Roasted Corn and Black Bean Salsa: 7.82
+  Spiked Horchata Cooler: 7.51
+  Cilantro Lime Shrimp Skewers: 14.46
+  Salted Caramel Margarita: 9.73
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Stuffed Avocado Delight: 4.42
+  Roasted Tomato Salsa Dip: 2.23
+  Fresh Watermelon Aqua Fresca: 2.38
+  Crispy Avocado Nachos: 7.48
+  Roasted Corn Enchiladas: 7.09
+  Grilled Pineapple and Shrimp Salad: 7.31
+  Chili Lime Margarita: 5.31
+  Roasted Pumpkin Tamale: 5.92
+  Zesty Lime Grilled Chicken: 12.86
+  Southwestern Quinoa Salad: 7.42
+  Roasted Corn and Black Bean Salsa: 5.71
+  Spiked Horchata Cooler: 5.48
+  Cilantro Lime Shrimp Skewers: 10.56
+  Salted Caramel Margarita: 7.1

@@ -1,0 +1,38 @@
+id: business_0002
+name: Citrus & Spice Cantina
+description: Experience bold, vibrant flavors inspired by modern Mexican and Tex-Mex
+  fare in a lively, inviting setting. From zesty grilled specialties to refreshing
+  cocktails and creative shareables, Citrus & Spice Cantina brings a fresh twist to
+  every visit.
+rating: 1.0
+progenitor_customer: customer_0001
+menu_features:
+  Stuffed Avocado Delight: 7.8
+  Street Corn Quesadilla: 9.7
+  Loaded Street Corn: 6.65
+  Passion Fruit Mojito: 8.67
+  Coconut Lime Paleta: 4.68
+  Cocoa Cinnamon Tequila: 11.3
+  Citrus Marinated Carne Asada: 17.39
+  Vanilla Cinnamon Horchata: 2.9
+  Chipotle Lime Shrimp Skewers: 12.05
+  Minty Mojito Refresher: 7.9
+  Shrimp Ceviche Bowl: 15.2
+  Breakfast Tostada Stack: 8.73
+  Loaded Nacho Skillet: 8.81
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Stuffed Avocado Delight: 4.84
+  Street Corn Quesadilla: 6.01
+  Loaded Street Corn: 4.12
+  Passion Fruit Mojito: 5.38
+  Coconut Lime Paleta: 2.9
+  Cocoa Cinnamon Tequila: 7.01
+  Citrus Marinated Carne Asada: 10.78
+  Vanilla Cinnamon Horchata: 1.8
+  Chipotle Lime Shrimp Skewers: 7.47
+  Minty Mojito Refresher: 4.9
+  Shrimp Ceviche Bowl: 9.42
+  Breakfast Tostada Stack: 5.41
+  Loaded Nacho Skillet: 5.46

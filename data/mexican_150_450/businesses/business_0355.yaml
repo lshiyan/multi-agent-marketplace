@@ -1,0 +1,40 @@
+id: business_0355
+name: It's a Wrap! & Zest Friends
+description: Dive into a flavorful fiesta of fresh sips and bold bites, where zesty,
+  sweet, and savory creations come together with a Tex-Mex twist. Perfect for brunch
+  lovers, vegans, and flavor seekers alike, every visit is a new adventure of vibrant
+  taste.
+rating: 1.0
+progenitor_customer: customer_0119
+menu_features:
+  Tequila Lime Shrimp Skewers: 16.98
+  Caramelized Banana Flan: 4.98
+  Bacon and Egg Tostada: 9.0
+  Loaded Nacho Fries: 7.7
+  Spicy Mango Margarita: 8.25
+  Blueberry Agave Margarita: 10.41
+  Black Bean and Avocado Wrap: 9.48
+  Passionfruit Agua Fresca: 3.95
+  Zesty Lime Shrimp Tostadas: 10.77
+  Mexican Chocolate Brownie: 5.56
+  Mexican Chocolate Lava Cake: 8.55
+  Roasted Corn and Black Bean Salad: 8.41
+  "Spicy Jalape\xF1o Limeade": 3.85
+  Black Bean Chili Bowl: 10.58
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Tequila Lime Shrimp Skewers: 11.89
+  Caramelized Banana Flan: 3.49
+  Bacon and Egg Tostada: 6.3
+  Loaded Nacho Fries: 5.39
+  Spicy Mango Margarita: 5.77
+  Blueberry Agave Margarita: 7.29
+  Black Bean and Avocado Wrap: 6.64
+  Passionfruit Agua Fresca: 2.77
+  Zesty Lime Shrimp Tostadas: 7.54
+  Mexican Chocolate Brownie: 3.89
+  Mexican Chocolate Lava Cake: 5.99
+  Roasted Corn and Black Bean Salad: 5.89
+  "Spicy Jalape\xF1o Limeade": 2.69
+  Black Bean Chili Bowl: 7.41

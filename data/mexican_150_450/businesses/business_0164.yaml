@@ -1,0 +1,41 @@
+id: business_0164
+name: Lime Blossom Kitchen
+description: Experience vibrant Mexican-inspired cuisine with a fresh, modern twist.
+  Enjoy bold flavors, colorful dishes, and a welcoming atmosphere designed for sharing
+  great moments.
+rating: 1.0
+progenitor_customer: customer_0055
+menu_features:
+  Honey Lime Grilled Fajitas: 14.03
+  Crispy Carnitas Quesadilla: 11.79
+  Coconut Lime Tres Leches: 6.82
+  Huevos Rancheros: 10.19
+  Crispy Avocado Wedges: 9.73
+  Savory Chorizo Street Tacos: 12.14
+  Al Pastor Quesadilla: 11.79
+  Pineapple Chipotle Salsa & Chips: 5.74
+  Citrus Grilled Chicken Tacos: 11.77
+  "Cheesy Jalape\xF1o Queso Dip": 7.14
+  Cactus Flower Iced Tea: 4.97
+  Horchata Milkshake: 5.8
+  Housemade Horchata: 5.86
+  Crispy Fish Tacos: 10.34
+  Tamale Pie Casserole: 11.83
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Honey Lime Grilled Fajitas: 8.7
+  Crispy Carnitas Quesadilla: 7.31
+  Coconut Lime Tres Leches: 4.23
+  Huevos Rancheros: 6.32
+  Crispy Avocado Wedges: 6.03
+  Savory Chorizo Street Tacos: 7.53
+  Al Pastor Quesadilla: 7.31
+  Pineapple Chipotle Salsa & Chips: 3.56
+  Citrus Grilled Chicken Tacos: 7.3
+  "Cheesy Jalape\xF1o Queso Dip": 4.43
+  Cactus Flower Iced Tea: 3.08
+  Horchata Milkshake: 3.6
+  Housemade Horchata: 3.63
+  Crispy Fish Tacos: 6.41
+  Tamale Pie Casserole: 7.33

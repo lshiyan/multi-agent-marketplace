@@ -1,0 +1,35 @@
+id: business_0368
+name: Fajita the Good Times
+description: Savor the vibrant flavors of Mexico and the Southwest, where every plate
+  is bursting with smoky, zesty, and sweet delights. Celebrate good times with grilled
+  feasts, refreshing housemade drinks, and desserts made for sharing.
+rating: 1.0
+progenitor_customer: customer_0123
+menu_features:
+  Mesquite Grilled Steak Fajitas: 16.01
+  Ancho Chili Braised Beef Enchiladas: 11.21
+  Citrus Grilled Chicken Tacos: 14.05
+  Black Bean & Cheese Enchiladas: 8.98
+  Housemade Horchata: 4.74
+  Three-Cheese Enchilada Stack: 10.9
+  Warm Cinnamon Churros: 5.97
+  Pineapple Jalapeno Salsa: 6.11
+  Ancho Chili Rubbed Steak: 14.6
+  Spicy Shrimp Ceviche: 9.53
+  Rich Chocolate Tres Leches: 7.14
+  Fresh Limeade: 3.33
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Mesquite Grilled Steak Fajitas: 12.33
+  Ancho Chili Braised Beef Enchiladas: 8.63
+  Citrus Grilled Chicken Tacos: 10.82
+  Black Bean & Cheese Enchiladas: 6.91
+  Housemade Horchata: 3.65
+  Three-Cheese Enchilada Stack: 8.39
+  Warm Cinnamon Churros: 4.6
+  Pineapple Jalapeno Salsa: 4.7
+  Ancho Chili Rubbed Steak: 11.24
+  Spicy Shrimp Ceviche: 7.34
+  Rich Chocolate Tres Leches: 5.5
+  Fresh Limeade: 2.56

@@ -1,0 +1,39 @@
+id: business_0094
+name: Citrus & Cilantro Cantina
+description: A lively Tex-Mex spot where bold spices and fresh herbs meet flame-grilled
+  favorites and vibrant cocktails. Enjoy a flavorful escape with creative street-inspired
+  dishes and refreshing drinks in a warm, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0032
+menu_features:
+  Grilled Chipotle Chicken Burrito: 9.16
+  Roasted Poblano Corn Chowder: 6.76
+  Ultimate Nacho Platter: 8.49
+  Fresh Mint Mojito: 7.03
+  Spicy Cucumber Margarita: 9.0
+  Zesty Shrimp Ceviche: 13.76
+  Crispy Tinga Chicken Tacos: 10.85
+  Avocado Street Tacos: 11.42
+  Coconut Lime Shrimp Skewers: 14.89
+  Chipotle Lime Chicken Salad: 11.34
+  Queso Fundido Supreme: 9.66
+  Spicy Black Bean and Cheese Quesadilla: 10.71
+  Horchata Cold Brew Coffee: 4.8
+  Green Chile Cheesesteak: 14.83
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Grilled Chipotle Chicken Burrito: 8.24
+  Roasted Poblano Corn Chowder: 6.08
+  Ultimate Nacho Platter: 7.64
+  Fresh Mint Mojito: 6.33
+  Spicy Cucumber Margarita: 8.1
+  Zesty Shrimp Ceviche: 12.38
+  Crispy Tinga Chicken Tacos: 9.77
+  Avocado Street Tacos: 10.28
+  Coconut Lime Shrimp Skewers: 13.4
+  Chipotle Lime Chicken Salad: 10.21
+  Queso Fundido Supreme: 8.69
+  Spicy Black Bean and Cheese Quesadilla: 9.64
+  Horchata Cold Brew Coffee: 4.32
+  Green Chile Cheesesteak: 13.35

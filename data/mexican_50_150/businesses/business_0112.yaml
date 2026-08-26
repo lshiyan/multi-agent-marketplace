@@ -1,0 +1,47 @@
+id: business_0112
+name: Chili & Citrus Cocina
+description: Discover fresh flavors and vibrant spice at Chili & Citrus Cocina, where
+  classic Mexican and Tex-Mex inspiration meets inventive, modern plates. Sip, snack,
+  and savor a lively menu perfect for any craving, from breakfast bites to sweet treats.
+rating: 1.0
+progenitor_customer: customer_0038
+menu_features:
+  Avocado & Tomato Breakfast Tostadas: 8.4
+  Smoky Chipotle Chicken: 12.05
+  Tamarind Spiced Agua Fresca: 4.11
+  Guava Limeade Cooler: 4.28
+  Black Bean and Sweet Potato Empanadas: 9.93
+  Cinnamon Churro Bites: 5.49
+  Smoky Chipotle BBQ Ribs: 16.97
+  Caramelized Plantain Empanadas: 7.56
+  Coconut Lime Margarita: 10.73
+  Salted Caramel Margarita: 8.61
+  Spicy Chorizo Enchiladas: 14.65
+  Bacon Wrapped Jalapeno Bites: 7.13
+  Honey Lime Grilled Fajitas: 13.54
+  Hatch Chile Queso Dip: 9.49
+  Crispy Avocado Bites: 8.2
+  Hatch Green Chile Burger: 13.35
+  Charred Corn & Cotija Nachos: 7.62
+  Carne Asada Fajitas: 13.88
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Avocado & Tomato Breakfast Tostadas: 7.06
+  Smoky Chipotle Chicken: 10.12
+  Tamarind Spiced Agua Fresca: 3.45
+  Guava Limeade Cooler: 3.6
+  Black Bean and Sweet Potato Empanadas: 8.34
+  Cinnamon Churro Bites: 4.61
+  Smoky Chipotle BBQ Ribs: 14.25
+  Caramelized Plantain Empanadas: 6.35
+  Coconut Lime Margarita: 9.01
+  Salted Caramel Margarita: 7.23
+  Spicy Chorizo Enchiladas: 12.31
+  Bacon Wrapped Jalapeno Bites: 5.99
+  Honey Lime Grilled Fajitas: 11.37
+  Hatch Chile Queso Dip: 7.97
+  Crispy Avocado Bites: 6.89
+  Hatch Green Chile Burger: 11.21
+  Charred Corn & Cotija Nachos: 6.4
+  Carne Asada Fajitas: 11.66

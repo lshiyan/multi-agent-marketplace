@@ -1,0 +1,48 @@
+id: business_0304
+name: Peppercorn & Paleta
+description: Experience bold, lively Mexican and Tex-Mex flavors at Peppercorn & Paleta,
+  where fresh ingredients meet a creative kick. Dive into a menu full of crave-worthy
+  bites, sizzling specialties, and vibrant, handcrafted salsas in a colorful, welcoming
+  setting.
+rating: 1.0
+progenitor_customer: customer_0102
+menu_features:
+  Spicy Avocado Smash Burger: 14.76
+  Crispy Avocado Bites: 7.51
+  Breakfast Chilaquiles Verde: 8.57
+  Pineapple Pico de Gallo Salsa: 6.56
+  Crispy Fish Tacos: 10.6
+  Verde Ranchero Huevos: 9.01
+  Sizzling Fajita Skillet: 16.31
+  Spicy Beef Chimichangas: 14.91
+  Black Bean & Corn Quesadilla: 9.94
+  Crispy Carnitas Tacos: 13.12
+  Lime-Garlic Grilled Chicken: 12.99
+  Bacon Wrapped Jalapeno Bites: 7.77
+  Hatch Green Chile Stew: 14.22
+  Cilantro Lime Rice Bowl: 11.47
+  Stuffed Poblano Peppers: 10.83
+  Loaded Chorizo Nachos: 9.13
+  Spicy Street Corn: 4.91
+  Chipotle Lime Shrimp Skewers: 12.93
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Spicy Avocado Smash Burger: 13.58
+  Crispy Avocado Bites: 6.91
+  Breakfast Chilaquiles Verde: 7.88
+  Pineapple Pico de Gallo Salsa: 6.04
+  Crispy Fish Tacos: 9.75
+  Verde Ranchero Huevos: 8.29
+  Sizzling Fajita Skillet: 15.01
+  Spicy Beef Chimichangas: 13.72
+  Black Bean & Corn Quesadilla: 9.14
+  Crispy Carnitas Tacos: 12.07
+  Lime-Garlic Grilled Chicken: 11.95
+  Bacon Wrapped Jalapeno Bites: 7.15
+  Hatch Green Chile Stew: 13.08
+  Cilantro Lime Rice Bowl: 10.55
+  Stuffed Poblano Peppers: 9.96
+  Loaded Chorizo Nachos: 8.4
+  Spicy Street Corn: 4.52
+  Chipotle Lime Shrimp Skewers: 11.9

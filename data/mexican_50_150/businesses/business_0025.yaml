@@ -1,0 +1,41 @@
+id: business_0025
+name: Off the Cob & On the Queso
+description: Dive into vibrant flavors where fresh corn, smoky salsas, and grilled
+  goodness take center stage. Our fun, flavorful Tex-Mex eats and refreshing drinks
+  will spice up any craving.
+rating: 1.0
+progenitor_customer: customer_0009
+menu_features:
+  Zesty Shrimp Ceviche: 13.67
+  Agave Lime Chicken Skewers: 11.75
+  Queso Fundido with Chorizo: 9.42
+  Mexican Street Corn Salad: 7.51
+  Smoky Lime Quinoa Salad: 10.37
+  Blue Corn Tostada Salad: 10.28
+  Grilled Shrimp Quesadilla: 10.24
+  Spicy Avocado Smash Burger: 15.47
+  Breakfast Burrito Bonanza: 8.39
+  Chipotle Lime Chicken Salad: 11.3
+  Tequila Lime Grilled Chicken: 9.57
+  Hibiscus Agua Fresca: 3.22
+  Tex-Mex Breakfast Skillet: 7.69
+  Tomatillo Salsa Verde Nachos: 9.56
+  Grilled Elote Corn: 5.05
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Zesty Shrimp Ceviche: 12.3
+  Agave Lime Chicken Skewers: 10.58
+  Queso Fundido with Chorizo: 8.48
+  Mexican Street Corn Salad: 6.76
+  Smoky Lime Quinoa Salad: 9.33
+  Blue Corn Tostada Salad: 9.25
+  Grilled Shrimp Quesadilla: 9.22
+  Spicy Avocado Smash Burger: 13.92
+  Breakfast Burrito Bonanza: 7.55
+  Chipotle Lime Chicken Salad: 10.17
+  Tequila Lime Grilled Chicken: 8.61
+  Hibiscus Agua Fresca: 2.9
+  Tex-Mex Breakfast Skillet: 6.92
+  Tomatillo Salsa Verde Nachos: 8.6
+  Grilled Elote Corn: 4.54

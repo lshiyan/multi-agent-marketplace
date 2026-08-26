@@ -1,0 +1,38 @@
+id: business_0266
+name: Citrus Spoon & Sabor
+description: Dive into vibrant Mexican and Tex-Mex flavors in a colorful, modern setting
+  where zesty, bold, and fresh ingredients take center stage. From savory appetizers
+  to crave-worthy sweets, every bite offers a taste of tradition with a contemporary
+  twist.
+rating: 1.0
+progenitor_customer: customer_0089
+menu_features:
+  Zesty Lime Shrimp Tostadas: 9.85
+  Ultimate Nacho Platter: 9.24
+  Chocolate Churro Bites: 5.83
+  Queso Fundido with Chorizo: 7.1
+  Chipotle Chicken Enchiladas: 15.72
+  Chili Lime Jicama Sticks: 6.37
+  Honey Lime Grilled Fajitas: 15.12
+  Smoky Black Bean Enchiladas: 14.47
+  Roasted Poblano Rellenos: 13.81
+  Southwestern Quinoa Salad: 9.87
+  Black Bean Street Tacos: 9.27
+  Loaded Nacho Fiesta: 9.43
+  Creamy Avocado Smoothie: 4.85
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Zesty Lime Shrimp Tostadas: 8.67
+  Ultimate Nacho Platter: 8.13
+  Chocolate Churro Bites: 5.13
+  Queso Fundido with Chorizo: 6.25
+  Chipotle Chicken Enchiladas: 13.83
+  Chili Lime Jicama Sticks: 5.61
+  Honey Lime Grilled Fajitas: 13.31
+  Smoky Black Bean Enchiladas: 12.73
+  Roasted Poblano Rellenos: 12.15
+  Southwestern Quinoa Salad: 8.69
+  Black Bean Street Tacos: 8.16
+  Loaded Nacho Fiesta: 8.3
+  Creamy Avocado Smoothie: 4.27

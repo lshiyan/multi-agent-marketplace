@@ -1,0 +1,33 @@
+id: business_0024
+name: Fajita the Heat
+description: Dive into a fiesta of bold flavors and colorful cocktails at Fajita the
+  Heat, where smoky sizzle meets refreshing drinks in every bite and sip. Perfect
+  for those craving vibrant Tex-Mex with a twist of tropical flair.
+rating: 1.0
+progenitor_customer: customer_0008
+menu_features:
+  Honey Lime Grilled Fajitas: 13.59
+  Tamarind Ginger Cooler: 4.1
+  Shrimp Ceviche Cups: 11.72
+  Honey Lime Fajita Sizzlers: 14.69
+  Crispy Carnitas Quesadilla: 8.25
+  Frozen Strawberry Margarita: 8.02
+  "Cheesy Jalape\xF1o Queso Dip": 6.36
+  Pineapple Chipotle Pork: 14.55
+  Tropical Guava Mint Punch: 7.34
+  "Cheesy Jalape\xF1o Poppers": 6.4
+  Tamarind Spiced Agua Fresca: 4.46
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Honey Lime Grilled Fajitas: 12.77
+  Tamarind Ginger Cooler: 3.85
+  Shrimp Ceviche Cups: 11.02
+  Honey Lime Fajita Sizzlers: 13.81
+  Crispy Carnitas Quesadilla: 7.75
+  Frozen Strawberry Margarita: 7.54
+  "Cheesy Jalape\xF1o Queso Dip": 5.98
+  Pineapple Chipotle Pork: 13.68
+  Tropical Guava Mint Punch: 6.9
+  "Cheesy Jalape\xF1o Poppers": 6.02
+  Tamarind Spiced Agua Fresca: 4.19

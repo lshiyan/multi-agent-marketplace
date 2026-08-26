@@ -1,0 +1,43 @@
+id: business_0124
+name: Zest & Agave Kitchen
+description: Experience vibrant Mexican and Tex-Mex flavors in a modern, lively setting.
+  From savory street eats to fresh cocktails, every dish is crafted with bold ingredients
+  and a creative twist.
+rating: 1.0
+progenitor_customer: customer_0042
+menu_features:
+  Green Chile Pork Stew: 14.83
+  Tex-Mex Fajita Wrap: 14.4
+  Fajita Veggie Burrito Bowl: 12.09
+  Raspberry Jalapeno Mojito: 9.96
+  Roasted Corn and Black Bean Salad: 8.36
+  Grilled Elote Corn: 3.51
+  Three-Cheese Queso Dip: 6.7
+  Crispy Carnitas Quesadilla: 8.76
+  Honey Lime Chicken Fajitas: 15.08
+  Cucumber Jalapeno Agua Fresca: 4.01
+  Chocolate Dipped Flan: 5.44
+  Zesty Lime Shrimp Tostadas: 13.45
+  Crispy Fish Tacos: 14.83
+  Sea Breeze Ceviche: 15.07
+  Street Style Corn on the Cob: 4.97
+  Zesty Lime Grilled Chicken: 15.66
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Green Chile Pork Stew: 13.35
+  Tex-Mex Fajita Wrap: 12.96
+  Fajita Veggie Burrito Bowl: 10.88
+  Raspberry Jalapeno Mojito: 8.96
+  Roasted Corn and Black Bean Salad: 7.52
+  Grilled Elote Corn: 3.16
+  Three-Cheese Queso Dip: 6.03
+  Crispy Carnitas Quesadilla: 7.88
+  Honey Lime Chicken Fajitas: 13.57
+  Cucumber Jalapeno Agua Fresca: 3.61
+  Chocolate Dipped Flan: 4.9
+  Zesty Lime Shrimp Tostadas: 12.11
+  Crispy Fish Tacos: 13.35
+  Sea Breeze Ceviche: 13.56
+  Street Style Corn on the Cob: 4.47
+  Zesty Lime Grilled Chicken: 14.09

@@ -1,0 +1,12 @@
+id: customer_0015
+name: Mia Harris
+request: 'Could you please assist me in finding a business that offers the following
+  menu items: 1 Black Bean Stuffed Bell Pepper, 1 Shrimp Ceviche Cup, and 1 Grilled
+  Shrimp Quesadilla? It is important that all these specific items are available.
+  Upon finding such a business, I would like to place an order for these items. Thank
+  you for your assistance.'
+menu_features:
+  Black Bean Stuffed Bell Peppers: 10.49
+  Shrimp Ceviche Cups: 10.99
+  Grilled Shrimp Quesadilla: 11.49
+amenity_features: []

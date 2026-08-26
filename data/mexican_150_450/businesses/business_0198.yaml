@@ -1,0 +1,40 @@
+id: business_0198
+name: Cinnamon & Cilantro
+description: Cinnamon & Cilantro offers a fresh, modern take on Mexican and Tex-Mex
+  cuisine, blending bold southwestern flavors with a creative twist. Enjoy a vibrant,
+  welcoming atmosphere and a menu featuring both savory classics and sweet, innovative
+  treats.
+rating: 1.0
+progenitor_customer: customer_0066
+menu_features:
+  Cinnamon Churro Bites: 5.61
+  Southwestern Quinoa Salad: 7.34
+  Loaded Sweet Potato Fries: 8.29
+  Sweet Potato and Black Bean Tacos: 11.61
+  Blue Corn Tortilla Chips: 4.92
+  Horchata Iced Latte: 4.99
+  Tequila Lime Shrimp Skewers: 13.84
+  Cucumber Jalapeno Agua Fresca: 4.41
+  Black Bean and Cilantro Rice: 4.03
+  Cactus Flower Iced Tea: 3.0
+  Mexican Chocolate Lava Cake: 7.25
+  Grilled Shrimp Fajita Bowl: 12.91
+  Chipotle Chicken Burrito Bowl: 13.3
+  Cheesy Jalapeno Queso: 7.98
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Cinnamon Churro Bites: 5.22
+  Southwestern Quinoa Salad: 6.83
+  Loaded Sweet Potato Fries: 7.71
+  Sweet Potato and Black Bean Tacos: 10.8
+  Blue Corn Tortilla Chips: 4.58
+  Horchata Iced Latte: 4.64
+  Tequila Lime Shrimp Skewers: 12.87
+  Cucumber Jalapeno Agua Fresca: 4.1
+  Black Bean and Cilantro Rice: 3.75
+  Cactus Flower Iced Tea: 2.79
+  Mexican Chocolate Lava Cake: 6.74
+  Grilled Shrimp Fajita Bowl: 12.01
+  Chipotle Chicken Burrito Bowl: 12.37
+  Cheesy Jalapeno Queso: 7.42

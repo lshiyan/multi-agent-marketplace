@@ -1,0 +1,37 @@
+id: business_0006
+name: Corn & Cacao Kitchen
+description: Experience vibrant Mexican and Tex-Mex flavors reimagined with a modern
+  twist. Indulge in fresh, bold creations inspired by classic street food and inventive
+  desserts.
+rating: 1.0
+progenitor_customer: customer_0002
+menu_features:
+  Loaded Street Corn: 7.0
+  Chocolate Churro Bites: 6.17
+  Pumpkin Spice Churros: 4.35
+  Sweet Corn Tamales: 10.57
+  Chocolate Mole Chicken: 15.53
+  Blueberry Agave Margarita: 12.08
+  Zesty Lime Shrimp Tostadas: 12.19
+  Crispy Avocado Tostadas: 12.29
+  Ancho Chili Spiced Ribs: 16.11
+  Charred Corn and Black Bean Salad: 9.71
+  Al Pastor Pork Tacos: 14.96
+  Chili Lime Skirt Steak: 19.84
+  Coconut Tres Leches: 5.86
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Loaded Street Corn: 5.25
+  Chocolate Churro Bites: 4.63
+  Pumpkin Spice Churros: 3.26
+  Sweet Corn Tamales: 7.93
+  Chocolate Mole Chicken: 11.65
+  Blueberry Agave Margarita: 9.06
+  Zesty Lime Shrimp Tostadas: 9.14
+  Crispy Avocado Tostadas: 9.22
+  Ancho Chili Spiced Ribs: 12.08
+  Charred Corn and Black Bean Salad: 7.28
+  Al Pastor Pork Tacos: 11.22
+  Chili Lime Skirt Steak: 14.88
+  Coconut Tres Leches: 4.4

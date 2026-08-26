@@ -1,0 +1,37 @@
+id: business_0097
+name: "La Vida Saz\xF3n"
+description: Experience vibrant Mexican and Tex-Mex flavors with fresh ingredients
+  and bold spices in every bite. From savory tacos to crisp salads and creative platters,
+  our kitchen brings a spirited taste of tradition to your table.
+rating: 1.0
+progenitor_customer: customer_0033
+menu_features:
+  Lime-Cilantro Quinoa Salad: 8.14
+  Chorizo Breakfast Tacos: 10.38
+  Red Chili Braised Beef Brisket: 14.45
+  Classic Carne Asada Burrito: 8.23
+  Ancho Honey-Glazed Salmon: 15.68
+  Grilled Steak Fajita Platter: 17.43
+  Minty Mojito Refresher: 9.15
+  Crispy Avocado Tostadas: 7.82
+  Pico Avocado Toast: 6.44
+  Peppered Steak Nachos: 11.88
+  Braised Beef Barbacoa Tacos: 12.88
+  Pineapple Tequila Chicken Skewers: 17.2
+  Crispy Avocado Burrito: 12.79
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Lime-Cilantro Quinoa Salad: 5.21
+  Chorizo Breakfast Tacos: 6.64
+  Red Chili Braised Beef Brisket: 9.25
+  Classic Carne Asada Burrito: 5.27
+  Ancho Honey-Glazed Salmon: 10.04
+  Grilled Steak Fajita Platter: 11.16
+  Minty Mojito Refresher: 5.86
+  Crispy Avocado Tostadas: 5.0
+  Pico Avocado Toast: 4.12
+  Peppered Steak Nachos: 7.6
+  Braised Beef Barbacoa Tacos: 8.24
+  Pineapple Tequila Chicken Skewers: 11.01
+  Crispy Avocado Burrito: 8.19

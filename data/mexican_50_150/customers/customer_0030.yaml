@@ -1,0 +1,11 @@
+id: customer_0030
+name: Linda Lopez
+request: 'Please help me find a business that can fulfill an order with the following
+  menu items: 1 Beef Fajita Skillet, 1 Horchata Milkshake, and 1 Smoky Black Bean
+  Nachos. It''s important to me that all these items are available. Once you identify
+  a suitable business, I intend to place the order.'
+menu_features:
+  Beef Fajita Skillet: 14.89
+  Horchata Milkshake: 5.99
+  Smoky Black Bean Nachos: 9.99
+amenity_features: []

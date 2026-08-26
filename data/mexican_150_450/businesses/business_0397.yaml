@@ -1,0 +1,37 @@
+id: business_0397
+name: Taco the Smoke & Dance
+description: Experience a fun, flavorful twist on Mexican and Tex-Mex favorites, from
+  sizzling fare to smoky sensations and sweet surprises. Our kitchen puts a fresh
+  spin on classics that keep things vibrant, crispy, and always worth a celebration.
+rating: 1.0
+progenitor_customer: customer_0133
+menu_features:
+  Smoky Black Bean Enchiladas: 12.84
+  Hatch Green Chile Rice: 4.42
+  Crispy Carnitas Tacos: 9.79
+  Cocoa Dusted Churro Bites: 5.14
+  Smoky BBQ Pork Tostadas: 10.63
+  Sizzling Steak Fajitas: 14.4
+  Crispy Fish Tacos: 12.14
+  Three-Cheese Queso Dip: 7.44
+  Spicy Chocolate Churros: 6.17
+  Horchata Iced Coffee: 4.97
+  Creamy Avocado Smoothie: 5.03
+  Stuffed Poblano Peppers: 12.9
+  Cucumber Jalapeno Agua Fresca: 2.82
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Smoky Black Bean Enchiladas: 8.09
+  Hatch Green Chile Rice: 2.78
+  Crispy Carnitas Tacos: 6.17
+  Cocoa Dusted Churro Bites: 3.24
+  Smoky BBQ Pork Tostadas: 6.7
+  Sizzling Steak Fajitas: 9.07
+  Crispy Fish Tacos: 7.65
+  Three-Cheese Queso Dip: 4.69
+  Spicy Chocolate Churros: 3.89
+  Horchata Iced Coffee: 3.13
+  Creamy Avocado Smoothie: 3.17
+  Stuffed Poblano Peppers: 8.13
+  Cucumber Jalapeno Agua Fresca: 1.78

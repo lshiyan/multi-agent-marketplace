@@ -1,0 +1,33 @@
+id: business_0061
+name: Kernel & Crave Cantina
+description: A vibrant spot where classic Mexican and Tex-Mex cravings meet a fresh
+  twist! Dive into bold chiles, crave-worthy corn, and crave-worthy creations inspired
+  by sunny street flavors.
+rating: 1.0
+progenitor_customer: customer_0021
+menu_features:
+  Grilled Street Corn: 5.38
+  Chorizo Breakfast Tacos: 10.6
+  Mexican Chocolate Lava Cake: 9.7
+  Breakfast Tostada Stack: 9.07
+  Roasted Red Pepper Quesadilla: 13.4
+  Chili Con Queso Supreme: 7.04
+  Avocado Lime Enchiladas: 9.61
+  Pineapple Chipotle Salsa & Chips: 5.83
+  Pineapple Habanero Salsa: 4.05
+  Avocado Lime Salsa: 4.61
+  Chipotle Bean Burrito: 12.08
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Grilled Street Corn: 3.34
+  Chorizo Breakfast Tacos: 6.57
+  Mexican Chocolate Lava Cake: 6.01
+  Breakfast Tostada Stack: 5.62
+  Roasted Red Pepper Quesadilla: 8.31
+  Chili Con Queso Supreme: 4.36
+  Avocado Lime Enchiladas: 5.96
+  Pineapple Chipotle Salsa & Chips: 3.61
+  Pineapple Habanero Salsa: 2.51
+  Avocado Lime Salsa: 2.86
+  Chipotle Bean Burrito: 7.49

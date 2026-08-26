@@ -1,0 +1,41 @@
+id: business_0242
+name: Pineapple & Palate
+description: Pineapple & Palate celebrates vibrant Mexican and Tex-Mex cuisine in
+  a lively, modern setting. Refreshing cocktails and inventive dishes highlight bold
+  flavors, sure to delight every guest.
+rating: 1.0
+progenitor_customer: customer_0081
+menu_features:
+  Passion Fruit Mojito: 10.54
+  Three Cheese Sope: 10.14
+  Black Bean and Cilantro Rice: 4.18
+  Grilled Pineapple Dessert Quesadilla: 8.96
+  Fresh Lime Cilantro Rice: 3.08
+  Chipotle Lime Shrimp Skewers: 14.41
+  Loaded Chorizo Nachos: 11.66
+  Sea Breeze Ceviche: 11.73
+  Spicy Cucumber Margarita: 10.01
+  Baja Shrimp Quesadilla: 13.68
+  Tamarind-Glazed Ribs: 17.53
+  Margarita Lime Cheesecake: 7.51
+  Pineapple Habanero Salsa: 4.91
+  "Blueberry Jalape\xF1o Margarita": 11.77
+  Crispy Carnitas Tacos: 12.49
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Passion Fruit Mojito: 6.43
+  Three Cheese Sope: 6.19
+  Black Bean and Cilantro Rice: 2.55
+  Grilled Pineapple Dessert Quesadilla: 5.47
+  Fresh Lime Cilantro Rice: 1.88
+  Chipotle Lime Shrimp Skewers: 8.79
+  Loaded Chorizo Nachos: 7.11
+  Sea Breeze Ceviche: 7.16
+  Spicy Cucumber Margarita: 6.11
+  Baja Shrimp Quesadilla: 8.34
+  Tamarind-Glazed Ribs: 10.69
+  Margarita Lime Cheesecake: 4.58
+  Pineapple Habanero Salsa: 3.0
+  "Blueberry Jalape\xF1o Margarita": 7.18
+  Crispy Carnitas Tacos: 7.62

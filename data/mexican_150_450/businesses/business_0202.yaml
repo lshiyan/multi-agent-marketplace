@@ -1,0 +1,38 @@
+id: business_0202
+name: Skillet & Citrus Social
+description: "Experience a fresh, modern twist on Mexican and Tex-Mex classics, served\
+  \ up sizzling and vibrant. Our contemporary cantina brings bold flavors, colorful\
+  \ cocktails, and inviting bites to your table\u2014perfect for casual gatherings\
+  \ or flavorful celebrations."
+rating: 1.0
+progenitor_customer: customer_0068
+menu_features:
+  Beef Fajita Skillet: 12.69
+  Roasted Red Pepper Quesadilla: 10.37
+  Mango Habanero Wings: 15.17
+  Black Bean & Corn Enchiladas: 11.38
+  Carnitas Breakfast Burrito: 10.6
+  Flamin' Skillet Fajitas: 17.76
+  Fresh Lime and Cilantro Guacamole: 9.35
+  Caramelized Onion and Chorizo Quesadilla: 10.23
+  "Blueberry Jalape\xF1o Margarita": 11.62
+  Cinnamon Sugar Churro Sticks: 6.64
+  Smoky Chipotle Quesadillas: 10.8
+  Mexican Chocolate Flan: 7.07
+  Chipotle Bean Burrito: 8.96
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Beef Fajita Skillet: 11.93
+  Roasted Red Pepper Quesadilla: 9.75
+  Mango Habanero Wings: 14.26
+  Black Bean & Corn Enchiladas: 10.7
+  Carnitas Breakfast Burrito: 9.96
+  Flamin' Skillet Fajitas: 16.69
+  Fresh Lime and Cilantro Guacamole: 8.79
+  Caramelized Onion and Chorizo Quesadilla: 9.62
+  "Blueberry Jalape\xF1o Margarita": 10.92
+  Cinnamon Sugar Churro Sticks: 6.24
+  Smoky Chipotle Quesadillas: 10.15
+  Mexican Chocolate Flan: 6.65
+  Chipotle Bean Burrito: 8.42

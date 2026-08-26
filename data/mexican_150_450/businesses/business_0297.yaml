@@ -1,0 +1,47 @@
+id: business_0297
+name: Chipotle & Cream
+description: A modern Mexican eatery blending rich, smoky flavors with fresh, creamy
+  delights. Enjoy inventive classics, refreshing sips, and sweet treats in a vibrant,
+  welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0099
+menu_features:
+  Chocolate Dipped Flan: 5.42
+  Smoky Chipotle Enchiladas: 15.51
+  Black Bean & Corn Quesadilla: 8.16
+  Crispy Tinga Chicken Tacos: 8.34
+  Refreshing Agua Fresca Trio: 6.26
+  Grilled Chipotle Chicken Burrito: 9.53
+  Loaded Nacho Platter: 14.59
+  Spicy Shrimp Nacho Platter: 11.87
+  Spicy Chipotle Chicken Wrap: 11.27
+  Guava Limeade Cooler: 4.73
+  Cheesy Jalapeno Poppers: 8.15
+  Vanilla Almond Horchata: 4.75
+  Choco Flan Combo: 5.38
+  Coconut Lime Margarita: 10.38
+  Roasted Poblano Corn Chowder: 7.7
+  Fajita Veggie Burrito Bowl: 12.32
+  Sunset Grilled Veggie Tacos: 12.85
+  Honey Chipotle Shrimp Bowl: 13.6
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Chocolate Dipped Flan: 3.58
+  Smoky Chipotle Enchiladas: 10.24
+  Black Bean & Corn Quesadilla: 5.39
+  Crispy Tinga Chicken Tacos: 5.5
+  Refreshing Agua Fresca Trio: 4.13
+  Grilled Chipotle Chicken Burrito: 6.29
+  Loaded Nacho Platter: 9.63
+  Spicy Shrimp Nacho Platter: 7.83
+  Spicy Chipotle Chicken Wrap: 7.44
+  Guava Limeade Cooler: 3.12
+  Cheesy Jalapeno Poppers: 5.38
+  Vanilla Almond Horchata: 3.14
+  Choco Flan Combo: 3.55
+  Coconut Lime Margarita: 6.85
+  Roasted Poblano Corn Chowder: 5.08
+  Fajita Veggie Burrito Bowl: 8.13
+  Sunset Grilled Veggie Tacos: 8.48
+  Honey Chipotle Shrimp Bowl: 8.98

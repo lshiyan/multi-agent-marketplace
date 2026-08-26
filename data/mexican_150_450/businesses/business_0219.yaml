@@ -1,0 +1,37 @@
+id: business_0219
+name: Skillet & Spice
+description: Experience bold Tex-Mex and Mexican flavors in a vibrant, welcoming setting.
+  From sizzling skillets to sweet treats, every dish is crafted to ignite your senses
+  and satisfy every craving.
+rating: 1.0
+progenitor_customer: customer_0073
+menu_features:
+  Flamin' Skillet Fajitas: 15.31
+  Smoky Black Bean Nachos: 9.84
+  Caramel Apple Empanadas: 4.9
+  Black Bean and Cilantro Rice: 4.48
+  Tex-Mex Breakfast Skillet: 11.42
+  Vanilla Almond Horchata: 4.17
+  Mexican Chocolate Lava Cake: 7.2
+  Vegetarian Tamale Platter: 11.8
+  Avocado Lime Salsa: 3.9
+  Roasted Poblano Corn Chowder: 7.41
+  Black Bean and Lime Soup: 6.72
+  Churro Ice Cream Sandwich: 7.52
+  Pineapple Salsa Shrimp Tacos: 13.51
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Flamin' Skillet Fajitas: 12.55
+  Smoky Black Bean Nachos: 8.07
+  Caramel Apple Empanadas: 4.02
+  Black Bean and Cilantro Rice: 3.67
+  Tex-Mex Breakfast Skillet: 9.36
+  Vanilla Almond Horchata: 3.42
+  Mexican Chocolate Lava Cake: 5.9
+  Vegetarian Tamale Platter: 9.68
+  Avocado Lime Salsa: 3.2
+  Roasted Poblano Corn Chowder: 6.08
+  Black Bean and Lime Soup: 5.51
+  Churro Ice Cream Sandwich: 6.17
+  Pineapple Salsa Shrimp Tacos: 11.08

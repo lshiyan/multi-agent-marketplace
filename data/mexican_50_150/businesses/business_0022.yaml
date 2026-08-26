@@ -1,0 +1,43 @@
+id: business_0022
+name: Salsa & Sizzle
+description: Experience the vibrant flavors of Mexico and the Southwest with lively
+  salsas, savory classics, and inventive drinks in a warm and colorful setting. From
+  street food favorites to modern twists, every bite promises a fiesta of taste.
+rating: 1.0
+progenitor_customer: customer_0008
+menu_features:
+  Fire Roasted Salsa Sampler: 5.15
+  Zesty Lime Chicken Enchiladas: 12.21
+  Smoky Mezcal Mule: 10.25
+  Gourmet Nacho Platter: 10.07
+  Tamarind Ginger Cooler: 4.52
+  Chili Lime Skirt Steak: 15.38
+  Black Bean Sweet Potato Burrito: 10.28
+  Hatch Green Chile Stew: 13.74
+  Mexican Chocolate Milkshake: 6.63
+  Sweet Corn Tamale Cake: 8.84
+  Crispy Avocado Tostadas: 8.7
+  Vegetarian Tamale Platter: 10.9
+  Creamy Avocado Smoothie: 5.41
+  Tropical Guava Mint Punch: 6.6
+  Classic Tortilla Soup: 5.59
+  Sweet Corn Tostadas: 8.43
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Fire Roasted Salsa Sampler: 3.19
+  Zesty Lime Chicken Enchiladas: 7.57
+  Smoky Mezcal Mule: 6.35
+  Gourmet Nacho Platter: 6.24
+  Tamarind Ginger Cooler: 2.8
+  Chili Lime Skirt Steak: 9.54
+  Black Bean Sweet Potato Burrito: 6.37
+  Hatch Green Chile Stew: 8.52
+  Mexican Chocolate Milkshake: 4.11
+  Sweet Corn Tamale Cake: 5.48
+  Crispy Avocado Tostadas: 5.39
+  Vegetarian Tamale Platter: 6.76
+  Creamy Avocado Smoothie: 3.35
+  Tropical Guava Mint Punch: 4.09
+  Classic Tortilla Soup: 3.47
+  Sweet Corn Tostadas: 5.23

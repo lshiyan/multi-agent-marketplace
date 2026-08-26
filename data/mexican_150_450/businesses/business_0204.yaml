@@ -1,0 +1,42 @@
+id: business_0204
+name: Fusion de Mex Sabor
+description: Experience a modern celebration of Mexican and Tex-Mex flavors, where
+  vibrant grilled specialties and inventive desserts come together in a lively, welcoming
+  space. Savor the art of tradition reimagined, inspired by fresh ingredients and
+  bold taste.
+rating: 1.0
+progenitor_customer: customer_0068
+menu_features:
+  Tomatillo Ranch Enchiladas: 11.29
+  Choco-Chili Volcano Cake: 8.45
+  Pineapple Tequila Chicken Skewers: 11.27
+  Caramelized Onion and Chorizo Quesadilla: 10.07
+  Honey Lime Grilled Fajitas: 14.5
+  Coconut Flan Delight: 7.62
+  Cocoa Dusted Churro Bites: 6.29
+  Midnight Mole Enchiladas: 11.67
+  Pineapple Agua Fresca: 3.83
+  Cinnamon Churro Bites: 5.32
+  Chocolate Churro Bites: 6.93
+  Ancho Chili Chocolate Cake: 7.91
+  Roasted Red Pepper Quesadilla: 10.26
+  Loaded Nacho Platter: 10.4
+  Beef Enchiladas Verdes: 11.28
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Tomatillo Ranch Enchiladas: 9.37
+  Choco-Chili Volcano Cake: 7.01
+  Pineapple Tequila Chicken Skewers: 9.35
+  Caramelized Onion and Chorizo Quesadilla: 8.36
+  Honey Lime Grilled Fajitas: 12.04
+  Coconut Flan Delight: 6.32
+  Cocoa Dusted Churro Bites: 5.22
+  Midnight Mole Enchiladas: 9.69
+  Pineapple Agua Fresca: 3.18
+  Cinnamon Churro Bites: 4.42
+  Chocolate Churro Bites: 5.75
+  Ancho Chili Chocolate Cake: 6.57
+  Roasted Red Pepper Quesadilla: 8.52
+  Loaded Nacho Platter: 8.63
+  Beef Enchiladas Verdes: 9.36

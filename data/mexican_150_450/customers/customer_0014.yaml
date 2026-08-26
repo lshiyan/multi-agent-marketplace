@@ -1,0 +1,10 @@
+id: customer_0014
+name: Zoe Hall
+request: 'Could you please help me locate a business that can fulfill my order for
+  the following menu items: 1 Caramel Corn Flan and 1 Smoky Chipotle Black Bean Soup?
+  It is important that the business can provide both items, as I intend to place the
+  order for these specific quantities. Thank you for your assistance.'
+menu_features:
+  Caramel Corn Flan: 6.99
+  Smoky Chipotle Black Bean Soup: 8.49
+amenity_features: []

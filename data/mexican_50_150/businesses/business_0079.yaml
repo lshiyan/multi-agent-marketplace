@@ -1,0 +1,35 @@
+id: business_0079
+name: Azul y Fuego Cocina
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm, inviting atmosphere.
+  From smoky chiles to fresh citrus and creative cocktails, each dish bursts with
+  bold, lively taste.
+rating: 1.0
+progenitor_customer: customer_0027
+menu_features:
+  Black Bean Chili Bowl: 9.21
+  Black Bean and Corn Fiesta Salad: 10.66
+  Fresh Mint Mojito: 7.54
+  Crispy Tortilla Breakfast Bowl: 8.56
+  Spicy Beef Enchilada Bake: 10.44
+  Sizzling Pork Carnitas Bowl: 13.14
+  Breakfast Chorizo Tostadas: 9.4
+  Sea Breeze Ceviche: 13.9
+  Ancho Chile Chicken Salad: 9.7
+  Crispy Carnitas Tacos: 10.6
+  "Blueberry Jalape\xF1o Margarita": 11.42
+  Loaded Nacho Fries: 8.05
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Black Bean Chili Bowl: 6.82
+  Black Bean and Corn Fiesta Salad: 7.89
+  Fresh Mint Mojito: 5.58
+  Crispy Tortilla Breakfast Bowl: 6.33
+  Spicy Beef Enchilada Bake: 7.73
+  Sizzling Pork Carnitas Bowl: 9.72
+  Breakfast Chorizo Tostadas: 6.96
+  Sea Breeze Ceviche: 10.29
+  Ancho Chile Chicken Salad: 7.18
+  Crispy Carnitas Tacos: 7.84
+  "Blueberry Jalape\xF1o Margarita": 8.45
+  Loaded Nacho Fries: 5.96

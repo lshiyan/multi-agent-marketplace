@@ -1,0 +1,11 @@
+id: customer_0105
+name: Aisha Singh
+request: 'Could you please assist me in finding a business that offers the following
+  menu items: 1 Sweet Potato and Black Bean Tacos, 1 Red Chili Chicken Pozole, and
+  1 Pineapple Pico de Gallo Nachos? It is important that the business can fulfill
+  all these needs, as I intend to place an order for these specific items. Thank you.'
+menu_features:
+  Sweet Potato and Black Bean Tacos: 11.99
+  Red Chili Chicken Pozole: 11.29
+  Pineapple Pico de Gallo Nachos: 10.75
+amenity_features: []

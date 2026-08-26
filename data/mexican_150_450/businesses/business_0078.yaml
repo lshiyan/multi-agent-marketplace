@@ -1,0 +1,41 @@
+id: business_0078
+name: Carnitas & Cocoa
+description: Carnitas & Cocoa brings you bold Tex-Mex flavors and sweet Mexican-inspired
+  desserts in a vibrant, welcoming setting. Spice up your day with sizzling classics,
+  satisfying small plates, and refreshing cocktails.
+rating: 1.0
+progenitor_customer: customer_0026
+menu_features:
+  Tex-Mex Breakfast Skillet: 10.17
+  Frozen Strawberry Daiquiri: 7.72
+  Ancho Chili Chocolate Cake: 8.25
+  Verde Chicken Enchiladas: 15.28
+  Passion Fruit Mojito: 9.32
+  Crispy Carnitas Tacos: 12.71
+  Crispy Fish Tacos: 11.09
+  Roasted Pecan Flan: 6.08
+  Tomatillo Ranch Enchiladas: 10.46
+  Avocado Lime Dip: 7.06
+  Mexican Street Corn Dip: 8.19
+  Smoky Chipotle BBQ Wings: 14.56
+  Blueberry Agave Mojito: 9.3
+  Avocado Lime Salsa: 5.06
+  Fajita Veggie Burrito Bowl: 13.84
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Tex-Mex Breakfast Skillet: 6.51
+  Frozen Strawberry Daiquiri: 4.94
+  Ancho Chili Chocolate Cake: 5.28
+  Verde Chicken Enchiladas: 9.78
+  Passion Fruit Mojito: 5.96
+  Crispy Carnitas Tacos: 8.13
+  Crispy Fish Tacos: 7.1
+  Roasted Pecan Flan: 3.89
+  Tomatillo Ranch Enchiladas: 6.69
+  Avocado Lime Dip: 4.52
+  Mexican Street Corn Dip: 5.24
+  Smoky Chipotle BBQ Wings: 9.32
+  Blueberry Agave Mojito: 5.95
+  Avocado Lime Salsa: 3.24
+  Fajita Veggie Burrito Bowl: 8.86

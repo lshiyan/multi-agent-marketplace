@@ -1,0 +1,43 @@
+id: business_0314
+name: Modern Mestizo Kitchen
+description: Experience a fresh twist on Mexican and Tex-Mex comfort food in a bright,
+  modern setting. From sweet and smoky starters to vibrant tacos and innovative desserts,
+  every bite is a celebration of bold flavor and creative flair.
+rating: 1.0
+progenitor_customer: customer_0105
+menu_features:
+  Pineapple Pico de Gallo Nachos: 11.74
+  Smoky Chipotle BBQ Wings: 9.97
+  Black Bean Sweet Potato Burrito: 9.46
+  Pineapple Habanero Salsa: 4.63
+  Roasted Pecan Flan: 5.86
+  Flamin' Skillet Fajitas: 15.55
+  Baja Fish Tacos: 13.26
+  Refreshing Agua Fresca Trio: 7.8
+  Sweet Potato and Black Bean Tacos: 8.92
+  Spicy Chipotle Chicken Wrap: 10.22
+  Chocolate Dipped Flan: 5.97
+  Tequila Lime Flan: 8.82
+  Classic Beef Barbacoa: 14.34
+  Red Chili Chicken Pozole: 9.72
+  Loaded Sweet Potato Fries: 7.2
+  Honey Lime Grilled Fajitas: 13.25
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Pineapple Pico de Gallo Nachos: 8.1
+  Smoky Chipotle BBQ Wings: 6.88
+  Black Bean Sweet Potato Burrito: 6.53
+  Pineapple Habanero Salsa: 3.19
+  Roasted Pecan Flan: 4.04
+  Flamin' Skillet Fajitas: 10.73
+  Baja Fish Tacos: 9.15
+  Refreshing Agua Fresca Trio: 5.38
+  Sweet Potato and Black Bean Tacos: 6.15
+  Spicy Chipotle Chicken Wrap: 7.05
+  Chocolate Dipped Flan: 4.12
+  Tequila Lime Flan: 6.09
+  Classic Beef Barbacoa: 9.89
+  Red Chili Chicken Pozole: 6.71
+  Loaded Sweet Potato Fries: 4.97
+  Honey Lime Grilled Fajitas: 9.14

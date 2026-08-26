@@ -1,0 +1,35 @@
+id: business_0332
+name: Bean There, Churro That!
+description: Bringing playful flavor twists to classic Mexican and Tex-Mex comfort
+  food, Bean There, Churro That! blends the savory and the sweet with fresh ingredients,
+  bold spices, and a dash of culinary fun for every craving.
+rating: 1.0
+progenitor_customer: customer_0111
+menu_features:
+  Loaded Chorizo Nachos: 8.52
+  Horchata Iced Coffee: 4.68
+  Creamy Queso Dip: 8.78
+  Warm Cinnamon Churros: 5.74
+  Zesty Lime Grilled Chicken: 13.97
+  Roasted Corn and Black Bean Salad: 8.35
+  Ultimate Nacho Platter: 9.99
+  Rich Chocolate Tamales: 8.4
+  Roasted Poblano Veggie Skillet: 10.24
+  Chocolate Mole Brownie: 7.48
+  Smoky Black Bean Soup: 7.1
+  Crispy Avocado Bites: 10.75
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Loaded Chorizo Nachos: 6.3
+  Horchata Iced Coffee: 3.46
+  Creamy Queso Dip: 6.5
+  Warm Cinnamon Churros: 4.25
+  Zesty Lime Grilled Chicken: 10.34
+  Roasted Corn and Black Bean Salad: 6.18
+  Ultimate Nacho Platter: 7.39
+  Rich Chocolate Tamales: 6.22
+  Roasted Poblano Veggie Skillet: 7.58
+  Chocolate Mole Brownie: 5.54
+  Smoky Black Bean Soup: 5.25
+  Crispy Avocado Bites: 7.96

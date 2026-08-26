@@ -1,0 +1,11 @@
+id: customer_0092
+name: Grace O'Connor
+request: Could you please help me find a business that serves the following menu items?
+  I need 1 Tamarind Spiced Agua Fresca, 1 Spicy Chicken Chimichanga, and 1 Sweet Corn
+  Tostadas. It is important that all these items are available from the same business,
+  as I intend to place an order for them. Thank you!
+menu_features:
+  Tamarind Spiced Agua Fresca: 3.99
+  Spicy Chicken Chimichanga: 10.99
+  Sweet Corn Tostadas: 8.49
+amenity_features: []

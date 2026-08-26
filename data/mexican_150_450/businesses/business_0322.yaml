@@ -1,0 +1,41 @@
+id: business_0322
+name: Barbacoa Breeze
+description: Barbacoa Breeze invites you to savor vibrant Mexican and Tex-Mex dishes
+  in a lively, welcoming atmosphere. From zesty appetizers to sweet, cinnamon-kissed
+  desserts, each dish is crafted for a fresh take on classic traditions.
+rating: 1.0
+progenitor_customer: customer_0108
+menu_features:
+  Beef Barbacoa Tostadas: 8.8
+  Peppered Steak Nachos: 11.93
+  Jicama and Citrus Salad: 5.8
+  Classic Beef Enchiladas: 12.25
+  Verde Chicken Enchiladas: 14.84
+  Fiesta Street Corn: 5.21
+  Black Bean Sweet Potato Burrito: 10.62
+  Tex-Mex Fajita Wrap: 11.61
+  Cinnamon Sugar Churros: 6.12
+  Grilled Pineapple & Shrimp Quesadillas: 12.23
+  Black Bean and Lime Soup: 6.92
+  Chili Lime Shrimp Skewers: 9.86
+  Blue Corn Enchilada Bake: 13.38
+  Honey-Lime Shrimp Skewers: 12.0
+  Carnitas Breakfast Burrito: 12.2
+amenity_features: {}
+min_price_factor: 0.95
+minimum_menu_prices:
+  Beef Barbacoa Tostadas: 8.36
+  Peppered Steak Nachos: 11.33
+  Jicama and Citrus Salad: 5.51
+  Classic Beef Enchiladas: 11.64
+  Verde Chicken Enchiladas: 14.1
+  Fiesta Street Corn: 4.95
+  Black Bean Sweet Potato Burrito: 10.09
+  Tex-Mex Fajita Wrap: 11.03
+  Cinnamon Sugar Churros: 5.81
+  Grilled Pineapple & Shrimp Quesadillas: 11.62
+  Black Bean and Lime Soup: 6.57
+  Chili Lime Shrimp Skewers: 9.37
+  Blue Corn Enchilada Bake: 12.71
+  Honey-Lime Shrimp Skewers: 11.4
+  Carnitas Breakfast Burrito: 11.59

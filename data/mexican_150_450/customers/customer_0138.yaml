@@ -1,0 +1,11 @@
+id: customer_0138
+name: Paul Young
+request: 'I am looking to place an order with a business that can provide exactly
+  these menu items: 1 Mango Jalapeno Slush, 1 Three Cheese Sope, and 1 Fresh Lime
+  Cilantro Rice. Please help me find a suitable business that serves all these items,
+  as it is very important that my order includes all three. Thank you!'
+menu_features:
+  Mango Jalapeno Slush: 4.99
+  Three Cheese Sope: 9.99
+  Fresh Lime Cilantro Rice: 2.99
+amenity_features: []

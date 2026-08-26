@@ -1,0 +1,10 @@
+id: customer_0075
+name: Amina Khan
+request: 'Please help me find a business that offers all of the following items, as
+  I would like to place an order: 1 Carnitas Plantain Burrito, 1 Breakfast Burrito
+  Bonanza, and 1 Black Bean Breakfast Burrito. Thank you!'
+menu_features:
+  Carnitas Plantain Burrito: 12.49
+  Breakfast Burrito Bonanza: 8.99
+  Black Bean Breakfast Burrito: 8.49
+amenity_features: []

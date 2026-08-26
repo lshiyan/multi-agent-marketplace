@@ -1,0 +1,35 @@
+id: business_0107
+name: Cactus & Spice Oddity
+description: Blast off on a flavor adventure with creative Mexican and Tex-Mex eats,
+  bold breakfasts, and inventive cocktails. From sunrise to happy hour, discover a
+  delicious new orbit of taste.
+rating: 1.0
+progenitor_customer: customer_0036
+menu_features:
+  Grilled Chipotle Chicken Burrito: 9.24
+  Chipotle Lime Shrimp Skewers: 9.25
+  Sizzling Beef Alambre: 12.59
+  Loaded Nacho Skillet: 7.15
+  Cactus Cooler Margarita: 9.42
+  Huevos Rancheros: 11.89
+  Fresh Mint Mojito: 8.32
+  Breakfast Chorizo Torta: 9.07
+  Zesty Shrimp Ceviche: 10.99
+  Baja Fish Tacos: 14.0
+  Warm Cinnamon Churros: 5.56
+  Carnitas Breakfast Burrito: 14.0
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Grilled Chipotle Chicken Burrito: 6.84
+  Chipotle Lime Shrimp Skewers: 6.84
+  Sizzling Beef Alambre: 9.32
+  Loaded Nacho Skillet: 5.29
+  Cactus Cooler Margarita: 6.97
+  Huevos Rancheros: 8.8
+  Fresh Mint Mojito: 6.16
+  Breakfast Chorizo Torta: 6.71
+  Zesty Shrimp Ceviche: 8.13
+  Baja Fish Tacos: 10.36
+  Warm Cinnamon Churros: 4.11
+  Carnitas Breakfast Burrito: 10.36

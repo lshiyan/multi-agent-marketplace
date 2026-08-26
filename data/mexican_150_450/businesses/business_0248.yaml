@@ -1,0 +1,33 @@
+id: business_0248
+name: Bold Bean & Ember
+description: Experience modern Mexican and Tex-Mex cuisine in a vibrant, inviting
+  setting. Savor a creative blend of street-inspired classics, smoky grilled favorites,
+  and innovative flavors crafted for every palate.
+rating: 1.0
+progenitor_customer: customer_0083
+menu_features:
+  Chocolate Mole Brownie: 7.22
+  Black Bean Street Tacos: 9.5
+  Pineapple Tequila Chicken Skewers: 12.15
+  Spicy Pork Tamales: 12.92
+  Grilled Elote Corn: 5.48
+  Loaded Nacho Platter: 12.17
+  Tamarind Ginger Cooler: 5.71
+  Creamy Poblano Corn Chowder: 6.6
+  Chorizo and Egg Tacos: 8.65
+  Bacon and Egg Tostada: 8.46
+  "Spicy Jalape\xF1o Limeade": 3.03
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Chocolate Mole Brownie: 6.14
+  Black Bean Street Tacos: 8.07
+  Pineapple Tequila Chicken Skewers: 10.33
+  Spicy Pork Tamales: 10.98
+  Grilled Elote Corn: 4.66
+  Loaded Nacho Platter: 10.34
+  Tamarind Ginger Cooler: 4.85
+  Creamy Poblano Corn Chowder: 5.61
+  Chorizo and Egg Tacos: 7.35
+  Bacon and Egg Tostada: 7.19
+  "Spicy Jalape\xF1o Limeade": 2.58

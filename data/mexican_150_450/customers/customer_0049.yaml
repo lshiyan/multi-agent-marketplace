@@ -1,0 +1,12 @@
+id: customer_0049
+name: Emma Scott
+request: 'Please assist me in finding a business that can fulfill my specific order
+  requirements. I need to place an order for the following items: 1 Loaded Nacho Supreme,
+  1 Black Bean Stuffed Bell Peppers, and 1 Breakfast Burrito Supreme. It is important
+  that the business offers all of these items. Thank you for your help in ensuring
+  my order is complete.'
+menu_features:
+  Loaded Nacho Supreme: 9.99
+  Black Bean Stuffed Bell Peppers: 10.49
+  Breakfast Burrito Supreme: 9.99
+amenity_features: []

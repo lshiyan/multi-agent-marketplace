@@ -1,0 +1,41 @@
+id: business_0081
+name: Pineapple & Pepper Porch
+description: "Savor a fresh twist on Mexican and Tex-Mex classics, featuring vibrant\
+  \ salsas, bold entr\xE9es, and creative desserts. Our menu celebrates refreshing\
+  \ flavors and a festive atmosphere, perfect for gathering with friends and family."
+rating: 1.0
+progenitor_customer: customer_0027
+menu_features:
+  Chocolate Tamale Cake: 6.62
+  Fresh Mint Mojito: 7.66
+  Golden Tequila Sunrise: 10.17
+  Peach Berry Sangria: 8.62
+  Beef Barbacoa Burrito Bowl: 8.81
+  Churro Ice Cream Sandwich: 6.65
+  Mango Habanero Salsa: 5.2
+  Grilled Pineapple Salmon: 18.79
+  Fiesta Street Corn: 4.37
+  Smoky Lime Quinoa Salad: 9.46
+  Ancho Chile BBQ Ribs: 22.67
+  Strawberry Jalapeno Lemonade: 4.14
+  Grilled Pineapple and Pork Tacos: 12.67
+  Grilled Pineapple Dessert Quesadilla: 6.98
+  Ancho Chile Chicken Salad: 11.82
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Chocolate Tamale Cake: 4.83
+  Fresh Mint Mojito: 5.59
+  Golden Tequila Sunrise: 7.42
+  Peach Berry Sangria: 6.29
+  Beef Barbacoa Burrito Bowl: 6.43
+  Churro Ice Cream Sandwich: 4.85
+  Mango Habanero Salsa: 3.8
+  Grilled Pineapple Salmon: 13.72
+  Fiesta Street Corn: 3.19
+  Smoky Lime Quinoa Salad: 6.91
+  Ancho Chile BBQ Ribs: 16.55
+  Strawberry Jalapeno Lemonade: 3.02
+  Grilled Pineapple and Pork Tacos: 9.25
+  Grilled Pineapple Dessert Quesadilla: 5.1
+  Ancho Chile Chicken Salad: 8.63

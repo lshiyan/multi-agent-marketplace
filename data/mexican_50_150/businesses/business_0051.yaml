@@ -1,0 +1,43 @@
+id: business_0051
+name: Rustic Lime Kitchen
+description: Experience bold, modern flavors inspired by authentic Mexican and Tex-Mex
+  traditions. Dive into vibrant dishes and fresh, zesty drinks in a lively, welcoming
+  atmosphere.
+rating: 1.0
+progenitor_customer: customer_0017
+menu_features:
+  Ancho Chili Spiced Ribs: 15.87
+  Black Bean and Corn Fiesta Salad: 8.21
+  Breakfast Chorizo Torta: 11.44
+  Paloma Breeze Cocktail: 10.6
+  Fresh Limeade: 3.06
+  Grilled Shrimp Skewers: 12.97
+  Cilantro Lime Shrimp Skewers: 11.6
+  Three Cheese Sope: 9.21
+  Gourmet Nacho Platter: 10.98
+  Loaded Nacho Fries: 9.32
+  Tex-Mex Breakfast Skillet: 9.11
+  Creamy Avocado Smoothie: 5.14
+  Ranchero Steak Fajitas: 20.24
+  Chili Lime Watermelon Salad: 8.78
+  Coconut Lime Margarita: 9.7
+  Sweet Corn Tostadas: 8.08
+amenity_features: {}
+min_price_factor: 0.95
+minimum_menu_prices:
+  Ancho Chili Spiced Ribs: 15.08
+  Black Bean and Corn Fiesta Salad: 7.8
+  Breakfast Chorizo Torta: 10.87
+  Paloma Breeze Cocktail: 10.07
+  Fresh Limeade: 2.91
+  Grilled Shrimp Skewers: 12.32
+  Cilantro Lime Shrimp Skewers: 11.02
+  Three Cheese Sope: 8.75
+  Gourmet Nacho Platter: 10.43
+  Loaded Nacho Fries: 8.85
+  Tex-Mex Breakfast Skillet: 8.65
+  Creamy Avocado Smoothie: 4.88
+  Ranchero Steak Fajitas: 19.23
+  Chili Lime Watermelon Salad: 8.34
+  Coconut Lime Margarita: 9.21
+  Sweet Corn Tostadas: 7.68

@@ -1,0 +1,41 @@
+id: business_0073
+name: Chili & Canvas
+description: Chili & Canvas blends vibrant Mexican and Tex-Mex flavors with modern
+  flair, serving creative comfort food in a lively, artful setting. Enjoy bold street
+  favorites and house specialties, perfect for sharing and savoring.
+rating: 1.0
+progenitor_customer: customer_0025
+menu_features:
+  Classic Horchata Delight: 3.65
+  Street Corn Elote: 6.15
+  Chocolate Mole Chicken: 13.59
+  Spicy Shrimp Nacho Platter: 11.35
+  Grilled Elote Corn: 4.49
+  Black Bean Avocado Enchiladas: 13.41
+  Midnight Mole Enchiladas: 14.17
+  Loaded Nacho Fries: 8.53
+  Verde Chicken Enchiladas: 14.28
+  Breakfast Chorizo Tostadas: 9.23
+  Street Style Quesadillas: 8.33
+  Spiced Churro Bites: 7.2
+  Smoky Chipotle BBQ Ribs: 18.73
+  Mexican Chocolate Milkshake: 4.65
+  Verde Ranchero Huevos: 10.7
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Classic Horchata Delight: 2.34
+  Street Corn Elote: 3.94
+  Chocolate Mole Chicken: 8.7
+  Spicy Shrimp Nacho Platter: 7.26
+  Grilled Elote Corn: 2.87
+  Black Bean Avocado Enchiladas: 8.58
+  Midnight Mole Enchiladas: 9.07
+  Loaded Nacho Fries: 5.46
+  Verde Chicken Enchiladas: 9.14
+  Breakfast Chorizo Tostadas: 5.91
+  Street Style Quesadillas: 5.33
+  Spiced Churro Bites: 4.61
+  Smoky Chipotle BBQ Ribs: 11.99
+  Mexican Chocolate Milkshake: 2.98
+  Verde Ranchero Huevos: 6.85

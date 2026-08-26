@@ -1,0 +1,42 @@
+id: business_0025
+name: Tama-Lively
+description: A vibrant spot where bold flavors meet creative Mexican and Tex-Mex favorites.
+  Come enjoy a fiesta of fresh, zesty, and smoky dishes in every bite!
+rating: 1.0
+progenitor_customer: customer_0009
+menu_features:
+  Tamale Pie Casserole: 12.58
+  Zesty Lime Grilled Shrimp: 12.13
+  Smoky Black Bean Enchiladas: 12.58
+  Loaded Sweet Potato Fries: 8.09
+  Sweet and Spicy Chicken Tostadas: 12.43
+  Chocolate Mole Brownie: 7.2
+  Sunset Grilled Veggie Tacos: 10.23
+  Honey-Lime Shrimp Skewers: 13.37
+  Ancho Honey-Glazed Salmon: 15.62
+  Fresh Limeade: 3.19
+  Citrus Marinated Carne Asada: 15.43
+  Black Bean Street Tacos: 9.94
+  Avocado Lime Grilled Shrimp: 13.19
+  Classic Horchata Delight: 3.82
+  Chocolate Mole Chicken: 13.87
+  Smoky Black Bean Soup: 7.4
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Tamale Pie Casserole: 9.06
+  Zesty Lime Grilled Shrimp: 8.73
+  Smoky Black Bean Enchiladas: 9.06
+  Loaded Sweet Potato Fries: 5.82
+  Sweet and Spicy Chicken Tostadas: 8.95
+  Chocolate Mole Brownie: 5.18
+  Sunset Grilled Veggie Tacos: 7.37
+  Honey-Lime Shrimp Skewers: 9.63
+  Ancho Honey-Glazed Salmon: 11.25
+  Fresh Limeade: 2.3
+  Citrus Marinated Carne Asada: 11.11
+  Black Bean Street Tacos: 7.16
+  Avocado Lime Grilled Shrimp: 9.5
+  Classic Horchata Delight: 2.75
+  Chocolate Mole Chicken: 9.99
+  Smoky Black Bean Soup: 5.33

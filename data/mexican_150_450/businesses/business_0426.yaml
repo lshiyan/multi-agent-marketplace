@@ -1,0 +1,35 @@
+id: business_0426
+name: Glaze & Grillhouse
+description: A vibrant modern Mex spot where smoky flavors and tropical twists come
+  together in every sizzling dish. Share a round of fresh flavors and spirited drinks
+  in our lively, inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0142
+menu_features:
+  Green Chile Cheesesteak: 11.58
+  Sizzling Carne Asada: 18.03
+  Avocado Lime Grilled Shrimp: 18.13
+  Smoky Chipotle Quesadillas: 9.87
+  Chipotle Bourbon Carnitas: 15.88
+  Caramelized Onion Queso Dip: 7.1
+  Flamin' Skillet Fajitas: 18.91
+  Tex-Mex Fajita Wrap: 11.29
+  Tamarind-Glazed Ribs: 18.33
+  Sizzling Pork Carnitas Bowl: 13.83
+  Grilled Pineapple and Shrimp Salad: 13.44
+  Frozen Strawberry Daiquiri: 8.74
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Green Chile Cheesesteak: 10.42
+  Sizzling Carne Asada: 16.23
+  Avocado Lime Grilled Shrimp: 16.32
+  Smoky Chipotle Quesadillas: 8.88
+  Chipotle Bourbon Carnitas: 14.29
+  Caramelized Onion Queso Dip: 6.39
+  Flamin' Skillet Fajitas: 17.02
+  Tex-Mex Fajita Wrap: 10.16
+  Tamarind-Glazed Ribs: 16.5
+  Sizzling Pork Carnitas Bowl: 12.45
+  Grilled Pineapple and Shrimp Salad: 12.1
+  Frozen Strawberry Daiquiri: 7.87

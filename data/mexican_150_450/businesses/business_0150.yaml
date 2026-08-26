@@ -1,0 +1,38 @@
+id: business_0150
+name: Corn & Chorizo Cantina
+description: Corn & Chorizo Cantina brings a vibrant twist to classic Mexican and
+  Tex-Mex fare, featuring a festive lineup of bold flavors, fresh ingredients, and
+  sizzling favorites. Step inside for a lively atmosphere and delicious bites perfect
+  for sharing with friends and family.
+rating: 1.0
+progenitor_customer: customer_0050
+menu_features:
+  Loaded Chorizo Nachos: 7.27
+  Sizzling Fajita Fiesta: 14.3
+  Three-Cheese Queso Dip: 5.68
+  Stuffed Poblano Peppers: 12.01
+  Sizzling Steak Fajitas: 18.18
+  Loaded Nachos Grande: 11.74
+  Creamy Avocado Smoothie: 5.8
+  Raspberry Chipotle Barbecue Ribs: 14.26
+  Mexican Street Corn Salad: 8.6
+  Refreshing Agua Fresca Trio: 9.09
+  Blue Corn Tortilla Tacos: 12.62
+  Vanilla Almond Horchata: 4.18
+  Baja Fish Tacos: 14.51
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Loaded Chorizo Nachos: 4.8
+  Sizzling Fajita Fiesta: 9.44
+  Three-Cheese Queso Dip: 3.75
+  Stuffed Poblano Peppers: 7.93
+  Sizzling Steak Fajitas: 12.0
+  Loaded Nachos Grande: 7.75
+  Creamy Avocado Smoothie: 3.83
+  Raspberry Chipotle Barbecue Ribs: 9.41
+  Mexican Street Corn Salad: 5.68
+  Refreshing Agua Fresca Trio: 6.0
+  Blue Corn Tortilla Tacos: 8.33
+  Vanilla Almond Horchata: 2.76
+  Baja Fish Tacos: 9.58

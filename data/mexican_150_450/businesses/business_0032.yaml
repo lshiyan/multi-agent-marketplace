@@ -1,0 +1,39 @@
+id: business_0032
+name: "Mesquite & Ma\xEDz"
+description: Experience the bold and vibrant flavors of modern Mexican and Tex-Mex
+  cuisine in a lively, welcoming space. From savory grilled specialties to sweet,
+  spiced treats, every dish brings a fresh twist to tradition.
+rating: 1.0
+progenitor_customer: customer_0011
+menu_features:
+  Mushroom & Cheese Tamales: 9.29
+  Chipotle Lime Shrimp Tacos: 11.02
+  Cilantro Lime Grilled Shrimp: 13.83
+  Zesty Shrimp Quesadillas: 13.43
+  Black Bean and Sweet Potato Empanadas: 9.88
+  Tamarind-Glazed Ribs: 16.69
+  Horchata Latte: 4.87
+  Vanilla Almond Horchata: 3.16
+  Spiced Churro Bites: 5.8
+  Street Corn Elote: 4.66
+  Chili Chocolate Lava Cake: 8.55
+  Stuffed Chicken Poblano: 10.27
+  Hatch Green Chile Rice: 5.43
+  Blueberry Tequila Sunrise: 10.34
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Mushroom & Cheese Tamales: 6.97
+  Chipotle Lime Shrimp Tacos: 8.27
+  Cilantro Lime Grilled Shrimp: 10.37
+  Zesty Shrimp Quesadillas: 10.07
+  Black Bean and Sweet Potato Empanadas: 7.41
+  Tamarind-Glazed Ribs: 12.52
+  Horchata Latte: 3.65
+  Vanilla Almond Horchata: 2.37
+  Spiced Churro Bites: 4.35
+  Street Corn Elote: 3.5
+  Chili Chocolate Lava Cake: 6.41
+  Stuffed Chicken Poblano: 7.7
+  Hatch Green Chile Rice: 4.07
+  Blueberry Tequila Sunrise: 7.75

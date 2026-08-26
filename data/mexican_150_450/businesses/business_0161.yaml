@@ -1,0 +1,36 @@
+id: business_0161
+name: Casa Coco y Sol
+description: A welcoming destination for vibrant Mexican and Tex-Mex fare, Casa Coco
+  y Sol offers a fresh take on classic flavors and inventive drinks in a sun-kissed,
+  relaxed atmosphere. Experience bold spices, zesty salsas, and sweet finishes inspired
+  by the warmth of Mexico.
+rating: 1.0
+progenitor_customer: customer_0054
+menu_features:
+  "Coconut Horchata Latt\xE9": 4.64
+  Sunrise Breakfast Tacos: 10.3
+  Beef Barbacoa Tostadas: 12.31
+  Spice-Rubbed Grilled Fajitas: 15.13
+  Avocado Ranch Burrito Bowl: 14.04
+  Grilled Pineapple Salmon: 11.65
+  Chili Lime Skirt Steak: 14.89
+  Warm Churro Bites: 5.26
+  Baja Fish Tacos: 14.55
+  Pineapple Jalapeno Margarita: 8.42
+  Pineapple Chipotle Salsa & Chips: 6.0
+  Honey Lime Grilled Fajitas: 15.31
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  "Coconut Horchata Latt\xE9": 4.32
+  Sunrise Breakfast Tacos: 9.58
+  Beef Barbacoa Tostadas: 11.45
+  Spice-Rubbed Grilled Fajitas: 14.07
+  Avocado Ranch Burrito Bowl: 13.06
+  Grilled Pineapple Salmon: 10.83
+  Chili Lime Skirt Steak: 13.85
+  Warm Churro Bites: 4.89
+  Baja Fish Tacos: 13.53
+  Pineapple Jalapeno Margarita: 7.83
+  Pineapple Chipotle Salsa & Chips: 5.58
+  Honey Lime Grilled Fajitas: 14.24

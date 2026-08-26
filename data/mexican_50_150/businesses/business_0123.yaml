@@ -1,0 +1,37 @@
+id: business_0123
+name: Chili & Citrus Grove
+description: Experience the vibrant flavors of contemporary Mexican and Tex-Mex cuisine,
+  featuring fresh ingredients, bold spices, and creative takes on classic favorites.
+  Gather with friends and family to enjoy colorful dishes and a warm, inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0041
+menu_features:
+  Hatch Green Chile Stew: 13.03
+  Fresh Mango Salsa Nachos: 8.19
+  Ancho Chili Rubbed Steak: 16.48
+  Warm Cinnamon Churros: 6.07
+  Smoky Chipotle Queso: 7.54
+  Loaded Nacho Bowl: 11.28
+  Roasted Corn and Black Bean Salsa: 5.58
+  Agave Lime Chicken Skewers: 8.94
+  Tangy Tomato Salsa Soup: 8.35
+  Avocado Lime Grilled Shrimp: 15.92
+  Classic Tortilla Soup: 7.46
+  Sizzling Fajita Platter: 13.25
+  Blue Corn Enchilada Bake: 13.63
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Hatch Green Chile Stew: 9.77
+  Fresh Mango Salsa Nachos: 6.14
+  Ancho Chili Rubbed Steak: 12.36
+  Warm Cinnamon Churros: 4.55
+  Smoky Chipotle Queso: 5.66
+  Loaded Nacho Bowl: 8.46
+  Roasted Corn and Black Bean Salsa: 4.19
+  Agave Lime Chicken Skewers: 6.71
+  Tangy Tomato Salsa Soup: 6.26
+  Avocado Lime Grilled Shrimp: 11.94
+  Classic Tortilla Soup: 5.59
+  Sizzling Fajita Platter: 9.94
+  Blue Corn Enchilada Bake: 10.22

@@ -1,0 +1,43 @@
+id: business_0116
+name: Fiesta Fresca
+description: Dive into vibrant Mexican and Tex-Mex flavors with a fresh twist. Experience
+  sizzling classics, refreshing drinks, and mouthwatering sweets in a lively, welcoming
+  atmosphere.
+rating: 1.0
+progenitor_customer: customer_0039
+menu_features:
+  Blueberry Mint Agua Fresca: 4.56
+  Horchata Cold Brew Coffee: 5.23
+  Cinnamon Sugar Churro Sticks: 6.63
+  Spicy Chocolate Lava Cake: 8.77
+  Flan with Caramel Drizzle: 5.97
+  Honey Lime Fajita Sizzlers: 15.88
+  Black Bean Avocado Enchiladas: 11.3
+  Veggie Fajita Platter: 13.55
+  Citrus Marinated Carne Asada: 15.62
+  Minty Mojito Refresher: 8.87
+  Sizzling Steak Fajitas: 14.58
+  Fresh Lime and Cilantro Guacamole: 9.15
+  Grilled Pineapple Mojito: 9.58
+  Sunset Grilled Veggie Tacos: 9.74
+  Savory Carne Asada Burrito: 9.55
+  Flamin' Skillet Fajitas: 17.18
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Blueberry Mint Agua Fresca: 3.19
+  Horchata Cold Brew Coffee: 3.66
+  Cinnamon Sugar Churro Sticks: 4.64
+  Spicy Chocolate Lava Cake: 6.14
+  Flan with Caramel Drizzle: 4.18
+  Honey Lime Fajita Sizzlers: 11.12
+  Black Bean Avocado Enchiladas: 7.91
+  Veggie Fajita Platter: 9.48
+  Citrus Marinated Carne Asada: 10.93
+  Minty Mojito Refresher: 6.21
+  Sizzling Steak Fajitas: 10.21
+  Fresh Lime and Cilantro Guacamole: 6.41
+  Grilled Pineapple Mojito: 6.71
+  Sunset Grilled Veggie Tacos: 6.82
+  Savory Carne Asada Burrito: 6.69
+  Flamin' Skillet Fajitas: 12.03

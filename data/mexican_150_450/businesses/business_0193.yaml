@@ -1,0 +1,45 @@
+id: business_0193
+name: Vivid Mesa
+description: Vivid Mesa offers a fresh, modern take on Mexican and Tex-Mex classics,
+  featuring vibrant flavors and creative cocktails. Experience a lively atmosphere
+  and dishes crafted from bold, wholesome ingredients.
+rating: 1.0
+progenitor_customer: customer_0065
+menu_features:
+  Zesty Lime Shrimp Salad: 14.37
+  Sweet Corn Tamales: 11.97
+  Molten Queso Fundido: 7.53
+  Cactus Cooler Margarita: 6.78
+  Pineapple Chipotle Pork: 15.56
+  Tamarind-Glazed Ribs: 17.64
+  Southwestern Quinoa Salad: 12.24
+  Sunset Grilled Veggie Tacos: 11.22
+  Loaded Sweet Potato Fries: 9.22
+  "Cheesy Jalape\xF1o Queso Dip": 6.79
+  Green Chile Pork Stew: 12.71
+  Chipotle Chicken Enchiladas: 16.93
+  Spicy Black Bean Enchiladas: 11.18
+  Grilled Chipotle Chicken Burrito: 11.09
+  Avocado Lime Grilled Shrimp: 11.84
+  Hatch Green Chile Quesadilla: 15.9
+  Ranchero Steak Fajitas: 15.93
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Zesty Lime Shrimp Salad: 12.79
+  Sweet Corn Tamales: 10.65
+  Molten Queso Fundido: 6.7
+  Cactus Cooler Margarita: 6.03
+  Pineapple Chipotle Pork: 13.85
+  Tamarind-Glazed Ribs: 15.7
+  Southwestern Quinoa Salad: 10.89
+  Sunset Grilled Veggie Tacos: 9.99
+  Loaded Sweet Potato Fries: 8.21
+  "Cheesy Jalape\xF1o Queso Dip": 6.04
+  Green Chile Pork Stew: 11.31
+  Chipotle Chicken Enchiladas: 15.07
+  Spicy Black Bean Enchiladas: 9.95
+  Grilled Chipotle Chicken Burrito: 9.87
+  Avocado Lime Grilled Shrimp: 10.54
+  Hatch Green Chile Quesadilla: 14.15
+  Ranchero Steak Fajitas: 14.18

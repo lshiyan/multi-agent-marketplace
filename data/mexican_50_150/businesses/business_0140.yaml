@@ -1,0 +1,40 @@
+id: business_0140
+name: Borderline Bites
+description: Borderline Bites dishes up bold Mexican and Tex-Mex classics with a flavorful
+  modern twist, from zesty street corn and savory enchiladas to fresh margaritas and
+  sweet, spiced desserts. Step into a vibrant atmosphere where every meal is a fiesta
+  of taste and tradition.
+rating: 1.0
+progenitor_customer: customer_0047
+menu_features:
+  Breakfast Burrito Bonanza: 9.75
+  Smoky Chipotle Black Bean Soup: 9.4
+  Chili Lime Street Corn: 5.9
+  Spicy Black Bean Nachos: 8.64
+  Classic Lime Margarita: 8.96
+  Ranchero Eggs Benedict: 13.2
+  Tequila Lime Shrimp Skewers: 13.94
+  Spicy Chipotle Chicken Wings: 8.97
+  Tomatillo Salsa Verde Nachos: 12.66
+  Tomatillo Ranch Enchiladas: 13.32
+  Chocolate Cinnamon Flan: 5.33
+  Sizzling Pork Carnitas Bowl: 14.18
+  Mango Habanero Margarita: 10.78
+  Street Corn Fritters: 7.25
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Breakfast Burrito Bonanza: 7.61
+  Smoky Chipotle Black Bean Soup: 7.33
+  Chili Lime Street Corn: 4.6
+  Spicy Black Bean Nachos: 6.74
+  Classic Lime Margarita: 6.99
+  Ranchero Eggs Benedict: 10.3
+  Tequila Lime Shrimp Skewers: 10.87
+  Spicy Chipotle Chicken Wings: 7.0
+  Tomatillo Salsa Verde Nachos: 9.87
+  Tomatillo Ranch Enchiladas: 10.39
+  Chocolate Cinnamon Flan: 4.16
+  Sizzling Pork Carnitas Bowl: 11.06
+  Mango Habanero Margarita: 8.41
+  Street Corn Fritters: 5.66

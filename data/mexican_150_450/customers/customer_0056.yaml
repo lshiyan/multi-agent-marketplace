@@ -1,0 +1,10 @@
+id: customer_0056
+name: Benjamin Walker
+request: 'I would like to place an order from a business that offers the following
+  menu items: 1 Roasted Red Pepper Quesadilla and 1 Red Chili Braised Beef Brisket.
+  Please let me know if there is a business that can fulfill this order, as I am ready
+  to proceed with the purchase. Thank you for your assistance.'
+menu_features:
+  Roasted Red Pepper Quesadilla: 9.99
+  Red Chili Braised Beef Brisket: 14.59
+amenity_features: []

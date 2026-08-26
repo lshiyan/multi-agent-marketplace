@@ -1,0 +1,37 @@
+id: business_0261
+name: Fiesta Flan & Fajita
+description: Experience a vibrant celebration of Mexican and Tex-Mex flavors, featuring
+  sizzling fajitas, sweet desserts, and refreshing beverages. Perfect for gatherings,
+  brunches, or any occasion that calls for bold taste and good company.
+rating: 1.0
+progenitor_customer: customer_0087
+menu_features:
+  Strawberry Jalapeno Lemonade: 4.13
+  Ranchero Eggs Benedict: 12.58
+  Zesty Shrimp Quesadillas: 12.09
+  Honey Lime Chicken Fajitas: 16.48
+  Pineapple Jalapeno Margarita: 9.72
+  Caramel Apple Empanadas: 6.21
+  Roasted Pecan Flan: 4.59
+  Creamy Queso Dip: 7.88
+  Sizzling Steak Fajitas: 16.02
+  Loaded Nacho Fries: 8.02
+  Roasted Corn and Black Bean Salad: 7.74
+  Crispy Carnitas Tacos: 10.67
+  Ultimate Nacho Platter: 8.55
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Strawberry Jalapeno Lemonade: 2.89
+  Ranchero Eggs Benedict: 8.81
+  Zesty Shrimp Quesadillas: 8.46
+  Honey Lime Chicken Fajitas: 11.54
+  Pineapple Jalapeno Margarita: 6.8
+  Caramel Apple Empanadas: 4.35
+  Roasted Pecan Flan: 3.21
+  Creamy Queso Dip: 5.52
+  Sizzling Steak Fajitas: 11.21
+  Loaded Nacho Fries: 5.61
+  Roasted Corn and Black Bean Salad: 5.42
+  Crispy Carnitas Tacos: 7.47
+  Ultimate Nacho Platter: 5.99

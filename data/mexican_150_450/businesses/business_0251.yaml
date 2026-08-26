@@ -1,0 +1,43 @@
+id: business_0251
+name: Bean There, Bun That!
+description: Spice up your cravings with a playful twist on classic Mexican and Tex-Mex
+  flavors. Our inventive menu brings together comfort and fresh flair, from sizzling
+  brunch bites to unforgettable desserts.
+rating: 1.0
+progenitor_customer: customer_0084
+menu_features:
+  Classic Horchata Delight: 3.35
+  Hatch Green Chile Rice: 5.13
+  Carnitas Breakfast Burrito: 11.64
+  Peppered Steak Nachos: 12.44
+  Rich Chocolate Tres Leches: 4.99
+  Twice-Baked Sweet Potato: 7.55
+  Tequila Lime Flan: 8.56
+  Adobo Pork Sliders: 10.23
+  Avocado Street Tacos: 11.92
+  Pineapple Habanero Sake: 7.81
+  Citrus Cilantro Rice: 5.35
+  Garlic Lime Shrimp Salad: 15.52
+  Sizzling Chicken Fajitas: 15.51
+  Spicy Cucumber Margarita: 8.37
+  Black Bean Sweet Potato Burrito: 7.59
+  Grilled Chipotle Chicken Burrito: 10.69
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Classic Horchata Delight: 3.08
+  Hatch Green Chile Rice: 4.72
+  Carnitas Breakfast Burrito: 10.71
+  Peppered Steak Nachos: 11.44
+  Rich Chocolate Tres Leches: 4.59
+  Twice-Baked Sweet Potato: 6.95
+  Tequila Lime Flan: 7.88
+  Adobo Pork Sliders: 9.41
+  Avocado Street Tacos: 10.97
+  Pineapple Habanero Sake: 7.19
+  Citrus Cilantro Rice: 4.92
+  Garlic Lime Shrimp Salad: 14.28
+  Sizzling Chicken Fajitas: 14.27
+  Spicy Cucumber Margarita: 7.7
+  Black Bean Sweet Potato Burrito: 6.98
+  Grilled Chipotle Chicken Burrito: 9.83

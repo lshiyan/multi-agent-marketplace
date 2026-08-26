@@ -1,0 +1,45 @@
+id: business_0130
+name: "La Parilla de Az\xFAcar"
+description: Experience vibrant Mexican and Tex-Mex flavors with fresh ingredients,
+  zesty spices, and sweet surprises. Our welcoming cantina blends classic street favorites
+  and creative sweets in a lively, colorful setting.
+rating: 1.0
+progenitor_customer: customer_0044
+menu_features:
+  Chipotle Lime Shrimp Skewers: 14.36
+  Smoky Chipotle Enchiladas: 11.87
+  Warm Cinnamon Churros: 5.24
+  Chili Lime Roasted Corn: 4.48
+  Avocado Street Tacos: 10.47
+  Street Style Quesadillas: 10.86
+  Ultimate Nacho Platter: 9.95
+  Coconut Lime Shrimp Skewers: 17.27
+  Avocado Lime Cheesecake: 7.08
+  Smoky Chipotle Chicken: 17.5
+  Sea Breeze Ceviche: 11.18
+  Avocado Lime Quinoa Bowl: 8.52
+  Chili Chocolate Lava Cake: 7.43
+  Cocoa Dusted Churro Bites: 6.58
+  Baja Fish Taco Bowl: 13.72
+  Creamy Poblano Corn Chowder: 8.91
+  Mole Chicken Quesadilla: 10.54
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Chipotle Lime Shrimp Skewers: 9.76
+  Smoky Chipotle Enchiladas: 8.07
+  Warm Cinnamon Churros: 3.56
+  Chili Lime Roasted Corn: 3.05
+  Avocado Street Tacos: 7.12
+  Street Style Quesadillas: 7.38
+  Ultimate Nacho Platter: 6.77
+  Coconut Lime Shrimp Skewers: 11.74
+  Avocado Lime Cheesecake: 4.81
+  Smoky Chipotle Chicken: 11.9
+  Sea Breeze Ceviche: 7.6
+  Avocado Lime Quinoa Bowl: 5.79
+  Chili Chocolate Lava Cake: 5.05
+  Cocoa Dusted Churro Bites: 4.47
+  Baja Fish Taco Bowl: 9.33
+  Creamy Poblano Corn Chowder: 6.06
+  Mole Chicken Quesadilla: 7.17

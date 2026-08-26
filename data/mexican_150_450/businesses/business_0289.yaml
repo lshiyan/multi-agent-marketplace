@@ -1,0 +1,41 @@
+id: business_0289
+name: Chorizo & Chipotle
+description: Experience bold Mexican flavors and inventive Tex-Mex creations in a
+  lively, modern space. From smoky starters to satisfying sweets and refreshing drinks,
+  there's something for every craving.
+rating: 1.0
+progenitor_customer: customer_0097
+menu_features:
+  Loaded Chorizo Nachos: 6.85
+  Creamy Avocado Caesar Salad: 11.5
+  Frozen Strawberry Daiquiri: 8.71
+  Housemade Horchata: 3.95
+  Chipotle Bourbon Carnitas: 17.47
+  Smoky Chipotle Quesadillas: 8.18
+  Chili Lime Shrimp Skewers: 11.49
+  Beef Enchiladas Verdes: 12.94
+  Mexican Hot Chocolate: 6.21
+  Chipotle Chicken Enchiladas: 14.88
+  Grilled Pineapple Dessert Quesadilla: 6.47
+  Spicy Chocolate Churros: 5.39
+  Black Bean & Cheese Enchiladas: 12.57
+  Three Cheese Sope: 9.85
+  Southwestern Quinoa Salad: 10.59
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Loaded Chorizo Nachos: 5.55
+  Creamy Avocado Caesar Salad: 9.32
+  Frozen Strawberry Daiquiri: 7.06
+  Housemade Horchata: 3.2
+  Chipotle Bourbon Carnitas: 14.15
+  Smoky Chipotle Quesadillas: 6.63
+  Chili Lime Shrimp Skewers: 9.31
+  Beef Enchiladas Verdes: 10.48
+  Mexican Hot Chocolate: 5.03
+  Chipotle Chicken Enchiladas: 12.05
+  Grilled Pineapple Dessert Quesadilla: 5.24
+  Spicy Chocolate Churros: 4.37
+  Black Bean & Cheese Enchiladas: 10.18
+  Three Cheese Sope: 7.98
+  Southwestern Quinoa Salad: 8.58

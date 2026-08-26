@@ -1,0 +1,39 @@
+id: business_0257
+name: Casa Crispa Mexicana
+description: Discover vibrant flavors and classic favorites at Casa Crispa Mexicana,
+  where Tex-Mex tradition meets a contemporary twist. Enjoy a festive atmosphere and
+  a menu full of sizzling dishes, refreshing beverages, and sweet treats.
+rating: 1.0
+progenitor_customer: customer_0086
+menu_features:
+  Crispy Carnitas Tacos: 10.58
+  Crispy Fish Baja Bowl: 12.38
+  Passion Fruit Agua Fresca: 3.3
+  Sizzling Chicken Fajitas: 15.75
+  Chocolate Mole Chicken: 17.34
+  Mango Habanero Margarita: 8.06
+  Chili Con Queso Supreme: 7.69
+  Spiced Churro Bites: 6.64
+  Hatch Green Chile Quesadilla: 11.96
+  Vanilla Almond Horchata: 4.1
+  Spicy Chicken Tortilla Soup: 6.71
+  Classic Horchata Smoothie: 5.08
+  Three-Cheese Chile Rellenos: 13.33
+  Roasted Poblano Rellenos: 15.87
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Crispy Carnitas Tacos: 8.99
+  Crispy Fish Baja Bowl: 10.52
+  Passion Fruit Agua Fresca: 2.8
+  Sizzling Chicken Fajitas: 13.39
+  Chocolate Mole Chicken: 14.74
+  Mango Habanero Margarita: 6.85
+  Chili Con Queso Supreme: 6.54
+  Spiced Churro Bites: 5.64
+  Hatch Green Chile Quesadilla: 10.17
+  Vanilla Almond Horchata: 3.48
+  Spicy Chicken Tortilla Soup: 5.7
+  Classic Horchata Smoothie: 4.32
+  Three-Cheese Chile Rellenos: 11.33
+  Roasted Poblano Rellenos: 13.49

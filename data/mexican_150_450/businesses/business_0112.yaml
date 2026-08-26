@@ -1,0 +1,38 @@
+id: business_0112
+name: Luna Rosa Cocina
+description: Experience vibrant Mexican and Tex-Mex cuisine in a welcoming setting,
+  where fresh flavors and creative dishes come together under a rosy moonlit ambiance.
+  Enjoy classic favorites and inventive specialties, paired with refreshing drinks
+  and sweet treats.
+rating: 1.0
+progenitor_customer: customer_0038
+menu_features:
+  Smoky Lime Quinoa Salad: 10.81
+  Veggie Fajita Platter: 14.08
+  Honey Lime Chicken Fajitas: 13.66
+  Coconut Lime Margarita: 9.99
+  Avocado Lime Dip: 5.88
+  Stuffed Poblano Peppers: 10.38
+  Tamarind-Glazed Ribs: 17.66
+  Raspberry Jalapeno Mojito: 8.21
+  Creamy Chipotle Pasta: 12.5
+  Passion Fruit Agua Fresca: 3.76
+  Roasted Corn Elote: 4.05
+  Cheesy Jalapeno Poppers: 8.15
+  Caramel Apple Empanadas: 5.14
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Smoky Lime Quinoa Salad: 7.78
+  Veggie Fajita Platter: 10.14
+  Honey Lime Chicken Fajitas: 9.84
+  Coconut Lime Margarita: 7.19
+  Avocado Lime Dip: 4.23
+  Stuffed Poblano Peppers: 7.47
+  Tamarind-Glazed Ribs: 12.72
+  Raspberry Jalapeno Mojito: 5.91
+  Creamy Chipotle Pasta: 9.0
+  Passion Fruit Agua Fresca: 2.71
+  Roasted Corn Elote: 2.92
+  Cheesy Jalapeno Poppers: 5.87
+  Caramel Apple Empanadas: 3.7

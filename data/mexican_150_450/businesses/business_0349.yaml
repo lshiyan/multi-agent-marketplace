@@ -1,0 +1,47 @@
+id: business_0349
+name: Tastebud Tropico
+description: Dive into the vibrant flavors of modern Mexican and Tex-Mex cuisine at
+  Tastebud Tropico, where bold spices meet fresh, zesty ingredients. Enjoy creative
+  small plates, hearty mains, and delightful desserts in a lively, contemporary setting.
+rating: 1.0
+progenitor_customer: customer_0117
+menu_features:
+  Loaded Chorizo Nachos: 11.25
+  Grilled Shrimp Skewers: 18.84
+  Baja Fish Burrito: 13.87
+  Smoky Chipotle Queso: 6.93
+  Breakfast Chorizo Torta: 8.8
+  Gourmet Nacho Platter: 10.95
+  Chipotle Lime Chicken Skewers: 12.4
+  Mexican Street Corn Salad: 7.73
+  Chipotle Lime Shrimp Skewers: 11.45
+  Spicy Avocado Burger: 10.45
+  Mango Habanero Wings: 11.71
+  Black Bean Avocado Tostadas: 8.25
+  Crispy Tinga Chicken Tacos: 9.88
+  Jicama and Citrus Salad: 9.51
+  Coconut Lime Tres Leches: 7.54
+  Stuffed Chicken Poblano: 13.16
+  Tres Leches Cake: 6.24
+  Crispy Avocado Bites: 9.75
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Loaded Chorizo Nachos: 9.9
+  Grilled Shrimp Skewers: 16.58
+  Baja Fish Burrito: 12.21
+  Smoky Chipotle Queso: 6.1
+  Breakfast Chorizo Torta: 7.74
+  Gourmet Nacho Platter: 9.64
+  Chipotle Lime Chicken Skewers: 10.91
+  Mexican Street Corn Salad: 6.8
+  Chipotle Lime Shrimp Skewers: 10.08
+  Spicy Avocado Burger: 9.2
+  Mango Habanero Wings: 10.3
+  Black Bean Avocado Tostadas: 7.26
+  Crispy Tinga Chicken Tacos: 8.69
+  Jicama and Citrus Salad: 8.37
+  Coconut Lime Tres Leches: 6.64
+  Stuffed Chicken Poblano: 11.58
+  Tres Leches Cake: 5.49
+  Crispy Avocado Bites: 8.58

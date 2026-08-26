@@ -1,0 +1,43 @@
+id: business_0408
+name: Citrus Ember Social
+description: Experience vibrant flavors and creative twists on Mexican and Tex-Mex
+  classics in a lively, modern setting. From zesty street corn to decadent desserts
+  and inventive drinks, every bite brings a fiesta to your table.
+rating: 1.0
+progenitor_customer: customer_0136
+menu_features:
+  Hatch Green Chile Rice: 5.74
+  Spiced Churro Bites: 4.63
+  Passionfruit Agua Fresca: 3.41
+  Pineapple Habanero Sake: 7.89
+  Chili Lime Street Corn: 5.32
+  Smoky Black Bean Tostadas: 9.2
+  Cinnamon Churro Bites: 6.93
+  Cinnamon Sugar Churros: 4.93
+  Black Bean and Cilantro Rice: 3.08
+  Grilled Pineapple Mojito: 9.13
+  Mexican Chocolate Lava Cake: 7.38
+  Roasted Pecan Flan: 5.83
+  Loaded Nacho Fiesta: 12.53
+  Chocolate Mole Brownie: 6.82
+  Caramelized Plantain Empanadas: 5.95
+  Creamy Avocado Smoothie: 4.75
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Hatch Green Chile Rice: 4.19
+  Spiced Churro Bites: 3.38
+  Passionfruit Agua Fresca: 2.49
+  Pineapple Habanero Sake: 5.76
+  Chili Lime Street Corn: 3.88
+  Smoky Black Bean Tostadas: 6.72
+  Cinnamon Churro Bites: 5.06
+  Cinnamon Sugar Churros: 3.6
+  Black Bean and Cilantro Rice: 2.25
+  Grilled Pineapple Mojito: 6.66
+  Mexican Chocolate Lava Cake: 5.39
+  Roasted Pecan Flan: 4.26
+  Loaded Nacho Fiesta: 9.15
+  Chocolate Mole Brownie: 4.98
+  Caramelized Plantain Empanadas: 4.34
+  Creamy Avocado Smoothie: 3.47

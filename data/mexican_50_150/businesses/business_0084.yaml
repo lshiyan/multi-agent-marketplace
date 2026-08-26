@@ -1,0 +1,39 @@
+id: business_0084
+name: Smoky & Sweet Cocina
+description: Experience a vibrant fusion of smoky, spicy, and sweet flavors at Smoky
+  & Sweet Cocina, where every dish is crafted with fresh, creative ingredients. A
+  modern Tex-Mex spot perfect for sharing good times and bold bites.
+rating: 1.0
+progenitor_customer: customer_0028
+menu_features:
+  Smoky Chipotle BBQ Wings: 10.44
+  Pineapple Pico de Gallo Salsa: 7.68
+  Smoky Chipotle Steak Fajitas: 14.88
+  Street Corn Fritters: 5.82
+  Tropical Pineapple Salsa: 3.76
+  Roasted Pumpkin Tamale: 5.31
+  Honey-Lime Shrimp Skewers: 13.49
+  Twice-Baked Sweet Potato: 7.32
+  Mexican Spiced Chocolate Cake: 7.58
+  Sweet Chili Lime Elote: 4.64
+  Vanilla Flan Delight: 5.81
+  Honey-Lime Grilled Shrimp: 15.15
+  Classic Horchata Delight: 3.81
+  Spicy Black Bean Nachos: 8.68
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Smoky Chipotle BBQ Wings: 8.87
+  Pineapple Pico de Gallo Salsa: 6.53
+  Smoky Chipotle Steak Fajitas: 12.65
+  Street Corn Fritters: 4.95
+  Tropical Pineapple Salsa: 3.2
+  Roasted Pumpkin Tamale: 4.51
+  Honey-Lime Shrimp Skewers: 11.47
+  Twice-Baked Sweet Potato: 6.22
+  Mexican Spiced Chocolate Cake: 6.44
+  Sweet Chili Lime Elote: 3.94
+  Vanilla Flan Delight: 4.94
+  Honey-Lime Grilled Shrimp: 12.88
+  Classic Horchata Delight: 3.24
+  Spicy Black Bean Nachos: 7.38

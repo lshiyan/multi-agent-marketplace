@@ -1,0 +1,41 @@
+id: business_0350
+name: La Brisa Mexicana
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm, inviting atmosphere.
+  From zesty tacos to sweet desserts and refreshing drinks, each dish is crafted to
+  bring you the essence of modern Mexican cuisine.
+rating: 1.0
+progenitor_customer: customer_0117
+menu_features:
+  Spicy Avocado Burger: 11.26
+  Crispy Fish Tacos: 15.1
+  Breakfast Chorizo Tostadas: 11.3
+  Citrus Grilled Chicken Tacos: 13.44
+  Pineapple Tequila Chicken Skewers: 15.6
+  Zesty Lime Grilled Chicken: 11.13
+  Black Bean Sweet Potato Burrito: 9.27
+  Tres Leches Cake: 7.32
+  Cucumber Jalapeno Agua Fresca: 3.32
+  Honey-Lime Shrimp Skewers: 17.05
+  Adobo Pork Sliders: 9.56
+  Horchata Latte: 4.06
+  Hatch Green Chile Stew: 12.76
+  Black Bean Street Tacos: 10.49
+  Black Bean Avocado Tostadas: 12.03
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Spicy Avocado Burger: 8.78
+  Crispy Fish Tacos: 11.78
+  Breakfast Chorizo Tostadas: 8.81
+  Citrus Grilled Chicken Tacos: 10.48
+  Pineapple Tequila Chicken Skewers: 12.17
+  Zesty Lime Grilled Chicken: 8.68
+  Black Bean Sweet Potato Burrito: 7.23
+  Tres Leches Cake: 5.71
+  Cucumber Jalapeno Agua Fresca: 2.59
+  Honey-Lime Shrimp Skewers: 13.3
+  Adobo Pork Sliders: 7.46
+  Horchata Latte: 3.17
+  Hatch Green Chile Stew: 9.95
+  Black Bean Street Tacos: 8.18
+  Black Bean Avocado Tostadas: 9.38

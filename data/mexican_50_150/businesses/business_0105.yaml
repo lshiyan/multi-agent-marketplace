@@ -1,0 +1,47 @@
+id: business_0105
+name: Cascada Mexicana
+description: Experience vibrant Mexican and Tex-Mex cuisine, where fresh flavors and
+  colorful ingredients come together in every dish. Enjoy a bright, welcoming atmosphere
+  and creative plates inspired by classic traditions with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0035
+menu_features:
+  Fresh Limeade: 3.07
+  Crispy Fish Baja Bowl: 12.4
+  Three-Cheese Enchilada Stack: 10.87
+  Poblano Pepper Queso Dip: 6.81
+  Grilled Pineapple Salsa: 5.05
+  Smoky Chipotle BBQ Nachos: 9.07
+  Tequila Lime Grilled Shrimp: 15.02
+  Creamy Chipotle Pasta: 10.58
+  Ancho Chili Spiced Ribs: 16.61
+  Blueberry Mint Agua Fresca: 4.38
+  Street Corn Fritters: 7.13
+  Grilled Pineapple Salmon: 17.84
+  Spicy Chicken Chimichanga: 10.16
+  Black Bean Avocado Enchiladas: 12.42
+  Chipotle Lime Shrimp Tacos: 14.94
+  Loaded Street Corn: 7.43
+  Stuffed Poblano Peppers: 13.87
+  Honey-Lime Grilled Shrimp: 15.01
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Fresh Limeade: 2.18
+  Crispy Fish Baja Bowl: 8.8
+  Three-Cheese Enchilada Stack: 7.72
+  Poblano Pepper Queso Dip: 4.84
+  Grilled Pineapple Salsa: 3.59
+  Smoky Chipotle BBQ Nachos: 6.44
+  Tequila Lime Grilled Shrimp: 10.66
+  Creamy Chipotle Pasta: 7.51
+  Ancho Chili Spiced Ribs: 11.79
+  Blueberry Mint Agua Fresca: 3.11
+  Street Corn Fritters: 5.06
+  Grilled Pineapple Salmon: 12.67
+  Spicy Chicken Chimichanga: 7.21
+  Black Bean Avocado Enchiladas: 8.82
+  Chipotle Lime Shrimp Tacos: 10.61
+  Loaded Street Corn: 5.28
+  Stuffed Poblano Peppers: 9.85
+  Honey-Lime Grilled Shrimp: 10.66

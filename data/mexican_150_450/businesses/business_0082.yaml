@@ -1,0 +1,35 @@
+id: business_0082
+name: "Mint & Ma\xEDz"
+description: Experience a vibrant twist on modern Mexican and Tex-Mex cuisine, where
+  fresh flavors meet bold traditions in every dish and drink. Perfect for food lovers
+  seeking zesty, creative fare in a lively setting.
+rating: 1.0
+progenitor_customer: customer_0028
+menu_features:
+  Minty Mojito Refresher: 7.9
+  Crispy Carnitas Tacos: 14.06
+  Roasted Pecan Flan: 6.03
+  Lime-Garlic Grilled Chicken: 16.4
+  Crispy Tinga Chicken Tacos: 9.83
+  Horchata Iced Coffee: 4.38
+  Ancho Chile Chicken Salad: 10.13
+  Mole Chicken Quesadilla: 11.93
+  Spicy Avocado Smash Burger: 11.03
+  Roasted Poblano Rellenos: 13.26
+  Avocado Lime Crema Tostadas: 8.78
+  Chipotle Lime Shrimp Skewers: 16.26
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Minty Mojito Refresher: 6.95
+  Crispy Carnitas Tacos: 12.37
+  Roasted Pecan Flan: 5.31
+  Lime-Garlic Grilled Chicken: 14.43
+  Crispy Tinga Chicken Tacos: 8.65
+  Horchata Iced Coffee: 3.85
+  Ancho Chile Chicken Salad: 8.91
+  Mole Chicken Quesadilla: 10.5
+  Spicy Avocado Smash Burger: 9.71
+  Roasted Poblano Rellenos: 11.67
+  Avocado Lime Crema Tostadas: 7.73
+  Chipotle Lime Shrimp Skewers: 14.31

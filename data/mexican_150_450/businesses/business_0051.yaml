@@ -1,0 +1,42 @@
+id: business_0051
+name: Cantina Cielo Azul
+description: Step into Cantina Cielo Azul, where vibrant flavors and soulful spices
+  come together in a welcoming, contemporary setting. Enjoy a thoughtfully crafted
+  menu of classic and modern Mexican and Tex-Mex specialties prepared with fresh,
+  bold ingredients.
+rating: 1.0
+progenitor_customer: customer_0017
+menu_features:
+  Mexican Chocolate Flan: 6.24
+  Black Bean Stuffed Sweet Potatoes: 8.9
+  Baja Fish Taco Plate: 12.14
+  Chipotle Lime Shrimp Skewers: 18.71
+  Spicy Chicken Tortilla Soup: 4.99
+  Fajita Veggie Burrito Bowl: 12.78
+  Smoky Ancho Chicken Enchiladas: 12.08
+  Smoky Black Bean Soup: 8.2
+  Sizzling Fajita Skillet: 16.4
+  Chili Chocolate Lava Cake: 6.34
+  Baja Fish Burrito: 11.91
+  Tropical Pineapple Salsa: 3.66
+  Three-Cheese Queso Dip: 6.32
+  Ancho Chile BBQ Ribs: 19.89
+  Smoky Lime Quinoa Salad: 9.05
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Mexican Chocolate Flan: 4.37
+  Black Bean Stuffed Sweet Potatoes: 6.23
+  Baja Fish Taco Plate: 8.5
+  Chipotle Lime Shrimp Skewers: 13.1
+  Spicy Chicken Tortilla Soup: 3.49
+  Fajita Veggie Burrito Bowl: 8.95
+  Smoky Ancho Chicken Enchiladas: 8.46
+  Smoky Black Bean Soup: 5.74
+  Sizzling Fajita Skillet: 11.48
+  Chili Chocolate Lava Cake: 4.44
+  Baja Fish Burrito: 8.34
+  Tropical Pineapple Salsa: 2.56
+  Three-Cheese Queso Dip: 4.42
+  Ancho Chile BBQ Ribs: 13.92
+  Smoky Lime Quinoa Salad: 6.33

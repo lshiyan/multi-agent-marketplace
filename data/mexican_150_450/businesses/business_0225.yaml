@@ -1,0 +1,45 @@
+id: business_0225
+name: Brunch & Baja Bites
+description: Discover a vibrant twist on Mexican and Tex-Mex classics with bold brunch
+  options and coastal-inspired fare. Savor fresh flavors and creative plates in a
+  modern, welcoming space perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0075
+menu_features:
+  Carnitas Plantain Burrito: 12.8
+  Black Bean Breakfast Burrito: 6.85
+  Honey Lime Grilled Fajitas: 16.73
+  Breakfast Burrito Bonanza: 8.2
+  Smoky Chipotle BBQ Wings: 13.57
+  Veggie Fajita Platter: 13.92
+  Avocado Lime Cheesecake: 7.13
+  Mexican Coffee Flan: 6.22
+  Baja Fish Tacos: 10.44
+  Sizzling Fajita Platter: 19.5
+  Black Bean Stuffed Sweet Potatoes: 9.4
+  Smoky Chipotle Quesadillas: 8.94
+  Cinnamon Sugar Churros: 5.58
+  Chipotle Lime Shrimp Tacos: 13.31
+  Spicy Shrimp Fajitas: 15.66
+  Loaded Nacho Fiesta: 9.77
+  Citrus Marinated Carne Asada: 16.3
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Carnitas Plantain Burrito: 11.14
+  Black Bean Breakfast Burrito: 5.96
+  Honey Lime Grilled Fajitas: 14.56
+  Breakfast Burrito Bonanza: 7.13
+  Smoky Chipotle BBQ Wings: 11.81
+  Veggie Fajita Platter: 12.11
+  Avocado Lime Cheesecake: 6.2
+  Mexican Coffee Flan: 5.41
+  Baja Fish Tacos: 9.08
+  Sizzling Fajita Platter: 16.96
+  Black Bean Stuffed Sweet Potatoes: 8.18
+  Smoky Chipotle Quesadillas: 7.78
+  Cinnamon Sugar Churros: 4.85
+  Chipotle Lime Shrimp Tacos: 11.58
+  Spicy Shrimp Fajitas: 13.62
+  Loaded Nacho Fiesta: 8.5
+  Citrus Marinated Carne Asada: 14.18

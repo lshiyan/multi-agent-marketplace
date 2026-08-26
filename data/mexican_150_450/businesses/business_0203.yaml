@@ -1,0 +1,38 @@
+id: business_0203
+name: Casa Chipotle y Cacao
+description: A welcoming destination for those who crave bold Mexican and Tex-Mex
+  flavors, Casa Chipotle y Cacao serves a creative blend of savory classics and sweet
+  treats. Enjoy a unique dining experience with vibrant dishes and refreshing house
+  drinks in a lively, colorful setting.
+rating: 1.0
+progenitor_customer: customer_0068
+menu_features:
+  Al Pastor Quesadilla: 9.01
+  Verde Ranchero Huevos: 12.12
+  Roasted Red Pepper Quesadilla: 12.28
+  Rich Chocolate Tres Leches: 8.2
+  Smoky Chipotle Enchiladas: 13.61
+  Choco Flan Combo: 7.85
+  Hatch Green Chile Rice: 4.94
+  Poblano Pepper Relleno Plate: 12.95
+  Tamarind Ginger Cooler: 4.77
+  Toasted Coconut Flan: 5.52
+  Adobo Pork Sliders: 12.44
+  Chili Lime Shrimp Skewers: 10.32
+  Caramelized Onion and Chorizo Quesadilla: 7.8
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Al Pastor Quesadilla: 6.22
+  Verde Ranchero Huevos: 8.36
+  Roasted Red Pepper Quesadilla: 8.47
+  Rich Chocolate Tres Leches: 5.66
+  Smoky Chipotle Enchiladas: 9.39
+  Choco Flan Combo: 5.42
+  Hatch Green Chile Rice: 3.41
+  Poblano Pepper Relleno Plate: 8.94
+  Tamarind Ginger Cooler: 3.29
+  Toasted Coconut Flan: 3.81
+  Adobo Pork Sliders: 8.58
+  Chili Lime Shrimp Skewers: 7.12
+  Caramelized Onion and Chorizo Quesadilla: 5.38

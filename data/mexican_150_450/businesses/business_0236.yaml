@@ -1,0 +1,45 @@
+id: business_0236
+name: Sizzle & Zest Kitchen
+description: Step into a lively, modern eatery serving bold Mexican and Tex-Mex flavors,
+  from zesty sizzlers to decadent chocolate-inspired desserts. Enjoy creative takes
+  on classic favorites in a vibrant, inviting space.
+rating: 1.0
+progenitor_customer: customer_0079
+menu_features:
+  Sizzling Pork Carnitas Bowl: 10.57
+  Honey Lime Fajita Sizzlers: 16.63
+  Fire Roasted Salsa Sampler: 6.35
+  Chocolate Tamale Cake: 7.74
+  Smoky Chipotle Queso: 6.58
+  Crispy Fish Tacos: 13.6
+  Refreshing Agua Fresca Trio: 10.06
+  Spiced Chocolate Flan: 7.24
+  Passion Fruit Mojito: 9.89
+  Crispy Carnitas Quesadilla: 12.05
+  Cocoa Dusted Churro Bites: 6.05
+  Chili Chocolate Lava Cake: 7.89
+  Tamarind Citrus Margarita: 9.8
+  Loaded Nacho Fries: 6.92
+  Poblano Pepper Relleno Plate: 11.58
+  Smoky Chipotle Quesadillas: 8.89
+  Pineapple Agua Fresca: 3.41
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Sizzling Pork Carnitas Bowl: 8.98
+  Honey Lime Fajita Sizzlers: 14.14
+  Fire Roasted Salsa Sampler: 5.4
+  Chocolate Tamale Cake: 6.58
+  Smoky Chipotle Queso: 5.59
+  Crispy Fish Tacos: 11.56
+  Refreshing Agua Fresca Trio: 8.55
+  Spiced Chocolate Flan: 6.15
+  Passion Fruit Mojito: 8.41
+  Crispy Carnitas Quesadilla: 10.24
+  Cocoa Dusted Churro Bites: 5.14
+  Chili Chocolate Lava Cake: 6.71
+  Tamarind Citrus Margarita: 8.33
+  Loaded Nacho Fries: 5.88
+  Poblano Pepper Relleno Plate: 9.84
+  Smoky Chipotle Quesadillas: 7.56
+  Pineapple Agua Fresca: 2.9

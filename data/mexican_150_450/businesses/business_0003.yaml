@@ -1,0 +1,43 @@
+id: business_0003
+name: Caliente Table
+description: Caliente Table serves a modern take on classic Mexican and Tex-Mex cuisine,
+  blending fresh flavors with bold spices in a vibrant, welcoming atmosphere. Enjoy
+  craveable bites, creative drinks, and sizzling favorites inspired by regional tastes.
+rating: 1.0
+progenitor_customer: customer_0001
+menu_features:
+  Chocolate Mole Brownie: 6.06
+  Chili Lime Jicama Sticks: 6.72
+  Baja Fish Burrito: 12.56
+  Caramel Apple Empanadas: 6.17
+  Cinnamon Churro Bites: 6.06
+  Creamy Poblano Corn Chowder: 7.8
+  Classic Carne Asada Burrito: 12.62
+  Sizzling Fajita Skillet: 15.73
+  Cucumber Jalapeno Agua Fresca: 4.58
+  Passionfruit Paloma: 8.04
+  Creamy Avocado Smoothie: 6.26
+  Sunset Grilled Veggie Tacos: 14.02
+  Mexican Street Corn Salad: 8.82
+  Ancho Chili Braised Beef Enchiladas: 11.76
+  Coconut Lime Shrimp Skewers: 15.08
+  Veggie Fajita Platter: 12.68
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Chocolate Mole Brownie: 4.61
+  Chili Lime Jicama Sticks: 5.11
+  Baja Fish Burrito: 9.55
+  Caramel Apple Empanadas: 4.69
+  Cinnamon Churro Bites: 4.61
+  Creamy Poblano Corn Chowder: 5.93
+  Classic Carne Asada Burrito: 9.59
+  Sizzling Fajita Skillet: 11.95
+  Cucumber Jalapeno Agua Fresca: 3.48
+  Passionfruit Paloma: 6.11
+  Creamy Avocado Smoothie: 4.76
+  Sunset Grilled Veggie Tacos: 10.66
+  Mexican Street Corn Salad: 6.7
+  Ancho Chili Braised Beef Enchiladas: 8.94
+  Coconut Lime Shrimp Skewers: 11.46
+  Veggie Fajita Platter: 9.64

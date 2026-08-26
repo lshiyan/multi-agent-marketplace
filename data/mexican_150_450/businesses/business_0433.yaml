@@ -1,0 +1,45 @@
+id: business_0433
+name: Canela & Citrus Kitchen
+description: A vibrant, modern eatery celebrating fresh flavors and bold spice. Enjoy
+  handcrafted drinks, zesty small plates, and sizzling favorites inspired by the heart
+  of Mexican and Tex-Mex cuisine.
+rating: 1.0
+progenitor_customer: customer_0145
+menu_features:
+  Vanilla Cinnamon Horchata: 4.02
+  Pineapple Jalapeno Salsa: 5.82
+  Spicy Black Bean and Cheese Quesadilla: 12.23
+  Fresh Lime and Cilantro Guacamole: 6.65
+  Sizzling Fajita Platter: 24.21
+  Creamy Jalapeno Corn Fritters: 7.6
+  Zesty Lime Grilled Chicken: 12.43
+  Chipotle Lime Chicken Skewers: 12.33
+  Guava Limeade Cooler: 4.26
+  Roasted Pumpkin Tamale: 8.5
+  Roasted Corn Elote: 3.44
+  Bacon Wrapped Jalapeno Bites: 6.75
+  Salted Caramel Margarita: 10.49
+  Blueberry Agave Margarita: 11.47
+  Cinnamon Sugar Churros: 6.11
+  Horchata Latte: 4.56
+  Housemade Horchata: 3.89
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Vanilla Cinnamon Horchata: 3.54
+  Pineapple Jalapeno Salsa: 5.12
+  Spicy Black Bean and Cheese Quesadilla: 10.76
+  Fresh Lime and Cilantro Guacamole: 5.85
+  Sizzling Fajita Platter: 21.3
+  Creamy Jalapeno Corn Fritters: 6.69
+  Zesty Lime Grilled Chicken: 10.94
+  Chipotle Lime Chicken Skewers: 10.85
+  Guava Limeade Cooler: 3.75
+  Roasted Pumpkin Tamale: 7.48
+  Roasted Corn Elote: 3.03
+  Bacon Wrapped Jalapeno Bites: 5.94
+  Salted Caramel Margarita: 9.23
+  Blueberry Agave Margarita: 10.09
+  Cinnamon Sugar Churros: 5.38
+  Horchata Latte: 4.01
+  Housemade Horchata: 3.42

@@ -1,0 +1,41 @@
+id: business_0418
+name: Verde Wave Kitchen
+description: Experience a vibrant blend of modern Mexican and Tex-Mex favorites, crafted
+  with fresh flavors and creative twists. Verde Wave Kitchen offers a relaxed, contemporary
+  atmosphere where every bite is an invitation to savor something unexpected.
+rating: 1.0
+progenitor_customer: customer_0140
+menu_features:
+  Passion Fruit Mojito: 10.59
+  Crispy Fish Street Tacos: 18.26
+  Carnitas Breakfast Burrito: 13.41
+  Horchata Iced Latte: 5.57
+  Ancho Chili Chocolate Cake: 7.23
+  Zesty Lime Shrimp Tostadas: 9.86
+  Mexican Coffee Flan: 7.52
+  Ancho Honey-Glazed Salmon: 12.15
+  Churro Ice Cream Sandwich: 7.36
+  Hatch Green Chile Stew: 14.06
+  Chipotle Lime Chicken Salad: 13.11
+  Shrimp Ceviche Bowl: 14.76
+  Black Bean Avocado Enchiladas: 11.46
+  Stuffed Poblano Peppers: 12.57
+  Poblano Pepper Queso Dip: 5.86
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Passion Fruit Mojito: 6.57
+  Crispy Fish Street Tacos: 11.32
+  Carnitas Breakfast Burrito: 8.31
+  Horchata Iced Latte: 3.45
+  Ancho Chili Chocolate Cake: 4.48
+  Zesty Lime Shrimp Tostadas: 6.11
+  Mexican Coffee Flan: 4.66
+  Ancho Honey-Glazed Salmon: 7.53
+  Churro Ice Cream Sandwich: 4.56
+  Hatch Green Chile Stew: 8.72
+  Chipotle Lime Chicken Salad: 8.13
+  Shrimp Ceviche Bowl: 9.15
+  Black Bean Avocado Enchiladas: 7.11
+  Stuffed Poblano Peppers: 7.79
+  Poblano Pepper Queso Dip: 3.63

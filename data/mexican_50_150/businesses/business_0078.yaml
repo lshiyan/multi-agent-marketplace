@@ -1,0 +1,41 @@
+id: business_0078
+name: Cielo y Canela Cantina
+description: Savor vibrant Tex-Mex flavors and creative cocktails in a warm, inviting
+  setting. From zesty grilled specialties to sweet, cinnamon-kissed treats, every
+  dish celebrates tradition with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0026
+menu_features:
+  Peach Berry Sangria: 11.54
+  Spiked Horchata Cooler: 7.61
+  Beef Barbacoa Burrito Bowl: 10.97
+  Cinnamon Sugar Sopapillas: 5.21
+  Loaded Chorizo Nachos: 10.57
+  Green Chile Cheesesteak: 11.67
+  Tequila Lime Grilled Shrimp: 15.42
+  Mango Agua Fresca: 3.37
+  Pineapple Jalapeno Sangria: 7.07
+  Fresh Mango Salsa Nachos: 7.74
+  Citrus Marinated Carne Asada: 10.95
+  Rich Chocolate Tres Leches: 7.13
+  Honey Chipotle Wings: 8.27
+  Horchata Iced Coffee: 4.12
+  Grilled Steak Quesadilla: 12.19
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Peach Berry Sangria: 9.23
+  Spiked Horchata Cooler: 6.09
+  Beef Barbacoa Burrito Bowl: 8.78
+  Cinnamon Sugar Sopapillas: 4.17
+  Loaded Chorizo Nachos: 8.46
+  Green Chile Cheesesteak: 9.34
+  Tequila Lime Grilled Shrimp: 12.34
+  Mango Agua Fresca: 2.7
+  Pineapple Jalapeno Sangria: 5.66
+  Fresh Mango Salsa Nachos: 6.19
+  Citrus Marinated Carne Asada: 8.76
+  Rich Chocolate Tres Leches: 5.7
+  Honey Chipotle Wings: 6.62
+  Horchata Iced Coffee: 3.3
+  Grilled Steak Quesadilla: 9.75

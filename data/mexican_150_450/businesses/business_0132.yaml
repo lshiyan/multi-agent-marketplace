@@ -1,0 +1,38 @@
+id: business_0132
+name: "Ma\xEDz & Ember Cantina"
+description: "Experience the vibrant flavors of modern Mexican and Tex-Mex favorites\
+  \ in a cozy, trendy atmosphere. Savor bold spices, fresh ingredients, and sweet\
+  \ indulgences\u2014all inspired by the spirit of the street and the warmth of the\
+  \ fire."
+rating: 1.0
+progenitor_customer: customer_0044
+menu_features:
+  Crispy Fish Tacos: 10.96
+  Smoky Chipotle Chicken: 12.99
+  Baja Fish Taco Bowl: 13.48
+  Sweet Corn Tamales: 10.86
+  Grilled Street Corn: 5.21
+  Cinnamon Sugar Churro Sticks: 6.41
+  Chipotle Bean Burrito: 7.97
+  Pumpkin Spice Flan: 6.54
+  Breakfast Chorizo Tostadas: 9.59
+  Coconut Flan Delight: 6.87
+  Chipotle Bourbon Carnitas: 15.7
+  Spicy Chicken Tortilla Soup: 6.1
+  Chocolate Molten Tamale: 6.0
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Crispy Fish Tacos: 10.19
+  Smoky Chipotle Chicken: 12.08
+  Baja Fish Taco Bowl: 12.54
+  Sweet Corn Tamales: 10.1
+  Grilled Street Corn: 4.85
+  Cinnamon Sugar Churro Sticks: 5.96
+  Chipotle Bean Burrito: 7.41
+  Pumpkin Spice Flan: 6.08
+  Breakfast Chorizo Tostadas: 8.92
+  Coconut Flan Delight: 6.39
+  Chipotle Bourbon Carnitas: 14.6
+  Spicy Chicken Tortilla Soup: 5.67
+  Chocolate Molten Tamale: 5.58

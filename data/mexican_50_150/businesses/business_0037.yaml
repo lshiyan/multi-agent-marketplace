@@ -1,0 +1,43 @@
+id: business_0037
+name: Grill Power & Lime
+description: Fire up your taste buds with vibrant Tex-Mex flavors and zesty twists
+  in every bite. From sizzling fajitas to creative coastal inspirations, we serve
+  up fun and flavor in every dish.
+rating: 1.0
+progenitor_customer: customer_0013
+menu_features:
+  Mushroom & Cheese Tamales: 9.19
+  Crispy Fish Baja Bowl: 14.53
+  Tamarind-Glazed Ribs: 18.84
+  Coconut Lime Shrimp Skewers: 17.17
+  Stuffed Avocado Delight: 8.78
+  Sizzling Fajita Platter: 16.97
+  Creamy Jalapeno Corn Fritters: 8.2
+  Spicy Pineapple Chipotle Margarita: 8.07
+  Zesty Lime Chicken Fajitas: 13.03
+  Ancho Chili Braised Beef Enchiladas: 13.52
+  Spice-Rubbed Grilled Fajitas: 15.16
+  Avocado Lime Dip: 6.75
+  Honey Lime Chicken Fajitas: 13.94
+  Baja Shrimp Quesadilla: 11.95
+  Queso Fundido Supreme: 7.01
+  Roasted Pepper Queso Dip: 6.8
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Mushroom & Cheese Tamales: 6.25
+  Crispy Fish Baja Bowl: 9.88
+  Tamarind-Glazed Ribs: 12.81
+  Coconut Lime Shrimp Skewers: 11.68
+  Stuffed Avocado Delight: 5.97
+  Sizzling Fajita Platter: 11.54
+  Creamy Jalapeno Corn Fritters: 5.58
+  Spicy Pineapple Chipotle Margarita: 5.49
+  Zesty Lime Chicken Fajitas: 8.86
+  Ancho Chili Braised Beef Enchiladas: 9.19
+  Spice-Rubbed Grilled Fajitas: 10.31
+  Avocado Lime Dip: 4.59
+  Honey Lime Chicken Fajitas: 9.48
+  Baja Shrimp Quesadilla: 8.13
+  Queso Fundido Supreme: 4.77
+  Roasted Pepper Queso Dip: 4.62

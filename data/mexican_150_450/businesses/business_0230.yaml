@@ -1,0 +1,35 @@
+id: business_0230
+name: Luz y Lima Mexicana
+description: Experience vibrant Mexican and Tex-Mex cuisine with a modern twist, featuring
+  fresh flavors, zesty citrus, and inspired seafood creations. Relax in a welcoming
+  atmosphere where every dish is infused with the spirit of sun-soaked hospitality.
+rating: 1.0
+progenitor_customer: customer_0077
+menu_features:
+  Avocado Lime Salad: 8.34
+  Ancho Honey-Glazed Salmon: 14.1
+  Toasted Coconut Flan: 6.01
+  Avocado Lime Quinoa Bowl: 11.56
+  Passion Fruit Agua Fresca: 4.11
+  Pico Avocado Toast: 10.13
+  Pineapple Jalapeno Sangria: 8.56
+  Flamin' Skillet Fajitas: 17.25
+  Zesty Lime Shrimp Tostadas: 11.84
+  Chili Lime Shrimp Skewers: 12.32
+  Pineapple Jalapeno Salsa: 4.89
+  Crispy Fish Street Tacos: 12.45
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Avocado Lime Salad: 5.17
+  Ancho Honey-Glazed Salmon: 8.74
+  Toasted Coconut Flan: 3.73
+  Avocado Lime Quinoa Bowl: 7.17
+  Passion Fruit Agua Fresca: 2.55
+  Pico Avocado Toast: 6.28
+  Pineapple Jalapeno Sangria: 5.31
+  Flamin' Skillet Fajitas: 10.7
+  Zesty Lime Shrimp Tostadas: 7.34
+  Chili Lime Shrimp Skewers: 7.64
+  Pineapple Jalapeno Salsa: 3.03
+  Crispy Fish Street Tacos: 7.72

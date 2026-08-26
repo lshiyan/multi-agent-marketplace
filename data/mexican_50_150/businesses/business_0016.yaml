@@ -1,0 +1,43 @@
+id: business_0016
+name: La Mesa Verde
+description: A welcoming haven for vibrant, modern Mexican and Tex-Mex flavors, La
+  Mesa Verde celebrates the art of fresh ingredients and bold seasonings. Enjoy inspired
+  creations in a lively, relaxed setting perfect for sharing with friends and family.
+rating: 1.0
+progenitor_customer: customer_0006
+menu_features:
+  Poblano Pepper Queso Dip: 5.67
+  Avocado Ranch Burrito Bowl: 11.28
+  Rich Chocolate Tamales: 8.69
+  Smoky Chipotle Black Bean Soup: 9.83
+  Coconut Tres Leches: 5.27
+  Shrimp Ceviche Bowl: 13.15
+  Grilled Chipotle Chicken Burrito: 10.41
+  Stuffed Chicken Poblano: 14.21
+  Classic Horchata Smoothie: 3.76
+  Fresh Mango Salsa Nachos: 6.66
+  Pineapple Habanero Salsa: 4.54
+  Spicy Beef Chimichangas: 16.64
+  Cocoa Cinnamon Tequila: 8.67
+  Avocado Lime Salad: 8.3
+  Loaded Nacho Bowl: 7.59
+  Pomegranate Agua Fresca: 3.51
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Poblano Pepper Queso Dip: 5.16
+  Avocado Ranch Burrito Bowl: 10.26
+  Rich Chocolate Tamales: 7.91
+  Smoky Chipotle Black Bean Soup: 8.95
+  Coconut Tres Leches: 4.8
+  Shrimp Ceviche Bowl: 11.97
+  Grilled Chipotle Chicken Burrito: 9.47
+  Stuffed Chicken Poblano: 12.93
+  Classic Horchata Smoothie: 3.42
+  Fresh Mango Salsa Nachos: 6.06
+  Pineapple Habanero Salsa: 4.13
+  Spicy Beef Chimichangas: 15.14
+  Cocoa Cinnamon Tequila: 7.89
+  Avocado Lime Salad: 7.55
+  Loaded Nacho Bowl: 6.91
+  Pomegranate Agua Fresca: 3.19

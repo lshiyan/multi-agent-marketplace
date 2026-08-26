@@ -1,0 +1,11 @@
+id: customer_0038
+name: Jack Thompson
+request: Could you please help me find a business that offers the following menu items
+  so that I can place an order? I am looking for 'Crispy Avocado Bites' (1 order),
+  a 'Coconut Lime Margarita' (1 order), and a 'Hatch Chile Queso Dip' (1 order). These
+  specific items are very important to me. Thank you for your assistance!
+menu_features:
+  Crispy Avocado Bites: 8.49
+  Coconut Lime Margarita: 8.99
+  Hatch Chile Queso Dip: 8.49
+amenity_features: []

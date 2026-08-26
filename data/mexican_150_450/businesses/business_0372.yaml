@@ -1,0 +1,41 @@
+id: business_0372
+name: "Caf\xE9 & Cauliflower Cantina"
+description: "Fresh flavors meet modern comfort at Caf\xE9 & Cauliflower Cantina,\
+  \ where Tex-Mex classics blend with inventive coffee drinks and bold, veggie-forward\
+  \ bites. Enjoy a vibrant twist on tradition in a warm, welcoming space."
+rating: 1.0
+progenitor_customer: customer_0124
+menu_features:
+  Horchata Latte: 4.18
+  Chili-Lime Cauliflower Bites: 10.43
+  Savory Chorizo Street Tacos: 10.32
+  Flamin' Skillet Fajitas: 17.49
+  Avocado Lime Salad: 7.06
+  Horchata Iced Coffee: 4.47
+  Black Bean & Cheese Enchiladas: 11.96
+  Sweet Corn Tamales: 11.58
+  Tangy Tomato Salsa Soup: 9.03
+  Beef Enchiladas Verdes: 12.3
+  Coconut Lime Shrimp Skewers: 14.59
+  Chili Lime Skirt Steak: 17.25
+  Spicy Beef Chimichangas: 14.0
+  Roasted Pepper Queso Dip: 5.92
+  Grilled Steak Quesadilla: 12.17
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Horchata Latte: 2.88
+  Chili-Lime Cauliflower Bites: 7.2
+  Savory Chorizo Street Tacos: 7.12
+  Flamin' Skillet Fajitas: 12.07
+  Avocado Lime Salad: 4.87
+  Horchata Iced Coffee: 3.08
+  Black Bean & Cheese Enchiladas: 8.25
+  Sweet Corn Tamales: 7.99
+  Tangy Tomato Salsa Soup: 6.23
+  Beef Enchiladas Verdes: 8.49
+  Coconut Lime Shrimp Skewers: 10.07
+  Chili Lime Skirt Steak: 11.9
+  Spicy Beef Chimichangas: 9.66
+  Roasted Pepper Queso Dip: 4.08
+  Grilled Steak Quesadilla: 8.4

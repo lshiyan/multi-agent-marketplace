@@ -1,0 +1,45 @@
+id: business_0064
+name: Paleta & Flame
+description: Experience modern Mexican and Tex-Mex flavors, where refreshing sips
+  and bold bites unite in a vibrant, welcoming atmosphere. Satisfy your cravings with
+  creative salads, sizzling grills, and decadent sweets.
+rating: 1.0
+progenitor_customer: customer_0022
+menu_features:
+  Vanilla Flan Delight: 5.79
+  Coconut Lime Paleta: 3.96
+  Cactus Cooler Margarita: 10.67
+  Warm Churro Bites: 5.24
+  Chipotle Lime Chicken Salad: 10.8
+  Horchata Iced Coffee: 5.66
+  Cheesy Jalapeno Queso: 6.44
+  Grilled Steak Quesadilla: 11.8
+  Coconut Tres Leches: 6.65
+  Choco Flan Combo: 6.88
+  Spicy Shrimp Ceviche: 9.85
+  Tequila Lime Shrimp Skewers: 14.48
+  Grilled Elote Corn: 4.54
+  Guava Limeade Cooler: 4.54
+  Blueberry Jalapeno Margarita: 10.65
+  Spicy Beef Empanadas: 9.23
+  Poblano Pepper Queso Dip: 6.24
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Vanilla Flan Delight: 4.11
+  Coconut Lime Paleta: 2.81
+  Cactus Cooler Margarita: 7.58
+  Warm Churro Bites: 3.72
+  Chipotle Lime Chicken Salad: 7.67
+  Horchata Iced Coffee: 4.02
+  Cheesy Jalapeno Queso: 4.57
+  Grilled Steak Quesadilla: 8.38
+  Coconut Tres Leches: 4.72
+  Choco Flan Combo: 4.88
+  Spicy Shrimp Ceviche: 6.99
+  Tequila Lime Shrimp Skewers: 10.28
+  Grilled Elote Corn: 3.22
+  Guava Limeade Cooler: 3.22
+  Blueberry Jalapeno Margarita: 7.56
+  Spicy Beef Empanadas: 6.55
+  Poblano Pepper Queso Dip: 4.43

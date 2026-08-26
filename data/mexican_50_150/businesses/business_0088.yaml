@@ -1,0 +1,45 @@
+id: business_0088
+name: Flan Your Appetite
+description: A fresh, lively take on Mexican and Tex-Mex comfort food, blending vibrant
+  flavors and innovative twists. Enjoy crave-worthy classics and sweet favorites in
+  a welcoming, modern cantina atmosphere.
+rating: 1.0
+progenitor_customer: customer_0030
+menu_features:
+  Sea Breeze Ceviche: 12.75
+  Chocolate Tamale Cake: 5.89
+  Classic Flan Delight: 6.52
+  Southwest Chopped Salad: 9.03
+  Bacon and Egg Tostada: 7.38
+  Honey Lime Grilled Chicken: 13.14
+  Beef Fajita Skillet: 14.07
+  Grilled Street Corn: 7.65
+  Tamale Trio Sampler: 9.81
+  Red Chili Chicken Pozole: 10.99
+  Roasted Pepper Queso Dip: 6.48
+  Avocado Lime Crema Tostadas: 7.1
+  Black Bean Avocado Tostadas: 10.72
+  Smoky Black Bean Nachos: 7.24
+  Spicy Beef Chimichangas: 14.99
+  Choco Flan Combo: 7.99
+  Horchata Milkshake: 7.17
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Sea Breeze Ceviche: 9.69
+  Chocolate Tamale Cake: 4.48
+  Classic Flan Delight: 4.96
+  Southwest Chopped Salad: 6.86
+  Bacon and Egg Tostada: 5.61
+  Honey Lime Grilled Chicken: 9.99
+  Beef Fajita Skillet: 10.69
+  Grilled Street Corn: 5.81
+  Tamale Trio Sampler: 7.46
+  Red Chili Chicken Pozole: 8.35
+  Roasted Pepper Queso Dip: 4.92
+  Avocado Lime Crema Tostadas: 5.4
+  Black Bean Avocado Tostadas: 8.15
+  Smoky Black Bean Nachos: 5.5
+  Spicy Beef Chimichangas: 11.39
+  Choco Flan Combo: 6.07
+  Horchata Milkshake: 5.45

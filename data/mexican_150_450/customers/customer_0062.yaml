@@ -1,0 +1,9 @@
+id: customer_0062
+name: Liam Kumar
+request: Please find a business that offers both a Tequila Sunrise Smoothie and Black
+  Bean & Cheese Tostadas. I would like to place an order for 1 Tequila Sunrise Smoothie
+  and 1 Black Bean & Cheese Tostadas. Thank you.
+menu_features:
+  Tequila Sunrise Smoothie: 7.99
+  Black Bean & Cheese Tostadas: 9.49
+amenity_features: []

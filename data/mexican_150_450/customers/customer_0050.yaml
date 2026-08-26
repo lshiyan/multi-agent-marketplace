@@ -1,0 +1,11 @@
+id: customer_0050
+name: Aisha Kim
+request: 'Please find a business that offers the following menu items in the specified
+  quantities: Blue Corn Tortilla Tacos (1), Loaded Nachos Grande (1), and Sizzling
+  Fajita Fiesta (1). It is very important that the business meets all these requirements,
+  as I intend to place an order with them. Thank you for your assistance.'
+menu_features:
+  Blue Corn Tortilla Tacos: 11.89
+  Loaded Nachos Grande: 10.99
+  Sizzling Fajita Fiesta: 13.99
+amenity_features: []

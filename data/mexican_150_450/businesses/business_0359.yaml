@@ -1,0 +1,41 @@
+id: business_0359
+name: Spice & Velvet
+description: Experience a modern twist on Mexican and Tex-Mex classics with bold spices,
+  rich flavors, and indulgent desserts. Our fresh, lively vibe is matched only by
+  the creativity found on every plate and in every glass.
+rating: 1.0
+progenitor_customer: customer_0120
+menu_features:
+  Spicy Black Bean and Cheese Quesadilla: 9.95
+  Smoky Black Bean Nachos: 10.45
+  Chocolate Mole Brownie: 7.02
+  Mexican Chocolate Flan: 7.78
+  "Spicy Jalape\xF1o Limeade": 3.52
+  Blueberry Mint Agua Fresca: 3.84
+  Fresh Mango Salsa Nachos: 10.15
+  Rich Chocolate Tamales: 8.58
+  Roasted Poblano Queso Dip: 6.14
+  Breakfast Chorizo Torta: 9.39
+  Ancho Chili Spiced Ribs: 16.55
+  Crispy Tinga Chicken Tacos: 12.14
+  Crispy Avocado Tacos: 12.02
+  Sunrise Breakfast Tacos: 9.24
+  Classic Horchata Delight: 3.08
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Spicy Black Bean and Cheese Quesadilla: 6.37
+  Smoky Black Bean Nachos: 6.69
+  Chocolate Mole Brownie: 4.49
+  Mexican Chocolate Flan: 4.98
+  "Spicy Jalape\xF1o Limeade": 2.25
+  Blueberry Mint Agua Fresca: 2.46
+  Fresh Mango Salsa Nachos: 6.5
+  Rich Chocolate Tamales: 5.49
+  Roasted Poblano Queso Dip: 3.93
+  Breakfast Chorizo Torta: 6.01
+  Ancho Chili Spiced Ribs: 10.59
+  Crispy Tinga Chicken Tacos: 7.77
+  Crispy Avocado Tacos: 7.69
+  Sunrise Breakfast Tacos: 5.91
+  Classic Horchata Delight: 1.97

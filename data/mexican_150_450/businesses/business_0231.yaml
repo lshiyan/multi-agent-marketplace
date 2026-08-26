@@ -1,0 +1,39 @@
+id: business_0231
+name: La Calle de Sabor
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm, inviting setting.
+  From sizzling fajitas to sweet churros and signature cocktails, each dish celebrates
+  time-honored tradition with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0077
+menu_features:
+  Cinnamon Sugar Churros: 4.43
+  Roasted Poblano Queso Dip: 7.83
+  Caramelized Onion Queso Dip: 7.74
+  Grilled Elote Corn: 4.52
+  Crispy Fish Street Tacos: 15.26
+  Honey Lime Chicken Fajitas: 17.04
+  Pineapple Jalapeno Sangria: 8.36
+  Spicy Mango Margarita: 7.56
+  Honey Lime Fajita Sizzlers: 16.81
+  Midnight Mole Enchiladas: 11.19
+  Mexican Chocolate Lava Cake: 7.38
+  Avocado Lime Crema Tostadas: 7.77
+  Spicy Pork Tamales: 12.05
+  Chipotle Bean Burrito: 10.69
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Cinnamon Sugar Churros: 3.1
+  Roasted Poblano Queso Dip: 5.48
+  Caramelized Onion Queso Dip: 5.42
+  Grilled Elote Corn: 3.16
+  Crispy Fish Street Tacos: 10.68
+  Honey Lime Chicken Fajitas: 11.93
+  Pineapple Jalapeno Sangria: 5.85
+  Spicy Mango Margarita: 5.29
+  Honey Lime Fajita Sizzlers: 11.77
+  Midnight Mole Enchiladas: 7.83
+  Mexican Chocolate Lava Cake: 5.17
+  Avocado Lime Crema Tostadas: 5.44
+  Spicy Pork Tamales: 8.44
+  Chipotle Bean Burrito: 7.48

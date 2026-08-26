@@ -1,0 +1,37 @@
+id: business_0143
+name: La Viva Canela
+description: A vibrant destination for distinctive Mexican and Tex-Mex cuisine, blending
+  classic flavors with creative twists. Enjoy a warm, festive atmosphere paired with
+  refreshing drinks and indulgent desserts.
+rating: 1.0
+progenitor_customer: customer_0048
+menu_features:
+  Sweet Corn Tostadas: 9.81
+  Spicy Beef Empanadas: 9.63
+  Loaded Nacho Fries: 8.72
+  Tequila Lime Shrimp Skewers: 16.28
+  Tex-Mex Fajita Wrap: 12.54
+  Ancho Chili Chocolate Cake: 7.46
+  Chipotle Lime Chicken Skewers: 11.78
+  Spiced Pumpkin Empanadas: 6.21
+  Zesty Lime Grilled Chicken: 12.97
+  Chili Chocolate Lava Cake: 7.45
+  Spicy Street Corn: 4.91
+  Fresh Watermelon Aqua Fresca: 3.87
+  Cocoa Cinnamon Tequila: 9.77
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Sweet Corn Tostadas: 9.03
+  Spicy Beef Empanadas: 8.86
+  Loaded Nacho Fries: 8.02
+  Tequila Lime Shrimp Skewers: 14.98
+  Tex-Mex Fajita Wrap: 11.54
+  Ancho Chili Chocolate Cake: 6.86
+  Chipotle Lime Chicken Skewers: 10.84
+  Spiced Pumpkin Empanadas: 5.71
+  Zesty Lime Grilled Chicken: 11.93
+  Chili Chocolate Lava Cake: 6.85
+  Spicy Street Corn: 4.52
+  Fresh Watermelon Aqua Fresca: 3.56
+  Cocoa Cinnamon Tequila: 8.99

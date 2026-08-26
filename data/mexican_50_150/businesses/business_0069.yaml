@@ -1,0 +1,43 @@
+id: business_0069
+name: "Casa Pi\xF1a y Chile"
+description: "Immerse yourself in vibrant Mexican and Tex-Mex flavors with a fresh\
+  \ twist. At Casa Pi\xF1a y Chile, each dish is crafted with authentic spices, bright\
+  \ salsas, and a touch of tropical flair."
+rating: 1.0
+progenitor_customer: customer_0023
+menu_features:
+  Chili Lime Street Corn: 7.04
+  Roasted Tomato Salsa Dip: 2.88
+  Pico de Gallo Chicken Salad: 10.2
+  Pineapple Salsa Pork Tacos: 13.23
+  Pineapple Pico de Gallo Salsa: 8.27
+  Three-Cheese Queso Dip: 7.1
+  Margarita Grilled Chicken: 13.43
+  Ancho Chile Beef Chili: 14.47
+  Jalapeno Mango Margarita: 9.59
+  Pineapple Chipotle Salsa & Chips: 5.94
+  Huevos Rancheros: 11.18
+  Chipotle Chicken Burrito Bowl: 10.67
+  Pineapple Jalapeno Margarita: 11.28
+  Flamin' Skillet Fajitas: 16.85
+  Smoky Chipotle Quesadillas: 8.09
+  Coconut Lime Tres Leches: 8.52
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Chili Lime Street Corn: 6.48
+  Roasted Tomato Salsa Dip: 2.65
+  Pico de Gallo Chicken Salad: 9.38
+  Pineapple Salsa Pork Tacos: 12.17
+  Pineapple Pico de Gallo Salsa: 7.61
+  Three-Cheese Queso Dip: 6.53
+  Margarita Grilled Chicken: 12.36
+  Ancho Chile Beef Chili: 13.31
+  Jalapeno Mango Margarita: 8.82
+  Pineapple Chipotle Salsa & Chips: 5.46
+  Huevos Rancheros: 10.29
+  Chipotle Chicken Burrito Bowl: 9.82
+  Pineapple Jalapeno Margarita: 10.38
+  Flamin' Skillet Fajitas: 15.5
+  Smoky Chipotle Quesadillas: 7.44
+  Coconut Lime Tres Leches: 7.84

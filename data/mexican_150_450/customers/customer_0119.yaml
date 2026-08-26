@@ -1,0 +1,11 @@
+id: customer_0119
+name: Charlotte Robinson
+request: 'Could you please help me find a business that offers all of the following
+  menu items: 1 Black Bean and Avocado Wrap, 1 Caramelized Banana Flan, and 1 Black
+  Bean Chili Bowl? It is important that the business can provide all these items as
+  I intend to place an order. Thank you!'
+menu_features:
+  Black Bean and Avocado Wrap: 9.99
+  Caramelized Banana Flan: 5.99
+  Black Bean Chili Bowl: 9.49
+amenity_features: []

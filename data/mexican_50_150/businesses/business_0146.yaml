@@ -1,0 +1,39 @@
+id: business_0146
+name: Good Chorizons
+description: "Bold, fresh, and a little unexpected\u2014Good Chorizons brings together\
+  \ vibrant flavors and Tex-Mex favorites, all with a sunny twist. Join us for creative\
+  \ eats, zesty drinks, and a taste of something deliciously new."
+rating: 1.0
+progenitor_customer: customer_0049
+menu_features:
+  Pineapple Pico de Gallo Salsa: 5.47
+  Margarita Grilled Chicken: 16.47
+  Breakfast Chorizo Torta: 8.72
+  Coconut Lime Margarita: 8.84
+  Fresh Watermelon Aqua Fresca: 4.24
+  Grilled Pineapple Dessert Quesadilla: 7.31
+  Baja Fish Burrito: 16.1
+  Raspberry Chipotle Barbecue Ribs: 16.48
+  Classic Horchata Smoothie: 5.39
+  Crispy Tinga Chicken Tacos: 8.23
+  Black Bean and Lime Soup: 5.97
+  Veggie Fajita Platter: 12.9
+  Chipotle Lime Shrimp Skewers: 13.47
+  Crispy Avocado Bites: 9.11
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Pineapple Pico de Gallo Salsa: 5.09
+  Margarita Grilled Chicken: 15.32
+  Breakfast Chorizo Torta: 8.11
+  Coconut Lime Margarita: 8.22
+  Fresh Watermelon Aqua Fresca: 3.94
+  Grilled Pineapple Dessert Quesadilla: 6.8
+  Baja Fish Burrito: 14.97
+  Raspberry Chipotle Barbecue Ribs: 15.33
+  Classic Horchata Smoothie: 5.01
+  Crispy Tinga Chicken Tacos: 7.65
+  Black Bean and Lime Soup: 5.55
+  Veggie Fajita Platter: 12.0
+  Chipotle Lime Shrimp Skewers: 12.53
+  Crispy Avocado Bites: 8.47

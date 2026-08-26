@@ -1,0 +1,39 @@
+id: business_0180
+name: Savor & Spice Modern Mex
+description: Experience a vibrant twist on classic Mexican and Tex-Mex cuisine in
+  a lively, modern setting. Savor & Spice blends bold flavors, fresh ingredients,
+  and creative drinks for a deliciously memorable dining experience.
+rating: 1.0
+progenitor_customer: customer_0060
+menu_features:
+  Al Pastor Quesadilla: 14.43
+  Garlic Lime Shrimp Salad: 11.61
+  Classic Horchata Smoothie: 5.19
+  Pineapple Habanero Sake: 7.93
+  Creamy Avocado Smoothie: 5.07
+  Cilantro Lime Chicken Tacos: 13.17
+  Black Bean Avocado Tostadas: 10.8
+  Adobo Pork Sliders: 10.68
+  Fajita Veggie Burrito Bowl: 12.75
+  Mango Agua Fresca: 3.44
+  Sea Breeze Ceviche: 12.39
+  Tamarind-Glazed Ribs: 17.36
+  Tres Leches Cake: 8.34
+  Three-Cheese Queso Dip: 6.43
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Al Pastor Quesadilla: 9.24
+  Garlic Lime Shrimp Salad: 7.43
+  Classic Horchata Smoothie: 3.32
+  Pineapple Habanero Sake: 5.08
+  Creamy Avocado Smoothie: 3.24
+  Cilantro Lime Chicken Tacos: 8.43
+  Black Bean Avocado Tostadas: 6.91
+  Adobo Pork Sliders: 6.84
+  Fajita Veggie Burrito Bowl: 8.16
+  Mango Agua Fresca: 2.2
+  Sea Breeze Ceviche: 7.93
+  Tamarind-Glazed Ribs: 11.11
+  Tres Leches Cake: 5.34
+  Three-Cheese Queso Dip: 4.12

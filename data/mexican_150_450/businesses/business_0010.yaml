@@ -1,0 +1,47 @@
+id: business_0010
+name: Lime & Fire
+description: Lime & Fire offers a vibrant and modern twist on Mexican and Tex-Mex
+  classics, blending zesty flavors with a hint of smoky spice. Enjoy a fresh, colorful
+  menu crafted with bold salsas, fire-roasted chiles, and unique house-made dips.
+rating: 1.0
+progenitor_customer: customer_0004
+menu_features:
+  Tomatillo Ranch Enchiladas: 11.85
+  Hatch Green Chile Quesadilla: 12.28
+  Avocado Lime Dip: 8.14
+  Roasted Poblano Rellenos: 15.86
+  Passion Fruit Mojito: 10.91
+  Loaded Nacho Platter: 11.6
+  Margarita Grilled Chicken: 16.07
+  Spicy Chocolate Churros: 4.77
+  Tomatillo Salsa Verde Nachos: 10.31
+  Avocado Lime Salsa: 5.19
+  Cilantro Lime Chicken Tacos: 11.9
+  Avocado Lime Cheesecake: 7.3
+  Spice-Rubbed Grilled Fajitas: 16.54
+  Smoky Chipotle BBQ Nachos: 12.39
+  Classic Tortilla Soup: 7.12
+  Tamarind Ginger Cooler: 4.71
+  Spicy Pineapple Salsa Dip: 5.52
+  Strawberry Jalapeno Lemonade: 3.66
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Tomatillo Ranch Enchiladas: 8.41
+  Hatch Green Chile Quesadilla: 8.72
+  Avocado Lime Dip: 5.78
+  Roasted Poblano Rellenos: 11.26
+  Passion Fruit Mojito: 7.75
+  Loaded Nacho Platter: 8.24
+  Margarita Grilled Chicken: 11.41
+  Spicy Chocolate Churros: 3.39
+  Tomatillo Salsa Verde Nachos: 7.32
+  Avocado Lime Salsa: 3.68
+  Cilantro Lime Chicken Tacos: 8.45
+  Avocado Lime Cheesecake: 5.18
+  Spice-Rubbed Grilled Fajitas: 11.74
+  Smoky Chipotle BBQ Nachos: 8.8
+  Classic Tortilla Soup: 5.06
+  Tamarind Ginger Cooler: 3.34
+  Spicy Pineapple Salsa Dip: 3.92
+  Strawberry Jalapeno Lemonade: 2.6

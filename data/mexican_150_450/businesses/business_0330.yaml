@@ -1,0 +1,39 @@
+id: business_0330
+name: Holy Smokes & Honey Glaze
+description: Dive into bold Mexican and Tex-Mex flavors where smoky meats, honey-infused
+  glazes, and zesty salsas meet creative twists. Experience a vibrant journey through
+  savory classics and surprising sweet finishes.
+rating: 1.0
+progenitor_customer: customer_0110
+menu_features:
+  Ancho Honey-Glazed Salmon: 18.52
+  Breakfast Burrito Bowl: 8.24
+  Tequila Lime Grilled Shrimp: 13.83
+  Spiced Chocolate Flan: 7.61
+  Loaded Chorizo Nachos: 10.79
+  Pineapple Jalapeno Margarita: 7.33
+  Crispy Fish Baja Bowl: 11.81
+  Pork Carnitas Platter: 15.79
+  Honey Lime Chicken Fajitas: 11.84
+  Avocado Ranch Burrito Bowl: 11.74
+  Crispy Chicken Tostada Bowls: 14.24
+  Chipotle Lime Chicken Skewers: 13.16
+  Cheesy Jalapeno Queso: 7.27
+  Chili Chocolate Lava Cake: 6.72
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Ancho Honey-Glazed Salmon: 11.3
+  Breakfast Burrito Bowl: 5.03
+  Tequila Lime Grilled Shrimp: 8.44
+  Spiced Chocolate Flan: 4.64
+  Loaded Chorizo Nachos: 6.58
+  Pineapple Jalapeno Margarita: 4.47
+  Crispy Fish Baja Bowl: 7.2
+  Pork Carnitas Platter: 9.63
+  Honey Lime Chicken Fajitas: 7.22
+  Avocado Ranch Burrito Bowl: 7.16
+  Crispy Chicken Tostada Bowls: 8.69
+  Chipotle Lime Chicken Skewers: 8.03
+  Cheesy Jalapeno Queso: 4.43
+  Chili Chocolate Lava Cake: 4.1

@@ -1,0 +1,45 @@
+id: business_0111
+name: Mesa del Mar y Tierra
+description: Experience the bold flavors of Mexico and the Southwest with a vibrant
+  selection of coastal and classic dishes. Fresh ingredients, sizzling skillets, and
+  bright citrus infuse every meal at Mesa del Mar y Tierra.
+rating: 1.0
+progenitor_customer: customer_0037
+menu_features:
+  Baja Fish Burrito: 13.41
+  Pork Carnitas Platter: 15.6
+  Black Bean Street Tacos: 12.71
+  Crispy Tortilla Breakfast Bowl: 7.75
+  Sizzling Beef Alambre: 12.83
+  Tequila Lime Grilled Chicken: 12.18
+  Spicy Avocado Smash Burger: 11.53
+  Chili Lime Roasted Corn: 4.98
+  Grilled Pineapple Mojito: 8.08
+  Black Bean and Lime Soup: 5.93
+  Spicy Chipotle Chicken Wrap: 9.94
+  Vegetarian Tamale Platter: 11.78
+  Grilled Pineapple and Pork Tacos: 10.65
+  Roasted Poblano Veggie Skillet: 8.46
+  Zesty Lime Shrimp Salad: 12.26
+  Passion Fruit Agua Fresca: 4.28
+  Braised Beef Barbacoa Tacos: 11.65
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Baja Fish Burrito: 9.66
+  Pork Carnitas Platter: 11.23
+  Black Bean Street Tacos: 9.15
+  Crispy Tortilla Breakfast Bowl: 5.58
+  Sizzling Beef Alambre: 9.24
+  Tequila Lime Grilled Chicken: 8.77
+  Spicy Avocado Smash Burger: 8.3
+  Chili Lime Roasted Corn: 3.59
+  Grilled Pineapple Mojito: 5.82
+  Black Bean and Lime Soup: 4.27
+  Spicy Chipotle Chicken Wrap: 7.16
+  Vegetarian Tamale Platter: 8.48
+  Grilled Pineapple and Pork Tacos: 7.67
+  Roasted Poblano Veggie Skillet: 6.09
+  Zesty Lime Shrimp Salad: 8.83
+  Passion Fruit Agua Fresca: 3.08
+  Braised Beef Barbacoa Tacos: 8.39

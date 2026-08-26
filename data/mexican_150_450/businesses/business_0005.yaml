@@ -1,0 +1,41 @@
+id: business_0005
+name: Sizzle & Salsa
+description: Savor the vibrant flavors of Mexico and the Southwest with sizzling specialties
+  and fresh, zesty salsas. Enjoy a welcoming atmosphere where every bite is a fiesta
+  of taste.
+rating: 1.0
+progenitor_customer: customer_0002
+menu_features:
+  Mexican Chocolate Flan: 6.21
+  Honey Lime Fajita Sizzlers: 14.49
+  Cinnamon Sugar Churro Sticks: 6.45
+  Fresh Lime and Cilantro Guacamole: 8.21
+  Chili Lime Skirt Steak: 21.21
+  Avocado Lime Salad: 7.94
+  Pineapple Chipotle Salsa & Chips: 6.58
+  Spicy Chicken Tortilla Soup: 6.29
+  Fresh Watermelon Aqua Fresca: 4.52
+  Caramelized Onion Queso Dip: 7.66
+  Beef Enchiladas Verdes: 14.41
+  "Cheesy Jalape\xF1o Queso Dip": 7.52
+  Zesty Lime Shrimp Salad: 12.18
+  Tamarind-Glazed Ribs: 14.24
+  Fiesta Street Corn: 4.95
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Mexican Chocolate Flan: 5.65
+  Honey Lime Fajita Sizzlers: 13.19
+  Cinnamon Sugar Churro Sticks: 5.87
+  Fresh Lime and Cilantro Guacamole: 7.47
+  Chili Lime Skirt Steak: 19.3
+  Avocado Lime Salad: 7.23
+  Pineapple Chipotle Salsa & Chips: 5.99
+  Spicy Chicken Tortilla Soup: 5.72
+  Fresh Watermelon Aqua Fresca: 4.11
+  Caramelized Onion Queso Dip: 6.97
+  Beef Enchiladas Verdes: 13.11
+  "Cheesy Jalape\xF1o Queso Dip": 6.84
+  Zesty Lime Shrimp Salad: 11.08
+  Tamarind-Glazed Ribs: 12.96
+  Fiesta Street Corn: 4.5

@@ -1,0 +1,35 @@
+id: business_0126
+name: Citrico & Comal
+description: Citrico & Comal brings a fresh, modern twist to classic Mexican and Tex-Mex
+  flavors, featuring vibrant citrus notes, bold spices, and savory comfort fare. Experience
+  creative dishes and refreshing drinks in a stylish, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0042
+menu_features:
+  Margarita Lime Cheesecake: 5.85
+  Pineapple Jalapeno Margarita: 8.21
+  Breakfast Chorizo Torta: 10.58
+  Creamy Poblano Corn Chowder: 8.58
+  Spicy Black Bean Enchiladas: 9.49
+  Jicama and Citrus Salad: 6.13
+  Ancho Chili Braised Beef Enchiladas: 14.09
+  Crispy Fish Tacos: 11.54
+  Chocolate Molten Tamale: 6.97
+  Street Style Corn on the Cob: 5.03
+  Black Bean Stuffed Sweet Potatoes: 8.65
+  Chipotle Bean Burrito: 8.74
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Margarita Lime Cheesecake: 3.74
+  Pineapple Jalapeno Margarita: 5.25
+  Breakfast Chorizo Torta: 6.77
+  Creamy Poblano Corn Chowder: 5.49
+  Spicy Black Bean Enchiladas: 6.07
+  Jicama and Citrus Salad: 3.92
+  Ancho Chili Braised Beef Enchiladas: 9.02
+  Crispy Fish Tacos: 7.39
+  Chocolate Molten Tamale: 4.46
+  Street Style Corn on the Cob: 3.22
+  Black Bean Stuffed Sweet Potatoes: 5.54
+  Chipotle Bean Burrito: 5.59

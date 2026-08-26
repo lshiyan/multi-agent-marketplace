@@ -1,0 +1,41 @@
+id: business_0008
+name: Casa de Sabores
+description: Experience a vibrant fusion of Mexican and Tex-Mex classics in a warm,
+  inviting atmosphere. From zesty street-style bites to refreshing drinks and sweet
+  treats, every meal is a flavorful celebration.
+rating: 1.0
+progenitor_customer: customer_0003
+menu_features:
+  Smoky Chipotle BBQ Wings: 11.03
+  Three-Cheese Enchilada Stack: 12.44
+  Creamy Avocado Smoothie: 5.32
+  Warm Cinnamon Churros: 5.24
+  Adobo Roasted Corn Salad: 7.46
+  Pico Avocado Toast: 8.84
+  Ultimate Nacho Platter: 8.48
+  Grilled Steak Quesadilla: 12.61
+  Fajita Veggie Burrito Bowl: 9.33
+  Avocado Ranch Burrito Bowl: 11.0
+  Passion Fruit Mojito: 6.88
+  Peppered Steak Nachos: 10.4
+  Street Style Quesadillas: 6.94
+  Horchata Latte: 5.64
+  Lime-Cilantro Quinoa Salad: 10.72
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Smoky Chipotle BBQ Wings: 7.83
+  Three-Cheese Enchilada Stack: 8.83
+  Creamy Avocado Smoothie: 3.78
+  Warm Cinnamon Churros: 3.72
+  Adobo Roasted Corn Salad: 5.3
+  Pico Avocado Toast: 6.28
+  Ultimate Nacho Platter: 6.02
+  Grilled Steak Quesadilla: 8.95
+  Fajita Veggie Burrito Bowl: 6.62
+  Avocado Ranch Burrito Bowl: 7.81
+  Passion Fruit Mojito: 4.88
+  Peppered Steak Nachos: 7.38
+  Street Style Quesadillas: 4.93
+  Horchata Latte: 4.0
+  Lime-Cilantro Quinoa Salad: 7.61

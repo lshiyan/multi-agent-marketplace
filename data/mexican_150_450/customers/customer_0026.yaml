@@ -1,0 +1,10 @@
+id: customer_0026
+name: Liam O'Brien
+request: 'Please find a business that can fulfill an order for the following menu
+  items: 1 Blueberry Agave Mojito, 1 Tex-Mex Breakfast Skillet, and 1 Mexican Street
+  Corn Dip. I intend to place an order for these items. Thank you for your assistance.'
+menu_features:
+  Blueberry Agave Mojito: 8.75
+  Tex-Mex Breakfast Skillet: 8.99
+  Mexican Street Corn Dip: 9.49
+amenity_features: []

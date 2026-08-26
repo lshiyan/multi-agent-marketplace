@@ -1,0 +1,11 @@
+id: customer_0120
+name: Joseph Murphy
+request: 'I am looking to place an order for the following items and would appreciate
+  your help in finding a business that offers all of them: Fresh Mango Salsa Nachos
+  (1), Blueberry Mint Agua Fresca (1), and Ancho Chili Spiced Ribs (1). Once a suitable
+  business is found, I intend to place this order. Thank you for your assistance.'
+menu_features:
+  Fresh Mango Salsa Nachos: 8.69
+  Blueberry Mint Agua Fresca: 3.99
+  Ancho Chili Spiced Ribs: 15.99
+amenity_features: []

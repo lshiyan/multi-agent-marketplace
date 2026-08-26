@@ -1,0 +1,37 @@
+id: business_0073
+name: Rib Eye of the Beholder
+description: A bold Tex-Mex spot where smoky, citrusy flavors meet inventive spins
+  on classic favorites. Come savor hearty breakfasts, sizzling grill plates, and vibrant
+  cocktails in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0025
+menu_features:
+  Tex-Mex Big Breakfast Bowl: 13.22
+  Smoky Chipotle BBQ Ribs: 12.42
+  Mesquite Grilled Steak Fajitas: 12.49
+  Cilantro Lime Grilled Shrimp: 13.88
+  Citrus Marinated Carne Asada: 16.16
+  Honey Lime Chicken Skewers: 12.59
+  Roasted Corn and Black Bean Salad: 8.0
+  Beef Barbacoa Burrito Bowl: 14.75
+  Cheesy Jalapeno Queso: 8.55
+  Chili Lime Shrimp Skewers: 10.27
+  Charred Corn & Cotija Nachos: 7.38
+  Housemade Horchata: 3.39
+  Tamarind Citrus Margarita: 10.93
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Tex-Mex Big Breakfast Bowl: 11.1
+  Smoky Chipotle BBQ Ribs: 10.43
+  Mesquite Grilled Steak Fajitas: 10.49
+  Cilantro Lime Grilled Shrimp: 11.66
+  Citrus Marinated Carne Asada: 13.57
+  Honey Lime Chicken Skewers: 10.58
+  Roasted Corn and Black Bean Salad: 6.72
+  Beef Barbacoa Burrito Bowl: 12.39
+  Cheesy Jalapeno Queso: 7.18
+  Chili Lime Shrimp Skewers: 8.63
+  Charred Corn & Cotija Nachos: 6.2
+  Housemade Horchata: 2.85
+  Tamarind Citrus Margarita: 9.18

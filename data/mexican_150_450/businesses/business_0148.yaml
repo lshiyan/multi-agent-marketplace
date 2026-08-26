@@ -1,0 +1,42 @@
+id: business_0148
+name: Corn & Cream Modern Mex
+description: A fresh take on Mexican and Tex-Mex classics, Corn & Cream Modern Mex
+  serves up vibrant salads, sizzling mains, and decadent desserts in a lively, stylish
+  setting. Experience a celebration of bold flavors and creative twists on your favorite
+  dishes.
+rating: 1.0
+progenitor_customer: customer_0050
+menu_features:
+  Tequila Lime Flan: 8.43
+  Classic Flan Delight: 7.94
+  Creamy Avocado Caesar Salad: 13.77
+  Roasted Corn and Black Bean Salad: 8.15
+  Grilled Elote Corn: 4.32
+  Toasted Coconut Flan: 5.27
+  Loaded Nachos Grande: 9.82
+  Black Bean Taco Bowl: 8.78
+  Zesty Shrimp Quesadillas: 11.2
+  Grilled Chipotle Chicken Burrito: 13.19
+  Black Bean Street Tacos: 9.35
+  Sizzling Fajita Fiesta: 15.49
+  Roasted Corn Enchiladas: 10.63
+  Spicy Chicken Tortilla Soup: 6.05
+  Blue Corn Tortilla Tacos: 10.03
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Tequila Lime Flan: 7.67
+  Classic Flan Delight: 7.23
+  Creamy Avocado Caesar Salad: 12.53
+  Roasted Corn and Black Bean Salad: 7.42
+  Grilled Elote Corn: 3.93
+  Toasted Coconut Flan: 4.8
+  Loaded Nachos Grande: 8.94
+  Black Bean Taco Bowl: 7.99
+  Zesty Shrimp Quesadillas: 10.19
+  Grilled Chipotle Chicken Burrito: 12.0
+  Black Bean Street Tacos: 8.51
+  Sizzling Fajita Fiesta: 14.1
+  Roasted Corn Enchiladas: 9.67
+  Spicy Chicken Tortilla Soup: 5.51
+  Blue Corn Tortilla Tacos: 9.13

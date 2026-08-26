@@ -1,0 +1,43 @@
+id: business_0267
+name: Lime & Luna Kitchen
+description: Experience vibrant Mexican and Tex-Mex flavors in a lively, modern setting.
+  Lime & Luna Kitchen offers fresh, bold dishes and creative desserts inspired by
+  classic and contemporary traditions.
+rating: 1.0
+progenitor_customer: customer_0089
+menu_features:
+  Chipotle Lime Chicken Salad: 9.27
+  Spiced Churro Bites: 5.15
+  Midnight Mole Enchiladas: 15.26
+  Roasted Tomato Salsa Dip: 3.56
+  Avocado Lime Cheesecake: 5.37
+  Citrus Grilled Chicken Tacos: 13.91
+  Coconut Lime Shrimp Skewers: 14.04
+  Spicy Mango Margarita: 8.49
+  Smoky Chipotle Quesadillas: 10.1
+  Queso Fundido with Chorizo: 8.97
+  Loaded Chorizo Nachos: 10.26
+  Coconut Flan Delight: 6.37
+  Loaded Nacho Platter: 8.5
+  Blue Corn Tortilla Chips: 5.01
+  Veggie Fajita Platter: 12.93
+  Black Bean and Corn Fiesta Salad: 9.42
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Chipotle Lime Chicken Salad: 5.84
+  Spiced Churro Bites: 3.24
+  Midnight Mole Enchiladas: 9.61
+  Roasted Tomato Salsa Dip: 2.24
+  Avocado Lime Cheesecake: 3.38
+  Citrus Grilled Chicken Tacos: 8.76
+  Coconut Lime Shrimp Skewers: 8.85
+  Spicy Mango Margarita: 5.35
+  Smoky Chipotle Quesadillas: 6.36
+  Queso Fundido with Chorizo: 5.65
+  Loaded Chorizo Nachos: 6.46
+  Coconut Flan Delight: 4.01
+  Loaded Nacho Platter: 5.36
+  Blue Corn Tortilla Chips: 3.16
+  Veggie Fajita Platter: 8.15
+  Black Bean and Corn Fiesta Salad: 5.93

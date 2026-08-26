@@ -1,0 +1,10 @@
+id: customer_0116
+name: David Thomas
+request: Could you please assist me in finding a business that offers both 'Street
+  Corn Fritters' in a quantity of 1 and 'Creamy Avocado Soup' in a quantity of 1?
+  It is important that the business is able to fulfill both these specific items.
+  Once located, I intend to place an order for them. Thank you.
+menu_features:
+  Street Corn Fritters: 6.99
+  Creamy Avocado Soup: 7.49
+amenity_features: []

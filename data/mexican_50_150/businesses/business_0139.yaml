@@ -1,0 +1,33 @@
+id: business_0139
+name: Guac, Stock & Barrel
+description: Where zesty flavors, smoky spices, and fresh ingredients come together
+  for a bold, modern twist on Mexican and Tex-Mex classics. Enjoy vibrant salads,
+  creative cocktails, and innovative desserts in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0047
+menu_features:
+  Classic Lime Margarita: 9.78
+  Twice-Baked Sweet Potato: 7.07
+  Zesty Lime Shrimp Salad: 12.06
+  Hibiscus Iced Tea: 3.84
+  Pumpkin Spice Flan: 6.48
+  Pineapple Agua Fresca: 3.63
+  Ancho Chili Spiced Ribs: 20.49
+  Creamy Avocado Caesar Salad: 8.71
+  Grilled Pineapple Dessert Quesadilla: 7.91
+  Creamy Avocado Soup: 6.63
+  Grilled Shrimp Quesadilla: 11.09
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Classic Lime Margarita: 8.7
+  Twice-Baked Sweet Potato: 6.29
+  Zesty Lime Shrimp Salad: 10.73
+  Hibiscus Iced Tea: 3.42
+  Pumpkin Spice Flan: 5.77
+  Pineapple Agua Fresca: 3.23
+  Ancho Chili Spiced Ribs: 18.24
+  Creamy Avocado Caesar Salad: 7.75
+  Grilled Pineapple Dessert Quesadilla: 7.04
+  Creamy Avocado Soup: 5.9
+  Grilled Shrimp Quesadilla: 9.87

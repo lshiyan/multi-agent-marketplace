@@ -1,0 +1,43 @@
+id: business_0354
+name: Peppercorn & Poblano
+description: Experience a vibrant twist on Mexican and Tex-Mex classics with sizzling
+  flavors and garden-fresh ingredients. Enjoy bold spices, zesty sauces, and hearty
+  plates in a warm, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0118
+menu_features:
+  Stuffed Poblano Peppers: 10.93
+  Hatch Green Chile Rice: 4.79
+  Adobo Pork Sliders: 10.98
+  Honey-Lime Shrimp Skewers: 16.69
+  Cheesy Jalapeno Queso: 6.23
+  Roasted Corn Elote: 4.06
+  Chili Lime Roasted Corn: 4.74
+  Roasted Corn and Black Bean Salad: 9.9
+  Chipotle Lime Chicken Skewers: 9.82
+  Spicy Chocolate Lava Cake: 8.09
+  Chipotle Bean Burrito: 9.11
+  Spicy Black Bean and Cheese Quesadilla: 9.81
+  Creamy Queso Dip: 7.83
+  Grilled Elote Corn: 4.49
+  Mexican Chocolate Lava Cake: 7.3
+  Lime-Cilantro Quinoa Salad: 9.4
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Stuffed Poblano Peppers: 8.09
+  Hatch Green Chile Rice: 3.54
+  Adobo Pork Sliders: 8.13
+  Honey-Lime Shrimp Skewers: 12.35
+  Cheesy Jalapeno Queso: 4.61
+  Roasted Corn Elote: 3.0
+  Chili Lime Roasted Corn: 3.51
+  Roasted Corn and Black Bean Salad: 7.33
+  Chipotle Lime Chicken Skewers: 7.27
+  Spicy Chocolate Lava Cake: 5.99
+  Chipotle Bean Burrito: 6.74
+  Spicy Black Bean and Cheese Quesadilla: 7.26
+  Creamy Queso Dip: 5.79
+  Grilled Elote Corn: 3.32
+  Mexican Chocolate Lava Cake: 5.4
+  Lime-Cilantro Quinoa Salad: 6.96

@@ -1,0 +1,43 @@
+id: business_0253
+name: Margarita & Mingle
+description: Margarita & Mingle is a lively spot for inspired Mexican and Tex-Mex
+  cuisine, featuring bold flavors and imaginative cocktails. Gather with friends and
+  savor a colorful array of classic and creative dishes in a warm, modern setting.
+rating: 1.0
+progenitor_customer: customer_0085
+menu_features:
+  Shrimp Ceviche Cups: 11.79
+  Salted Caramel Margarita: 10.06
+  Crispy Fish Tacos: 11.42
+  Stuffed Chicken Poblano: 16.72
+  Three-Cheese Enchilada Stack: 11.6
+  Pumpkin Spice Flan: 4.73
+  Ancho Chili Braised Beef Enchiladas: 12.68
+  Tangy Tomato Salsa Soup: 9.51
+  "Blueberry Jalape\xF1o Margarita": 9.76
+  Crispy Avocado Tacos: 11.81
+  Mexican Chocolate Brownie: 5.95
+  Breakfast Chorizo Tostadas: 7.85
+  Spicy Chocolate Churros: 5.64
+  Black Bean and Sweet Potato Empanadas: 9.69
+  Blueberry Tequila Sunrise: 8.33
+  Loaded Sweet Potato Fries: 7.2
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Shrimp Ceviche Cups: 7.31
+  Salted Caramel Margarita: 6.24
+  Crispy Fish Tacos: 7.08
+  Stuffed Chicken Poblano: 10.37
+  Three-Cheese Enchilada Stack: 7.19
+  Pumpkin Spice Flan: 2.93
+  Ancho Chili Braised Beef Enchiladas: 7.86
+  Tangy Tomato Salsa Soup: 5.9
+  "Blueberry Jalape\xF1o Margarita": 6.05
+  Crispy Avocado Tacos: 7.32
+  Mexican Chocolate Brownie: 3.69
+  Breakfast Chorizo Tostadas: 4.87
+  Spicy Chocolate Churros: 3.5
+  Black Bean and Sweet Potato Empanadas: 6.01
+  Blueberry Tequila Sunrise: 5.16
+  Loaded Sweet Potato Fries: 4.46

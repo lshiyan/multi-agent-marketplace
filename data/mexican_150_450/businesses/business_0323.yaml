@@ -1,0 +1,34 @@
+id: business_0323
+name: Mesa Mingle Kitchen
+description: Experience a modern twist on Mexican and Tex-Mex favorites at Mesa Mingle
+  Kitchen, where fresh flavors and vibrant ingredients take center stage. From creative
+  tacos and baked enchiladas to bold beverages and decadent desserts, every dish is
+  crafted to delight.
+rating: 1.0
+progenitor_customer: customer_0108
+menu_features:
+  Pineapple Salsa Pork Tacos: 10.11
+  Passionfruit Agua Fresca: 3.11
+  Horchata Iced Latte: 4.89
+  Blue Corn Enchilada Bake: 11.06
+  Black Bean Avocado Enchiladas: 11.76
+  Chili Chocolate Lava Cake: 8.56
+  "Spicy Jalape\xF1o Limeade": 3.09
+  Cilantro Lime Chicken Tacos: 14.74
+  Stuffed Chicken Poblano: 16.5
+  Crispy Fish Tacos: 12.4
+  Hatch Green Chile Quesadilla: 11.59
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Pineapple Salsa Pork Tacos: 8.19
+  Passionfruit Agua Fresca: 2.52
+  Horchata Iced Latte: 3.96
+  Blue Corn Enchilada Bake: 8.96
+  Black Bean Avocado Enchiladas: 9.53
+  Chili Chocolate Lava Cake: 6.93
+  "Spicy Jalape\xF1o Limeade": 2.5
+  Cilantro Lime Chicken Tacos: 11.94
+  Stuffed Chicken Poblano: 13.37
+  Crispy Fish Tacos: 10.04
+  Hatch Green Chile Quesadilla: 9.39

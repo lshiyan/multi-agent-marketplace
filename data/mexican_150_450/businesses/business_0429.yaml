@@ -1,0 +1,37 @@
+id: business_0429
+name: Tostada & Tequila
+description: Wake up your taste buds with vibrant Mexican brunch flavors and handcrafted
+  cocktails in a lively, welcoming atmosphere. From savory breakfast creations to
+  sweet treats, enjoy a fresh twist on tradition with every bite and sip.
+rating: 1.0
+progenitor_customer: customer_0143
+menu_features:
+  Pumpkin Spice Flan: 6.59
+  Avocado Lime Dip: 6.63
+  Chorizo Breakfast Burrito: 10.15
+  Fresh Corn Elote: 4.4
+  Warm Cinnamon Churros: 5.94
+  Crispy Tinga Chicken Tacos: 8.76
+  Blue Agave Tequila Sunrise: 7.71
+  Breakfast Tostada Stack: 13.32
+  Spicy Cucumber Margarita: 6.66
+  Sunrise Breakfast Tacos: 11.92
+  Baja Shrimp Quesadilla: 13.29
+  Grilled Pineapple & Shrimp Quesadillas: 11.9
+  Loaded Nacho Fries: 9.34
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Pumpkin Spice Flan: 5.27
+  Avocado Lime Dip: 5.3
+  Chorizo Breakfast Burrito: 8.12
+  Fresh Corn Elote: 3.52
+  Warm Cinnamon Churros: 4.75
+  Crispy Tinga Chicken Tacos: 7.01
+  Blue Agave Tequila Sunrise: 6.17
+  Breakfast Tostada Stack: 10.66
+  Spicy Cucumber Margarita: 5.33
+  Sunrise Breakfast Tacos: 9.54
+  Baja Shrimp Quesadilla: 10.63
+  Grilled Pineapple & Shrimp Quesadillas: 9.52
+  Loaded Nacho Fries: 7.47

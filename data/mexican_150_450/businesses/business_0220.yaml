@@ -1,0 +1,39 @@
+id: business_0220
+name: Copa Verde Cantina
+description: Experience vibrant, modern Mexican and Tex-Mex flavors in a lively setting
+  at Copa Verde Cantina. Enjoy fresh cocktails, sizzling skillets, and creative takes
+  on classic favorites made with bold, seasonal ingredients.
+rating: 1.0
+progenitor_customer: customer_0074
+menu_features:
+  Fresh Mint Mojito: 8.94
+  Sizzling Fajita Skillet: 14.15
+  Cilantro Lime Chicken Tacos: 11.26
+  Sweet Corn Tamale Cake: 8.17
+  Spicy Avocado Smash Burger: 10.29
+  Black Bean Stuffed Sweet Potatoes: 9.65
+  Avocado Street Tacos: 8.85
+  Raspberry Jalapeno Mojito: 9.63
+  Passion Fruit Agua Fresca: 4.21
+  Smoky Chipotle Black Bean Soup: 9.7
+  Honey Lime Fajita Sizzlers: 12.37
+  Classic Flan Delight: 6.89
+  Mushroom & Cheese Tamales: 9.79
+  Blue Agave Tequila Sunrise: 8.32
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Fresh Mint Mojito: 6.53
+  Sizzling Fajita Skillet: 10.33
+  Cilantro Lime Chicken Tacos: 8.22
+  Sweet Corn Tamale Cake: 5.96
+  Spicy Avocado Smash Burger: 7.51
+  Black Bean Stuffed Sweet Potatoes: 7.04
+  Avocado Street Tacos: 6.46
+  Raspberry Jalapeno Mojito: 7.03
+  Passion Fruit Agua Fresca: 3.07
+  Smoky Chipotle Black Bean Soup: 7.08
+  Honey Lime Fajita Sizzlers: 9.03
+  Classic Flan Delight: 5.03
+  Mushroom & Cheese Tamales: 7.15
+  Blue Agave Tequila Sunrise: 6.07

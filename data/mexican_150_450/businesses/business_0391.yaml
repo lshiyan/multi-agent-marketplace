@@ -1,0 +1,43 @@
+id: business_0391
+name: Stack & Sizzle
+description: A playful, modern Mexican kitchen where layers of flavor meet smoky,
+  spicy classics and sweet delights. Dive into vibrant enchilada stacks, zesty salsas,
+  and desserts with a decadent twist in every bite.
+rating: 1.0
+progenitor_customer: customer_0131
+menu_features:
+  Rich Chocolate Tres Leches: 6.89
+  Three-Cheese Enchilada Stack: 11.19
+  Roasted Poblano Rellenos: 14.83
+  Creamy Avocado Smoothie: 4.53
+  Toasted Coconut Flan: 5.91
+  Chocolate Dipped Flan: 5.18
+  "Cheesy Jalape\xF1o Quesadillas": 8.85
+  Pineapple Jalapeno Salsa: 4.52
+  Tamale Pie Casserole: 11.78
+  Smoky Chipotle BBQ Nachos: 8.66
+  Raspberry Chipotle Barbecue Ribs: 10.88
+  Warm Churro Bites: 6.65
+  Blue Agave Tequila Sunrise: 7.38
+  Pineapple Salsa Pork Tacos: 9.52
+  Roasted Corn Enchiladas: 12.47
+  Frozen Strawberry Daiquiri: 8.75
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Rich Chocolate Tres Leches: 6.27
+  Three-Cheese Enchilada Stack: 10.18
+  Roasted Poblano Rellenos: 13.5
+  Creamy Avocado Smoothie: 4.12
+  Toasted Coconut Flan: 5.38
+  Chocolate Dipped Flan: 4.71
+  "Cheesy Jalape\xF1o Quesadillas": 8.05
+  Pineapple Jalapeno Salsa: 4.11
+  Tamale Pie Casserole: 10.72
+  Smoky Chipotle BBQ Nachos: 7.88
+  Raspberry Chipotle Barbecue Ribs: 9.9
+  Warm Churro Bites: 6.05
+  Blue Agave Tequila Sunrise: 6.72
+  Pineapple Salsa Pork Tacos: 8.66
+  Roasted Corn Enchiladas: 11.35
+  Frozen Strawberry Daiquiri: 7.96

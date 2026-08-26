@@ -1,0 +1,37 @@
+id: business_0106
+name: Citrus & Churro
+description: Experience a lively fusion of zesty flavors and sweet treats in a welcoming,
+  vibrant setting. Enjoy classic Mexican and Tex-Mex favorites with fresh, bold ingredients
+  and inventive twists.
+rating: 1.0
+progenitor_customer: customer_0036
+menu_features:
+  Avocado Lime Dip: 6.38
+  Grilled Chipotle Chicken Burrito: 10.5
+  Avocado Street Tacos: 11.05
+  Classic Horchata Smoothie: 5.61
+  Horchata Iced Latte: 3.62
+  Cinnamon Sugar Churro Sticks: 5.47
+  Warm Churro Bites: 6.73
+  Zesty Lime Grilled Shrimp: 14.49
+  Sizzling Beef Alambre: 13.47
+  Tamarind Glazed Wings: 11.09
+  Smoky Chipotle BBQ Wings: 10.61
+  Smoky Black Bean Soup: 7.28
+  Spiced Churro Bites: 5.36
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Avocado Lime Dip: 4.85
+  Grilled Chipotle Chicken Burrito: 7.98
+  Avocado Street Tacos: 8.4
+  Classic Horchata Smoothie: 4.26
+  Horchata Iced Latte: 2.75
+  Cinnamon Sugar Churro Sticks: 4.16
+  Warm Churro Bites: 5.11
+  Zesty Lime Grilled Shrimp: 11.01
+  Sizzling Beef Alambre: 10.24
+  Tamarind Glazed Wings: 8.43
+  Smoky Chipotle BBQ Wings: 8.06
+  Smoky Black Bean Soup: 5.53
+  Spiced Churro Bites: 4.07

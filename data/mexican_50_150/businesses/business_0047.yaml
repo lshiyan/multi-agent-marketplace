@@ -1,0 +1,38 @@
+id: business_0047
+name: Chili & Char Cantina
+description: Experience vibrant, contemporary Mexican and Tex-Mex flavors in a lively
+  setting, where every dish celebrates the bold, smoky, and fresh tastes of Mexico.
+  From creative tapas to spirited drinks, Chili & Char Cantina brings warm hospitality
+  and plenty of zest to your table.
+rating: 1.0
+progenitor_customer: customer_0016
+menu_features:
+  Black Bean & Cheese Enchiladas: 11.06
+  Roasted Poblano Queso Dip: 6.32
+  Pineapple Agua Fresca: 4.13
+  Honey-Lime Grilled Shrimp: 15.6
+  Chipotle BBQ Tacos: 11.58
+  Blue Corn Tortilla Chips: 3.98
+  Cocoa Cinnamon Tequila: 9.39
+  Cilantro Lime Shrimp Skewers: 12.85
+  Chili Lime Margarita: 8.27
+  Classic Beef Enchiladas: 12.09
+  Savory Chorizo Street Tacos: 12.19
+  Peach Berry Sangria: 8.43
+  Spicy Zucchini Tostadas: 9.46
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Black Bean & Cheese Enchiladas: 8.52
+  Roasted Poblano Queso Dip: 4.87
+  Pineapple Agua Fresca: 3.18
+  Honey-Lime Grilled Shrimp: 12.01
+  Chipotle BBQ Tacos: 8.92
+  Blue Corn Tortilla Chips: 3.06
+  Cocoa Cinnamon Tequila: 7.23
+  Cilantro Lime Shrimp Skewers: 9.89
+  Chili Lime Margarita: 6.37
+  Classic Beef Enchiladas: 9.31
+  Savory Chorizo Street Tacos: 9.39
+  Peach Berry Sangria: 6.49
+  Spicy Zucchini Tostadas: 7.28

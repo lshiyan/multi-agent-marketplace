@@ -1,0 +1,41 @@
+id: business_0089
+name: Salsa Street
+description: Welcome to Salsa Street, where bold Mexican flavors meet fresh, vibrant
+  ingredients in creative dishes and refreshing drinks. Enjoy a lively atmosphere
+  and a menu inspired by classic and modern favorites alike.
+rating: 1.0
+progenitor_customer: customer_0030
+menu_features:
+  Horchata Milkshake: 7.1
+  Ancho Chili Braised Beef Enchiladas: 12.72
+  Spicy Pineapple Salsa Dip: 4.49
+  Spicy Street Corn: 5.05
+  Tequila Lime Grilled Chicken: 13.23
+  Baja Shrimp Quesadilla: 10.96
+  Black Bean Stuffed Sweet Potatoes: 9.54
+  Frozen Strawberry Daiquiri: 8.21
+  Chili-Lime Cauliflower Bites: 9.51
+  Ancho Honey-Glazed Salmon: 19.63
+  Beef Fajita Skillet: 13.98
+  Green Chile Pork Stew: 16.29
+  Smoky Black Bean Nachos: 11.76
+  Roasted Poblano Quesadilla: 12.43
+  Grilled Street Corn: 6.22
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Horchata Milkshake: 6.32
+  Ancho Chili Braised Beef Enchiladas: 11.32
+  Spicy Pineapple Salsa Dip: 4.0
+  Spicy Street Corn: 4.49
+  Tequila Lime Grilled Chicken: 11.77
+  Baja Shrimp Quesadilla: 9.75
+  Black Bean Stuffed Sweet Potatoes: 8.49
+  Frozen Strawberry Daiquiri: 7.31
+  Chili-Lime Cauliflower Bites: 8.46
+  Ancho Honey-Glazed Salmon: 17.47
+  Beef Fajita Skillet: 12.44
+  Green Chile Pork Stew: 14.5
+  Smoky Black Bean Nachos: 10.47
+  Roasted Poblano Quesadilla: 11.06
+  Grilled Street Corn: 5.54

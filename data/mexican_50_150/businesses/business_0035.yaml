@@ -1,0 +1,38 @@
+id: business_0035
+name: Wrap & Roll Muchachos
+description: Bursting with bold flavors and fresh ingredients, Wrap & Roll Muchachos
+  serves up vibrant Tex-Mex favorites, inventive twists, and refreshing drinks in
+  a lively, welcoming setting. Come discover a fiesta of creative eats and colorful
+  sips with every visit!
+rating: 1.0
+progenitor_customer: customer_0012
+menu_features:
+  Black Bean Burgers: 11.94
+  Lime-Garlic Grilled Chicken: 13.41
+  Margarita Grilled Chicken: 16.37
+  Grilled Elote Corn: 4.43
+  Tex-Mex Fajita Wrap: 9.4
+  Smoky Ancho Chicken Enchiladas: 14.36
+  Black Bean and Corn Fiesta Salad: 10.63
+  Ranchero Eggs Benedict: 13.73
+  Blue Corn Tortilla Tacos: 14.48
+  Strawberry Jalapeno Lemonade: 4.33
+  Stuffed Avocado Delight: 8.19
+  Spicy Zucchini Tostadas: 9.18
+  Hibiscus Agua Fresca: 3.41
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Black Bean Burgers: 9.55
+  Lime-Garlic Grilled Chicken: 10.73
+  Margarita Grilled Chicken: 13.1
+  Grilled Elote Corn: 3.54
+  Tex-Mex Fajita Wrap: 7.52
+  Smoky Ancho Chicken Enchiladas: 11.49
+  Black Bean and Corn Fiesta Salad: 8.5
+  Ranchero Eggs Benedict: 10.98
+  Blue Corn Tortilla Tacos: 11.58
+  Strawberry Jalapeno Lemonade: 3.46
+  Stuffed Avocado Delight: 6.55
+  Spicy Zucchini Tostadas: 7.34
+  Hibiscus Agua Fresca: 2.73

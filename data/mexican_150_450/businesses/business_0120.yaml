@@ -1,0 +1,38 @@
+id: business_0120
+name: Sizzle & Swish
+description: Dive into bright, bold flavors and fresh twists at Sizzle & Swish, where
+  every dish packs a vibrant punch and culinary creativity is always on the menu.
+  Enjoy sizzling platters, zesty salads, and unforgettable desserts in a lively, welcoming
+  atmosphere.
+rating: 1.0
+progenitor_customer: customer_0040
+menu_features:
+  Crispy Fish Baja Bowl: 15.81
+  Chipotle Bourbon Carnitas: 17.03
+  Crisp Jicama Slaw: 4.31
+  Spiced Chocolate Flan: 6.74
+  Sizzling Chicken Fajitas: 12.7
+  Garlic Lime Shrimp Salad: 13.26
+  Zesty Lime Grilled Shrimp: 12.05
+  Horchata Latte: 4.63
+  Sizzling Fajita Platter: 17.17
+  Creamy Avocado Caesar Salad: 10.75
+  Smoky Black Bean Nachos: 9.26
+  Honey Lime Fajita Sizzlers: 15.88
+  Mexican Chocolate Flan: 5.8
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Crispy Fish Baja Bowl: 12.65
+  Chipotle Bourbon Carnitas: 13.62
+  Crisp Jicama Slaw: 3.45
+  Spiced Chocolate Flan: 5.39
+  Sizzling Chicken Fajitas: 10.16
+  Garlic Lime Shrimp Salad: 10.61
+  Zesty Lime Grilled Shrimp: 9.64
+  Horchata Latte: 3.7
+  Sizzling Fajita Platter: 13.74
+  Creamy Avocado Caesar Salad: 8.6
+  Smoky Black Bean Nachos: 7.41
+  Honey Lime Fajita Sizzlers: 12.7
+  Mexican Chocolate Flan: 4.64

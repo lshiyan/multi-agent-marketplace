@@ -1,0 +1,41 @@
+id: business_0436
+name: Honey & Habanero
+description: Experience vibrant Tex-Mex and Mexican-inspired flavors with a playful
+  twist at Honey & Habanero. From smoky, spicy wings to sweet, refreshing drinks and
+  desserts, enjoy a lively culinary journey in a warm, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0146
+menu_features:
+  Hatch Green Chile Rice: 4.09
+  Roasted Poblano Rellenos: 17.49
+  Huevos Rancheros: 9.28
+  Housemade Horchata: 2.38
+  Black Bean and Corn Fiesta Salad: 8.65
+  Loaded Sweet Potato Fries: 7.56
+  Mango Habanero Wings: 13.77
+  Coconut Tres Leches: 5.21
+  Passion Fruit Mojito: 8.82
+  Smoky Chipotle BBQ Ribs: 18.64
+  Horchata Milkshake: 5.7
+  Chili Lime Roasted Corn: 4.77
+  Grilled Shrimp Skewers: 15.48
+  Honey-Lime Grilled Shrimp: 13.18
+  Classic Horchata Smoothie: 5.08
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Hatch Green Chile Rice: 3.56
+  Roasted Poblano Rellenos: 15.22
+  Huevos Rancheros: 8.07
+  Housemade Horchata: 2.07
+  Black Bean and Corn Fiesta Salad: 7.53
+  Loaded Sweet Potato Fries: 6.58
+  Mango Habanero Wings: 11.98
+  Coconut Tres Leches: 4.53
+  Passion Fruit Mojito: 7.67
+  Smoky Chipotle BBQ Ribs: 16.22
+  Horchata Milkshake: 4.96
+  Chili Lime Roasted Corn: 4.15
+  Grilled Shrimp Skewers: 13.47
+  Honey-Lime Grilled Shrimp: 11.47
+  Classic Horchata Smoothie: 4.42

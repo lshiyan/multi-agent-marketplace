@@ -1,0 +1,34 @@
+id: business_0234
+name: La Mesa Alegre
+description: A vibrant gathering place celebrating bold Mexican and Tex-Mex flavors,
+  from zesty margaritas to savory enchiladas and fresh salads. Enjoy a lively atmosphere
+  with inventive starters and classic mains, made with fresh ingredients and a creative
+  twist.
+rating: 1.0
+progenitor_customer: customer_0078
+menu_features:
+  Cactus Cooler Margarita: 8.66
+  Roasted Corn Enchiladas: 11.45
+  Chipotle Lime Chicken Salad: 10.11
+  Bacon and Egg Tostada: 10.51
+  Spicy Black Bean Tacos: 9.04
+  Chipotle Lime Chicken Skewers: 15.45
+  Breakfast Chorizo Tostadas: 11.02
+  Avocado Lime Dip: 4.7
+  Black Bean and Corn Fiesta Salad: 9.54
+  Chili Lime Skirt Steak: 20.25
+  Loaded Nacho Platter: 11.03
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Cactus Cooler Margarita: 7.45
+  Roasted Corn Enchiladas: 9.85
+  Chipotle Lime Chicken Salad: 8.69
+  Bacon and Egg Tostada: 9.04
+  Spicy Black Bean Tacos: 7.77
+  Chipotle Lime Chicken Skewers: 13.29
+  Breakfast Chorizo Tostadas: 9.48
+  Avocado Lime Dip: 4.04
+  Black Bean and Corn Fiesta Salad: 8.2
+  Chili Lime Skirt Steak: 17.41
+  Loaded Nacho Platter: 9.49

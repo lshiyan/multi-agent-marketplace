@@ -1,0 +1,41 @@
+id: business_0309
+name: La Mesa de Canela y Sol
+description: A vibrant Mexican and Tex-Mex eatery celebrating bold flavors and sweet
+  delights. Enjoy a festive ambiance with a menu featuring spicy favorites, refreshing
+  drinks, and cinnamon-kissed desserts.
+rating: 1.0
+progenitor_customer: customer_0103
+menu_features:
+  Spicy Shrimp Ceviche: 10.94
+  Spicy Black Bean Enchiladas: 10.84
+  Cinnamon Sugar Sopapillas: 4.9
+  Blue Agave Tequila Sunrise: 9.36
+  Tamarind-Glazed Ribs: 19.28
+  Huevos Rancheros: 10.41
+  Chili Chocolate Lava Cake: 7.79
+  Cinnamon Sugar Churros: 4.99
+  Grilled Street Corn: 6.03
+  Passionfruit Agua Fresca: 4.24
+  "Spicy Jalape\xF1o Limeade": 3.69
+  Mango Habanero Salsa: 4.79
+  Baja Fish Tacos: 13.53
+  Spicy Chocolate Churros: 5.95
+  Poblano Pepper Queso Dip: 7.55
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Spicy Shrimp Ceviche: 8.97
+  Spicy Black Bean Enchiladas: 8.89
+  Cinnamon Sugar Sopapillas: 4.02
+  Blue Agave Tequila Sunrise: 7.68
+  Tamarind-Glazed Ribs: 15.81
+  Huevos Rancheros: 8.54
+  Chili Chocolate Lava Cake: 6.39
+  Cinnamon Sugar Churros: 4.09
+  Grilled Street Corn: 4.94
+  Passionfruit Agua Fresca: 3.48
+  "Spicy Jalape\xF1o Limeade": 3.03
+  Mango Habanero Salsa: 3.93
+  Baja Fish Tacos: 11.09
+  Spicy Chocolate Churros: 4.88
+  Poblano Pepper Queso Dip: 6.19

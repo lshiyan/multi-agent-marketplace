@@ -1,0 +1,41 @@
+id: business_0308
+name: Churro Mucho
+description: Spice up your day with a burst of flavor and a sprinkle of sweetness
+  at Churro Mucho! Dive into vibrant Mexican and Tex-Mex classics, plus irresistible
+  desserts and refreshing sips with a twist.
+rating: 1.0
+progenitor_customer: customer_0103
+menu_features:
+  Mango Habanero Salsa: 4.11
+  Black Bean Taco Bowl: 7.69
+  Crispy Carnitas Quesadilla: 10.78
+  Warm Cinnamon Churros: 5.87
+  Honey Lime Grilled Fajitas: 15.3
+  Cinnamon Churro Bites: 4.06
+  Blue Agave Tequila Sunrise: 8.68
+  Pineapple Agua Fresca: 3.36
+  Smoky Black Bean Enchiladas: 13.58
+  Smoky Chipotle Quesadillas: 9.35
+  Cinnamon Sugar Sopapillas: 5.93
+  Fajita Veggie Burrito Bowl: 13.98
+  Chipotle Lime Chicken Salad: 9.72
+  Horchata Milkshake: 6.14
+  Chili Chocolate Lava Cake: 9.19
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Mango Habanero Salsa: 2.51
+  Black Bean Taco Bowl: 4.69
+  Crispy Carnitas Quesadilla: 6.58
+  Warm Cinnamon Churros: 3.58
+  Honey Lime Grilled Fajitas: 9.33
+  Cinnamon Churro Bites: 2.48
+  Blue Agave Tequila Sunrise: 5.29
+  Pineapple Agua Fresca: 2.05
+  Smoky Black Bean Enchiladas: 8.28
+  Smoky Chipotle Quesadillas: 5.7
+  Cinnamon Sugar Sopapillas: 3.62
+  Fajita Veggie Burrito Bowl: 8.53
+  Chipotle Lime Chicken Salad: 5.93
+  Horchata Milkshake: 3.75
+  Chili Chocolate Lava Cake: 5.61

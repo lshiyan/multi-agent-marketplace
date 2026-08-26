@@ -1,0 +1,33 @@
+id: business_0118
+name: El Rancho Verde
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  inviting setting. From fresh salads to hearty stews and decadent desserts, every
+  dish is crafted to celebrate classic and contemporary tastes.
+rating: 1.0
+progenitor_customer: customer_0040
+menu_features:
+  Avocado Ranch Burrito Bowl: 11.42
+  Southwestern Quinoa Salad: 10.78
+  Verde Ranchero Huevos: 9.09
+  Classic Horchata Smoothie: 4.1
+  Fresh Limeade: 3.47
+  Grilled Steak Quesadilla: 11.21
+  Roasted Pecan Flan: 6.15
+  Raspberry Jalapeno Mojito: 8.88
+  Crisp Jicama Slaw: 5.72
+  Smoky Black Bean Nachos: 10.65
+  Hatch Green Chile Stew: 13.61
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Avocado Ranch Burrito Bowl: 8.11
+  Southwestern Quinoa Salad: 7.65
+  Verde Ranchero Huevos: 6.45
+  Classic Horchata Smoothie: 2.91
+  Fresh Limeade: 2.46
+  Grilled Steak Quesadilla: 7.96
+  Roasted Pecan Flan: 4.37
+  Raspberry Jalapeno Mojito: 6.3
+  Crisp Jicama Slaw: 4.06
+  Smoky Black Bean Nachos: 7.56
+  Hatch Green Chile Stew: 9.66

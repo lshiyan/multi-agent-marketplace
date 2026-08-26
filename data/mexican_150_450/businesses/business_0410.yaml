@@ -1,0 +1,35 @@
+id: business_0410
+name: Holy Toastada & the Pineapple Punch
+description: An inventive Mexican eatery serving up bold, crispy, and smoky flavors
+  with a tropical twist. Dive into creative plates and sweet treats in a vibrant,
+  welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0137
+menu_features:
+  Crispy Avocado Tostadas: 8.9
+  Classic Beef Barbacoa: 12.69
+  Grilled Pineapple & Shrimp Quesadillas: 13.14
+  Coffee Cinnamon Mexican Mocha: 4.51
+  Green Chile Pork Stew: 14.24
+  Spicy Pork Tamales: 12.71
+  Gourmet Nacho Platter: 10.11
+  Smoky Lime Quinoa Salad: 10.5
+  Chipotle Bourbon Carnitas: 16.22
+  Coconut Flan Delight: 4.98
+  Ranchero Steak Fajitas: 17.1
+  Grilled Elote Corn: 4.32
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Crispy Avocado Tostadas: 7.3
+  Classic Beef Barbacoa: 10.41
+  Grilled Pineapple & Shrimp Quesadillas: 10.77
+  Coffee Cinnamon Mexican Mocha: 3.7
+  Green Chile Pork Stew: 11.68
+  Spicy Pork Tamales: 10.42
+  Gourmet Nacho Platter: 8.29
+  Smoky Lime Quinoa Salad: 8.61
+  Chipotle Bourbon Carnitas: 13.3
+  Coconut Flan Delight: 4.08
+  Ranchero Steak Fajitas: 14.02
+  Grilled Elote Corn: 3.54

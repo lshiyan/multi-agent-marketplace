@@ -1,0 +1,37 @@
+id: business_0185
+name: Zestful Poblano
+description: "Discover a fresh take on Mexican and Tex-Mex classics at Zestful Poblano.\
+  \ Lively flavors and inventive twists come together for a vibrant dining experience\
+  \ that celebrates the region\u2019s bold and colorful cuisine."
+rating: 1.0
+progenitor_customer: customer_0062
+menu_features:
+  Chipotle Lime Chicken Salad: 11.61
+  Zesty Shrimp Quesadillas: 15.58
+  Breakfast Chilaquiles Verde: 9.26
+  Tequila Sunrise Smoothie: 8.51
+  Tamarind Glazed Wings: 12.09
+  Citrus Grilled Chicken Tacos: 12.81
+  Gourmet Nacho Platter: 12.38
+  Black Bean & Cheese Tostadas: 9.02
+  Chili Lime Skirt Steak: 16.83
+  Three-Cheese Enchilada Stack: 13.11
+  Pineapple Jalapeno Margarita: 8.6
+  Roasted Corn Enchiladas: 11.45
+  Roasted Poblano Rellenos: 16.59
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Chipotle Lime Chicken Salad: 9.06
+  Zesty Shrimp Quesadillas: 12.15
+  Breakfast Chilaquiles Verde: 7.22
+  Tequila Sunrise Smoothie: 6.64
+  Tamarind Glazed Wings: 9.43
+  Citrus Grilled Chicken Tacos: 9.99
+  Gourmet Nacho Platter: 9.66
+  Black Bean & Cheese Tostadas: 7.04
+  Chili Lime Skirt Steak: 13.13
+  Three-Cheese Enchilada Stack: 10.23
+  Pineapple Jalapeno Margarita: 6.71
+  Roasted Corn Enchiladas: 8.93
+  Roasted Poblano Rellenos: 12.94

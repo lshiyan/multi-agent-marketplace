@@ -1,0 +1,41 @@
+id: business_0315
+name: Smoky Quinoa Cantina
+description: Experience vibrant, modern Mexican and Tex-Mex flavors with a smoky twist.
+  Fresh ingredients and creative combinations come together for a uniquely satisfying
+  dining experience.
+rating: 1.0
+progenitor_customer: customer_0105
+menu_features:
+  Smoky Chipotle Quesadillas: 10.45
+  Red Chili Chicken Pozole: 11.45
+  Chocolate Dipped Flan: 5.18
+  Chipotle Bean Burrito: 10.32
+  Loaded Nacho Fiesta: 8.86
+  Sweet Potato and Black Bean Tacos: 12.77
+  Southwestern Quinoa Salad: 9.6
+  Pineapple Pico de Gallo Nachos: 12.25
+  Passion Fruit Mojito: 11.39
+  Sweet Corn Tamales: 10.67
+  Black Bean & Corn Enchiladas: 14.57
+  Al Pastor Quesadilla: 14.27
+  Baja Fish Taco Plate: 13.28
+  Smoky Black Bean Tostadas: 9.57
+  Crispy Carnitas Quesadilla: 10.75
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Smoky Chipotle Quesadillas: 6.58
+  Red Chili Chicken Pozole: 7.21
+  Chocolate Dipped Flan: 3.26
+  Chipotle Bean Burrito: 6.5
+  Loaded Nacho Fiesta: 5.58
+  Sweet Potato and Black Bean Tacos: 8.05
+  Southwestern Quinoa Salad: 6.05
+  Pineapple Pico de Gallo Nachos: 7.72
+  Passion Fruit Mojito: 7.18
+  Sweet Corn Tamales: 6.72
+  Black Bean & Corn Enchiladas: 9.18
+  Al Pastor Quesadilla: 8.99
+  Baja Fish Taco Plate: 8.37
+  Smoky Black Bean Tostadas: 6.03
+  Crispy Carnitas Quesadilla: 6.77

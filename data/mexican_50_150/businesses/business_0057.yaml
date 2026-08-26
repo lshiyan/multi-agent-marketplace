@@ -1,0 +1,39 @@
+id: business_0057
+name: Tamale Trail
+description: Embark on a flavor-filled journey through Mexican and Tex-Mex classics,
+  where vibrant ingredients and bold tastes come together in every dish. Experience
+  fresh twists on traditional favorites in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0019
+menu_features:
+  Verde Chicken Enchiladas: 11.64
+  Crispy Carnitas Quesadilla: 10.49
+  Roasted Pumpkin Tamale: 7.85
+  Cactus Jack Quesadilla: 10.63
+  Citrus Cilantro Rice: 5.89
+  Southwest Chopped Salad: 9.05
+  Chorizo Breakfast Tacos: 9.65
+  Black Bean & Cheese Tostadas: 10.19
+  Cilantro Lime Rice Bowl: 10.53
+  Tamarind Glazed Wings: 10.35
+  Pineapple Agua Fresca: 4.26
+  Twisted Tequila Sunrise: 8.86
+  Chipotle Shrimp Skewers: 14.34
+  Tamale Trio Sampler: 11.25
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Verde Chicken Enchiladas: 8.03
+  Crispy Carnitas Quesadilla: 7.24
+  Roasted Pumpkin Tamale: 5.42
+  Cactus Jack Quesadilla: 7.33
+  Citrus Cilantro Rice: 4.06
+  Southwest Chopped Salad: 6.24
+  Chorizo Breakfast Tacos: 6.66
+  Black Bean & Cheese Tostadas: 7.03
+  Cilantro Lime Rice Bowl: 7.27
+  Tamarind Glazed Wings: 7.14
+  Pineapple Agua Fresca: 2.94
+  Twisted Tequila Sunrise: 6.11
+  Chipotle Shrimp Skewers: 9.89
+  Tamale Trio Sampler: 7.76

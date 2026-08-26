@@ -1,0 +1,44 @@
+id: business_0033
+name: Savor Nuevo Kitchen
+description: Experience a fresh take on Mexican and Tex-Mex cuisine, where bold flavors
+  and vibrant ingredients come together in every dish. From inventive tacos to decadent
+  desserts and refreshing drinks, Savor Nuevo Kitchen is your destination for modern,
+  crave-worthy bites.
+rating: 1.0
+progenitor_customer: customer_0011
+menu_features:
+  Ancho Honey-Glazed Salmon: 15.53
+  Crispy Avocado Tacos: 14.38
+  Vanilla Flan Delight: 4.98
+  Mexican Chocolate Lava Cake: 8.46
+  Street Style Quesadillas: 9.91
+  Chocolate Churro Bites: 6.29
+  Minty Mojito Refresher: 6.98
+  Pico Avocado Toast: 8.74
+  Horchata Iced Coffee: 4.68
+  Tropical Guava Mint Punch: 6.05
+  Honey Lime Fajita Sizzlers: 18.59
+  Lime-Cilantro Quinoa Salad: 12.18
+  Jicama and Citrus Salad: 8.62
+  Avocado Lime Empanadas: 7.99
+  Roasted Poblano Queso Dip: 6.58
+  Cinnamon Churro Bites: 5.63
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Ancho Honey-Glazed Salmon: 13.51
+  Crispy Avocado Tacos: 12.51
+  Vanilla Flan Delight: 4.33
+  Mexican Chocolate Lava Cake: 7.36
+  Street Style Quesadillas: 8.62
+  Chocolate Churro Bites: 5.47
+  Minty Mojito Refresher: 6.07
+  Pico Avocado Toast: 7.6
+  Horchata Iced Coffee: 4.07
+  Tropical Guava Mint Punch: 5.26
+  Honey Lime Fajita Sizzlers: 16.17
+  Lime-Cilantro Quinoa Salad: 10.6
+  Jicama and Citrus Salad: 7.5
+  Avocado Lime Empanadas: 6.95
+  Roasted Poblano Queso Dip: 5.72
+  Cinnamon Churro Bites: 4.9

@@ -1,0 +1,10 @@
+id: customer_0058
+name: Mei Chen
+request: 'Could you please find a business that offers a menu with the following items:
+  1 Smoky Mezcal Mule and 1 Crispy Avocado Nachos? It is important that both items
+  are available, as I intend to place an order with these exact requirements. Thank
+  you.'
+menu_features:
+  Smoky Mezcal Mule: 9.49
+  Crispy Avocado Nachos: 8.49
+amenity_features: []

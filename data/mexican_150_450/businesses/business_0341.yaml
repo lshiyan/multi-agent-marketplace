@@ -1,0 +1,45 @@
+id: business_0341
+name: Chilito & Cream
+description: A modern Mexican eatery celebrating vibrant flavors and bold, spicy creations
+  alongside decadent desserts. Enjoy creative takes on classic dishes and sweet treats
+  in a lively, inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0114
+menu_features:
+  Verde Chicken Enchiladas: 11.31
+  Ancho Chile Chicken Salad: 9.79
+  Horchata Iced Coffee: 4.18
+  Mango Habanero Margarita: 7.92
+  Mexican Coffee Flan: 5.19
+  Churro Ice Cream Sandwich: 6.15
+  Fiesta Street Corn: 4.8
+  Roasted Poblano Quesadilla: 10.81
+  Charred Corn & Cotija Nachos: 7.34
+  Spicy Pork Tamales: 11.97
+  Chili Chocolate Lava Cake: 7.89
+  Ultimate Nacho Platter: 9.06
+  Spicy Avocado Smash Burger: 13.19
+  Spicy Shrimp Nacho Platter: 9.34
+  Warm Cinnamon Churros: 4.93
+  Hatch Green Chile Quesadilla: 8.8
+  Zesty Lime Grilled Shrimp: 16.12
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Verde Chicken Enchiladas: 7.24
+  Ancho Chile Chicken Salad: 6.27
+  Horchata Iced Coffee: 2.68
+  Mango Habanero Margarita: 5.07
+  Mexican Coffee Flan: 3.32
+  Churro Ice Cream Sandwich: 3.94
+  Fiesta Street Corn: 3.07
+  Roasted Poblano Quesadilla: 6.92
+  Charred Corn & Cotija Nachos: 4.7
+  Spicy Pork Tamales: 7.66
+  Chili Chocolate Lava Cake: 5.05
+  Ultimate Nacho Platter: 5.8
+  Spicy Avocado Smash Burger: 8.44
+  Spicy Shrimp Nacho Platter: 5.98
+  Warm Cinnamon Churros: 3.16
+  Hatch Green Chile Quesadilla: 5.63
+  Zesty Lime Grilled Shrimp: 10.32

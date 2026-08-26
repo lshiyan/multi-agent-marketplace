@@ -1,0 +1,37 @@
+id: business_0099
+name: Sizzle & Squeeze
+description: Savor bold flavors and zesty creations at Sizzle & Squeeze, where every
+  bite celebrates the vibrant fusion of Mexican and Tex-Mex cuisine. Bring your appetite
+  for fresh, inventive dishes in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0033
+menu_features:
+  Bacon Wrapped Jalapeno Bites: 6.43
+  Crispy Avocado Tacos: 9.01
+  Roasted Poblano Queso Dip: 7.13
+  Savory Chorizo Street Tacos: 10.91
+  Zesty Lime Shrimp Skewers: 11.98
+  Spicy Avocado Smash Burger: 11.42
+  Veggie Fajita Platter: 12.58
+  Grilled Street Corn: 6.95
+  Chocolate Molten Tamale: 7.69
+  Cilantro Lime Chicken Tacos: 12.44
+  Mexican Chocolate Brownie: 6.04
+  Chili Lime Roasted Corn: 4.84
+  Raspberry Chipotle Barbecue Ribs: 16.45
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Bacon Wrapped Jalapeno Bites: 5.92
+  Crispy Avocado Tacos: 8.29
+  Roasted Poblano Queso Dip: 6.56
+  Savory Chorizo Street Tacos: 10.04
+  Zesty Lime Shrimp Skewers: 11.02
+  Spicy Avocado Smash Burger: 10.51
+  Veggie Fajita Platter: 11.57
+  Grilled Street Corn: 6.39
+  Chocolate Molten Tamale: 7.07
+  Cilantro Lime Chicken Tacos: 11.44
+  Mexican Chocolate Brownie: 5.56
+  Chili Lime Roasted Corn: 4.45
+  Raspberry Chipotle Barbecue Ribs: 15.13

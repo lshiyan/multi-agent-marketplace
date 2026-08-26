@@ -1,0 +1,11 @@
+id: customer_0022
+name: Linda Thompson
+request: 'I would like assistance in finding a business that offers the following
+  menu items: 1 Vanilla Flan Delight, 1 Spicy Beef Empanadas, and 1 Coconut Lime Paleta.
+  It is important that all these items are available, as I intend to place an order
+  once a suitable business is found. Thank you.'
+menu_features:
+  Vanilla Flan Delight: 5.49
+  Spicy Beef Empanadas: 8.99
+  Coconut Lime Paleta: 3.99
+amenity_features: []

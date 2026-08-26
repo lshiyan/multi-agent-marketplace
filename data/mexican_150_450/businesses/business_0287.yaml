@@ -1,0 +1,43 @@
+id: business_0287
+name: Pico Lush Kitchen
+description: Experience bold, vibrant flavors and creative twists on classic Mexican
+  and Tex-Mex dishes in a lively, contemporary setting. Savory grilled specialties,
+  zesty dips, and refreshing house-made beverages await at Pico Lush Kitchen.
+rating: 1.0
+progenitor_customer: customer_0096
+menu_features:
+  Caramelized Onion Queso Dip: 7.46
+  Grilled Steak Quesadilla: 15.2
+  Pineapple Habanero Sake: 9.03
+  Zesty Lime Grilled Shrimp: 14.88
+  Spicy Chipotle Chicken Wrap: 10.38
+  Chipotle BBQ Tacos: 11.08
+  Chili Lime Watermelon Salad: 6.88
+  Grilled Pineapple & Shrimp Quesadillas: 10.31
+  Tequila Lime Flan: 8.23
+  Classic Horchata Delight: 3.63
+  Choco Flan Combo: 7.34
+  Street Style Quesadillas: 11.25
+  Guava Limeade Cooler: 5.14
+  Baja Fish Taco Plate: 13.72
+  Tamarind Glazed Wings: 11.21
+  Refreshing Agua Fresca Trio: 7.85
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Caramelized Onion Queso Dip: 5.07
+  Grilled Steak Quesadilla: 10.34
+  Pineapple Habanero Sake: 6.14
+  Zesty Lime Grilled Shrimp: 10.12
+  Spicy Chipotle Chicken Wrap: 7.06
+  Chipotle BBQ Tacos: 7.53
+  Chili Lime Watermelon Salad: 4.68
+  Grilled Pineapple & Shrimp Quesadillas: 7.01
+  Tequila Lime Flan: 5.6
+  Classic Horchata Delight: 2.47
+  Choco Flan Combo: 4.99
+  Street Style Quesadillas: 7.65
+  Guava Limeade Cooler: 3.5
+  Baja Fish Taco Plate: 9.33
+  Tamarind Glazed Wings: 7.62
+  Refreshing Agua Fresca Trio: 5.34

@@ -1,0 +1,37 @@
+id: business_0041
+name: Nacho Average Picnic
+description: Dig into a fresh spin on Mexican and Tex-Mex flavors with a vibrant menu
+  perfect for sharing. From smoky grills to sweet and spicy sips, every bite promises
+  a flavor-packed fiesta.
+rating: 1.0
+progenitor_customer: customer_0014
+menu_features:
+  Loaded Nacho Platter: 11.62
+  Ancho Chile BBQ Ribs: 19.63
+  Tequila Sunrise Smoothie: 8.83
+  Fresh Watermelon Aqua Fresca: 3.54
+  Spicy Mango Margarita: 6.84
+  Mexican Hot Chocolate: 3.54
+  Honey Lime Grilled Chicken: 14.73
+  Avocado Lime Quinoa Bowl: 9.96
+  Three-Cheese Chile Rellenos: 14.32
+  Spice-Rubbed Grilled Fajitas: 12.08
+  Grilled Pineapple & Shrimp Quesadillas: 12.5
+  Blue Corn Enchilada Bake: 13.36
+  Cactus Cooler Margarita: 8.48
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Loaded Nacho Platter: 8.48
+  Ancho Chile BBQ Ribs: 14.33
+  Tequila Sunrise Smoothie: 6.45
+  Fresh Watermelon Aqua Fresca: 2.58
+  Spicy Mango Margarita: 4.99
+  Mexican Hot Chocolate: 2.58
+  Honey Lime Grilled Chicken: 10.75
+  Avocado Lime Quinoa Bowl: 7.27
+  Three-Cheese Chile Rellenos: 10.45
+  Spice-Rubbed Grilled Fajitas: 8.82
+  Grilled Pineapple & Shrimp Quesadillas: 9.12
+  Blue Corn Enchilada Bake: 9.75
+  Cactus Cooler Margarita: 6.19

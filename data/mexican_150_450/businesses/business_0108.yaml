@@ -1,0 +1,43 @@
+id: business_0108
+name: Have Your Flan & Eat It Too
+description: A fresh twist on Mexican and Tex-Mex classics, where zesty flavors and
+  sweet finishes come together in perfect harmony. Dig into bold bites, vibrant salads,
+  street favorites, and decadent desserts in a festive setting.
+rating: 1.0
+progenitor_customer: customer_0036
+menu_features:
+  Bacon Wrapped Jalapeno Bites: 4.45
+  Black Bean Sweet Potato Burrito: 11.79
+  Street Style Quesadillas: 9.54
+  Avocado Lime Salad: 9.29
+  Ancho Chile Chicken Salad: 9.5
+  Chipotle Lime Chicken Salad: 9.92
+  Mexican Chocolate Flan: 5.23
+  Sweet Corn Tamales: 10.46
+  Sea Breeze Ceviche: 12.29
+  Verde Chicken Enchiladas: 11.13
+  Fiesta Street Corn: 5.45
+  Loaded Nacho Fries: 7.29
+  Horchata Iced Latte: 5.08
+  Sizzling Beef Alambre: 11.17
+  Pineapple Habanero Salsa: 4.48
+  Smoky Chipotle BBQ Nachos: 10.22
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Bacon Wrapped Jalapeno Bites: 3.69
+  Black Bean Sweet Potato Burrito: 9.79
+  Street Style Quesadillas: 7.92
+  Avocado Lime Salad: 7.71
+  Ancho Chile Chicken Salad: 7.88
+  Chipotle Lime Chicken Salad: 8.23
+  Mexican Chocolate Flan: 4.34
+  Sweet Corn Tamales: 8.68
+  Sea Breeze Ceviche: 10.2
+  Verde Chicken Enchiladas: 9.24
+  Fiesta Street Corn: 4.52
+  Loaded Nacho Fries: 6.05
+  Horchata Iced Latte: 4.22
+  Sizzling Beef Alambre: 9.27
+  Pineapple Habanero Salsa: 3.72
+  Smoky Chipotle BBQ Nachos: 8.48

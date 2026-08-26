@@ -1,0 +1,45 @@
+id: business_0364
+name: Cantina Azul Flor
+description: Step into Cantina Azul Flor, where vibrant Mexican and Tex-Mex flavors
+  meet fresh, creative twists in a warm, inviting atmosphere. Enjoy a colorful array
+  of modern classics and handcrafted drinks inspired by tradition and seasonal ingredients.
+rating: 1.0
+progenitor_customer: customer_0122
+menu_features:
+  Blueberry Hibiscus Margarita: 9.23
+  Pico Avocado Toast: 7.72
+  Chili Lime Shrimp Skewers: 13.38
+  Pumpkin Spice Flan: 5.28
+  Chipotle Lime Shrimp Tacos: 15.27
+  Jicama and Citrus Salad: 8.21
+  Classic Horchata Smoothie: 5.29
+  Tequila Lime Grilled Shrimp: 13.58
+  Chocolate Churro Bites: 6.1
+  Sweet Chili Lime Elote: 5.21
+  Spicy Pork Tamales: 10.73
+  Flamin' Skillet Fajitas: 16.42
+  Roasted Pecan Flan: 6.93
+  Baja Fish Taco Plate: 13.81
+  Smoky Chipotle Queso: 5.4
+  Zesty Lime Grilled Chicken: 15.13
+  Poblano Pepper Relleno Plate: 13.04
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Blueberry Hibiscus Margarita: 5.81
+  Pico Avocado Toast: 4.86
+  Chili Lime Shrimp Skewers: 8.43
+  Pumpkin Spice Flan: 3.33
+  Chipotle Lime Shrimp Tacos: 9.62
+  Jicama and Citrus Salad: 5.17
+  Classic Horchata Smoothie: 3.33
+  Tequila Lime Grilled Shrimp: 8.56
+  Chocolate Churro Bites: 3.84
+  Sweet Chili Lime Elote: 3.28
+  Spicy Pork Tamales: 6.76
+  Flamin' Skillet Fajitas: 10.34
+  Roasted Pecan Flan: 4.37
+  Baja Fish Taco Plate: 8.7
+  Smoky Chipotle Queso: 3.4
+  Zesty Lime Grilled Chicken: 9.53
+  Poblano Pepper Relleno Plate: 8.22

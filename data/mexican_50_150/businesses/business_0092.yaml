@@ -1,0 +1,41 @@
+id: business_0092
+name: Lime & Ember Eatery
+description: Discover bold, modern Mexican flavors with a creative twist at Lime &
+  Ember Eatery. From zesty grilled dishes to indulgent desserts and refreshing cocktails,
+  every bite and sip is a celebration of vibrant taste.
+rating: 1.0
+progenitor_customer: customer_0031
+menu_features:
+  Honey-Lime Grilled Salmon: 13.46
+  Coconut Lime Paleta: 3.58
+  Cinnamon Sugar Sopapillas: 4.87
+  Vanilla Almond Horchata: 4.27
+  Crispy Avocado and Lime Tacos: 13.21
+  Pomegranate Agua Fresca: 3.94
+  Choco-Chili Volcano Cake: 7.18
+  Black Bean Avocado Tostadas: 14.22
+  Mexican Chocolate Milkshake: 7.46
+  Smoky Black Bean Tostadas: 7.19
+  Spicy Avocado Smash Burger: 8.48
+  Chili Lime Margarita: 7.35
+  Zesty Shrimp Quesadillas: 13.95
+  Pineapple Habanero Margarita: 11.24
+  Caramelized Onion and Chorizo Quesadilla: 10.52
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Honey-Lime Grilled Salmon: 9.69
+  Coconut Lime Paleta: 2.58
+  Cinnamon Sugar Sopapillas: 3.51
+  Vanilla Almond Horchata: 3.07
+  Crispy Avocado and Lime Tacos: 9.51
+  Pomegranate Agua Fresca: 2.84
+  Choco-Chili Volcano Cake: 5.17
+  Black Bean Avocado Tostadas: 10.24
+  Mexican Chocolate Milkshake: 5.37
+  Smoky Black Bean Tostadas: 5.18
+  Spicy Avocado Smash Burger: 6.11
+  Chili Lime Margarita: 5.29
+  Zesty Shrimp Quesadillas: 10.04
+  Pineapple Habanero Margarita: 8.09
+  Caramelized Onion and Chorizo Quesadilla: 7.57

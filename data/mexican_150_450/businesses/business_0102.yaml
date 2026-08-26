@@ -1,0 +1,39 @@
+id: business_0102
+name: Churro & Lime Modern Mex
+description: "Fresh, bold, and sweet\u2014Churro & Lime Modern Mex serves up vibrant\
+  \ Mexican and Tex-Mex favorites, reimagined for today. Discover crave-worthy eats\
+  \ and creative drinks in an upbeat, welcoming space."
+rating: 1.0
+progenitor_customer: customer_0034
+menu_features:
+  Coconut Lime Tres Leches: 6.21
+  "Spicy Jalape\xF1o Limeade": 4.15
+  Vanilla Flan Delight: 5.8
+  Tres Leches Cake: 8.17
+  Cinnamon Sugar Churros: 4.24
+  Pineapple Jalapeno Margarita: 9.71
+  Black Bean Street Tacos: 10.64
+  Spicy Pork Tamales: 11.94
+  Crispy Tinga Chicken Tacos: 9.55
+  Sunrise Breakfast Tacos: 7.98
+  Roasted Poblano Queso Dip: 6.37
+  Spicy Avocado Burger: 12.17
+  Warm Churro Bites: 4.54
+  Fresh Corn Elote: 4.32
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Coconut Lime Tres Leches: 4.47
+  "Spicy Jalape\xF1o Limeade": 2.99
+  Vanilla Flan Delight: 4.18
+  Tres Leches Cake: 5.88
+  Cinnamon Sugar Churros: 3.05
+  Pineapple Jalapeno Margarita: 6.99
+  Black Bean Street Tacos: 7.66
+  Spicy Pork Tamales: 8.6
+  Crispy Tinga Chicken Tacos: 6.88
+  Sunrise Breakfast Tacos: 5.75
+  Roasted Poblano Queso Dip: 4.59
+  Spicy Avocado Burger: 8.76
+  Warm Churro Bites: 3.27
+  Fresh Corn Elote: 3.11

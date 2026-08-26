@@ -1,0 +1,48 @@
+id: business_0034
+name: Aguacate & Ember
+description: Serving up a fresh, modern twist on Mexican and Tex-Mex favorites, Aguacate
+  & Ember brings bold flavors and vibrant ingredients together in every dish. Enjoy
+  a colorful variety of creative eats, all crafted for a lively and delicious dining
+  experience.
+rating: 1.0
+progenitor_customer: customer_0012
+menu_features:
+  Smoky Chipotle Quesadillas: 10.57
+  Zesty Lime Chicken Tacos: 11.57
+  Creamy Avocado Caesar Salad: 10.47
+  Mexican Coffee Flan: 6.5
+  Veggie Fajita Platter: 13.42
+  Ancho Chile Chicken Salad: 8.81
+  Southwest Chopped Salad: 8.64
+  Black Bean Avocado Enchiladas: 10.74
+  Spicy Avocado Smash Burger: 13.55
+  Savory Chorizo Street Tacos: 9.31
+  Choco Flan Combo: 7.05
+  Spicy Chipotle Chicken Wrap: 10.68
+  "Strawberry Jalape\xF1o Mocktail": 6.68
+  Sunrise Breakfast Tacos: 9.23
+  Chipotle Lime Shrimp Tacos: 15.15
+  Loaded Sweet Potato Fries: 7.49
+  Southwestern Quinoa Salad: 8.83
+  Black Bean and Cilantro Rice: 4.61
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Smoky Chipotle Quesadillas: 7.5
+  Zesty Lime Chicken Tacos: 8.21
+  Creamy Avocado Caesar Salad: 7.43
+  Mexican Coffee Flan: 4.62
+  Veggie Fajita Platter: 9.53
+  Ancho Chile Chicken Salad: 6.26
+  Southwest Chopped Salad: 6.13
+  Black Bean Avocado Enchiladas: 7.63
+  Spicy Avocado Smash Burger: 9.62
+  Savory Chorizo Street Tacos: 6.61
+  Choco Flan Combo: 5.01
+  Spicy Chipotle Chicken Wrap: 7.58
+  "Strawberry Jalape\xF1o Mocktail": 4.74
+  Sunrise Breakfast Tacos: 6.55
+  Chipotle Lime Shrimp Tacos: 10.76
+  Loaded Sweet Potato Fries: 5.32
+  Southwestern Quinoa Salad: 6.27
+  Black Bean and Cilantro Rice: 3.27

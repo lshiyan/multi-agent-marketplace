@@ -1,0 +1,41 @@
+id: business_0344
+name: Flan Down the Hatch
+description: Dig into a fiesta of fresh flavors where zesty salads, smoky dips, and
+  sweet, spice-kissed desserts await. Experience Tex-Mex classics reimagined, all
+  served with a fun modern twist.
+rating: 1.0
+progenitor_customer: customer_0115
+menu_features:
+  Southwestern Quinoa Salad: 8.14
+  Pumpkin Spice Flan: 6.09
+  Spicy Black Bean Nachos: 9.73
+  Smoky Chipotle Queso: 6.31
+  Avocado Lime Salsa: 4.68
+  Citrus Marinated Carne Asada: 18.16
+  Cilantro Lime Chicken Tacos: 12.38
+  Adobo Pork Sliders: 9.75
+  Peppered Steak Nachos: 13.26
+  Roasted Poblano Queso Dip: 6.57
+  Sweet Chili Lime Elote: 5.03
+  Fajita Veggie Burrito Bowl: 12.34
+  Crispy Fish Tacos: 11.99
+  Ancho Chile Chicken Salad: 9.61
+  Creamy Jalapeno Corn Fritters: 8.59
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Southwestern Quinoa Salad: 5.86
+  Pumpkin Spice Flan: 4.38
+  Spicy Black Bean Nachos: 7.01
+  Smoky Chipotle Queso: 4.54
+  Avocado Lime Salsa: 3.37
+  Citrus Marinated Carne Asada: 13.08
+  Cilantro Lime Chicken Tacos: 8.91
+  Adobo Pork Sliders: 7.02
+  Peppered Steak Nachos: 9.55
+  Roasted Poblano Queso Dip: 4.73
+  Sweet Chili Lime Elote: 3.62
+  Fajita Veggie Burrito Bowl: 8.88
+  Crispy Fish Tacos: 8.63
+  Ancho Chile Chicken Salad: 6.92
+  Creamy Jalapeno Corn Fritters: 6.18

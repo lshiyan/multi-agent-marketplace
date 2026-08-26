@@ -1,0 +1,41 @@
+id: business_0030
+name: Chili & Churro
+description: Experience a vibrant blend of classic and contemporary Mexican flavors
+  with bold spices and sweet delights. From refreshing horchata to inventive enchiladas
+  and street corn, every bite promises a taste of fresh, modern Mex.
+rating: 1.0
+progenitor_customer: customer_0010
+menu_features:
+  Housemade Horchata: 4.67
+  Tomatillo Ranch Enchiladas: 12.08
+  Mango Habanero Margarita: 7.83
+  Beef Fajita Skillet: 14.18
+  Roasted Poblano Corn Chowder: 7.81
+  Loaded Street Corn: 8.26
+  Tangy Tomato Salsa Soup: 8.09
+  Tamarind Glazed Wings: 9.45
+  Poblano Pepper Queso Dip: 6.97
+  Cinnamon Churro Bites: 4.97
+  Baja Fish Burrito: 11.5
+  Vanilla Cinnamon Horchata: 3.8
+  Roasted Corn and Black Bean Salad: 9.29
+  Chili Lime Roasted Corn: 5.2
+  Crispy Carnitas Quesadilla: 12.23
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Housemade Horchata: 3.6
+  Tomatillo Ranch Enchiladas: 9.3
+  Mango Habanero Margarita: 6.03
+  Beef Fajita Skillet: 10.92
+  Roasted Poblano Corn Chowder: 6.01
+  Loaded Street Corn: 6.36
+  Tangy Tomato Salsa Soup: 6.23
+  Tamarind Glazed Wings: 7.28
+  Poblano Pepper Queso Dip: 5.37
+  Cinnamon Churro Bites: 3.83
+  Baja Fish Burrito: 8.86
+  Vanilla Cinnamon Horchata: 2.93
+  Roasted Corn and Black Bean Salad: 7.15
+  Chili Lime Roasted Corn: 4.0
+  Crispy Carnitas Quesadilla: 9.42

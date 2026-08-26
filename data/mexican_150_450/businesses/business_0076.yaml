@@ -1,0 +1,37 @@
+id: business_0076
+name: Dip Sip Hooray!
+description: Celebrate bold Tex-Mex and Mexican flavors with every bite and sip in
+  a lively, welcoming setting. From vibrant starters to refreshing drinks, our menu
+  brings a fiesta of taste to your table.
+rating: 1.0
+progenitor_customer: customer_0026
+menu_features:
+  Honey Lime Grilled Fajitas: 17.55
+  Poblano Pepper Queso Dip: 6.56
+  Mexican Chocolate Flan: 4.1
+  Baja Fish Burrito: 11.63
+  Smoky Black Bean Enchiladas: 16.71
+  Caramelized Onion Queso Dip: 7.17
+  Chili Lime Skirt Steak: 16.82
+  Blueberry Agave Mojito: 9.63
+  Tex-Mex Breakfast Skillet: 9.25
+  Tamarind Glazed Wings: 11.32
+  Mexican Street Corn Dip: 9.14
+  Loaded Nacho Fries: 8.87
+  Crispy Avocado Bites: 8.35
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Honey Lime Grilled Fajitas: 14.74
+  Poblano Pepper Queso Dip: 5.51
+  Mexican Chocolate Flan: 3.44
+  Baja Fish Burrito: 9.77
+  Smoky Black Bean Enchiladas: 14.04
+  Caramelized Onion Queso Dip: 6.02
+  Chili Lime Skirt Steak: 14.13
+  Blueberry Agave Mojito: 8.09
+  Tex-Mex Breakfast Skillet: 7.77
+  Tamarind Glazed Wings: 9.51
+  Mexican Street Corn Dip: 7.68
+  Loaded Nacho Fries: 7.45
+  Crispy Avocado Bites: 7.01

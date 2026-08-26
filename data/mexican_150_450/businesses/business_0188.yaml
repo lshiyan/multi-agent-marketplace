@@ -1,0 +1,35 @@
+id: business_0188
+name: La Palma y Agave
+description: A vibrant gathering spot that celebrates the spirit of modern Mexican
+  and Tex-Mex cuisine, featuring bold flavors, fresh ingredients, and a tropical twist.
+  Enjoy creative small plates, refreshing drinks, and a warm, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0063
+menu_features:
+  Adobo Pork Sliders: 11.43
+  Coconut Tres Leches: 7.76
+  Tequila Lime Chicken Wings: 12.96
+  Roasted Poblano Queso Dip: 7.47
+  Pineapple Chipotle Salsa & Chips: 5.22
+  Tropical Coconut Margarita: 9.96
+  Pico Avocado Toast: 6.85
+  Smoky Black Bean Tostadas: 9.32
+  Agave Lime Chicken Skewers: 12.75
+  Blueberry Agave Margarita: 12.96
+  "Spicy Jalape\xF1o Limeade": 3.4
+  Cinnamon Churro Bites: 4.99
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Adobo Pork Sliders: 10.29
+  Coconut Tres Leches: 6.98
+  Tequila Lime Chicken Wings: 11.66
+  Roasted Poblano Queso Dip: 6.72
+  Pineapple Chipotle Salsa & Chips: 4.7
+  Tropical Coconut Margarita: 8.96
+  Pico Avocado Toast: 6.17
+  Smoky Black Bean Tostadas: 8.39
+  Agave Lime Chicken Skewers: 11.47
+  Blueberry Agave Margarita: 11.66
+  "Spicy Jalape\xF1o Limeade": 3.06
+  Cinnamon Churro Bites: 4.49

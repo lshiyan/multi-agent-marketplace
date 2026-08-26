@@ -1,0 +1,35 @@
+id: business_0083
+name: Urban Chile Kitchen
+description: Experience a vibrant mix of bold Mexican and Tex-Mex flavors in a modern,
+  inviting setting. From zesty stews to creative tacos and refreshing sips, every
+  dish is crafted for fresh flavor and unforgettable taste.
+rating: 1.0
+progenitor_customer: customer_0028
+menu_features:
+  Hatch Green Chile Stew: 12.03
+  Bacon and Egg Tostada: 8.14
+  Chipotle Lime Shrimp Tacos: 14.09
+  Smoky Black Bean Soup: 7.77
+  Spicy Chipotle Chicken Wrap: 11.04
+  Huevos Rancheros: 12.28
+  Refreshing Agua Fresca Trio: 7.84
+  Horchata Iced Coffee: 4.53
+  Chili Lime Roasted Corn: 4.37
+  Baja Fish Tacos: 11.14
+  Minty Mojito Refresher: 8.02
+  Warm Cinnamon Churros: 5.23
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Hatch Green Chile Stew: 10.71
+  Bacon and Egg Tostada: 7.24
+  Chipotle Lime Shrimp Tacos: 12.54
+  Smoky Black Bean Soup: 6.92
+  Spicy Chipotle Chicken Wrap: 9.83
+  Huevos Rancheros: 10.93
+  Refreshing Agua Fresca Trio: 6.98
+  Horchata Iced Coffee: 4.03
+  Chili Lime Roasted Corn: 3.89
+  Baja Fish Tacos: 9.91
+  Minty Mojito Refresher: 7.14
+  Warm Cinnamon Churros: 4.65

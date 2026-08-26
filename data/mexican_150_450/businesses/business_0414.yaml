@@ -1,0 +1,38 @@
+id: business_0414
+name: "El Rancho C\xEDtrico"
+description: "Experience the vibrant flavors of modern Mexican and Tex-Mex cuisine\
+  \ in a warm, welcoming setting. From tangy small bites to tropical desserts, El\
+  \ Rancho C\xEDtrico brings together fresh ingredients and bold tastes for an unforgettable\
+  \ dining adventure."
+rating: 1.0
+progenitor_customer: customer_0138
+menu_features:
+  Toasted Coconut Flan: 7.52
+  Zesty Shrimp Ceviche: 12.99
+  Smoky Chipotle Queso: 5.34
+  Baja Fish Tacos: 10.84
+  Chili-Lime Cauliflower Bites: 10.65
+  Fresh Lime Cilantro Rice: 2.45
+  Mango Jalapeno Slush: 5.18
+  Mango Habanero Wings: 12.78
+  Three Cheese Sope: 10.71
+  Creamy Jalapeno Corn Fritters: 7.15
+  Pineapple Tequila Chicken Skewers: 11.66
+  Margarita Lime Cheesecake: 6.57
+  Black Bean Street Tacos: 11.28
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Toasted Coconut Flan: 6.92
+  Zesty Shrimp Ceviche: 11.95
+  Smoky Chipotle Queso: 4.91
+  Baja Fish Tacos: 9.97
+  Chili-Lime Cauliflower Bites: 9.8
+  Fresh Lime Cilantro Rice: 2.25
+  Mango Jalapeno Slush: 4.77
+  Mango Habanero Wings: 11.76
+  Three Cheese Sope: 9.85
+  Creamy Jalapeno Corn Fritters: 6.58
+  Pineapple Tequila Chicken Skewers: 10.73
+  Margarita Lime Cheesecake: 6.04
+  Black Bean Street Tacos: 10.38

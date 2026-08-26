@@ -1,0 +1,41 @@
+id: business_0324
+name: Flare & Flan
+description: Experience bold Tex-Mex and Mexican flavors with a creative twist in
+  a lively, welcoming setting. From sizzling classics to sweet, decadent desserts,
+  every visit offers a vibrant taste of tradition and innovation.
+rating: 1.0
+progenitor_customer: customer_0108
+menu_features:
+  Roasted Pecan Flan: 5.6
+  "Spicy Jalape\xF1o Limeade": 3.15
+  Blue Corn Enchilada Bake: 16.24
+  Smoky Chipotle Quesadillas: 8.24
+  Grilled Pineapple & Shrimp Quesadillas: 11.59
+  Zesty Lime Shrimp Tostadas: 9.57
+  Baja Fish Taco Plate: 13.23
+  Choco Flan Combo: 6.65
+  Avocado Street Tacos: 11.16
+  Sizzling Steak Fajitas: 19.97
+  Classic Horchata Delight: 2.82
+  Rich Chocolate Tres Leches: 6.8
+  Grilled Chipotle Chicken Burrito: 11.92
+  Tangy Tomato Salsa Soup: 6.61
+  Spicy Beef Chimichangas: 16.14
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Roasted Pecan Flan: 3.98
+  "Spicy Jalape\xF1o Limeade": 2.24
+  Blue Corn Enchilada Bake: 11.53
+  Smoky Chipotle Quesadillas: 5.85
+  Grilled Pineapple & Shrimp Quesadillas: 8.23
+  Zesty Lime Shrimp Tostadas: 6.79
+  Baja Fish Taco Plate: 9.39
+  Choco Flan Combo: 4.72
+  Avocado Street Tacos: 7.92
+  Sizzling Steak Fajitas: 14.18
+  Classic Horchata Delight: 2.0
+  Rich Chocolate Tres Leches: 4.83
+  Grilled Chipotle Chicken Burrito: 8.46
+  Tangy Tomato Salsa Soup: 4.69
+  Spicy Beef Chimichangas: 11.46

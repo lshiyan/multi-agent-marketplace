@@ -1,0 +1,40 @@
+id: business_0031
+name: "Sol y Saz\xF3n Cantina"
+description: "Celebrate bold flavors and vibrant traditions at Sol y Saz\xF3n Cantina,\
+  \ where every meal is an invitation to savor the fresh, zesty spirit of Mexican\
+  \ and Tex-Mex cuisine. Enjoy a welcoming atmosphere and a creative menu crafted\
+  \ with passion and authentic ingredients."
+rating: 1.0
+progenitor_customer: customer_0011
+menu_features:
+  Spicy Black Bean Enchiladas: 11.06
+  Cilantro Lime Grilled Shrimp: 15.28
+  Hatch Green Chile Rice: 5.6
+  Creamy Queso Dip: 6.96
+  Tamarind Glazed Wings: 13.32
+  Blue Corn Tortilla Chips: 3.91
+  Black Bean and Sweet Potato Empanadas: 8.55
+  Grilled Pineapple Salmon: 15.64
+  Carnitas Breakfast Burrito: 10.86
+  Sunset Grilled Veggie Tacos: 11.85
+  Chili Lime Roasted Corn: 4.6
+  Blueberry Tequila Sunrise: 10.46
+  Rich Chocolate Tres Leches: 8.25
+  Baja Fish Tacos: 15.57
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Spicy Black Bean Enchiladas: 6.86
+  Cilantro Lime Grilled Shrimp: 9.47
+  Hatch Green Chile Rice: 3.47
+  Creamy Queso Dip: 4.32
+  Tamarind Glazed Wings: 8.26
+  Blue Corn Tortilla Chips: 2.42
+  Black Bean and Sweet Potato Empanadas: 5.3
+  Grilled Pineapple Salmon: 9.7
+  Carnitas Breakfast Burrito: 6.73
+  Sunset Grilled Veggie Tacos: 7.35
+  Chili Lime Roasted Corn: 2.85
+  Blueberry Tequila Sunrise: 6.49
+  Rich Chocolate Tres Leches: 5.12
+  Baja Fish Tacos: 9.65

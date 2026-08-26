@@ -1,0 +1,40 @@
+id: business_0263
+name: Chili & Cocoa Cantina
+description: Chili & Cocoa Cantina brings together the bold flavors of Mexican and
+  Tex-Mex cuisine with a unique twist, featuring savory dishes and decadent desserts.
+  Discover a vibrant atmosphere where smoky spices and rich chocolates create an unforgettable
+  dining experience.
+rating: 1.0
+progenitor_customer: customer_0088
+menu_features:
+  Coconut Lime Flan: 5.32
+  Avocado Lime Salad: 8.97
+  Chipotle Lime Chicken Skewers: 11.09
+  Sea Breeze Ceviche: 13.54
+  Sizzling Steak Fajitas: 15.2
+  Ancho Chili Braised Beef Enchiladas: 13.96
+  Black Bean Burgers: 9.93
+  Smoky Chipotle Enchiladas: 13.48
+  Honey Lime Grilled Fajitas: 13.85
+  Mexican Chocolate Lava Cake: 7.41
+  Spiced Chocolate Flan: 6.37
+  Spicy Chocolate Churros: 4.21
+  Chili Chocolate Lava Cake: 7.15
+  Warm Churro Bites: 4.92
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Coconut Lime Flan: 3.83
+  Avocado Lime Salad: 6.46
+  Chipotle Lime Chicken Skewers: 7.98
+  Sea Breeze Ceviche: 9.75
+  Sizzling Steak Fajitas: 10.94
+  Ancho Chili Braised Beef Enchiladas: 10.05
+  Black Bean Burgers: 7.15
+  Smoky Chipotle Enchiladas: 9.71
+  Honey Lime Grilled Fajitas: 9.97
+  Mexican Chocolate Lava Cake: 5.34
+  Spiced Chocolate Flan: 4.59
+  Spicy Chocolate Churros: 3.03
+  Chili Chocolate Lava Cake: 5.15
+  Warm Churro Bites: 3.54

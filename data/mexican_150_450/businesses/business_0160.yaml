@@ -1,0 +1,33 @@
+id: business_0160
+name: Fiesta Fuego
+description: Experience vibrant Tex-Mex flavors and smoky grilled specialties in a
+  festive, welcoming atmosphere. From sizzling fajitas to sweet coconut desserts,
+  every dish brings a spark of Mexican sunshine to your table.
+rating: 1.0
+progenitor_customer: customer_0054
+menu_features:
+  Spice-Rubbed Grilled Fajitas: 13.36
+  Sunset Grilled Veggie Tacos: 14.86
+  "Coconut Horchata Latt\xE9": 3.47
+  Coconut Flan Delight: 7.7
+  Grilled Pineapple & Shrimp Quesadillas: 11.58
+  Fresh Corn Elote: 3.95
+  Grilled Elote Corn: 4.64
+  Blue Agave Tequila Sunrise: 8.18
+  Tamarind-Glazed Ribs: 18.88
+  Spicy Mango Margarita: 7.15
+  Verde Ranchero Huevos: 9.62
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Spice-Rubbed Grilled Fajitas: 9.62
+  Sunset Grilled Veggie Tacos: 10.7
+  "Coconut Horchata Latt\xE9": 2.5
+  Coconut Flan Delight: 5.54
+  Grilled Pineapple & Shrimp Quesadillas: 8.34
+  Fresh Corn Elote: 2.84
+  Grilled Elote Corn: 3.34
+  Blue Agave Tequila Sunrise: 5.89
+  Tamarind-Glazed Ribs: 13.59
+  Spicy Mango Margarita: 5.15
+  Verde Ranchero Huevos: 6.93

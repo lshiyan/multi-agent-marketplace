@@ -1,0 +1,35 @@
+id: business_0281
+name: Luz de Canela Cocina
+description: Experience a vibrant blend of classic and modern Mexican flavors in a
+  warm, welcoming atmosphere. Our kitchen highlights bold spices, fresh produce, and
+  delicious house-made specialties alongside creative drinks and sweet treats.
+rating: 1.0
+progenitor_customer: customer_0094
+menu_features:
+  Cinnamon Sugar Churro Sticks: 6.64
+  Black Bean & Corn Quesadilla: 9.86
+  Zesty Lime Grilled Chicken: 12.04
+  Tamarind Ginger Cooler: 4.13
+  Spicy Cucumber Margarita: 7.55
+  Guava Limeade Cooler: 5.45
+  Pineapple Chipotle Salsa & Chips: 5.88
+  Raspberry Jalapeno Mojito: 10.29
+  Grilled Pineapple Salsa: 6.52
+  Grilled Pineapple Mojito: 7.73
+  Crispy Avocado Bites: 8.47
+  Ancho Chile BBQ Ribs: 17.91
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Cinnamon Sugar Churro Sticks: 6.04
+  Black Bean & Corn Quesadilla: 8.97
+  Zesty Lime Grilled Chicken: 10.96
+  Tamarind Ginger Cooler: 3.76
+  Spicy Cucumber Margarita: 6.87
+  Guava Limeade Cooler: 4.96
+  Pineapple Chipotle Salsa & Chips: 5.35
+  Raspberry Jalapeno Mojito: 9.36
+  Grilled Pineapple Salsa: 5.93
+  Grilled Pineapple Mojito: 7.03
+  Crispy Avocado Bites: 7.71
+  Ancho Chile BBQ Ribs: 16.3

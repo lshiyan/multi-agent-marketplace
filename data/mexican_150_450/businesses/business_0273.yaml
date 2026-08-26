@@ -1,0 +1,33 @@
+id: business_0273
+name: Verde & Velvet
+description: Verde & Velvet blends vibrant, garden-fresh flavors with a touch of sweet
+  decadence in a modern, welcoming atmosphere. Enjoy bold bites and creative cocktails
+  inspired by Mexico and the Southwest.
+rating: 1.0
+progenitor_customer: customer_0091
+menu_features:
+  Hatch Green Chile Rice: 5.15
+  Roasted Poblano Queso Dip: 6.56
+  Avocado Street Tacos: 12.19
+  Avocado Lime Crema Tostadas: 9.18
+  Raspberry Jalapeno Mojito: 9.66
+  Sweet Plantain Empanadas: 7.29
+  Spicy Cucumber Margarita: 10.27
+  Mango Habanero Margarita: 10.14
+  Spicy Chocolate Churros: 5.65
+  Fresh Lime and Cilantro Guacamole: 8.58
+  Al Pastor Pork Tacos: 14.09
+amenity_features: {}
+min_price_factor: 0.6
+minimum_menu_prices:
+  Hatch Green Chile Rice: 3.09
+  Roasted Poblano Queso Dip: 3.94
+  Avocado Street Tacos: 7.31
+  Avocado Lime Crema Tostadas: 5.51
+  Raspberry Jalapeno Mojito: 5.8
+  Sweet Plantain Empanadas: 4.37
+  Spicy Cucumber Margarita: 6.16
+  Mango Habanero Margarita: 6.08
+  Spicy Chocolate Churros: 3.39
+  Fresh Lime and Cilantro Guacamole: 5.15
+  Al Pastor Pork Tacos: 8.45

@@ -1,0 +1,37 @@
+id: business_0052
+name: Casa de la Luna Azul
+description: Step into a vibrant, welcoming eatery where bold flavors and classic
+  Mexican-inspired fare meet a creative twist. Enjoy fresh cocktails and inventive
+  dishes in an atmosphere that celebrates the spirit of Mexican and Tex-Mex cuisine.
+rating: 1.0
+progenitor_customer: customer_0018
+menu_features:
+  Cactus Cooler Margarita: 7.66
+  Passion Fruit Mojito: 7.42
+  Gourmet Nacho Platter: 12.53
+  Poblano Pepper Queso Dip: 6.1
+  Grilled Street Corn: 7.45
+  Black Bean Stuffed Sweet Potatoes: 9.93
+  Honey-Lime Shrimp Skewers: 14.09
+  Smoky Chipotle BBQ Nachos: 12.34
+  Honey Lime Grilled Fajitas: 11.19
+  Coconut Lime Rice Bowl: 10.85
+  Loaded Sweet Potato Fries: 7.62
+  Mango Habanero Margarita: 11.06
+  Blue Corn Tortilla Soup: 8.75
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Cactus Cooler Margarita: 4.75
+  Passion Fruit Mojito: 4.6
+  Gourmet Nacho Platter: 7.77
+  Poblano Pepper Queso Dip: 3.78
+  Grilled Street Corn: 4.62
+  Black Bean Stuffed Sweet Potatoes: 6.16
+  Honey-Lime Shrimp Skewers: 8.74
+  Smoky Chipotle BBQ Nachos: 7.65
+  Honey Lime Grilled Fajitas: 6.94
+  Coconut Lime Rice Bowl: 6.73
+  Loaded Sweet Potato Fries: 4.72
+  Mango Habanero Margarita: 6.86
+  Blue Corn Tortilla Soup: 5.42

@@ -1,0 +1,41 @@
+id: business_0360
+name: Guac 'n' Brownie Points
+description: A vibrant Mexican-inspired eatery crafting creative Tex-Mex bites, freshly
+  mixed guacamoles, and decadent desserts. Come savor smoky, zesty, and sweet flavors
+  in every festive bite!
+rating: 1.0
+progenitor_customer: customer_0120
+menu_features:
+  Mexican Chocolate Brownie: 6.03
+  Loaded Nacho Platter: 11.95
+  Cinnamon Sugar Churro Sticks: 4.9
+  Verde Chicken Enchiladas: 12.66
+  Crispy Fish Tacos: 10.83
+  Zesty Lime Grilled Shrimp: 11.88
+  Blueberry Mint Agua Fresca: 3.39
+  Grilled Pineapple Mojito: 9.08
+  Ancho Chili Spiced Ribs: 17.69
+  Avocado Lime Salad: 6.92
+  Fresh Lime and Cilantro Guacamole: 8.98
+  Smoky Chipotle Quesadillas: 9.47
+  Fresh Mango Salsa Nachos: 9.69
+  Chocolate Mole Brownie: 8.67
+  Grilled Shrimp Skewers: 13.02
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Mexican Chocolate Brownie: 3.68
+  Loaded Nacho Platter: 7.29
+  Cinnamon Sugar Churro Sticks: 2.99
+  Verde Chicken Enchiladas: 7.72
+  Crispy Fish Tacos: 6.61
+  Zesty Lime Grilled Shrimp: 7.25
+  Blueberry Mint Agua Fresca: 2.07
+  Grilled Pineapple Mojito: 5.54
+  Ancho Chili Spiced Ribs: 10.79
+  Avocado Lime Salad: 4.22
+  Fresh Lime and Cilantro Guacamole: 5.48
+  Smoky Chipotle Quesadillas: 5.78
+  Fresh Mango Salsa Nachos: 5.91
+  Chocolate Mole Brownie: 5.29
+  Grilled Shrimp Skewers: 7.94

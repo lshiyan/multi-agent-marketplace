@@ -1,0 +1,34 @@
+id: business_0004
+name: Guac & Awe
+description: Bold flavors, vibrant salsas, and inventive takes on Mexican classics
+  await. Dive into a fiesta of taste with our signature dishes and creative cocktails.
+rating: 1.0
+progenitor_customer: customer_0002
+menu_features:
+  Tamale Trio Sampler: 10.57
+  Mexican Chocolate Milkshake: 5.58
+  Smoky Chipotle Enchiladas: 11.12
+  Avocado Lime Salsa: 4.48
+  Sizzling Chicken Fajitas: 14.34
+  Salted Caramel Margarita: 10.38
+  Crispy Fish Tacos: 11.37
+  Mango Habanero Salsa: 4.84
+  Ancho Chili Chocolate Cake: 5.59
+  Three-Cheese Queso Dip: 6.83
+  Fresh Lime Cilantro Rice: 2.89
+  Zesty Lime Shrimp Tostadas: 11.96
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Tamale Trio Sampler: 8.14
+  Mexican Chocolate Milkshake: 4.3
+  Smoky Chipotle Enchiladas: 8.56
+  Avocado Lime Salsa: 3.45
+  Sizzling Chicken Fajitas: 11.04
+  Salted Caramel Margarita: 7.99
+  Crispy Fish Tacos: 8.75
+  Mango Habanero Salsa: 3.73
+  Ancho Chili Chocolate Cake: 4.3
+  Three-Cheese Queso Dip: 5.26
+  Fresh Lime Cilantro Rice: 2.23
+  Zesty Lime Shrimp Tostadas: 9.21

@@ -1,0 +1,35 @@
+id: business_0125
+name: Pepper & Pastel
+description: Experience a fresh take on Mexican and Tex-Mex cuisine, where vibrant
+  flavors meet creative desserts and signature drinks. Enjoy a lively atmosphere perfect
+  for sharing bold bites and sweet treats with friends.
+rating: 1.0
+progenitor_customer: customer_0042
+menu_features:
+  Poblano Pepper Relleno Plate: 13.76
+  Honey Lime Grilled Fajitas: 16.01
+  Street Style Corn on the Cob: 4.86
+  Cocoa Dusted Churro Bites: 5.65
+  Blueberry Jalapeno Margarita: 11.58
+  Avocado Lime Cheesecake: 7.0
+  Stuffed Poblano Peppers: 13.75
+  Chili-Lime Cauliflower Bites: 9.23
+  Citrus Grilled Chicken Tacos: 15.26
+  Tequila Lime Flan: 6.0
+  Gourmet Nacho Platter: 9.68
+  Choco-Chili Volcano Cake: 6.49
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Poblano Pepper Relleno Plate: 11.97
+  Honey Lime Grilled Fajitas: 13.93
+  Street Style Corn on the Cob: 4.23
+  Cocoa Dusted Churro Bites: 4.92
+  Blueberry Jalapeno Margarita: 10.07
+  Avocado Lime Cheesecake: 6.09
+  Stuffed Poblano Peppers: 11.96
+  Chili-Lime Cauliflower Bites: 8.03
+  Citrus Grilled Chicken Tacos: 13.28
+  Tequila Lime Flan: 5.22
+  Gourmet Nacho Platter: 8.42
+  Choco-Chili Volcano Cake: 5.65

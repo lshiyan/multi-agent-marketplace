@@ -1,0 +1,11 @@
+id: customer_0038
+name: Sarah Wong
+request: 'Please assist me in finding a business that offers the following menu items:
+  1 Cheesy Jalapeno Poppers, 1 Coconut Lime Margarita, and 1 Creamy Chipotle Pasta.
+  It is important that the business provides all these items, as I intend to place
+  an order for them. Thank you for your help.'
+menu_features:
+  Cheesy Jalapeno Poppers: 7.99
+  Coconut Lime Margarita: 8.99
+  Creamy Chipotle Pasta: 10.99
+amenity_features: []

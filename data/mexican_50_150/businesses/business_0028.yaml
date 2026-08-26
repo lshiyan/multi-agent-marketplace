@@ -1,0 +1,45 @@
+id: business_0028
+name: Chile Charm Cantina
+description: A vibrant spot serving up bold Mexican and Tex-Mex flavors, spotlighting
+  fresh chiles, zesty salsas, and mouthwatering street-style bites. Experience a lively
+  atmosphere where every dish celebrates spice and tradition.
+rating: 1.0
+progenitor_customer: customer_0010
+menu_features:
+  Hatch Green Chile Burger: 13.52
+  Spicy Shrimp Nacho Platter: 13.42
+  "Spicy Jalape\xF1o Limeade": 3.54
+  Caramel Corn Flan: 7.26
+  Classic Beef Tacos with Zesty Slaw: 10.61
+  Black Bean & Cheese Tostadas: 11.13
+  Crispy Tinga Chicken Tacos: 6.57
+  Spiced Churro Bites: 5.81
+  Grilled Pineapple Salsa: 6.84
+  Tamale Pie Casserole: 14.09
+  Street Corn Fritters: 7.07
+  Sizzling Beef Alambre: 13.7
+  Baja Fish Tacos: 13.3
+  Zesty Lime Chicken Enchiladas: 12.78
+  Crispy Carnitas Tacos: 13.63
+  Honey Lime Grilled Corn: 5.0
+  Tequila Lime Flan: 8.49
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Hatch Green Chile Burger: 9.6
+  Spicy Shrimp Nacho Platter: 9.53
+  "Spicy Jalape\xF1o Limeade": 2.51
+  Caramel Corn Flan: 5.15
+  Classic Beef Tacos with Zesty Slaw: 7.53
+  Black Bean & Cheese Tostadas: 7.9
+  Crispy Tinga Chicken Tacos: 4.66
+  Spiced Churro Bites: 4.13
+  Grilled Pineapple Salsa: 4.86
+  Tamale Pie Casserole: 10.0
+  Street Corn Fritters: 5.02
+  Sizzling Beef Alambre: 9.73
+  Baja Fish Tacos: 9.44
+  Zesty Lime Chicken Enchiladas: 9.07
+  Crispy Carnitas Tacos: 9.68
+  Honey Lime Grilled Corn: 3.55
+  Tequila Lime Flan: 6.03

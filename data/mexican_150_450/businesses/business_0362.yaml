@@ -1,0 +1,36 @@
+id: business_0362
+name: Driftwood & Lime
+description: Driftwood & Lime brings a modern twist to coastal-inspired Mexican and
+  Tex-Mex classics, featuring bold flavors and fresh ingredients in a vibrant, laid-back
+  setting. Refresh with signature drinks and savor creative culinary bites perfect
+  for any appetite.
+rating: 1.0
+progenitor_customer: customer_0121
+menu_features:
+  Baja Fish Tacos: 9.45
+  Breakfast Chorizo Torta: 9.39
+  Stuffed Poblano Peppers: 13.79
+  Grilled Steak Quesadilla: 14.01
+  Classic Mojito with Mint: 7.99
+  Passionfruit Agua Fresca: 4.54
+  Crispy Carnitas Tacos: 13.14
+  Loaded Nacho Fiesta: 9.8
+  Mango Habanero Wings: 14.9
+  Avocado Ranch Burrito Bowl: 12.52
+  Peppered Steak Nachos: 12.13
+  Horchata Latte: 5.82
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Baja Fish Tacos: 7.94
+  Breakfast Chorizo Torta: 7.89
+  Stuffed Poblano Peppers: 11.58
+  Grilled Steak Quesadilla: 11.77
+  Classic Mojito with Mint: 6.71
+  Passionfruit Agua Fresca: 3.81
+  Crispy Carnitas Tacos: 11.04
+  Loaded Nacho Fiesta: 8.23
+  Mango Habanero Wings: 12.52
+  Avocado Ranch Burrito Bowl: 10.52
+  Peppered Steak Nachos: 10.19
+  Horchata Latte: 4.89

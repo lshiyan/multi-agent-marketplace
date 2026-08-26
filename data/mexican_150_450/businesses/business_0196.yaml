@@ -1,0 +1,39 @@
+id: business_0196
+name: Casa Viva Mexicana
+description: Experience vibrant flavors and fresh ingredients in a warm, welcoming
+  atmosphere. Casa Viva Mexicana offers classic and contemporary Mexican and Tex-Mex
+  dishes, perfect for sharing and savoring with friends and family.
+rating: 1.0
+progenitor_customer: customer_0066
+menu_features:
+  Refreshing Agua Fresca Trio: 9.73
+  Tamarind Glazed Wings: 11.71
+  Chipotle Bean Burrito: 7.51
+  Roasted Poblano Queso Dip: 5.29
+  Honey Lime Fajita Sizzlers: 17.48
+  Crispy Carnitas Quesadilla: 10.25
+  Black Bean and Corn Fiesta Salad: 8.52
+  Roasted Corn Enchiladas: 8.85
+  Smoky Chipotle BBQ Wings: 12.14
+  Grilled Shrimp Fajita Bowl: 11.18
+  Cilantro Lime Chicken Tacos: 11.89
+  Churro Ice Cream Sandwich: 7.51
+  Sweet Potato and Black Bean Tacos: 12.52
+  Chipotle Chicken Burrito Bowl: 10.48
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Refreshing Agua Fresca Trio: 7.3
+  Tamarind Glazed Wings: 8.78
+  Chipotle Bean Burrito: 5.63
+  Roasted Poblano Queso Dip: 3.97
+  Honey Lime Fajita Sizzlers: 13.11
+  Crispy Carnitas Quesadilla: 7.69
+  Black Bean and Corn Fiesta Salad: 6.39
+  Roasted Corn Enchiladas: 6.64
+  Smoky Chipotle BBQ Wings: 9.11
+  Grilled Shrimp Fajita Bowl: 8.38
+  Cilantro Lime Chicken Tacos: 8.92
+  Churro Ice Cream Sandwich: 5.63
+  Sweet Potato and Black Bean Tacos: 9.39
+  Chipotle Chicken Burrito Bowl: 7.86

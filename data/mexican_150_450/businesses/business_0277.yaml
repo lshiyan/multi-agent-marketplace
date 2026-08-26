@@ -1,0 +1,39 @@
+id: business_0277
+name: Shrimply the Best & Sizzling Skillets
+description: Dive into a zestful world of Tex-Mex favorites, where fiery skillful
+  flavors meet tangy sips and fresh, vibrant bites. From sizzling skillets to bold
+  margaritas, every dish and drink is a playful celebration of spice and sunshine.
+rating: 1.0
+progenitor_customer: customer_0093
+menu_features:
+  Classic Beef Tacos with Zesty Slaw: 12.89
+  Spicy Cucumber Margarita: 9.27
+  Black Bean and Corn Fiesta Salad: 8.63
+  Garlic Lime Shrimp Salad: 9.56
+  Spicy Pineapple Salsa Dip: 5.38
+  Chili Con Queso Supreme: 9.09
+  Sizzling Fajita Skillet: 14.65
+  Pineapple Agua Fresca: 3.71
+  "Blueberry Jalape\xF1o Margarita": 12.2
+  Cilantro Lime Shrimp Skewers: 14.06
+  Chipotle Lime Shrimp Skewers: 15.89
+  Ancho Chile BBQ Ribs: 19.1
+  Spicy Mango Margarita: 8.62
+  Mexican Hot Chocolate: 5.94
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Classic Beef Tacos with Zesty Slaw: 9.67
+  Spicy Cucumber Margarita: 6.95
+  Black Bean and Corn Fiesta Salad: 6.47
+  Garlic Lime Shrimp Salad: 7.17
+  Spicy Pineapple Salsa Dip: 4.04
+  Chili Con Queso Supreme: 6.82
+  Sizzling Fajita Skillet: 10.99
+  Pineapple Agua Fresca: 2.78
+  "Blueberry Jalape\xF1o Margarita": 9.15
+  Cilantro Lime Shrimp Skewers: 10.54
+  Chipotle Lime Shrimp Skewers: 11.92
+  Ancho Chile BBQ Ribs: 14.33
+  Spicy Mango Margarita: 6.46
+  Mexican Hot Chocolate: 4.46

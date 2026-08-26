@@ -1,0 +1,45 @@
+id: business_0435
+name: Cinnamon & Coconut Cantina
+description: A vibrant, welcoming spot celebrating Mexican and Tex-Mex tradition with
+  a fresh twist. Enjoy savory specialties, house-made agua frescas, and sweet delights
+  layered with tropical and spiced flavors.
+rating: 1.0
+progenitor_customer: customer_0145
+menu_features:
+  Coconut Flan Delight: 7.32
+  Breakfast Chorizo Tostadas: 9.59
+  Passion Fruit Agua Fresca: 3.41
+  Chipotle Lime Shrimp Skewers: 15.25
+  Bacon Wrapped Jalapeno Bites: 6.01
+  Vanilla Cinnamon Horchata: 3.08
+  Roasted Pumpkin Tamale: 5.59
+  Sizzling Chicken Fajitas: 13.19
+  Caramelized Onion Queso Dip: 6.31
+  Roasted Corn and Black Bean Salad: 9.88
+  Ultimate Nacho Platter: 9.93
+  Caramel Apple Empanadas: 6.39
+  Coconut Tres Leches: 7.47
+  Cucumber Jalapeno Agua Fresca: 3.57
+  Cactus Cooler Margarita: 9.25
+  Roasted Poblano Corn Chowder: 7.26
+  Horchata Iced Latte: 5.13
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Coconut Flan Delight: 5.78
+  Breakfast Chorizo Tostadas: 7.58
+  Passion Fruit Agua Fresca: 2.69
+  Chipotle Lime Shrimp Skewers: 12.05
+  Bacon Wrapped Jalapeno Bites: 4.75
+  Vanilla Cinnamon Horchata: 2.43
+  Roasted Pumpkin Tamale: 4.42
+  Sizzling Chicken Fajitas: 10.42
+  Caramelized Onion Queso Dip: 4.98
+  Roasted Corn and Black Bean Salad: 7.81
+  Ultimate Nacho Platter: 7.84
+  Caramel Apple Empanadas: 5.05
+  Coconut Tres Leches: 5.9
+  Cucumber Jalapeno Agua Fresca: 2.82
+  Cactus Cooler Margarita: 7.31
+  Roasted Poblano Corn Chowder: 5.74
+  Horchata Iced Latte: 4.05

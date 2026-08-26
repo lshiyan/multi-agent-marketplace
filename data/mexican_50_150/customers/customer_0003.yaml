@@ -1,0 +1,9 @@
+id: customer_0003
+name: Isabella White
+request: 'Please find a business and place an order for the following items: 1 Smoky
+  Black Bean Soup and 1 Black Bean Burger. It is important that the business offers
+  both of these menu items. Thank you.'
+menu_features:
+  Smoky Black Bean Soup: 6.99
+  Black Bean Burgers: 10.49
+amenity_features: []

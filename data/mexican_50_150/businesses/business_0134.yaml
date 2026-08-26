@@ -1,0 +1,42 @@
+id: business_0134
+name: Viva Verde Kitchen
+description: A modern take on Mexican and Tex-Mex flavors, Viva Verde Kitchen serves
+  up vibrant and inventive classics with a fresh, flavorful twist. Gather with friends
+  for bold bites, house-made salsas, and unforgettable desserts in a contemporary,
+  welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0045
+menu_features:
+  Crispy Avocado Burrito: 12.58
+  Sweet Potato and Black Bean Tacos: 11.01
+  Chipotle Bourbon Carnitas: 14.36
+  Crispy Fish Baja Bowl: 10.4
+  Green Chile Pork Stew: 14.65
+  Avocado Lime Enchiladas: 13.32
+  Spicy Chipotle Chicken Wrap: 10.0
+  Churro Ice Cream Sandwich: 6.38
+  Choco-Chili Volcano Cake: 6.93
+  Pumpkin Spice Churros: 5.74
+  Sweet and Spicy Chicken Tostadas: 13.85
+  Raspberry Jalapeno Mojito: 7.43
+  Chili-Lime Cauliflower Bites: 10.78
+  Veggie Fajita Platter: 10.44
+  Fire Roasted Salsa Sampler: 5.44
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Crispy Avocado Burrito: 9.81
+  Sweet Potato and Black Bean Tacos: 8.59
+  Chipotle Bourbon Carnitas: 11.2
+  Crispy Fish Baja Bowl: 8.11
+  Green Chile Pork Stew: 11.43
+  Avocado Lime Enchiladas: 10.39
+  Spicy Chipotle Chicken Wrap: 7.8
+  Churro Ice Cream Sandwich: 4.98
+  Choco-Chili Volcano Cake: 5.41
+  Pumpkin Spice Churros: 4.48
+  Sweet and Spicy Chicken Tostadas: 10.8
+  Raspberry Jalapeno Mojito: 5.8
+  Chili-Lime Cauliflower Bites: 8.41
+  Veggie Fajita Platter: 8.14
+  Fire Roasted Salsa Sampler: 4.24

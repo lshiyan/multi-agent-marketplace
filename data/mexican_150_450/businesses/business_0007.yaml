@@ -1,0 +1,35 @@
+id: business_0007
+name: Pepper & Palate
+description: Discover fresh flavors and vibrant classics at Pepper & Palate, where
+  lively Tex-Mex and Mexican-inspired dishes are crafted with a contemporary twist.
+  Sip, savor, and enjoy our welcoming atmosphere and creative cocktails.
+rating: 1.0
+progenitor_customer: customer_0003
+menu_features:
+  Pico Avocado Toast: 8.32
+  Grilled Elote Corn: 3.55
+  Adobo Roasted Corn Salad: 10.17
+  Smoky Black Bean Tostadas: 9.26
+  Breakfast Chorizo Torta: 8.68
+  Lime-Cilantro Quinoa Salad: 9.11
+  Blueberry Jalapeno Margarita: 9.51
+  Sweet Plantain Empanadas: 8.1
+  Avocado Street Tacos: 9.58
+  Green Chile Cheesesteak: 10.47
+  Frozen Strawberry Daiquiri: 9.17
+  Horchata Latte: 5.21
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Pico Avocado Toast: 6.66
+  Grilled Elote Corn: 2.84
+  Adobo Roasted Corn Salad: 8.14
+  Smoky Black Bean Tostadas: 7.41
+  Breakfast Chorizo Torta: 6.94
+  Lime-Cilantro Quinoa Salad: 7.29
+  Blueberry Jalapeno Margarita: 7.61
+  Sweet Plantain Empanadas: 6.48
+  Avocado Street Tacos: 7.66
+  Green Chile Cheesesteak: 8.38
+  Frozen Strawberry Daiquiri: 7.34
+  Horchata Latte: 4.17

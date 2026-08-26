@@ -1,0 +1,40 @@
+id: business_0340
+name: "La Parrilla de Ma\xEDz"
+description: "La Parrilla de Ma\xEDz celebrates the vibrant flavors of classic and\
+  \ contemporary Mexican cuisine, spotlighting savory grilled dishes, street-food\
+  \ favorites, and sweet treats all made with fresh, seasonal ingredients. Enjoy a\
+  \ festive atmosphere inspired by the warmth and hospitality of Mexico."
+rating: 1.0
+progenitor_customer: customer_0114
+menu_features:
+  Charred Corn & Cotija Nachos: 7.16
+  Smoky Chipotle Quesadillas: 10.6
+  Sweet Corn Tamales: 12.01
+  Grilled Elote Corn: 5.05
+  Ancho Chile BBQ Ribs: 18.4
+  Honey Lime Chicken Fajitas: 16.57
+  Crispy Tinga Chicken Tacos: 9.56
+  Bacon and Egg Tostada: 10.19
+  Spicy Cucumber Margarita: 9.0
+  Roasted Poblano Quesadilla: 10.38
+  Housemade Horchata: 3.97
+  Churro Ice Cream Sandwich: 6.37
+  Rich Chocolate Tamales: 5.66
+  Mango Habanero Margarita: 10.69
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Charred Corn & Cotija Nachos: 4.8
+  Smoky Chipotle Quesadillas: 7.1
+  Sweet Corn Tamales: 8.05
+  Grilled Elote Corn: 3.38
+  Ancho Chile BBQ Ribs: 12.33
+  Honey Lime Chicken Fajitas: 11.1
+  Crispy Tinga Chicken Tacos: 6.41
+  Bacon and Egg Tostada: 6.83
+  Spicy Cucumber Margarita: 6.03
+  Roasted Poblano Quesadilla: 6.95
+  Housemade Horchata: 2.66
+  Churro Ice Cream Sandwich: 4.27
+  Rich Chocolate Tamales: 3.79
+  Mango Habanero Margarita: 7.16

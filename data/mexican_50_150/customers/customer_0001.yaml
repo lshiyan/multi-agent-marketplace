@@ -1,0 +1,11 @@
+id: customer_0001
+name: Liam Patel
+request: 'Please find a business that can fulfill the following order: 1 Coconut Lime
+  Paleta, 1 Passion Fruit Mojito, and 1 Street Corn Quesadilla. It is important that
+  the business can provide all of these items as I intend to place this order. Thank
+  you.'
+menu_features:
+  Coconut Lime Paleta: 3.99
+  Passion Fruit Mojito: 8.99
+  Street Corn Quesadilla: 10.99
+amenity_features: []

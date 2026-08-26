@@ -1,0 +1,43 @@
+id: business_0158
+name: Char & Cacao Cantina
+description: Char & Cacao Cantina blends classic Mexican and Tex-Mex flavors with
+  a creative twist. Enjoy a vibrant atmosphere and a menu featuring flame-grilled
+  favorites, fresh salads, and decadent desserts with a touch of chocolate.
+rating: 1.0
+progenitor_customer: customer_0053
+menu_features:
+  Grilled Steak Quesadilla: 15.26
+  Classic Tortilla Soup: 8.04
+  Charred Corn and Black Bean Salad: 9.79
+  Grilled Pineapple Salmon: 18.19
+  Roasted Corn Enchiladas: 9.13
+  Roasted Corn Elote: 2.29
+  Pumpkin Spice Flan: 6.58
+  Crispy Avocado and Lime Tacos: 11.71
+  Caramel Apple Empanadas: 5.55
+  Spicy Chocolate Churros: 6.96
+  Mexican Chocolate Brownie: 6.22
+  Horchata Milkshake: 7.16
+  Pineapple Agua Fresca: 3.34
+  Ranchero Steak Fajitas: 15.16
+  Sizzling Fajita Platter: 14.57
+  Cactus Cooler Margarita: 8.86
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Grilled Steak Quesadilla: 12.67
+  Classic Tortilla Soup: 6.67
+  Charred Corn and Black Bean Salad: 8.13
+  Grilled Pineapple Salmon: 15.1
+  Roasted Corn Enchiladas: 7.58
+  Roasted Corn Elote: 1.9
+  Pumpkin Spice Flan: 5.46
+  Crispy Avocado and Lime Tacos: 9.72
+  Caramel Apple Empanadas: 4.61
+  Spicy Chocolate Churros: 5.78
+  Mexican Chocolate Brownie: 5.16
+  Horchata Milkshake: 5.94
+  Pineapple Agua Fresca: 2.77
+  Ranchero Steak Fajitas: 12.58
+  Sizzling Fajita Platter: 12.09
+  Cactus Cooler Margarita: 7.35

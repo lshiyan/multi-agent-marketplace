@@ -1,0 +1,45 @@
+id: business_0422
+name: Mojito & Molcajete
+description: A vibrant gathering spot serving up bold Mexican and Tex-Mex favorites,
+  handcrafted drinks, and fresh, inventive flavors. Come enjoy a lively atmosphere
+  and a menu that blends tradition with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0141
+menu_features:
+  Classic Beef Enchiladas: 11.07
+  Refreshing Agua Fresca Trio: 5.74
+  Passion Fruit Mojito: 8.76
+  Horchata Iced Coffee: 3.62
+  Classic Horchata Delight: 3.8
+  Cheesy Jalapeno Queso: 7.04
+  Hatch Green Chile Rice: 4.87
+  Crispy Avocado Tacos: 12.75
+  Al Pastor Quesadilla: 11.9
+  Raspberry Chipotle Barbecue Ribs: 16.08
+  Pomegranate Agua Fresca: 4.31
+  Chili Lime Shrimp Skewers: 14.57
+  Spicy Pineapple Chipotle Margarita: 11.04
+  Avocado Lime Salad: 7.69
+  Spiced Pumpkin Empanadas: 6.36
+  Baja Shrimp Quesadilla: 15.49
+  Grilled Pineapple & Shrimp Quesadillas: 10.93
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Classic Beef Enchiladas: 9.41
+  Refreshing Agua Fresca Trio: 4.88
+  Passion Fruit Mojito: 7.45
+  Horchata Iced Coffee: 3.08
+  Classic Horchata Delight: 3.23
+  Cheesy Jalapeno Queso: 5.98
+  Hatch Green Chile Rice: 4.14
+  Crispy Avocado Tacos: 10.84
+  Al Pastor Quesadilla: 10.12
+  Raspberry Chipotle Barbecue Ribs: 13.67
+  Pomegranate Agua Fresca: 3.66
+  Chili Lime Shrimp Skewers: 12.38
+  Spicy Pineapple Chipotle Margarita: 9.38
+  Avocado Lime Salad: 6.54
+  Spiced Pumpkin Empanadas: 5.41
+  Baja Shrimp Quesadilla: 13.17
+  Grilled Pineapple & Shrimp Quesadillas: 9.29

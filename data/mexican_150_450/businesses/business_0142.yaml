@@ -1,0 +1,39 @@
+id: business_0142
+name: Tostada Trail
+description: Discover bold Mexican and Tex-Mex flavors at Tostada Trail, where every
+  bite celebrates fresh ingredients and vibrant spices. From sizzling classics to
+  inventive avocado creations, this is your path to unforgettable dining.
+rating: 1.0
+progenitor_customer: customer_0048
+menu_features:
+  Avocado & Tomato Breakfast Tostadas: 11.28
+  Spicy Avocado Smash Burger: 13.5
+  Sizzling Chicken Fajitas: 13.82
+  Hatch Green Chile Burger: 14.85
+  Chili Lime Jicama Sticks: 4.65
+  Caramelized Onion Queso Dip: 5.96
+  Savory Chorizo Street Tacos: 11.62
+  Avocado Lime Quinoa Bowl: 9.94
+  Cinnamon Sugar Churros: 5.74
+  Chipotle Chicken Enchiladas: 16.32
+  Smoky Lime Quinoa Salad: 9.27
+  Mango Jalapeno Salsa and Chips: 5.5
+  Al Pastor Quesadilla: 10.45
+  Pineapple Salsa Pork Tacos: 11.81
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Avocado & Tomato Breakfast Tostadas: 10.6
+  Spicy Avocado Smash Burger: 12.69
+  Sizzling Chicken Fajitas: 12.99
+  Hatch Green Chile Burger: 13.96
+  Chili Lime Jicama Sticks: 4.37
+  Caramelized Onion Queso Dip: 5.6
+  Savory Chorizo Street Tacos: 10.92
+  Avocado Lime Quinoa Bowl: 9.34
+  Cinnamon Sugar Churros: 5.4
+  Chipotle Chicken Enchiladas: 15.34
+  Smoky Lime Quinoa Salad: 8.71
+  Mango Jalapeno Salsa and Chips: 5.17
+  Al Pastor Quesadilla: 9.82
+  Pineapple Salsa Pork Tacos: 11.1

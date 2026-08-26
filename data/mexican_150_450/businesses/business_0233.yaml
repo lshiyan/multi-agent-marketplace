@@ -1,0 +1,37 @@
+id: business_0233
+name: Azul Citrus Cocina
+description: Experience the vibrant flavors of Mexican and Tex-Mex cuisine in a lively,
+  welcoming setting. Fresh ingredients and bold tastes await with a creative selection
+  of grilled dishes, refreshing drinks, and savory classics.
+rating: 1.0
+progenitor_customer: customer_0078
+menu_features:
+  Citrus Marinated Carne Asada: 15.91
+  Tropical Coconut Margarita: 10.01
+  Black Bean & Corn Quesadilla: 9.03
+  Beef Fajita Skillet: 16.3
+  Al Pastor Quesadilla: 14.65
+  Zesty Shrimp Quesadillas: 12.18
+  Honey Lime Chicken Fajitas: 16.03
+  Spicy Black Bean Tacos: 12.25
+  Zesty Lime Shrimp Salad: 12.4
+  Loaded Nacho Platter: 9.76
+  Chipotle Bourbon Carnitas: 14.85
+  Pineapple Agua Fresca: 3.96
+  Passion Fruit Mojito: 8.45
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Citrus Marinated Carne Asada: 11.46
+  Tropical Coconut Margarita: 7.21
+  Black Bean & Corn Quesadilla: 6.5
+  Beef Fajita Skillet: 11.74
+  Al Pastor Quesadilla: 10.55
+  Zesty Shrimp Quesadillas: 8.77
+  Honey Lime Chicken Fajitas: 11.54
+  Spicy Black Bean Tacos: 8.82
+  Zesty Lime Shrimp Salad: 8.93
+  Loaded Nacho Platter: 7.03
+  Chipotle Bourbon Carnitas: 10.69
+  Pineapple Agua Fresca: 2.85
+  Passion Fruit Mojito: 6.08

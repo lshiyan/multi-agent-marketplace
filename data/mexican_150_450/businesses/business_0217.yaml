@@ -1,0 +1,37 @@
+id: business_0217
+name: Sizzle & Sprout
+description: Sizzle & Sprout serves up vibrant Mexican and Tex-Mex cuisine with a
+  fresh, modern twist. Enjoy bold flavors, creative combinations, and spirited drinks
+  in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0073
+menu_features:
+  Vegetarian Tamale Platter: 11.12
+  Three-Cheese Queso Dip: 5.83
+  Black Bean & Cheese Enchiladas: 9.37
+  Chocolate Mole Chicken: 18.98
+  Tex-Mex Breakfast Skillet: 9.67
+  Smoky Black Bean Soup: 8.05
+  Cucumber Jalapeno Agua Fresca: 3.77
+  Raspberry Jalapeno Mojito: 8.13
+  Strawberry Jalapeno Lemonade: 4.24
+  Pineapple Salsa Shrimp Tacos: 12.63
+  Honey-Lime Shrimp Skewers: 15.71
+  Pineapple Jalapeno Margarita: 8.03
+  Smoky Chipotle Queso: 6.35
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Vegetarian Tamale Platter: 9.45
+  Three-Cheese Queso Dip: 4.96
+  Black Bean & Cheese Enchiladas: 7.96
+  Chocolate Mole Chicken: 16.13
+  Tex-Mex Breakfast Skillet: 8.22
+  Smoky Black Bean Soup: 6.84
+  Cucumber Jalapeno Agua Fresca: 3.2
+  Raspberry Jalapeno Mojito: 6.91
+  Strawberry Jalapeno Lemonade: 3.6
+  Pineapple Salsa Shrimp Tacos: 10.74
+  Honey-Lime Shrimp Skewers: 13.35
+  Pineapple Jalapeno Margarita: 6.83
+  Smoky Chipotle Queso: 5.4

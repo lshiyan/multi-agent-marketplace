@@ -1,0 +1,39 @@
+id: business_0271
+name: "Az\xFAcar & Agave Cantina"
+description: "Az\xFAcar & Agave Cantina blends vibrant Mexican tradition with modern\
+  \ flair, offering fresh flavors and creative drinks in a lively, welcoming atmosphere.\
+  \ Enjoy bold bites and sweet treats, perfect for any occasion."
+rating: 1.0
+progenitor_customer: customer_0091
+menu_features:
+  Cactus Cooler Margarita: 8.21
+  Horchata Cold Brew Coffee: 4.29
+  Spiced Churro Bites: 5.1
+  Spicy Avocado Smash Burger: 13.64
+  Crispy Carnitas Tacos: 12.57
+  Classic Horchata Delight: 3.65
+  Chili-Lime Cauliflower Bites: 8.48
+  Ancho Chile Chicken Salad: 9.18
+  Fresh Limeade: 4.32
+  Breakfast Chorizo Tostadas: 7.86
+  Al Pastor Pork Tacos: 12.25
+  Midnight Mole Enchiladas: 17.59
+  Rich Chocolate Tamales: 6.99
+  Chipotle Chicken Enchiladas: 14.32
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Cactus Cooler Margarita: 5.99
+  Horchata Cold Brew Coffee: 3.13
+  Spiced Churro Bites: 3.72
+  Spicy Avocado Smash Burger: 9.96
+  Crispy Carnitas Tacos: 9.18
+  Classic Horchata Delight: 2.66
+  Chili-Lime Cauliflower Bites: 6.19
+  Ancho Chile Chicken Salad: 6.7
+  Fresh Limeade: 3.15
+  Breakfast Chorizo Tostadas: 5.74
+  Al Pastor Pork Tacos: 8.94
+  Midnight Mole Enchiladas: 12.84
+  Rich Chocolate Tamales: 5.1
+  Chipotle Chicken Enchiladas: 10.45

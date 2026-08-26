@@ -1,0 +1,9 @@
+id: customer_0035
+name: Benjamin Wong
+request: 'I would like assistance in finding a business that can prepare and deliver
+  the following order: 1 Golden Tequila Sunrise. It is important that the business
+  can fulfill this exact request. Once identified, I intend to proceed with placing
+  this order. Thank you for your help.'
+menu_features:
+  Golden Tequila Sunrise: 8.99
+amenity_features: []

@@ -1,0 +1,11 @@
+id: customer_0029
+name: Isabella Chen
+request: Could you please assist me in locating a business that offers the following
+  menu items so I can place an order? I need 1 'Street Style Corn on the Cob', 1 'Red
+  Chili Braised Beef Brisket', and 1 'Avocado Ranch Burrito Bowl'. It's important
+  that the business can provide all of these items. Thank you!
+menu_features:
+  Street Style Corn on the Cob: 4.99
+  Red Chili Braised Beef Brisket: 14.59
+  Avocado Ranch Burrito Bowl: 12.49
+amenity_features: []

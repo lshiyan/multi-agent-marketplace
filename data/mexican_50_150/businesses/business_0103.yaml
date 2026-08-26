@@ -1,0 +1,47 @@
+id: business_0103
+name: Queso Far, Queso Good
+description: Discover a vibrant twist on classic Mexican and Tex-Mex fare, where every
+  bite brings smoky, spicy, and sweet flavors together. From sizzling favorites to
+  refreshing sips, we serve up crowd-pleasing dishes perfect for sharing and savoring.
+rating: 1.0
+progenitor_customer: customer_0035
+menu_features:
+  Mole Chicken Quesadilla: 11.75
+  Smoky Black Bean Tostadas: 7.07
+  Hatch Green Chile Burger: 10.9
+  Poblano Pepper Queso Dip: 7.2
+  Sizzling Steak Fajitas: 11.91
+  Sweet Corn Tamale Bites: 7.82
+  Peach Berry Sangria: 8.01
+  Agave Lime Chicken Skewers: 13.41
+  Sea Breeze Ceviche: 12.79
+  Savory Carne Asada Burrito: 11.16
+  Grilled Pineapple Salmon: 17.83
+  Braised Beef Barbacoa Tacos: 11.68
+  Tropical Coconut Margarita: 8.47
+  Chipotle Lime Shrimp Tacos: 11.43
+  Carne Asada Fajitas: 13.46
+  Creamy Chipotle Pasta: 10.76
+  Smoky Black Bean Enchiladas: 11.62
+  Refreshing Agua Fresca Trio: 7.76
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Mole Chicken Quesadilla: 7.76
+  Smoky Black Bean Tostadas: 4.67
+  Hatch Green Chile Burger: 7.19
+  Poblano Pepper Queso Dip: 4.75
+  Sizzling Steak Fajitas: 7.86
+  Sweet Corn Tamale Bites: 5.16
+  Peach Berry Sangria: 5.29
+  Agave Lime Chicken Skewers: 8.85
+  Sea Breeze Ceviche: 8.44
+  Savory Carne Asada Burrito: 7.37
+  Grilled Pineapple Salmon: 11.77
+  Braised Beef Barbacoa Tacos: 7.71
+  Tropical Coconut Margarita: 5.59
+  Chipotle Lime Shrimp Tacos: 7.54
+  Carne Asada Fajitas: 8.88
+  Creamy Chipotle Pasta: 7.1
+  Smoky Black Bean Enchiladas: 7.67
+  Refreshing Agua Fresca Trio: 5.12

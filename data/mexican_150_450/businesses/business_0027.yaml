@@ -1,0 +1,41 @@
+id: business_0027
+name: Pepper Patch
+description: Pepper Patch brings together vibrant flavors and fresh ingredients in
+  a lively, welcoming atmosphere. Enjoy a delicious array of Mexican and Tex-Mex dishes
+  inspired by classic favorites and creative twists.
+rating: 1.0
+progenitor_customer: customer_0009
+menu_features:
+  Sunset Grilled Veggie Tacos: 10.92
+  Smoky Black Bean Nachos: 10.85
+  Chili Lime Jicama Sticks: 6.31
+  Verde Ranchero Huevos: 8.42
+  Black Bean Avocado Enchiladas: 10.81
+  Pineapple Chipotle Salsa & Chips: 6.91
+  Grilled Street Corn: 5.41
+  Citrus Grilled Chicken Tacos: 14.47
+  Poblano Pepper Relleno Plate: 10.72
+  Sweet and Spicy Chicken Tostadas: 9.91
+  Cucumber Jalapeno Agua Fresca: 3.62
+  Smoky Chipotle Quesadillas: 9.37
+  Spicy Beef Chimichangas: 13.4
+  "Spicy Jalape\xF1o Limeade": 4.06
+  Classic Beef Barbacoa: 11.39
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Sunset Grilled Veggie Tacos: 6.99
+  Smoky Black Bean Nachos: 6.94
+  Chili Lime Jicama Sticks: 4.04
+  Verde Ranchero Huevos: 5.39
+  Black Bean Avocado Enchiladas: 6.92
+  Pineapple Chipotle Salsa & Chips: 4.42
+  Grilled Street Corn: 3.46
+  Citrus Grilled Chicken Tacos: 9.26
+  Poblano Pepper Relleno Plate: 6.86
+  Sweet and Spicy Chicken Tostadas: 6.34
+  Cucumber Jalapeno Agua Fresca: 2.32
+  Smoky Chipotle Quesadillas: 6.0
+  Spicy Beef Chimichangas: 8.58
+  "Spicy Jalape\xF1o Limeade": 2.6
+  Classic Beef Barbacoa: 7.29

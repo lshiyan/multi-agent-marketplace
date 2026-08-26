@@ -1,0 +1,41 @@
+id: business_0313
+name: El Sabor Dorado
+description: El Sabor Dorado brings a vibrant twist to classic Mexican and Tex-Mex
+  cuisine, blending bold flavors, fresh ingredients, and creative flair. Enjoy a welcoming
+  atmosphere where every meal is a golden celebration of tradition and taste.
+rating: 1.0
+progenitor_customer: customer_0105
+menu_features:
+  Roasted Pecan Flan: 6.43
+  Street Style Quesadillas: 8.08
+  Toasted Coconut Flan: 7.16
+  Red Chili Chicken Pozole: 12.75
+  Pineapple Habanero Salsa: 3.87
+  Pineapple Agua Fresca: 3.92
+  Blueberry Jalapeno Margarita: 6.75
+  Pineapple Pico de Gallo Nachos: 10.85
+  Verde Chicken Enchiladas: 9.62
+  Blue Agave Tequila Sunrise: 8.67
+  Pineapple Habanero Sake: 7.53
+  Crispy Avocado Burrito: 12.99
+  Creamy Jalapeno Corn Fritters: 6.59
+  Grilled Chipotle Chicken Burrito: 12.79
+  Sweet Potato and Black Bean Tacos: 12.17
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Roasted Pecan Flan: 5.34
+  Street Style Quesadillas: 6.71
+  Toasted Coconut Flan: 5.94
+  Red Chili Chicken Pozole: 10.58
+  Pineapple Habanero Salsa: 3.21
+  Pineapple Agua Fresca: 3.25
+  Blueberry Jalapeno Margarita: 5.6
+  Pineapple Pico de Gallo Nachos: 9.01
+  Verde Chicken Enchiladas: 7.98
+  Blue Agave Tequila Sunrise: 7.2
+  Pineapple Habanero Sake: 6.25
+  Crispy Avocado Burrito: 10.78
+  Creamy Jalapeno Corn Fritters: 5.47
+  Grilled Chipotle Chicken Burrito: 10.62
+  Sweet Potato and Black Bean Tacos: 10.1

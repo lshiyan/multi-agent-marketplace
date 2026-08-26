@@ -1,0 +1,7 @@
+id: customer_0001
+name: Leo Rossi
+request: Could you please find a business that offers the 'Classic Carne Asada Burrito'?
+  I would like to place an order for 1 of this item. Thank you!
+menu_features:
+  Classic Carne Asada Burrito: 12.49
+amenity_features: []

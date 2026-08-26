@@ -1,0 +1,47 @@
+id: business_0086
+name: "Sol y Saz\xF3n Grill"
+description: Experience vibrant Mexican flavors in a warm, inviting atmosphere. Our
+  menu features classics and fresh twists spanning smoky grilled specialties, colorful
+  veggie dishes, inventive margaritas, and signature salsas.
+rating: 1.0
+progenitor_customer: customer_0029
+menu_features:
+  Smoky Chipotle BBQ Ribs: 17.47
+  Pineapple Chipotle Salsa & Chips: 6.16
+  Red Chili Braised Beef Brisket: 13.49
+  Cactus Cooler Margarita: 8.36
+  Sunset Grilled Veggie Tacos: 11.1
+  Chili Lime Jicama Sticks: 7.04
+  Blueberry Jalapeno Margarita: 13.32
+  Black Bean & Corn Quesadilla: 10.15
+  Spicy Shrimp Nacho Platter: 9.06
+  Street Style Corn on the Cob: 4.88
+  Black Bean Stuffed Sweet Potatoes: 11.34
+  Spicy Beef Enchilada Bake: 11.68
+  Grilled Shrimp Skewers: 15.83
+  Baja Fish Taco Bowl: 9.24
+  "Blueberry Jalape\xF1o Margarita": 11.34
+  Jalapeno Mango Margarita: 8.48
+  Blue Agave Tequila Sunrise: 11.08
+  Avocado Ranch Burrito Bowl: 11.96
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Smoky Chipotle BBQ Ribs: 10.66
+  Pineapple Chipotle Salsa & Chips: 3.76
+  Red Chili Braised Beef Brisket: 8.23
+  Cactus Cooler Margarita: 5.1
+  Sunset Grilled Veggie Tacos: 6.77
+  Chili Lime Jicama Sticks: 4.29
+  Blueberry Jalapeno Margarita: 8.13
+  Black Bean & Corn Quesadilla: 6.19
+  Spicy Shrimp Nacho Platter: 5.53
+  Street Style Corn on the Cob: 2.98
+  Black Bean Stuffed Sweet Potatoes: 6.92
+  Spicy Beef Enchilada Bake: 7.12
+  Grilled Shrimp Skewers: 9.66
+  Baja Fish Taco Bowl: 5.64
+  "Blueberry Jalape\xF1o Margarita": 6.92
+  Jalapeno Mango Margarita: 5.17
+  Blue Agave Tequila Sunrise: 6.76
+  Avocado Ranch Burrito Bowl: 7.3

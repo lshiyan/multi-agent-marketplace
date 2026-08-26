@@ -1,0 +1,46 @@
+id: business_0254
+name: Blue Corn & Citrus
+description: Experience a fresh, modern twist on Mexican flavors at Blue Corn & Citrus,
+  where vibrant ingredients and creative pairings come together in a lively atmosphere.
+  Savor handcrafted dishes and unique desserts inspired by the rich culinary traditions
+  of Mexico and the Southwest.
+rating: 1.0
+progenitor_customer: customer_0085
+menu_features:
+  Warm Cinnamon Churros: 5.26
+  Avocado Lime Cheesecake: 5.59
+  Blue Corn Tortilla Chips: 4.41
+  Guava Limeade Cooler: 5.38
+  Sea Breeze Ceviche: 13.34
+  Black Bean and Sweet Potato Empanadas: 8.2
+  Smoky Black Bean Enchiladas: 11.33
+  Pineapple Agua Fresca: 4.17
+  Blueberry Tequila Sunrise: 9.92
+  Verde Ranchero Huevos: 8.47
+  Sizzling Chicken Fajitas: 14.93
+  Chipotle Lime Shrimp Tacos: 14.17
+  Spicy Shrimp Nacho Platter: 10.56
+  Shrimp Ceviche Cups: 10.52
+  Flamin' Skillet Fajitas: 15.44
+  Smoky Chipotle Enchiladas: 12.57
+  Pumpkin Spice Flan: 5.81
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Warm Cinnamon Churros: 3.31
+  Avocado Lime Cheesecake: 3.52
+  Blue Corn Tortilla Chips: 2.78
+  Guava Limeade Cooler: 3.39
+  Sea Breeze Ceviche: 8.4
+  Black Bean and Sweet Potato Empanadas: 5.17
+  Smoky Black Bean Enchiladas: 7.14
+  Pineapple Agua Fresca: 2.63
+  Blueberry Tequila Sunrise: 6.25
+  Verde Ranchero Huevos: 5.34
+  Sizzling Chicken Fajitas: 9.41
+  Chipotle Lime Shrimp Tacos: 8.93
+  Spicy Shrimp Nacho Platter: 6.65
+  Shrimp Ceviche Cups: 6.63
+  Flamin' Skillet Fajitas: 9.73
+  Smoky Chipotle Enchiladas: 7.92
+  Pumpkin Spice Flan: 3.66

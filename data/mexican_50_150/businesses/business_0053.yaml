@@ -1,0 +1,37 @@
+id: business_0053
+name: "Casa C\xE1lida Mexicana"
+description: Step into a warm and vibrant atmosphere where modern Mexican and Tex-Mex
+  flavors meet creative cocktails. Enjoy fresh, seasonal ingredients and bold tastes
+  inspired by the spirit of Mexico.
+rating: 1.0
+progenitor_customer: customer_0018
+menu_features:
+  Spiked Horchata Cooler: 7.16
+  Tamale Pie Casserole: 16.8
+  Fresh Watermelon Aqua Fresca: 3.34
+  Coconut Lime Rice Bowl: 9.68
+  Braised Beef Barbacoa Tacos: 10.52
+  Agave Lime Margarita: 10.29
+  Black Bean Avocado Enchiladas: 11.2
+  Chipotle Lime Chicken Skewers: 8.59
+  Blueberry Jalapeno Lemonade: 4.19
+  Roasted Poblano Soup: 6.12
+  Black Bean & Corn Quesadilla: 9.44
+  Tres Leches Cake: 6.69
+  Salted Caramel Margarita: 9.75
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Spiked Horchata Cooler: 5.01
+  Tamale Pie Casserole: 11.76
+  Fresh Watermelon Aqua Fresca: 2.34
+  Coconut Lime Rice Bowl: 6.78
+  Braised Beef Barbacoa Tacos: 7.36
+  Agave Lime Margarita: 7.2
+  Black Bean Avocado Enchiladas: 7.84
+  Chipotle Lime Chicken Skewers: 6.01
+  Blueberry Jalapeno Lemonade: 2.93
+  Roasted Poblano Soup: 4.28
+  Black Bean & Corn Quesadilla: 6.61
+  Tres Leches Cake: 4.68
+  Salted Caramel Margarita: 6.82

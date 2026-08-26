@@ -1,0 +1,37 @@
+id: business_0153
+name: La Mesa de Sabores
+description: Discover the vibrant flavors of Mexican and Tex-Mex cuisine with a creative
+  twist, featuring fresh ingredients, bold spices, and refreshing drinks. Enjoy a
+  welcoming atmosphere perfect for gathering over unforgettable bites and sips.
+rating: 1.0
+progenitor_customer: customer_0051
+menu_features:
+  Caramelized Plantain Empanadas: 7.35
+  Crispy Carnitas Tacos: 11.71
+  Pineapple Jalapeno Margarita: 9.42
+  Breakfast Burrito Bowl: 8.29
+  Blueberry Jalapeno Lemonade: 3.66
+  Salted Caramel Margarita: 11.36
+  Avocado Street Tacos: 11.98
+  Creamy Avocado Smoothie: 5.3
+  Zesty Lime Shrimp Tostadas: 11.6
+  Crispy Fish Baja Bowl: 13.44
+  Sizzling Chicken Fajitas: 13.85
+  Guava Limeade Cooler: 4.88
+  Zesty Lime Chicken Enchiladas: 12.63
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Caramelized Plantain Empanadas: 4.78
+  Crispy Carnitas Tacos: 7.61
+  Pineapple Jalapeno Margarita: 6.12
+  Breakfast Burrito Bowl: 5.39
+  Blueberry Jalapeno Lemonade: 2.38
+  Salted Caramel Margarita: 7.38
+  Avocado Street Tacos: 7.79
+  Creamy Avocado Smoothie: 3.44
+  Zesty Lime Shrimp Tostadas: 7.54
+  Crispy Fish Baja Bowl: 8.74
+  Sizzling Chicken Fajitas: 9.0
+  Guava Limeade Cooler: 3.17
+  Zesty Lime Chicken Enchiladas: 8.21

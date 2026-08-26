@@ -1,0 +1,33 @@
+id: business_0105
+name: La Tierra Dulce Cantina
+description: Experience the vibrant flavors of Mexico and the Southwest in a colorful,
+  welcoming setting. Our menu brings together sweet and savory specialties with a
+  creative twist, perfect for every palate.
+rating: 1.0
+progenitor_customer: customer_0035
+menu_features:
+  Rich Chocolate Tamales: 6.67
+  Tamarind-Glazed Ribs: 17.3
+  Black Bean and Lime Soup: 5.64
+  Smoky Chipotle Quesadillas: 10.14
+  Ancho Chile BBQ Ribs: 17.37
+  Sweet Plantain Empanadas: 7.3
+  Golden Tequila Sunrise: 8.11
+  Pineapple Jalapeno Margarita: 6.96
+  Pineapple Chipotle Salsa & Chips: 6.34
+  Chili-Lime Cauliflower Bites: 9.24
+  Sunrise Breakfast Tacos: 10.75
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Rich Chocolate Tamales: 5.74
+  Tamarind-Glazed Ribs: 14.88
+  Black Bean and Lime Soup: 4.85
+  Smoky Chipotle Quesadillas: 8.72
+  Ancho Chile BBQ Ribs: 14.94
+  Sweet Plantain Empanadas: 6.28
+  Golden Tequila Sunrise: 6.97
+  Pineapple Jalapeno Margarita: 5.99
+  Pineapple Chipotle Salsa & Chips: 5.45
+  Chili-Lime Cauliflower Bites: 7.95
+  Sunrise Breakfast Tacos: 9.24

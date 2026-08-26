@@ -1,0 +1,41 @@
+id: business_0212
+name: Poblano & Palate
+description: A vibrant destination for modern Mexican and Tex-Mex fare, where bold
+  flavors meet fresh ingredients in innovative pairings. Enjoy an inviting atmosphere
+  and a menu crafted for festive gatherings and memorable occasions.
+rating: 1.0
+progenitor_customer: customer_0071
+menu_features:
+  Creamy Jalapeno Corn Fritters: 8.38
+  Mesquite Grilled Steak Fajitas: 15.39
+  Blueberry Agave Margarita: 9.66
+  Coconut Lime Shrimp Skewers: 15.68
+  Pineapple Chipotle Salsa & Chips: 4.77
+  Passionfruit Agua Fresca: 3.05
+  Fiesta Street Corn: 4.6
+  Roasted Poblano and Cheese Empanadas: 10.36
+  Midnight Mole Enchiladas: 15.7
+  Sunset Grilled Veggie Tacos: 10.87
+  Zesty Lime Chicken Enchiladas: 11.78
+  Garlic Lime Shrimp Salad: 15.89
+  Mexican Coffee Flan: 6.37
+  Ancho Chile BBQ Ribs: 22.83
+  Beef Barbacoa Tostadas: 14.74
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Creamy Jalapeno Corn Fritters: 7.71
+  Mesquite Grilled Steak Fajitas: 14.16
+  Blueberry Agave Margarita: 8.89
+  Coconut Lime Shrimp Skewers: 14.43
+  Pineapple Chipotle Salsa & Chips: 4.39
+  Passionfruit Agua Fresca: 2.81
+  Fiesta Street Corn: 4.23
+  Roasted Poblano and Cheese Empanadas: 9.53
+  Midnight Mole Enchiladas: 14.44
+  Sunset Grilled Veggie Tacos: 10.0
+  Zesty Lime Chicken Enchiladas: 10.84
+  Garlic Lime Shrimp Salad: 14.62
+  Mexican Coffee Flan: 5.86
+  Ancho Chile BBQ Ribs: 21.0
+  Beef Barbacoa Tostadas: 13.56

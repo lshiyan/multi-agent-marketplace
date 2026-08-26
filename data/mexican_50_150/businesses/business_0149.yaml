@@ -1,0 +1,41 @@
+id: business_0149
+name: Citrus & Cocoa Cantina
+description: Step into a vibrant cantina where bold Mexican and Tex-Mex flavors meet
+  creative cocktails and sweet treats, all crafted with fresh ingredients. Experience
+  a delicious twist on tradition in a lively, inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0050
+menu_features:
+  Tamarind Glazed Wings: 13.7
+  Ancho Chili Rubbed Steak: 16.63
+  Blueberry Agave Mojito: 8.4
+  Tropical Pineapple Salsa: 3.74
+  Loaded Street Corn: 8.04
+  Cocoa Cinnamon Tequila: 10.03
+  "Spicy Jalape\xF1o Limeade": 2.5
+  Sweet Corn Tamale Cake: 6.89
+  Mole Chicken Quesadilla: 10.54
+  Fajita Veggie Burrito Bowl: 15.11
+  Ancho Chile Chicken Salad: 7.84
+  Guava Limeade Cooler: 4.87
+  Carnitas Plantain Burrito: 12.99
+  Golden Tequila Sunrise: 9.77
+  Coconut Lime Tres Leches: 7.4
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Tamarind Glazed Wings: 11.51
+  Ancho Chili Rubbed Steak: 13.97
+  Blueberry Agave Mojito: 7.06
+  Tropical Pineapple Salsa: 3.14
+  Loaded Street Corn: 6.75
+  Cocoa Cinnamon Tequila: 8.43
+  "Spicy Jalape\xF1o Limeade": 2.1
+  Sweet Corn Tamale Cake: 5.79
+  Mole Chicken Quesadilla: 8.85
+  Fajita Veggie Burrito Bowl: 12.69
+  Ancho Chile Chicken Salad: 6.59
+  Guava Limeade Cooler: 4.09
+  Carnitas Plantain Burrito: 10.91
+  Golden Tequila Sunrise: 8.21
+  Coconut Lime Tres Leches: 6.22

@@ -1,0 +1,39 @@
+id: business_0363
+name: Flare & Fry
+description: Savor vibrant Mexican and Tex-Mex plates in a lively, welcoming setting.
+  From sizzling skillets to indulgent desserts and refreshing drinks, each dish offers
+  a bold taste of tradition with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0121
+menu_features:
+  Black Bean and Cilantro Rice: 3.49
+  Gourmet Nacho Platter: 11.54
+  Beef Fajita Skillet: 12.63
+  Refreshing Agua Fresca Trio: 7.3
+  Caramelized Plantain Empanadas: 6.79
+  Loaded Nacho Fries: 8.75
+  Smoky Black Bean Tostadas: 6.39
+  Smoky Chipotle Queso: 6.98
+  Horchata Milkshake: 5.26
+  Spicy Mango Margarita: 8.6
+  Spiced Chocolate Flan: 6.07
+  Tamale Pie Casserole: 13.26
+  Classic Mojito with Mint: 9.35
+  Pineapple Salsa Pork Tacos: 12.47
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Black Bean and Cilantro Rice: 2.69
+  Gourmet Nacho Platter: 8.89
+  Beef Fajita Skillet: 9.73
+  Refreshing Agua Fresca Trio: 5.62
+  Caramelized Plantain Empanadas: 5.23
+  Loaded Nacho Fries: 6.74
+  Smoky Black Bean Tostadas: 4.92
+  Smoky Chipotle Queso: 5.37
+  Horchata Milkshake: 4.05
+  Spicy Mango Margarita: 6.62
+  Spiced Chocolate Flan: 4.67
+  Tamale Pie Casserole: 10.21
+  Classic Mojito with Mint: 7.2
+  Pineapple Salsa Pork Tacos: 9.6

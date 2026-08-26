@@ -1,0 +1,43 @@
+id: business_0011
+name: Nacho Nook
+description: Step into Nacho Nook, where vibrant Tex-Mex flavors meet a cozy atmosphere.
+  Enjoy a creative menu of sizzling small plates, zesty grilled dishes, and delightful
+  desserts handcrafted with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0004
+menu_features:
+  Peppered Steak Nachos: 10.24
+  Classic Tortilla Soup: 7.06
+  Tomatillo Salsa Verde Nachos: 11.09
+  Chipotle Lime Chicken Skewers: 12.69
+  Chili Lime Shrimp Skewers: 11.25
+  Roasted Tomato Salsa Dip: 4.06
+  Beef Fajita Skillet: 14.89
+  Black Bean & Corn Quesadilla: 10.99
+  Street Corn Elote: 4.48
+  Spiced Chocolate Flan: 7.78
+  Zesty Lime Shrimp Tostadas: 9.49
+  Chipotle Lime Shrimp Tacos: 9.77
+  Crispy Carnitas Tacos: 13.89
+  Margarita Grilled Chicken: 12.37
+  Rich Chocolate Tamales: 6.44
+  Blueberry Jalapeno Margarita: 12.74
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Peppered Steak Nachos: 7.48
+  Classic Tortilla Soup: 5.15
+  Tomatillo Salsa Verde Nachos: 8.1
+  Chipotle Lime Chicken Skewers: 9.26
+  Chili Lime Shrimp Skewers: 8.21
+  Roasted Tomato Salsa Dip: 2.96
+  Beef Fajita Skillet: 10.87
+  Black Bean & Corn Quesadilla: 8.02
+  Street Corn Elote: 3.27
+  Spiced Chocolate Flan: 5.68
+  Zesty Lime Shrimp Tostadas: 6.93
+  Chipotle Lime Shrimp Tacos: 7.13
+  Crispy Carnitas Tacos: 10.14
+  Margarita Grilled Chicken: 9.03
+  Rich Chocolate Tamales: 4.7
+  Blueberry Jalapeno Margarita: 9.3

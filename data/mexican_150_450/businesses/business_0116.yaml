@@ -1,0 +1,39 @@
+id: business_0116
+name: "Casa Dulce y Saz\xF3n"
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm, welcoming setting.
+  Indulge in fresh salsas, hearty classics, and sweet treats crafted with a modern
+  twist.
+rating: 1.0
+progenitor_customer: customer_0039
+menu_features:
+  Caramel Apple Empanadas: 6.11
+  Verde Chicken Enchiladas: 11.56
+  Pineapple Habanero Salsa: 3.59
+  Sunrise Breakfast Tacos: 11.01
+  Mexican Street Corn Dip: 8.52
+  Roasted Tomato Salsa Dip: 3.19
+  Chocolate Sopapilla Bites: 5.89
+  Beef Barbacoa Tostadas: 10.19
+  Spicy Shrimp Nacho Platter: 8.89
+  Passionfruit Agua Fresca: 3.06
+  Carne Asada Fajitas: 15.48
+  Cheesy Jalapeno Queso: 8.42
+  Garlic Lime Shrimp Salad: 13.25
+  Roasted Poblano Corn Chowder: 8.64
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Caramel Apple Empanadas: 5.38
+  Verde Chicken Enchiladas: 10.17
+  Pineapple Habanero Salsa: 3.16
+  Sunrise Breakfast Tacos: 9.69
+  Mexican Street Corn Dip: 7.5
+  Roasted Tomato Salsa Dip: 2.81
+  Chocolate Sopapilla Bites: 5.18
+  Beef Barbacoa Tostadas: 8.97
+  Spicy Shrimp Nacho Platter: 7.82
+  Passionfruit Agua Fresca: 2.69
+  Carne Asada Fajitas: 13.62
+  Cheesy Jalapeno Queso: 7.41
+  Garlic Lime Shrimp Salad: 11.66
+  Roasted Poblano Corn Chowder: 7.6

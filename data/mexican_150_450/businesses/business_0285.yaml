@@ -1,0 +1,44 @@
+id: business_0285
+name: Churro, Grill & Harmony
+description: Savor the taste of Mexico and the Southwest with a vibrant medley of
+  grilled specialties, fresh flavors, and sweet endings. Our kitchen strikes the perfect
+  chord between bold, zesty dishes and irresistible desserts in a lively and welcoming
+  setting.
+rating: 1.0
+progenitor_customer: customer_0095
+menu_features:
+  Baja Shrimp Quesadilla: 15.51
+  Creamy Poblano Corn Chowder: 8.45
+  Stuffed Chicken Poblano: 12.86
+  Hatch Green Chile Rice: 4.39
+  Chili Lime Shrimp Skewers: 9.1
+  Street Style Quesadillas: 9.92
+  Cinnamon Sugar Churro Sticks: 5.2
+  Crispy Carnitas Quesadilla: 11.25
+  Strawberry Jalapeno Lemonade: 3.26
+  Zesty Lime Grilled Chicken: 18.0
+  Warm Churro Bites: 6.63
+  Fresh Mint Mojito: 8.34
+  Spiced Agave Margarita: 11.02
+  Mesquite Grilled Steak Fajitas: 13.24
+  Poblano Pepper Relleno Plate: 9.81
+  Toasted Coconut Flan: 5.92
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Baja Shrimp Quesadilla: 11.17
+  Creamy Poblano Corn Chowder: 6.08
+  Stuffed Chicken Poblano: 9.26
+  Hatch Green Chile Rice: 3.16
+  Chili Lime Shrimp Skewers: 6.55
+  Street Style Quesadillas: 7.14
+  Cinnamon Sugar Churro Sticks: 3.74
+  Crispy Carnitas Quesadilla: 8.1
+  Strawberry Jalapeno Lemonade: 2.35
+  Zesty Lime Grilled Chicken: 12.96
+  Warm Churro Bites: 4.77
+  Fresh Mint Mojito: 6.0
+  Spiced Agave Margarita: 7.93
+  Mesquite Grilled Steak Fajitas: 9.53
+  Poblano Pepper Relleno Plate: 7.06
+  Toasted Coconut Flan: 4.26

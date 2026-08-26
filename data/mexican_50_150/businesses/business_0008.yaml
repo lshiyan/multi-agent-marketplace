@@ -1,0 +1,35 @@
+id: business_0008
+name: Grain Expectations
+description: Experience a bold twist on Mexican and Tex-Mex flavors, where every meal
+  surprises with fresh ingredients and creative combinations. From grilled favorites
+  to inventive bites, you'll savor every flavorful detail.
+rating: 1.0
+progenitor_customer: customer_0003
+menu_features:
+  Mushroom & Cheese Tamales: 5.57
+  Mesquite Grilled Steak Fajitas: 13.35
+  Smoky Chipotle Black Bean Soup: 9.99
+  Fresh Corn Elote: 4.16
+  Chipotle BBQ Tacos: 14.35
+  Crispy Tortilla Breakfast Bowl: 9.04
+  Black Bean Burgers: 11.18
+  Spicy Chipotle Chicken Wrap: 9.23
+  Smoky Black Bean Soup: 5.02
+  Chocolate Sopapilla Bites: 5.35
+  Roasted Poblano Quesadilla: 12.25
+  Blueberry Agave Agua Fresca: 4.17
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Mushroom & Cheese Tamales: 4.9
+  Mesquite Grilled Steak Fajitas: 11.75
+  Smoky Chipotle Black Bean Soup: 8.79
+  Fresh Corn Elote: 3.66
+  Chipotle BBQ Tacos: 12.63
+  Crispy Tortilla Breakfast Bowl: 7.96
+  Black Bean Burgers: 9.84
+  Spicy Chipotle Chicken Wrap: 8.12
+  Smoky Black Bean Soup: 4.42
+  Chocolate Sopapilla Bites: 4.71
+  Roasted Poblano Quesadilla: 10.78
+  Blueberry Agave Agua Fresca: 3.67

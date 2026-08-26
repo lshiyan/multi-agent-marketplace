@@ -1,0 +1,48 @@
+id: business_0090
+name: Burrito & Beanery
+description: Burrito & Beanery blends inventive Tex-Mex flavors with classic Mexican
+  inspirations, serving up crispy bites, zesty sips, and sweet treats in a vibrant,
+  welcoming atmosphere. Enjoy a memorable culinary experience with creative takes
+  on familiar favorites.
+rating: 1.0
+progenitor_customer: customer_0030
+menu_features:
+  Crispy Avocado Burrito: 12.73
+  Rich Chocolate Tres Leches: 7.39
+  Hatch Green Chile Rice: 4.73
+  Verde Ranchero Huevos: 9.98
+  Crispy Carnitas Quesadilla: 10.9
+  Coconut Tres Leches: 6.56
+  Horchata Iced Latte: 5.08
+  Smoky Black Bean Tostadas: 8.34
+  Blueberry Agave Agua Fresca: 5.71
+  Sunrise Breakfast Tacos: 8.01
+  Caramelized Plantain Empanadas: 7.46
+  Frozen Strawberry Daiquiri: 9.04
+  Citrus Marinated Carne Asada: 13.61
+  Caramelized Onion and Goat Cheese Empanadas: 6.17
+  Chocolate Sopapilla Bites: 5.01
+  Raspberry Chipotle Barbecue Ribs: 15.11
+  "Blueberry Jalape\xF1o Margarita": 11.21
+  Stuffed Chicken Poblano: 15.28
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Crispy Avocado Burrito: 8.02
+  Rich Chocolate Tres Leches: 4.66
+  Hatch Green Chile Rice: 2.98
+  Verde Ranchero Huevos: 6.29
+  Crispy Carnitas Quesadilla: 6.87
+  Coconut Tres Leches: 4.13
+  Horchata Iced Latte: 3.2
+  Smoky Black Bean Tostadas: 5.25
+  Blueberry Agave Agua Fresca: 3.6
+  Sunrise Breakfast Tacos: 5.05
+  Caramelized Plantain Empanadas: 4.7
+  Frozen Strawberry Daiquiri: 5.7
+  Citrus Marinated Carne Asada: 8.57
+  Caramelized Onion and Goat Cheese Empanadas: 3.89
+  Chocolate Sopapilla Bites: 3.16
+  Raspberry Chipotle Barbecue Ribs: 9.52
+  "Blueberry Jalape\xF1o Margarita": 7.06
+  Stuffed Chicken Poblano: 9.63

@@ -1,0 +1,43 @@
+id: business_0200
+name: Fajita & Flan
+description: Indulge your senses with fresh, vibrant Tex-Mex cuisine and decadent
+  desserts in a lively, welcoming atmosphere. From sizzling fajitas to sweet treats,
+  every meal is a celebration of flavor.
+rating: 1.0
+progenitor_customer: customer_0067
+menu_features:
+  Rich Chocolate Tres Leches: 8.15
+  Spicy Pineapple Salsa Dip: 4.69
+  Mexican Chocolate Brownie: 5.94
+  Rich Chocolate Tamales: 5.41
+  Caramel Apple Empanadas: 4.78
+  Churro Ice Cream Sandwich: 6.77
+  Honey Lime Grilled Chicken: 11.48
+  Ranchero Steak Fajitas: 19.18
+  Sizzling Chicken Fajitas: 15.05
+  Guava Limeade Cooler: 5.02
+  Pineapple Tequila Chicken Skewers: 17.52
+  Smoky Chipotle Quesadillas: 8.74
+  Fresh Limeade: 3.39
+  Pineapple Habanero Salsa: 4.39
+  Honey Lime Chicken Fajitas: 13.7
+  Breakfast Chorizo Torta: 8.49
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Rich Chocolate Tres Leches: 5.46
+  Spicy Pineapple Salsa Dip: 3.14
+  Mexican Chocolate Brownie: 3.98
+  Rich Chocolate Tamales: 3.62
+  Caramel Apple Empanadas: 3.2
+  Churro Ice Cream Sandwich: 4.54
+  Honey Lime Grilled Chicken: 7.69
+  Ranchero Steak Fajitas: 12.85
+  Sizzling Chicken Fajitas: 10.08
+  Guava Limeade Cooler: 3.36
+  Pineapple Tequila Chicken Skewers: 11.74
+  Smoky Chipotle Quesadillas: 5.86
+  Fresh Limeade: 2.27
+  Pineapple Habanero Salsa: 2.94
+  Honey Lime Chicken Fajitas: 9.18
+  Breakfast Chorizo Torta: 5.69

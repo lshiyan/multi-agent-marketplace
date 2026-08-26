@@ -1,0 +1,43 @@
+id: business_0370
+name: Churro & Charcoal
+description: Churro & Charcoal brings the vibrant flavors of Mexico and Tex-Mex cuisine
+  to life, blending smoky grilled favorites with sweet and spiced delights. Enjoy
+  a warm, festive atmosphere and a menu full of bold, modern twists on classic dishes.
+rating: 1.0
+progenitor_customer: customer_0124
+menu_features:
+  Grilled Steak Quesadilla: 12.69
+  Pineapple Agua Fresca: 4.24
+  Cinnamon Sugar Churros: 5.64
+  Black Bean & Corn Enchiladas: 11.41
+  Sizzling Pork Carnitas Bowl: 11.36
+  Smoky Black Bean Enchiladas: 14.17
+  Breakfast Chorizo Torta: 10.24
+  Roasted Pepper Queso Dip: 8.06
+  Pineapple Jalapeno Salsa: 5.13
+  Avocado Street Tacos: 11.37
+  Horchata Iced Latte: 3.99
+  Grilled Chipotle Chicken Burrito: 12.47
+  Baja Fish Burrito: 15.52
+  Poblano Pepper Relleno Plate: 9.5
+  Gourmet Nacho Platter: 11.8
+  Cocoa Dusted Churro Bites: 5.98
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Grilled Steak Quesadilla: 10.66
+  Pineapple Agua Fresca: 3.56
+  Cinnamon Sugar Churros: 4.74
+  Black Bean & Corn Enchiladas: 9.58
+  Sizzling Pork Carnitas Bowl: 9.54
+  Smoky Black Bean Enchiladas: 11.9
+  Breakfast Chorizo Torta: 8.6
+  Roasted Pepper Queso Dip: 6.77
+  Pineapple Jalapeno Salsa: 4.31
+  Avocado Street Tacos: 9.55
+  Horchata Iced Latte: 3.35
+  Grilled Chipotle Chicken Burrito: 10.47
+  Baja Fish Burrito: 13.04
+  Poblano Pepper Relleno Plate: 7.98
+  Gourmet Nacho Platter: 9.91
+  Cocoa Dusted Churro Bites: 5.02

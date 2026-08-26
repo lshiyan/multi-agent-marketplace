@@ -1,0 +1,7 @@
+id: customer_0045
+name: Lucy Bennett
+request: 'I would like to place an order for the following item: 1 Frozen Mango Margarita.
+  Please find a business that serves this and confirm the order. Thank you.'
+menu_features:
+  Frozen Mango Margarita: 9.49
+amenity_features: []

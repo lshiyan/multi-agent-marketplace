@@ -1,0 +1,39 @@
+id: business_0019
+name: Lime & Layers
+description: Experience bright, bold flavors and inventive Tex-Mex fare crafted with
+  fresh, vibrant ingredients. From zesty appetizers to satisfying classics, every
+  dish at Lime & Layers is a celebration of taste and tradition.
+rating: 1.0
+progenitor_customer: customer_0007
+menu_features:
+  Avocado Lime Empanadas: 7.53
+  Caramelized Onion and Goat Cheese Empanadas: 6.29
+  Chorizo Breakfast Burrito: 10.64
+  Chili Lime Jicama Sticks: 6.22
+  Agave Lime Chicken Skewers: 11.79
+  Pineapple Jalapeno Salsa: 4.35
+  Spicy Street Corn: 5.7
+  Black Bean & Cheese Enchiladas: 10.42
+  Citrus Grilled Chicken Tacos: 12.7
+  Huevos Rancheros: 9.72
+  Crisp Jicama Slaw: 4.98
+  Warm Cinnamon Churros: 5.39
+  Blue Corn Tostada Salad: 8.92
+  Fresh Lime Cilantro Rice: 3.37
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Avocado Lime Empanadas: 4.97
+  Caramelized Onion and Goat Cheese Empanadas: 4.15
+  Chorizo Breakfast Burrito: 7.02
+  Chili Lime Jicama Sticks: 4.11
+  Agave Lime Chicken Skewers: 7.78
+  Pineapple Jalapeno Salsa: 2.87
+  Spicy Street Corn: 3.76
+  Black Bean & Cheese Enchiladas: 6.88
+  Citrus Grilled Chicken Tacos: 8.38
+  Huevos Rancheros: 6.42
+  Crisp Jicama Slaw: 3.29
+  Warm Cinnamon Churros: 3.56
+  Blue Corn Tostada Salad: 5.89
+  Fresh Lime Cilantro Rice: 2.22

@@ -1,0 +1,7 @@
+id: customer_0131
+name: Charlotte Patel
+request: "Could you please find a business that serves 'Cheesy Jalape\0f1o Quesadillas'\
+  \ and place an order for 1 of this item? Thank you for your assistance."
+menu_features:
+  "Cheesy Jalape\xF1o Quesadillas": 9.99
+amenity_features: []

@@ -1,0 +1,40 @@
+id: business_0235
+name: Poblano Ember Kitchen
+description: Experience a modern twist on Mexican and Tex-Mex classics, featuring
+  fire-roasted flavors, vibrant salsas, and inventive takes on timeless favorites.
+  Our cozy, upbeat setting is the perfect spot to enjoy bold dishes and signature
+  drinks with friends.
+rating: 1.0
+progenitor_customer: customer_0079
+menu_features:
+  Poblano Pepper Relleno Plate: 10.9
+  Creamy Poblano Corn Chowder: 7.73
+  Cactus Flower Iced Tea: 3.36
+  Creamy Jalapeno Corn Fritters: 6.39
+  Roasted Poblano Queso Dip: 7.25
+  Tamarind Ginger Cooler: 4.64
+  Spicy Shrimp Nacho Platter: 10.38
+  Coconut Lime Tres Leches: 5.71
+  Chocolate Tamale Cake: 7.01
+  Citrus Grilled Chicken Tacos: 12.02
+  Mole Chicken Quesadilla: 11.92
+  Tamarind Citrus Margarita: 7.89
+  Chocolate Mole Brownie: 7.49
+  Fire Roasted Salsa Sampler: 4.99
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Poblano Pepper Relleno Plate: 7.19
+  Creamy Poblano Corn Chowder: 5.1
+  Cactus Flower Iced Tea: 2.22
+  Creamy Jalapeno Corn Fritters: 4.22
+  Roasted Poblano Queso Dip: 4.79
+  Tamarind Ginger Cooler: 3.06
+  Spicy Shrimp Nacho Platter: 6.85
+  Coconut Lime Tres Leches: 3.77
+  Chocolate Tamale Cake: 4.63
+  Citrus Grilled Chicken Tacos: 7.93
+  Mole Chicken Quesadilla: 7.87
+  Tamarind Citrus Margarita: 5.21
+  Chocolate Mole Brownie: 4.94
+  Fire Roasted Salsa Sampler: 3.29

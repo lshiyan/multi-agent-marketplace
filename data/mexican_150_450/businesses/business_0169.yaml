@@ -1,0 +1,42 @@
+id: business_0169
+name: Citrus Ember Kitchen
+description: Discover bold and vibrant flavors at Citrus Ember Kitchen, where modern
+  Mexican and Tex-Mex dishes come alive with fresh ingredients, zesty spices, and
+  a creative twist. From street classics to inventive plates, enjoy a warm and lively
+  dining experience.
+rating: 1.0
+progenitor_customer: customer_0057
+menu_features:
+  Honey Chipotle Wings: 11.41
+  Chipotle Lime Chicken Skewers: 9.2
+  Fresh Lime and Cilantro Guacamole: 9.2
+  Grilled Street Corn: 5.55
+  Mango Habanero Wings: 12.47
+  Avocado Lime Quinoa Bowl: 7.21
+  Tropical Guava Mint Punch: 6.13
+  Breakfast Chorizo Tostadas: 8.65
+  Zesty Shrimp Ceviche: 10.92
+  Spicy Shrimp Ceviche: 12.68
+  Ancho Chili Chocolate Cake: 6.45
+  Black Bean Street Tacos: 8.35
+  Chocolate Cinnamon Flan: 6.35
+  Grilled Chipotle Chicken Burrito: 12.01
+  Crispy Fish Baja Bowl: 13.46
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Honey Chipotle Wings: 10.61
+  Chipotle Lime Chicken Skewers: 8.56
+  Fresh Lime and Cilantro Guacamole: 8.56
+  Grilled Street Corn: 5.16
+  Mango Habanero Wings: 11.6
+  Avocado Lime Quinoa Bowl: 6.71
+  Tropical Guava Mint Punch: 5.7
+  Breakfast Chorizo Tostadas: 8.04
+  Zesty Shrimp Ceviche: 10.16
+  Spicy Shrimp Ceviche: 11.79
+  Ancho Chili Chocolate Cake: 6.0
+  Black Bean Street Tacos: 7.77
+  Chocolate Cinnamon Flan: 5.91
+  Grilled Chipotle Chicken Burrito: 11.17
+  Crispy Fish Baja Bowl: 12.52

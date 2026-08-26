@@ -1,0 +1,37 @@
+id: business_0107
+name: Sope Opera
+description: Where every plate tells a flavorful tale! Dive into a lively lineup of
+  Mexican and Tex-Mex classics, reimagined with bold spices, sizzling flavors, and
+  a dash of drama.
+rating: 1.0
+progenitor_customer: customer_0036
+menu_features:
+  Three Cheese Sope: 11.85
+  Roasted Poblano Corn Chowder: 6.48
+  Sweet and Spicy Chicken Tostadas: 9.42
+  Chorizo and Egg Tacos: 9.29
+  Spiced Chocolate Tres Leches: 5.01
+  Chipotle Bourbon Carnitas: 13.21
+  Sizzling Fajita Plate: 15.79
+  Roasted Poblano Rellenos: 12.58
+  Honey Chipotle Shrimp Bowl: 17.4
+  Adobo Pork Sliders: 11.02
+  Molten Queso Fundido: 6.39
+  Warm Churro Bites: 6.03
+  Sizzling Pork Carnitas Bowl: 11.86
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Three Cheese Sope: 8.41
+  Roasted Poblano Corn Chowder: 4.6
+  Sweet and Spicy Chicken Tostadas: 6.69
+  Chorizo and Egg Tacos: 6.6
+  Spiced Chocolate Tres Leches: 3.56
+  Chipotle Bourbon Carnitas: 9.38
+  Sizzling Fajita Plate: 11.21
+  Roasted Poblano Rellenos: 8.93
+  Honey Chipotle Shrimp Bowl: 12.35
+  Adobo Pork Sliders: 7.82
+  Molten Queso Fundido: 4.54
+  Warm Churro Bites: 4.28
+  Sizzling Pork Carnitas Bowl: 8.42

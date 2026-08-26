@@ -1,0 +1,43 @@
+id: business_0033
+name: La Estrella de Sabor
+description: Experience the vibrant flavors of Mexico and the Southwest in a lively
+  setting. Our menu features a unique blend of classic and contemporary dishes, perfect
+  for sharing and savoring with friends and family.
+rating: 1.0
+progenitor_customer: customer_0011
+menu_features:
+  Blueberry Tequila Sunrise: 11.19
+  Street Style Quesadillas: 11.09
+  Black Bean and Sweet Potato Empanadas: 9.72
+  Mini Street Tacos Platter: 9.51
+  Spicy Black Bean Enchiladas: 13.3
+  Spiced Chocolate Flan: 7.13
+  Spicy Black Bean and Cheese Quesadilla: 8.92
+  Spicy Beef Chimichangas: 15.66
+  Spicy Chocolate Churros: 6.23
+  Sizzling Chicken Fajitas: 14.9
+  Crispy Fish Tacos: 11.89
+  Crispy Carnitas Tacos: 13.37
+  Cilantro Lime Grilled Shrimp: 13.34
+  Mango Habanero Wings: 12.2
+  Tequila Lime Flan: 7.92
+  Creamy Jalapeno Corn Fritters: 9.49
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Blueberry Tequila Sunrise: 8.39
+  Street Style Quesadillas: 8.32
+  Black Bean and Sweet Potato Empanadas: 7.29
+  Mini Street Tacos Platter: 7.13
+  Spicy Black Bean Enchiladas: 9.98
+  Spiced Chocolate Flan: 5.35
+  Spicy Black Bean and Cheese Quesadilla: 6.69
+  Spicy Beef Chimichangas: 11.75
+  Spicy Chocolate Churros: 4.67
+  Sizzling Chicken Fajitas: 11.18
+  Crispy Fish Tacos: 8.92
+  Crispy Carnitas Tacos: 10.03
+  Cilantro Lime Grilled Shrimp: 10.0
+  Mango Habanero Wings: 9.15
+  Tequila Lime Flan: 5.94
+  Creamy Jalapeno Corn Fritters: 7.12

@@ -1,0 +1,41 @@
+id: business_0386
+name: Peppercorn & Plantain
+description: Peppercorn & Plantain blends the vibrant flavors of Mexico and the American
+  Southwest in a warm, inviting atmosphere. Enjoy a creative menu spotlighting bold
+  spices, savory classics, and a dash of sweet surprise.
+rating: 1.0
+progenitor_customer: customer_0129
+menu_features:
+  Horchata Cold Brew Coffee: 5.54
+  Carne Asada Nachos: 11.93
+  Black Bean and Corn Salsa: 4.97
+  Blue Agave Tequila Sunrise: 9.29
+  Chipotle Lime Shrimp Tacos: 14.16
+  Loaded Nacho Skillet: 10.21
+  Roasted Poblano Queso Dip: 6.98
+  Ancho Chili Spiced Ribs: 16.41
+  Housemade Horchata: 4.43
+  Caramelized Plantain Empanadas: 6.71
+  Pineapple Jalapeno Margarita: 8.54
+  Classic Beef Barbacoa: 14.3
+  Fresh Mango Salsa Nachos: 6.65
+  Loaded Nacho Platter: 10.74
+  Green Chile Pork Stew: 12.89
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Horchata Cold Brew Coffee: 5.04
+  Carne Asada Nachos: 10.86
+  Black Bean and Corn Salsa: 4.52
+  Blue Agave Tequila Sunrise: 8.45
+  Chipotle Lime Shrimp Tacos: 12.89
+  Loaded Nacho Skillet: 9.29
+  Roasted Poblano Queso Dip: 6.35
+  Ancho Chili Spiced Ribs: 14.93
+  Housemade Horchata: 4.03
+  Caramelized Plantain Empanadas: 6.11
+  Pineapple Jalapeno Margarita: 7.77
+  Classic Beef Barbacoa: 13.01
+  Fresh Mango Salsa Nachos: 6.05
+  Loaded Nacho Platter: 9.77
+  Green Chile Pork Stew: 11.73

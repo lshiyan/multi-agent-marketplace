@@ -1,0 +1,37 @@
+id: business_0392
+name: Urban Ranchero
+description: A fresh, modern spot celebrating bold Tex-Mex flavors and vibrant Mexican
+  classics, crafted with quality ingredients. Discover crave-worthy bites perfect
+  for brunch or dinner in a lively, inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0131
+menu_features:
+  Creamy Queso Dip: 7.78
+  Black Bean Sweet Potato Burrito: 10.11
+  Classic Beef Enchiladas: 11.06
+  Breakfast Burrito Bowl: 10.7
+  Huevos Rancheros: 9.64
+  Fresh Limeade: 3.9
+  Smoky Chipotle BBQ Wings: 10.32
+  Ranchero Steak Fajitas: 17.8
+  Fresh Corn Elote: 3.31
+  Smoky Black Bean Nachos: 8.72
+  "Cheesy Jalape\xF1o Quesadillas": 10.01
+  Baja Fish Tacos: 13.68
+  Black Bean Taco Bowl: 10.28
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Creamy Queso Dip: 5.91
+  Black Bean Sweet Potato Burrito: 7.68
+  Classic Beef Enchiladas: 8.41
+  Breakfast Burrito Bowl: 8.13
+  Huevos Rancheros: 7.33
+  Fresh Limeade: 2.96
+  Smoky Chipotle BBQ Wings: 7.84
+  Ranchero Steak Fajitas: 13.53
+  Fresh Corn Elote: 2.52
+  Smoky Black Bean Nachos: 6.63
+  "Cheesy Jalape\xF1o Quesadillas": 7.61
+  Baja Fish Tacos: 10.4
+  Black Bean Taco Bowl: 7.81

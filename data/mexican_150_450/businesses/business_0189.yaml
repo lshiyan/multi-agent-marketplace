@@ -1,0 +1,43 @@
+id: business_0189
+name: Tequila & Tamal
+description: Experience bold Mexican and Tex-Mex flavors in a vibrant setting where
+  smoky spices meet sweet and savory treats. From creative cocktails to flame-grilled
+  street favorites, discover a celebration of classic tastes with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0063
+menu_features:
+  Tequila Lime Chicken Wings: 10.48
+  Horchata Iced Coffee: 4.41
+  Spice-Rubbed Grilled Fajitas: 16.65
+  Agave Lime Chicken Skewers: 11.81
+  Grilled Elote Corn: 3.36
+  Blue Agave Tequila Sunrise: 10.61
+  Crispy Fish Street Tacos: 14.07
+  Smoky Chipotle Queso: 7.01
+  "Blueberry Jalape\xF1o Margarita": 10.15
+  Spicy Pork Tamales: 12.26
+  Chipotle Lime Shrimp Tacos: 14.11
+  Rich Chocolate Tamales: 8.44
+  Tequila Lime Shrimp Skewers: 13.47
+  Choco Flan Combo: 6.31
+  Mango Jalapeno Salsa and Chips: 4.79
+  Chocolate Dipped Flan: 5.83
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Tequila Lime Chicken Wings: 7.23
+  Horchata Iced Coffee: 3.04
+  Spice-Rubbed Grilled Fajitas: 11.49
+  Agave Lime Chicken Skewers: 8.15
+  Grilled Elote Corn: 2.32
+  Blue Agave Tequila Sunrise: 7.32
+  Crispy Fish Street Tacos: 9.71
+  Smoky Chipotle Queso: 4.84
+  "Blueberry Jalape\xF1o Margarita": 7.0
+  Spicy Pork Tamales: 8.46
+  Chipotle Lime Shrimp Tacos: 9.74
+  Rich Chocolate Tamales: 5.82
+  Tequila Lime Shrimp Skewers: 9.29
+  Choco Flan Combo: 4.35
+  Mango Jalapeno Salsa and Chips: 3.31
+  Chocolate Dipped Flan: 4.02

@@ -1,0 +1,37 @@
+id: business_0403
+name: Brisa y Cacao Mexicana
+description: Experience fresh and vibrant Mexican and Tex-Mex dishes in a warm, welcoming
+  setting. From savory grilled plates to decadent desserts, every meal is crafted
+  with authentic flavors and a touch of creative flair.
+rating: 1.0
+progenitor_customer: customer_0135
+menu_features:
+  Mexican Chocolate Flan: 6.83
+  Flan with Caramel Drizzle: 5.46
+  Zesty Lime Grilled Chicken: 16.7
+  Honey Lime Chicken Fajitas: 17.18
+  Breakfast Chorizo Tostadas: 9.65
+  Classic Horchata Delight: 3.65
+  Zesty Shrimp Ceviche: 14.41
+  Ancho Chile Chicken Salad: 10.42
+  Pineapple Habanero Sake: 8.12
+  Mole Chicken Quesadilla: 10.63
+  Zesty Lime Grilled Shrimp: 11.4
+  Smoky Chipotle Quesadillas: 9.53
+  Black Bean Street Tacos: 9.49
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Mexican Chocolate Flan: 4.58
+  Flan with Caramel Drizzle: 3.66
+  Zesty Lime Grilled Chicken: 11.19
+  Honey Lime Chicken Fajitas: 11.51
+  Breakfast Chorizo Tostadas: 6.47
+  Classic Horchata Delight: 2.45
+  Zesty Shrimp Ceviche: 9.65
+  Ancho Chile Chicken Salad: 6.98
+  Pineapple Habanero Sake: 5.44
+  Mole Chicken Quesadilla: 7.12
+  Zesty Lime Grilled Shrimp: 7.64
+  Smoky Chipotle Quesadillas: 6.39
+  Black Bean Street Tacos: 6.36

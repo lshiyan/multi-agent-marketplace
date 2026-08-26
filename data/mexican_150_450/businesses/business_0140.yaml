@@ -1,0 +1,34 @@
+id: business_0140
+name: Avocado to Grill
+description: "Bold flavors and fresh twists await you at Avocado to Grill, where classic\
+  \ Mexican fare meets vibrant modern flair. Come savor hearty enchiladas, smoky quesadillas,\
+  \ and decadent desserts\u2014all crafted with a touch of fun and a whole lot of\
+  \ flavor."
+rating: 1.0
+progenitor_customer: customer_0047
+menu_features:
+  Black Bean Avocado Enchiladas: 12.57
+  Classic Beef Enchiladas: 10.37
+  Spiced Chocolate Flan: 7.73
+  Avocado Lime Dip: 6.13
+  Smoky Chipotle Quesadillas: 9.52
+  Loaded Nacho Fries: 7.51
+  Cocoa Dusted Churro Bites: 6.49
+  Grilled Street Corn: 6.97
+  Mesquite Grilled Steak Fajitas: 14.71
+  Cactus Jack Quesadilla: 10.51
+  Citrus Marinated Carne Asada: 11.92
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Black Bean Avocado Enchiladas: 8.3
+  Classic Beef Enchiladas: 6.84
+  Spiced Chocolate Flan: 5.1
+  Avocado Lime Dip: 4.05
+  Smoky Chipotle Quesadillas: 6.28
+  Loaded Nacho Fries: 4.96
+  Cocoa Dusted Churro Bites: 4.28
+  Grilled Street Corn: 4.6
+  Mesquite Grilled Steak Fajitas: 9.71
+  Cactus Jack Quesadilla: 6.94
+  Citrus Marinated Carne Asada: 7.87

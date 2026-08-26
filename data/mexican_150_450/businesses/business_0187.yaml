@@ -1,0 +1,43 @@
+id: business_0187
+name: Quirk & Quesadilla
+description: "Dive into bold, modern Mex flavors where tangy salsas, sizzling skillets,\
+  \ and inventive bites keep every meal a fiesta. Vibrant, fresh, and always a little\
+  \ unexpected, this is Tex-Mex as you\u2019ve never tasted it."
+rating: 1.0
+progenitor_customer: customer_0063
+menu_features:
+  Zesty Shrimp Quesadillas: 13.62
+  Agave Lime Chicken Skewers: 11.4
+  Chipotle Chicken Enchiladas: 14.26
+  Loaded Nacho Platter: 11.87
+  Black Bean and Corn Salsa: 5.42
+  Avocado Lime Quinoa Bowl: 9.67
+  Horchata Iced Latte: 4.11
+  Grilled Pineapple & Shrimp Quesadillas: 14.23
+  Sizzling Fajita Skillet: 14.26
+  Tamarind Ginger Cooler: 4.04
+  Baja Fish Tacos: 15.65
+  Mango Habanero Wings: 10.96
+  Ranchero Steak Fajitas: 13.83
+  Creamy Poblano Corn Chowder: 8.78
+  Pineapple Chipotle Salsa & Chips: 5.4
+  Tequila Lime Chicken Wings: 12.11
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Zesty Shrimp Quesadillas: 10.9
+  Agave Lime Chicken Skewers: 9.12
+  Chipotle Chicken Enchiladas: 11.41
+  Loaded Nacho Platter: 9.5
+  Black Bean and Corn Salsa: 4.34
+  Avocado Lime Quinoa Bowl: 7.74
+  Horchata Iced Latte: 3.29
+  Grilled Pineapple & Shrimp Quesadillas: 11.38
+  Sizzling Fajita Skillet: 11.41
+  Tamarind Ginger Cooler: 3.23
+  Baja Fish Tacos: 12.52
+  Mango Habanero Wings: 8.77
+  Ranchero Steak Fajitas: 11.06
+  Creamy Poblano Corn Chowder: 7.02
+  Pineapple Chipotle Salsa & Chips: 4.32
+  Tequila Lime Chicken Wings: 9.69

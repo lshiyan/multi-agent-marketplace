@@ -1,0 +1,47 @@
+id: business_0044
+name: Lime Leaf Cantina
+description: Lime Leaf Cantina brings together vibrant Mexican and Tex-Mex flavors
+  in a fresh, modern setting. Enjoy creative takes on classic dishes, refreshing sips,
+  and bold, colorful tastes crafted from the finest ingredients.
+rating: 1.0
+progenitor_customer: customer_0015
+menu_features:
+  Chocolate Molten Tamale: 7.37
+  Baja Fish Tacos: 16.04
+  Spicy Pineapple Salsa Dip: 6.08
+  Fresh Lime and Cilantro Guacamole: 10.25
+  Smoky Chipotle Enchiladas: 8.61
+  Fresh Mint Mojito: 9.99
+  Black Bean Stuffed Bell Peppers: 11.1
+  Mexican Coffee Flan: 6.36
+  Creamy Avocado Smoothie: 4.5
+  Citrus Grilled Chicken Tacos: 12.94
+  Tamarind Ginger Cooler: 4.99
+  Classic Horchata Delight: 3.23
+  Vanilla Almond Horchata: 3.48
+  Grilled Shrimp Quesadilla: 11.17
+  Shrimp Ceviche Cups: 10.65
+  Crispy Carnitas Tacos: 12.41
+  Classic Beef Enchiladas: 11.84
+  Loaded Nacho Fries: 8.92
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Chocolate Molten Tamale: 5.31
+  Baja Fish Tacos: 11.55
+  Spicy Pineapple Salsa Dip: 4.38
+  Fresh Lime and Cilantro Guacamole: 7.38
+  Smoky Chipotle Enchiladas: 6.2
+  Fresh Mint Mojito: 7.19
+  Black Bean Stuffed Bell Peppers: 7.99
+  Mexican Coffee Flan: 4.58
+  Creamy Avocado Smoothie: 3.24
+  Citrus Grilled Chicken Tacos: 9.32
+  Tamarind Ginger Cooler: 3.59
+  Classic Horchata Delight: 2.33
+  Vanilla Almond Horchata: 2.51
+  Grilled Shrimp Quesadilla: 8.04
+  Shrimp Ceviche Cups: 7.67
+  Crispy Carnitas Tacos: 8.94
+  Classic Beef Enchiladas: 8.52
+  Loaded Nacho Fries: 6.42

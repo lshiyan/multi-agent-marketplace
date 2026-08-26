@@ -1,0 +1,11 @@
+id: customer_0073
+name: Henry Robinson
+request: 'Could you please assist me in finding a business that offers the following
+  menu items for order: 1 Pineapple Salsa Shrimp Tacos, 1 Tex-Mex Breakfast Skillet,
+  and 1 Vegetarian Tamale Platter? These items are essential for my order, and I intend
+  to purchase them once you find the right place. Thank you for your help.'
+menu_features:
+  Pineapple Salsa Shrimp Tacos: 13.99
+  Tex-Mex Breakfast Skillet: 8.99
+  Vegetarian Tamale Platter: 11.99
+amenity_features: []

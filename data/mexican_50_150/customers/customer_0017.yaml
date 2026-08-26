@@ -1,0 +1,11 @@
+id: customer_0017
+name: Paul Morgan
+request: 'I am looking for a business where I can place an order for the following
+  menu items: 1 Coconut Lime Margarita, 1 Breakfast Chorizo Torta, and 1 Ranchero
+  Steak Fajitas. It is important that the business can provide all of these items.
+  Once you find such a business, I intend to purchase them. Thank you for your assistance.'
+menu_features:
+  Coconut Lime Margarita: 8.99
+  Breakfast Chorizo Torta: 8.99
+  Ranchero Steak Fajitas: 16.99
+amenity_features: []

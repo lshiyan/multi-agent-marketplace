@@ -1,0 +1,44 @@
+id: business_0402
+name: Sierra & Salsa
+description: Sierra & Salsa is a vibrant destination for bold Mexican and Tex-Mex
+  flavors, featuring inventive salsas, hearty classics, and creative desserts in a
+  lively, welcoming setting. Come for the fresh ingredients, stay for the spirited
+  atmosphere and unforgettable bites.
+rating: 1.0
+progenitor_customer: customer_0134
+menu_features:
+  Tomatillo Salsa Verde Nachos: 11.81
+  Chipotle Bourbon Carnitas: 15.84
+  Chili Con Queso Supreme: 6.49
+  Avocado Lime Cheesecake: 7.83
+  Verde Ranchero Huevos: 11.93
+  Avocado Lime Grilled Shrimp: 12.88
+  Baja Fish Taco Plate: 14.0
+  Spicy Black Bean and Cheese Quesadilla: 13.5
+  Chipotle Lime Shrimp Tacos: 11.37
+  "Blueberry Jalape\xF1o Margarita": 10.27
+  Pineapple Tequila Chicken Skewers: 15.47
+  Margarita Grilled Chicken: 14.34
+  Three-Cheese Queso Dip: 6.57
+  Cocoa Cinnamon Tequila: 10.41
+  Sizzling Steak Fajitas: 16.29
+  Crispy Avocado Burrito: 12.05
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Tomatillo Salsa Verde Nachos: 10.98
+  Chipotle Bourbon Carnitas: 14.73
+  Chili Con Queso Supreme: 6.04
+  Avocado Lime Cheesecake: 7.28
+  Verde Ranchero Huevos: 11.09
+  Avocado Lime Grilled Shrimp: 11.98
+  Baja Fish Taco Plate: 13.02
+  Spicy Black Bean and Cheese Quesadilla: 12.56
+  Chipotle Lime Shrimp Tacos: 10.57
+  "Blueberry Jalape\xF1o Margarita": 9.55
+  Pineapple Tequila Chicken Skewers: 14.39
+  Margarita Grilled Chicken: 13.34
+  Three-Cheese Queso Dip: 6.11
+  Cocoa Cinnamon Tequila: 9.68
+  Sizzling Steak Fajitas: 15.15
+  Crispy Avocado Burrito: 11.21

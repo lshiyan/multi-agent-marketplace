@@ -1,0 +1,10 @@
+id: customer_0041
+name: David Anderson
+request: 'Could you please find a business that offers the following menu items: Blue
+  Corn Enchilada Bake (1) and Avocado Lime Grilled Shrimp (1)? It is important that
+  both items are available from the same place, as I intend to place an order for
+  them. Thank you.'
+menu_features:
+  Blue Corn Enchilada Bake: 13.49
+  Avocado Lime Grilled Shrimp: 14.99
+amenity_features: []

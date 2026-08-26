@@ -1,0 +1,37 @@
+id: business_0113
+name: Grill and Thrill Quenchilla
+description: Savor a festive fusion of fresh flavors, smoky grilled bites, and vibrant
+  sips at this lively Mexican-inspired eatery. Perfect for those who crave inventive
+  street food and a touch of tropical flair.
+rating: 1.0
+progenitor_customer: customer_0038
+menu_features:
+  Fiesta Street Corn: 4.87
+  Grilled Steak Quesadilla: 11.74
+  Hibiscus Iced Tea: 3.67
+  Chili Lime Jicama Sticks: 5.81
+  Grilled Pineapple Dessert Quesadilla: 7.1
+  Tropical Pineapple Salsa: 2.84
+  Crispy Avocado Bites: 7.52
+  Zesty Lime Chicken Tacos: 12.7
+  Spiced Chocolate Tres Leches: 5.52
+  Coconut Lime Margarita: 8.83
+  Bacon Wrapped Jalapeno Bites: 8.38
+  Hatch Chile Queso Dip: 5.33
+  Mushroom & Cheese Tamales: 7.17
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Fiesta Street Corn: 4.43
+  Grilled Steak Quesadilla: 10.68
+  Hibiscus Iced Tea: 3.34
+  Chili Lime Jicama Sticks: 5.29
+  Grilled Pineapple Dessert Quesadilla: 6.46
+  Tropical Pineapple Salsa: 2.58
+  Crispy Avocado Bites: 6.84
+  Zesty Lime Chicken Tacos: 11.56
+  Spiced Chocolate Tres Leches: 5.02
+  Coconut Lime Margarita: 8.04
+  Bacon Wrapped Jalapeno Bites: 7.63
+  Hatch Chile Queso Dip: 4.85
+  Mushroom & Cheese Tamales: 6.52

@@ -1,0 +1,40 @@
+id: business_0012
+name: La Cosecha Mexicana
+description: Experience the vibrant flavors of Mexico with our chef-crafted dishes,
+  refreshing beverages, and decadent desserts in a lively, welcoming atmosphere. La
+  Cosecha Mexicana brings together fresh ingredients and classic recipes for an unforgettable
+  dining experience.
+rating: 1.0
+progenitor_customer: customer_0004
+menu_features:
+  Classic Tortilla Soup: 6.95
+  Cactus Flower Iced Tea: 4.82
+  Chocolate Mole Brownie: 6.78
+  Caramel Apple Empanadas: 6.76
+  Tequila Lime Grilled Shrimp: 10.27
+  Horchata Iced Latte: 4.61
+  Raspberry Chipotle Barbecue Ribs: 15.22
+  Chili Con Queso Supreme: 6.94
+  Baja Fish Tacos: 14.26
+  Coconut Tres Leches: 6.45
+  Spicy Chipotle Chicken Wrap: 12.02
+  Margarita Grilled Chicken: 13.59
+  Tomatillo Salsa Verde Nachos: 10.37
+  Rich Chocolate Tres Leches: 6.89
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Classic Tortilla Soup: 4.93
+  Cactus Flower Iced Tea: 3.42
+  Chocolate Mole Brownie: 4.81
+  Caramel Apple Empanadas: 4.8
+  Tequila Lime Grilled Shrimp: 7.29
+  Horchata Iced Latte: 3.27
+  Raspberry Chipotle Barbecue Ribs: 10.81
+  Chili Con Queso Supreme: 4.93
+  Baja Fish Tacos: 10.12
+  Coconut Tres Leches: 4.58
+  Spicy Chipotle Chicken Wrap: 8.53
+  Margarita Grilled Chicken: 9.65
+  Tomatillo Salsa Verde Nachos: 7.36
+  Rich Chocolate Tres Leches: 4.89

@@ -1,0 +1,10 @@
+id: customer_0142
+name: Daniel Garcia
+request: 'Could you please help me find a business that can fulfill an order containing
+  the following menu items: 1 Sizzling Carne Asada and 1 Grilled Pineapple and Shrimp
+  Salad? Once identified, I intend to place the order immediately. Thank you for your
+  assistance.'
+menu_features:
+  Sizzling Carne Asada: 15.99
+  Grilled Pineapple and Shrimp Salad: 12.99
+amenity_features: []

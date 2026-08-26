@@ -1,0 +1,41 @@
+id: business_0389
+name: Glaze & Verde
+description: Glaze & Verde offers a fresh, creative take on Mexican and Tex-Mex classics,
+  celebrating bold flavors with a modern twist. Enjoy vibrant plates, house-crafted
+  beverages, and a lively, inviting atmosphere perfect for gathering with friends.
+rating: 1.0
+progenitor_customer: customer_0130
+menu_features:
+  Tamarind-Glazed Ribs: 14.46
+  Black Bean Stuffed Sweet Potatoes: 8.7
+  Al Pastor Quesadilla: 9.97
+  Avocado Lime Empanadas: 9.13
+  Spicy Shrimp Fajitas: 13.57
+  Zesty Lime Grilled Shrimp: 14.64
+  Fajita Veggie Burrito Bowl: 13.7
+  "Blueberry Jalape\xF1o Margarita": 11.16
+  Smoky Lime Quinoa Salad: 11.8
+  Tequila Lime Shrimp Skewers: 10.24
+  Sizzling Fajita Skillet: 11.03
+  Creamy Avocado Smoothie: 4.59
+  Honey Lime Chicken Fajitas: 16.35
+  Chocolate Molten Tamale: 8.08
+  Ancho Chili Braised Beef Enchiladas: 13.88
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Tamarind-Glazed Ribs: 11.57
+  Black Bean Stuffed Sweet Potatoes: 6.96
+  Al Pastor Quesadilla: 7.98
+  Avocado Lime Empanadas: 7.3
+  Spicy Shrimp Fajitas: 10.86
+  Zesty Lime Grilled Shrimp: 11.71
+  Fajita Veggie Burrito Bowl: 10.96
+  "Blueberry Jalape\xF1o Margarita": 8.93
+  Smoky Lime Quinoa Salad: 9.44
+  Tequila Lime Shrimp Skewers: 8.19
+  Sizzling Fajita Skillet: 8.82
+  Creamy Avocado Smoothie: 3.67
+  Honey Lime Chicken Fajitas: 13.08
+  Chocolate Molten Tamale: 6.46
+  Ancho Chili Braised Beef Enchiladas: 11.1

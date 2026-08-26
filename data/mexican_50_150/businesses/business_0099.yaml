@@ -1,0 +1,43 @@
+id: business_0099
+name: Chili Crisp Cantina
+description: Experience a vibrant spin on Mexican and Tex-Mex classics, with an emphasis
+  on bold flavors and fresh ingredients. Our inviting atmosphere and inventive dishes
+  are perfect for a casual meal or festive gathering.
+rating: 1.0
+progenitor_customer: customer_0033
+menu_features:
+  Crispy Tinga Chicken Tacos: 9.29
+  Black Bean and Corn Fiesta Salad: 8.56
+  Flan with Caramel Drizzle: 5.82
+  Jalapeno Mango Margarita: 7.93
+  Hatch Green Chile Quesadilla: 10.06
+  Chipotle Bourbon Carnitas: 13.95
+  Chipotle Chicken Burrito Bowl: 12.2
+  Pico Avocado Toast: 8.12
+  Sweet Corn Tostadas: 10.85
+  Roasted Poblano Soup: 6.85
+  Red Chili Braised Beef Brisket: 10.63
+  Sweet Corn Tamale Bites: 8.27
+  Lime-Cilantro Quinoa Salad: 9.11
+  Chili Lime Watermelon Salad: 6.46
+  Choco-Chili Volcano Cake: 8.4
+  Avocado Lime Quinoa Bowl: 10.85
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Crispy Tinga Chicken Tacos: 6.87
+  Black Bean and Corn Fiesta Salad: 6.33
+  Flan with Caramel Drizzle: 4.31
+  Jalapeno Mango Margarita: 5.87
+  Hatch Green Chile Quesadilla: 7.44
+  Chipotle Bourbon Carnitas: 10.32
+  Chipotle Chicken Burrito Bowl: 9.03
+  Pico Avocado Toast: 6.01
+  Sweet Corn Tostadas: 8.03
+  Roasted Poblano Soup: 5.07
+  Red Chili Braised Beef Brisket: 7.87
+  Sweet Corn Tamale Bites: 6.12
+  Lime-Cilantro Quinoa Salad: 6.74
+  Chili Lime Watermelon Salad: 4.78
+  Choco-Chili Volcano Cake: 6.22
+  Avocado Lime Quinoa Bowl: 8.03

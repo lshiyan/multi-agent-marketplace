@@ -1,0 +1,43 @@
+id: business_0085
+name: Ember & Agave
+description: Ember & Agave brings a fresh twist to Mexican and Tex-Mex classics, blending
+  smoky flavors with vibrant, tropical accents. Enjoy a lively, modern atmosphere
+  where bold salsas meet sizzling fajitas and creative cocktails.
+rating: 1.0
+progenitor_customer: customer_0029
+menu_features:
+  Mexican Chocolate Flan: 8.08
+  Black Bean Stuffed Sweet Potatoes: 12.27
+  Spicy Black Bean Enchiladas: 10.79
+  Mango Habanero Wings: 11.02
+  Crispy Avocado Bites: 7.13
+  Frozen Strawberry Daiquiri: 7.96
+  Spice-Rubbed Grilled Fajitas: 18.25
+  Grilled Chipotle Chicken Burrito: 13.03
+  Ancho Honey-Glazed Salmon: 13.31
+  Tequila Lime Grilled Shrimp: 14.96
+  Flamin' Skillet Fajitas: 16.38
+  Honey Lime Fajita Sizzlers: 17.92
+  Street Corn Fritters: 7.19
+  Passion Fruit Agua Fresca: 4.68
+  Smoky Mezcal Mule: 9.02
+  Zesty Lime Grilled Shrimp: 14.52
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Mexican Chocolate Flan: 4.93
+  Black Bean Stuffed Sweet Potatoes: 7.48
+  Spicy Black Bean Enchiladas: 6.58
+  Mango Habanero Wings: 6.72
+  Crispy Avocado Bites: 4.35
+  Frozen Strawberry Daiquiri: 4.86
+  Spice-Rubbed Grilled Fajitas: 11.13
+  Grilled Chipotle Chicken Burrito: 7.95
+  Ancho Honey-Glazed Salmon: 8.12
+  Tequila Lime Grilled Shrimp: 9.13
+  Flamin' Skillet Fajitas: 9.99
+  Honey Lime Fajita Sizzlers: 10.93
+  Street Corn Fritters: 4.39
+  Passion Fruit Agua Fresca: 2.85
+  Smoky Mezcal Mule: 5.5
+  Zesty Lime Grilled Shrimp: 8.86

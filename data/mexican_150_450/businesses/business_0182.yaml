@@ -1,0 +1,33 @@
+id: business_0182
+name: Holy Chipotle & Friends
+description: Spice up your day with bold flavors and creative twists on Mexican and
+  Tex-Mex classics. From smoky enchiladas to vibrant salads and zesty cocktails, every
+  bite is a celebration.
+rating: 1.0
+progenitor_customer: customer_0061
+menu_features:
+  Smoky Black Bean Enchiladas: 14.81
+  Crispy Avocado Tacos: 11.61
+  Mexican Street Corn Salad: 8.71
+  Classic Beef Barbacoa: 13.14
+  Three-Cheese Enchilada Stack: 12.58
+  Beef Barbacoa Tostadas: 8.58
+  Zesty Lime Grilled Shrimp: 13.91
+  Green Chile Pork Stew: 11.37
+  Avocado Lime Salad: 7.19
+  Chili Con Queso Supreme: 5.83
+  Jalapeno Mango Margarita: 10.02
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Smoky Black Bean Enchiladas: 12.44
+  Crispy Avocado Tacos: 9.75
+  Mexican Street Corn Salad: 7.32
+  Classic Beef Barbacoa: 11.04
+  Three-Cheese Enchilada Stack: 10.57
+  Beef Barbacoa Tostadas: 7.21
+  Zesty Lime Grilled Shrimp: 11.68
+  Green Chile Pork Stew: 9.55
+  Avocado Lime Salad: 6.04
+  Chili Con Queso Supreme: 4.9
+  Jalapeno Mango Margarita: 8.42

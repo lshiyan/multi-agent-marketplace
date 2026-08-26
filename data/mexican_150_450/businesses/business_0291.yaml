@@ -1,0 +1,37 @@
+id: business_0291
+name: Bean There, Dipped That!
+description: A playful twist on classic Mexican and Tex-Mex cuisine, bringing together
+  fire-grilled flavors, creative desserts, and zesty, shareable bites. Come savor
+  a vibrant dining experience where every dish is served with a side of fun.
+rating: 1.0
+progenitor_customer: customer_0097
+menu_features:
+  Grilled Pineapple Dessert Quesadilla: 9.11
+  Grilled Shrimp Skewers: 14.04
+  Warm Cinnamon Churros: 4.01
+  Black Bean and Lime Soup: 7.15
+  Chili Lime Jicama Sticks: 5.53
+  Chipotle Lime Chicken Skewers: 12.87
+  Three Cheese Sope: 10.38
+  Coconut Tres Leches: 6.49
+  Flamin' Skillet Fajitas: 14.66
+  Warm Churro Bites: 4.98
+  Green Chile Cheesesteak: 14.32
+  Mexican Hot Chocolate: 4.27
+  Roasted Poblano Corn Chowder: 7.84
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Grilled Pineapple Dessert Quesadilla: 8.02
+  Grilled Shrimp Skewers: 12.36
+  Warm Cinnamon Churros: 3.53
+  Black Bean and Lime Soup: 6.29
+  Chili Lime Jicama Sticks: 4.87
+  Chipotle Lime Chicken Skewers: 11.33
+  Three Cheese Sope: 9.13
+  Coconut Tres Leches: 5.71
+  Flamin' Skillet Fajitas: 12.9
+  Warm Churro Bites: 4.38
+  Green Chile Cheesesteak: 12.6
+  Mexican Hot Chocolate: 3.76
+  Roasted Poblano Corn Chowder: 6.9

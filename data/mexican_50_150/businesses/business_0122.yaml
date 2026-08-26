@@ -1,0 +1,39 @@
+id: business_0122
+name: Corn & Cactus Cantina
+description: Experience vibrant flavors and fresh ingredients in a warm, inviting
+  atmosphere inspired by Mexican and Tex-Mex traditions. From inventive starters to
+  tempting desserts and signature drinks, every bite is a celebration of bold tastes.
+rating: 1.0
+progenitor_customer: customer_0041
+menu_features:
+  Sweet Corn Tostadas: 8.31
+  Adobo Roasted Corn Salad: 7.99
+  Chili Lime Margarita: 10.4
+  Avocado Lime Empanadas: 7.96
+  Hatch Green Chile Rice: 5.95
+  Blue Corn Enchilada Bake: 14.75
+  Mini Street Tacos Platter: 9.01
+  Caramel Corn Flan: 7.37
+  Avocado Lime Grilled Shrimp: 16.18
+  Black Bean and Lime Soup: 6.78
+  Blueberry Jalapeno Lemonade: 4.69
+  Blue Corn Tortilla Tacos: 10.69
+  Roasted Poblano Rellenos: 13.6
+  Chili Chocolate Lava Cake: 8.77
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Sweet Corn Tostadas: 5.73
+  Adobo Roasted Corn Salad: 5.51
+  Chili Lime Margarita: 7.18
+  Avocado Lime Empanadas: 5.49
+  Hatch Green Chile Rice: 4.11
+  Blue Corn Enchilada Bake: 10.18
+  Mini Street Tacos Platter: 6.22
+  Caramel Corn Flan: 5.09
+  Avocado Lime Grilled Shrimp: 11.16
+  Black Bean and Lime Soup: 4.68
+  Blueberry Jalapeno Lemonade: 3.24
+  Blue Corn Tortilla Tacos: 7.38
+  Roasted Poblano Rellenos: 9.38
+  Chili Chocolate Lava Cake: 6.05

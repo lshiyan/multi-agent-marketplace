@@ -1,0 +1,42 @@
+id: business_0131
+name: Enchila-daze
+description: Step into a swirl of bold flavors and vibrant salsas at Enchila-daze,
+  where every bite transports you to the heart of modern Mexican and Tex-Mex cuisine.
+  From smoky grilled specialties to decadent desserts, experience a fresh twist on
+  timeless favorites.
+rating: 1.0
+progenitor_customer: customer_0044
+menu_features:
+  Smoky Chipotle Chicken: 14.01
+  Zesty Lime Shrimp Tostadas: 10.69
+  Tequila Lime Grilled Shrimp: 14.63
+  Coconut Flan Delight: 6.08
+  Midnight Mole Enchiladas: 15.9
+  Chocolate Molten Tamale: 7.88
+  Roasted Corn Elote: 3.56
+  Baja Fish Burrito: 11.88
+  Black Bean Street Tacos: 10.86
+  Veggie Fajita Platter: 15.62
+  Roasted Tomato Salsa Dip: 2.84
+  Avocado Lime Grilled Shrimp: 15.94
+  Southwestern Quinoa Salad: 10.57
+  Baja Shrimp Quesadilla: 13.62
+  Baja Fish Taco Bowl: 13.7
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Smoky Chipotle Chicken: 8.97
+  Zesty Lime Shrimp Tostadas: 6.84
+  Tequila Lime Grilled Shrimp: 9.36
+  Coconut Flan Delight: 3.89
+  Midnight Mole Enchiladas: 10.18
+  Chocolate Molten Tamale: 5.04
+  Roasted Corn Elote: 2.28
+  Baja Fish Burrito: 7.6
+  Black Bean Street Tacos: 6.95
+  Veggie Fajita Platter: 10.0
+  Roasted Tomato Salsa Dip: 1.82
+  Avocado Lime Grilled Shrimp: 10.2
+  Southwestern Quinoa Salad: 6.76
+  Baja Shrimp Quesadilla: 8.72
+  Baja Fish Taco Bowl: 8.77

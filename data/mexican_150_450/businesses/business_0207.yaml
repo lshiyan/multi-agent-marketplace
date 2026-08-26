@@ -1,0 +1,37 @@
+id: business_0207
+name: Avocado Aura Kitchen
+description: Experience a vibrant twist on Mexican and Tex-Mex classics in a modern,
+  relaxed setting. Enjoy fresh flavors, creative salsas, and unforgettable bites made
+  with quality, inspired ingredients.
+rating: 1.0
+progenitor_customer: customer_0069
+menu_features:
+  Stuffed Avocado Boats: 7.72
+  Citrus Marinated Carne Asada: 15.31
+  Tequila Lime Grilled Shrimp: 13.34
+  Vanilla Almond Horchata: 3.35
+  Mole Chicken Quesadilla: 11.73
+  Cucumber Jalapeno Agua Fresca: 4.22
+  Stuffed Chicken Poblano: 14.39
+  Spicy Chorizo Enchiladas: 15.19
+  Sizzling Fajita Skillet: 16.49
+  Coconut Flan Delight: 7.24
+  Chili Con Queso Supreme: 6.95
+  Pineapple Chipotle Salsa & Chips: 6.18
+  Avocado Lime Salsa: 4.82
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Stuffed Avocado Boats: 5.4
+  Citrus Marinated Carne Asada: 10.72
+  Tequila Lime Grilled Shrimp: 9.34
+  Vanilla Almond Horchata: 2.34
+  Mole Chicken Quesadilla: 8.21
+  Cucumber Jalapeno Agua Fresca: 2.95
+  Stuffed Chicken Poblano: 10.07
+  Spicy Chorizo Enchiladas: 10.63
+  Sizzling Fajita Skillet: 11.54
+  Coconut Flan Delight: 5.07
+  Chili Con Queso Supreme: 4.87
+  Pineapple Chipotle Salsa & Chips: 4.33
+  Avocado Lime Salsa: 3.37

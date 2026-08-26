@@ -1,0 +1,37 @@
+id: business_0133
+name: Cantina Luminosa
+description: Step into Cantina Luminosa, where fresh flavors, smoky spices, and vibrant
+  Mexican inspirations come together in every bite. Enjoy a welcoming atmosphere and
+  a colorful array of dishes designed to delight every palate.
+rating: 1.0
+progenitor_customer: customer_0045
+menu_features:
+  Chipotle Lime Cauliflower Tacos: 11.8
+  Spiced Chocolate Flan: 6.78
+  Chipotle Lime Shrimp Skewers: 14.51
+  Honey Lime Grilled Chicken: 14.53
+  Spicy Black Bean Nachos: 9.47
+  Breakfast Burrito Bowl: 7.45
+  Sea Breeze Ceviche: 8.67
+  Frozen Strawberry Daiquiri: 8.32
+  Zesty Lime Grilled Shrimp: 9.94
+  Sweet Potato and Black Bean Tacos: 11.61
+  Chili Con Queso Supreme: 7.85
+  Sunset Grilled Veggie Tacos: 11.1
+  Southwest Chopped Salad: 8.18
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Chipotle Lime Cauliflower Tacos: 8.5
+  Spiced Chocolate Flan: 4.88
+  Chipotle Lime Shrimp Skewers: 10.45
+  Honey Lime Grilled Chicken: 10.46
+  Spicy Black Bean Nachos: 6.82
+  Breakfast Burrito Bowl: 5.36
+  Sea Breeze Ceviche: 6.24
+  Frozen Strawberry Daiquiri: 5.99
+  Zesty Lime Grilled Shrimp: 7.16
+  Sweet Potato and Black Bean Tacos: 8.36
+  Chili Con Queso Supreme: 5.65
+  Sunset Grilled Veggie Tacos: 7.99
+  Southwest Chopped Salad: 5.89

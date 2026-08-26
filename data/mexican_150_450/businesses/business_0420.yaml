@@ -1,0 +1,43 @@
+id: business_0420
+name: Lime & Layers
+description: Discover a fresh twist on Mexican and Tex-Mex classics at Lime & Layers,
+  where vibrant flavors and decadent desserts shine. Join us for creative, crave-worthy
+  eats and a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0140
+menu_features:
+  Caramelized Onion Queso Dip: 7.44
+  Street Style Quesadillas: 7.64
+  Zesty Lime Shrimp Salad: 13.63
+  Smoky Lime Quinoa Salad: 9.88
+  Rich Chocolate Tres Leches: 6.35
+  Coconut Flan Delight: 5.98
+  Avocado Lime Cheesecake: 7.14
+  Loaded Nacho Fiesta: 10.03
+  Lime-Garlic Grilled Chicken: 19.59
+  Shrimp Ceviche Bowl: 11.75
+  Baja Shrimp Quesadilla: 14.31
+  Horchata Iced Coffee: 4.71
+  Choco Flan Combo: 7.2
+  Horchata Iced Latte: 4.88
+  Honey Lime Fajita Sizzlers: 15.18
+  Poblano Pepper Relleno Plate: 12.04
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Caramelized Onion Queso Dip: 5.36
+  Street Style Quesadillas: 5.5
+  Zesty Lime Shrimp Salad: 9.81
+  Smoky Lime Quinoa Salad: 7.11
+  Rich Chocolate Tres Leches: 4.57
+  Coconut Flan Delight: 4.31
+  Avocado Lime Cheesecake: 5.14
+  Loaded Nacho Fiesta: 7.22
+  Lime-Garlic Grilled Chicken: 14.1
+  Shrimp Ceviche Bowl: 8.46
+  Baja Shrimp Quesadilla: 10.3
+  Horchata Iced Coffee: 3.39
+  Choco Flan Combo: 5.18
+  Horchata Iced Latte: 3.51
+  Honey Lime Fajita Sizzlers: 10.93
+  Poblano Pepper Relleno Plate: 8.67

@@ -1,0 +1,9 @@
+id: customer_0010
+name: Grace Kim
+request: Could you please help me find a business that serves both 'Sizzling Beef
+  Alambre' and 'Honey Lime Grilled Corn'? I would like to place an order for 1 of
+  each. Thank you!
+menu_features:
+  Sizzling Beef Alambre: 13.99
+  Honey Lime Grilled Corn: 4.99
+amenity_features: []

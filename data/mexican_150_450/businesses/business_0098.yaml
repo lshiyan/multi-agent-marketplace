@@ -1,0 +1,37 @@
+id: business_0098
+name: Grill My Churro
+description: Savor bold, vibrant Mexican and Tex-Mex flavors hot off the skillet and
+  sweet to the finish. From zesty sizzlers and fresh salads to tempting treats, this
+  is where every meal is a fiesta for your taste buds.
+rating: 1.0
+progenitor_customer: customer_0033
+menu_features:
+  Cinnamon Sugar Churro Sticks: 5.38
+  Refreshing Agua Fresca Trio: 8.24
+  Honey Lime Fajita Sizzlers: 17.96
+  Avocado Lime Salsa: 5.68
+  Flamin' Skillet Fajitas: 15.02
+  Crispy Fish Tacos: 11.15
+  Avocado Ranch Burrito Bowl: 13.78
+  Poblano Pepper Relleno Plate: 11.43
+  Horchata Iced Coffee: 4.2
+  Coconut Tres Leches: 6.31
+  Zesty Lime Grilled Shrimp: 15.14
+  Zesty Lime Shrimp Skewers: 15.82
+  Beef Barbacoa Tostadas: 9.58
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Cinnamon Sugar Churro Sticks: 5.06
+  Refreshing Agua Fresca Trio: 7.75
+  Honey Lime Fajita Sizzlers: 16.88
+  Avocado Lime Salsa: 5.34
+  Flamin' Skillet Fajitas: 14.12
+  Crispy Fish Tacos: 10.48
+  Avocado Ranch Burrito Bowl: 12.95
+  Poblano Pepper Relleno Plate: 10.74
+  Horchata Iced Coffee: 3.95
+  Coconut Tres Leches: 5.93
+  Zesty Lime Grilled Shrimp: 14.23
+  Zesty Lime Shrimp Skewers: 14.87
+  Beef Barbacoa Tostadas: 9.01

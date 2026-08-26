@@ -1,0 +1,32 @@
+id: business_0398
+name: La Parrilla Dorada
+description: Savor the vibrant essence of Mexican and Tex-Mex cooking at La Parrilla
+  Dorada. Enjoy bold flavors and fresh ingredients in a warm, inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0133
+menu_features:
+  Citrus Marinated Carne Asada: 15.28
+  Loaded Chorizo Nachos: 9.11
+  Smoky BBQ Pork Tostadas: 9.96
+  Southwestern Quinoa Salad: 9.52
+  Sizzling Pork Carnitas Bowl: 8.38
+  Spicy Shrimp Fajitas: 10.78
+  Lime-Garlic Grilled Chicken: 14.0
+  Breakfast Burrito Bowl: 9.75
+  Spicy Black Bean and Cheese Quesadilla: 7.8
+  Grilled Steak Quesadilla: 14.08
+  Black Bean Sweet Potato Burrito: 9.34
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Citrus Marinated Carne Asada: 13.45
+  Loaded Chorizo Nachos: 8.02
+  Smoky BBQ Pork Tostadas: 8.76
+  Southwestern Quinoa Salad: 8.38
+  Sizzling Pork Carnitas Bowl: 7.37
+  Spicy Shrimp Fajitas: 9.49
+  Lime-Garlic Grilled Chicken: 12.32
+  Breakfast Burrito Bowl: 8.58
+  Spicy Black Bean and Cheese Quesadilla: 6.86
+  Grilled Steak Quesadilla: 12.39
+  Black Bean Sweet Potato Burrito: 8.22

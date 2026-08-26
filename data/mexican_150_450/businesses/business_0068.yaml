@@ -1,0 +1,36 @@
+id: business_0068
+name: Cascabel Cantina
+description: Experience the vibrant spirit of Mexico and the Southwest with fresh,
+  bold flavors, inventive cocktails, and classic comfort fare. Our welcoming atmosphere
+  is the perfect backdrop for savoring spice, citrus, and a touch of sweetness in
+  every bite.
+rating: 1.0
+progenitor_customer: customer_0023
+menu_features:
+  Fajita Veggie Burrito Bowl: 11.99
+  Crispy Fish Baja Bowl: 14.61
+  Pineapple Habanero Sake: 8.54
+  Agave Lime Margarita: 10.75
+  Tex-Mex Fajita Wrap: 12.14
+  Black Bean Sweet Potato Burrito: 7.31
+  Spicy Cucumber Margarita: 10.6
+  Beef Enchiladas Verdes: 13.1
+  Mexican Chocolate Flan: 5.82
+  Cinnamon Churro Bites: 5.24
+  Citrus Cilantro Rice: 5.01
+  Breakfast Burrito Bowl: 8.67
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Fajita Veggie Burrito Bowl: 7.55
+  Crispy Fish Baja Bowl: 9.2
+  Pineapple Habanero Sake: 5.38
+  Agave Lime Margarita: 6.77
+  Tex-Mex Fajita Wrap: 7.65
+  Black Bean Sweet Potato Burrito: 4.61
+  Spicy Cucumber Margarita: 6.68
+  Beef Enchiladas Verdes: 8.25
+  Mexican Chocolate Flan: 3.67
+  Cinnamon Churro Bites: 3.3
+  Citrus Cilantro Rice: 3.16
+  Breakfast Burrito Bowl: 5.46

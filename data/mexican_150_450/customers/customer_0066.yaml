@@ -1,0 +1,11 @@
+id: customer_0066
+name: Ella Murphy
+request: 'Could you please help me find a business where I can place an order for
+  the following items: 1 Sweet Potato and Black Bean Tacos, 1 Chipotle Chicken Burrito
+  Bowl, and 1 Grilled Shrimp Fajita Bowl? It is important that the business offers
+  all these menu items as I intend to purchase them. Thank you for your assistance.'
+menu_features:
+  Sweet Potato and Black Bean Tacos: 11.99
+  Chipotle Chicken Burrito Bowl: 12.49
+  Grilled Shrimp Fajita Bowl: 12.99
+amenity_features: []

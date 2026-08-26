@@ -1,0 +1,35 @@
+id: business_0021
+name: Rice, Rice, Baby
+description: Turn up the flavor at this fun and vibrant Mexican eatery, where fresh
+  ingredients and bold combinations come together in every bite. From citrusy salads
+  to spicy quesadillas, there's a delicious adventure waiting for everyone.
+rating: 1.0
+progenitor_customer: customer_0007
+menu_features:
+  Vanilla Cinnamon Horchata: 3.09
+  Zesty Lime Shrimp Skewers: 15.2
+  Grilled Pineapple & Shrimp Quesadillas: 10.88
+  Black Bean and Cilantro Rice: 3.21
+  Huevos Rancheros: 7.8
+  Tequila Lime Grilled Chicken: 11.06
+  Spicy Chipotle Chicken Wrap: 12.14
+  Pineapple Jalapeno Salsa: 4.65
+  Crispy Carnitas Quesadilla: 10.37
+  Black Bean and Corn Fiesta Salad: 8.77
+  "Cheesy Jalape\xF1o Poppers": 6.79
+  Jicama and Citrus Salad: 6.93
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Vanilla Cinnamon Horchata: 2.26
+  Zesty Lime Shrimp Skewers: 11.1
+  Grilled Pineapple & Shrimp Quesadillas: 7.94
+  Black Bean and Cilantro Rice: 2.34
+  Huevos Rancheros: 5.69
+  Tequila Lime Grilled Chicken: 8.07
+  Spicy Chipotle Chicken Wrap: 8.86
+  Pineapple Jalapeno Salsa: 3.39
+  Crispy Carnitas Quesadilla: 7.57
+  Black Bean and Corn Fiesta Salad: 6.4
+  "Cheesy Jalape\xF1o Poppers": 4.96
+  Jicama and Citrus Salad: 5.06

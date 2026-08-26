@@ -1,0 +1,41 @@
+id: business_0326
+name: Bean Me Up, Paloma
+description: A vibrant spot where bold Mexican flavors meet refreshing cocktails and
+  inventive sips. Dive into a medley of spicy, savory, and sweet creations perfect
+  for sharing, sipping, and savoring.
+rating: 1.0
+progenitor_customer: customer_0109
+menu_features:
+  Strawberry Jalapeno Lemonade: 3.5
+  Horchata Cold Brew Coffee: 4.59
+  Spicy Black Bean Enchiladas: 9.42
+  Spicy Shrimp Nacho Platter: 10.44
+  Spice-Rubbed Grilled Fajitas: 15.76
+  Black Bean Chili Bowl: 9.65
+  Rich Chocolate Tres Leches: 7.27
+  Cactus Cooler Margarita: 9.91
+  Passion Fruit Agua Fresca: 3.87
+  Tropical Guava Mint Punch: 5.32
+  Ultimate Nacho Platter: 12.26
+  Tamarind Glazed Wings: 10.96
+  Paloma Breeze Cocktail: 9.46
+  Horchata Milkshake: 6.12
+  Chipotle Bean Burrito: 10.67
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Strawberry Jalapeno Lemonade: 3.15
+  Horchata Cold Brew Coffee: 4.13
+  Spicy Black Bean Enchiladas: 8.48
+  Spicy Shrimp Nacho Platter: 9.4
+  Spice-Rubbed Grilled Fajitas: 14.18
+  Black Bean Chili Bowl: 8.69
+  Rich Chocolate Tres Leches: 6.54
+  Cactus Cooler Margarita: 8.92
+  Passion Fruit Agua Fresca: 3.48
+  Tropical Guava Mint Punch: 4.79
+  Ultimate Nacho Platter: 11.03
+  Tamarind Glazed Wings: 9.86
+  Paloma Breeze Cocktail: 8.51
+  Horchata Milkshake: 5.51
+  Chipotle Bean Burrito: 9.6

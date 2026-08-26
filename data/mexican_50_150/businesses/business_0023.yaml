@@ -1,0 +1,43 @@
+id: business_0023
+name: "Casa Pi\xF1a y Fuego"
+description: Experience vibrant Mexican and Tex-Mex flavors with a creative twist,
+  where fresh ingredients and bold spices come together in every dish. From zesty
+  salsas to sizzling favorites, our lively cantina invites you to savor every bite.
+rating: 1.0
+progenitor_customer: customer_0008
+menu_features:
+  Pineapple Habanero Salsa: 5.16
+  Pineapple Pico de Gallo Salsa: 6.47
+  Crispy Avocado Tostadas: 10.68
+  Black Bean & Cheese Tostadas: 11.03
+  Zesty Lime Shrimp Salad: 13.44
+  Caramelized Onion and Chorizo Quesadilla: 10.06
+  Honey Lime Grilled Fajitas: 15.26
+  Crispy Avocado Wedges: 6.87
+  Pineapple Habanero Sake: 7.18
+  Tamarind Ginger Cooler: 4.0
+  Carne Asada Fajitas: 13.12
+  Chili Lime Margarita: 7.47
+  Honey Chipotle Wings: 12.46
+  Tres Leches Cake: 7.71
+  Cheesy Jalapeno Poppers: 7.59
+  Coconut Tres Leches: 8.08
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Pineapple Habanero Salsa: 4.54
+  Pineapple Pico de Gallo Salsa: 5.69
+  Crispy Avocado Tostadas: 9.4
+  Black Bean & Cheese Tostadas: 9.71
+  Zesty Lime Shrimp Salad: 11.83
+  Caramelized Onion and Chorizo Quesadilla: 8.85
+  Honey Lime Grilled Fajitas: 13.43
+  Crispy Avocado Wedges: 6.05
+  Pineapple Habanero Sake: 6.32
+  Tamarind Ginger Cooler: 3.52
+  Carne Asada Fajitas: 11.55
+  Chili Lime Margarita: 6.57
+  Honey Chipotle Wings: 10.96
+  Tres Leches Cake: 6.78
+  Cheesy Jalapeno Poppers: 6.68
+  Coconut Tres Leches: 7.11

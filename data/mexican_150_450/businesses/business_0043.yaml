@@ -1,0 +1,37 @@
+id: business_0043
+name: Quesa Divine
+description: Experience a burst of bold flavors and fresh ingredients with every bite
+  at Quesa Divine. Serving up inventive Mexican and Tex-Mex classics, this is where
+  cravings for grilled, zesty, and crave-worthy fare are always satisfied.
+rating: 1.0
+progenitor_customer: customer_0015
+menu_features:
+  Grilled Shrimp Quesadilla: 11.89
+  Hatch Green Chile Quesadilla: 11.65
+  Hatch Green Chile Rice: 4.72
+  Black Bean Stuffed Bell Peppers: 11.57
+  Black Bean and Corn Salsa: 5.33
+  Grilled Chipotle Chicken Burrito: 10.95
+  Raspberry Chipotle Barbecue Ribs: 14.62
+  Chipotle Lime Shrimp Tacos: 15.1
+  Black Bean Sweet Potato Burrito: 10.47
+  Shrimp Ceviche Cups: 11.27
+  Pineapple Agua Fresca: 4.69
+  Crispy Avocado Tacos: 10.98
+  Beef Fajita Skillet: 16.07
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Grilled Shrimp Quesadilla: 10.11
+  Hatch Green Chile Quesadilla: 9.9
+  Hatch Green Chile Rice: 4.01
+  Black Bean Stuffed Bell Peppers: 9.83
+  Black Bean and Corn Salsa: 4.53
+  Grilled Chipotle Chicken Burrito: 9.31
+  Raspberry Chipotle Barbecue Ribs: 12.43
+  Chipotle Lime Shrimp Tacos: 12.83
+  Black Bean Sweet Potato Burrito: 8.9
+  Shrimp Ceviche Cups: 9.58
+  Pineapple Agua Fresca: 3.99
+  Crispy Avocado Tacos: 9.33
+  Beef Fajita Skillet: 13.66

@@ -1,0 +1,12 @@
+id: customer_0144
+name: Rajesh Gupta
+request: "Could you please help me find a business that serves all of the following\
+  \ menu items: Pineapple Habanero Margarita (1), Pico de Gallo Chicken Salad (1),\
+  \ and Jalapeno Cheddar Cornbread (1)? It\u2019s very important that the business\
+  \ can provide exactly these items as listed, as I intend to place an order for them.\
+  \ Thank you very much for your assistance."
+menu_features:
+  Pineapple Habanero Margarita: 9.99
+  Pico de Gallo Chicken Salad: 9.49
+  Jalapeno Cheddar Cornbread: 4.99
+amenity_features: []

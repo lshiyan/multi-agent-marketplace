@@ -1,0 +1,47 @@
+id: business_0104
+name: Chile & Cream Cantina
+description: Experience fresh, modern Mexican and Tex-Mex fare with bold flavors and
+  inventive twists on classic favorites. Enjoy a vibrant atmosphere with a menu that
+  celebrates sizzling skillets, creamy sauces, and a zest for every palate.
+rating: 1.0
+progenitor_customer: customer_0035
+menu_features:
+  Creamy Chipotle Pasta: 11.11
+  Sizzling Fajita Skillet: 15.77
+  Blueberry Tequila Sunrise: 10.63
+  Spice-Rubbed Grilled Fajitas: 16.47
+  Poblano Pepper Queso Dip: 8.45
+  Crispy Chicken Tostada Bowls: 13.27
+  Chipotle Lime Shrimp Tacos: 11.7
+  Tequila Lime Grilled Shrimp: 14.51
+  Pumpkin Spice Flan: 5.32
+  Honey Lime Fajita Sizzlers: 12.64
+  Pineapple Tequila Chicken Skewers: 12.8
+  Carne Asada Nachos: 14.75
+  Three-Cheese Chile Rellenos: 15.91
+  Chocolate Tamale Cake: 6.06
+  Grilled Shrimp Quesadilla: 10.41
+  Lime-Garlic Grilled Chicken: 14.45
+  Bacon and Egg Tostada: 8.35
+  Avocado Street Tacos: 10.63
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Creamy Chipotle Pasta: 9.22
+  Sizzling Fajita Skillet: 13.09
+  Blueberry Tequila Sunrise: 8.82
+  Spice-Rubbed Grilled Fajitas: 13.67
+  Poblano Pepper Queso Dip: 7.01
+  Crispy Chicken Tostada Bowls: 11.01
+  Chipotle Lime Shrimp Tacos: 9.71
+  Tequila Lime Grilled Shrimp: 12.04
+  Pumpkin Spice Flan: 4.42
+  Honey Lime Fajita Sizzlers: 10.49
+  Pineapple Tequila Chicken Skewers: 10.62
+  Carne Asada Nachos: 12.24
+  Three-Cheese Chile Rellenos: 13.21
+  Chocolate Tamale Cake: 5.03
+  Grilled Shrimp Quesadilla: 8.64
+  Lime-Garlic Grilled Chicken: 11.99
+  Bacon and Egg Tostada: 6.93
+  Avocado Street Tacos: 8.82

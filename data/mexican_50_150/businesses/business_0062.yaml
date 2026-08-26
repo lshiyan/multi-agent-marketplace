@@ -1,0 +1,41 @@
+id: business_0062
+name: Pepperwood Palate
+description: Experience bold Tex-Mex flavors and fresh ingredients in a vibrant, welcoming
+  setting. From smoky queso to zesty tacos and inventive desserts, every bite brings
+  a burst of taste and tradition.
+rating: 1.0
+progenitor_customer: customer_0021
+menu_features:
+  Chocolate Churro Bites: 5.68
+  Black Bean Avocado Tostadas: 9.73
+  Passionfruit Agua Fresca: 3.19
+  Loaded Nacho Platter: 11.52
+  Caramelized Plantain Empanadas: 6.84
+  Coconut Tres Leches: 6.06
+  Smoky Chipotle Queso: 6.27
+  Pineapple Habanero Salsa: 4.66
+  Crispy Fish Street Tacos: 14.28
+  Roasted Poblano Queso Dip: 4.78
+  Avocado Street Tacos: 10.62
+  Citrus Grilled Chicken Tacos: 11.33
+  Spicy Street Corn: 6.76
+  Roasted Red Pepper Quesadilla: 10.3
+  Chipotle Bean Burrito: 9.04
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Chocolate Churro Bites: 5.06
+  Black Bean Avocado Tostadas: 8.66
+  Passionfruit Agua Fresca: 2.84
+  Loaded Nacho Platter: 10.25
+  Caramelized Plantain Empanadas: 6.09
+  Coconut Tres Leches: 5.39
+  Smoky Chipotle Queso: 5.58
+  Pineapple Habanero Salsa: 4.15
+  Crispy Fish Street Tacos: 12.71
+  Roasted Poblano Queso Dip: 4.25
+  Avocado Street Tacos: 9.45
+  Citrus Grilled Chicken Tacos: 10.08
+  Spicy Street Corn: 6.02
+  Roasted Red Pepper Quesadilla: 9.17
+  Chipotle Bean Burrito: 8.05

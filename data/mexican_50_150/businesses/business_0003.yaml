@@ -1,0 +1,47 @@
+id: business_0003
+name: Fajita Fiesta
+description: Experience bold flavors and colorful creations at Fajita Fiesta, where
+  fresh ingredients meet Tex-Mex tradition. Enjoy sizzling plates, zesty salads, and
+  sweet treats in a vibrant, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0001
+menu_features:
+  Spice-Rubbed Grilled Fajitas: 12.86
+  Warm Churro Bites: 5.72
+  Spicy Black Bean Enchiladas: 12.87
+  Coconut Lime Paleta: 3.19
+  Sizzling Fajita Skillet: 10.81
+  Roasted Pumpkin Tamale: 7.52
+  Crispy Avocado Tostadas: 11.42
+  Spicy Avocado Smash Burger: 10.38
+  Flamin' Skillet Fajitas: 13.74
+  Street Corn Quesadilla: 10.92
+  Chili Lime Margarita: 8.45
+  Southwest Chopped Salad: 9.86
+  Spicy Black Bean Nachos: 8.01
+  Classic Tortilla Soup: 6.42
+  Carne Asada Nachos: 9.22
+  Passion Fruit Mojito: 9.65
+  Tequila Lime Grilled Chicken: 12.18
+  Zesty Shrimp Ceviche: 14.29
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Spice-Rubbed Grilled Fajitas: 11.7
+  Warm Churro Bites: 5.21
+  Spicy Black Bean Enchiladas: 11.71
+  Coconut Lime Paleta: 2.9
+  Sizzling Fajita Skillet: 9.84
+  Roasted Pumpkin Tamale: 6.84
+  Crispy Avocado Tostadas: 10.39
+  Spicy Avocado Smash Burger: 9.45
+  Flamin' Skillet Fajitas: 12.5
+  Street Corn Quesadilla: 9.94
+  Chili Lime Margarita: 7.69
+  Southwest Chopped Salad: 8.97
+  Spicy Black Bean Nachos: 7.29
+  Classic Tortilla Soup: 5.84
+  Carne Asada Nachos: 8.39
+  Passion Fruit Mojito: 8.78
+  Tequila Lime Grilled Chicken: 11.08
+  Zesty Shrimp Ceviche: 13.0

@@ -1,0 +1,40 @@
+id: business_0258
+name: Holy Skillet & Queso!
+description: Serving up sizzling Tex-Mex favorites and creamy dips with a creative
+  twist, our kitchen brings bold flavors and a playful spirit to every plate. Enjoy
+  fresh brunch bites, fiery cocktails, and house-made sweets in a vibrant, welcoming
+  atmosphere.
+rating: 1.0
+progenitor_customer: customer_0086
+menu_features:
+  Green Chile Pork Stew: 14.23
+  Honey Lime Chicken Fajitas: 16.2
+  Bacon Wrapped Jalapeno Bites: 7.98
+  Poblano Pepper Queso Dip: 7.58
+  Three-Cheese Chile Rellenos: 12.31
+  Horchata Iced Latte: 6.04
+  Sizzling Fajita Skillet: 16.59
+  Fresh Mint Mojito: 7.06
+  Crispy Avocado Burrito: 9.12
+  Bacon and Egg Tostada: 7.02
+  Sizzling Pork Carnitas Bowl: 13.22
+  Creamy Queso Dip: 8.72
+  Spicy Cucumber Margarita: 10.12
+  Spiced Chocolate Flan: 5.91
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Green Chile Pork Stew: 8.82
+  Honey Lime Chicken Fajitas: 10.04
+  Bacon Wrapped Jalapeno Bites: 4.95
+  Poblano Pepper Queso Dip: 4.7
+  Three-Cheese Chile Rellenos: 7.63
+  Horchata Iced Latte: 3.74
+  Sizzling Fajita Skillet: 10.29
+  Fresh Mint Mojito: 4.38
+  Crispy Avocado Burrito: 5.65
+  Bacon and Egg Tostada: 4.35
+  Sizzling Pork Carnitas Bowl: 8.2
+  Creamy Queso Dip: 5.41
+  Spicy Cucumber Margarita: 6.27
+  Spiced Chocolate Flan: 3.66

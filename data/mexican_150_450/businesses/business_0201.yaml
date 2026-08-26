@@ -1,0 +1,33 @@
+id: business_0201
+name: Flan Another Day
+description: "Where bold Mexican flavors meet sweet surprises\u2014discover a playful\
+  \ twist on classic dishes with a dash of zest and spice. Each bite is a fiesta for\
+  \ your senses!"
+rating: 1.0
+progenitor_customer: customer_0067
+menu_features:
+  Tequila Lime Flan: 6.82
+  Avocado Ranch Burrito Bowl: 12.24
+  Chili Chocolate Lava Cake: 7.39
+  Smoky Black Bean Nachos: 8.66
+  Ancho Chili Chocolate Cake: 6.48
+  Honey Lime Grilled Chicken: 14.15
+  Chili Lime Shrimp Skewers: 14.74
+  Cinnamon Sugar Churros: 5.84
+  Coconut Lime Shrimp Skewers: 16.7
+  Black Bean and Cilantro Rice: 3.9
+  Fajita Veggie Burrito Bowl: 13.44
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Tequila Lime Flan: 4.84
+  Avocado Ranch Burrito Bowl: 8.69
+  Chili Chocolate Lava Cake: 5.25
+  Smoky Black Bean Nachos: 6.15
+  Ancho Chili Chocolate Cake: 4.6
+  Honey Lime Grilled Chicken: 10.05
+  Chili Lime Shrimp Skewers: 10.47
+  Cinnamon Sugar Churros: 4.15
+  Coconut Lime Shrimp Skewers: 11.86
+  Black Bean and Cilantro Rice: 2.77
+  Fajita Veggie Burrito Bowl: 9.54

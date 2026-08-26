@@ -1,0 +1,43 @@
+id: business_0270
+name: La Palma Saborosa
+description: Experience vibrant Mexican and Tex-Mex cuisine in a lively atmosphere,
+  where classic flavors meet fresh, creative twists. From zesty tacos to sweet desserts
+  and refreshing drinks, every dish is crafted to delight your senses.
+rating: 1.0
+progenitor_customer: customer_0090
+menu_features:
+  Chipotle Chicken Enchiladas: 18.1
+  Chili Con Queso Supreme: 6.01
+  Fresh Limeade: 3.17
+  Pineapple Habanero Salsa: 4.16
+  Fresh Corn Elote: 3.4
+  Spicy Mango Margarita: 9.91
+  Sweet Plantain Empanadas: 8.39
+  Chocolate Cinnamon Flan: 5.05
+  Honey-Lime Shrimp Skewers: 15.05
+  Chili-Lime Cauliflower Bites: 9.68
+  Crispy Fish Tacos: 11.76
+  Cucumber Jalapeno Agua Fresca: 3.67
+  Honey Lime Grilled Fajitas: 15.07
+  Honey Chipotle Wings: 11.71
+  Zesty Lime Chicken Tacos: 10.65
+  Rich Chocolate Tres Leches: 8.53
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Chipotle Chicken Enchiladas: 11.04
+  Chili Con Queso Supreme: 3.67
+  Fresh Limeade: 1.93
+  Pineapple Habanero Salsa: 2.54
+  Fresh Corn Elote: 2.07
+  Spicy Mango Margarita: 6.05
+  Sweet Plantain Empanadas: 5.12
+  Chocolate Cinnamon Flan: 3.08
+  Honey-Lime Shrimp Skewers: 9.18
+  Chili-Lime Cauliflower Bites: 5.9
+  Crispy Fish Tacos: 7.17
+  Cucumber Jalapeno Agua Fresca: 2.24
+  Honey Lime Grilled Fajitas: 9.19
+  Honey Chipotle Wings: 7.14
+  Zesty Lime Chicken Tacos: 6.5
+  Rich Chocolate Tres Leches: 5.2

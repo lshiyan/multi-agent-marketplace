@@ -1,0 +1,41 @@
+id: business_0049
+name: Churro Bravo
+description: Step into a fiesta of bold, modern flavors where sweet meets spicy in
+  every bite. From sizzling street tacos to decadent churros, Churro Bravo brings
+  playful twists and vibrant tastes to classic Mexican and Tex-Mex favorites.
+rating: 1.0
+progenitor_customer: customer_0017
+menu_features:
+  Cinnamon Sugar Churro Sticks: 5.18
+  Tropical Pineapple Salsa: 2.96
+  Savory Chorizo Street Tacos: 10.36
+  Passion Fruit Mojito: 9.59
+  Black Bean & Corn Enchiladas: 9.54
+  Spicy Chocolate Churros: 6.25
+  Fresh Lime and Cilantro Guacamole: 8.99
+  Honey Lime Grilled Fajitas: 14.96
+  Adobo Pork Sliders: 10.13
+  Spicy Chipotle Chicken Wrap: 8.46
+  Choco-Chili Volcano Cake: 9.47
+  Mango Habanero Margarita: 8.45
+  Zesty Lime Shrimp Salad: 9.57
+  Spicy Avocado Smash Burger: 15.52
+  Smoky Ancho Chicken Enchiladas: 11.68
+amenity_features: {}
+min_price_factor: 0.6
+minimum_menu_prices:
+  Cinnamon Sugar Churro Sticks: 3.11
+  Tropical Pineapple Salsa: 1.78
+  Savory Chorizo Street Tacos: 6.22
+  Passion Fruit Mojito: 5.75
+  Black Bean & Corn Enchiladas: 5.72
+  Spicy Chocolate Churros: 3.75
+  Fresh Lime and Cilantro Guacamole: 5.39
+  Honey Lime Grilled Fajitas: 8.98
+  Adobo Pork Sliders: 6.08
+  Spicy Chipotle Chicken Wrap: 5.08
+  Choco-Chili Volcano Cake: 5.68
+  Mango Habanero Margarita: 5.07
+  Zesty Lime Shrimp Salad: 5.74
+  Spicy Avocado Smash Burger: 9.31
+  Smoky Ancho Chicken Enchiladas: 7.01

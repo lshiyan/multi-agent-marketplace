@@ -1,0 +1,11 @@
+id: customer_0053
+name: Elsa Schmidt
+request: 'Please find a business that offers the following menu items: 1 Charred Corn
+  and Black Bean Salad, 1 Crispy Avocado and Lime Tacos, and 1 Classic Tortilla Soup.
+  It is important that the business provides all these items. Once identified, I intend
+  to place an order for them. Thank you!'
+menu_features:
+  Charred Corn and Black Bean Salad: 8.59
+  Crispy Avocado and Lime Tacos: 11.99
+  Classic Tortilla Soup: 6.49
+amenity_features: []

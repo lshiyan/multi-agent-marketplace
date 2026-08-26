@@ -1,0 +1,41 @@
+id: business_0002
+name: Fiesta Flavors
+description: Dive into a celebration of vibrant Mexican and Tex-Mex cuisine, where
+  each dish is crafted with fresh ingredients and bold flavors. Enjoy a lively atmosphere
+  perfect for family meals or friendly gatherings.
+rating: 1.0
+progenitor_customer: customer_0001
+menu_features:
+  Zesty Lime Shrimp Salad: 12.15
+  Horchata Iced Latte: 4.79
+  Choco Flan Combo: 7.96
+  Three-Cheese Queso Dip: 8.73
+  Spicy Shrimp Fajitas: 13.63
+  Sunset Grilled Veggie Tacos: 11.94
+  Smoky Black Bean Soup: 6.12
+  Tropical Coconut Margarita: 9.99
+  Avocado Lime Salad: 8.68
+  Warm Cinnamon Churros: 6.45
+  Classic Carne Asada Burrito: 12.14
+  Sea Breeze Ceviche: 12.22
+  Honey Lime Grilled Fajitas: 18.55
+  Avocado Ranch Burrito Bowl: 13.76
+  Breakfast Chilaquiles Verde: 10.35
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Zesty Lime Shrimp Salad: 9.6
+  Horchata Iced Latte: 3.78
+  Choco Flan Combo: 6.29
+  Three-Cheese Queso Dip: 6.9
+  Spicy Shrimp Fajitas: 10.77
+  Sunset Grilled Veggie Tacos: 9.43
+  Smoky Black Bean Soup: 4.83
+  Tropical Coconut Margarita: 7.89
+  Avocado Lime Salad: 6.86
+  Warm Cinnamon Churros: 5.1
+  Classic Carne Asada Burrito: 9.59
+  Sea Breeze Ceviche: 9.65
+  Honey Lime Grilled Fajitas: 14.65
+  Avocado Ranch Burrito Bowl: 10.87
+  Breakfast Chilaquiles Verde: 8.18

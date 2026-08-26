@@ -1,0 +1,45 @@
+id: business_0274
+name: La Sabrosa Mesa
+description: La Sabrosa Mesa brings the vibrant spirit of Mexican and Tex-Mex cuisine
+  to your table, blending classic flavors and inventive twists. Enjoy bold, zesty
+  fare and refreshing drinks in a warm, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0092
+menu_features:
+  Breakfast Burrito Bowl: 7.46
+  Sizzling Chicken Fajitas: 13.29
+  Horchata Cold Brew Coffee: 5.55
+  Spicy Pork Tamales: 14.06
+  Spicy Chicken Chimichanga: 14.11
+  Passionfruit Agua Fresca: 3.12
+  Passion Fruit Agua Fresca: 4.09
+  Hatch Green Chile Stew: 10.86
+  Zesty Lime Grilled Shrimp: 14.17
+  Cilantro Lime Chicken Tacos: 10.16
+  Stuffed Poblano Peppers: 11.73
+  Sweet Corn Tostadas: 6.97
+  Tamarind Spiced Agua Fresca: 4.29
+  Avocado Lime Crema Tostadas: 7.04
+  Spicy Shrimp Nacho Platter: 10.85
+  Pineapple Jalapeno Salsa: 4.87
+  Al Pastor Quesadilla: 14.51
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Breakfast Burrito Bowl: 5.52
+  Sizzling Chicken Fajitas: 9.83
+  Horchata Cold Brew Coffee: 4.11
+  Spicy Pork Tamales: 10.4
+  Spicy Chicken Chimichanga: 10.44
+  Passionfruit Agua Fresca: 2.31
+  Passion Fruit Agua Fresca: 3.03
+  Hatch Green Chile Stew: 8.04
+  Zesty Lime Grilled Shrimp: 10.49
+  Cilantro Lime Chicken Tacos: 7.52
+  Stuffed Poblano Peppers: 8.68
+  Sweet Corn Tostadas: 5.16
+  Tamarind Spiced Agua Fresca: 3.17
+  Avocado Lime Crema Tostadas: 5.21
+  Spicy Shrimp Nacho Platter: 8.03
+  Pineapple Jalapeno Salsa: 3.6
+  Al Pastor Quesadilla: 10.74

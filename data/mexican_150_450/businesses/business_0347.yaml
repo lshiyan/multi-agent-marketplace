@@ -1,0 +1,37 @@
+id: business_0347
+name: La Azulada Cantina
+description: Experience vibrant Mexican and Tex-Mex flavors with a creative twist,
+  served in a warm and lively cantina setting. From zesty appetizers to decadent desserts
+  and signature cocktails, every dish is crafted to delight your senses.
+rating: 1.0
+progenitor_customer: customer_0116
+menu_features:
+  Blueberry Agave Margarita: 10.88
+  Pineapple Habanero Salsa: 5.59
+  Bacon and Egg Tostada: 8.06
+  Smoky Chipotle BBQ Nachos: 10.96
+  Ancho Chili Chocolate Cake: 7.59
+  Street Corn Fritters: 7.38
+  Warm Churro Bites: 6.19
+  Spicy Shrimp Ceviche: 9.53
+  Chocolate Dipped Flan: 5.25
+  Creamy Avocado Soup: 8.04
+  Spicy Chipotle Chicken Wrap: 8.26
+  Honey Lime Chicken Fajitas: 18.09
+  Sweet Corn Tamales: 12.59
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Blueberry Agave Margarita: 6.75
+  Pineapple Habanero Salsa: 3.47
+  Bacon and Egg Tostada: 5.0
+  Smoky Chipotle BBQ Nachos: 6.8
+  Ancho Chili Chocolate Cake: 4.71
+  Street Corn Fritters: 4.58
+  Warm Churro Bites: 3.84
+  Spicy Shrimp Ceviche: 5.91
+  Chocolate Dipped Flan: 3.25
+  Creamy Avocado Soup: 4.98
+  Spicy Chipotle Chicken Wrap: 5.12
+  Honey Lime Chicken Fajitas: 11.22
+  Sweet Corn Tamales: 7.81

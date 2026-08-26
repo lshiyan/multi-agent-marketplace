@@ -1,0 +1,34 @@
+id: business_0070
+name: Prickly Plate
+description: Modern Mexican eats with a fresh, spicy twist. Enjoy vibrant flavors,
+  inventive small plates, and creative drinks in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0024
+menu_features:
+  Cactus Flower Iced Tea: 3.7
+  Hatch Green Chile Quesadilla: 17.25
+  Roasted Poblano Corn Chowder: 7.81
+  "Blueberry Jalape\xF1o Margarita": 10.36
+  Red Chili Braised Beef Brisket: 12.92
+  Classic Beef Enchiladas: 11.06
+  Coconut Lime Flan: 7.86
+  Crispy Fish Baja Bowl: 14.56
+  Loaded Nacho Platter: 9.8
+  Caramelized Onion Queso Dip: 7.44
+  Tequila Lime Flan: 8.34
+  Pico Avocado Toast: 7.67
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Cactus Flower Iced Tea: 2.63
+  Hatch Green Chile Quesadilla: 12.25
+  Roasted Poblano Corn Chowder: 5.55
+  "Blueberry Jalape\xF1o Margarita": 7.36
+  Red Chili Braised Beef Brisket: 9.17
+  Classic Beef Enchiladas: 7.85
+  Coconut Lime Flan: 5.58
+  Crispy Fish Baja Bowl: 10.34
+  Loaded Nacho Platter: 6.96
+  Caramelized Onion Queso Dip: 5.28
+  Tequila Lime Flan: 5.92
+  Pico Avocado Toast: 5.45

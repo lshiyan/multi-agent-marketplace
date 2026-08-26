@@ -1,0 +1,39 @@
+id: business_0292
+name: Tres Tostada Tavern
+description: Experience vibrant Tex-Mex flavors and creative cocktails in a lively,
+  welcoming setting. Fresh ingredients, savory plates, and spirited sips await at
+  every visit.
+rating: 1.0
+progenitor_customer: customer_0098
+menu_features:
+  Cilantro Lime Chicken Tacos: 10.83
+  Loaded Nacho Fries: 7.78
+  Avocado Lime Grilled Shrimp: 15.08
+  Classic Horchata Delight: 3.16
+  Frozen Strawberry Margarita: 10.94
+  Loaded Nacho Skillet: 7.93
+  Mexican Chocolate Flan: 6.44
+  Veggie Fajita Platter: 14.29
+  Strawberry Jalapeno Lemonade: 4.04
+  Adobo Pork Sliders: 9.54
+  Horchata Latte: 5.78
+  Zesty Lime Shrimp Tostadas: 11.6
+  Rich Chocolate Tres Leches: 6.32
+  Poblano Pepper Relleno Plate: 11.47
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Cilantro Lime Chicken Tacos: 6.93
+  Loaded Nacho Fries: 4.98
+  Avocado Lime Grilled Shrimp: 9.65
+  Classic Horchata Delight: 2.02
+  Frozen Strawberry Margarita: 7.0
+  Loaded Nacho Skillet: 5.08
+  Mexican Chocolate Flan: 4.12
+  Veggie Fajita Platter: 9.15
+  Strawberry Jalapeno Lemonade: 2.59
+  Adobo Pork Sliders: 6.11
+  Horchata Latte: 3.7
+  Zesty Lime Shrimp Tostadas: 7.42
+  Rich Chocolate Tres Leches: 4.04
+  Poblano Pepper Relleno Plate: 7.34

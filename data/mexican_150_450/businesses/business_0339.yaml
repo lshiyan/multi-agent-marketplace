@@ -1,0 +1,41 @@
+id: business_0339
+name: La Casa Tropical
+description: La Casa Tropical brings vibrant Mexican and Tex-Mex flavors together
+  in an inviting, upbeat atmosphere. Enjoy a fresh, colorful menu that celebrates
+  classic tastes and modern twists, perfect for any craving.
+rating: 1.0
+progenitor_customer: customer_0113
+menu_features:
+  Mango Habanero Wings: 14.77
+  Beef Barbacoa Burrito Bowl: 11.94
+  Avocado Lime Crema Tostadas: 10.24
+  Honey Lime Fajita Sizzlers: 16.25
+  Rich Chocolate Tres Leches: 7.81
+  Fresh Lime and Cilantro Guacamole: 8.97
+  Avocado Lime Salsa: 3.65
+  Spiced Churro Bites: 5.6
+  Avocado Street Tacos: 10.46
+  Warm Cinnamon Churros: 5.29
+  Smoky Chipotle Queso: 4.92
+  Mexican Street Corn Salad: 7.65
+  Coconut Lime Shrimp Skewers: 11.9
+  Caramelized Plantain Empanadas: 8.32
+  Sunset Grilled Veggie Tacos: 14.27
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Mango Habanero Wings: 10.49
+  Beef Barbacoa Burrito Bowl: 8.48
+  Avocado Lime Crema Tostadas: 7.27
+  Honey Lime Fajita Sizzlers: 11.54
+  Rich Chocolate Tres Leches: 5.55
+  Fresh Lime and Cilantro Guacamole: 6.37
+  Avocado Lime Salsa: 2.59
+  Spiced Churro Bites: 3.98
+  Avocado Street Tacos: 7.43
+  Warm Cinnamon Churros: 3.76
+  Smoky Chipotle Queso: 3.49
+  Mexican Street Corn Salad: 5.43
+  Coconut Lime Shrimp Skewers: 8.45
+  Caramelized Plantain Empanadas: 5.91
+  Sunset Grilled Veggie Tacos: 10.13

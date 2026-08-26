@@ -1,0 +1,43 @@
+id: business_0095
+name: "Casa Saz\xF3n y Crema"
+description: "Discover a vibrant blend of bold Mexican and Tex-Mex flavors in a warm,\
+  \ inviting atmosphere. At Casa Saz\xF3n y Crema, classic favorites and inventive\
+  \ creations come together for a lively dining experience."
+rating: 1.0
+progenitor_customer: customer_0032
+menu_features:
+  Creamy Queso Dip: 6.43
+  Spicy Avocado Smash Burger: 10.96
+  Spice-Rubbed Grilled Fajitas: 13.4
+  Salted Caramel Margarita: 10.02
+  Crispy Carnitas Quesadilla: 11.37
+  Smoky Lime Quinoa Salad: 10.2
+  Avocado Lime Cheesecake: 7.43
+  Sweet Corn Tamales: 10.33
+  Honey Lime Chicken Fajitas: 13.31
+  Black Bean and Corn Fiesta Salad: 9.64
+  Pineapple Chipotle Salsa & Chips: 6.1
+  Roasted Pecan Flan: 5.92
+  Queso Fundido Supreme: 9.59
+  Coconut Tres Leches: 7.22
+  Refreshing Agua Fresca Trio: 6.16
+  Chipotle Bean Burrito: 9.92
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Creamy Queso Dip: 6.04
+  Spicy Avocado Smash Burger: 10.3
+  Spice-Rubbed Grilled Fajitas: 12.6
+  Salted Caramel Margarita: 9.42
+  Crispy Carnitas Quesadilla: 10.69
+  Smoky Lime Quinoa Salad: 9.59
+  Avocado Lime Cheesecake: 6.98
+  Sweet Corn Tamales: 9.71
+  Honey Lime Chicken Fajitas: 12.51
+  Black Bean and Corn Fiesta Salad: 9.06
+  Pineapple Chipotle Salsa & Chips: 5.73
+  Roasted Pecan Flan: 5.56
+  Queso Fundido Supreme: 9.01
+  Coconut Tres Leches: 6.79
+  Refreshing Agua Fresca Trio: 5.79
+  Chipotle Bean Burrito: 9.32

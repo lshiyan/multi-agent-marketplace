@@ -1,0 +1,35 @@
+id: business_0211
+name: Lively Lime Kitchen
+description: Experience a fresh twist on Mexican and Tex-Mex cuisine with vibrant
+  flavors, zesty cocktails, and creative dishes in a fun, modern setting. Perfect
+  for brunch, dinner, or a relaxing drink with friends.
+rating: 1.0
+progenitor_customer: customer_0071
+menu_features:
+  Cactus Cooler Margarita: 9.89
+  Margarita Lime Cheesecake: 6.47
+  Grilled Elote Corn: 4.97
+  Strawberry Jalapeno Lemonade: 4.81
+  Breakfast Burrito Bowl: 7.38
+  Fresh Mint Mojito: 8.73
+  Zesty Lime Chicken Enchiladas: 13.44
+  Baja Fish Taco Plate: 13.86
+  Frozen Strawberry Daiquiri: 9.6
+  Avocado Lime Dip: 6.3
+  Roasted Poblano and Cheese Empanadas: 8.85
+  Tamarind Ginger Cooler: 5.2
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Cactus Cooler Margarita: 6.13
+  Margarita Lime Cheesecake: 4.01
+  Grilled Elote Corn: 3.08
+  Strawberry Jalapeno Lemonade: 2.98
+  Breakfast Burrito Bowl: 4.58
+  Fresh Mint Mojito: 5.41
+  Zesty Lime Chicken Enchiladas: 8.33
+  Baja Fish Taco Plate: 8.59
+  Frozen Strawberry Daiquiri: 5.95
+  Avocado Lime Dip: 3.91
+  Roasted Poblano and Cheese Empanadas: 5.49
+  Tamarind Ginger Cooler: 3.22

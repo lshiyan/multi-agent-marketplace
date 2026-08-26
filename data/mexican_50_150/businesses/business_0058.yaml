@@ -1,0 +1,41 @@
+id: business_0058
+name: Guac My World
+description: Dive into vibrant Mexican and Tex-Mex dishes bursting with bold flavors,
+  where fresh ingredients and creative twists take center stage. Perfect for anyone
+  craving a fiesta of color, spice, and savory delights.
+rating: 1.0
+progenitor_customer: customer_0020
+menu_features:
+  Spicy Avocado Burger: 12.13
+  Grilled Shrimp Quesadilla: 9.02
+  Roasted Corn and Black Bean Salad: 9.86
+  Coffee Cinnamon Mexican Mocha: 5.19
+  Tamale Trio Sampler: 9.85
+  Black Bean Chili Bowl: 8.91
+  Crispy Chicken Tostada Bowls: 12.23
+  Smoky Chipotle BBQ Ribs: 13.9
+  Black Bean & Corn Enchiladas: 11.4
+  Fiesta Street Corn: 4.32
+  Vanilla Flan Delight: 4.73
+  Tequila Sunrise Smoothie: 5.63
+  Black Bean and Cilantro Rice: 3.84
+  Zesty Lime Chicken Enchiladas: 15.14
+  Ranchero Eggs Benedict: 14.35
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Spicy Avocado Burger: 10.07
+  Grilled Shrimp Quesadilla: 7.49
+  Roasted Corn and Black Bean Salad: 8.18
+  Coffee Cinnamon Mexican Mocha: 4.31
+  Tamale Trio Sampler: 8.18
+  Black Bean Chili Bowl: 7.4
+  Crispy Chicken Tostada Bowls: 10.15
+  Smoky Chipotle BBQ Ribs: 11.54
+  Black Bean & Corn Enchiladas: 9.46
+  Fiesta Street Corn: 3.59
+  Vanilla Flan Delight: 3.93
+  Tequila Sunrise Smoothie: 4.67
+  Black Bean and Cilantro Rice: 3.19
+  Zesty Lime Chicken Enchiladas: 12.57
+  Ranchero Eggs Benedict: 11.91

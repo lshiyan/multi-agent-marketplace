@@ -1,0 +1,9 @@
+id: customer_0044
+name: Elijah Lewis
+request: Could you please find a business that offers both the 'Baja Fish Taco Bowl'
+  and the 'Smoky Chipotle Chicken'? I would like to place an order for 1 of each.
+  It is important that the business provides both items. Thank you!
+menu_features:
+  Baja Fish Taco Bowl: 12.99
+  Smoky Chipotle Chicken: 13.99
+amenity_features: []

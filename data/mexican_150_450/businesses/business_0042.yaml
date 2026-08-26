@@ -1,0 +1,39 @@
+id: business_0042
+name: The Spice is Right
+description: Step into a vibrant world of bold flavors and fresh twists on Mexican
+  and Tex-Mex favorites. From zesty ceviche to decadent desserts, every bite is a
+  celebration of spice and craftsmanship.
+rating: 1.0
+progenitor_customer: customer_0014
+menu_features:
+  Sea Breeze Ceviche: 10.62
+  Rich Chocolate Tres Leches: 6.27
+  Smoky Chipotle Black Bean Soup: 8.14
+  Spicy Black Bean Enchiladas: 8.98
+  Pico Avocado Toast: 9.44
+  Verde Chicken Enchiladas: 10.89
+  Loaded Nacho Platter: 10.41
+  Caramel Corn Flan: 7.22
+  Spice-Rubbed Grilled Fajitas: 14.52
+  Passion Fruit Mojito: 9.67
+  Cactus Cooler Margarita: 10.08
+  Hatch Green Chile Quesadilla: 12.06
+  Classic Beef Barbacoa: 16.42
+  Zesty Shrimp Quesadillas: 13.12
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Sea Breeze Ceviche: 7.12
+  Rich Chocolate Tres Leches: 4.2
+  Smoky Chipotle Black Bean Soup: 5.45
+  Spicy Black Bean Enchiladas: 6.02
+  Pico Avocado Toast: 6.32
+  Verde Chicken Enchiladas: 7.3
+  Loaded Nacho Platter: 6.97
+  Caramel Corn Flan: 4.84
+  Spice-Rubbed Grilled Fajitas: 9.73
+  Passion Fruit Mojito: 6.48
+  Cactus Cooler Margarita: 6.75
+  Hatch Green Chile Quesadilla: 8.08
+  Classic Beef Barbacoa: 11.0
+  Zesty Shrimp Quesadillas: 8.79

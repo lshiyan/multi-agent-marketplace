@@ -1,0 +1,37 @@
+id: business_0146
+name: Viva Verde Kitchen
+description: Experience a vibrant twist on Mexican and Tex-Mex favorites, where fresh
+  ingredients and bold flavors come together in a modern, inviting setting. Enjoy
+  a menu packed with sizzling classics, creative bites, and refreshing cocktails.
+rating: 1.0
+progenitor_customer: customer_0049
+menu_features:
+  Crispy Avocado Burrito: 12.96
+  Chili Lime Skirt Steak: 19.75
+  Spicy Black Bean and Cheese Quesadilla: 8.7
+  Passion Fruit Mojito: 9.28
+  Avocado Lime Quinoa Bowl: 9.94
+  Adobo Pork Sliders: 9.85
+  Sizzling Chicken Fajitas: 11.73
+  Cactus Cooler Margarita: 7.87
+  Spicy Pineapple Salsa Dip: 6.1
+  Loaded Nacho Supreme: 12.77
+  Tex-Mex Fajita Wrap: 12.84
+  Black Bean Stuffed Bell Peppers: 10.99
+  Breakfast Burrito Supreme: 10.4
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Crispy Avocado Burrito: 9.33
+  Chili Lime Skirt Steak: 14.22
+  Spicy Black Bean and Cheese Quesadilla: 6.26
+  Passion Fruit Mojito: 6.68
+  Avocado Lime Quinoa Bowl: 7.16
+  Adobo Pork Sliders: 7.09
+  Sizzling Chicken Fajitas: 8.45
+  Cactus Cooler Margarita: 5.67
+  Spicy Pineapple Salsa Dip: 4.39
+  Loaded Nacho Supreme: 9.19
+  Tex-Mex Fajita Wrap: 9.24
+  Black Bean Stuffed Bell Peppers: 7.91
+  Breakfast Burrito Supreme: 7.49

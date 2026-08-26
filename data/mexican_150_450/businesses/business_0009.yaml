@@ -1,0 +1,44 @@
+id: business_0009
+name: "El Coraz\xF3n Mexicano"
+description: "Experience the vibrant spirit and bold flavors of Mexico and the Southwest\
+  \ at El Coraz\xF3n Mexicano, where classic favorites and innovative creations are\
+  \ crafted with fresh ingredients and a touch of warmth. Enjoy a welcoming space\
+  \ perfect for savoring authentic and contemporary dishes in great company."
+rating: 1.0
+progenitor_customer: customer_0003
+menu_features:
+  Lime-Cilantro Quinoa Salad: 11.14
+  Chipotle Bourbon Carnitas: 15.58
+  Rich Chocolate Tamales: 6.08
+  Frozen Strawberry Daiquiri: 8.61
+  Creamy Avocado Smoothie: 5.01
+  Black Bean Taco Bowl: 8.49
+  Smoky Chipotle BBQ Nachos: 10.07
+  Avocado Lime Crema Tostadas: 9.59
+  Tamarind Ginger Cooler: 4.1
+  Warm Cinnamon Churros: 6.44
+  Huevos Rancheros: 10.56
+  Mango Habanero Wings: 11.05
+  Adobo Roasted Corn Salad: 8.82
+  Beef Enchiladas Verdes: 13.28
+  Grilled Street Corn: 6.37
+  Lime-Garlic Grilled Chicken: 12.43
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Lime-Cilantro Quinoa Salad: 9.47
+  Chipotle Bourbon Carnitas: 13.24
+  Rich Chocolate Tamales: 5.17
+  Frozen Strawberry Daiquiri: 7.32
+  Creamy Avocado Smoothie: 4.26
+  Black Bean Taco Bowl: 7.22
+  Smoky Chipotle BBQ Nachos: 8.56
+  Avocado Lime Crema Tostadas: 8.15
+  Tamarind Ginger Cooler: 3.48
+  Warm Cinnamon Churros: 5.47
+  Huevos Rancheros: 8.98
+  Mango Habanero Wings: 9.39
+  Adobo Roasted Corn Salad: 7.5
+  Beef Enchiladas Verdes: 11.29
+  Grilled Street Corn: 5.41
+  Lime-Garlic Grilled Chicken: 10.57

@@ -1,0 +1,10 @@
+id: customer_0069
+name: Olivia Perez
+request: 'Please find a business that can fulfill the following order: 1 Stuffed Avocado
+  Boats and 1 Spicy Chorizo Enchiladas. It is crucial that the business provides both
+  menu items as listed. Upon confirmation, I intend to place the order for these items.
+  Thank you for your assistance.'
+menu_features:
+  Stuffed Avocado Boats: 8.99
+  Spicy Chorizo Enchiladas: 13.99
+amenity_features: []

@@ -1,0 +1,37 @@
+id: business_0215
+name: Taco 'Bout a Glaze
+description: Spice things up with bold flavors and sweet finishes at this modern Tex-Mex
+  cantina, where every dish is served with a sizzling twist. Come for the savory classics,
+  stay for the sweet, cinnamon-dusted treats.
+rating: 1.0
+progenitor_customer: customer_0072
+menu_features:
+  Black Bean Taco Bowl: 8.64
+  Chipotle Lime Shrimp Tacos: 12.32
+  Black Bean & Corn Quesadilla: 10.92
+  Cinnamon Sugar Churros: 5.67
+  Ancho Honey-Glazed Salmon: 15.36
+  Roasted Poblano Rellenos: 13.26
+  Honey Lime Fajita Sizzlers: 18.69
+  Black Bean Crunch Wrap: 11.63
+  Creamy Poblano Corn Chowder: 10.13
+  Three-Cheese Enchilada Stack: 10.3
+  Zesty Lime Grilled Chicken: 14.27
+  Fresh Lime and Cilantro Guacamole: 8.91
+  Tamale Pie Casserole: 17.29
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Black Bean Taco Bowl: 6.31
+  Chipotle Lime Shrimp Tacos: 8.99
+  Black Bean & Corn Quesadilla: 7.97
+  Cinnamon Sugar Churros: 4.14
+  Ancho Honey-Glazed Salmon: 11.21
+  Roasted Poblano Rellenos: 9.68
+  Honey Lime Fajita Sizzlers: 13.64
+  Black Bean Crunch Wrap: 8.49
+  Creamy Poblano Corn Chowder: 7.39
+  Three-Cheese Enchilada Stack: 7.52
+  Zesty Lime Grilled Chicken: 10.42
+  Fresh Lime and Cilantro Guacamole: 6.5
+  Tamale Pie Casserole: 12.62

@@ -1,0 +1,35 @@
+id: business_0010
+name: La Parrilla Dorada
+description: Experience the vibrant flavors of classic Mexican and Tex-Mex cuisine,
+  grilled to perfection and served with a modern touch. Enjoy a warm, inviting atmosphere
+  where every meal is a celebration of bold spices and fresh ingredients.
+rating: 1.0
+progenitor_customer: customer_0004
+menu_features:
+  Sizzling Fajita Skillet: 15.76
+  Black Bean & Corn Queso Dip: 6.35
+  Spiced Chocolate Flan: 7.88
+  Loaded Nacho Fiesta: 8.28
+  Grilled Steak Quesadilla: 13.39
+  Black Bean & Corn Quesadilla: 10.64
+  Sweet Corn Tamales: 12.75
+  Cocoa Dusted Churro Bites: 5.59
+  Sizzling Carne Asada: 12.31
+  Savory Chorizo Street Tacos: 10.51
+  Spiked Horchata Cooler: 8.96
+  Tequila Lime Grilled Chicken: 12.99
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Sizzling Fajita Skillet: 13.24
+  Black Bean & Corn Queso Dip: 5.33
+  Spiced Chocolate Flan: 6.62
+  Loaded Nacho Fiesta: 6.96
+  Grilled Steak Quesadilla: 11.25
+  Black Bean & Corn Quesadilla: 8.94
+  Sweet Corn Tamales: 10.71
+  Cocoa Dusted Churro Bites: 4.7
+  Sizzling Carne Asada: 10.34
+  Savory Chorizo Street Tacos: 8.83
+  Spiked Horchata Cooler: 7.53
+  Tequila Lime Grilled Chicken: 10.91

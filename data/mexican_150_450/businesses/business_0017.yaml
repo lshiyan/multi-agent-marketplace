@@ -1,0 +1,43 @@
+id: business_0017
+name: Zest Mexicana
+description: Experience a burst of modern Mexican and Tex-Mex flavors in a vibrant,
+  welcoming atmosphere. From fresh grilled favorites to sweet treats and zesty sips,
+  discover your new go-to for bold, unforgettable bites.
+rating: 1.0
+progenitor_customer: customer_0006
+menu_features:
+  Veggie Fajita Platter: 14.91
+  Cinnamon Sugar Churros: 5.21
+  Huevos Rancheros: 9.71
+  Pineapple Tequila Chicken Skewers: 14.22
+  Sizzling Pork Carnitas Bowl: 10.21
+  Mushroom & Cheese Tamales: 9.84
+  Crispy Fish Baja Bowl: 14.85
+  Tequila Lime Grilled Shrimp: 14.34
+  Lime-Garlic Grilled Chicken: 14.51
+  Breakfast Burrito Bowl: 7.1
+  Classic Lime Margarita: 8.63
+  Stuffed Avocado Delight: 7.21
+  Loaded Nacho Fiesta: 9.08
+  "Cheesy Jalape\xF1o Queso Dip": 8.25
+  Mango Habanero Margarita: 11.55
+  Crispy Avocado Tacos: 12.07
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Veggie Fajita Platter: 12.67
+  Cinnamon Sugar Churros: 4.43
+  Huevos Rancheros: 8.25
+  Pineapple Tequila Chicken Skewers: 12.09
+  Sizzling Pork Carnitas Bowl: 8.68
+  Mushroom & Cheese Tamales: 8.36
+  Crispy Fish Baja Bowl: 12.62
+  Tequila Lime Grilled Shrimp: 12.19
+  Lime-Garlic Grilled Chicken: 12.33
+  Breakfast Burrito Bowl: 6.03
+  Classic Lime Margarita: 7.34
+  Stuffed Avocado Delight: 6.13
+  Loaded Nacho Fiesta: 7.72
+  "Cheesy Jalape\xF1o Queso Dip": 7.01
+  Mango Habanero Margarita: 9.82
+  Crispy Avocado Tacos: 10.26

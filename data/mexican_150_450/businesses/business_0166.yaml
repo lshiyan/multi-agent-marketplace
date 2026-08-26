@@ -1,0 +1,35 @@
+id: business_0166
+name: Burrito & Brisket Bistro
+description: Discover vibrant Mexican and Tex-Mex flavors, from sizzling burritos
+  to savory slow-braised meats and fresh agua fresca. Perfect for a flavorful meal
+  with friends or family in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0056
+menu_features:
+  Grilled Chipotle Chicken Burrito: 10.88
+  Black Bean Avocado Enchiladas: 9.9
+  Avocado Lime Dip: 5.61
+  Roasted Red Pepper Quesadilla: 9.58
+  Smoky Black Bean Nachos: 7.83
+  Chocolate Mole Chicken: 16.93
+  Cucumber Jalapeno Agua Fresca: 4.28
+  Crispy Fish Tacos: 13.09
+  Mushroom & Cheese Tamales: 8.45
+  Red Chili Braised Beef Brisket: 15.98
+  Mini Street Tacos Platter: 10.89
+  Salted Caramel Margarita: 9.75
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Grilled Chipotle Chicken Burrito: 7.94
+  Black Bean Avocado Enchiladas: 7.23
+  Avocado Lime Dip: 4.1
+  Roasted Red Pepper Quesadilla: 6.99
+  Smoky Black Bean Nachos: 5.72
+  Chocolate Mole Chicken: 12.36
+  Cucumber Jalapeno Agua Fresca: 3.12
+  Crispy Fish Tacos: 9.56
+  Mushroom & Cheese Tamales: 6.17
+  Red Chili Braised Beef Brisket: 11.67
+  Mini Street Tacos Platter: 7.95
+  Salted Caramel Margarita: 7.12

@@ -1,0 +1,10 @@
+id: customer_0110
+name: Lucas Young
+request: 'Could you please help me find a restaurant where I can place an order for
+  the following items: 1 Crispy Chicken Tostada Bowl and 1 Pork Carnitas Platter?
+  I intend to purchase these, and it is important to me that the restaurant offers
+  both items. Thank you!'
+menu_features:
+  Crispy Chicken Tostada Bowls: 13.49
+  Pork Carnitas Platter: 14.29
+amenity_features: []

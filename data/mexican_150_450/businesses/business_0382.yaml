@@ -1,0 +1,43 @@
+id: business_0382
+name: Chipotle Charm
+description: Step into a vibrant haven where Tex-Mex classics meet smoky, spicy flavors
+  and sweet indulgences. Savor a dynamic menu paired with refreshing drinks in a warm,
+  welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0128
+menu_features:
+  Chili Con Queso Supreme: 6.45
+  Spicy Chicken Chimichanga: 12.37
+  Creamy Chipotle Pasta: 12.14
+  Pineapple Jalapeno Margarita: 9.26
+  Smoky Chipotle BBQ Nachos: 10.89
+  Roasted Corn Elote: 3.21
+  Tamarind Spiced Agua Fresca: 3.89
+  Sizzling Fajita Plate: 14.5
+  Housemade Horchata: 3.83
+  Grilled Shrimp Skewers: 12.67
+  Classic Horchata Smoothie: 4.84
+  Black Bean & Corn Enchiladas: 10.01
+  Spiced Chocolate Flan: 7.59
+  Avocado Lime Cheesecake: 5.17
+  Classic Flan Delight: 4.03
+  Pineapple Chipotle Salsa & Chips: 7.14
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Chili Con Queso Supreme: 4.58
+  Spicy Chicken Chimichanga: 8.78
+  Creamy Chipotle Pasta: 8.62
+  Pineapple Jalapeno Margarita: 6.57
+  Smoky Chipotle BBQ Nachos: 7.73
+  Roasted Corn Elote: 2.28
+  Tamarind Spiced Agua Fresca: 2.76
+  Sizzling Fajita Plate: 10.29
+  Housemade Horchata: 2.72
+  Grilled Shrimp Skewers: 9.0
+  Classic Horchata Smoothie: 3.44
+  Black Bean & Corn Enchiladas: 7.11
+  Spiced Chocolate Flan: 5.39
+  Avocado Lime Cheesecake: 3.67
+  Classic Flan Delight: 2.86
+  Pineapple Chipotle Salsa & Chips: 5.07

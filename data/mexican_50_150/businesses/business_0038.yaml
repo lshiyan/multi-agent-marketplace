@@ -1,0 +1,47 @@
+id: business_0038
+name: Mango & Mariscos Mesa
+description: Experience vibrant Tex-Mex flavors with fresh seafood, zesty citrus accents,
+  and tropical twists on classic favorites. A lively gathering place for bold bites
+  and refreshing drinks.
+rating: 1.0
+progenitor_customer: customer_0013
+menu_features:
+  Zesty Lime Chicken Fajitas: 16.99
+  Mango Jalapeno Salsa and Chips: 5.6
+  Black Bean and Avocado Wrap: 10.24
+  Coconut Flan Delight: 6.08
+  Tropical Coconut Margarita: 9.56
+  Sizzling Fajita Skillet: 14.88
+  Black Bean Sweet Potato Burrito: 8.37
+  Queso Fundido with Chorizo: 9.52
+  Black Bean & Cheese Tostadas: 7.97
+  Peach Berry Sangria: 8.58
+  Cilantro Lime Grilled Shrimp: 12.97
+  Queso Fundido Supreme: 9.51
+  "Strawberry Jalape\xF1o Mocktail": 7.33
+  Creamy Jalapeno Corn Fritters: 8.53
+  Cilantro Lime Rice Bowl: 13.04
+  Fresh Mango Salsa Nachos: 6.89
+  Zesty Lime Shrimp Salad: 13.89
+  Citrus Marinated Carne Asada: 11.37
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Zesty Lime Chicken Fajitas: 15.97
+  Mango Jalapeno Salsa and Chips: 5.26
+  Black Bean and Avocado Wrap: 9.63
+  Coconut Flan Delight: 5.72
+  Tropical Coconut Margarita: 8.99
+  Sizzling Fajita Skillet: 13.99
+  Black Bean Sweet Potato Burrito: 7.87
+  Queso Fundido with Chorizo: 8.95
+  Black Bean & Cheese Tostadas: 7.49
+  Peach Berry Sangria: 8.07
+  Cilantro Lime Grilled Shrimp: 12.19
+  Queso Fundido Supreme: 8.94
+  "Strawberry Jalape\xF1o Mocktail": 6.89
+  Creamy Jalapeno Corn Fritters: 8.02
+  Cilantro Lime Rice Bowl: 12.26
+  Fresh Mango Salsa Nachos: 6.48
+  Zesty Lime Shrimp Salad: 13.06
+  Citrus Marinated Carne Asada: 10.69

@@ -1,0 +1,45 @@
+id: business_0009
+name: Bean There, Sauced That
+description: Discover a bold fusion of Mexican and Tex-Mex flavors, where smoky spices,
+  vibrant salsas, and inventive twists await. From savory starters to sweet endings,
+  each dish is crafted to delight your senses.
+rating: 1.0
+progenitor_customer: customer_0003
+menu_features:
+  Rich Chocolate Tamales: 7.06
+  Cinnamon Sugar Churro Sticks: 5.62
+  Tamarind Glazed Wings: 11.67
+  Smoky Black Bean Tostadas: 7.13
+  Spicy Black Bean Nacho Platter: 8.27
+  Zesty Lime Shrimp Salad: 13.55
+  Smoky Chipotle Steak Fajitas: 15.4
+  Smoky Black Bean Soup: 7.83
+  Black Bean & Corn Enchiladas: 9.04
+  Tangy Tomato Salsa Soup: 8.92
+  Grilled Street Corn: 4.48
+  Chipotle Lime Cauliflower Tacos: 11.84
+  Blueberry Hibiscus Margarita: 8.39
+  Black Bean Burgers: 10.92
+  Blue Corn Tortilla Tacos: 11.11
+  Golden Tequila Sunrise: 7.9
+  Frozen Strawberry Daiquiri: 7.74
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Rich Chocolate Tamales: 6.21
+  Cinnamon Sugar Churro Sticks: 4.95
+  Tamarind Glazed Wings: 10.27
+  Smoky Black Bean Tostadas: 6.27
+  Spicy Black Bean Nacho Platter: 7.28
+  Zesty Lime Shrimp Salad: 11.92
+  Smoky Chipotle Steak Fajitas: 13.55
+  Smoky Black Bean Soup: 6.89
+  Black Bean & Corn Enchiladas: 7.96
+  Tangy Tomato Salsa Soup: 7.85
+  Grilled Street Corn: 3.94
+  Chipotle Lime Cauliflower Tacos: 10.42
+  Blueberry Hibiscus Margarita: 7.38
+  Black Bean Burgers: 9.61
+  Blue Corn Tortilla Tacos: 9.78
+  Golden Tequila Sunrise: 6.95
+  Frozen Strawberry Daiquiri: 6.81

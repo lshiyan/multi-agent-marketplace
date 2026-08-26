@@ -1,0 +1,43 @@
+id: business_0039
+name: Sabores del Sol Cantina
+description: Experience the vibrant flavors of Mexico and the Southwest in our warm,
+  welcoming cantina. From savory grilled favorites to sweet cinnamon delights, every
+  dish is crafted to bring you a taste of sunshine and spice.
+rating: 1.0
+progenitor_customer: customer_0013
+menu_features:
+  Cinnamon Churro Bites: 5.83
+  Zesty Lime Chicken Fajitas: 15.8
+  Pumpkin Spice Churros: 5.04
+  Chili Lime Skirt Steak: 17.95
+  Loaded Chorizo Nachos: 8.31
+  Spicy Chicken Chimichanga: 11.06
+  Smoky Black Bean Enchiladas: 14.82
+  Cheesy Jalapeno Poppers: 8.35
+  Spicy Pork Tamales: 11.02
+  Loaded Street Corn: 6.69
+  Cocoa Dusted Churro Bites: 5.57
+  Southwestern Quinoa Salad: 9.95
+  Grilled Steak Fajita Platter: 15.07
+  Smoky Chipotle BBQ Nachos: 12.17
+  Creamy Jalapeno Corn Fritters: 6.64
+  Queso Fundido Supreme: 10.33
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Cinnamon Churro Bites: 3.79
+  Zesty Lime Chicken Fajitas: 10.27
+  Pumpkin Spice Churros: 3.28
+  Chili Lime Skirt Steak: 11.67
+  Loaded Chorizo Nachos: 5.4
+  Spicy Chicken Chimichanga: 7.19
+  Smoky Black Bean Enchiladas: 9.63
+  Cheesy Jalapeno Poppers: 5.43
+  Spicy Pork Tamales: 7.16
+  Loaded Street Corn: 4.35
+  Cocoa Dusted Churro Bites: 3.62
+  Southwestern Quinoa Salad: 6.47
+  Grilled Steak Fajita Platter: 9.8
+  Smoky Chipotle BBQ Nachos: 7.91
+  Creamy Jalapeno Corn Fritters: 4.32
+  Queso Fundido Supreme: 6.71

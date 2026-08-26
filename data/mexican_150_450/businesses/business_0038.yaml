@@ -1,0 +1,40 @@
+id: business_0038
+name: Tierras de Sabor
+description: Experience a fresh spin on Tex-Mex and Mexican classics, where bold flavors,
+  vibrant plates, and inventive drinks come together in a lively, modern atmosphere.
+  Satisfy your cravings with street-inspired bites, sweet treats, and handcrafted
+  beverages.
+rating: 1.0
+progenitor_customer: customer_0013
+menu_features:
+  Mini Street Tacos Platter: 8.39
+  Street Style Quesadillas: 9.91
+  Housemade Horchata: 4.04
+  Warm Cinnamon Churros: 5.54
+  Chili Chocolate Lava Cake: 8.19
+  Caramelized Plantain Empanadas: 5.87
+  Spicy Black Bean and Cheese Quesadilla: 11.53
+  Mole Chicken Quesadilla: 13.17
+  Mango Habanero Wings: 11.46
+  Loaded Nacho Fries: 7.8
+  Chili Lime Margarita: 9.74
+  Breakfast Burrito Bowl: 9.81
+  Tropical Coconut Margarita: 8.4
+  Black Bean & Cheese Enchiladas: 11.62
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Mini Street Tacos Platter: 6.54
+  Street Style Quesadillas: 7.73
+  Housemade Horchata: 3.15
+  Warm Cinnamon Churros: 4.32
+  Chili Chocolate Lava Cake: 6.39
+  Caramelized Plantain Empanadas: 4.58
+  Spicy Black Bean and Cheese Quesadilla: 8.99
+  Mole Chicken Quesadilla: 10.27
+  Mango Habanero Wings: 8.94
+  Loaded Nacho Fries: 6.08
+  Chili Lime Margarita: 7.6
+  Breakfast Burrito Bowl: 7.65
+  Tropical Coconut Margarita: 6.55
+  Black Bean & Cheese Enchiladas: 9.06

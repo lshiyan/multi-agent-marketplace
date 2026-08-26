@@ -1,0 +1,41 @@
+id: business_0018
+name: Mole & Mango
+description: Experience vibrant Mexican and Tex-Mex cuisine with a creative twist,
+  where zesty flavors and sweet surprises await. From savory grilled dishes to irresistible
+  desserts, every plate is a celebration of taste and tradition.
+rating: 1.0
+progenitor_customer: customer_0006
+menu_features:
+  Lime-Garlic Grilled Chicken: 11.76
+  Classic Lime Margarita: 8.84
+  Baja Shrimp Quesadilla: 14.65
+  Rich Chocolate Tamales: 7.03
+  Stuffed Avocado Delight: 8.38
+  Mole Chicken Quesadilla: 9.88
+  Sweet Plantain Empanadas: 8.95
+  Honey Lime Chicken Fajitas: 15.9
+  Mango Habanero Wings: 14.04
+  Huevos Rancheros: 9.06
+  Chocolate Mole Brownie: 7.03
+  Fiesta Street Corn: 5.04
+  Crispy Avocado Bites: 8.07
+  Peppered Steak Nachos: 10.84
+  Ancho Chili Braised Beef Enchiladas: 13.62
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Lime-Garlic Grilled Chicken: 7.64
+  Classic Lime Margarita: 5.75
+  Baja Shrimp Quesadilla: 9.52
+  Rich Chocolate Tamales: 4.57
+  Stuffed Avocado Delight: 5.45
+  Mole Chicken Quesadilla: 6.42
+  Sweet Plantain Empanadas: 5.82
+  Honey Lime Chicken Fajitas: 10.34
+  Mango Habanero Wings: 9.13
+  Huevos Rancheros: 5.89
+  Chocolate Mole Brownie: 4.57
+  Fiesta Street Corn: 3.28
+  Crispy Avocado Bites: 5.25
+  Peppered Steak Nachos: 7.05
+  Ancho Chili Braised Beef Enchiladas: 8.85

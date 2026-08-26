@@ -1,0 +1,40 @@
+id: business_0293
+name: "El Rinc\xF3n Sabroso"
+description: "Step into El Rinc\xF3n Sabroso and experience a warm, inviting atmosphere\
+  \ where classic Mexican and Tex-Mex flavors are reinvented with a modern twist.\
+  \ Enjoy vibrant small plates, signature cocktails, and indulgent desserts crafted\
+  \ with fresh ingredients and imaginative flair."
+rating: 1.0
+progenitor_customer: customer_0098
+menu_features:
+  Salted Caramel Margarita: 9.32
+  Spicy Shrimp Ceviche: 12.04
+  Grilled Elote Corn: 5.0
+  Tomatillo Ranch Enchiladas: 12.57
+  Gourmet Nacho Platter: 9.92
+  Three-Cheese Enchilada Stack: 10.43
+  Fajita Veggie Burrito Bowl: 14.47
+  Sweet Corn Tamales: 9.27
+  Tequila Lime Flan: 7.02
+  Frozen Strawberry Margarita: 9.13
+  Chili-Lime Cauliflower Bites: 8.64
+  Sizzling Pork Carnitas Bowl: 14.16
+  Pineapple Agua Fresca: 4.65
+  Adobo Pork Sliders: 12.02
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Salted Caramel Margarita: 8.57
+  Spicy Shrimp Ceviche: 11.08
+  Grilled Elote Corn: 4.6
+  Tomatillo Ranch Enchiladas: 11.56
+  Gourmet Nacho Platter: 9.13
+  Three-Cheese Enchilada Stack: 9.6
+  Fajita Veggie Burrito Bowl: 13.31
+  Sweet Corn Tamales: 8.53
+  Tequila Lime Flan: 6.46
+  Frozen Strawberry Margarita: 8.4
+  Chili-Lime Cauliflower Bites: 7.95
+  Sizzling Pork Carnitas Bowl: 13.03
+  Pineapple Agua Fresca: 4.28
+  Adobo Pork Sliders: 11.06

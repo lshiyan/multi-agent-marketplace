@@ -1,0 +1,43 @@
+id: business_0074
+name: Pepperazzi Grill
+description: Get ready for a flavor flash at Pepperazzi Grill, where vibrant Tex-Mex
+  and Mexican-inspired dishes meet a touch of playful spice. Sip, savor, and snap
+  your way through our boldly crafted bites and colorful drinks.
+rating: 1.0
+progenitor_customer: customer_0025
+menu_features:
+  Roasted Poblano Soup: 8.64
+  Molten Queso Fundido: 6.8
+  Sunrise Breakfast Tacos: 9.97
+  Honey Lime Chicken Skewers: 13.86
+  Chipotle Chicken Burrito Bowl: 14.64
+  Jalapeno Mango Margarita: 9.1
+  Chili-Lime Cauliflower Bites: 9.72
+  Mango Habanero Salsa: 5.19
+  Blueberry Jalapeno Margarita: 13.07
+  Pineapple Chipotle Pork: 13.66
+  Agave Lime Chicken Skewers: 11.54
+  Creamy Queso Dip: 8.12
+  Margarita Grilled Chicken: 18.53
+  Veggie Fajita Platter: 15.0
+  Three-Cheese Chile Rellenos: 12.33
+  Creamy Avocado Soup: 7.41
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Roasted Poblano Soup: 7.34
+  Molten Queso Fundido: 5.78
+  Sunrise Breakfast Tacos: 8.47
+  Honey Lime Chicken Skewers: 11.78
+  Chipotle Chicken Burrito Bowl: 12.44
+  Jalapeno Mango Margarita: 7.73
+  Chili-Lime Cauliflower Bites: 8.26
+  Mango Habanero Salsa: 4.41
+  Blueberry Jalapeno Margarita: 11.11
+  Pineapple Chipotle Pork: 11.61
+  Agave Lime Chicken Skewers: 9.81
+  Creamy Queso Dip: 6.9
+  Margarita Grilled Chicken: 15.75
+  Veggie Fajita Platter: 12.75
+  Three-Cheese Chile Rellenos: 10.48
+  Creamy Avocado Soup: 6.3

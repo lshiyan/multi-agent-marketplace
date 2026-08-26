@@ -1,0 +1,42 @@
+id: business_0154
+name: Dip, Sip, & Quinoa Craze
+description: Where bright flavors meet bold creativity, Dip, Sip, & Quinoa Craze serves
+  up reimagined Mexican and Tex-Mex favorites alongside unique sweet and savory bites.
+  Join us for vibrant salads, craveable dips, and spirited drinks in a lively, welcoming
+  setting.
+rating: 1.0
+progenitor_customer: customer_0052
+menu_features:
+  Caramel Apple Empanadas: 6.48
+  Caramelized Onion Queso Dip: 6.67
+  Honey-Lime Shrimp Skewers: 12.83
+  Sunset Grilled Veggie Tacos: 11.42
+  Sunrise Breakfast Tacos: 9.56
+  Loaded Sweet Potato Fries: 6.32
+  Smoky Lime Quinoa Salad: 9.83
+  Southwestern Quinoa Salad: 11.12
+  Tamale Trio Sampler: 10.35
+  Spicy Black Bean Enchiladas: 9.8
+  Loaded Nacho Bowl: 8.51
+  Spicy Cucumber Margarita: 10.0
+  Chocolate Churro Bites: 6.22
+  Chocolate Mole Brownie: 6.6
+  Spicy Shrimp Ceviche: 11.53
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Caramel Apple Empanadas: 5.96
+  Caramelized Onion Queso Dip: 6.14
+  Honey-Lime Shrimp Skewers: 11.8
+  Sunset Grilled Veggie Tacos: 10.51
+  Sunrise Breakfast Tacos: 8.8
+  Loaded Sweet Potato Fries: 5.81
+  Smoky Lime Quinoa Salad: 9.04
+  Southwestern Quinoa Salad: 10.23
+  Tamale Trio Sampler: 9.52
+  Spicy Black Bean Enchiladas: 9.02
+  Loaded Nacho Bowl: 7.83
+  Spicy Cucumber Margarita: 9.2
+  Chocolate Churro Bites: 5.72
+  Chocolate Mole Brownie: 6.07
+  Spicy Shrimp Ceviche: 10.61

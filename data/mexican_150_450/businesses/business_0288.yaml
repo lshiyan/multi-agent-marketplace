@@ -1,0 +1,43 @@
+id: business_0288
+name: Flan-ticipation & Toastada Tales
+description: Dive into a flavorful journey where sweet meets savory, from creamy desserts
+  to vibrant tostadas and everything in between. Our fresh, modern Mex cuisine brings
+  colorful classics and inventive twists to your table, all served with a smile.
+rating: 1.0
+progenitor_customer: customer_0096
+menu_features:
+  Toasted Coconut Flan: 6.9
+  Coconut Lime Shrimp Skewers: 13.76
+  Blue Corn Tortilla Chips: 5.19
+  Honey Lime Chicken Fajitas: 15.45
+  Chili Lime Watermelon Salad: 8.56
+  Mushroom & Cheese Tamales: 6.63
+  Spicy Cucumber Margarita: 7.86
+  Midnight Mole Enchiladas: 14.58
+  Tequila Lime Flan: 7.82
+  Breakfast Chorizo Tostadas: 8.91
+  Smoky Black Bean Tostadas: 10.86
+  Mexican Chocolate Flan: 6.11
+  Chipotle BBQ Tacos: 11.25
+  Horchata Iced Latte: 5.29
+  Black Bean Street Tacos: 10.92
+  Spiced Chocolate Flan: 7.61
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Toasted Coconut Flan: 4.62
+  Coconut Lime Shrimp Skewers: 9.22
+  Blue Corn Tortilla Chips: 3.48
+  Honey Lime Chicken Fajitas: 10.35
+  Chili Lime Watermelon Salad: 5.74
+  Mushroom & Cheese Tamales: 4.44
+  Spicy Cucumber Margarita: 5.27
+  Midnight Mole Enchiladas: 9.77
+  Tequila Lime Flan: 5.24
+  Breakfast Chorizo Tostadas: 5.97
+  Smoky Black Bean Tostadas: 7.28
+  Mexican Chocolate Flan: 4.09
+  Chipotle BBQ Tacos: 7.54
+  Horchata Iced Latte: 3.54
+  Black Bean Street Tacos: 7.32
+  Spiced Chocolate Flan: 5.1

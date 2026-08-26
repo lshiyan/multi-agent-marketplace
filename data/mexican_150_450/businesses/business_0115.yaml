@@ -1,0 +1,43 @@
+id: business_0115
+name: Modern Mex Grillhouse
+description: Experience bold Mexican and Tex-Mex flavors with a fresh, creative twist
+  in a lively, contemporary setting. Enjoy flame-grilled specialties, zesty dishes,
+  and handcrafted drinks that celebrate the vibrant spirit of modern Mexican cuisine.
+rating: 1.0
+progenitor_customer: customer_0039
+menu_features:
+  Carne Asada Fajitas: 15.43
+  Grilled Elote Corn: 4.32
+  Crispy Avocado Bites: 7.95
+  Classic Horchata Smoothie: 4.92
+  Black Bean & Corn Quesadilla: 12.09
+  Roasted Corn Enchiladas: 12.62
+  Pico Avocado Toast: 8.72
+  Spicy Chipotle Chicken Wrap: 9.76
+  Chocolate Sopapilla Bites: 4.94
+  Al Pastor Quesadilla: 9.68
+  Mexican Street Corn Dip: 9.32
+  Blueberry Jalapeno Margarita: 15.03
+  Spicy Shrimp Nacho Platter: 8.45
+  Zesty Lime Grilled Chicken: 14.06
+  Roasted Poblano Rellenos: 10.7
+  Ancho Honey-Glazed Salmon: 9.68
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Carne Asada Fajitas: 11.11
+  Grilled Elote Corn: 3.11
+  Crispy Avocado Bites: 5.72
+  Classic Horchata Smoothie: 3.54
+  Black Bean & Corn Quesadilla: 8.7
+  Roasted Corn Enchiladas: 9.09
+  Pico Avocado Toast: 6.28
+  Spicy Chipotle Chicken Wrap: 7.03
+  Chocolate Sopapilla Bites: 3.56
+  Al Pastor Quesadilla: 6.97
+  Mexican Street Corn Dip: 6.71
+  Blueberry Jalapeno Margarita: 10.82
+  Spicy Shrimp Nacho Platter: 6.08
+  Zesty Lime Grilled Chicken: 10.12
+  Roasted Poblano Rellenos: 7.7
+  Ancho Honey-Glazed Salmon: 6.97

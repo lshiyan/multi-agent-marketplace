@@ -1,0 +1,48 @@
+id: business_0356
+name: La Cosecha Dulce
+description: Experience the vibrant flavors of Mexico and the Southwest at La Cosecha
+  Dulce, where every dish celebrates fresh ingredients and a playful touch of sweetness.
+  Enjoy classic favorites alongside inventive dishes and desserts in a warm, inviting
+  atmosphere.
+rating: 1.0
+progenitor_customer: customer_0119
+menu_features:
+  Housemade Horchata: 3.78
+  Black Bean Chili Bowl: 7.92
+  Mexican Chocolate Lava Cake: 9.89
+  Mexican Chocolate Flan: 7.37
+  Sweet Plantain Empanadas: 8.21
+  Caramelized Banana Flan: 4.88
+  Black Bean and Avocado Wrap: 11.38
+  Hatch Green Chile Quesadilla: 12.72
+  Chocolate Churro Bites: 4.98
+  Tamarind Glazed Wings: 12.41
+  Ancho Chili Chocolate Cake: 8.41
+  Spice-Rubbed Grilled Fajitas: 16.06
+  Passion Fruit Agua Fresca: 3.9
+  Warm Cinnamon Churros: 6.53
+  Frozen Strawberry Daiquiri: 7.11
+  Crispy Fish Street Tacos: 14.63
+  Black Bean and Corn Salsa: 4.37
+  Crispy Avocado Bites: 9.44
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Housemade Horchata: 2.68
+  Black Bean Chili Bowl: 5.62
+  Mexican Chocolate Lava Cake: 7.02
+  Mexican Chocolate Flan: 5.23
+  Sweet Plantain Empanadas: 5.83
+  Caramelized Banana Flan: 3.46
+  Black Bean and Avocado Wrap: 8.08
+  Hatch Green Chile Quesadilla: 9.03
+  Chocolate Churro Bites: 3.54
+  Tamarind Glazed Wings: 8.81
+  Ancho Chili Chocolate Cake: 5.97
+  Spice-Rubbed Grilled Fajitas: 11.4
+  Passion Fruit Agua Fresca: 2.77
+  Warm Cinnamon Churros: 4.64
+  Frozen Strawberry Daiquiri: 5.05
+  Crispy Fish Street Tacos: 10.39
+  Black Bean and Corn Salsa: 3.1
+  Crispy Avocado Bites: 6.7

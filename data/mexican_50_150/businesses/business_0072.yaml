@@ -1,0 +1,39 @@
+id: business_0072
+name: Cacao & Citrus Social
+description: A vibrant, modern spot serving bold Mexican and Tex-Mex flavors in a
+  fresh, welcoming space. Enjoy creative twists on classics, refreshing drinks, and
+  delectable house-made sweets with every visit.
+rating: 1.0
+progenitor_customer: customer_0024
+menu_features:
+  Cocoa Dusted Churro Bites: 5.59
+  Baja Fish Burrito: 13.55
+  Tamale Trio Platter: 13.57
+  Fresh Mint Mojito: 9.08
+  Chocolate Mole Chicken: 19.91
+  Passionfruit Paloma: 8.48
+  Crispy Tinga Chicken Tacos: 9.56
+  Chili Lime Skirt Steak: 21.44
+  Coconut Lime Shrimp Skewers: 14.48
+  Fresh Lime Cilantro Rice: 2.88
+  Tomatillo Salsa Verde Nachos: 11.09
+  Fresh Limeade: 3.17
+  Tamale Trio Sampler: 11.12
+  Pumpkin Spice Churros: 5.25
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Cocoa Dusted Churro Bites: 4.75
+  Baja Fish Burrito: 11.52
+  Tamale Trio Platter: 11.53
+  Fresh Mint Mojito: 7.72
+  Chocolate Mole Chicken: 16.92
+  Passionfruit Paloma: 7.21
+  Crispy Tinga Chicken Tacos: 8.13
+  Chili Lime Skirt Steak: 18.22
+  Coconut Lime Shrimp Skewers: 12.31
+  Fresh Lime Cilantro Rice: 2.45
+  Tomatillo Salsa Verde Nachos: 9.43
+  Fresh Limeade: 2.69
+  Tamale Trio Sampler: 9.45
+  Pumpkin Spice Churros: 4.46

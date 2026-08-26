@@ -1,0 +1,39 @@
+id: business_0321
+name: Pumpkin & Pomegranate
+description: Experience a vibrant fusion of classic and creative Mexican flavors at
+  Pumpkin & Pomegranate. Enjoy bold spices, fresh ingredients, and a warm, inviting
+  atmosphere perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0107
+menu_features:
+  Spiced Pumpkin Empanadas: 6.27
+  Horchata Iced Latte: 6.51
+  Beef Fajita Skillet: 18.47
+  Pomegranate Agua Fresca: 3.82
+  Coconut Lime Shrimp Skewers: 17.22
+  Braised Beef Barbacoa Tacos: 13.97
+  Spiced Churro Bites: 5.29
+  Carnitas Breakfast Burrito: 14.27
+  Tequila Lime Flan: 5.73
+  Zesty Lime Shrimp Salad: 12.22
+  Caramelized Plantain Empanadas: 6.18
+  Green Chile Pork Stew: 12.6
+  Black Bean Avocado Enchiladas: 11.93
+  Mango Jalapeno Salsa and Chips: 4.59
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Spiced Pumpkin Empanadas: 4.08
+  Horchata Iced Latte: 4.23
+  Beef Fajita Skillet: 12.01
+  Pomegranate Agua Fresca: 2.48
+  Coconut Lime Shrimp Skewers: 11.19
+  Braised Beef Barbacoa Tacos: 9.08
+  Spiced Churro Bites: 3.44
+  Carnitas Breakfast Burrito: 9.28
+  Tequila Lime Flan: 3.72
+  Zesty Lime Shrimp Salad: 7.94
+  Caramelized Plantain Empanadas: 4.02
+  Green Chile Pork Stew: 8.19
+  Black Bean Avocado Enchiladas: 7.75
+  Mango Jalapeno Salsa and Chips: 2.98

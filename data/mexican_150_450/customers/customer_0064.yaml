@@ -1,0 +1,11 @@
+id: customer_0064
+name: Olivia Anderson
+request: 'Please assist me in finding a business that can fulfill an order including
+  the following items: 1 Honey-Lime Grilled Salmon, 1 Crispy Avocado Fritters, and
+  1 Blue Corn Tostada Salad. It is important that the business offers all these items.
+  Once located, I intend to place an order with them. Thank you for your help.'
+menu_features:
+  Honey-Lime Grilled Salmon: 14.99
+  Crispy Avocado Fritters: 8.29
+  Blue Corn Tostada Salad: 10.49
+amenity_features: []

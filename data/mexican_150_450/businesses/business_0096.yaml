@@ -1,0 +1,43 @@
+id: business_0096
+name: Holy Moles & Churros
+description: Where bold flavors, sweet endings, and vibrant drinks meet for a modern
+  take on classic Mexican and Tex-Mex comfort food. Come savor a fiesta of fresh bites,
+  zesty salads, and unforgettable sweets in a welcoming space.
+rating: 1.0
+progenitor_customer: customer_0032
+menu_features:
+  Warm Churro Bites: 4.28
+  Gourmet Nacho Platter: 11.0
+  Crispy Tinga Chicken Tacos: 11.6
+  Blue Agave Tequila Sunrise: 8.82
+  Huevos Rancheros: 8.28
+  Hatch Green Chile Rice: 4.46
+  Cocoa Dusted Churro Bites: 4.76
+  Veggie Fajita Platter: 12.84
+  Chipotle Lime Chicken Salad: 9.55
+  Cucumber Jalapeno Agua Fresca: 4.48
+  Refreshing Agua Fresca Trio: 8.9
+  Coconut Lime Tres Leches: 6.4
+  Rich Chocolate Tres Leches: 8.71
+  Black Bean and Corn Salsa: 4.74
+  Queso Fundido Supreme: 10.88
+  Stuffed Poblano Peppers: 12.84
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Warm Churro Bites: 3.0
+  Gourmet Nacho Platter: 7.7
+  Crispy Tinga Chicken Tacos: 8.12
+  Blue Agave Tequila Sunrise: 6.17
+  Huevos Rancheros: 5.8
+  Hatch Green Chile Rice: 3.12
+  Cocoa Dusted Churro Bites: 3.33
+  Veggie Fajita Platter: 8.99
+  Chipotle Lime Chicken Salad: 6.69
+  Cucumber Jalapeno Agua Fresca: 3.14
+  Refreshing Agua Fresca Trio: 6.23
+  Coconut Lime Tres Leches: 4.48
+  Rich Chocolate Tres Leches: 6.1
+  Black Bean and Corn Salsa: 3.32
+  Queso Fundido Supreme: 7.62
+  Stuffed Poblano Peppers: 8.99

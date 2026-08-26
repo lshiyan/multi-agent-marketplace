@@ -1,0 +1,43 @@
+id: business_0076
+name: Pineapple & Pepper Place
+description: Step into a vibrant world of fresh Mexican and Tex-Mex flavors, where
+  zesty peppers and sweet pineapple meet in creative harmony. Enjoy a lively, welcoming
+  atmosphere and a menu bursting with unique twists on tradition.
+rating: 1.0
+progenitor_customer: customer_0026
+menu_features:
+  Grilled Pineapple Salmon: 15.57
+  Pineapple Jalapeno Sangria: 7.33
+  Spicy Black Bean Nachos: 8.57
+  Black Bean Sweet Potato Burrito: 10.36
+  Honey Lime Chicken Fajitas: 16.78
+  Spicy Chicken Tortilla Soup: 5.91
+  Tamale Pie Casserole: 13.21
+  Cinnamon Sugar Churros: 5.54
+  Crispy Chicken Tostada Bowls: 11.78
+  Hatch Green Chile Rice: 4.86
+  Hatch Green Chile Burger: 12.56
+  Loaded Nacho Fries: 10.1
+  Tamale Trio Sampler: 11.79
+  Chili Con Queso Supreme: 6.65
+  Tropical Pineapple Salsa: 3.18
+  Housemade Horchata: 3.92
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Grilled Pineapple Salmon: 12.92
+  Pineapple Jalapeno Sangria: 6.08
+  Spicy Black Bean Nachos: 7.11
+  Black Bean Sweet Potato Burrito: 8.6
+  Honey Lime Chicken Fajitas: 13.93
+  Spicy Chicken Tortilla Soup: 4.91
+  Tamale Pie Casserole: 10.96
+  Cinnamon Sugar Churros: 4.6
+  Crispy Chicken Tostada Bowls: 9.78
+  Hatch Green Chile Rice: 4.03
+  Hatch Green Chile Burger: 10.42
+  Loaded Nacho Fries: 8.38
+  Tamale Trio Sampler: 9.79
+  Chili Con Queso Supreme: 5.52
+  Tropical Pineapple Salsa: 2.64
+  Housemade Horchata: 3.25

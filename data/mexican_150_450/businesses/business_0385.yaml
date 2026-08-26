@@ -1,0 +1,41 @@
+id: business_0385
+name: La Parrilla Viva
+description: Experience vibrant Mexican and Tex-Mex flavors hot off the grill, featuring
+  fresh ingredients and classic favorites with a modern twist. Enjoy a festive, inviting
+  atmosphere perfect for sharing bold, unforgettable dishes.
+rating: 1.0
+progenitor_customer: customer_0129
+menu_features:
+  Guava Limeade Cooler: 5.44
+  Black Bean & Corn Enchiladas: 10.35
+  Flamin' Skillet Fajitas: 19.66
+  Ancho Chili Spiced Ribs: 17.44
+  Carne Asada Nachos: 10.78
+  Crispy Avocado Burrito: 12.65
+  Grilled Pineapple Mojito: 8.17
+  Fresh Mango Salsa Nachos: 5.64
+  Smoky Lime Quinoa Salad: 9.96
+  Lime-Garlic Grilled Chicken: 14.39
+  Sizzling Fajita Platter: 18.17
+  Spice-Rubbed Grilled Fajitas: 13.97
+  Roasted Poblano Rellenos: 14.79
+  Mini Street Tacos Platter: 9.4
+  Passion Fruit Mojito: 5.66
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Guava Limeade Cooler: 3.81
+  Black Bean & Corn Enchiladas: 7.24
+  Flamin' Skillet Fajitas: 13.76
+  Ancho Chili Spiced Ribs: 12.21
+  Carne Asada Nachos: 7.55
+  Crispy Avocado Burrito: 8.86
+  Grilled Pineapple Mojito: 5.72
+  Fresh Mango Salsa Nachos: 3.95
+  Smoky Lime Quinoa Salad: 6.97
+  Lime-Garlic Grilled Chicken: 10.07
+  Sizzling Fajita Platter: 12.72
+  Spice-Rubbed Grilled Fajitas: 9.78
+  Roasted Poblano Rellenos: 10.35
+  Mini Street Tacos Platter: 6.58
+  Passion Fruit Mojito: 3.96

@@ -1,0 +1,45 @@
+id: business_0100
+name: Kernel & Kick
+description: Savor the bold tastes of classic and inventive Mexican and Tex-Mex dishes
+  with a twist. From zesty starters to decadent desserts, every bite is a fiesta of
+  flavor.
+rating: 1.0
+progenitor_customer: customer_0034
+menu_features:
+  Fiesta Street Corn: 5.65
+  Rich Chocolate Tamales: 6.22
+  Ultimate Nacho Platter: 9.72
+  Grilled Street Corn: 6.01
+  Spicy Avocado Burger: 15.67
+  Three-Cheese Enchilada Stack: 10.6
+  Chili Lime Shrimp Skewers: 13.54
+  Cactus Flower Iced Tea: 4.05
+  Tres Leches Cake: 7.47
+  Chili Lime Jicama Sticks: 5.88
+  Sunset Grilled Veggie Tacos: 12.07
+  Vanilla Flan Delight: 5.43
+  Smoky Black Bean Soup: 7.35
+  Jicama and Citrus Salad: 8.82
+  Classic Beef Enchiladas: 12.63
+  Carnitas Breakfast Burrito: 10.88
+  Pineapple Chipotle Salsa & Chips: 6.29
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Fiesta Street Corn: 4.52
+  Rich Chocolate Tamales: 4.98
+  Ultimate Nacho Platter: 7.78
+  Grilled Street Corn: 4.81
+  Spicy Avocado Burger: 12.54
+  Three-Cheese Enchilada Stack: 8.48
+  Chili Lime Shrimp Skewers: 10.83
+  Cactus Flower Iced Tea: 3.24
+  Tres Leches Cake: 5.98
+  Chili Lime Jicama Sticks: 4.7
+  Sunset Grilled Veggie Tacos: 9.66
+  Vanilla Flan Delight: 4.34
+  Smoky Black Bean Soup: 5.88
+  Jicama and Citrus Salad: 7.06
+  Classic Beef Enchiladas: 10.1
+  Carnitas Breakfast Burrito: 8.7
+  Pineapple Chipotle Salsa & Chips: 5.03

@@ -1,0 +1,39 @@
+id: business_0020
+name: "Casa P\xEDcolo Mexicano"
+description: Step into a warm, vibrant space where modern Mexican and Tex-Mex flavors
+  mingle with inventive flair. Experience a creative twist on traditional favorites,
+  always bursting with fresh ingredients and bold spices.
+rating: 1.0
+progenitor_customer: customer_0007
+menu_features:
+  Creamy Poblano Corn Chowder: 7.91
+  Crispy Tortilla Breakfast Bowl: 10.23
+  Avocado Lime Empanadas: 8.72
+  Spicy Shrimp Fajitas: 13.64
+  Huevos Rancheros: 9.28
+  Crispy Avocado Burrito: 13.48
+  Smoky Chipotle Queso: 7.03
+  Pineapple Jalapeno Salsa: 5.37
+  Black Bean Stuffed Sweet Potatoes: 9.83
+  Grilled Pineapple and Pork Tacos: 10.57
+  Blueberry Tequila Sunrise: 7.24
+  Chocolate Churro Bites: 6.73
+  Bacon Wrapped Jalapeno Bites: 7.76
+  Margarita Lime Pie: 5.71
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Creamy Poblano Corn Chowder: 5.46
+  Crispy Tortilla Breakfast Bowl: 7.06
+  Avocado Lime Empanadas: 6.02
+  Spicy Shrimp Fajitas: 9.41
+  Huevos Rancheros: 6.4
+  Crispy Avocado Burrito: 9.3
+  Smoky Chipotle Queso: 4.85
+  Pineapple Jalapeno Salsa: 3.71
+  Black Bean Stuffed Sweet Potatoes: 6.78
+  Grilled Pineapple and Pork Tacos: 7.29
+  Blueberry Tequila Sunrise: 5.0
+  Chocolate Churro Bites: 4.64
+  Bacon Wrapped Jalapeno Bites: 5.35
+  Margarita Lime Pie: 3.94

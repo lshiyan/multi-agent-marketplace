@@ -1,0 +1,43 @@
+id: business_0072
+name: Asada Be There
+description: Bold Tex-Mex flavors meet playful creativity in every bite. Spark your
+  tastebuds with a fiesta of unique quesadillas, bright citrus notes, and a selection
+  of indulgent desserts.
+rating: 1.0
+progenitor_customer: customer_0024
+menu_features:
+  Hatch Green Chile Quesadilla: 12.46
+  Blue Agave Tequila Sunrise: 9.33
+  Al Pastor Quesadilla: 12.94
+  Coconut Lime Flan: 5.23
+  Toasted Coconut Flan: 6.94
+  Choco-Chili Volcano Cake: 7.45
+  Southwestern Quinoa Salad: 9.06
+  Citrus Marinated Carne Asada: 17.21
+  Cinnamon Sugar Churro Sticks: 5.76
+  Fresh Limeade: 3.92
+  Spicy Black Bean Enchiladas: 11.88
+  Crispy Avocado Burrito: 10.9
+  Loaded Chorizo Nachos: 10.69
+  Peppered Steak Nachos: 11.13
+  Chocolate Churro Bites: 4.78
+  Red Chili Braised Beef Brisket: 13.65
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Hatch Green Chile Quesadilla: 8.85
+  Blue Agave Tequila Sunrise: 6.62
+  Al Pastor Quesadilla: 9.19
+  Coconut Lime Flan: 3.71
+  Toasted Coconut Flan: 4.93
+  Choco-Chili Volcano Cake: 5.29
+  Southwestern Quinoa Salad: 6.43
+  Citrus Marinated Carne Asada: 12.22
+  Cinnamon Sugar Churro Sticks: 4.09
+  Fresh Limeade: 2.78
+  Spicy Black Bean Enchiladas: 8.43
+  Crispy Avocado Burrito: 7.74
+  Loaded Chorizo Nachos: 7.59
+  Peppered Steak Nachos: 7.9
+  Chocolate Churro Bites: 3.39
+  Red Chili Braised Beef Brisket: 9.69

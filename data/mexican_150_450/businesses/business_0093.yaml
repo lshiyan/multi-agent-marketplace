@@ -1,0 +1,39 @@
+id: business_0093
+name: "Z\xF3calo Spice Social"
+description: A lively modern eatery serving bold Mexican and Tex-Mex flavors, delicious
+  street-inspired bites, and refreshing house-made drinks in a vibrant, welcoming
+  atmosphere.
+rating: 1.0
+progenitor_customer: customer_0031
+menu_features:
+  Cocoa Dusted Churro Bites: 7.8
+  Tamarind Ginger Cooler: 5.04
+  Grilled Street Corn: 6.41
+  Black Bean Street Tacos: 10.78
+  Green Chile Cheesesteak: 14.27
+  Chipotle Lime Cauliflower Tacos: 11.19
+  Tamarind-Glazed Ribs: 15.0
+  Fresh Limeade: 2.95
+  Ancho Chili Chocolate Cake: 7.02
+  Coconut Lime Shrimp Skewers: 16.71
+  Spicy Pineapple Salsa Dip: 5.15
+  Classic Beef Enchiladas: 12.56
+  Chili Lime Roasted Corn: 4.35
+  Hatch Green Chile Stew: 14.59
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Cocoa Dusted Churro Bites: 5.69
+  Tamarind Ginger Cooler: 3.68
+  Grilled Street Corn: 4.68
+  Black Bean Street Tacos: 7.87
+  Green Chile Cheesesteak: 10.42
+  Chipotle Lime Cauliflower Tacos: 8.17
+  Tamarind-Glazed Ribs: 10.95
+  Fresh Limeade: 2.15
+  Ancho Chili Chocolate Cake: 5.12
+  Coconut Lime Shrimp Skewers: 12.2
+  Spicy Pineapple Salsa Dip: 3.76
+  Classic Beef Enchiladas: 9.17
+  Chili Lime Roasted Corn: 3.18
+  Hatch Green Chile Stew: 10.65

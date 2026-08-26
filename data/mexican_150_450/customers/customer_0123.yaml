@@ -1,0 +1,8 @@
+id: customer_0123
+name: Emma Nguyen
+request: 'I would like to place an order for the following menu item: ''Ancho Chili
+  Rubbed Steak'' (1 quantity). Please assist me in finding a business that offers
+  this item so that I can complete my purchase. Thank you for your help.'
+menu_features:
+  Ancho Chili Rubbed Steak: 16.49
+amenity_features: []

@@ -1,0 +1,10 @@
+id: customer_0022
+name: Abigail Moore
+request: 'I am looking to place an order from a business that offers the following
+  items on their menu: ''Mexican Street Corn Salad'' (1) and ''Grilled Avocado and
+  Quinoa Bowl'' (1). Please help me find such a business so I can proceed with my
+  purchase. Thank you.'
+menu_features:
+  Mexican Street Corn Salad: 7.49
+  Grilled Avocado and Quinoa Bowl: 10.49
+amenity_features: []

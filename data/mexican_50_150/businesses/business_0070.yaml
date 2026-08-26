@@ -1,0 +1,43 @@
+id: business_0070
+name: "Mint & Mol\xE9 Mercado"
+description: "Experience vibrant flavors and refreshing sips at Mint & Mol\xE9 Mercado,\
+  \ where classic Tex-Mex favorites mingle with creative, zesty twists. Join us for\
+  \ a lively atmosphere and a menu bursting with bold tastes and fresh ingredients."
+rating: 1.0
+progenitor_customer: customer_0024
+menu_features:
+  Fresh Mint Mojito: 8.54
+  Hatch Green Chile Rice: 4.93
+  Cucumber Jalapeno Agua Fresca: 3.64
+  Spicy Beef Chimichangas: 15.15
+  Chili Con Queso Supreme: 6.02
+  Tamale Trio Platter: 16.55
+  Tequila Lime Flan: 7.02
+  Loaded Nacho Fiesta: 10.77
+  Black Bean and Lime Soup: 7.02
+  Pineapple Habanero Sake: 9.0
+  Zesty Lime Grilled Shrimp: 15.46
+  Pineapple Pico de Gallo Salsa: 6.26
+  Choco-Chili Volcano Cake: 7.74
+  Paloma Breeze Cocktail: 8.94
+  Classic Horchata Smoothie: 4.89
+  Horchata Iced Coffee: 3.96
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Fresh Mint Mojito: 7.69
+  Hatch Green Chile Rice: 4.44
+  Cucumber Jalapeno Agua Fresca: 3.28
+  Spicy Beef Chimichangas: 13.63
+  Chili Con Queso Supreme: 5.42
+  Tamale Trio Platter: 14.9
+  Tequila Lime Flan: 6.32
+  Loaded Nacho Fiesta: 9.69
+  Black Bean and Lime Soup: 6.32
+  Pineapple Habanero Sake: 8.1
+  Zesty Lime Grilled Shrimp: 13.91
+  Pineapple Pico de Gallo Salsa: 5.63
+  Choco-Chili Volcano Cake: 6.97
+  Paloma Breeze Cocktail: 8.05
+  Classic Horchata Smoothie: 4.4
+  Horchata Iced Coffee: 3.56

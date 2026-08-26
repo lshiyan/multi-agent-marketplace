@@ -1,0 +1,41 @@
+id: business_0222
+name: "Sol y Saz\xF3n Grill"
+description: Experience vibrant Mexican and Tex-Mex flavors with a creative twist
+  in a warm, welcoming atmosphere. Fresh ingredients and bold seasonings come together
+  for a memorable meal inspired by both tradition and innovation.
+rating: 1.0
+progenitor_customer: customer_0074
+menu_features:
+  Smoky Chipotle Black Bean Soup: 9.39
+  Sweet Corn Tamale Cake: 7.42
+  Sunset Grilled Veggie Tacos: 10.33
+  Garlic Lime Shrimp Salad: 14.75
+  Horchata Latte: 4.42
+  Pineapple Jalapeno Salsa: 4.78
+  Bacon Wrapped Jalapeno Bites: 9.25
+  Smoky Black Bean Tostadas: 8.18
+  Crispy Fish Baja Bowl: 14.04
+  Ancho Chile Chicken Salad: 9.47
+  Mango Habanero Wings: 13.6
+  Chili Lime Skirt Steak: 16.99
+  Black Bean & Corn Enchiladas: 10.8
+  Citrus Cilantro Rice: 6.11
+  Black Bean and Lime Soup: 7.28
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Smoky Chipotle Black Bean Soup: 6.39
+  Sweet Corn Tamale Cake: 5.05
+  Sunset Grilled Veggie Tacos: 7.02
+  Garlic Lime Shrimp Salad: 10.03
+  Horchata Latte: 3.01
+  Pineapple Jalapeno Salsa: 3.25
+  Bacon Wrapped Jalapeno Bites: 6.29
+  Smoky Black Bean Tostadas: 5.56
+  Crispy Fish Baja Bowl: 9.55
+  Ancho Chile Chicken Salad: 6.44
+  Mango Habanero Wings: 9.25
+  Chili Lime Skirt Steak: 11.55
+  Black Bean & Corn Enchiladas: 7.34
+  Citrus Cilantro Rice: 4.15
+  Black Bean and Lime Soup: 4.95

@@ -1,0 +1,37 @@
+id: business_0071
+name: Mango Mesa
+description: Mango Mesa blends bold Mexican and Tex-Mex flavors with vibrant, refreshing
+  twists in every dish. Enjoy a colorful menu featuring house-made salsas, savory
+  entrees, and inventive desserts in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0024
+menu_features:
+  Smoky BBQ Pork Tostadas: 13.55
+  Avocado Lime Enchiladas: 10.53
+  Spicy Beef Enchilada Bake: 8.8
+  Margarita Lime Cheesecake: 7.44
+  Tamale Trio Platter: 18.55
+  Fresh Mango Salsa Nachos: 9.11
+  Cilantro Lime Chicken Tacos: 10.36
+  Fresh Mint Mojito: 7.54
+  Cilantro Lime Rice Bowl: 14.76
+  Blueberry Mint Agua Fresca: 4.23
+  Toasted Coconut Flan: 6.37
+  Loaded Nacho Fries: 6.64
+  Cucumber Jalapeno Agua Fresca: 4.0
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Smoky BBQ Pork Tostadas: 12.2
+  Avocado Lime Enchiladas: 9.48
+  Spicy Beef Enchilada Bake: 7.92
+  Margarita Lime Cheesecake: 6.7
+  Tamale Trio Platter: 16.7
+  Fresh Mango Salsa Nachos: 8.2
+  Cilantro Lime Chicken Tacos: 9.32
+  Fresh Mint Mojito: 6.79
+  Cilantro Lime Rice Bowl: 13.28
+  Blueberry Mint Agua Fresca: 3.81
+  Toasted Coconut Flan: 5.73
+  Loaded Nacho Fries: 5.98
+  Cucumber Jalapeno Agua Fresca: 3.6

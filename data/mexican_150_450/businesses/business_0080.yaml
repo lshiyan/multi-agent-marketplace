@@ -1,0 +1,44 @@
+id: business_0080
+name: Bean Me Up, Salsar
+description: Bringing bold Mexican and Tex-Mex flavors to new heights, Bean Me Up,
+  Salsar offers a vibrant selection of sizzling plates, zesty salsas, and refreshing
+  coolers. Dive into a delicious experience that ignites your senses from sunrise
+  to sundown.
+rating: 1.0
+progenitor_customer: customer_0027
+menu_features:
+  Sizzling Fajita Platter: 19.14
+  Roasted Corn and Black Bean Salsa: 6.25
+  Beef Fajita Skillet: 14.72
+  Grilled Pineapple Salmon: 17.54
+  Sunrise Breakfast Tacos: 11.0
+  Spicy Beef Chimichangas: 10.42
+  Baja Fish Burrito: 13.27
+  Chipotle Lime Chicken Salad: 11.29
+  Tamarind Ginger Cooler: 4.42
+  Caramelized Plantain Empanadas: 6.18
+  Avocado Lime Dip: 5.95
+  Smoky Black Bean Nachos: 9.65
+  Sweet Corn Tamale Bites: 8.46
+  Breakfast Chorizo Torta: 10.11
+  Pineapple Jalapeno Salsa: 4.15
+  Smoky Lime Quinoa Salad: 9.2
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Sizzling Fajita Platter: 13.97
+  Roasted Corn and Black Bean Salsa: 4.56
+  Beef Fajita Skillet: 10.75
+  Grilled Pineapple Salmon: 12.8
+  Sunrise Breakfast Tacos: 8.03
+  Spicy Beef Chimichangas: 7.61
+  Baja Fish Burrito: 9.69
+  Chipotle Lime Chicken Salad: 8.24
+  Tamarind Ginger Cooler: 3.23
+  Caramelized Plantain Empanadas: 4.51
+  Avocado Lime Dip: 4.34
+  Smoky Black Bean Nachos: 7.04
+  Sweet Corn Tamale Bites: 6.18
+  Breakfast Chorizo Torta: 7.38
+  Pineapple Jalapeno Salsa: 3.03
+  Smoky Lime Quinoa Salad: 6.72

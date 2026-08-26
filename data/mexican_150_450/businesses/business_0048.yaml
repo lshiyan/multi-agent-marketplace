@@ -1,0 +1,48 @@
+id: business_0048
+name: Grilluminati
+description: Unlock the flavorful mysteries of modern Mexican and Tex-Mex cuisine
+  at Grilluminati, where fresh ingredients and vibrant spices come together for a
+  truly enlightening dining experience. From street corn to sizzling fajitas, every
+  bite shines with a tropical twist and a dash of intrigue.
+rating: 1.0
+progenitor_customer: customer_0016
+menu_features:
+  Coconut Flan Delight: 7.58
+  Smoky Black Bean Soup: 6.03
+  Fiesta Street Corn: 6.25
+  Tropical Coconut Margarita: 9.72
+  Grilled Pineapple and Pork Tacos: 13.73
+  Cheesy Jalapeno Queso: 6.48
+  Housemade Horchata: 5.29
+  Black Bean and Corn Fiesta Salad: 9.05
+  Savory Carne Asada Burrito: 13.06
+  Warm Cinnamon Churros: 7.51
+  Chocolate Molten Tamale: 7.1
+  Sizzling Steak Fajitas: 12.71
+  Crispy Carnitas Tacos: 10.55
+  Spicy Beef Chimichangas: 13.72
+  Black Bean Stuffed Sweet Potatoes: 6.84
+  Verde Ranchero Huevos: 12.72
+  Roasted Pecan Flan: 6.75
+  Pineapple Pico de Gallo Salsa: 5.11
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Coconut Flan Delight: 6.97
+  Smoky Black Bean Soup: 5.55
+  Fiesta Street Corn: 5.75
+  Tropical Coconut Margarita: 8.94
+  Grilled Pineapple and Pork Tacos: 12.63
+  Cheesy Jalapeno Queso: 5.96
+  Housemade Horchata: 4.87
+  Black Bean and Corn Fiesta Salad: 8.33
+  Savory Carne Asada Burrito: 12.02
+  Warm Cinnamon Churros: 6.91
+  Chocolate Molten Tamale: 6.53
+  Sizzling Steak Fajitas: 11.69
+  Crispy Carnitas Tacos: 9.71
+  Spicy Beef Chimichangas: 12.62
+  Black Bean Stuffed Sweet Potatoes: 6.29
+  Verde Ranchero Huevos: 11.7
+  Roasted Pecan Flan: 6.21
+  Pineapple Pico de Gallo Salsa: 4.7

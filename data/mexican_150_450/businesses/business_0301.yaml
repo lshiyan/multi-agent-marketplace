@@ -1,0 +1,38 @@
+id: business_0301
+name: "Casa Dulce Tradici\xF3n"
+description: "Celebrate the vibrant spirit of Mexican and Tex-Mex cuisine in a warm,\
+  \ inviting setting. From hearty classics to creative sweets and zesty beverages,\
+  \ every dish at Casa Dulce Tradici\xF3n is crafted with bold flavors and authentic\
+  \ flair."
+rating: 1.0
+progenitor_customer: customer_0101
+menu_features:
+  Classic Beef Barbacoa: 14.81
+  Chocolate Molten Tamale: 6.84
+  Frozen Strawberry Daiquiri: 7.89
+  Chorizo Breakfast Tacos: 8.52
+  Passion Fruit Agua Fresca: 5.02
+  Zesty Lime Grilled Shrimp: 17.13
+  Rich Chocolate Tamales: 7.81
+  Smoky Lime Quinoa Salad: 10.11
+  Pineapple Jalapeno Salsa: 4.6
+  Beef Barbacoa Tostadas: 11.29
+  Citrus Marinated Carne Asada: 15.66
+  Classic Horchata Smoothie: 4.6
+  Sweet Plantain Empanadas: 7.3
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Classic Beef Barbacoa: 13.18
+  Chocolate Molten Tamale: 6.09
+  Frozen Strawberry Daiquiri: 7.02
+  Chorizo Breakfast Tacos: 7.58
+  Passion Fruit Agua Fresca: 4.47
+  Zesty Lime Grilled Shrimp: 15.25
+  Rich Chocolate Tamales: 6.95
+  Smoky Lime Quinoa Salad: 9.0
+  Pineapple Jalapeno Salsa: 4.09
+  Beef Barbacoa Tostadas: 10.05
+  Citrus Marinated Carne Asada: 13.94
+  Classic Horchata Smoothie: 4.09
+  Sweet Plantain Empanadas: 6.5

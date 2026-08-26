@@ -1,0 +1,35 @@
+id: business_0404
+name: Sol y Sabores Cocina
+description: Experience vibrant Mexican and Tex-Mex cuisine in a lively, sun-kissed
+  setting. Enjoy bold flavors, classic favorites, and a touch of sweetness from the
+  heart of Mexico.
+rating: 1.0
+progenitor_customer: customer_0135
+menu_features:
+  Hatch Green Chile Stew: 14.87
+  Avocado Lime Grilled Shrimp: 16.23
+  Loaded Nacho Platter: 9.73
+  Creamy Jalapeno Corn Fritters: 8.36
+  Crispy Tinga Chicken Tacos: 8.38
+  Rich Chocolate Tres Leches: 5.94
+  Spicy Shrimp Fajitas: 14.52
+  Spicy Chocolate Churros: 5.95
+  Flan with Caramel Drizzle: 6.06
+  Grilled Pineapple Mojito: 7.07
+  Sizzling Steak Fajitas: 13.66
+  Raspberry Chipotle Barbecue Ribs: 13.42
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Hatch Green Chile Stew: 10.11
+  Avocado Lime Grilled Shrimp: 11.04
+  Loaded Nacho Platter: 6.62
+  Creamy Jalapeno Corn Fritters: 5.68
+  Crispy Tinga Chicken Tacos: 5.7
+  Rich Chocolate Tres Leches: 4.04
+  Spicy Shrimp Fajitas: 9.87
+  Spicy Chocolate Churros: 4.05
+  Flan with Caramel Drizzle: 4.12
+  Grilled Pineapple Mojito: 4.81
+  Sizzling Steak Fajitas: 9.29
+  Raspberry Chipotle Barbecue Ribs: 9.13

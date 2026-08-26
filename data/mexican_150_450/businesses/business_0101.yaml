@@ -1,0 +1,39 @@
+id: business_0101
+name: Holy Fajitas & Shakes!
+description: "Crave bold, fresh flavors? Dig into sizzling Tex-Mex classics, zesty\
+  \ salsas, and sweet treats\u2014plus shakes that\u2019ll make you say \u2018\xA1\
+  ay caramba!\u2019."
+rating: 1.0
+progenitor_customer: customer_0034
+menu_features:
+  Avocado Lime Salsa: 4.65
+  Stuffed Chicken Poblano: 11.65
+  Chocolate Churro Bites: 5.83
+  Horchata Milkshake: 6.47
+  Breakfast Chorizo Tostadas: 9.43
+  Mesquite Grilled Steak Fajitas: 14.6
+  Cucumber Jalapeno Agua Fresca: 4.04
+  Spicy Avocado Burger: 13.59
+  Fajita Veggie Burrito Bowl: 16.54
+  Coconut Lime Shrimp Skewers: 15.31
+  Vanilla Flan Delight: 5.42
+  Tres Leches Cake: 4.21
+  Fresh Corn Elote: 3.59
+  Chili Lime Jicama Sticks: 6.04
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Avocado Lime Salsa: 3.53
+  Stuffed Chicken Poblano: 8.85
+  Chocolate Churro Bites: 4.43
+  Horchata Milkshake: 4.92
+  Breakfast Chorizo Tostadas: 7.17
+  Mesquite Grilled Steak Fajitas: 11.1
+  Cucumber Jalapeno Agua Fresca: 3.07
+  Spicy Avocado Burger: 10.33
+  Fajita Veggie Burrito Bowl: 12.57
+  Coconut Lime Shrimp Skewers: 11.64
+  Vanilla Flan Delight: 4.12
+  Tres Leches Cake: 3.2
+  Fresh Corn Elote: 2.73
+  Chili Lime Jicama Sticks: 4.59

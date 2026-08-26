@@ -1,0 +1,35 @@
+id: business_0037
+name: Grill, Glaze & Gusto
+description: A vibrant Tex-Mex eatery serving up boldly flavored bites and zesty cocktails.
+  Gather with friends to savor sizzling plates, creamy dips, and sweet treats in an
+  atmosphere full of spice and spirit.
+rating: 1.0
+progenitor_customer: customer_0013
+menu_features:
+  Chili Lime Jicama Sticks: 7.17
+  Three-Cheese Enchilada Stack: 13.97
+  Cheesy Jalapeno Queso: 7.26
+  Cactus Cooler Margarita: 9.86
+  Sizzling Steak Fajitas: 17.16
+  Ancho Chile BBQ Ribs: 20.03
+  Rich Chocolate Tres Leches: 7.45
+  Spicy Black Bean Enchiladas: 11.88
+  Zesty Lime Shrimp Salad: 9.49
+  Chili Lime Margarita: 9.12
+  Caramelized Onion Queso Dip: 7.9
+  Grilled Pineapple & Shrimp Quesadillas: 11.99
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Chili Lime Jicama Sticks: 6.24
+  Three-Cheese Enchilada Stack: 12.15
+  Cheesy Jalapeno Queso: 6.32
+  Cactus Cooler Margarita: 8.58
+  Sizzling Steak Fajitas: 14.93
+  Ancho Chile BBQ Ribs: 17.43
+  Rich Chocolate Tres Leches: 6.48
+  Spicy Black Bean Enchiladas: 10.34
+  Zesty Lime Shrimp Salad: 8.26
+  Chili Lime Margarita: 7.93
+  Caramelized Onion Queso Dip: 6.87
+  Grilled Pineapple & Shrimp Quesadillas: 10.43

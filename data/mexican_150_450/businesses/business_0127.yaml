@@ -1,0 +1,39 @@
+id: business_0127
+name: "Cielo & Ma\xEDz Eatery"
+description: Discover a modern twist on Mexican and Tex-Mex classics in a fresh, vibrant
+  setting. From savory enchiladas to inventive street fare and bold beverages, experience
+  layered flavors and creative comfort food.
+rating: 1.0
+progenitor_customer: customer_0043
+menu_features:
+  Pico Avocado Toast: 9.04
+  Coconut Lime Tres Leches: 6.09
+  Roasted Corn Enchiladas: 11.2
+  Caramelized Plantain Empanadas: 6.26
+  Roasted Poblano Rellenos: 14.71
+  Verde Chicken Enchiladas: 13.88
+  Ancho Chile Chicken Salad: 9.45
+  Pineapple Salsa Nachos: 10.61
+  Passionfruit Paloma: 8.0
+  Bacon and Egg Tostada: 7.96
+  Crispy Avocado Tacos: 10.17
+  Crispy Carnitas Quesadilla: 11.26
+  Horchata Cold Brew Coffee: 4.51
+  Street Corn Quesadilla: 11.01
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Pico Avocado Toast: 7.77
+  Coconut Lime Tres Leches: 5.24
+  Roasted Corn Enchiladas: 9.63
+  Caramelized Plantain Empanadas: 5.38
+  Roasted Poblano Rellenos: 12.65
+  Verde Chicken Enchiladas: 11.94
+  Ancho Chile Chicken Salad: 8.13
+  Pineapple Salsa Nachos: 9.12
+  Passionfruit Paloma: 6.88
+  Bacon and Egg Tostada: 6.85
+  Crispy Avocado Tacos: 8.75
+  Crispy Carnitas Quesadilla: 9.68
+  Horchata Cold Brew Coffee: 3.88
+  Street Corn Quesadilla: 9.47

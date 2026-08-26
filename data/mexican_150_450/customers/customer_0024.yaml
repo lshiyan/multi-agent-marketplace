@@ -1,0 +1,11 @@
+id: customer_0024
+name: Mina Patel
+request: I need assistance in finding a business that can fulfill my order requirements.
+  Specifically, I am looking for a business that offers 'Coconut Lime Flan' and 'Red
+  Chili Braised Beef Brisket'. I intend to order 1 of each, so it is important to
+  locate a business that serves both of these items as listed. Thank you for your
+  help in placing this order.
+menu_features:
+  Coconut Lime Flan: 5.99
+  Red Chili Braised Beef Brisket: 14.59
+amenity_features: []

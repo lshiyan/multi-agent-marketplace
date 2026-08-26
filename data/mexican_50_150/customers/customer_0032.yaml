@@ -1,0 +1,11 @@
+id: customer_0032
+name: Aria Kumar
+request: 'I am looking to place an order with a business that can provide the following
+  menu items: 1 Spiced Agave Margarita, 1 Mango Habanero Wings, and 1 Roasted Corn
+  and Avocado Salad. These items are essential, and I would like to proceed with the
+  purchase once a suitable business is found. Thank you for your assistance.'
+menu_features:
+  Spiced Agave Margarita: 9.49
+  Mango Habanero Wings: 11.89
+  Roasted Corn and Avocado Salad: 8.49
+amenity_features: []

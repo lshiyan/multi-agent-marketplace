@@ -1,0 +1,40 @@
+id: business_0269
+name: Taco the Lime & Dance
+description: Step into a vibrant fusion of bold flavors, zesty sips, and playful bites.
+  Experience a lively Tex-Mex getaway where every meal brings the fiesta to your table.
+rating: 1.0
+progenitor_customer: customer_0090
+menu_features:
+  Chili-Lime Cauliflower Bites: 8.55
+  Crispy Tinga Chicken Tacos: 8.21
+  Chocolate Cinnamon Flan: 5.73
+  Zesty Shrimp Quesadillas: 13.37
+  Citrus Cilantro Rice: 4.61
+  Mango Habanero Margarita: 8.43
+  Honey Chipotle Wings: 11.94
+  Passion Fruit Mojito: 8.19
+  Creamy Queso Dip: 8.5
+  Zesty Lime Chicken Tacos: 10.58
+  Black Bean and Corn Fiesta Salad: 8.85
+  Pineapple Chipotle Salsa & Chips: 5.73
+  Mushroom & Cheese Tamales: 8.57
+  Mini Street Tacos Platter: 10.23
+  Sea Breeze Ceviche: 15.56
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Chili-Lime Cauliflower Bites: 6.93
+  Crispy Tinga Chicken Tacos: 6.65
+  Chocolate Cinnamon Flan: 4.64
+  Zesty Shrimp Quesadillas: 10.83
+  Citrus Cilantro Rice: 3.73
+  Mango Habanero Margarita: 6.83
+  Honey Chipotle Wings: 9.67
+  Passion Fruit Mojito: 6.63
+  Creamy Queso Dip: 6.89
+  Zesty Lime Chicken Tacos: 8.57
+  Black Bean and Corn Fiesta Salad: 7.17
+  Pineapple Chipotle Salsa & Chips: 4.64
+  Mushroom & Cheese Tamales: 6.94
+  Mini Street Tacos Platter: 8.29
+  Sea Breeze Ceviche: 12.6

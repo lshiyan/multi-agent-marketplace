@@ -1,0 +1,9 @@
+id: customer_0043
+name: Lucas Gonzalez
+request: Could you please find a business that offers both 'Pineapple Salsa Nachos'
+  and 'Street Corn Quesadilla'? I would like to place an order for 1 of each. Thank
+  you!
+menu_features:
+  Pineapple Salsa Nachos: 10.99
+  Street Corn Quesadilla: 10.99
+amenity_features: []

@@ -1,0 +1,37 @@
+id: business_0006
+name: "Holy Guacamole & Jalape\xF1o Pop"
+description: "A lively spot serving up bold Mexican and Tex-Mex dishes with a playful\
+  \ twist\u2014think smoky peppers, spirited sips, and sweet surprises. Dive into\
+  \ a menu bursting with bright flavors and unexpected combinations in every bite."
+rating: 1.0
+progenitor_customer: customer_0002
+menu_features:
+  Blueberry Jalapeno Margarita: 10.99
+  Lime-Garlic Grilled Chicken: 16.74
+  Street Corn Elote: 5.69
+  Grilled Chipotle Chicken Burrito: 7.87
+  Breakfast Chilaquiles Verde: 11.51
+  Spicy Black Bean Enchiladas: 12.34
+  Chipotle Bourbon Carnitas: 17.25
+  Roasted Poblano Rellenos: 13.39
+  Chocolate Mole Chicken: 15.74
+  Horchata Milkshake: 5.59
+  Fresh Watermelon Aqua Fresca: 4.02
+  Roasted Corn Elote: 4.65
+  Spiced Chocolate Flan: 5.12
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Blueberry Jalapeno Margarita: 9.01
+  Lime-Garlic Grilled Chicken: 13.73
+  Street Corn Elote: 4.67
+  Grilled Chipotle Chicken Burrito: 6.45
+  Breakfast Chilaquiles Verde: 9.44
+  Spicy Black Bean Enchiladas: 10.12
+  Chipotle Bourbon Carnitas: 14.14
+  Roasted Poblano Rellenos: 10.98
+  Chocolate Mole Chicken: 12.91
+  Horchata Milkshake: 4.58
+  Fresh Watermelon Aqua Fresca: 3.3
+  Roasted Corn Elote: 3.81
+  Spiced Chocolate Flan: 4.2

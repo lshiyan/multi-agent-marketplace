@@ -1,0 +1,35 @@
+id: business_0205
+name: El Camino Picante
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  inviting setting. El Camino Picante serves up classic favorites with a spicy twist,
+  inspired by tradition and creative flair.
+rating: 1.0
+progenitor_customer: customer_0069
+menu_features:
+  Spicy Chorizo Enchiladas: 12.22
+  Chocolate Mole Chicken: 15.51
+  Mesquite Grilled Steak Fajitas: 14.29
+  Grilled Shrimp Skewers: 14.1
+  Verde Ranchero Huevos: 10.67
+  Coconut Lime Shrimp Skewers: 14.9
+  Breakfast Burrito Bowl: 7.63
+  Mexican Street Corn Salad: 7.46
+  Chili Lime Roasted Corn: 6.0
+  Pico Avocado Toast: 8.04
+  Spicy Pineapple Salsa Dip: 4.85
+  Stuffed Avocado Boats: 10.22
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Spicy Chorizo Enchiladas: 11.12
+  Chocolate Mole Chicken: 14.11
+  Mesquite Grilled Steak Fajitas: 13.0
+  Grilled Shrimp Skewers: 12.83
+  Verde Ranchero Huevos: 9.71
+  Coconut Lime Shrimp Skewers: 13.56
+  Breakfast Burrito Bowl: 6.94
+  Mexican Street Corn Salad: 6.79
+  Chili Lime Roasted Corn: 5.46
+  Pico Avocado Toast: 7.32
+  Spicy Pineapple Salsa Dip: 4.41
+  Stuffed Avocado Boats: 9.3

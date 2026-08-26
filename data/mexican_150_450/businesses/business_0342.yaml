@@ -1,0 +1,36 @@
+id: business_0342
+name: Cotija & Corners
+description: Celebrate bold Mexican and Tex-Mex flavors in a vibrant setting where
+  classic street eats meet inventive cocktails and shareable bites. From sizzling
+  fajitas to craveable nachos and fresh, zesty drinks, every visit promises a taste
+  adventure.
+rating: 1.0
+progenitor_customer: customer_0114
+menu_features:
+  Charred Corn & Cotija Nachos: 9.53
+  "Blueberry Jalape\xF1o Margarita": 11.77
+  Crispy Avocado Tacos: 11.31
+  Breakfast Chorizo Tostadas: 7.97
+  Spice-Rubbed Grilled Fajitas: 13.42
+  Spiced Churro Bites: 5.71
+  Mini Street Tacos Platter: 11.09
+  Tamarind Ginger Cooler: 4.63
+  Roasted Poblano Quesadilla: 10.34
+  Chili Lime Skirt Steak: 16.17
+  Loaded Nacho Fries: 8.41
+  Coconut Lime Shrimp Skewers: 16.38
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Charred Corn & Cotija Nachos: 8.77
+  "Blueberry Jalape\xF1o Margarita": 10.83
+  Crispy Avocado Tacos: 10.41
+  Breakfast Chorizo Tostadas: 7.33
+  Spice-Rubbed Grilled Fajitas: 12.35
+  Spiced Churro Bites: 5.25
+  Mini Street Tacos Platter: 10.2
+  Tamarind Ginger Cooler: 4.26
+  Roasted Poblano Quesadilla: 9.51
+  Chili Lime Skirt Steak: 14.88
+  Loaded Nacho Fries: 7.74
+  Coconut Lime Shrimp Skewers: 15.07

@@ -1,0 +1,33 @@
+id: business_0444
+name: Tropic & Tart Kitchen
+description: Dive into vibrant, modern Mexican and Tex-Mex flavors with a fresh twist
+  on classic spirits and coastal-inspired cuisine. Enjoy a lively atmosphere perfect
+  for sipping, sharing, and savoring every bite.
+rating: 1.0
+progenitor_customer: customer_0148
+menu_features:
+  Frozen Strawberry Daiquiri: 7.0
+  Tamarind-Glazed Ribs: 15.41
+  Vanilla Flan with Caramel Sauce: 6.41
+  Tequila Lime Grilled Shrimp: 12.44
+  Raspberry Jalapeno Mojito: 9.15
+  Tropical Coconut Margarita: 8.73
+  Citrus Cilantro Rice: 5.39
+  Honey-Lime Shrimp Skewers: 14.42
+  Garlic Lime Shrimp Salad: 15.96
+  Avocado Ranch Burrito Bowl: 15.69
+  Crispy Fish Baja Bowl: 12.5
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Frozen Strawberry Daiquiri: 5.39
+  Tamarind-Glazed Ribs: 11.87
+  Vanilla Flan with Caramel Sauce: 4.94
+  Tequila Lime Grilled Shrimp: 9.58
+  Raspberry Jalapeno Mojito: 7.05
+  Tropical Coconut Margarita: 6.72
+  Citrus Cilantro Rice: 4.15
+  Honey-Lime Shrimp Skewers: 11.1
+  Garlic Lime Shrimp Salad: 12.29
+  Avocado Ranch Burrito Bowl: 12.08
+  Crispy Fish Baja Bowl: 9.62

@@ -1,0 +1,43 @@
+id: business_0246
+name: Holy Chip & Quinoa!
+description: Dive into a vibrant fusion of classic Mexican and Tex-Mex favorites with
+  a modern twist. Enjoy fresh, bold flavors, colorful plates, and creative drinks
+  in a lively and welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0082
+menu_features:
+  Spiced Churro Bites: 5.24
+  Chipotle Bourbon Carnitas: 15.13
+  Caramelized Onion and Chorizo Quesadilla: 8.72
+  Avocado Lime Quinoa Bowl: 10.39
+  Cucumber Jalapeno Agua Fresca: 3.81
+  Black Bean and Corn Salsa: 4.89
+  Sea Breeze Ceviche: 15.19
+  Rich Chocolate Tamales: 7.61
+  Chili Lime Roasted Corn: 4.73
+  Grilled Steak Quesadilla: 10.79
+  Loaded Nacho Fiesta: 11.46
+  Chipotle Chicken Enchiladas: 13.97
+  Honey Lime Grilled Corn: 4.8
+  Raspberry Chipotle Barbecue Ribs: 17.16
+  Pineapple Salsa Pork Tacos: 9.03
+  Tamarind Ginger Cooler: 4.85
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Spiced Churro Bites: 4.14
+  Chipotle Bourbon Carnitas: 11.95
+  Caramelized Onion and Chorizo Quesadilla: 6.89
+  Avocado Lime Quinoa Bowl: 8.21
+  Cucumber Jalapeno Agua Fresca: 3.01
+  Black Bean and Corn Salsa: 3.86
+  Sea Breeze Ceviche: 12.0
+  Rich Chocolate Tamales: 6.01
+  Chili Lime Roasted Corn: 3.74
+  Grilled Steak Quesadilla: 8.52
+  Loaded Nacho Fiesta: 9.05
+  Chipotle Chicken Enchiladas: 11.04
+  Honey Lime Grilled Corn: 3.79
+  Raspberry Chipotle Barbecue Ribs: 13.56
+  Pineapple Salsa Pork Tacos: 7.13
+  Tamarind Ginger Cooler: 3.83

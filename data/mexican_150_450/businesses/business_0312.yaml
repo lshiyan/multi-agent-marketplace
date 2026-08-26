@@ -1,0 +1,43 @@
+id: business_0312
+name: Skillet & Sip Modern Mex
+description: Experience bold flavors and vibrant sips at Skillet & Sip Modern Mex,
+  where tradition meets innovation in every dish and drink. Enjoy sizzling favorites,
+  refreshing beverages, and sweet Mexican treats in a lively, contemporary setting.
+rating: 1.0
+progenitor_customer: customer_0104
+menu_features:
+  Mexican Coffee Flan: 6.02
+  Spicy Chocolate Churros: 5.36
+  Citrus Cilantro Rice: 4.98
+  Sizzling Pork Carnitas Bowl: 11.97
+  Classic Flan Delight: 6.97
+  Fresh Corn Elote: 3.99
+  Hibiscus Agua Fresca: 3.96
+  Flamin' Skillet Fajitas: 17.73
+  Ancho Chile BBQ Ribs: 22.94
+  Chocolate Mole Chicken: 14.33
+  Blueberry Jalapeno Margarita: 11.22
+  Grilled Pineapple Salmon: 17.24
+  Horchata Milkshake: 5.53
+  Guava Limeade Cooler: 5.55
+  Raspberry Jalapeno Mojito: 9.75
+  Hibiscus Iced Tea: 3.41
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Mexican Coffee Flan: 3.85
+  Spicy Chocolate Churros: 3.43
+  Citrus Cilantro Rice: 3.19
+  Sizzling Pork Carnitas Bowl: 7.66
+  Classic Flan Delight: 4.46
+  Fresh Corn Elote: 2.55
+  Hibiscus Agua Fresca: 2.53
+  Flamin' Skillet Fajitas: 11.35
+  Ancho Chile BBQ Ribs: 14.68
+  Chocolate Mole Chicken: 9.17
+  Blueberry Jalapeno Margarita: 7.18
+  Grilled Pineapple Salmon: 11.03
+  Horchata Milkshake: 3.54
+  Guava Limeade Cooler: 3.55
+  Raspberry Jalapeno Mojito: 6.24
+  Hibiscus Iced Tea: 2.18

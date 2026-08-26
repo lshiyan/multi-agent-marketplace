@@ -1,0 +1,37 @@
+id: business_0214
+name: Bean There, Grilled That
+description: A vibrant spot where Mexican and Tex-Mex flavors come sizzling to life,
+  blending fiery spices, fresh produce, and a dash of fun. From bold burritos to sweet
+  caramelized treats, every dish is grilled, spiced, and served with a side of sunshine.
+rating: 1.0
+progenitor_customer: customer_0072
+menu_features:
+  Grilled Chipotle Chicken Burrito: 9.86
+  Spicy Black Bean and Cheese Quesadilla: 12.94
+  Spicy Pineapple Salsa Dip: 4.44
+  Roasted Poblano Rellenos: 13.3
+  Fiesta Street Corn: 4.71
+  Chocolate Molten Tamale: 7.65
+  Crispy Fish Street Tacos: 16.98
+  Margarita Lime Cheesecake: 8.42
+  Sunrise Breakfast Tacos: 9.49
+  Black Bean Crunch Wrap: 10.06
+  Black Bean and Corn Fiesta Salad: 9.86
+  Chili Lime Jicama Sticks: 5.37
+  Cocoa Dusted Churro Bites: 5.29
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Grilled Chipotle Chicken Burrito: 6.9
+  Spicy Black Bean and Cheese Quesadilla: 9.06
+  Spicy Pineapple Salsa Dip: 3.11
+  Roasted Poblano Rellenos: 9.31
+  Fiesta Street Corn: 3.3
+  Chocolate Molten Tamale: 5.35
+  Crispy Fish Street Tacos: 11.89
+  Margarita Lime Cheesecake: 5.89
+  Sunrise Breakfast Tacos: 6.64
+  Black Bean Crunch Wrap: 7.04
+  Black Bean and Corn Fiesta Salad: 6.9
+  Chili Lime Jicama Sticks: 3.76
+  Cocoa Dusted Churro Bites: 3.7

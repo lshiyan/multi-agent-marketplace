@@ -1,0 +1,37 @@
+id: business_0296
+name: Coco & Cactus Cantina
+description: Step into a vibrant oasis where bold Mexican flavors meet tropical twists
+  and fresh, zesty drinks. Enjoy street-inspired favorites and creative cocktails
+  in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0099
+menu_features:
+  Savory Chorizo Street Tacos: 9.44
+  Spicy Cucumber Margarita: 11.29
+  Black Bean & Corn Enchiladas: 12.41
+  Grilled Pineapple Mojito: 8.77
+  Coconut Lime Margarita: 9.99
+  Coconut Lime Shrimp Skewers: 15.17
+  Cheesy Jalapeno Poppers: 8.0
+  Sunset Grilled Veggie Tacos: 11.61
+  Smoky Chipotle Quesadillas: 9.62
+  Fiesta Street Corn: 5.05
+  Honey Chipotle Shrimp Bowl: 11.49
+  Mexican Chocolate Flan: 5.64
+  Coconut Lime Tres Leches: 5.97
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Savory Chorizo Street Tacos: 7.08
+  Spicy Cucumber Margarita: 8.47
+  Black Bean & Corn Enchiladas: 9.31
+  Grilled Pineapple Mojito: 6.58
+  Coconut Lime Margarita: 7.49
+  Coconut Lime Shrimp Skewers: 11.38
+  Cheesy Jalapeno Poppers: 6.0
+  Sunset Grilled Veggie Tacos: 8.71
+  Smoky Chipotle Quesadillas: 7.21
+  Fiesta Street Corn: 3.79
+  Honey Chipotle Shrimp Bowl: 8.62
+  Mexican Chocolate Flan: 4.23
+  Coconut Lime Tres Leches: 4.48

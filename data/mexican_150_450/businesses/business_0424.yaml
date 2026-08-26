@@ -1,0 +1,37 @@
+id: business_0424
+name: La Parrilla Nocturna
+description: A vibrant destination for elevated Mexican and Tex-Mex cuisine, featuring
+  smoky grilled specialties, refreshing sips, and decadent desserts. Experience bold
+  flavors and warm hospitality in an inviting, contemporary setting.
+rating: 1.0
+progenitor_customer: customer_0142
+menu_features:
+  Mesquite Grilled Steak Fajitas: 14.07
+  Cucumber Jalapeno Agua Fresca: 3.61
+  Midnight Mole Enchiladas: 9.78
+  Coconut Lime Tres Leches: 4.82
+  Loaded Nacho Skillet: 9.88
+  Bacon Wrapped Jalapeno Bites: 7.67
+  Poblano Pepper Relleno Plate: 11.78
+  Grilled Pineapple and Shrimp Salad: 12.29
+  Roasted Poblano Rellenos: 13.74
+  Spicy Mango Margarita: 9.07
+  Smoky Chipotle Queso: 6.68
+  Classic Horchata Delight: 3.52
+  Sizzling Carne Asada: 15.42
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Mesquite Grilled Steak Fajitas: 12.8
+  Cucumber Jalapeno Agua Fresca: 3.29
+  Midnight Mole Enchiladas: 8.9
+  Coconut Lime Tres Leches: 4.39
+  Loaded Nacho Skillet: 8.99
+  Bacon Wrapped Jalapeno Bites: 6.98
+  Poblano Pepper Relleno Plate: 10.72
+  Grilled Pineapple and Shrimp Salad: 11.18
+  Roasted Poblano Rellenos: 12.5
+  Spicy Mango Margarita: 8.25
+  Smoky Chipotle Queso: 6.08
+  Classic Horchata Delight: 3.2
+  Sizzling Carne Asada: 14.03

@@ -1,0 +1,39 @@
+id: business_0278
+name: "El Jard\xEDn del Sabor"
+description: "Step into a welcoming atmosphere where smoky, zesty, and sweet flavors\
+  \ meet in every bite. El Jard\xEDn del Sabor celebrates classic Mexican and Tex-Mex\
+  \ favorites with a modern, vibrant twist."
+rating: 1.0
+progenitor_customer: customer_0093
+menu_features:
+  Smoky Chipotle Queso: 7.32
+  Zesty Shrimp Quesadillas: 13.41
+  Strawberry Jalapeno Lemonade: 3.66
+  Ancho Chile BBQ Ribs: 19.63
+  Mexican Hot Chocolate: 5.05
+  Ancho Honey-Glazed Salmon: 11.82
+  Classic Beef Tacos with Zesty Slaw: 10.44
+  Grilled Steak Quesadilla: 12.1
+  Passion Fruit Agua Fresca: 3.78
+  Roasted Poblano Rellenos: 17.0
+  Sizzling Steak Fajitas: 18.9
+  Pineapple Habanero Salsa: 4.05
+  Three-Cheese Queso Dip: 7.34
+  Cilantro Lime Shrimp Skewers: 10.69
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Smoky Chipotle Queso: 5.56
+  Zesty Shrimp Quesadillas: 10.19
+  Strawberry Jalapeno Lemonade: 2.78
+  Ancho Chile BBQ Ribs: 14.92
+  Mexican Hot Chocolate: 3.84
+  Ancho Honey-Glazed Salmon: 8.98
+  Classic Beef Tacos with Zesty Slaw: 7.93
+  Grilled Steak Quesadilla: 9.2
+  Passion Fruit Agua Fresca: 2.87
+  Roasted Poblano Rellenos: 12.92
+  Sizzling Steak Fajitas: 14.36
+  Pineapple Habanero Salsa: 3.08
+  Three-Cheese Queso Dip: 5.58
+  Cilantro Lime Shrimp Skewers: 8.12

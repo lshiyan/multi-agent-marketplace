@@ -1,0 +1,39 @@
+id: business_0055
+name: La Cocina Sonriente
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  welcoming setting. Enjoy fresh, inventive dishes and classic favorites crafted with
+  a modern twist.
+rating: 1.0
+progenitor_customer: customer_0019
+menu_features:
+  Tex-Mex Fajita Wrap: 10.87
+  Black Bean Avocado Enchiladas: 12.89
+  Fresh Limeade: 3.01
+  Grilled Pineapple and Pork Tacos: 12.2
+  Grilled Steak Quesadilla: 15.73
+  Crispy Avocado Tostadas: 12.11
+  Spicy Chipotle Chicken Wrap: 9.81
+  Blue Corn Tortilla Chips: 4.14
+  Loaded Nacho Bowl: 8.96
+  Citrus Cilantro Rice: 5.13
+  Fiesta Street Corn: 6.24
+  Tamarind Citrus Margarita: 8.99
+  Verde Chicken Enchiladas: 12.53
+  Cactus Jack Quesadilla: 12.8
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Tex-Mex Fajita Wrap: 8.8
+  Black Bean Avocado Enchiladas: 10.44
+  Fresh Limeade: 2.44
+  Grilled Pineapple and Pork Tacos: 9.88
+  Grilled Steak Quesadilla: 12.74
+  Crispy Avocado Tostadas: 9.81
+  Spicy Chipotle Chicken Wrap: 7.95
+  Blue Corn Tortilla Chips: 3.35
+  Loaded Nacho Bowl: 7.26
+  Citrus Cilantro Rice: 4.16
+  Fiesta Street Corn: 5.05
+  Tamarind Citrus Margarita: 7.28
+  Verde Chicken Enchiladas: 10.15
+  Cactus Jack Quesadilla: 10.37

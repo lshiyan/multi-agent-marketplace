@@ -1,0 +1,33 @@
+id: business_0135
+name: Chile Vibe Cantina
+description: Experience bold flavors and vibrant cocktails in a lively, modern setting.
+  From zesty appetizers to sizzling main dishes and creative margaritas, Chile Vibe
+  Cantina brings a fresh twist to classic Mexican and Tex-Mex favorites.
+rating: 1.0
+progenitor_customer: customer_0045
+menu_features:
+  Hatch Green Chile Rice: 5.2
+  Blueberry Jalapeno Margarita: 11.5
+  Sizzling Steak Fajitas: 17.24
+  Pineapple Habanero Salsa: 5.18
+  Roasted Tomato Salsa Dip: 2.87
+  Tropical Coconut Margarita: 7.9
+  Frozen Mango Margarita: 9.22
+  Choco Flan Combo: 7.63
+  Spicy Black Bean Enchiladas: 11.19
+  Zesty Shrimp Quesadillas: 12.94
+  Tamarind-Glazed Ribs: 15.91
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Hatch Green Chile Rice: 3.33
+  Blueberry Jalapeno Margarita: 7.36
+  Sizzling Steak Fajitas: 11.03
+  Pineapple Habanero Salsa: 3.32
+  Roasted Tomato Salsa Dip: 1.84
+  Tropical Coconut Margarita: 5.06
+  Frozen Mango Margarita: 5.9
+  Choco Flan Combo: 4.88
+  Spicy Black Bean Enchiladas: 7.16
+  Zesty Shrimp Quesadillas: 8.28
+  Tamarind-Glazed Ribs: 10.18

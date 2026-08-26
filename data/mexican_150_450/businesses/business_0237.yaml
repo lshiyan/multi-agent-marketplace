@@ -1,0 +1,45 @@
+id: business_0237
+name: Dipped, Sipped & Pineapple Flipped
+description: "A playful haven serving up zesty grilled flavors, vibrant salsas, and\
+  \ sweet twists on Mexican and Tex-Mex classics. Come for the tropical flair and\
+  \ bold bites\u2014stay for a wave of irresistible desserts and creative cocktails."
+rating: 1.0
+progenitor_customer: customer_0079
+menu_features:
+  Smoky Chipotle Enchiladas: 15.92
+  Avocado Lime Grilled Shrimp: 15.59
+  Pineapple Salsa Pork Tacos: 11.58
+  Avocado Lime Dip: 6.63
+  Grilled Pineapple Salmon: 15.47
+  Chocolate Tamale Cake: 6.87
+  Fire Roasted Salsa Sampler: 5.79
+  Mango Habanero Margarita: 9.29
+  Mexican Chocolate Flan: 5.8
+  Spicy Shrimp Ceviche: 12.8
+  Honey-Lime Shrimp Skewers: 14.46
+  Tamarind Citrus Margarita: 8.94
+  Tex-Mex Fajita Wrap: 10.58
+  Citrus Cilantro Rice: 4.54
+  Cinnamon Churro Bites: 5.52
+  Classic Horchata Smoothie: 6.23
+  Spicy Black Bean Enchiladas: 11.14
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Smoky Chipotle Enchiladas: 12.1
+  Avocado Lime Grilled Shrimp: 11.85
+  Pineapple Salsa Pork Tacos: 8.8
+  Avocado Lime Dip: 5.04
+  Grilled Pineapple Salmon: 11.76
+  Chocolate Tamale Cake: 5.22
+  Fire Roasted Salsa Sampler: 4.4
+  Mango Habanero Margarita: 7.06
+  Mexican Chocolate Flan: 4.41
+  Spicy Shrimp Ceviche: 9.73
+  Honey-Lime Shrimp Skewers: 10.99
+  Tamarind Citrus Margarita: 6.79
+  Tex-Mex Fajita Wrap: 8.04
+  Citrus Cilantro Rice: 3.45
+  Cinnamon Churro Bites: 4.2
+  Classic Horchata Smoothie: 4.73
+  Spicy Black Bean Enchiladas: 8.47

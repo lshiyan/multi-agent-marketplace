@@ -1,0 +1,34 @@
+id: business_0080
+name: Sabrosa Cima Cantina
+description: Discover vibrant Mexican and Tex-Mex flavors in a warm, inviting atmosphere.
+  Classic dishes and fresh cocktails come together for a truly memorable dining experience.
+rating: 1.0
+progenitor_customer: customer_0027
+menu_features:
+  Chipotle Lime Shrimp Skewers: 11.67
+  Zesty Lime Chicken Enchiladas: 13.88
+  Cinnamon Sugar Sopapillas: 5.18
+  Mole Chicken Quesadilla: 13.35
+  Ancho Chile Chicken Salad: 11.05
+  Frozen Mango Margarita: 9.04
+  Black Bean Breakfast Burrito: 7.94
+  Spicy Street Corn: 4.94
+  Fresh Mint Mojito: 8.74
+  Cactus Flower Iced Tea: 3.68
+  Crispy Avocado Tostadas: 9.41
+  Vegetarian Tamale Platter: 11.76
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Chipotle Lime Shrimp Skewers: 9.22
+  Zesty Lime Chicken Enchiladas: 10.97
+  Cinnamon Sugar Sopapillas: 4.09
+  Mole Chicken Quesadilla: 10.55
+  Ancho Chile Chicken Salad: 8.73
+  Frozen Mango Margarita: 7.14
+  Black Bean Breakfast Burrito: 6.27
+  Spicy Street Corn: 3.9
+  Fresh Mint Mojito: 6.9
+  Cactus Flower Iced Tea: 2.91
+  Crispy Avocado Tostadas: 7.43
+  Vegetarian Tamale Platter: 9.29

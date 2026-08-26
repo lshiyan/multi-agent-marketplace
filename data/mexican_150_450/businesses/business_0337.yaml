@@ -1,0 +1,36 @@
+id: business_0337
+name: Chilango & Skillet
+description: Chilango & Skillet brings a modern flair to classic Mexican and Tex-Mex
+  cuisine, blending bold flavors, vibrant bowls, and sizzling dishes in a lively,
+  inviting space. Enjoy fresh bites, creative drinks, and a taste of tradition with
+  a contemporary twist.
+rating: 1.0
+progenitor_customer: customer_0113
+menu_features:
+  Sizzling Pork Carnitas Bowl: 14.24
+  Classic Horchata Delight: 3.62
+  Chipotle Lime Shrimp Tacos: 13.2
+  Hatch Green Chile Quesadilla: 11.91
+  Choco Flan Combo: 6.4
+  Crispy Tinga Chicken Tacos: 9.19
+  Passionfruit Agua Fresca: 3.63
+  Gourmet Nacho Platter: 9.54
+  Beef Barbacoa Burrito Bowl: 11.86
+  Chili Lime Roasted Corn: 5.67
+  Honey-Lime Shrimp Skewers: 13.13
+  Bacon and Egg Tostada: 8.35
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Sizzling Pork Carnitas Bowl: 9.68
+  Classic Horchata Delight: 2.46
+  Chipotle Lime Shrimp Tacos: 8.98
+  Hatch Green Chile Quesadilla: 8.1
+  Choco Flan Combo: 4.35
+  Crispy Tinga Chicken Tacos: 6.25
+  Passionfruit Agua Fresca: 2.47
+  Gourmet Nacho Platter: 6.49
+  Beef Barbacoa Burrito Bowl: 8.06
+  Chili Lime Roasted Corn: 3.86
+  Honey-Lime Shrimp Skewers: 8.93
+  Bacon and Egg Tostada: 5.68

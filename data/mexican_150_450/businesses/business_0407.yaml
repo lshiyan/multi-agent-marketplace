@@ -1,0 +1,41 @@
+id: business_0407
+name: Tamarind & Tropico
+description: Step into a vibrant haven where bold Mexican and Tex-Mex flavors meet
+  fresh tropical twists. Enjoy sizzling dishes, crave-worthy dips, and refreshing
+  beverages in a warm, lively atmosphere.
+rating: 1.0
+progenitor_customer: customer_0136
+menu_features:
+  Pineapple Salsa Pork Tacos: 10.03
+  Black Bean and Corn Fiesta Salad: 10.76
+  Baja Fish Burrito: 10.19
+  Chili Lime Street Corn: 6.76
+  Mini Street Tacos Platter: 12.86
+  Passion Fruit Agua Fresca: 3.99
+  Roasted Corn and Black Bean Salad: 9.08
+  Cheesy Jalapeno Queso: 8.66
+  Ancho Honey-Glazed Salmon: 14.82
+  Creamy Queso Dip: 7.58
+  Cinnamon Sugar Churro Sticks: 4.95
+  Tamarind-Glazed Ribs: 13.81
+  Sizzling Steak Fajitas: 15.14
+  Beef Enchiladas Verdes: 17.12
+  Mesquite Grilled Steak Fajitas: 13.48
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Pineapple Salsa Pork Tacos: 7.32
+  Black Bean and Corn Fiesta Salad: 7.85
+  Baja Fish Burrito: 7.44
+  Chili Lime Street Corn: 4.93
+  Mini Street Tacos Platter: 9.39
+  Passion Fruit Agua Fresca: 2.91
+  Roasted Corn and Black Bean Salad: 6.63
+  Cheesy Jalapeno Queso: 6.32
+  Ancho Honey-Glazed Salmon: 10.82
+  Creamy Queso Dip: 5.53
+  Cinnamon Sugar Churro Sticks: 3.61
+  Tamarind-Glazed Ribs: 10.08
+  Sizzling Steak Fajitas: 11.05
+  Beef Enchiladas Verdes: 12.5
+  Mesquite Grilled Steak Fajitas: 9.84

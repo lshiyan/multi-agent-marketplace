@@ -1,0 +1,35 @@
+id: business_0353
+name: Lime & Lava Grill
+description: Experience bold Mexican and Tex-Mex flavors in a vibrant, modern setting.
+  From zesty salads and creative quesadillas to decadent desserts, our menu brings
+  together the freshness and spice of contemporary Latin cuisine.
+rating: 1.0
+progenitor_customer: customer_0118
+menu_features:
+  Avocado Lime Salad: 9.04
+  Chipotle Lime Chicken Salad: 12.37
+  Lime-Cilantro Quinoa Salad: 9.5
+  Spicy Pineapple Salsa Dip: 4.77
+  Chipotle Lime Shrimp Skewers: 14.08
+  Spicy Chocolate Lava Cake: 6.42
+  Smoky Chipotle Quesadillas: 9.74
+  Street Style Quesadillas: 10.64
+  Tamarind Ginger Cooler: 4.07
+  Sunset Grilled Veggie Tacos: 13.14
+  Choco Flan Combo: 7.2
+  Chocolate Mole Chicken: 16.87
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Avocado Lime Salad: 8.05
+  Chipotle Lime Chicken Salad: 11.01
+  Lime-Cilantro Quinoa Salad: 8.46
+  Spicy Pineapple Salsa Dip: 4.25
+  Chipotle Lime Shrimp Skewers: 12.53
+  Spicy Chocolate Lava Cake: 5.71
+  Smoky Chipotle Quesadillas: 8.67
+  Street Style Quesadillas: 9.47
+  Tamarind Ginger Cooler: 3.62
+  Sunset Grilled Veggie Tacos: 11.69
+  Choco Flan Combo: 6.41
+  Chocolate Mole Chicken: 15.01

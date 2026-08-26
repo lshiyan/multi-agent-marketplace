@@ -1,0 +1,47 @@
+id: business_0017
+name: Poblano Palate
+description: Discover bold and vibrant flavors inspired by both sides of the border
+  at Poblano Palate. From zesty appetizers to sweet, inventive desserts, every bite
+  delivers a memorable Mexican and Tex-Mex experience.
+rating: 1.0
+progenitor_customer: customer_0006
+menu_features:
+  Poblano Pepper Queso Dip: 6.29
+  Tropical Coconut Margarita: 10.58
+  Avocado Ranch Burrito Bowl: 13.62
+  Green Chile Pork Stew: 11.98
+  Crispy Avocado Tostadas: 10.56
+  Cinnamon Churro Bites: 6.91
+  Street Corn Fritters: 5.95
+  Twice-Baked Sweet Potato: 6.61
+  Spicy Chocolate Churros: 6.88
+  Loaded Nacho Skillet: 11.6
+  Avocado Lime Salad: 9.42
+  Baja Fish Tacos: 13.84
+  Hibiscus Iced Tea: 4.07
+  Hibiscus Agua Fresca: 3.36
+  Savory Chorizo Street Tacos: 9.64
+  Blue Corn Tortilla Soup: 7.85
+  Jicama and Citrus Salad: 8.27
+  Toasted Coconut Flan: 8.19
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Poblano Pepper Queso Dip: 5.85
+  Tropical Coconut Margarita: 9.84
+  Avocado Ranch Burrito Bowl: 12.67
+  Green Chile Pork Stew: 11.14
+  Crispy Avocado Tostadas: 9.82
+  Cinnamon Churro Bites: 6.43
+  Street Corn Fritters: 5.53
+  Twice-Baked Sweet Potato: 6.15
+  Spicy Chocolate Churros: 6.4
+  Loaded Nacho Skillet: 10.79
+  Avocado Lime Salad: 8.76
+  Baja Fish Tacos: 12.87
+  Hibiscus Iced Tea: 3.79
+  Hibiscus Agua Fresca: 3.12
+  Savory Chorizo Street Tacos: 8.97
+  Blue Corn Tortilla Soup: 7.3
+  Jicama and Citrus Salad: 7.69
+  Toasted Coconut Flan: 7.62

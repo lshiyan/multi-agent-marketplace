@@ -1,0 +1,9 @@
+id: customer_0029
+name: Mia Thompson
+request: Could you please help me find a business where I can order 1 Street Corn
+  Fritter and 1 Smoky Mezcal Mule? These specific items are very important to me,
+  and I would like to place an order for them. Thank you!
+menu_features:
+  Street Corn Fritters: 6.99
+  Smoky Mezcal Mule: 9.49
+amenity_features: []

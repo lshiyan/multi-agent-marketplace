@@ -1,0 +1,43 @@
+id: business_0338
+name: Skillet & Citrus Modern Mex
+description: Discover vibrant Mexican and Tex-Mex flavors with a fresh twist at Skillet
+  & Citrus. Our modern eatery blends zesty drinks, bold grilled dishes, and classic
+  sweets in a welcoming, contemporary setting.
+rating: 1.0
+progenitor_customer: customer_0113
+menu_features:
+  Tamarind Ginger Cooler: 4.6
+  Pineapple Tequila Chicken Skewers: 15.59
+  Honey Lime Grilled Fajitas: 14.03
+  Beef Barbacoa Burrito Bowl: 9.42
+  Guava Limeade Cooler: 5.15
+  Classic Flan Delight: 6.15
+  Toasted Coconut Flan: 5.75
+  Spiced Churro Bites: 5.02
+  Creamy Queso Dip: 7.32
+  Grilled Chipotle Chicken Burrito: 11.67
+  Midnight Mole Enchiladas: 14.21
+  Zesty Shrimp Ceviche: 13.04
+  Mango Habanero Margarita: 10.43
+  Sweet Corn Tamales: 10.91
+  Tex-Mex Fajita Wrap: 11.89
+  Mexican Coffee Flan: 5.68
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Tamarind Ginger Cooler: 3.4
+  Pineapple Tequila Chicken Skewers: 11.54
+  Honey Lime Grilled Fajitas: 10.38
+  Beef Barbacoa Burrito Bowl: 6.97
+  Guava Limeade Cooler: 3.81
+  Classic Flan Delight: 4.55
+  Toasted Coconut Flan: 4.25
+  Spiced Churro Bites: 3.71
+  Creamy Queso Dip: 5.42
+  Grilled Chipotle Chicken Burrito: 8.64
+  Midnight Mole Enchiladas: 10.52
+  Zesty Shrimp Ceviche: 9.65
+  Mango Habanero Margarita: 7.72
+  Sweet Corn Tamales: 8.07
+  Tex-Mex Fajita Wrap: 8.8
+  Mexican Coffee Flan: 4.2

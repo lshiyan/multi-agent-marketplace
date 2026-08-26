@@ -1,0 +1,39 @@
+id: business_0129
+name: Sol y Sabor Cantina
+description: Experience the vibrant tastes of Mexico and the Southwest in a lively,
+  welcoming setting. Enjoy a fresh and flavorful menu that brings together the best
+  of classic and modern Mexican cuisine.
+rating: 1.0
+progenitor_customer: customer_0043
+menu_features:
+  Baja Fish Tacos: 14.35
+  Stuffed Poblano Peppers: 13.17
+  Lime-Garlic Grilled Chicken: 14.85
+  Pineapple Tequila Chicken Skewers: 11.4
+  Caramelized Onion Queso Dip: 7.47
+  Bacon Wrapped Jalapeno Bites: 8.91
+  Roasted Corn and Black Bean Salad: 7.0
+  Guava Limeade Cooler: 4.57
+  Pineapple Salsa Nachos: 11.82
+  Spicy Black Bean Enchiladas: 11.02
+  Sweet Plantain Empanadas: 7.5
+  Mexican Chocolate Flan: 6.19
+  Pineapple Habanero Salsa: 3.73
+  Street Corn Quesadilla: 12.03
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Baja Fish Tacos: 11.48
+  Stuffed Poblano Peppers: 10.54
+  Lime-Garlic Grilled Chicken: 11.88
+  Pineapple Tequila Chicken Skewers: 9.12
+  Caramelized Onion Queso Dip: 5.98
+  Bacon Wrapped Jalapeno Bites: 7.13
+  Roasted Corn and Black Bean Salad: 5.6
+  Guava Limeade Cooler: 3.66
+  Pineapple Salsa Nachos: 9.46
+  Spicy Black Bean Enchiladas: 8.82
+  Sweet Plantain Empanadas: 6.0
+  Mexican Chocolate Flan: 4.95
+  Pineapple Habanero Salsa: 2.98
+  Street Corn Quesadilla: 9.62

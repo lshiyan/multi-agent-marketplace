@@ -1,0 +1,45 @@
+id: business_0081
+name: La Mar y Mesa
+description: Experience a vibrant blend of classic Mexican and Tex-Mex flavors, featuring
+  fresh seafood, sizzling fajitas, and creative twists on traditional favorites. A
+  lively atmosphere welcomes you to enjoy bold bites and signature drinks.
+rating: 1.0
+progenitor_customer: customer_0027
+menu_features:
+  Spicy Shrimp Fajitas: 15.02
+  Toasted Coconut Flan: 6.93
+  Zesty Lime Grilled Chicken: 17.03
+  Smoky Chipotle BBQ Nachos: 10.28
+  Loaded Chorizo Nachos: 9.83
+  Carnitas Breakfast Burrito: 10.4
+  "Spicy Jalape\xF1o Limeade": 2.92
+  Mango Jalapeno Salsa and Chips: 5.59
+  Passion Fruit Mojito: 8.92
+  Roasted Corn and Black Bean Salsa: 8.18
+  Crispy Fish Tacos: 11.73
+  Veggie Fajita Platter: 14.41
+  Loaded Nacho Platter: 10.28
+  Sweet Corn Tamale Bites: 7.05
+  Sweet Plantain Empanadas: 7.92
+  Caramelized Onion Queso Dip: 7.89
+  Sea Breeze Ceviche: 13.19
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Spicy Shrimp Fajitas: 13.82
+  Toasted Coconut Flan: 6.38
+  Zesty Lime Grilled Chicken: 15.67
+  Smoky Chipotle BBQ Nachos: 9.46
+  Loaded Chorizo Nachos: 9.04
+  Carnitas Breakfast Burrito: 9.57
+  "Spicy Jalape\xF1o Limeade": 2.69
+  Mango Jalapeno Salsa and Chips: 5.14
+  Passion Fruit Mojito: 8.21
+  Roasted Corn and Black Bean Salsa: 7.53
+  Crispy Fish Tacos: 10.79
+  Veggie Fajita Platter: 13.26
+  Loaded Nacho Platter: 9.46
+  Sweet Corn Tamale Bites: 6.49
+  Sweet Plantain Empanadas: 7.29
+  Caramelized Onion Queso Dip: 7.26
+  Sea Breeze Ceviche: 12.13

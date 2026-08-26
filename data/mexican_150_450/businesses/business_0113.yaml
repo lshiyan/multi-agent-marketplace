@@ -1,0 +1,37 @@
+id: business_0113
+name: Pepper & Paloma
+description: Experience a vibrant blend of Tex-Mex flavors and creative drinks in
+  a lively setting. From spicy appetizers to sweet treats and refreshing sips, every
+  meal is a fiesta of taste.
+rating: 1.0
+progenitor_customer: customer_0038
+menu_features:
+  Cheesy Jalapeno Poppers: 9.31
+  Cocoa Dusted Churro Bites: 5.0
+  Horchata Iced Coffee: 4.27
+  Poblano Pepper Queso Dip: 5.23
+  Tex-Mex Fajita Wrap: 14.31
+  Creamy Chipotle Pasta: 9.12
+  Baja Shrimp Quesadilla: 14.93
+  Pineapple Agua Fresca: 3.26
+  Chocolate Mole Chicken: 18.29
+  Classic Horchata Delight: 3.82
+  Coconut Lime Margarita: 6.52
+  Smoky Lime Quinoa Salad: 9.46
+  Sizzling Chicken Fajitas: 13.02
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Cheesy Jalapeno Poppers: 8.1
+  Cocoa Dusted Churro Bites: 4.35
+  Horchata Iced Coffee: 3.71
+  Poblano Pepper Queso Dip: 4.55
+  Tex-Mex Fajita Wrap: 12.45
+  Creamy Chipotle Pasta: 7.93
+  Baja Shrimp Quesadilla: 12.99
+  Pineapple Agua Fresca: 2.84
+  Chocolate Mole Chicken: 15.91
+  Classic Horchata Delight: 3.32
+  Coconut Lime Margarita: 5.67
+  Smoky Lime Quinoa Salad: 8.23
+  Sizzling Chicken Fajitas: 11.33

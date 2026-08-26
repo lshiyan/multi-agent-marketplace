@@ -1,0 +1,11 @@
+id: customer_0147
+name: Lucas Nguyen
+request: 'Please find a business that offers the following menu items: 1 Cocoa Cinnamon
+  Tequila, 1 Tomatillo Salsa Verde Nachos, and 1 Spiked Horchata Cooler. It''s important
+  that the business provides all of these items, as I intend to place an order for
+  them. Thank you.'
+menu_features:
+  Cocoa Cinnamon Tequila: 9.49
+  Tomatillo Salsa Verde Nachos: 10.49
+  Spiked Horchata Cooler: 7.99
+amenity_features: []

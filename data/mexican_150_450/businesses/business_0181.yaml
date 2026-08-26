@@ -1,0 +1,42 @@
+id: business_0181
+name: Fajita the Glitter
+description: A vibrant eatery serving up sizzling Tex-Mex classics and creative cocktails
+  with a fruity twist. Come for the flavor, stay for the fiesta!
+rating: 1.0
+progenitor_customer: customer_0061
+menu_features:
+  "Blueberry Jalape\xF1o Margarita": 11.01
+  Sizzling Fajita Platter: 20.19
+  Bacon and Egg Tostada: 7.87
+  Tomatillo Ranch Enchiladas: 13.98
+  Sizzling Chicken Fajitas: 16.76
+  Vanilla Almond Horchata: 3.14
+  Cucumber Jalapeno Agua Fresca: 3.38
+  Beef Fajita Skillet: 15.56
+  Blueberry Agave Margarita: 9.52
+  Spicy Mango Margarita: 7.87
+  Jalapeno Mango Margarita: 10.83
+  Breakfast Burrito Bowl: 7.96
+  Tequila Lime Shrimp Skewers: 13.47
+  Tamale Pie Casserole: 12.42
+  Sizzling Steak Fajitas: 12.82
+  Pineapple Jalapeno Margarita: 10.31
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  "Blueberry Jalape\xF1o Margarita": 7.49
+  Sizzling Fajita Platter: 13.73
+  Bacon and Egg Tostada: 5.35
+  Tomatillo Ranch Enchiladas: 9.51
+  Sizzling Chicken Fajitas: 11.4
+  Vanilla Almond Horchata: 2.14
+  Cucumber Jalapeno Agua Fresca: 2.3
+  Beef Fajita Skillet: 10.58
+  Blueberry Agave Margarita: 6.47
+  Spicy Mango Margarita: 5.35
+  Jalapeno Mango Margarita: 7.36
+  Breakfast Burrito Bowl: 5.41
+  Tequila Lime Shrimp Skewers: 9.16
+  Tamale Pie Casserole: 8.45
+  Sizzling Steak Fajitas: 8.72
+  Pineapple Jalapeno Margarita: 7.01

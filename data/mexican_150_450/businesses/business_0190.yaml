@@ -1,0 +1,40 @@
+id: business_0190
+name: Azul de la Mesa
+description: Experience vibrant Mexican and Tex-Mex flavors with a creative twist
+  on classic dishes, served in a warm, inviting atmosphere. Fresh ingredients and
+  bold spices come together for memorable meals, perfect for sharing with family and
+  friends.
+rating: 1.0
+progenitor_customer: customer_0064
+menu_features:
+  Blue Corn Tostada Salad: 8.54
+  Loaded Nacho Platter: 9.79
+  Crispy Avocado Fritters: 8.13
+  Tamarind Glazed Wings: 12.77
+  Midnight Mole Enchiladas: 13.58
+  Citrus Cilantro Rice: 4.9
+  Honey-Lime Grilled Salmon: 13.31
+  Verde Chicken Enchiladas: 11.92
+  Spicy Black Bean and Cheese Quesadilla: 9.13
+  Classic Beef Barbacoa: 9.64
+  Choco Flan Combo: 7.98
+  Black Bean and Corn Salsa: 5.74
+  Cilantro Lime Chicken Tacos: 9.14
+  Crispy Fish Baja Bowl: 13.3
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Blue Corn Tostada Salad: 5.81
+  Loaded Nacho Platter: 6.66
+  Crispy Avocado Fritters: 5.53
+  Tamarind Glazed Wings: 8.68
+  Midnight Mole Enchiladas: 9.23
+  Citrus Cilantro Rice: 3.33
+  Honey-Lime Grilled Salmon: 9.05
+  Verde Chicken Enchiladas: 8.11
+  Spicy Black Bean and Cheese Quesadilla: 6.21
+  Classic Beef Barbacoa: 6.56
+  Choco Flan Combo: 5.43
+  Black Bean and Corn Salsa: 3.9
+  Cilantro Lime Chicken Tacos: 6.22
+  Crispy Fish Baja Bowl: 9.04

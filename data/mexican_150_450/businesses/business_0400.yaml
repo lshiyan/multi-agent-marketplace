@@ -1,0 +1,37 @@
+id: business_0400
+name: Grill of My Dreams
+description: Serving up a fiesta of bold flavors, Grill of My Dreams invites you to
+  enjoy the vibrant tastes of Mexico and Tex-Mex with a creative twist. From fiery
+  sips to savory stacks and sizzling classics, every bite is a bite of bliss.
+rating: 1.0
+progenitor_customer: customer_0134
+menu_features:
+  "Spicy Jalape\xF1o Limeade": 3.61
+  Three-Cheese Enchilada Stack: 9.35
+  Lime-Garlic Grilled Chicken: 12.62
+  Tomatillo Salsa Verde Nachos: 10.34
+  Black Bean & Corn Quesadilla: 10.47
+  Crispy Avocado Tacos: 11.54
+  Cocoa Cinnamon Tequila: 9.21
+  Raspberry Chipotle Barbecue Ribs: 14.49
+  Honey-Lime Shrimp Skewers: 15.17
+  Black Bean Avocado Enchiladas: 11.69
+  Margarita Grilled Chicken: 11.17
+  Black Bean Sweet Potato Burrito: 9.75
+  Sizzling Chicken Fajitas: 16.78
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  "Spicy Jalape\xF1o Limeade": 3.32
+  Three-Cheese Enchilada Stack: 8.6
+  Lime-Garlic Grilled Chicken: 11.61
+  Tomatillo Salsa Verde Nachos: 9.51
+  Black Bean & Corn Quesadilla: 9.63
+  Crispy Avocado Tacos: 10.62
+  Cocoa Cinnamon Tequila: 8.47
+  Raspberry Chipotle Barbecue Ribs: 13.33
+  Honey-Lime Shrimp Skewers: 13.96
+  Black Bean Avocado Enchiladas: 10.75
+  Margarita Grilled Chicken: 10.28
+  Black Bean Sweet Potato Burrito: 8.97
+  Sizzling Chicken Fajitas: 15.44

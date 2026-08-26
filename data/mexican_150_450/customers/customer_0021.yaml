@@ -1,0 +1,10 @@
+id: customer_0021
+name: Isabella Chen
+request: "Could you please assist me in finding a business where I can place an order\
+  \ that includes 1 Cheesy Jalape\xF1o Poppers and 1 Tequila Sunrise Smoothie? These\
+  \ items are very important to me, and I would like to proceed with the purchase\
+  \ as soon as a suitable business is identified. Thank you for your help."
+menu_features:
+  "Cheesy Jalape\xF1o Poppers": 6.99
+  Tequila Sunrise Smoothie: 7.99
+amenity_features: []

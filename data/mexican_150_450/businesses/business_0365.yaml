@@ -1,0 +1,35 @@
+id: business_0365
+name: "Az\xFAcar & Agave Grill"
+description: "Az\xFAcar & Agave Grill invites you to savor vibrant Mexican and Tex-Mex\
+  \ flavors in a lively, inviting atmosphere. Enjoy fresh, colorful dishes and creative\
+  \ cocktails inspired by both tradition and a hint of modern flair."
+rating: 1.0
+progenitor_customer: customer_0122
+menu_features:
+  Cactus Cooler Margarita: 9.5
+  Spicy Cucumber Margarita: 8.1
+  Cinnamon Sugar Churros: 5.33
+  Classic Flan Delight: 4.8
+  Chipotle Lime Shrimp Tacos: 12.74
+  Roasted Poblano Queso Dip: 5.33
+  Citrus Grilled Chicken Tacos: 13.22
+  Garlic Lime Shrimp Salad: 15.0
+  Passionfruit Paloma: 10.28
+  Tangy Tomato Salsa Soup: 7.41
+  Blueberry Hibiscus Margarita: 8.28
+  Sweet Chili Lime Elote: 5.53
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Cactus Cooler Margarita: 6.37
+  Spicy Cucumber Margarita: 5.43
+  Cinnamon Sugar Churros: 3.57
+  Classic Flan Delight: 3.22
+  Chipotle Lime Shrimp Tacos: 8.54
+  Roasted Poblano Queso Dip: 3.57
+  Citrus Grilled Chicken Tacos: 8.86
+  Garlic Lime Shrimp Salad: 10.05
+  Passionfruit Paloma: 6.89
+  Tangy Tomato Salsa Soup: 4.96
+  Blueberry Hibiscus Margarita: 5.55
+  Sweet Chili Lime Elote: 3.71

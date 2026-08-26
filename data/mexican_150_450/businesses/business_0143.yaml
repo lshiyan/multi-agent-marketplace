@@ -1,0 +1,41 @@
+id: business_0143
+name: El Dorado Fresco
+description: El Dorado Fresco invites you to savor vibrant Mexican and Tex-Mex favorites
+  with a fresh, contemporary twist. Enjoy a lively atmosphere and a creative menu
+  ranging from sizzling skillets to bold, zesty beverages.
+rating: 1.0
+progenitor_customer: customer_0048
+menu_features:
+  Loaded Nacho Fries: 8.51
+  Crispy Fish Baja Bowl: 14.1
+  Tamale Pie Casserole: 12.53
+  Chili Lime Roasted Corn: 4.92
+  Flamin' Skillet Fajitas: 16.23
+  Hatch Green Chile Burger: 12.83
+  Avocado Lime Salsa: 4.79
+  Chipotle Lime Shrimp Tacos: 11.99
+  Chocolate Mole Chicken: 14.02
+  Avocado & Tomato Breakfast Tostadas: 6.72
+  Mole Chicken Quesadilla: 10.17
+  Blueberry Jalapeno Margarita: 11.23
+  Green Chile Cheesesteak: 15.14
+  Salted Caramel Margarita: 10.28
+  Tequila Lime Grilled Shrimp: 16.17
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Loaded Nacho Fries: 7.23
+  Crispy Fish Baja Bowl: 11.98
+  Tamale Pie Casserole: 10.65
+  Chili Lime Roasted Corn: 4.18
+  Flamin' Skillet Fajitas: 13.8
+  Hatch Green Chile Burger: 10.91
+  Avocado Lime Salsa: 4.07
+  Chipotle Lime Shrimp Tacos: 10.19
+  Chocolate Mole Chicken: 11.92
+  Avocado & Tomato Breakfast Tostadas: 5.71
+  Mole Chicken Quesadilla: 8.64
+  Blueberry Jalapeno Margarita: 9.55
+  Green Chile Cheesesteak: 12.87
+  Salted Caramel Margarita: 8.74
+  Tequila Lime Grilled Shrimp: 13.74

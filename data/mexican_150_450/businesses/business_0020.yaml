@@ -1,0 +1,35 @@
+id: business_0020
+name: Tequila Twist
+description: Discover vibrant Mexican and Tex-Mex flavors with fresh ingredients and
+  inventive drinks in a lively, welcoming setting. Enjoy classic favorites and creative
+  specialties, perfect for any craving.
+rating: 1.0
+progenitor_customer: customer_0007
+menu_features:
+  Savory Chorizo Street Tacos: 11.65
+  Classic Horchata Delight: 3.43
+  Cocoa Dusted Churro Bites: 5.76
+  Blue Agave Tequila Sunrise: 11.18
+  Margarita Lime Pie: 4.97
+  Sizzling Steak Fajitas: 15.92
+  Twisted Tequila Sunrise: 9.35
+  Horchata Iced Latte: 4.62
+  Chipotle Lime Chicken Salad: 11.9
+  Ancho Honey-Glazed Salmon: 16.32
+  Sizzling Fajita Plate: 18.82
+  Avocado Lime Dip: 7.21
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Savory Chorizo Street Tacos: 10.95
+  Classic Horchata Delight: 3.22
+  Cocoa Dusted Churro Bites: 5.41
+  Blue Agave Tequila Sunrise: 10.51
+  Margarita Lime Pie: 4.67
+  Sizzling Steak Fajitas: 14.96
+  Twisted Tequila Sunrise: 8.79
+  Horchata Iced Latte: 4.34
+  Chipotle Lime Chicken Salad: 11.19
+  Ancho Honey-Glazed Salmon: 15.34
+  Sizzling Fajita Plate: 17.69
+  Avocado Lime Dip: 6.78

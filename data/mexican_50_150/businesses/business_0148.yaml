@@ -1,0 +1,36 @@
+id: business_0148
+name: Casa Poblano y Miel
+description: Experience a vibrant blend of classic Mexican and Tex-Mex favorites with
+  fresh twists, signature sizzlers, and creative desserts in a warm, welcoming atmosphere.
+  At Casa Poblano y Miel, every dish is thoughtfully crafted to celebrate bold flavors
+  and colorful traditions.
+rating: 1.0
+progenitor_customer: customer_0050
+menu_features:
+  Carnitas Plantain Burrito: 13.75
+  Smoky Black Bean Enchiladas: 12.55
+  Poblano Pepper Relleno Plate: 13.29
+  Loaded Street Corn: 6.6
+  Honey Lime Fajita Sizzlers: 18.7
+  Roasted Poblano Corn Chowder: 8.12
+  Ancho Chile Chicken Salad: 10.16
+  Mexican Chocolate Lava Cake: 7.6
+  Crispy Avocado Tostadas: 10.91
+  Roasted Poblano Soup: 7.89
+  Blue Corn Tortilla Tacos: 12.48
+  Avocado Lime Cheesecake: 7.93
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Carnitas Plantain Burrito: 9.62
+  Smoky Black Bean Enchiladas: 8.79
+  Poblano Pepper Relleno Plate: 9.3
+  Loaded Street Corn: 4.62
+  Honey Lime Fajita Sizzlers: 13.09
+  Roasted Poblano Corn Chowder: 5.68
+  Ancho Chile Chicken Salad: 7.11
+  Mexican Chocolate Lava Cake: 5.32
+  Crispy Avocado Tostadas: 7.64
+  Roasted Poblano Soup: 5.52
+  Blue Corn Tortilla Tacos: 8.74
+  Avocado Lime Cheesecake: 5.55

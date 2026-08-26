@@ -1,0 +1,10 @@
+id: customer_0020
+name: Liam Zhang
+request: 'Could you please help me locate a business that serves the following menu
+  items, as I intend to place an order for them: 1 Carne Asada Nachos, 1 Ancho Chili
+  Spiced Ribs, and 1 Chipotle Shrimp Skewers? Thank you.'
+menu_features:
+  Carne Asada Nachos: 12.49
+  Ancho Chili Spiced Ribs: 15.99
+  Chipotle Shrimp Skewers: 12.49
+amenity_features: []

@@ -1,0 +1,39 @@
+id: business_0227
+name: Cantina del Sol Nativo
+description: Experience the vibrant flavors and warm hospitality of classic Mexican
+  and Tex-Mex cuisine in a lively, welcoming atmosphere. Savory specialties, fresh
+  salsas, and indulgent desserts await at every visit.
+rating: 1.0
+progenitor_customer: customer_0076
+menu_features:
+  Cinnamon Sugar Churro Sticks: 6.8
+  Roasted Poblano Soup: 7.1
+  Stuffed Chicken Poblano: 16.12
+  Pineapple Agua Fresca: 3.72
+  Black Bean & Corn Quesadilla: 11.69
+  Smoky Black Bean Nachos: 10.22
+  Pineapple Jalapeno Salsa: 3.6
+  Sweet Plantain Empanadas: 9.32
+  Honey-Lime Shrimp Skewers: 18.24
+  Roasted Corn and Avocado Salad: 9.1
+  Tropical Coconut Margarita: 10.07
+  Sizzling Fajita Platter: 18.54
+  Black Bean Taco Bowl: 8.46
+  Passionfruit Paloma: 10.03
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Cinnamon Sugar Churro Sticks: 4.42
+  Roasted Poblano Soup: 4.62
+  Stuffed Chicken Poblano: 10.48
+  Pineapple Agua Fresca: 2.42
+  Black Bean & Corn Quesadilla: 7.6
+  Smoky Black Bean Nachos: 6.64
+  Pineapple Jalapeno Salsa: 2.34
+  Sweet Plantain Empanadas: 6.06
+  Honey-Lime Shrimp Skewers: 11.86
+  Roasted Corn and Avocado Salad: 5.92
+  Tropical Coconut Margarita: 6.55
+  Sizzling Fajita Platter: 12.05
+  Black Bean Taco Bowl: 5.5
+  Passionfruit Paloma: 6.52

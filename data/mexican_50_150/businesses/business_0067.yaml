@@ -1,0 +1,44 @@
+id: business_0067
+name: Modern Maguey Kitchen
+description: A vibrant destination for bold Mexican and Tex-Mex flavors, Modern Maguey
+  Kitchen serves up classic favorites and inventive dishes in a fresh, inviting setting.
+  Enjoy expertly grilled meats, zesty tacos, and creamy desserts alongside creative
+  drinks and bright, lively vibes.
+rating: 1.0
+progenitor_customer: customer_0023
+menu_features:
+  Bacon Wrapped Jalapeno Bites: 6.04
+  Classic Carne Asada Burrito: 13.33
+  Horchata Cold Brew Coffee: 5.63
+  Cocoa Dusted Churro Bites: 5.12
+  Grilled Steak Fajita Platter: 14.31
+  Pico de Gallo Chicken Salad: 8.92
+  Roasted Pepper Queso Dip: 5.79
+  Crispy Fish Tacos: 11.13
+  Avocado Street Tacos: 13.11
+  Creamy Avocado Caesar Salad: 8.44
+  Avocado Lime Cheesecake: 7.8
+  Mole Chicken Quesadilla: 8.93
+  Mushroom & Cheese Tamales: 7.12
+  Huevos Rancheros: 10.94
+  Zesty Lime Chicken Tacos: 11.15
+  Spicy Beef Empanadas: 8.95
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Bacon Wrapped Jalapeno Bites: 5.56
+  Classic Carne Asada Burrito: 12.26
+  Horchata Cold Brew Coffee: 5.18
+  Cocoa Dusted Churro Bites: 4.71
+  Grilled Steak Fajita Platter: 13.17
+  Pico de Gallo Chicken Salad: 8.21
+  Roasted Pepper Queso Dip: 5.33
+  Crispy Fish Tacos: 10.24
+  Avocado Street Tacos: 12.06
+  Creamy Avocado Caesar Salad: 7.76
+  Avocado Lime Cheesecake: 7.18
+  Mole Chicken Quesadilla: 8.22
+  Mushroom & Cheese Tamales: 6.55
+  Huevos Rancheros: 10.06
+  Zesty Lime Chicken Tacos: 10.26
+  Spicy Beef Empanadas: 8.23

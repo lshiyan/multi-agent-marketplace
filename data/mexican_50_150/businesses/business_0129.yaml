@@ -1,0 +1,37 @@
+id: business_0129
+name: Fresco Flame
+description: Fresco Flame celebrates bold Mexican and Tex-Mex flavors with a vibrant
+  menu of grilled specialties, zesty appetizers, and refreshing cocktails. Enjoy a
+  lively atmosphere where every bite is a fresh and fiery delight.
+rating: 1.0
+progenitor_customer: customer_0043
+menu_features:
+  Coconut Lime Flan: 6.05
+  Pico Avocado Toast: 7.2
+  Spice-Rubbed Grilled Fajitas: 16.1
+  Cilantro Lime Grilled Shrimp: 13.7
+  Zesty Lime Grilled Chicken: 11.15
+  Sizzling Fajita Fiesta: 12.55
+  Pineapple Salsa Nachos: 10.11
+  Crispy Avocado Tacos: 12.11
+  Blueberry Hibiscus Margarita: 9.47
+  Black Bean & Cheese Tostadas: 7.19
+  Chorizo Breakfast Burrito: 7.3
+  Zesty Shrimp Ceviche: 12.64
+  Bacon Wrapped Jalapeno Bites: 9.22
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Coconut Lime Flan: 3.87
+  Pico Avocado Toast: 4.61
+  Spice-Rubbed Grilled Fajitas: 10.3
+  Cilantro Lime Grilled Shrimp: 8.77
+  Zesty Lime Grilled Chicken: 7.14
+  Sizzling Fajita Fiesta: 8.03
+  Pineapple Salsa Nachos: 6.47
+  Crispy Avocado Tacos: 7.75
+  Blueberry Hibiscus Margarita: 6.06
+  Black Bean & Cheese Tostadas: 4.6
+  Chorizo Breakfast Burrito: 4.67
+  Zesty Shrimp Ceviche: 8.09
+  Bacon Wrapped Jalapeno Bites: 5.9

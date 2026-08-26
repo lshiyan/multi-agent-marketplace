@@ -1,0 +1,38 @@
+id: business_0041
+name: La Canela Dorada
+description: Step into La Canela Dorada and experience the vibrant spirit of Mexican
+  and Tex-Mex cuisine, where authentic flavors meet a creative twist. Savor inspired
+  dishes and refreshing drinks in a warm, lively setting perfect for gathering with
+  friends and family.
+rating: 1.0
+progenitor_customer: customer_0014
+menu_features:
+  Caramel Apple Empanadas: 6.26
+  "Blueberry Jalape\xF1o Margarita": 9.7
+  Caramel Corn Flan: 7.33
+  Stuffed Poblano Peppers: 13.95
+  Mole Chicken Quesadilla: 8.22
+  Smoky Chipotle Black Bean Soup: 9.95
+  Fiesta Street Corn: 4.26
+  Churro Ice Cream Sandwich: 6.16
+  Pineapple Habanero Salsa: 4.55
+  Vanilla Almond Horchata: 3.55
+  Smoky Chipotle Queso: 7.9
+  Sizzling Fajita Platter: 18.82
+  Mexican Chocolate Brownie: 5.9
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Caramel Apple Empanadas: 5.07
+  "Blueberry Jalape\xF1o Margarita": 7.86
+  Caramel Corn Flan: 5.94
+  Stuffed Poblano Peppers: 11.3
+  Mole Chicken Quesadilla: 6.66
+  Smoky Chipotle Black Bean Soup: 8.06
+  Fiesta Street Corn: 3.45
+  Churro Ice Cream Sandwich: 4.99
+  Pineapple Habanero Salsa: 3.69
+  Vanilla Almond Horchata: 2.88
+  Smoky Chipotle Queso: 6.4
+  Sizzling Fajita Platter: 15.24
+  Mexican Chocolate Brownie: 4.78

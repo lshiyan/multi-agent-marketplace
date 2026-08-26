@@ -1,0 +1,41 @@
+id: business_0352
+name: SunBite Mex
+description: Experience a fresh, modern twist on Mexican and Tex-Mex cuisine, bursting
+  with vibrant flavors and creative flair. Enjoy bold spices, sweet and savory bites,
+  and a festive atmosphere perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0118
+menu_features:
+  Spice-Rubbed Grilled Fajitas: 12.64
+  Sweet Corn Tamales: 12.0
+  Lime-Cilantro Quinoa Salad: 10.69
+  Classic Flan Delight: 6.5
+  Roasted Poblano Corn Chowder: 9.08
+  Cilantro Lime Chicken Tacos: 11.49
+  Tamale Pie Casserole: 13.16
+  Street Style Quesadillas: 9.46
+  Spicy Chocolate Lava Cake: 6.82
+  Grilled Pineapple Mojito: 10.23
+  Black Bean & Cheese Enchiladas: 9.05
+  Crispy Avocado Burrito: 11.68
+  Passionfruit Agua Fresca: 3.11
+  Loaded Nacho Fiesta: 9.87
+  Cocoa Dusted Churro Bites: 6.17
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Spice-Rubbed Grilled Fajitas: 7.84
+  Sweet Corn Tamales: 7.44
+  Lime-Cilantro Quinoa Salad: 6.63
+  Classic Flan Delight: 4.03
+  Roasted Poblano Corn Chowder: 5.63
+  Cilantro Lime Chicken Tacos: 7.12
+  Tamale Pie Casserole: 8.16
+  Street Style Quesadillas: 5.87
+  Spicy Chocolate Lava Cake: 4.23
+  Grilled Pineapple Mojito: 6.34
+  Black Bean & Cheese Enchiladas: 5.61
+  Crispy Avocado Burrito: 7.24
+  Passionfruit Agua Fresca: 1.93
+  Loaded Nacho Fiesta: 6.12
+  Cocoa Dusted Churro Bites: 3.83

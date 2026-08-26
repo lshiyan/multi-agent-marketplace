@@ -1,0 +1,41 @@
+id: business_0284
+name: Spice & Stem
+description: Spice & Stem brings a vibrant, contemporary twist to classic Mexican
+  and Tex-Mex cuisine. Enjoy bold flavors, modern cocktails, and a colorful array
+  of carefully crafted dishes in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0095
+menu_features:
+  Spicy Chicken Tortilla Soup: 6.88
+  Roasted Corn and Black Bean Salad: 9.6
+  Spiced Agave Margarita: 8.65
+  Spicy Beef Chimichangas: 13.18
+  Avocado Lime Dip: 7.03
+  Three-Cheese Enchilada Stack: 10.53
+  Avocado Lime Crema Tostadas: 9.38
+  Mexican Chocolate Flan: 5.38
+  Loaded Chorizo Nachos: 9.41
+  Southwestern Quinoa Salad: 8.64
+  Flamin' Skillet Fajitas: 21.48
+  Smoky Black Bean Tostadas: 7.98
+  Chili Chocolate Lava Cake: 7.61
+  Cactus Flower Iced Tea: 3.99
+  Zesty Lime Grilled Chicken: 14.5
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Spicy Chicken Tortilla Soup: 6.19
+  Roasted Corn and Black Bean Salad: 8.64
+  Spiced Agave Margarita: 7.79
+  Spicy Beef Chimichangas: 11.86
+  Avocado Lime Dip: 6.33
+  Three-Cheese Enchilada Stack: 9.48
+  Avocado Lime Crema Tostadas: 8.44
+  Mexican Chocolate Flan: 4.84
+  Loaded Chorizo Nachos: 8.47
+  Southwestern Quinoa Salad: 7.78
+  Flamin' Skillet Fajitas: 19.33
+  Smoky Black Bean Tostadas: 7.18
+  Chili Chocolate Lava Cake: 6.85
+  Cactus Flower Iced Tea: 3.59
+  Zesty Lime Grilled Chicken: 13.05

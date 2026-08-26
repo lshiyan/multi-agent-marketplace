@@ -1,0 +1,38 @@
+id: business_0029
+name: "Mol\xE9 & Ember"
+description: A vibrant eatery celebrating the bold and smoky flavors of Mexican and
+  Tex-Mex cuisine, where every bite is crafted with fresh ingredients and a dash of
+  creative flair. Dive into delicious classics and inventive favorites, all served
+  in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0010
+menu_features:
+  Midnight Mole Enchiladas: 17.39
+  Tex-Mex Fajita Wrap: 11.54
+  Loaded Street Corn: 6.92
+  Smoky Chipotle BBQ Nachos: 8.52
+  Crispy Fish Baja Bowl: 12.75
+  Hatch Green Chile Rice: 3.67
+  Refreshing Agua Fresca Trio: 7.47
+  Avocado Ranch Burrito Bowl: 11.45
+  Spiced Chocolate Flan: 8.79
+  Sizzling Fajita Plate: 15.6
+  Mexican Chocolate Flan: 6.06
+  Vanilla Cinnamon Horchata: 3.42
+  Peppered Steak Nachos: 12.74
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Midnight Mole Enchiladas: 10.96
+  Tex-Mex Fajita Wrap: 7.27
+  Loaded Street Corn: 4.36
+  Smoky Chipotle BBQ Nachos: 5.37
+  Crispy Fish Baja Bowl: 8.03
+  Hatch Green Chile Rice: 2.31
+  Refreshing Agua Fresca Trio: 4.71
+  Avocado Ranch Burrito Bowl: 7.21
+  Spiced Chocolate Flan: 5.54
+  Sizzling Fajita Plate: 9.83
+  Mexican Chocolate Flan: 3.82
+  Vanilla Cinnamon Horchata: 2.15
+  Peppered Steak Nachos: 8.03

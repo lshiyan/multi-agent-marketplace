@@ -1,0 +1,41 @@
+id: business_0090
+name: Pepper Patch
+description: Pepper Patch serves up bold Tex-Mex flavors in a vibrant, welcoming setting.
+  Enjoy fresh-made appetizers, sizzling specials, and creative cocktails inspired
+  by the heart of Mexico and the Southwest.
+rating: 1.0
+progenitor_customer: customer_0030
+menu_features:
+  Roasted Pepper Queso Dip: 6.83
+  Stuffed Poblano Pepper Delight: 11.48
+  Frozen Strawberry Margarita: 8.66
+  Black Bean and Cilantro Rice: 4.2
+  Black Bean Stuffed Bell Peppers: 11.5
+  Sweet Corn Tamale Cake: 8.1
+  Smoky Black Bean Nachos: 9.61
+  Blueberry Agave Margarita: 8.97
+  Horchata Milkshake: 6.88
+  Beef Fajita Skillet: 15.5
+  Hatch Green Chile Burger: 11.14
+  Sizzling Chicken Fajitas: 18.12
+  Black Bean & Cheese Tostadas: 8.43
+  "Cheesy Jalape\xF1o Poppers": 6.79
+  Horchata Cold Brew Coffee: 5.4
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Roasted Pepper Queso Dip: 5.87
+  Stuffed Poblano Pepper Delight: 9.87
+  Frozen Strawberry Margarita: 7.45
+  Black Bean and Cilantro Rice: 3.61
+  Black Bean Stuffed Bell Peppers: 9.89
+  Sweet Corn Tamale Cake: 6.97
+  Smoky Black Bean Nachos: 8.26
+  Blueberry Agave Margarita: 7.71
+  Horchata Milkshake: 5.92
+  Beef Fajita Skillet: 13.33
+  Hatch Green Chile Burger: 9.58
+  Sizzling Chicken Fajitas: 15.58
+  Black Bean & Cheese Tostadas: 7.25
+  "Cheesy Jalape\xF1o Poppers": 5.84
+  Horchata Cold Brew Coffee: 4.64

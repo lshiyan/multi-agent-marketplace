@@ -1,0 +1,43 @@
+id: business_0137
+name: "You Had Me at Jalape\xF1o"
+description: Spice up your day with bold flavors and fresh, zesty bites at this lively
+  Mexican-inspired kitchen. Sip creative beverages and savor grilled specialties with
+  a sweet and smoky twist.
+rating: 1.0
+progenitor_customer: customer_0046
+menu_features:
+  Beef Barbacoa Tostadas: 10.22
+  Sizzling Fajita Fiesta: 15.24
+  Strawberry Jalapeno Lemonade: 3.35
+  Smoky Black Bean Soup: 5.9
+  Zesty Lime Shrimp Skewers: 14.36
+  Grilled Pineapple Salmon: 17.83
+  Roasted Red Pepper Quesadilla: 9.59
+  Honey-Lime Grilled Salmon: 15.5
+  Horchata Iced Coffee: 4.49
+  Hatch Green Chile Quesadilla: 11.1
+  Mango Agua Fresca: 3.1
+  Golden Tequila Sunrise: 7.43
+  Jalapeno Cheddar Cornbread: 5.14
+  Crispy Fish Tacos: 11.27
+  Spicy Pork Tamales: 12.55
+  Mexican Chocolate Lava Cake: 8.72
+amenity_features: {}
+min_price_factor: 0.95
+minimum_menu_prices:
+  Beef Barbacoa Tostadas: 9.71
+  Sizzling Fajita Fiesta: 14.48
+  Strawberry Jalapeno Lemonade: 3.18
+  Smoky Black Bean Soup: 5.61
+  Zesty Lime Shrimp Skewers: 13.64
+  Grilled Pineapple Salmon: 16.94
+  Roasted Red Pepper Quesadilla: 9.11
+  Honey-Lime Grilled Salmon: 14.72
+  Horchata Iced Coffee: 4.27
+  Hatch Green Chile Quesadilla: 10.54
+  Mango Agua Fresca: 2.94
+  Golden Tequila Sunrise: 7.06
+  Jalapeno Cheddar Cornbread: 4.88
+  Crispy Fish Tacos: 10.71
+  Spicy Pork Tamales: 11.92
+  Mexican Chocolate Lava Cake: 8.28

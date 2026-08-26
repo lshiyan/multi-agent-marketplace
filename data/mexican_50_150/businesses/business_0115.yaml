@@ -1,0 +1,41 @@
+id: business_0115
+name: Bean Me Up, Quesadilla!
+description: A lively spot serving up bold, inventive Tex-Mex and Mexican flavors
+  with a fresh twist. Dive into crave-worthy classics and creative bites in a fun,
+  colorful setting.
+rating: 1.0
+progenitor_customer: customer_0039
+menu_features:
+  Chocolate Sopapilla Bites: 4.97
+  Smoky Lime Quinoa Salad: 8.49
+  Black Bean & Corn Enchiladas: 11.8
+  Black Bean and Avocado Wrap: 10.65
+  Sizzling Fajita Fiesta: 11.48
+  Black Bean and Corn Salsa: 4.46
+  Spicy Chocolate Lava Cake: 8.08
+  Breakfast Burrito Bowl: 7.97
+  Shrimp Ceviche Cups: 10.97
+  Pineapple Chipotle Salsa & Chips: 6.46
+  Roasted Red Pepper Quesadilla: 10.28
+  Blueberry Mint Agua Fresca: 3.14
+  Zesty Lime Grilled Shrimp: 13.48
+  Pineapple Agua Fresca: 4.37
+  Black Bean Stuffed Sweet Potatoes: 8.91
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Chocolate Sopapilla Bites: 3.13
+  Smoky Lime Quinoa Salad: 5.35
+  Black Bean & Corn Enchiladas: 7.43
+  Black Bean and Avocado Wrap: 6.71
+  Sizzling Fajita Fiesta: 7.23
+  Black Bean and Corn Salsa: 2.81
+  Spicy Chocolate Lava Cake: 5.09
+  Breakfast Burrito Bowl: 5.02
+  Shrimp Ceviche Cups: 6.91
+  Pineapple Chipotle Salsa & Chips: 4.07
+  Roasted Red Pepper Quesadilla: 6.48
+  Blueberry Mint Agua Fresca: 1.98
+  Zesty Lime Grilled Shrimp: 8.49
+  Pineapple Agua Fresca: 2.75
+  Black Bean Stuffed Sweet Potatoes: 5.61

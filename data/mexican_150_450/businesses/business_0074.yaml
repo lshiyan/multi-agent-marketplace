@@ -1,0 +1,41 @@
+id: business_0074
+name: Mirador Mex Modern
+description: Experience vibrant, contemporary Mexican and Tex-Mex flavors crafted
+  with fresh ingredients and bold spices. Mirador Mex Modern offers a creative twist
+  on classic favorites in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0025
+menu_features:
+  Spicy Chicken Tortilla Soup: 5.43
+  Sunset Grilled Veggie Tacos: 13.38
+  Baja Fish Burrito: 13.75
+  Bacon and Egg Tostada: 10.32
+  Margarita Lime Cheesecake: 8.16
+  Adobo Pork Sliders: 12.96
+  Tamarind Ginger Cooler: 4.52
+  Peppered Steak Nachos: 10.32
+  Mexican Chocolate Milkshake: 7.45
+  Smoky Chipotle BBQ Ribs: 15.3
+  Smoky Black Bean Nachos: 13.14
+  Sweet Corn Tamales: 10.13
+  Black Bean Sweet Potato Burrito: 9.03
+  Passion Fruit Agua Fresca: 3.83
+  Citrus Marinated Carne Asada: 12.14
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Spicy Chicken Tortilla Soup: 4.29
+  Sunset Grilled Veggie Tacos: 10.57
+  Baja Fish Burrito: 10.86
+  Bacon and Egg Tostada: 8.15
+  Margarita Lime Cheesecake: 6.45
+  Adobo Pork Sliders: 10.24
+  Tamarind Ginger Cooler: 3.57
+  Peppered Steak Nachos: 8.15
+  Mexican Chocolate Milkshake: 5.89
+  Smoky Chipotle BBQ Ribs: 12.09
+  Smoky Black Bean Nachos: 10.38
+  Sweet Corn Tamales: 8.0
+  Black Bean Sweet Potato Burrito: 7.13
+  Passion Fruit Agua Fresca: 3.03
+  Citrus Marinated Carne Asada: 9.59

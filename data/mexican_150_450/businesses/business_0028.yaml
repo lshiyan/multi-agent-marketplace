@@ -1,0 +1,43 @@
+id: business_0028
+name: Wrap & Rind
+description: A lively Tex-Mex haven where bold flavors meet creative twists, from
+  spicy skillets to zesty salads and inventive street eats. Savor vibrant dishes and
+  sip on refreshing margaritas and horchata in a warm, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0010
+menu_features:
+  Beef Fajita Skillet: 16.36
+  Black Bean Stuffed Sweet Potatoes: 8.86
+  Ancho Chile Chicken Salad: 8.24
+  Chipotle Lime Chicken Skewers: 13.87
+  Tex-Mex Fajita Wrap: 12.68
+  Blueberry Jalapeno Margarita: 11.21
+  Loaded Street Corn: 7.64
+  Bacon and Egg Tostada: 7.28
+  Street Style Quesadillas: 10.61
+  Crispy Avocado Burrito: 13.49
+  Fresh Lime and Cilantro Guacamole: 8.43
+  Avocado Lime Quinoa Bowl: 12.46
+  Vanilla Cinnamon Horchata: 3.68
+  Roasted Poblano Rellenos: 12.05
+  Rich Chocolate Tamales: 8.48
+  Loaded Nacho Platter: 12.45
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Beef Fajita Skillet: 10.31
+  Black Bean Stuffed Sweet Potatoes: 5.58
+  Ancho Chile Chicken Salad: 5.19
+  Chipotle Lime Chicken Skewers: 8.74
+  Tex-Mex Fajita Wrap: 7.99
+  Blueberry Jalapeno Margarita: 7.06
+  Loaded Street Corn: 4.81
+  Bacon and Egg Tostada: 4.59
+  Street Style Quesadillas: 6.68
+  Crispy Avocado Burrito: 8.5
+  Fresh Lime and Cilantro Guacamole: 5.31
+  Avocado Lime Quinoa Bowl: 7.85
+  Vanilla Cinnamon Horchata: 2.32
+  Roasted Poblano Rellenos: 7.59
+  Rich Chocolate Tamales: 5.34
+  Loaded Nacho Platter: 7.84

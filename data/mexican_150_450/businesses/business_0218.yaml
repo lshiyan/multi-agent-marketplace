@@ -1,0 +1,41 @@
+id: business_0218
+name: "Mesa Mango & Ma\xEDz"
+description: "Experience a fresh take on Mexican and Tex-Mex flavors at Mesa Mango\
+  \ & Ma\xEDz. Our kitchen highlights bold, sunny ingredients and inventive pairings\
+  \ in a lively, modern atmosphere."
+rating: 1.0
+progenitor_customer: customer_0073
+menu_features:
+  Three-Cheese Queso Dip: 5.86
+  Pineapple Tequila Chicken Skewers: 14.33
+  Tex-Mex Breakfast Skillet: 6.66
+  Roasted Corn Elote: 4.29
+  Housemade Horchata: 3.06
+  Mango Jalapeno Salsa and Chips: 4.69
+  Black Bean and Cilantro Rice: 3.5
+  Vegetarian Tamale Platter: 13.01
+  Passion Fruit Agua Fresca: 3.59
+  Green Chile Pork Stew: 13.91
+  Avocado Lime Grilled Shrimp: 12.92
+  "Spicy Jalape\xF1o Limeade": 3.86
+  Roasted Poblano Queso Dip: 4.3
+  Pineapple Salsa Shrimp Tacos: 12.89
+  Stuffed Poblano Peppers: 10.83
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Three-Cheese Queso Dip: 4.81
+  Pineapple Tequila Chicken Skewers: 11.75
+  Tex-Mex Breakfast Skillet: 5.46
+  Roasted Corn Elote: 3.52
+  Housemade Horchata: 2.51
+  Mango Jalapeno Salsa and Chips: 3.85
+  Black Bean and Cilantro Rice: 2.87
+  Vegetarian Tamale Platter: 10.67
+  Passion Fruit Agua Fresca: 2.94
+  Green Chile Pork Stew: 11.41
+  Avocado Lime Grilled Shrimp: 10.59
+  "Spicy Jalape\xF1o Limeade": 3.17
+  Roasted Poblano Queso Dip: 3.53
+  Pineapple Salsa Shrimp Tacos: 10.57
+  Stuffed Poblano Peppers: 8.88

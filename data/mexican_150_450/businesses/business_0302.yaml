@@ -1,0 +1,43 @@
+id: business_0302
+name: La Noche Dorada
+description: Experience modern Mexican and Tex-Mex flair in a warm, lively setting
+  where classic flavors mingle with fresh, creative twists. Enjoy savory favorites,
+  vibrant drinks, and delectable desserts from morning brunch through late-night bites.
+rating: 1.0
+progenitor_customer: customer_0101
+menu_features:
+  Midnight Mole Enchiladas: 11.65
+  Horchata Latte: 5.25
+  Creamy Queso Dip: 6.0
+  Cilantro Lime Chicken Tacos: 13.63
+  Baja Fish Taco Plate: 16.42
+  Hatch Green Chile Stew: 13.05
+  Choco-Chili Volcano Cake: 8.17
+  Zesty Shrimp Ceviche: 12.25
+  Creamy Jalapeno Corn Fritters: 8.04
+  Mango Habanero Margarita: 12.1
+  Loaded Sweet Potato Fries: 9.67
+  Verde Ranchero Huevos: 11.46
+  Chocolate Mole Chicken: 15.79
+  Citrus Marinated Carne Asada: 17.17
+  Rich Chocolate Tres Leches: 7.18
+  Chorizo Breakfast Tacos: 11.04
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Midnight Mole Enchiladas: 7.69
+  Horchata Latte: 3.47
+  Creamy Queso Dip: 3.96
+  Cilantro Lime Chicken Tacos: 9.0
+  Baja Fish Taco Plate: 10.84
+  Hatch Green Chile Stew: 8.61
+  Choco-Chili Volcano Cake: 5.39
+  Zesty Shrimp Ceviche: 8.09
+  Creamy Jalapeno Corn Fritters: 5.31
+  Mango Habanero Margarita: 7.99
+  Loaded Sweet Potato Fries: 6.38
+  Verde Ranchero Huevos: 7.56
+  Chocolate Mole Chicken: 10.42
+  Citrus Marinated Carne Asada: 11.33
+  Rich Chocolate Tres Leches: 4.74
+  Chorizo Breakfast Tacos: 7.29

@@ -1,0 +1,37 @@
+id: business_0260
+name: Eggs & Emberalds
+description: Eggs & Emberalds puts a fresh spin on Mexican and Tex-Mex classics, serving
+  up vibrant flavors alongside creative brunch bites and savory specialties. Join
+  us for a zesty twist on tradition and a sweet finale to every meal.
+rating: 1.0
+progenitor_customer: customer_0087
+menu_features:
+  Roasted Poblano Rellenos: 14.99
+  Tomatillo Ranch Enchiladas: 13.28
+  Cinnamon Sugar Churro Sticks: 4.44
+  Zesty Shrimp Ceviche: 13.0
+  Ranchero Eggs Benedict: 13.18
+  Al Pastor Quesadilla: 11.55
+  Avocado Lime Salad: 11.17
+  Mexican Coffee Flan: 6.25
+  Coconut Lime Shrimp Skewers: 15.5
+  Classic Beef Barbacoa: 12.83
+  Black Bean Taco Bowl: 9.21
+  Sizzling Pork Carnitas Bowl: 10.6
+  Guava Limeade Cooler: 4.64
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Roasted Poblano Rellenos: 14.09
+  Tomatillo Ranch Enchiladas: 12.48
+  Cinnamon Sugar Churro Sticks: 4.17
+  Zesty Shrimp Ceviche: 12.22
+  Ranchero Eggs Benedict: 12.39
+  Al Pastor Quesadilla: 10.86
+  Avocado Lime Salad: 10.5
+  Mexican Coffee Flan: 5.88
+  Coconut Lime Shrimp Skewers: 14.57
+  Classic Beef Barbacoa: 12.06
+  Black Bean Taco Bowl: 8.66
+  Sizzling Pork Carnitas Bowl: 9.96
+  Guava Limeade Cooler: 4.36

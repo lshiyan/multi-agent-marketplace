@@ -1,0 +1,43 @@
+id: business_0441
+name: El Jardin de Sabores
+description: Step into a vibrant, welcoming space where Mexican and Tex-Mex classics
+  are reimagined with fresh flavors and creative flair. Enjoy a handcrafted selection
+  of savory dishes and sweet treats, perfect for any gathering or celebration.
+rating: 1.0
+progenitor_customer: customer_0147
+menu_features:
+  Crispy Avocado Tacos: 14.63
+  Stuffed Chicken Poblano: 13.81
+  Sizzling Chicken Fajitas: 12.42
+  Spiked Horchata Cooler: 7.65
+  Cocoa Cinnamon Tequila: 8.2
+  Pumpkin Spice Flan: 7.04
+  Tomatillo Salsa Verde Nachos: 8.45
+  Tomatillo Ranch Enchiladas: 12.5
+  Spicy Mango Margarita: 8.38
+  Creamy Queso Dip: 5.83
+  Spicy Pork Tamales: 14.36
+  Classic Flan Delight: 7.55
+  Zesty Shrimp Quesadillas: 16.01
+  Mango Jalapeno Salsa and Chips: 6.22
+  Rich Chocolate Tres Leches: 6.5
+  Zesty Shrimp Ceviche: 14.61
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Crispy Avocado Tacos: 12.87
+  Stuffed Chicken Poblano: 12.15
+  Sizzling Chicken Fajitas: 10.93
+  Spiked Horchata Cooler: 6.73
+  Cocoa Cinnamon Tequila: 7.22
+  Pumpkin Spice Flan: 6.2
+  Tomatillo Salsa Verde Nachos: 7.44
+  Tomatillo Ranch Enchiladas: 11.0
+  Spicy Mango Margarita: 7.37
+  Creamy Queso Dip: 5.13
+  Spicy Pork Tamales: 12.64
+  Classic Flan Delight: 6.64
+  Zesty Shrimp Quesadillas: 14.09
+  Mango Jalapeno Salsa and Chips: 5.47
+  Rich Chocolate Tres Leches: 5.72
+  Zesty Shrimp Ceviche: 12.86

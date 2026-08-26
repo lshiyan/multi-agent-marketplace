@@ -1,0 +1,42 @@
+id: business_0135
+name: Grill or No Grill
+description: "A playful Tex-Mex spot where smoky flavors, tangy citrus, and a touch\
+  \ of sweetness come together in creative, crave-worthy dishes. Gather with friends\
+  \ and discover a lineup of fun, flavorful bites designed to keep you guessing\u2014\
+  and coming back for more."
+rating: 1.0
+progenitor_customer: customer_0045
+menu_features:
+  Smoky Chipotle BBQ Ribs: 18.21
+  Spicy Black Bean and Cheese Quesadilla: 10.51
+  Crispy Avocado Fritters: 8.21
+  Coconut Tres Leches: 6.32
+  Honey-Lime Grilled Shrimp: 11.85
+  Rich Chocolate Tamales: 7.48
+  Sweet Potato and Black Bean Tacos: 11.66
+  Citrus Grilled Chicken Tacos: 14.95
+  Chocolate Mole Brownie: 7.68
+  Jalapeno Cheddar Cornbread: 4.47
+  Loaded Nacho Fiesta: 9.64
+  Sweet Plantain Empanadas: 7.47
+  Honey Lime Grilled Chicken: 13.84
+  Chipotle BBQ Tacos: 10.73
+  Shrimp Ceviche Cups: 12.02
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Smoky Chipotle BBQ Ribs: 13.48
+  Spicy Black Bean and Cheese Quesadilla: 7.78
+  Crispy Avocado Fritters: 6.08
+  Coconut Tres Leches: 4.68
+  Honey-Lime Grilled Shrimp: 8.77
+  Rich Chocolate Tamales: 5.54
+  Sweet Potato and Black Bean Tacos: 8.63
+  Citrus Grilled Chicken Tacos: 11.06
+  Chocolate Mole Brownie: 5.68
+  Jalapeno Cheddar Cornbread: 3.31
+  Loaded Nacho Fiesta: 7.13
+  Sweet Plantain Empanadas: 5.53
+  Honey Lime Grilled Chicken: 10.24
+  Chipotle BBQ Tacos: 7.94
+  Shrimp Ceviche Cups: 8.89

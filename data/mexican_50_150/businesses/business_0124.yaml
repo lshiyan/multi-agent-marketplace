@@ -1,0 +1,39 @@
+id: business_0124
+name: "Casa de Chorizo y Ma\xEDz"
+description: Step into a warm, inviting space where classic Mexican and Tex-Mex flavors
+  come alive with vibrant creations and spirited drinks. Enjoy a delicious mix of
+  street tacos, fresh tamales, sizzling specialties, and uniquely crafted desserts.
+rating: 1.0
+progenitor_customer: customer_0042
+menu_features:
+  Savory Chorizo Street Tacos: 13.38
+  Crispy Avocado Nachos: 6.61
+  Blueberry Tequila Sunrise: 11.5
+  Sweet Corn Tamales: 11.7
+  Sizzling Fajita Fiesta: 15.03
+  Raspberry Chipotle Barbecue Ribs: 16.93
+  Mexican Coffee Flan: 5.64
+  Roasted Poblano Soup: 7.74
+  Tequila Lime Shrimp Skewers: 14.72
+  Stuffed Poblano Peppers: 13.71
+  Grilled Shrimp Fajita Bowl: 14.86
+  Spiked Horchata Cooler: 8.31
+  Margarita Grilled Chicken: 12.97
+  Honey Lime Chicken Fajitas: 13.03
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Savory Chorizo Street Tacos: 8.16
+  Crispy Avocado Nachos: 4.03
+  Blueberry Tequila Sunrise: 7.01
+  Sweet Corn Tamales: 7.14
+  Sizzling Fajita Fiesta: 9.17
+  Raspberry Chipotle Barbecue Ribs: 10.33
+  Mexican Coffee Flan: 3.44
+  Roasted Poblano Soup: 4.72
+  Tequila Lime Shrimp Skewers: 8.98
+  Stuffed Poblano Peppers: 8.36
+  Grilled Shrimp Fajita Bowl: 9.06
+  Spiked Horchata Cooler: 5.07
+  Margarita Grilled Chicken: 7.91
+  Honey Lime Chicken Fajitas: 7.95

@@ -1,0 +1,44 @@
+id: business_0208
+name: Holy Paloma & Churro Bites
+description: Dive into a vibrant fusion of sweet and savory at Holy Paloma & Churro
+  Bites, where bold flavors, fresh ingredients, and playful twists on Mexican and
+  Tex-Mex classics take center stage. Enjoy refreshing drinks, craveable bites, and
+  an atmosphere as colorful as the cuisine.
+rating: 1.0
+progenitor_customer: customer_0070
+menu_features:
+  Cocoa Dusted Churro Bites: 6.4
+  Passionfruit Paloma: 5.61
+  Grilled Pineapple Salmon: 20.7
+  Roasted Tomato Salsa Dip: 3.69
+  Avocado Lime Quinoa Bowl: 11.85
+  Creamy Avocado Smoothie: 5.69
+  Loaded Nacho Supreme: 10.14
+  Smoky Chipotle Steak Fajitas: 17.43
+  Loaded Nacho Platter: 11.06
+  Refreshing Agua Fresca Trio: 8.05
+  Passion Fruit Agua Fresca: 3.81
+  Mexican Chocolate Flan: 7.18
+  Mexican Chocolate Brownie: 6.62
+  Spiked Horchata Cooler: 9.23
+  Verde Chicken Enchiladas: 11.45
+  Loaded Sweet Potato Fries: 7.29
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Cocoa Dusted Churro Bites: 5.7
+  Passionfruit Paloma: 4.99
+  Grilled Pineapple Salmon: 18.42
+  Roasted Tomato Salsa Dip: 3.28
+  Avocado Lime Quinoa Bowl: 10.55
+  Creamy Avocado Smoothie: 5.06
+  Loaded Nacho Supreme: 9.02
+  Smoky Chipotle Steak Fajitas: 15.51
+  Loaded Nacho Platter: 9.84
+  Refreshing Agua Fresca Trio: 7.16
+  Passion Fruit Agua Fresca: 3.39
+  Mexican Chocolate Flan: 6.39
+  Mexican Chocolate Brownie: 5.89
+  Spiked Horchata Cooler: 8.21
+  Verde Chicken Enchiladas: 10.19
+  Loaded Sweet Potato Fries: 6.49

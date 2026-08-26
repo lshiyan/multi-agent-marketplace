@@ -1,0 +1,35 @@
+id: business_0331
+name: Sizzle & Sip
+description: A vibrant Tex-Mex eatery where smoky flavors meet refreshing drinks in
+  a lively setting. Enjoy bold, modern takes on classic favorites from breakfast to
+  dinner.
+rating: 1.0
+progenitor_customer: customer_0111
+menu_features:
+  Smoky Chipotle Quesadillas: 8.12
+  Classic Horchata Smoothie: 4.16
+  Honey Lime Fajita Sizzlers: 18.48
+  Ancho Chili Braised Beef Enchiladas: 14.75
+  Tamale Pie Casserole: 13.98
+  Roasted Poblano Veggie Skillet: 9.87
+  Huevos Rancheros: 9.88
+  Housemade Horchata: 3.66
+  Tequila Lime Shrimp Skewers: 15.38
+  Black Bean and Lime Soup: 7.76
+  Raspberry Jalapeno Mojito: 8.18
+  Classic Beef Barbacoa: 13.09
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Smoky Chipotle Quesadillas: 5.85
+  Classic Horchata Smoothie: 3.0
+  Honey Lime Fajita Sizzlers: 13.31
+  Ancho Chili Braised Beef Enchiladas: 10.62
+  Tamale Pie Casserole: 10.07
+  Roasted Poblano Veggie Skillet: 7.11
+  Huevos Rancheros: 7.11
+  Housemade Horchata: 2.64
+  Tequila Lime Shrimp Skewers: 11.07
+  Black Bean and Lime Soup: 5.59
+  Raspberry Jalapeno Mojito: 5.89
+  Classic Beef Barbacoa: 9.42

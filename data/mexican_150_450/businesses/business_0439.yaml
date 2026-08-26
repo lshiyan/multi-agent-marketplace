@@ -1,0 +1,40 @@
+id: business_0439
+name: Azul & Avocado Cantina
+description: Experience vibrant Mexican and Tex-Mex flavors at Azul & Avocado Cantina,
+  where fresh ingredients and classic recipes meet a lively, modern atmosphere. Sip
+  bold cocktails and savor creative dishes inspired by the heart of Mexico and the
+  sunny spirit of the Southwest.
+rating: 1.0
+progenitor_customer: customer_0147
+menu_features:
+  Creamy Avocado Caesar Salad: 10.25
+  Beef Enchiladas Verdes: 14.62
+  Fresh Lime and Cilantro Guacamole: 9.52
+  Crispy Fish Baja Bowl: 12.68
+  Frozen Strawberry Daiquiri: 7.82
+  Ancho Chile Chicken Salad: 9.5
+  "Blueberry Jalape\xF1o Margarita": 13.35
+  Zesty Lime Grilled Shrimp: 14.91
+  Tomatillo Salsa Verde Nachos: 8.73
+  Tamale Pie Casserole: 15.84
+  Spiked Horchata Cooler: 6.33
+  Spicy Shrimp Fajitas: 12.65
+  Fresh Limeade: 4.04
+  Cocoa Cinnamon Tequila: 9.96
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Creamy Avocado Caesar Salad: 7.38
+  Beef Enchiladas Verdes: 10.53
+  Fresh Lime and Cilantro Guacamole: 6.85
+  Crispy Fish Baja Bowl: 9.13
+  Frozen Strawberry Daiquiri: 5.63
+  Ancho Chile Chicken Salad: 6.84
+  "Blueberry Jalape\xF1o Margarita": 9.61
+  Zesty Lime Grilled Shrimp: 10.74
+  Tomatillo Salsa Verde Nachos: 6.29
+  Tamale Pie Casserole: 11.4
+  Spiked Horchata Cooler: 4.56
+  Spicy Shrimp Fajitas: 9.11
+  Fresh Limeade: 2.91
+  Cocoa Cinnamon Tequila: 7.17

@@ -1,0 +1,9 @@
+id: customer_0115
+name: Ethan Wilson
+request: 'Please find a business that offers the following menu items: 1 Sweet Chili
+  Lime Elote and 1 Spicy Black Bean Nachos. It''s important that both items are available
+  as I intend to place an order for exactly these quantities. Thank you!'
+menu_features:
+  Sweet Chili Lime Elote: 4.99
+  Spicy Black Bean Nachos: 9.49
+amenity_features: []

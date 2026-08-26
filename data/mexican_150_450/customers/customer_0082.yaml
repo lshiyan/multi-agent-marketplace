@@ -1,0 +1,10 @@
+id: customer_0082
+name: Liam Wilson
+request: Could you please find a business that offers both 'Honey Lime Grilled Corn'
+  and 'Caramelized Onion and Chorizo Quesadilla'? I would like to place an order for
+  1 of each. Thank you for your assistance in locating a suitable place for these
+  menu items.
+menu_features:
+  Honey Lime Grilled Corn: 4.99
+  Caramelized Onion and Chorizo Quesadilla: 9.49
+amenity_features: []

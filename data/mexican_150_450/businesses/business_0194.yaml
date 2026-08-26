@@ -1,0 +1,42 @@
+id: business_0194
+name: Chili & Chorizo
+description: Discover bold, vibrant flavors at Chili & Chorizo, where modern Mexican
+  and Tex-Mex classics are brought to life with fresh ingredients and inventive touches.
+  From savory stews to zesty salads and irresistible desserts, every dish delivers
+  a taste of fiesta.
+rating: 1.0
+progenitor_customer: customer_0065
+menu_features:
+  Classic Flan Delight: 6.38
+  Mexican Street Corn Salad: 7.69
+  Refreshing Agua Fresca Trio: 7.81
+  Pineapple Chipotle Pork: 13.93
+  Passionfruit Paloma: 8.33
+  Spicy Shrimp Ceviche: 11.33
+  Green Chile Pork Stew: 12.69
+  Spicy Beef Chimichangas: 11.66
+  Smoky Black Bean Enchiladas: 11.71
+  Hatch Green Chile Stew: 11.49
+  Smoky Chipotle Queso: 7.71
+  Molten Queso Fundido: 8.23
+  Loaded Chorizo Nachos: 9.98
+  Black Bean and Corn Salsa: 4.61
+  Loaded Nacho Skillet: 10.36
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Classic Flan Delight: 4.79
+  Mexican Street Corn Salad: 5.77
+  Refreshing Agua Fresca Trio: 5.86
+  Pineapple Chipotle Pork: 10.45
+  Passionfruit Paloma: 6.25
+  Spicy Shrimp Ceviche: 8.5
+  Green Chile Pork Stew: 9.52
+  Spicy Beef Chimichangas: 8.75
+  Smoky Black Bean Enchiladas: 8.78
+  Hatch Green Chile Stew: 8.62
+  Smoky Chipotle Queso: 5.78
+  Molten Queso Fundido: 6.17
+  Loaded Chorizo Nachos: 7.49
+  Black Bean and Corn Salsa: 3.46
+  Loaded Nacho Skillet: 7.77

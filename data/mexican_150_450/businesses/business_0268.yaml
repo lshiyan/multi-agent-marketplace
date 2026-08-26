@@ -1,0 +1,43 @@
+id: business_0268
+name: Viva Verde Eatery
+description: Experience vibrant Mexican and Tex-Mex flavors with a modern twist, featuring
+  bold salsas, zesty tacos, and crave-worthy desserts in a lively, welcoming atmosphere.
+  Enjoy inventive eats crafted with fresh ingredients and a creative flair.
+rating: 1.0
+progenitor_customer: customer_0090
+menu_features:
+  Pineapple Jalapeno Salsa: 4.91
+  Grilled Chipotle Chicken Burrito: 10.69
+  Chili-Lime Cauliflower Bites: 12.44
+  Bacon Wrapped Jalapeno Bites: 7.98
+  Toasted Coconut Flan: 6.22
+  Fresh Corn Elote: 4.79
+  Peppered Steak Nachos: 12.61
+  Crispy Avocado Tacos: 13.39
+  Rich Chocolate Tamales: 7.13
+  Chocolate Cinnamon Flan: 6.0
+  Grilled Pineapple Salmon: 18.95
+  Black Bean and Corn Salsa: 6.25
+  Zesty Lime Chicken Tacos: 9.91
+  Honey Chipotle Wings: 9.78
+  Bacon and Egg Tostada: 9.34
+  Loaded Sweet Potato Fries: 6.85
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Pineapple Jalapeno Salsa: 3.54
+  Grilled Chipotle Chicken Burrito: 7.7
+  Chili-Lime Cauliflower Bites: 8.96
+  Bacon Wrapped Jalapeno Bites: 5.75
+  Toasted Coconut Flan: 4.48
+  Fresh Corn Elote: 3.45
+  Peppered Steak Nachos: 9.08
+  Crispy Avocado Tacos: 9.64
+  Rich Chocolate Tamales: 5.13
+  Chocolate Cinnamon Flan: 4.32
+  Grilled Pineapple Salmon: 13.64
+  Black Bean and Corn Salsa: 4.5
+  Zesty Lime Chicken Tacos: 7.14
+  Honey Chipotle Wings: 7.04
+  Bacon and Egg Tostada: 6.72
+  Loaded Sweet Potato Fries: 4.93

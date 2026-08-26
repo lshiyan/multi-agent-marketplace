@@ -1,0 +1,37 @@
+id: business_0046
+name: Pico Palate
+description: Savor a vibrant blend of modern Mexican and Tex-Mex classics, where zesty
+  flavors and fresh ingredients come together in every dish. Enjoy bold bites, refreshing
+  drinks, and a welcoming atmosphere perfect for gathering with friends and family.
+rating: 1.0
+progenitor_customer: customer_0016
+menu_features:
+  Citrus Marinated Carne Asada: 12.77
+  Tequila Lime Flan: 10.0
+  "Spicy Jalape\xF1o Limeade": 3.79
+  Savory Carne Asada Burrito: 11.5
+  Loaded Chorizo Nachos: 8.01
+  Fajita Veggie Burrito Bowl: 11.2
+  Grilled Pineapple and Pork Tacos: 13.55
+  Black Bean Avocado Enchiladas: 11.52
+  Crispy Carnitas Quesadilla: 9.73
+  Chili Lime Jicama Sticks: 4.74
+  Zesty Lime Shrimp Tostadas: 11.07
+  Pineapple Pico de Gallo Salsa: 7.6
+  Avocado Ranch Burrito Bowl: 14.94
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Citrus Marinated Carne Asada: 8.94
+  Tequila Lime Flan: 7.0
+  "Spicy Jalape\xF1o Limeade": 2.65
+  Savory Carne Asada Burrito: 8.05
+  Loaded Chorizo Nachos: 5.61
+  Fajita Veggie Burrito Bowl: 7.84
+  Grilled Pineapple and Pork Tacos: 9.48
+  Black Bean Avocado Enchiladas: 8.06
+  Crispy Carnitas Quesadilla: 6.81
+  Chili Lime Jicama Sticks: 3.32
+  Zesty Lime Shrimp Tostadas: 7.75
+  Pineapple Pico de Gallo Salsa: 5.32
+  Avocado Ranch Burrito Bowl: 10.46

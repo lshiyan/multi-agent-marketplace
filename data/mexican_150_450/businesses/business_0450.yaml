@@ -1,0 +1,35 @@
+id: business_0450
+name: Sabrosa Lime Cantina
+description: Experience vibrant Mexican and Tex-Mex flavors at Sabrosa Lime Cantina,
+  where fresh citrus and bold spices bring each dish to life. Enjoy lively drinks
+  and a welcoming atmosphere, perfect for any gathering.
+rating: 1.0
+progenitor_customer: customer_0150
+menu_features:
+  Fresh Limeade: 3.6
+  Spicy Shrimp Nacho Platter: 11.04
+  Garlic Lime Shrimp Salad: 13.4
+  Citrus Grilled Chicken Tacos: 12.64
+  Spicy Black Bean Nacho Platter: 11.57
+  Black Bean & Cheese Enchiladas: 12.18
+  Al Pastor Quesadilla: 11.51
+  Sweet Plantain Empanadas: 7.96
+  Spicy Mango Margarita: 11.2
+  Chipotle Lime Chicken Skewers: 11.61
+  Black Bean & Corn Queso Dip: 6.62
+  Strawberry Jalapeno Lemonade: 4.33
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Fresh Limeade: 3.06
+  Spicy Shrimp Nacho Platter: 9.38
+  Garlic Lime Shrimp Salad: 11.39
+  Citrus Grilled Chicken Tacos: 10.74
+  Spicy Black Bean Nacho Platter: 9.83
+  Black Bean & Cheese Enchiladas: 10.35
+  Al Pastor Quesadilla: 9.78
+  Sweet Plantain Empanadas: 6.77
+  Spicy Mango Margarita: 9.52
+  Chipotle Lime Chicken Skewers: 9.87
+  Black Bean & Corn Queso Dip: 5.63
+  Strawberry Jalapeno Lemonade: 3.68

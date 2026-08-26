@@ -1,0 +1,39 @@
+id: business_0442
+name: Sabores y Sizzle Cantina
+description: Experience the vibrant spirit of Mexico with a blend of classic and contemporary
+  dishes, fresh flavors, and unforgettable desserts. Perfect for celebrations or relaxed
+  gatherings, every meal sizzles with taste and tradition.
+rating: 1.0
+progenitor_customer: customer_0148
+menu_features:
+  Sizzling Fajita Platter: 15.18
+  Vanilla Almond Horchata: 4.18
+  Blueberry Agave Margarita: 7.32
+  Coconut Tres Leches: 6.32
+  Three-Cheese Enchilada Stack: 12.74
+  Vanilla Flan with Caramel Sauce: 5.86
+  Stuffed Poblano Peppers: 11.98
+  Black Bean Stuffed Sweet Potatoes: 9.31
+  Honey Lime Fajita Sizzlers: 15.81
+  Huevos Rancheros: 11.34
+  Adobo Pork Sliders: 10.85
+  Mole Chicken Quesadilla: 11.17
+  Chili Lime Skirt Steak: 20.83
+  Citrus Grilled Chicken Tacos: 11.58
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Sizzling Fajita Platter: 14.27
+  Vanilla Almond Horchata: 3.93
+  Blueberry Agave Margarita: 6.88
+  Coconut Tres Leches: 5.94
+  Three-Cheese Enchilada Stack: 11.98
+  Vanilla Flan with Caramel Sauce: 5.51
+  Stuffed Poblano Peppers: 11.26
+  Black Bean Stuffed Sweet Potatoes: 8.75
+  Honey Lime Fajita Sizzlers: 14.86
+  Huevos Rancheros: 10.66
+  Adobo Pork Sliders: 10.2
+  Mole Chicken Quesadilla: 10.5
+  Chili Lime Skirt Steak: 19.58
+  Citrus Grilled Chicken Tacos: 10.89

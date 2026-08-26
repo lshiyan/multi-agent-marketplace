@@ -1,0 +1,45 @@
+id: business_0383
+name: Skillet & Shrimp
+description: A lively spot serving bold Mexican and Tex-Mex fare, from sizzling skillets
+  to zesty seafood delights. Refreshing drinks and sweet treats round out a flavorful,
+  festive experience.
+rating: 1.0
+progenitor_customer: customer_0128
+menu_features:
+  Flamin' Skillet Fajitas: 17.96
+  Mexican Chocolate Lava Cake: 9.04
+  Chipotle Lime Shrimp Skewers: 13.54
+  Smoky Chipotle Queso: 6.55
+  Fresh Limeade: 3.76
+  Sea Breeze Ceviche: 12.36
+  Street Corn Elote: 4.81
+  Bacon and Egg Tostada: 6.76
+  Spicy Chicken Chimichanga: 12.45
+  Horchata Cold Brew Coffee: 4.6
+  Pineapple Agua Fresca: 3.76
+  Pineapple Chipotle Salsa & Chips: 5.65
+  Tamarind Spiced Agua Fresca: 4.31
+  Sweet Plantain Empanadas: 7.13
+  Creamy Chipotle Pasta: 11.36
+  Fajita Veggie Burrito Bowl: 14.3
+  Mango Habanero Wings: 12.73
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Flamin' Skillet Fajitas: 15.27
+  Mexican Chocolate Lava Cake: 7.68
+  Chipotle Lime Shrimp Skewers: 11.51
+  Smoky Chipotle Queso: 5.57
+  Fresh Limeade: 3.2
+  Sea Breeze Ceviche: 10.51
+  Street Corn Elote: 4.09
+  Bacon and Egg Tostada: 5.75
+  Spicy Chicken Chimichanga: 10.58
+  Horchata Cold Brew Coffee: 3.91
+  Pineapple Agua Fresca: 3.2
+  Pineapple Chipotle Salsa & Chips: 4.8
+  Tamarind Spiced Agua Fresca: 3.66
+  Sweet Plantain Empanadas: 6.06
+  Creamy Chipotle Pasta: 9.66
+  Fajita Veggie Burrito Bowl: 12.16
+  Mango Habanero Wings: 10.82

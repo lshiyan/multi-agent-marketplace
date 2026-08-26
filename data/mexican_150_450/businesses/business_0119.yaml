@@ -1,0 +1,41 @@
+id: business_0119
+name: Lime & Ember Eatery
+description: Discover bold, fresh Mexican and Tex-Mex flavors in a modern, vibrant
+  setting. From zesty salsas to smoky grilled specialties, Lime & Ember Eatery transforms
+  classic favorites into memorable experiences.
+rating: 1.0
+progenitor_customer: customer_0040
+menu_features:
+  Avocado Lime Salsa: 4.83
+  Verde Ranchero Huevos: 9.75
+  Crispy Fish Baja Bowl: 13.43
+  Chili Con Queso Supreme: 7.76
+  Crisp Jicama Slaw: 5.03
+  Loaded Nacho Fiesta: 10.44
+  Smoky Lime Quinoa Salad: 9.21
+  Sunset Grilled Veggie Tacos: 9.57
+  Chipotle Bourbon Carnitas: 16.41
+  Ancho Honey-Glazed Salmon: 21.99
+  Sunrise Breakfast Tacos: 11.97
+  Grilled Chipotle Chicken Burrito: 11.9
+  Pineapple Agua Fresca: 4.25
+  Coconut Lime Shrimp Skewers: 13.75
+  Zesty Shrimp Quesadillas: 15.53
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Avocado Lime Salsa: 4.01
+  Verde Ranchero Huevos: 8.09
+  Crispy Fish Baja Bowl: 11.15
+  Chili Con Queso Supreme: 6.44
+  Crisp Jicama Slaw: 4.17
+  Loaded Nacho Fiesta: 8.67
+  Smoky Lime Quinoa Salad: 7.64
+  Sunset Grilled Veggie Tacos: 7.94
+  Chipotle Bourbon Carnitas: 13.62
+  Ancho Honey-Glazed Salmon: 18.25
+  Sunrise Breakfast Tacos: 9.94
+  Grilled Chipotle Chicken Burrito: 9.88
+  Pineapple Agua Fresca: 3.53
+  Coconut Lime Shrimp Skewers: 11.41
+  Zesty Shrimp Quesadillas: 12.89

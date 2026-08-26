@@ -1,0 +1,8 @@
+id: customer_0009
+name: Ava Lopez
+request: Could you please find a business that offers 'Sweet and Spicy Chicken Tostadas'
+  and place an order for 1 of them? This is important to me, and I am ready to make
+  the purchase once such a business is located. Thank you.
+menu_features:
+  Sweet and Spicy Chicken Tostadas: 10.99
+amenity_features: []

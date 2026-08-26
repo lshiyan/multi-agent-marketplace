@@ -1,0 +1,37 @@
+id: business_0118
+name: Corny & the Chipotle Factory
+description: A playful take on Mexican and Tex-Mex classics, blending smoky chipotle
+  flavors with sweet and unexpected twists. Come enjoy inventive bites, refreshing
+  drinks, and a fiesta of fresh flavors in every dish.
+rating: 1.0
+progenitor_customer: customer_0040
+menu_features:
+  Savory Chorizo Street Tacos: 10.25
+  Blueberry Agave Agua Fresca: 4.9
+  Honey Lime Grilled Corn: 5.53
+  Cactus Cooler Margarita: 7.43
+  Tamale Trio Platter: 16.46
+  Honey Chipotle Shrimp Bowl: 16.61
+  Ancho Chili Spiced Ribs: 17.93
+  Strawberry Jalapeno Lemonade: 3.42
+  Chorizo Breakfast Tacos: 9.24
+  Tamarind Spiced Agua Fresca: 3.85
+  Crispy Fish Baja Bowl: 15.13
+  Crispy Avocado Tostadas: 10.49
+  Chipotle Chicken Burrito Bowl: 12.39
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Savory Chorizo Street Tacos: 6.87
+  Blueberry Agave Agua Fresca: 3.28
+  Honey Lime Grilled Corn: 3.71
+  Cactus Cooler Margarita: 4.98
+  Tamale Trio Platter: 11.03
+  Honey Chipotle Shrimp Bowl: 11.13
+  Ancho Chili Spiced Ribs: 12.01
+  Strawberry Jalapeno Lemonade: 2.29
+  Chorizo Breakfast Tacos: 6.19
+  Tamarind Spiced Agua Fresca: 2.58
+  Crispy Fish Baja Bowl: 10.14
+  Crispy Avocado Tostadas: 7.03
+  Chipotle Chicken Burrito Bowl: 8.3

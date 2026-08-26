@@ -1,0 +1,39 @@
+id: business_0210
+name: Salsa & Sunrise
+description: Start your day and savor the night with vibrant Tex-Mex flavors in a
+  bright and welcoming atmosphere. From zesty salsas to signature breakfast creations
+  and sizzling specialties, every bite promises a taste of sunshine.
+rating: 1.0
+progenitor_customer: customer_0070
+menu_features:
+  Warm Churro Bites: 6.49
+  Sweet Corn Tamales: 12.89
+  Breakfast Burrito Bowl: 8.15
+  Sunrise Breakfast Tacos: 11.5
+  Loaded Nacho Supreme: 11.24
+  Spiked Horchata Cooler: 8.98
+  Avocado Lime Salsa: 5.01
+  Spicy Shrimp Fajitas: 14.48
+  Citrus Cilantro Rice: 4.73
+  Smoky Chipotle Steak Fajitas: 17.03
+  Tangy Tomato Salsa Soup: 9.88
+  Lime-Garlic Grilled Chicken: 14.49
+  Loaded Nacho Fries: 10.28
+  Grilled Pineapple Salmon: 19.55
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Warm Churro Bites: 3.96
+  Sweet Corn Tamales: 7.86
+  Breakfast Burrito Bowl: 4.97
+  Sunrise Breakfast Tacos: 7.01
+  Loaded Nacho Supreme: 6.86
+  Spiked Horchata Cooler: 5.48
+  Avocado Lime Salsa: 3.06
+  Spicy Shrimp Fajitas: 8.83
+  Citrus Cilantro Rice: 2.89
+  Smoky Chipotle Steak Fajitas: 10.39
+  Tangy Tomato Salsa Soup: 6.03
+  Lime-Garlic Grilled Chicken: 8.84
+  Loaded Nacho Fries: 6.27
+  Grilled Pineapple Salmon: 11.93

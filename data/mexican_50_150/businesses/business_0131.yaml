@@ -1,0 +1,41 @@
+id: business_0131
+name: "Casa C\xEDtricos y Caf\xE9"
+description: Enjoy vibrant Mexican and Tex-Mex flavors in a warm, welcoming setting.
+  From hearty classics to bright, refreshing bites and creative desserts, savor a
+  delicious fusion of tradition and modern twists.
+rating: 1.0
+progenitor_customer: customer_0044
+menu_features:
+  Beef Enchiladas Verdes: 9.74
+  Rich Chocolate Tres Leches: 8.16
+  Sunrise Breakfast Tacos: 9.5
+  Sizzling Pork Carnitas Bowl: 10.58
+  Chipotle Chicken Burrito Bowl: 13.51
+  Margarita Lime Cheesecake: 7.65
+  Avocado Lime Salsa: 6.06
+  Horchata Latte: 4.68
+  Mango Jalapeno Salsa and Chips: 6.08
+  Tequila Lime Shrimp Skewers: 14.35
+  Cilantro Lime Shrimp Skewers: 10.49
+  Chipotle Lime Shrimp Skewers: 8.62
+  Horchata Cold Brew Coffee: 5.44
+  Spicy Chipotle Chicken Wings: 9.34
+  Breakfast Burrito Bonanza: 7.49
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Beef Enchiladas Verdes: 8.57
+  Rich Chocolate Tres Leches: 7.18
+  Sunrise Breakfast Tacos: 8.36
+  Sizzling Pork Carnitas Bowl: 9.31
+  Chipotle Chicken Burrito Bowl: 11.89
+  Margarita Lime Cheesecake: 6.73
+  Avocado Lime Salsa: 5.33
+  Horchata Latte: 4.12
+  Mango Jalapeno Salsa and Chips: 5.35
+  Tequila Lime Shrimp Skewers: 12.63
+  Cilantro Lime Shrimp Skewers: 9.23
+  Chipotle Lime Shrimp Skewers: 7.59
+  Horchata Cold Brew Coffee: 4.79
+  Spicy Chipotle Chicken Wings: 8.22
+  Breakfast Burrito Bonanza: 6.59

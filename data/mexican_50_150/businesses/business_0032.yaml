@@ -1,0 +1,37 @@
+id: business_0032
+name: Fiesta Fork
+description: Savor a vibrant fusion of flavors at Fiesta Fork, where fresh ingredients,
+  smoky grills, and bold Tex-Mex traditions take center stage. Join us for creative
+  plates and contemporary classics served with a side of warmth and flair.
+rating: 1.0
+progenitor_customer: customer_0011
+menu_features:
+  Mesquite Grilled Steak Fajitas: 13.23
+  Caramel Corn Flan: 6.76
+  Lime-Cilantro Quinoa Salad: 9.39
+  Grilled Pineapple and Pork Tacos: 15.45
+  Breakfast Burrito Supreme: 10.72
+  Smoky Chipotle Steak Fajitas: 14.8
+  Ancho Honey-Glazed Salmon: 15.56
+  Veggie Fajita Platter: 14.47
+  Caramelized Onion and Chorizo Quesadilla: 9.6
+  Spicy Avocado Smash Burger: 10.64
+  Crispy Avocado Tacos: 9.75
+  Pico Avocado Toast: 8.92
+  Honey-Lime Grilled Salmon: 13.76
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Mesquite Grilled Steak Fajitas: 10.72
+  Caramel Corn Flan: 5.48
+  Lime-Cilantro Quinoa Salad: 7.61
+  Grilled Pineapple and Pork Tacos: 12.51
+  Breakfast Burrito Supreme: 8.68
+  Smoky Chipotle Steak Fajitas: 11.99
+  Ancho Honey-Glazed Salmon: 12.6
+  Veggie Fajita Platter: 11.72
+  Caramelized Onion and Chorizo Quesadilla: 7.78
+  Spicy Avocado Smash Burger: 8.62
+  Crispy Avocado Tacos: 7.9
+  Pico Avocado Toast: 7.23
+  Honey-Lime Grilled Salmon: 11.15

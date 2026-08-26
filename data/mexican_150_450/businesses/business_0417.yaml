@@ -1,0 +1,39 @@
+id: business_0417
+name: "Molten & Ma\xEDz"
+description: "Experience a fresh take on Mexican and Tex-Mex favorites, blending bold\
+  \ flavors, seasonal twists, and crave-worthy sweets. Whether you\u2019re here to\
+  \ dip, sip, or savor something sweet, every visit brings a new reason to celebrate."
+rating: 1.0
+progenitor_customer: customer_0139
+menu_features:
+  Creamy Queso Dip: 7.06
+  Tequila Lime Grilled Chicken: 11.51
+  Pumpkin Spice Flan: 6.44
+  Roasted Poblano Corn Chowder: 8.43
+  Peppered Steak Nachos: 11.62
+  Chocolate Molten Tamale: 8.42
+  Horchata Iced Coffee: 3.59
+  Fiesta Street Corn: 3.78
+  Loaded Nacho Skillet: 11.15
+  Chili Lime Jicama Sticks: 6.38
+  Roasted Tomato Salsa Dip: 3.69
+  Chocolate Tamale Cake: 6.98
+  Caramel Apple Empanadas: 5.77
+  Grilled Pineapple and Pork Tacos: 11.83
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Creamy Queso Dip: 5.79
+  Tequila Lime Grilled Chicken: 9.44
+  Pumpkin Spice Flan: 5.28
+  Roasted Poblano Corn Chowder: 6.91
+  Peppered Steak Nachos: 9.53
+  Chocolate Molten Tamale: 6.9
+  Horchata Iced Coffee: 2.94
+  Fiesta Street Corn: 3.1
+  Loaded Nacho Skillet: 9.14
+  Chili Lime Jicama Sticks: 5.23
+  Roasted Tomato Salsa Dip: 3.03
+  Chocolate Tamale Cake: 5.72
+  Caramel Apple Empanadas: 4.73
+  Grilled Pineapple and Pork Tacos: 9.7

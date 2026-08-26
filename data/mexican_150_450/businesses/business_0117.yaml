@@ -1,0 +1,46 @@
+id: business_0117
+name: Masa & Mingle
+description: Discover bold textures and vibrant flavors at Masa & Mingle, where Mexican
+  and Tex-Mex classics meet fresh, modern twists. Gather with friends and enjoy a
+  creative lineup of handcrafted bites, zesty drinks, and irresistible sweets in a
+  lively, contemporary setting.
+rating: 1.0
+progenitor_customer: customer_0039
+menu_features:
+  Black Bean and Cilantro Rice: 5.06
+  Avocado Lime Dip: 8.5
+  Horchata Cold Brew Coffee: 4.56
+  Chipotle Bean Burrito: 9.0
+  Rich Chocolate Tamales: 7.74
+  Black Bean Street Tacos: 9.9
+  Creamy Avocado Smoothie: 5.55
+  Spicy Mango Margarita: 7.81
+  Carne Asada Fajitas: 13.76
+  Chocolate Sopapilla Bites: 3.96
+  Sweet Corn Tamales: 12.49
+  Guava Limeade Cooler: 4.77
+  Mexican Street Corn Dip: 8.89
+  Sweet Plantain Empanadas: 7.64
+  Mushroom & Cheese Tamales: 9.43
+  Mango Habanero Margarita: 12.15
+  Smoky Black Bean Enchiladas: 14.52
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Black Bean and Cilantro Rice: 4.15
+  Avocado Lime Dip: 6.97
+  Horchata Cold Brew Coffee: 3.74
+  Chipotle Bean Burrito: 7.38
+  Rich Chocolate Tamales: 6.35
+  Black Bean Street Tacos: 8.12
+  Creamy Avocado Smoothie: 4.55
+  Spicy Mango Margarita: 6.4
+  Carne Asada Fajitas: 11.28
+  Chocolate Sopapilla Bites: 3.25
+  Sweet Corn Tamales: 10.24
+  Guava Limeade Cooler: 3.91
+  Mexican Street Corn Dip: 7.29
+  Sweet Plantain Empanadas: 6.26
+  Mushroom & Cheese Tamales: 7.73
+  Mango Habanero Margarita: 9.96
+  Smoky Black Bean Enchiladas: 11.91

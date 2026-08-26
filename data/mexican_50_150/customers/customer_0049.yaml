@@ -1,0 +1,11 @@
+id: customer_0049
+name: Alexander Park
+request: 'Could you please assist me in finding a business where I can place an order
+  for the following items: 1 Breakfast Chorizo Torta, 1 Crispy Avocado Bites, and
+  1 Coconut Lime Margarita? It is important that the business offers all of these
+  items as I intend to purchase them. Thank you.'
+menu_features:
+  Breakfast Chorizo Torta: 8.99
+  Crispy Avocado Bites: 8.49
+  Coconut Lime Margarita: 8.99
+amenity_features: []

@@ -1,0 +1,36 @@
+id: business_0447
+name: Urban Flare Cantina
+description: A modern haven for bold Mexican and Tex-Mex flavors, Urban Flare Cantina
+  serves up vibrant bites and refreshing drinks in a lively, welcoming atmosphere.
+  Indulge in comforting classics, creative salsas, and decadent desserts with a contemporary
+  twist.
+rating: 1.0
+progenitor_customer: customer_0149
+menu_features:
+  Classic Flan Delight: 6.42
+  "Spicy Jalape\xF1o Limeade": 2.86
+  Grilled Chipotle Chicken Burrito: 7.63
+  Classic Horchata Smoothie: 5.14
+  Tangy Tomato Salsa Soup: 8.62
+  Horchata Iced Coffee: 4.93
+  Creamy Jalapeno Corn Fritters: 7.82
+  Mango Habanero Salsa: 4.41
+  "Cheesy Jalape\xF1o Poppers": 7.6
+  Margarita Lime Cheesecake: 6.54
+  Crispy Avocado Tacos: 10.59
+  Loaded Nacho Fiesta: 10.47
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Classic Flan Delight: 4.43
+  "Spicy Jalape\xF1o Limeade": 1.97
+  Grilled Chipotle Chicken Burrito: 5.26
+  Classic Horchata Smoothie: 3.55
+  Tangy Tomato Salsa Soup: 5.95
+  Horchata Iced Coffee: 3.4
+  Creamy Jalapeno Corn Fritters: 5.4
+  Mango Habanero Salsa: 3.04
+  "Cheesy Jalape\xF1o Poppers": 5.24
+  Margarita Lime Cheesecake: 4.51
+  Crispy Avocado Tacos: 7.31
+  Loaded Nacho Fiesta: 7.22

@@ -1,0 +1,41 @@
+id: business_0228
+name: "Modern Ma\xEDz Kitchen"
+description: "Modern Ma\xEDz Kitchen serves up vibrant Mexican and Tex-Mex favorites\
+  \ in a warm, colorful setting. Fresh flavors and creative twists make every visit\
+  \ an adventure in deliciousness."
+rating: 1.0
+progenitor_customer: customer_0076
+menu_features:
+  Mexican Chocolate Lava Cake: 7.99
+  Baja Fish Taco Plate: 13.3
+  Fajita Veggie Burrito Bowl: 16.5
+  Black Bean & Corn Enchiladas: 13.1
+  Roasted Corn and Avocado Salad: 6.92
+  Bacon Wrapped Jalapeno Bites: 6.65
+  Strawberry Jalapeno Lemonade: 3.89
+  Tropical Coconut Margarita: 9.3
+  Roasted Poblano Soup: 6.79
+  Sizzling Fajita Plate: 18.35
+  Crispy Fish Baja Bowl: 13.63
+  Poblano Pepper Queso Dip: 5.59
+  Salted Caramel Margarita: 10.95
+  Pineapple Salsa Pork Tacos: 10.15
+  Black Bean Stuffed Sweet Potatoes: 9.6
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Mexican Chocolate Lava Cake: 5.59
+  Baja Fish Taco Plate: 9.31
+  Fajita Veggie Burrito Bowl: 11.55
+  Black Bean & Corn Enchiladas: 9.17
+  Roasted Corn and Avocado Salad: 4.84
+  Bacon Wrapped Jalapeno Bites: 4.66
+  Strawberry Jalapeno Lemonade: 2.72
+  Tropical Coconut Margarita: 6.51
+  Roasted Poblano Soup: 4.75
+  Sizzling Fajita Plate: 12.85
+  Crispy Fish Baja Bowl: 9.54
+  Poblano Pepper Queso Dip: 3.91
+  Salted Caramel Margarita: 7.66
+  Pineapple Salsa Pork Tacos: 7.1
+  Black Bean Stuffed Sweet Potatoes: 6.72

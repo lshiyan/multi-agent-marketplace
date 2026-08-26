@@ -1,0 +1,37 @@
+id: business_0244
+name: Casa Verde Dulce
+description: "Casa Verde Dulce brings you fresh, vibrant Mexican and Tex-Mex favorites\
+  \ in a warm and welcoming setting. Enjoy a colorful array of savory plates, zesty\
+  \ dips, and luscious desserts\u2014all with a unique modern twist."
+rating: 1.0
+progenitor_customer: customer_0082
+menu_features:
+  Cocoa Dusted Churro Bites: 5.15
+  Fresh Mint Mojito: 8.18
+  Hatch Green Chile Stew: 10.92
+  Avocado Lime Dip: 6.42
+  Black Bean and Cilantro Rice: 4.35
+  Sunset Grilled Veggie Tacos: 10.29
+  Black Bean Street Tacos: 9.3
+  Avocado Lime Crema Tostadas: 8.82
+  Caramelized Onion Queso Dip: 7.42
+  Poblano Pepper Relleno Plate: 10.97
+  Caramelized Onion and Chorizo Quesadilla: 9.57
+  Honey Lime Grilled Corn: 5.39
+  Tequila Lime Flan: 8.52
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Cocoa Dusted Churro Bites: 4.58
+  Fresh Mint Mojito: 7.28
+  Hatch Green Chile Stew: 9.72
+  Avocado Lime Dip: 5.71
+  Black Bean and Cilantro Rice: 3.87
+  Sunset Grilled Veggie Tacos: 9.16
+  Black Bean Street Tacos: 8.28
+  Avocado Lime Crema Tostadas: 7.85
+  Caramelized Onion Queso Dip: 6.6
+  Poblano Pepper Relleno Plate: 9.76
+  Caramelized Onion and Chorizo Quesadilla: 8.52
+  Honey Lime Grilled Corn: 4.8
+  Tequila Lime Flan: 7.58

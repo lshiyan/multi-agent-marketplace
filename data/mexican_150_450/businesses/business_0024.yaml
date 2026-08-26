@@ -1,0 +1,37 @@
+id: business_0024
+name: Flan-tastic Fiesta
+description: Step into a vibrant world of bold flavors and sweet surprises, where
+  classic Tex-Mex meets creative culinary twists. From zesty fajitas to decadent desserts,
+  your taste buds are in for a flan-tastic treat!
+rating: 1.0
+progenitor_customer: customer_0008
+menu_features:
+  Chili Chocolate Lava Cake: 7.65
+  Zesty Lime Chicken Fajitas: 15.05
+  Cucumber Jalapeno Agua Fresca: 4.54
+  Hatch Chile Queso Dip: 9.59
+  Cactus Flower Iced Tea: 3.76
+  Toasted Coconut Flan: 6.79
+  Spiced Chocolate Flan: 8.28
+  Baja Fish Burrito: 12.79
+  Pico Avocado Toast: 8.81
+  Gourmet Nacho Platter: 12.84
+  Ancho Chile BBQ Ribs: 21.37
+  Pumpkin Spice Flan: 5.71
+  Poblano Pepper Relleno Plate: 13.43
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Chili Chocolate Lava Cake: 5.2
+  Zesty Lime Chicken Fajitas: 10.23
+  Cucumber Jalapeno Agua Fresca: 3.09
+  Hatch Chile Queso Dip: 6.52
+  Cactus Flower Iced Tea: 2.56
+  Toasted Coconut Flan: 4.62
+  Spiced Chocolate Flan: 5.63
+  Baja Fish Burrito: 8.7
+  Pico Avocado Toast: 5.99
+  Gourmet Nacho Platter: 8.73
+  Ancho Chile BBQ Ribs: 14.53
+  Pumpkin Spice Flan: 3.88
+  Poblano Pepper Relleno Plate: 9.13

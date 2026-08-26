@@ -1,0 +1,41 @@
+id: business_0004
+name: "Casa Sol y Saz\xF3n"
+description: "Experience vibrant Mexican and Tex-Mex cuisine in a lively, welcoming\
+  \ setting. Fresh flavors, sizzling platters, and colorful drinks await at Casa Sol\
+  \ y Saz\xF3n."
+rating: 1.0
+progenitor_customer: customer_0002
+menu_features:
+  Sizzling Chicken Fajitas: 12.51
+  Baja Fish Taco Plate: 15.94
+  Veggie Fajita Platter: 13.45
+  Chocolate Mole Chicken: 21.25
+  Beef Fajita Skillet: 15.39
+  Horchata Iced Latte: 5.07
+  Classic Horchata Smoothie: 6.24
+  Stuffed Chicken Poblano: 15.47
+  Toasted Coconut Flan: 7.19
+  Southwestern Quinoa Salad: 9.41
+  Grilled Pineapple & Shrimp Quesadillas: 13.49
+  Crispy Fish Street Tacos: 14.16
+  Passion Fruit Agua Fresca: 3.6
+  Mexican Coffee Flan: 7.32
+  Fresh Watermelon Aqua Fresca: 4.61
+amenity_features: {}
+min_price_factor: 0.6
+minimum_menu_prices:
+  Sizzling Chicken Fajitas: 7.51
+  Baja Fish Taco Plate: 9.56
+  Veggie Fajita Platter: 8.07
+  Chocolate Mole Chicken: 12.75
+  Beef Fajita Skillet: 9.23
+  Horchata Iced Latte: 3.04
+  Classic Horchata Smoothie: 3.74
+  Stuffed Chicken Poblano: 9.28
+  Toasted Coconut Flan: 4.31
+  Southwestern Quinoa Salad: 5.65
+  Grilled Pineapple & Shrimp Quesadillas: 8.09
+  Crispy Fish Street Tacos: 8.5
+  Passion Fruit Agua Fresca: 2.16
+  Mexican Coffee Flan: 4.39
+  Fresh Watermelon Aqua Fresca: 2.77

@@ -1,0 +1,9 @@
+id: customer_0042
+name: Vikram Singh
+request: 'Please locate a business where I can order the following menu item: ''Street
+  Style Corn on the Cob'' (quantity: 1). It is important that the business offers
+  this specific item. Once such a business is found, I would like to proceed with
+  placing an order. Thank you for your assistance.'
+menu_features:
+  Street Style Corn on the Cob: 4.99
+amenity_features: []

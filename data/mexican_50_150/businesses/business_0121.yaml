@@ -1,0 +1,45 @@
+id: business_0121
+name: That's a Wrap, Amigos!
+description: "Serving up a bold fusion of Tex-Mex classics and irresistible sweets,\
+  \ this lively spot wraps flavor into every bite. From sizzling meats to decadent\
+  \ desserts, there\u2019s something to satisfy every craving."
+rating: 1.0
+progenitor_customer: customer_0041
+menu_features:
+  Tex-Mex Fajita Wrap: 10.22
+  Vanilla Flan Delight: 5.23
+  Peppered Steak Nachos: 12.76
+  Cinnamon Sugar Churros: 4.4
+  Blue Corn Enchilada Bake: 14.98
+  Black Bean and Avocado Wrap: 11.32
+  Smoky Chipotle BBQ Ribs: 14.69
+  Chili Chocolate Lava Cake: 8.15
+  Coconut Flan Delight: 5.37
+  Horchata Iced Coffee: 4.83
+  Beef Barbacoa Burrito Bowl: 9.47
+  Blue Corn Tortilla Tacos: 11.75
+  Hibiscus Agua Fresca: 3.57
+  Spicy Pineapple Salsa Dip: 7.0
+  Black Bean and Corn Salsa: 5.0
+  Choco Flan Combo: 7.56
+  Avocado Lime Grilled Shrimp: 15.51
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Tex-Mex Fajita Wrap: 8.48
+  Vanilla Flan Delight: 4.34
+  Peppered Steak Nachos: 10.59
+  Cinnamon Sugar Churros: 3.65
+  Blue Corn Enchilada Bake: 12.43
+  Black Bean and Avocado Wrap: 9.4
+  Smoky Chipotle BBQ Ribs: 12.19
+  Chili Chocolate Lava Cake: 6.76
+  Coconut Flan Delight: 4.46
+  Horchata Iced Coffee: 4.01
+  Beef Barbacoa Burrito Bowl: 7.86
+  Blue Corn Tortilla Tacos: 9.75
+  Hibiscus Agua Fresca: 2.96
+  Spicy Pineapple Salsa Dip: 5.81
+  Black Bean and Corn Salsa: 4.15
+  Choco Flan Combo: 6.27
+  Avocado Lime Grilled Shrimp: 12.87

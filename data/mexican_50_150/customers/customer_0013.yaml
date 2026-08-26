@@ -1,0 +1,11 @@
+id: customer_0013
+name: Ethan Hernandez
+request: 'Could you please find a business that offers the following menu items: Zesty
+  Lime Chicken Fajitas (1), Queso Fundido Supreme (1), and Creamy Jalapeno Corn Fritters
+  (1)? It is important that all these items are available as I intend to place an
+  order for them. Thank you for your assistance.'
+menu_features:
+  Zesty Lime Chicken Fajitas: 15.29
+  Queso Fundido Supreme: 9.29
+  Creamy Jalapeno Corn Fritters: 7.99
+amenity_features: []

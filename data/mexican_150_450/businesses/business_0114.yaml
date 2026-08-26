@@ -1,0 +1,45 @@
+id: business_0114
+name: La Luz Mexicana
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  inviting setting. From fresh salads and sizzling specialties to decadent desserts
+  and handcrafted drinks, La Luz Mexicana celebrates tradition with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0038
+menu_features:
+  Sizzling Pork Carnitas Bowl: 14.53
+  Ancho Honey-Glazed Salmon: 17.0
+  Spicy Pineapple Salsa Dip: 6.04
+  Mexican Coffee Flan: 5.94
+  Creamy Jalapeno Corn Fritters: 6.35
+  Refreshing Agua Fresca Trio: 8.42
+  Coconut Lime Margarita: 8.46
+  Ancho Chile Chicken Salad: 7.87
+  Cheesy Jalapeno Poppers: 5.76
+  Chipotle Lime Shrimp Skewers: 12.7
+  Pumpkin Spice Flan: 5.44
+  Chocolate Dipped Flan: 6.04
+  Fresh Mint Mojito: 9.3
+  Avocado Lime Salad: 8.71
+  Breakfast Chorizo Torta: 9.11
+  Cocoa Dusted Churro Bites: 4.86
+  Creamy Chipotle Pasta: 15.0
+amenity_features: {}
+min_price_factor: 0.95
+minimum_menu_prices:
+  Sizzling Pork Carnitas Bowl: 13.8
+  Ancho Honey-Glazed Salmon: 16.15
+  Spicy Pineapple Salsa Dip: 5.74
+  Mexican Coffee Flan: 5.64
+  Creamy Jalapeno Corn Fritters: 6.03
+  Refreshing Agua Fresca Trio: 8.0
+  Coconut Lime Margarita: 8.04
+  Ancho Chile Chicken Salad: 7.48
+  Cheesy Jalapeno Poppers: 5.47
+  Chipotle Lime Shrimp Skewers: 12.06
+  Pumpkin Spice Flan: 5.17
+  Chocolate Dipped Flan: 5.74
+  Fresh Mint Mojito: 8.84
+  Avocado Lime Salad: 8.27
+  Breakfast Chorizo Torta: 8.65
+  Cocoa Dusted Churro Bites: 4.62
+  Creamy Chipotle Pasta: 14.25

@@ -1,0 +1,38 @@
+id: business_0226
+name: Bluebird & Bean
+description: Bluebird & Bean offers a vibrant take on Mexican and Tex-Mex classics,
+  with a menu highlighting fresh flavors, creative cocktails, and savory favorites.
+  Gather with friends and discover a colorful dining experience that delights every
+  palate.
+rating: 1.0
+progenitor_customer: customer_0076
+menu_features:
+  Roasted Corn and Avocado Salad: 7.82
+  Blue Corn Tortilla Chips: 4.76
+  "Blueberry Jalape\xF1o Margarita": 11.18
+  Spicy Black Bean Enchiladas: 10.63
+  Mole Chicken Quesadilla: 11.14
+  Loaded Chorizo Nachos: 8.34
+  Blue Agave Tequila Sunrise: 7.5
+  Baja Fish Burrito: 12.49
+  Coconut Lime Tres Leches: 5.66
+  Roasted Poblano Soup: 8.62
+  Coconut Tres Leches: 7.31
+  "Cheesy Jalape\xF1o Queso Dip": 8.1
+  Pico Avocado Toast: 6.84
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Roasted Corn and Avocado Salad: 4.85
+  Blue Corn Tortilla Chips: 2.95
+  "Blueberry Jalape\xF1o Margarita": 6.93
+  Spicy Black Bean Enchiladas: 6.59
+  Mole Chicken Quesadilla: 6.91
+  Loaded Chorizo Nachos: 5.17
+  Blue Agave Tequila Sunrise: 4.65
+  Baja Fish Burrito: 7.74
+  Coconut Lime Tres Leches: 3.51
+  Roasted Poblano Soup: 5.34
+  Coconut Tres Leches: 4.53
+  "Cheesy Jalape\xF1o Queso Dip": 5.02
+  Pico Avocado Toast: 4.24

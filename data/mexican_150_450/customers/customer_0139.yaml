@@ -1,0 +1,12 @@
+id: customer_0139
+name: Ethan Lewis
+request: 'I would like assistance in finding a business where I can place an order
+  for the following specific menu items: 1 Grilled Pineapple and Pork Tacos, 1 Tequila
+  Lime Grilled Chicken, and 1 Chocolate Tamale Cake. It is crucial that the business
+  can provide all three items as listed, as I plan to make a purchase. Thank you for
+  your help.'
+menu_features:
+  Grilled Pineapple and Pork Tacos: 12.49
+  Tequila Lime Grilled Chicken: 13.49
+  Chocolate Tamale Cake: 6.99
+amenity_features: []

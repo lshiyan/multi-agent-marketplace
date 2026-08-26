@@ -1,0 +1,44 @@
+id: business_0259
+name: Pico & Poblano
+description: Pico & Poblano serves a vibrant take on classic Mexican and Tex-Mex cuisine,
+  blending bold flavors with fresh, modern twists. From savory enchiladas and stuffed
+  peppers to rich desserts and refreshing beverages, every dish is crafted to delight
+  your senses.
+rating: 1.0
+progenitor_customer: customer_0087
+menu_features:
+  Stuffed Chicken Poblano: 12.93
+  Horchata Iced Latte: 4.93
+  Tequila Lime Grilled Shrimp: 15.13
+  Smoky Chipotle Enchiladas: 14.01
+  Chipotle Chicken Enchiladas: 16.97
+  Toasted Coconut Flan: 8.99
+  Classic Horchata Delight: 3.43
+  Roasted Pecan Flan: 6.05
+  Ranchero Eggs Benedict: 11.42
+  Pico Avocado Toast: 8.65
+  Roasted Corn Enchiladas: 13.29
+  Fiesta Street Corn: 5.23
+  Warm Cinnamon Churros: 5.98
+  Coconut Tres Leches: 6.34
+  Chili Lime Shrimp Skewers: 11.32
+  Crispy Fish Baja Bowl: 12.65
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Stuffed Chicken Poblano: 11.9
+  Horchata Iced Latte: 4.54
+  Tequila Lime Grilled Shrimp: 13.92
+  Smoky Chipotle Enchiladas: 12.89
+  Chipotle Chicken Enchiladas: 15.61
+  Toasted Coconut Flan: 8.27
+  Classic Horchata Delight: 3.16
+  Roasted Pecan Flan: 5.57
+  Ranchero Eggs Benedict: 10.51
+  Pico Avocado Toast: 7.96
+  Roasted Corn Enchiladas: 12.23
+  Fiesta Street Corn: 4.81
+  Warm Cinnamon Churros: 5.5
+  Coconut Tres Leches: 5.83
+  Chili Lime Shrimp Skewers: 10.41
+  Crispy Fish Baja Bowl: 11.64

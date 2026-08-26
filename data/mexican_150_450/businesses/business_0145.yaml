@@ -1,0 +1,43 @@
+id: business_0145
+name: "Luz y Saz\xF3n Mexicana"
+description: Experience vibrant Tex-Mex and Mexican classics in a colorful, welcoming
+  setting. From zesty salads to sizzling fajitas and fresh-made margaritas, every
+  dish is crafted with bold flavors and authentic flair.
+rating: 1.0
+progenitor_customer: customer_0049
+menu_features:
+  Spice-Rubbed Grilled Fajitas: 9.61
+  Black Bean Stuffed Bell Peppers: 11.61
+  Tamarind Glazed Wings: 9.02
+  Cilantro Lime Chicken Tacos: 8.03
+  Chipotle Lime Chicken Salad: 13.28
+  Veggie Fajita Platter: 12.48
+  Black Bean Avocado Enchiladas: 13.3
+  Pineapple Jalapeno Margarita: 8.7
+  Loaded Nacho Supreme: 9.02
+  Loaded Nacho Platter: 9.01
+  Breakfast Burrito Supreme: 10.06
+  Crispy Carnitas Tacos: 12.77
+  Tamarind-Glazed Ribs: 17.78
+  Honey Lime Fajita Sizzlers: 14.37
+  Zesty Lime Shrimp Salad: 12.36
+  Three-Cheese Enchilada Stack: 13.55
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Spice-Rubbed Grilled Fajitas: 7.11
+  Black Bean Stuffed Bell Peppers: 8.59
+  Tamarind Glazed Wings: 6.67
+  Cilantro Lime Chicken Tacos: 5.94
+  Chipotle Lime Chicken Salad: 9.83
+  Veggie Fajita Platter: 9.24
+  Black Bean Avocado Enchiladas: 9.84
+  Pineapple Jalapeno Margarita: 6.44
+  Loaded Nacho Supreme: 6.67
+  Loaded Nacho Platter: 6.67
+  Breakfast Burrito Supreme: 7.44
+  Crispy Carnitas Tacos: 9.45
+  Tamarind-Glazed Ribs: 13.16
+  Honey Lime Fajita Sizzlers: 10.63
+  Zesty Lime Shrimp Salad: 9.15
+  Three-Cheese Enchilada Stack: 10.03

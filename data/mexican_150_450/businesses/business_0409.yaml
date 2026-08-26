@@ -1,0 +1,35 @@
+id: business_0409
+name: Churro & the Quake
+description: Where classic Mexican flavors meet sweet and spicy twists, Churro & the
+  Quake is serving up playful plates and desserts with a kick. Sip, savor, and shake
+  up your cravings in a vibrant, modern cantina atmosphere.
+rating: 1.0
+progenitor_customer: customer_0137
+menu_features:
+  Spicy Chocolate Churros: 4.76
+  Baja Shrimp Quesadilla: 12.98
+  Chocolate Molten Tamale: 6.98
+  Sizzling Pork Carnitas Bowl: 11.9
+  Pineapple Jalapeno Margarita: 8.2
+  Horchata Latte: 5.24
+  Cinnamon Churro Bites: 5.7
+  Chipotle Bean Burrito: 10.1
+  Avocado Lime Quinoa Bowl: 9.67
+  Coffee Cinnamon Mexican Mocha: 5.12
+  Crispy Avocado Tostadas: 10.69
+  Choco-Chili Volcano Cake: 8.38
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Spicy Chocolate Churros: 4.43
+  Baja Shrimp Quesadilla: 12.07
+  Chocolate Molten Tamale: 6.49
+  Sizzling Pork Carnitas Bowl: 11.07
+  Pineapple Jalapeno Margarita: 7.63
+  Horchata Latte: 4.87
+  Cinnamon Churro Bites: 5.3
+  Chipotle Bean Burrito: 9.39
+  Avocado Lime Quinoa Bowl: 8.99
+  Coffee Cinnamon Mexican Mocha: 4.76
+  Crispy Avocado Tostadas: 9.94
+  Choco-Chili Volcano Cake: 7.79

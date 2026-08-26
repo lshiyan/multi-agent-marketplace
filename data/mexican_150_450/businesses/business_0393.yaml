@@ -1,0 +1,37 @@
+id: business_0393
+name: Mojito & Munch
+description: Dive into bold, fresh flavors with vibrant tacos, zesty enchiladas, and
+  inventive drinks at Mojito & Munch. Savor contemporary Mexican and Tex-Mex cuisine
+  in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0131
+menu_features:
+  Crispy Avocado Bites: 9.4
+  Cilantro Lime Chicken Tacos: 11.68
+  Cactus Flower Iced Tea: 4.11
+  Raspberry Jalapeno Mojito: 11.18
+  Smoky Chipotle Enchiladas: 13.23
+  Mini Street Tacos Platter: 10.78
+  "Cheesy Jalape\xF1o Quesadillas": 9.66
+  Loaded Nacho Fiesta: 11.37
+  Ancho Chili Braised Beef Enchiladas: 15.32
+  Sizzling Fajita Platter: 15.34
+  Grilled Pineapple Mojito: 8.21
+  Ancho Chile Chicken Salad: 9.14
+  "Spicy Jalape\xF1o Limeade": 3.69
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Crispy Avocado Bites: 6.77
+  Cilantro Lime Chicken Tacos: 8.41
+  Cactus Flower Iced Tea: 2.96
+  Raspberry Jalapeno Mojito: 8.05
+  Smoky Chipotle Enchiladas: 9.53
+  Mini Street Tacos Platter: 7.76
+  "Cheesy Jalape\xF1o Quesadillas": 6.96
+  Loaded Nacho Fiesta: 8.19
+  Ancho Chili Braised Beef Enchiladas: 11.03
+  Sizzling Fajita Platter: 11.04
+  Grilled Pineapple Mojito: 5.91
+  Ancho Chile Chicken Salad: 6.58
+  "Spicy Jalape\xF1o Limeade": 2.66

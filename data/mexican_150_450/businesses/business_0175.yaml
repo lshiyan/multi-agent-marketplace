@@ -1,0 +1,37 @@
+id: business_0175
+name: Cantina Estrella Viva
+description: Experience vibrant Mexican and Tex-Mex flavors crafted with fresh, bold
+  ingredients in a warm and inviting atmosphere. From zesty small plates to traditional
+  classics, enjoy a menu that celebrates the spirit of Mexico and the Southwest.
+rating: 1.0
+progenitor_customer: customer_0059
+menu_features:
+  Classic Horchata Delight: 3.19
+  Fresh Mint Mojito: 8.56
+  Smoky Chipotle Enchiladas: 14.18
+  Verde Ranchero Huevos: 11.44
+  Pumpkin Spice Flan: 5.66
+  Chipotle Lime Shrimp Tacos: 14.79
+  Lime-Garlic Grilled Chicken: 15.15
+  Black Bean and Cilantro Rice: 4.36
+  Chili-Lime Cauliflower Bites: 7.1
+  Ancho Chile Beef Chili: 14.02
+  Spicy Shrimp Ceviche: 11.56
+  Guava Limeade Cooler: 4.73
+  Grilled Elote Corn: 4.42
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Classic Horchata Delight: 2.42
+  Fresh Mint Mojito: 6.51
+  Smoky Chipotle Enchiladas: 10.78
+  Verde Ranchero Huevos: 8.69
+  Pumpkin Spice Flan: 4.3
+  Chipotle Lime Shrimp Tacos: 11.24
+  Lime-Garlic Grilled Chicken: 11.51
+  Black Bean and Cilantro Rice: 3.31
+  Chili-Lime Cauliflower Bites: 5.4
+  Ancho Chile Beef Chili: 10.66
+  Spicy Shrimp Ceviche: 8.79
+  Guava Limeade Cooler: 3.59
+  Grilled Elote Corn: 3.36

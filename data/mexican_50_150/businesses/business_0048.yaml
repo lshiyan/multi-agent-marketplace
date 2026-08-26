@@ -1,0 +1,41 @@
+id: business_0048
+name: The Enchiladist
+description: Experience a vibrant twist on classic Mexican and Tex-Mex favorites,
+  where bold flavors and fresh ingredients come together in creative culinary combinations.
+  Savor sizzling specialties and sweet treats in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0016
+menu_features:
+  Grilled Pineapple & Shrimp Quesadillas: 12.29
+  Al Pastor Pork Tacos: 17.81
+  Southwest Chopped Salad: 8.17
+  Sizzling Pork Carnitas Bowl: 11.86
+  Cocoa Cinnamon Tequila: 10.13
+  Creamy Avocado Smoothie: 4.49
+  Shrimp and Avocado Ceviche: 12.76
+  Roasted Corn and Black Bean Salad: 10.24
+  Classic Beef Enchiladas: 11.48
+  Stuffed Poblano Pepper Delight: 9.27
+  Caramel Apple Empanadas: 5.62
+  Churro Ice Cream Sandwich: 7.67
+  Chili-Lime Cauliflower Bites: 9.07
+  Spicy Zucchini Tostadas: 12.75
+  Spicy Shrimp Ceviche: 10.96
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Grilled Pineapple & Shrimp Quesadillas: 7.99
+  Al Pastor Pork Tacos: 11.58
+  Southwest Chopped Salad: 5.31
+  Sizzling Pork Carnitas Bowl: 7.71
+  Cocoa Cinnamon Tequila: 6.58
+  Creamy Avocado Smoothie: 2.92
+  Shrimp and Avocado Ceviche: 8.29
+  Roasted Corn and Black Bean Salad: 6.66
+  Classic Beef Enchiladas: 7.46
+  Stuffed Poblano Pepper Delight: 6.03
+  Caramel Apple Empanadas: 3.65
+  Churro Ice Cream Sandwich: 4.99
+  Chili-Lime Cauliflower Bites: 5.9
+  Spicy Zucchini Tostadas: 8.29
+  Spicy Shrimp Ceviche: 7.12

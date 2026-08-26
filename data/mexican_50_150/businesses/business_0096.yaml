@@ -1,0 +1,39 @@
+id: business_0096
+name: "Grill & Thrill de Pi\xF1a"
+description: Step into a vibrant world of sweet, smoky, and spicy flavors where juicy
+  tropical fruits meet bold Mexican-inspired bites. Enjoy creative twists on classics,
+  refreshing sips, and a playful atmosphere sure to delight every palate.
+rating: 1.0
+progenitor_customer: customer_0032
+menu_features:
+  Mexican Coffee Flan: 7.1
+  Chili Chocolate Lava Cake: 8.07
+  Tropical Pineapple Salsa: 3.09
+  Mango Habanero Wings: 11.39
+  Roasted Corn and Avocado Salad: 7.13
+  Avocado Lime Dip: 6.01
+  Honey Chipotle Wings: 10.37
+  Fresh Watermelon Aqua Fresca: 3.1
+  Spiced Agave Margarita: 9.3
+  Al Pastor Quesadilla: 11.89
+  Pineapple Salsa Shrimp Tacos: 18.83
+  Grilled Pineapple and Pork Tacos: 12.93
+  Molten Queso Fundido: 6.48
+  Coconut Lime Tres Leches: 6.48
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Mexican Coffee Flan: 5.04
+  Chili Chocolate Lava Cake: 5.73
+  Tropical Pineapple Salsa: 2.19
+  Mango Habanero Wings: 8.09
+  Roasted Corn and Avocado Salad: 5.06
+  Avocado Lime Dip: 4.27
+  Honey Chipotle Wings: 7.36
+  Fresh Watermelon Aqua Fresca: 2.2
+  Spiced Agave Margarita: 6.6
+  Al Pastor Quesadilla: 8.44
+  Pineapple Salsa Shrimp Tacos: 13.37
+  Grilled Pineapple and Pork Tacos: 9.18
+  Molten Queso Fundido: 4.6
+  Coconut Lime Tres Leches: 4.6

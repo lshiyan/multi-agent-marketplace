@@ -1,0 +1,46 @@
+id: business_0238
+name: Cilantro & Smoke
+description: Experience modern Mexican and Tex-Mex flavors at Cilantro & Smoke, where
+  vibrant spices, fire-grilled favorites, and zesty dishes come together in a lively,
+  welcoming atmosphere. Enjoy inventive bites and fresh margaritas crafted with a
+  contemporary twist.
+rating: 1.0
+progenitor_customer: customer_0080
+menu_features:
+  Smoky Chipotle BBQ Wings: 10.96
+  Tex-Mex Fajita Wrap: 11.11
+  Pineapple Chipotle Pork: 17.72
+  Spicy Cucumber Margarita: 9.83
+  Cilantro Lime Chicken Tacos: 12.42
+  Pico Avocado Toast: 8.01
+  Mini Street Tacos Platter: 7.53
+  Crispy Avocado Burrito: 12.74
+  Grilled Street Corn: 6.05
+  Sizzling Pork Carnitas Bowl: 12.24
+  Spicy Mango Margarita: 9.33
+  Tamarind Glazed Wings: 13.44
+  Blueberry Agave Margarita: 10.9
+  Fresh Lime and Cilantro Guacamole: 7.43
+  Spiced Chocolate Tres Leches: 6.19
+  Stuffed Poblano Peppers: 16.49
+  Savory Chorizo Street Tacos: 9.37
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Smoky Chipotle BBQ Wings: 10.08
+  Tex-Mex Fajita Wrap: 10.22
+  Pineapple Chipotle Pork: 16.3
+  Spicy Cucumber Margarita: 9.04
+  Cilantro Lime Chicken Tacos: 11.43
+  Pico Avocado Toast: 7.37
+  Mini Street Tacos Platter: 6.93
+  Crispy Avocado Burrito: 11.72
+  Grilled Street Corn: 5.57
+  Sizzling Pork Carnitas Bowl: 11.26
+  Spicy Mango Margarita: 8.58
+  Tamarind Glazed Wings: 12.36
+  Blueberry Agave Margarita: 10.03
+  Fresh Lime and Cilantro Guacamole: 6.84
+  Spiced Chocolate Tres Leches: 5.69
+  Stuffed Poblano Peppers: 15.17
+  Savory Chorizo Street Tacos: 8.62

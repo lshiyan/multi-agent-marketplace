@@ -1,0 +1,35 @@
+id: business_0117
+name: Cacao & Chili Cantina
+description: Bold flavors meet comforting classics at Cacao & Chili Cantina, where
+  smoky spices and decadent chocolates come together in a warm, lively setting. Savor
+  inventive Mexican and Tex-Mex dishes alongside creative desserts and spirited sips.
+rating: 1.0
+progenitor_customer: customer_0039
+menu_features:
+  Bacon and Egg Tostada: 10.1
+  Black Bean Chili Bowl: 9.86
+  Smoky Ancho Chicken Enchiladas: 11.83
+  Three-Cheese Queso Dip: 7.51
+  Smoky Lime Quinoa Salad: 10.19
+  Blueberry Jalapeno Lemonade: 4.12
+  Chocolate Mole Chicken: 11.41
+  Coconut Flan Delight: 6.51
+  Spicy Chocolate Lava Cake: 8.89
+  Loaded Nacho Platter: 11.4
+  Rich Chocolate Tres Leches: 6.6
+  Twisted Tequila Sunrise: 7.18
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Bacon and Egg Tostada: 7.47
+  Black Bean Chili Bowl: 7.3
+  Smoky Ancho Chicken Enchiladas: 8.75
+  Three-Cheese Queso Dip: 5.56
+  Smoky Lime Quinoa Salad: 7.54
+  Blueberry Jalapeno Lemonade: 3.05
+  Chocolate Mole Chicken: 8.44
+  Coconut Flan Delight: 4.82
+  Spicy Chocolate Lava Cake: 6.58
+  Loaded Nacho Platter: 8.44
+  Rich Chocolate Tres Leches: 4.88
+  Twisted Tequila Sunrise: 5.31

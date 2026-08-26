@@ -1,0 +1,45 @@
+id: business_0094
+name: Casa Verdeza Mexicana
+description: Experience the vibrant flavors of Mexico and the Southwest at Casa Verdeza
+  Mexicana, where fresh ingredients and bold spices come together in every bite. Enjoy
+  inventive margaritas and savory classics in a warm, inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0032
+menu_features:
+  Spicy Avocado Burger: 10.68
+  Avocado Lime Enchiladas: 13.04
+  Crisp Jicama Slaw: 5.57
+  Chocolate Mole Brownie: 6.21
+  Roasted Corn Elote: 4.41
+  Mexican Coffee Flan: 6.25
+  Pork Carnitas Platter: 15.96
+  Mango Habanero Wings: 10.38
+  Fresh Mango Salsa Nachos: 9.52
+  Al Pastor Pork Tacos: 11.64
+  Tamale Pie Casserole: 14.36
+  Sizzling Steak Fajitas: 16.39
+  Chocolate Dipped Flan: 6.56
+  Blueberry Jalapeno Margarita: 11.37
+  Spiced Agave Margarita: 11.16
+  Chili-Lime Cauliflower Bites: 8.31
+  Roasted Corn and Avocado Salad: 6.49
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Spicy Avocado Burger: 8.65
+  Avocado Lime Enchiladas: 10.56
+  Crisp Jicama Slaw: 4.51
+  Chocolate Mole Brownie: 5.03
+  Roasted Corn Elote: 3.57
+  Mexican Coffee Flan: 5.06
+  Pork Carnitas Platter: 12.93
+  Mango Habanero Wings: 8.41
+  Fresh Mango Salsa Nachos: 7.71
+  Al Pastor Pork Tacos: 9.43
+  Tamale Pie Casserole: 11.63
+  Sizzling Steak Fajitas: 13.28
+  Chocolate Dipped Flan: 5.31
+  Blueberry Jalapeno Margarita: 9.21
+  Spiced Agave Margarita: 9.04
+  Chili-Lime Cauliflower Bites: 6.73
+  Roasted Corn and Avocado Salad: 5.26

@@ -1,0 +1,9 @@
+id: customer_0118
+name: Chloe Laurent
+request: 'Could you please find a business that can fulfill an order with the following
+  items: 1 Lime-Cilantro Quinoa Salad and 1 Spicy Chocolate Lava Cake? It is important
+  that the business can provide both items as part of a single order. Thank you.'
+menu_features:
+  Lime-Cilantro Quinoa Salad: 9.79
+  Spicy Chocolate Lava Cake: 7.99
+amenity_features: []

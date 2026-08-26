@@ -1,0 +1,39 @@
+id: business_0307
+name: Brunchos Locos
+description: Dive into a whirlwind of Mexican and Tex-Mex flavors where brunch classics
+  meet sweet and smoky surprises. From zesty huevos to decadent desserts, every bite
+  brings a new fiesta to your table.
+rating: 1.0
+progenitor_customer: customer_0103
+menu_features:
+  Huevos Rancheros: 7.95
+  Smoky Lime Quinoa Salad: 8.65
+  Salted Caramel Margarita: 11.36
+  Cinnamon Sugar Sopapillas: 5.35
+  Toasted Coconut Flan: 6.3
+  Rich Chocolate Tamales: 7.76
+  Hatch Green Chile Rice: 6.13
+  Sunset Grilled Veggie Tacos: 14.85
+  Mango Habanero Salsa: 5.5
+  Sweet Plantain Empanadas: 6.87
+  Tequila Lime Flan: 7.86
+  Grilled Pineapple Salmon: 16.39
+  Honey Lime Grilled Fajitas: 17.72
+  Mexican Street Corn Salad: 6.71
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Huevos Rancheros: 5.25
+  Smoky Lime Quinoa Salad: 5.71
+  Salted Caramel Margarita: 7.5
+  Cinnamon Sugar Sopapillas: 3.53
+  Toasted Coconut Flan: 4.16
+  Rich Chocolate Tamales: 5.12
+  Hatch Green Chile Rice: 4.05
+  Sunset Grilled Veggie Tacos: 9.8
+  Mango Habanero Salsa: 3.63
+  Sweet Plantain Empanadas: 4.53
+  Tequila Lime Flan: 5.19
+  Grilled Pineapple Salmon: 10.82
+  Honey Lime Grilled Fajitas: 11.7
+  Mexican Street Corn Salad: 4.43

@@ -1,0 +1,37 @@
+id: business_0305
+name: "Mojito & Ma\xEDz Kitchen"
+description: Experience a fresh twist on Mexican and Tex-Mex classics, where bold
+  flavors meet vibrant, handcrafted drinks. From zesty grilled dishes to creative
+  sips, every meal is a lively celebration of taste and tradition.
+rating: 1.0
+progenitor_customer: customer_0102
+menu_features:
+  Raspberry Jalapeno Mojito: 9.22
+  Horchata Cold Brew Coffee: 4.92
+  Hatch Green Chile Stew: 11.69
+  Roasted Tomato Salsa Dip: 3.08
+  Zesty Lime Grilled Chicken: 13.65
+  Cilantro Lime Rice Bowl: 12.64
+  Spicy Street Corn: 5.66
+  Guava Limeade Cooler: 4.8
+  Bacon Wrapped Jalapeno Bites: 8.39
+  Street Style Quesadillas: 8.97
+  Pineapple Pico de Gallo Salsa: 6.97
+  Chili Con Queso Supreme: 7.14
+  Sizzling Steak Fajitas: 15.64
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Raspberry Jalapeno Mojito: 5.72
+  Horchata Cold Brew Coffee: 3.05
+  Hatch Green Chile Stew: 7.25
+  Roasted Tomato Salsa Dip: 1.91
+  Zesty Lime Grilled Chicken: 8.46
+  Cilantro Lime Rice Bowl: 7.84
+  Spicy Street Corn: 3.51
+  Guava Limeade Cooler: 2.98
+  Bacon Wrapped Jalapeno Bites: 5.2
+  Street Style Quesadillas: 5.56
+  Pineapple Pico de Gallo Salsa: 4.32
+  Chili Con Queso Supreme: 4.43
+  Sizzling Steak Fajitas: 9.7

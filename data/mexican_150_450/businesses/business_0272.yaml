@@ -1,0 +1,37 @@
+id: business_0272
+name: Mango Ember Kitchen
+description: Discover a vibrant fusion of bold flavors, fresh ingredients, and fiery
+  spice at Mango Ember Kitchen. Our modern take on Mexican and Tex-Mex classics pairs
+  bright fruit, charred favorites, and creative cocktails in a warm, inviting space.
+rating: 1.0
+progenitor_customer: customer_0091
+menu_features:
+  Mango Habanero Wings: 13.17
+  Classic Flan Delight: 5.92
+  Avocado Lime Quinoa Bowl: 8.98
+  Grilled Pineapple Mojito: 10.42
+  Mango Habanero Margarita: 9.83
+  Tex-Mex Fajita Wrap: 12.58
+  Stuffed Poblano Peppers: 15.24
+  Al Pastor Pork Tacos: 14.24
+  Crispy Fish Street Tacos: 19.18
+  Blue Corn Tortilla Chips: 5.67
+  Baja Fish Taco Plate: 13.05
+  Tequila Lime Shrimp Skewers: 16.47
+  Spicy Mango Margarita: 9.04
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Mango Habanero Wings: 12.25
+  Classic Flan Delight: 5.51
+  Avocado Lime Quinoa Bowl: 8.35
+  Grilled Pineapple Mojito: 9.69
+  Mango Habanero Margarita: 9.14
+  Tex-Mex Fajita Wrap: 11.7
+  Stuffed Poblano Peppers: 14.17
+  Al Pastor Pork Tacos: 13.24
+  Crispy Fish Street Tacos: 17.84
+  Blue Corn Tortilla Chips: 5.27
+  Baja Fish Taco Plate: 12.14
+  Tequila Lime Shrimp Skewers: 15.32
+  Spicy Mango Margarita: 8.41

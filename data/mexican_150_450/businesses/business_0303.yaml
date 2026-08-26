@@ -1,0 +1,41 @@
+id: business_0303
+name: "Citr\xF3n Azul Kitchen"
+description: "Citr\xF3n Azul Kitchen brings a fresh, modern twist to Mexican and Tex-Mex\
+  \ cuisine in a vibrant, welcoming space. Enjoy inventive flavors, colorful plates,\
+  \ and a fusion of classic and contemporary tastes perfect for any craving."
+rating: 1.0
+progenitor_customer: customer_0101
+menu_features:
+  Loaded Chorizo Nachos: 9.27
+  Chili Lime Jicama Sticks: 6.04
+  Cinnamon Sugar Churros: 5.72
+  Pineapple Tequila Chicken Skewers: 12.2
+  Sweet Corn Tamales: 11.41
+  Horchata Latte: 4.58
+  Crispy Tinga Chicken Tacos: 11.54
+  Chorizo Breakfast Tacos: 11.91
+  Fresh Lime and Cilantro Guacamole: 7.42
+  Tamarind Glazed Wings: 12.29
+  Cheesy Jalapeno Queso: 6.15
+  Chipotle Lime Chicken Salad: 10.84
+  Blue Corn Tortilla Chips: 5.89
+  Creamy Jalapeno Corn Fritters: 8.07
+  Hatch Green Chile Rice: 5.17
+amenity_features: {}
+min_price_factor: 0.6
+minimum_menu_prices:
+  Loaded Chorizo Nachos: 5.56
+  Chili Lime Jicama Sticks: 3.62
+  Cinnamon Sugar Churros: 3.43
+  Pineapple Tequila Chicken Skewers: 7.32
+  Sweet Corn Tamales: 6.85
+  Horchata Latte: 2.75
+  Crispy Tinga Chicken Tacos: 6.92
+  Chorizo Breakfast Tacos: 7.15
+  Fresh Lime and Cilantro Guacamole: 4.45
+  Tamarind Glazed Wings: 7.37
+  Cheesy Jalapeno Queso: 3.69
+  Chipotle Lime Chicken Salad: 6.5
+  Blue Corn Tortilla Chips: 3.53
+  Creamy Jalapeno Corn Fritters: 4.84
+  Hatch Green Chile Rice: 3.1

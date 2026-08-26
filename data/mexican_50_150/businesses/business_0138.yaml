@@ -1,0 +1,45 @@
+id: business_0138
+name: "Saz\xF3n y Sol Kitchen"
+description: "Experience a vibrant blend of bold flavors and sunny hospitality at\
+  \ Saz\xF3n y Sol Kitchen. Enjoy fresh, creative Mexican and Tex-Mex dishes served\
+  \ in a lively, inviting atmosphere perfect for any occasion."
+rating: 1.0
+progenitor_customer: customer_0046
+menu_features:
+  Cilantro Lime Grilled Shrimp: 12.63
+  Mango Jalapeno Slush: 4.75
+  Honey Lime Fajita Sizzlers: 15.67
+  Tamarind-Glazed Ribs: 14.26
+  Spicy Beef Enchilada Bake: 12.89
+  Fresh Corn Elote: 4.61
+  Mini Street Tacos Platter: 11.51
+  Gourmet Nacho Platter: 10.92
+  Guava Limeade Cooler: 3.9
+  Smoky Black Bean Soup: 7.23
+  Tex-Mex Fajita Wrap: 11.59
+  Frozen Strawberry Daiquiri: 9.63
+  Beef Barbacoa Tostadas: 14.16
+  Spicy Cucumber Margarita: 9.19
+  Black Bean & Corn Enchiladas: 10.95
+  Cinnamon Sugar Churro Sticks: 6.28
+  Creamy Avocado Smoothie: 5.16
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Cilantro Lime Grilled Shrimp: 9.09
+  Mango Jalapeno Slush: 3.42
+  Honey Lime Fajita Sizzlers: 11.28
+  Tamarind-Glazed Ribs: 10.27
+  Spicy Beef Enchilada Bake: 9.28
+  Fresh Corn Elote: 3.32
+  Mini Street Tacos Platter: 8.29
+  Gourmet Nacho Platter: 7.86
+  Guava Limeade Cooler: 2.81
+  Smoky Black Bean Soup: 5.21
+  Tex-Mex Fajita Wrap: 8.34
+  Frozen Strawberry Daiquiri: 6.93
+  Beef Barbacoa Tostadas: 10.2
+  Spicy Cucumber Margarita: 6.62
+  Black Bean & Corn Enchiladas: 7.88
+  Cinnamon Sugar Churro Sticks: 4.52
+  Creamy Avocado Smoothie: 3.72

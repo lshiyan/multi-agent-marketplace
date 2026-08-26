@@ -1,0 +1,39 @@
+id: business_0221
+name: Corn & Cocoa Kitchen
+description: Experience a vibrant fusion of classic and modern Mexican flavors, crafted
+  with fresh ingredients and creative flair. From decadent desserts to savory street
+  favorites, enjoy a delicious journey through the heart of Tex-Mex cuisine.
+rating: 1.0
+progenitor_customer: customer_0074
+menu_features:
+  Rich Chocolate Tres Leches: 6.94
+  Grilled Elote Corn: 3.72
+  Smoky Chipotle Black Bean Soup: 9.82
+  Hatch Green Chile Quesadilla: 12.03
+  Classic Flan Delight: 5.99
+  Zesty Lime Shrimp Tostadas: 14.2
+  Chocolate Dipped Flan: 6.17
+  Crispy Tinga Chicken Tacos: 9.68
+  Roasted Corn Enchiladas: 9.55
+  Grilled Street Corn: 5.97
+  Loaded Nacho Fiesta: 9.49
+  Cactus Cooler Margarita: 8.79
+  Spiced Churro Bites: 6.34
+  Sweet Corn Tamale Cake: 7.71
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Rich Chocolate Tres Leches: 6.45
+  Grilled Elote Corn: 3.46
+  Smoky Chipotle Black Bean Soup: 9.13
+  Hatch Green Chile Quesadilla: 11.19
+  Classic Flan Delight: 5.57
+  Zesty Lime Shrimp Tostadas: 13.21
+  Chocolate Dipped Flan: 5.74
+  Crispy Tinga Chicken Tacos: 9.0
+  Roasted Corn Enchiladas: 8.88
+  Grilled Street Corn: 5.55
+  Loaded Nacho Fiesta: 8.83
+  Cactus Cooler Margarita: 8.17
+  Spiced Churro Bites: 5.9
+  Sweet Corn Tamale Cake: 7.17

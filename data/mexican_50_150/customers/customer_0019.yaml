@@ -1,0 +1,11 @@
+id: customer_0019
+name: Grace Hassan
+request: 'Please help me find a business that can provide the following menu items:
+  1 Verde Chicken Enchiladas, 1 Citrus Cilantro Rice, and 1 Cactus Jack Quesadilla.
+  It is important that all these items are available as I intend to place an order
+  for each. Thank you.'
+menu_features:
+  Verde Chicken Enchiladas: 12.99
+  Citrus Cilantro Rice: 4.99
+  Cactus Jack Quesadilla: 11.99
+amenity_features: []

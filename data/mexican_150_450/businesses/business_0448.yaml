@@ -1,0 +1,41 @@
+id: business_0448
+name: La Paleta Citrus Grill
+description: A lively Mexican and Tex-Mex destination bringing together bold flavors,
+  vibrant citrus notes, and fresh, modern twists. Enjoy colorful classics, dynamic
+  dips, and creative desserts in a cheerful and welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0150
+menu_features:
+  Margarita Lime Cheesecake: 8.29
+  Citrus Marinated Carne Asada: 15.62
+  Poblano Pepper Queso Dip: 7.57
+  Zesty Lime Shrimp Salad: 9.15
+  Breakfast Chorizo Tostadas: 7.07
+  Avocado Ranch Burrito Bowl: 12.15
+  Pineapple Salsa Pork Tacos: 11.07
+  Black Bean & Corn Queso Dip: 5.83
+  Baja Shrimp Quesadilla: 13.09
+  Coconut Lime Shrimp Skewers: 17.11
+  Black Bean and Lime Soup: 6.44
+  Grilled Street Corn: 6.28
+  Avocado Lime Dip: 5.63
+  Spicy Black Bean Nacho Platter: 11.44
+  Hatch Green Chile Rice: 5.64
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Margarita Lime Cheesecake: 5.8
+  Citrus Marinated Carne Asada: 10.93
+  Poblano Pepper Queso Dip: 5.3
+  Zesty Lime Shrimp Salad: 6.41
+  Breakfast Chorizo Tostadas: 4.95
+  Avocado Ranch Burrito Bowl: 8.5
+  Pineapple Salsa Pork Tacos: 7.75
+  Black Bean & Corn Queso Dip: 4.08
+  Baja Shrimp Quesadilla: 9.16
+  Coconut Lime Shrimp Skewers: 11.98
+  Black Bean and Lime Soup: 4.51
+  Grilled Street Corn: 4.4
+  Avocado Lime Dip: 3.94
+  Spicy Black Bean Nacho Platter: 8.01
+  Hatch Green Chile Rice: 3.95

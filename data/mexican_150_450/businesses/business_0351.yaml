@@ -1,0 +1,39 @@
+id: business_0351
+name: Cake My Day, Churro Way
+description: Treat your taste buds to a fiesta of bold Mexican and Tex-Mex flavors,
+  from crave-worthy starters to decadent desserts. Fresh, vibrant, and playfully unexpected,
+  every visit is a celebration worth savoring.
+rating: 1.0
+progenitor_customer: customer_0117
+menu_features:
+  Chili-Lime Cauliflower Bites: 7.82
+  Tres Leches Cake: 7.06
+  Blue Agave Tequila Sunrise: 8.5
+  Black Bean & Corn Quesadilla: 12.24
+  Gourmet Nacho Platter: 8.77
+  Black Bean Avocado Tostadas: 10.65
+  Ancho Chili Braised Beef Enchiladas: 13.05
+  Spicy Avocado Burger: 15.78
+  Breakfast Chilaquiles Verde: 11.37
+  Churro Ice Cream Sandwich: 7.65
+  Cocoa Dusted Churro Bites: 6.03
+  Southwestern Quinoa Salad: 8.12
+  Creamy Poblano Corn Chowder: 9.62
+  Spiced Chocolate Flan: 7.87
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Chili-Lime Cauliflower Bites: 6.88
+  Tres Leches Cake: 6.21
+  Blue Agave Tequila Sunrise: 7.48
+  Black Bean & Corn Quesadilla: 10.77
+  Gourmet Nacho Platter: 7.72
+  Black Bean Avocado Tostadas: 9.37
+  Ancho Chili Braised Beef Enchiladas: 11.48
+  Spicy Avocado Burger: 13.89
+  Breakfast Chilaquiles Verde: 10.01
+  Churro Ice Cream Sandwich: 6.73
+  Cocoa Dusted Churro Bites: 5.31
+  Southwestern Quinoa Salad: 7.15
+  Creamy Poblano Corn Chowder: 8.47
+  Spiced Chocolate Flan: 6.93

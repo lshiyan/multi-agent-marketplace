@@ -1,0 +1,41 @@
+id: business_0021
+name: Chili & Char
+description: Experience bold Mexican and Tex-Mex flavors, where fire-roasted favorites
+  and zesty ingredients take center stage. Savor vibrant, made-from-scratch dishes
+  and refreshing drinks in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0007
+menu_features:
+  Hatch Green Chile Stew: 17.63
+  Flamin' Skillet Fajitas: 18.18
+  Street Style Quesadillas: 8.82
+  Margarita Lime Pie: 5.38
+  Fresh Limeade: 3.67
+  Twisted Tequila Sunrise: 8.12
+  Pineapple Chipotle Salsa & Chips: 6.76
+  Zesty Lime Grilled Chicken: 13.52
+  Baja Shrimp Quesadilla: 11.7
+  Roasted Tomato Salsa Dip: 2.97
+  Roasted Corn and Black Bean Salad: 8.35
+  Mushroom & Cheese Tamales: 6.35
+  Lime-Garlic Grilled Chicken: 12.59
+  Crispy Fish Baja Bowl: 13.03
+  Beef Enchiladas Verdes: 11.87
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Hatch Green Chile Stew: 12.69
+  Flamin' Skillet Fajitas: 13.09
+  Street Style Quesadillas: 6.35
+  Margarita Lime Pie: 3.87
+  Fresh Limeade: 2.64
+  Twisted Tequila Sunrise: 5.85
+  Pineapple Chipotle Salsa & Chips: 4.87
+  Zesty Lime Grilled Chicken: 9.73
+  Baja Shrimp Quesadilla: 8.42
+  Roasted Tomato Salsa Dip: 2.14
+  Roasted Corn and Black Bean Salad: 6.01
+  Mushroom & Cheese Tamales: 4.57
+  Lime-Garlic Grilled Chicken: 9.06
+  Crispy Fish Baja Bowl: 9.38
+  Beef Enchiladas Verdes: 8.55

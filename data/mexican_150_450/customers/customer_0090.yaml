@@ -1,0 +1,11 @@
+id: customer_0090
+name: Daniel Wang
+request: 'Could you please assist me in finding a business that offers the following
+  menu items: 1 Zesty Lime Chicken Tacos, 1 Chocolate Cinnamon Flan, and 1 Honey Chipotle
+  Wings? It is important that the business serves all three items as I intend to place
+  an order for them. Thank you for your help.'
+menu_features:
+  Zesty Lime Chicken Tacos: 10.49
+  Chocolate Cinnamon Flan: 5.99
+  Honey Chipotle Wings: 10.99
+amenity_features: []

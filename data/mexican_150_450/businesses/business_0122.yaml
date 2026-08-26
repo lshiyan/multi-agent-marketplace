@@ -1,0 +1,44 @@
+id: business_0122
+name: Pico & Pescado
+description: Dive into a fresh and vibrant take on Mexican and Tex-Mex cuisine, where
+  bold flavors meet coastal classics and garden-fresh ingredients. Enjoy a welcoming
+  setting and creative twists on your favorite dishes, from savory bowls to crisp
+  quesadillas and zesty seafood plates.
+rating: 1.0
+progenitor_customer: customer_0041
+menu_features:
+  Avocado Ranch Burrito Bowl: 11.48
+  Zesty Shrimp Quesadillas: 14.46
+  Avocado Lime Dip: 6.47
+  Baja Fish Taco Plate: 13.34
+  Honey Lime Grilled Fajitas: 15.62
+  Smoky Chipotle BBQ Nachos: 10.49
+  Stuffed Poblano Pepper Delight: 7.94
+  Street Style Quesadillas: 8.61
+  Citrus Marinated Carne Asada: 16.62
+  Baja Fish Burrito: 13.11
+  Black Bean and Cilantro Rice: 3.85
+  Pineapple Salsa Pork Tacos: 12.25
+  Spicy Mango Margarita: 10.85
+  Chili Lime Jicama Sticks: 6.04
+  Horchata Iced Latte: 4.95
+  Avocado Lime Cheesecake: 6.93
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Avocado Ranch Burrito Bowl: 9.41
+  Zesty Shrimp Quesadillas: 11.86
+  Avocado Lime Dip: 5.31
+  Baja Fish Taco Plate: 10.94
+  Honey Lime Grilled Fajitas: 12.81
+  Smoky Chipotle BBQ Nachos: 8.6
+  Stuffed Poblano Pepper Delight: 6.51
+  Street Style Quesadillas: 7.06
+  Citrus Marinated Carne Asada: 13.63
+  Baja Fish Burrito: 10.75
+  Black Bean and Cilantro Rice: 3.16
+  Pineapple Salsa Pork Tacos: 10.04
+  Spicy Mango Margarita: 8.9
+  Chili Lime Jicama Sticks: 4.95
+  Horchata Iced Latte: 4.06
+  Avocado Lime Cheesecake: 5.68

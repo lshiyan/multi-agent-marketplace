@@ -1,0 +1,35 @@
+id: business_0152
+name: Margarita & Mango
+description: Margarita & Mango offers a vibrant fusion of Mexican and Tex-Mex flavors
+  in a lively atmosphere. Savor creative margaritas and fresh, zesty dishes perfect
+  for sharing and celebrating.
+rating: 1.0
+progenitor_customer: customer_0051
+menu_features:
+  Mango Habanero Margarita: 9.74
+  Margarita Lime Cheesecake: 6.03
+  Blueberry Jalapeno Lemonade: 4.65
+  Avocado Street Tacos: 10.96
+  Three-Cheese Enchilada Stack: 13.71
+  Crispy Avocado Burrito: 9.86
+  Crispy Avocado Bites: 9.49
+  Sweet Plantain Empanadas: 6.07
+  Zesty Lime Chicken Enchiladas: 15.64
+  Chili Lime Skirt Steak: 14.92
+  Black Bean and Corn Fiesta Salad: 9.17
+  Chili Lime Roasted Corn: 4.68
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Mango Habanero Margarita: 7.79
+  Margarita Lime Cheesecake: 4.82
+  Blueberry Jalapeno Lemonade: 3.72
+  Avocado Street Tacos: 8.77
+  Three-Cheese Enchilada Stack: 10.97
+  Crispy Avocado Burrito: 7.89
+  Crispy Avocado Bites: 7.59
+  Sweet Plantain Empanadas: 4.86
+  Zesty Lime Chicken Enchiladas: 12.51
+  Chili Lime Skirt Steak: 11.94
+  Black Bean and Corn Fiesta Salad: 7.34
+  Chili Lime Roasted Corn: 3.74

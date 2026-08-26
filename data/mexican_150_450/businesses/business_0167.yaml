@@ -1,0 +1,42 @@
+id: business_0167
+name: Holy Frijoles & Flaming Pineapples
+description: Bringing a playful twist to Mexican and Tex-Mex classics, this vibrant
+  eatery delights with fresh flavors, inventive bites, and a fiesta of sweet and savory
+  treats. Join us for a delicious experience where every dish turns up the flavor
+  and the fun.
+rating: 1.0
+progenitor_customer: customer_0056
+menu_features:
+  Fresh Limeade: 3.65
+  Grilled Pineapple Salmon: 21.32
+  Green Chile Pork Stew: 15.75
+  Creamy Avocado Caesar Salad: 11.31
+  Sweet Plantain Empanadas: 8.46
+  Black Bean Taco Bowl: 10.9
+  Fresh Corn Elote: 4.18
+  Bacon Wrapped Jalapeno Bites: 7.16
+  Roasted Red Pepper Quesadilla: 11.05
+  Avocado Lime Cheesecake: 8.75
+  Chocolate Churro Bites: 5.8
+  Cinnamon Churro Bites: 6.9
+  Crispy Fish Street Tacos: 17.76
+  Mesquite Grilled Steak Fajitas: 16.65
+  Red Chili Braised Beef Brisket: 14.76
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Fresh Limeade: 3.18
+  Grilled Pineapple Salmon: 18.55
+  Green Chile Pork Stew: 13.7
+  Creamy Avocado Caesar Salad: 9.84
+  Sweet Plantain Empanadas: 7.36
+  Black Bean Taco Bowl: 9.48
+  Fresh Corn Elote: 3.64
+  Bacon Wrapped Jalapeno Bites: 6.23
+  Roasted Red Pepper Quesadilla: 9.61
+  Avocado Lime Cheesecake: 7.61
+  Chocolate Churro Bites: 5.05
+  Cinnamon Churro Bites: 6.0
+  Crispy Fish Street Tacos: 15.45
+  Mesquite Grilled Steak Fajitas: 14.49
+  Red Chili Braised Beef Brisket: 12.84

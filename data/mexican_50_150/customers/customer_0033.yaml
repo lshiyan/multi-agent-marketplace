@@ -1,0 +1,12 @@
+id: customer_0033
+name: Noah Garcia
+request: 'I would like assistance in finding a business that serves the following
+  menu items: 1 Lime-Cilantro Quinoa Salad, 1 Red Chili Braised Beef Brisket, and
+  1 Pico Avocado Toast. Please ensure that the business can fulfill this exact order
+  as these specific items are important to me. Once located, I intend to place an
+  order. Thank you for your help.'
+menu_features:
+  Lime-Cilantro Quinoa Salad: 9.79
+  Red Chili Braised Beef Brisket: 14.59
+  Pico Avocado Toast: 7.99
+amenity_features: []

@@ -1,0 +1,43 @@
+id: business_0013
+name: Pepper & Paloma
+description: Pepper & Paloma offers a vibrant fusion of Mexican and Tex-Mex flavors
+  in a lively, modern setting. Enjoy sizzling specialties, fresh salsas, and creative
+  cocktails designed to delight every palate.
+rating: 1.0
+progenitor_customer: customer_0005
+menu_features:
+  Honey Lime Fajita Sizzlers: 13.15
+  Mango Jalapeno Salsa and Chips: 5.19
+  Twice-Baked Sweet Potato: 7.44
+  Bacon Wrapped Jalapeno Bites: 4.43
+  Baja Fish Tacos: 15.39
+  Margarita Grilled Chicken: 13.97
+  Pineapple Tequila Chicken Skewers: 12.12
+  Paloma Breeze Cocktail: 6.7
+  Hatch Green Chile Stew: 12.02
+  Tex-Mex Big Breakfast Bowl: 13.75
+  Chorizo and Egg Tacos: 8.63
+  Tequila Sunrise Smoothie: 7.76
+  Loaded Sweet Potato Fries: 7.31
+  Rich Chocolate Tamales: 7.3
+  Horchata Cold Brew Coffee: 4.21
+  Caramel Corn Flan: 7.6
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Honey Lime Fajita Sizzlers: 9.21
+  Mango Jalapeno Salsa and Chips: 3.63
+  Twice-Baked Sweet Potato: 5.21
+  Bacon Wrapped Jalapeno Bites: 3.1
+  Baja Fish Tacos: 10.77
+  Margarita Grilled Chicken: 9.78
+  Pineapple Tequila Chicken Skewers: 8.48
+  Paloma Breeze Cocktail: 4.69
+  Hatch Green Chile Stew: 8.41
+  Tex-Mex Big Breakfast Bowl: 9.62
+  Chorizo and Egg Tacos: 6.04
+  Tequila Sunrise Smoothie: 5.43
+  Loaded Sweet Potato Fries: 5.12
+  Rich Chocolate Tamales: 5.11
+  Horchata Cold Brew Coffee: 2.95
+  Caramel Corn Flan: 5.32

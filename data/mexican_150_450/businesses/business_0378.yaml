@@ -1,0 +1,41 @@
+id: business_0378
+name: Avocado Toasted & Turned Up
+description: A lively spot where fresh flavors fuse coastal vibes and classic comforts.
+  Dive into zesty plates, creative bites, and colorful sips for a fiesta at every
+  meal.
+rating: 1.0
+progenitor_customer: customer_0126
+menu_features:
+  Baja Shrimp Quesadilla: 15.04
+  Black Bean and Cilantro Rice: 4.39
+  Tamarind Ginger Cooler: 5.68
+  Pico Avocado Toast: 8.52
+  Spicy Black Bean Enchiladas: 10.97
+  Honey-Lime Grilled Salmon: 13.18
+  Crispy Avocado Fritters: 6.55
+  Mesquite Grilled Steak Fajitas: 17.03
+  Crispy Fish Street Tacos: 14.58
+  Crispy Tortilla Breakfast Bowl: 9.82
+  Spicy Pork Tamales: 12.6
+  Grilled Elote Corn: 5.39
+  Mexican Chocolate Brownie: 4.24
+  Tomatillo Ranch Enchiladas: 15.41
+  Caramelized Plantain Empanadas: 6.26
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Baja Shrimp Quesadilla: 13.69
+  Black Bean and Cilantro Rice: 3.99
+  Tamarind Ginger Cooler: 5.17
+  Pico Avocado Toast: 7.75
+  Spicy Black Bean Enchiladas: 9.98
+  Honey-Lime Grilled Salmon: 11.99
+  Crispy Avocado Fritters: 5.96
+  Mesquite Grilled Steak Fajitas: 15.5
+  Crispy Fish Street Tacos: 13.27
+  Crispy Tortilla Breakfast Bowl: 8.94
+  Spicy Pork Tamales: 11.47
+  Grilled Elote Corn: 4.9
+  Mexican Chocolate Brownie: 3.86
+  Tomatillo Ranch Enchiladas: 14.02
+  Caramelized Plantain Empanadas: 5.7

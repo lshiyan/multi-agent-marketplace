@@ -1,0 +1,44 @@
+id: business_0060
+name: Casa Poblano y Agave
+description: Experience the vibrant spirit of Mexico and the Southwest at Casa Poblano
+  y Agave, where bold flavors and fresh ingredients come together in every dish. From
+  sizzling grills to refreshing margaritas, our menu delivers a true taste of tradition
+  with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0020
+menu_features:
+  Stuffed Poblano Peppers: 13.86
+  Carne Asada Nachos: 9.76
+  Chipotle Lime Shrimp Skewers: 12.62
+  Chipotle Bean Burrito: 8.1
+  Cactus Cooler Margarita: 9.08
+  Chipotle Shrimp Skewers: 12.09
+  Fresh Corn Elote: 4.02
+  Tequila Lime Grilled Shrimp: 15.99
+  Tamarind Glazed Wings: 12.78
+  Spicy Pork Tamales: 12.63
+  Tex-Mex Fajita Wrap: 13.82
+  Crispy Avocado Tacos: 13.66
+  Roasted Poblano Rellenos: 13.13
+  Strawberry Jalapeno Lemonade: 4.24
+  Sizzling Fajita Skillet: 13.32
+  Ancho Chili Spiced Ribs: 14.3
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Stuffed Poblano Peppers: 10.95
+  Carne Asada Nachos: 7.71
+  Chipotle Lime Shrimp Skewers: 9.97
+  Chipotle Bean Burrito: 6.4
+  Cactus Cooler Margarita: 7.17
+  Chipotle Shrimp Skewers: 9.55
+  Fresh Corn Elote: 3.18
+  Tequila Lime Grilled Shrimp: 12.63
+  Tamarind Glazed Wings: 10.1
+  Spicy Pork Tamales: 9.98
+  Tex-Mex Fajita Wrap: 10.92
+  Crispy Avocado Tacos: 10.79
+  Roasted Poblano Rellenos: 10.37
+  Strawberry Jalapeno Lemonade: 3.35
+  Sizzling Fajita Skillet: 10.52
+  Ancho Chili Spiced Ribs: 11.3

@@ -1,0 +1,10 @@
+id: customer_0027
+name: Chloe King
+request: Could you please assist me in finding a business that can fulfill my order
+  for 1 Ancho Chile Chicken Salad and 1 Fresh Mint Mojito? It is important that the
+  business can offer both of these items. Once identified, I intend to proceed with
+  placing the order. Thank you for your assistance.
+menu_features:
+  Ancho Chile Chicken Salad: 9.99
+  Fresh Mint Mojito: 8.49
+amenity_features: []

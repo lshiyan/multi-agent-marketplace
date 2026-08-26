@@ -1,0 +1,39 @@
+id: business_0224
+name: Cacao & Sunrise
+description: Experience a modern twist on Mexican and Tex-Mex comfort food, where
+  bold flavors meet bright beginnings. From hearty breakfast bites to rich, chocolate-inspired
+  desserts, every meal celebrates vibrant tradition with a fresh edge.
+rating: 1.0
+progenitor_customer: customer_0075
+menu_features:
+  Chocolate Mole Brownie: 5.7
+  Tamarind Ginger Cooler: 4.16
+  Carnitas Breakfast Burrito: 10.67
+  Classic Flan Delight: 7.38
+  Roasted Tomato Salsa Dip: 3.72
+  Ultimate Nacho Platter: 9.43
+  Smoky Black Bean Soup: 5.9
+  Hatch Green Chile Stew: 15.38
+  Pumpkin Spice Flan: 6.17
+  Black Bean Breakfast Burrito: 8.39
+  Breakfast Burrito Bonanza: 9.69
+  Baja Shrimp Quesadilla: 14.03
+  Carnitas Plantain Burrito: 12.2
+  Zesty Lime Shrimp Tostadas: 10.61
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Chocolate Mole Brownie: 3.53
+  Tamarind Ginger Cooler: 2.58
+  Carnitas Breakfast Burrito: 6.62
+  Classic Flan Delight: 4.58
+  Roasted Tomato Salsa Dip: 2.31
+  Ultimate Nacho Platter: 5.85
+  Smoky Black Bean Soup: 3.66
+  Hatch Green Chile Stew: 9.54
+  Pumpkin Spice Flan: 3.83
+  Black Bean Breakfast Burrito: 5.2
+  Breakfast Burrito Bonanza: 6.01
+  Baja Shrimp Quesadilla: 8.7
+  Carnitas Plantain Burrito: 7.56
+  Zesty Lime Shrimp Tostadas: 6.58

@@ -1,0 +1,43 @@
+id: business_0240
+name: Azul Paladar Mexicano
+description: Experience vibrant Mexican and Tex-Mex flavors in a colorful, welcoming
+  atmosphere. Savor inventive street bites, signature cocktails, and classic favorites
+  crafted with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0080
+menu_features:
+  Mini Street Tacos Platter: 9.79
+  Blueberry Jalapeno Margarita: 10.05
+  Crispy Fish Baja Bowl: 14.26
+  Spiced Chocolate Tres Leches: 6.56
+  "Spicy Jalape\xF1o Limeade": 3.32
+  Smoky Black Bean Enchiladas: 11.05
+  Chipotle Lime Chicken Salad: 11.78
+  Crispy Avocado Tacos: 9.41
+  Pineapple Chipotle Pork: 16.39
+  Roasted Poblano Queso Dip: 7.77
+  Baja Fish Taco Plate: 16.17
+  Blue Corn Tortilla Chips: 5.24
+  Tropical Coconut Margarita: 9.85
+  Spicy Shrimp Fajitas: 14.93
+  Grilled Pineapple Mojito: 7.84
+  Chili Lime Roasted Corn: 4.63
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Mini Street Tacos Platter: 8.32
+  Blueberry Jalapeno Margarita: 8.54
+  Crispy Fish Baja Bowl: 12.12
+  Spiced Chocolate Tres Leches: 5.58
+  "Spicy Jalape\xF1o Limeade": 2.82
+  Smoky Black Bean Enchiladas: 9.39
+  Chipotle Lime Chicken Salad: 10.01
+  Crispy Avocado Tacos: 8.0
+  Pineapple Chipotle Pork: 13.93
+  Roasted Poblano Queso Dip: 6.6
+  Baja Fish Taco Plate: 13.74
+  Blue Corn Tortilla Chips: 4.45
+  Tropical Coconut Margarita: 8.37
+  Spicy Shrimp Fajitas: 12.69
+  Grilled Pineapple Mojito: 6.66
+  Chili Lime Roasted Corn: 3.94

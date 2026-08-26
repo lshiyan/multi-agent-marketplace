@@ -1,0 +1,41 @@
+id: business_0440
+name: Flor y Fuego Mexicana
+description: Experience vibrant Mexican and Tex-Mex flavors in a welcoming, colorful
+  setting. From zesty salsas to indulgent chocolate and cinnamon desserts, every dish
+  blends classic recipes with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0147
+menu_features:
+  Chocolate Mole Brownie: 6.07
+  Spiked Horchata Cooler: 6.26
+  Tomatillo Salsa Verde Nachos: 9.42
+  Pineapple Salsa Pork Tacos: 10.26
+  Cactus Flower Iced Tea: 3.65
+  Cinnamon Churro Bites: 5.83
+  Churro Ice Cream Sandwich: 7.49
+  Loaded Nacho Skillet: 9.52
+  Cactus Cooler Margarita: 8.08
+  Huevos Rancheros: 11.45
+  Avocado Lime Salsa: 5.87
+  Raspberry Chipotle Barbecue Ribs: 12.23
+  Cocoa Cinnamon Tequila: 9.02
+  Crispy Avocado Burrito: 13.32
+  Spicy Avocado Smash Burger: 14.29
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Chocolate Mole Brownie: 4.49
+  Spiked Horchata Cooler: 4.63
+  Tomatillo Salsa Verde Nachos: 6.97
+  Pineapple Salsa Pork Tacos: 7.59
+  Cactus Flower Iced Tea: 2.7
+  Cinnamon Churro Bites: 4.31
+  Churro Ice Cream Sandwich: 5.54
+  Loaded Nacho Skillet: 7.04
+  Cactus Cooler Margarita: 5.98
+  Huevos Rancheros: 8.47
+  Avocado Lime Salsa: 4.34
+  Raspberry Chipotle Barbecue Ribs: 9.05
+  Cocoa Cinnamon Tequila: 6.67
+  Crispy Avocado Burrito: 9.86
+  Spicy Avocado Smash Burger: 10.57

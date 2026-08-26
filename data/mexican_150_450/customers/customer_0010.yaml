@@ -1,0 +1,10 @@
+id: customer_0010
+name: Grace Singh
+request: 'Please assist me in finding a business where I can place an order for the
+  following items: 1 Vanilla Cinnamon Horchata and 1 Loaded Street Corn. These items
+  are essential, and I would like to make a purchase as soon as possible once such
+  a business is found. Thank you!'
+menu_features:
+  Vanilla Cinnamon Horchata: 3.49
+  Loaded Street Corn: 6.99
+amenity_features: []

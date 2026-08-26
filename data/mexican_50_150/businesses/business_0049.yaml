@@ -1,0 +1,39 @@
+id: business_0049
+name: Citrus & Char Cantina
+description: Citrus & Char Cantina offers a vibrant fusion of fresh flavors and bold,
+  smoky favorites in a lively yet relaxed atmosphere. Experience modern Mexican and
+  Tex-Mex classics paired with refreshing cocktails and creative desserts.
+rating: 1.0
+progenitor_customer: customer_0017
+menu_features:
+  Chocolate Churro Bites: 6.66
+  Jicama and Citrus Salad: 9.52
+  Ranchero Steak Fajitas: 19.81
+  Tequila Lime Flan: 7.51
+  Minty Mojito Refresher: 7.67
+  Spicy Black Bean Nacho Platter: 12.04
+  Pineapple Salsa Pork Tacos: 12.44
+  Passionfruit Paloma: 8.82
+  Breakfast Chorizo Torta: 9.74
+  Coconut Lime Margarita: 8.43
+  Smoky Chipotle Black Bean Soup: 8.07
+  Shrimp Ceviche Cups: 10.85
+  Lime-Garlic Grilled Chicken: 14.35
+  Spicy Chipotle Chicken Wings: 10.41
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Chocolate Churro Bites: 6.19
+  Jicama and Citrus Salad: 8.85
+  Ranchero Steak Fajitas: 18.42
+  Tequila Lime Flan: 6.98
+  Minty Mojito Refresher: 7.13
+  Spicy Black Bean Nacho Platter: 11.2
+  Pineapple Salsa Pork Tacos: 11.57
+  Passionfruit Paloma: 8.2
+  Breakfast Chorizo Torta: 9.06
+  Coconut Lime Margarita: 7.84
+  Smoky Chipotle Black Bean Soup: 7.51
+  Shrimp Ceviche Cups: 10.09
+  Lime-Garlic Grilled Chicken: 13.35
+  Spicy Chipotle Chicken Wings: 9.68

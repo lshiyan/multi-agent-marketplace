@@ -1,0 +1,43 @@
+id: business_0120
+name: Quesadelightful
+description: Quesadelightful serves up vibrant Mexican and Tex-Mex flavors with a
+  creative twist, celebrating fresh ingredients and bold combinations. From zesty
+  starters to sweet finishes, every bite is a fiesta for your taste buds.
+rating: 1.0
+progenitor_customer: customer_0040
+menu_features:
+  Chipotle Chicken Enchiladas: 16.9
+  Al Pastor Quesadilla: 12.53
+  Margarita Lime Cheesecake: 8.23
+  Tamale Trio Platter: 13.61
+  Strawberry Jalapeno Lemonade: 4.46
+  Honey Lime Grilled Corn: 4.21
+  Black Bean & Corn Quesadilla: 7.35
+  Tequila Lime Grilled Chicken: 14.04
+  Cilantro Lime Shrimp Skewers: 12.84
+  Mango Jalapeno Salsa and Chips: 5.29
+  Cinnamon Churro Bites: 4.89
+  "Cheesy Jalape\xF1o Quesadillas": 10.93
+  Grilled Pineapple Salmon: 22.48
+  Grilled Elote Corn: 3.96
+  Beef Enchiladas Verdes: 16.77
+  Spicy Pineapple Salsa Dip: 5.39
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Chipotle Chicken Enchiladas: 14.36
+  Al Pastor Quesadilla: 10.65
+  Margarita Lime Cheesecake: 7.0
+  Tamale Trio Platter: 11.57
+  Strawberry Jalapeno Lemonade: 3.79
+  Honey Lime Grilled Corn: 3.58
+  Black Bean & Corn Quesadilla: 6.25
+  Tequila Lime Grilled Chicken: 11.93
+  Cilantro Lime Shrimp Skewers: 10.91
+  Mango Jalapeno Salsa and Chips: 4.5
+  Cinnamon Churro Bites: 4.16
+  "Cheesy Jalape\xF1o Quesadillas": 9.29
+  Grilled Pineapple Salmon: 19.11
+  Grilled Elote Corn: 3.37
+  Beef Enchiladas Verdes: 14.25
+  Spicy Pineapple Salsa Dip: 4.58

@@ -1,0 +1,33 @@
+id: business_0092
+name: Vibrant Cactus Kitchen
+description: Vibrant Cactus Kitchen brings a modern twist to Mexican and Tex-Mex classics,
+  offering bold flavors and fresh ingredients in every bite. Enjoy a lively atmosphere
+  perfect for sharing savory, zesty plates with friends and family.
+rating: 1.0
+progenitor_customer: customer_0031
+menu_features:
+  Chipotle Lime Cauliflower Tacos: 14.3
+  Beef Enchiladas Verdes: 10.72
+  Ancho Chile BBQ Ribs: 22.12
+  Breakfast Chorizo Torta: 10.98
+  Jicama and Citrus Salad: 8.54
+  Cilantro Lime Chicken Tacos: 11.6
+  Chocolate Churro Bites: 4.97
+  Sizzling Chicken Fajitas: 14.16
+  Tangy Tomato Salsa Soup: 9.07
+  Loaded Nacho Platter: 7.93
+  Creamy Jalapeno Corn Fritters: 7.34
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Chipotle Lime Cauliflower Tacos: 10.58
+  Beef Enchiladas Verdes: 7.93
+  Ancho Chile BBQ Ribs: 16.37
+  Breakfast Chorizo Torta: 8.13
+  Jicama and Citrus Salad: 6.32
+  Cilantro Lime Chicken Tacos: 8.58
+  Chocolate Churro Bites: 3.68
+  Sizzling Chicken Fajitas: 10.48
+  Tangy Tomato Salsa Soup: 6.71
+  Loaded Nacho Platter: 5.87
+  Creamy Jalapeno Corn Fritters: 5.43

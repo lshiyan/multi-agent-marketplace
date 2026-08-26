@@ -1,0 +1,37 @@
+id: business_0437
+name: Pineapple & Flame
+description: "Experience vibrant, modern Mexican flavors with a tropical twist at\
+  \ Pineapple & Flame. Our menu features sizzling meats, fresh seafood, and sweet\
+  \ treats\u2014all crafted with bold seasoning and fire-kissed flair."
+rating: 1.0
+progenitor_customer: customer_0146
+menu_features:
+  Honey Lime Chicken Fajitas: 11.91
+  Grilled Pineapple Salmon: 18.56
+  Spicy Pineapple Salsa Dip: 4.84
+  Hatch Green Chile Rice: 4.74
+  Honey-Lime Grilled Shrimp: 16.92
+  Churro Ice Cream Sandwich: 8.57
+  Smoky Chipotle BBQ Wings: 7.52
+  Spicy Chocolate Churros: 5.51
+  Baja Fish Taco Plate: 16.39
+  Crispy Fish Baja Bowl: 11.64
+  Smoky Chipotle BBQ Ribs: 12.32
+  Chili Lime Roasted Corn: 4.33
+  Sizzling Pork Carnitas Bowl: 13.12
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Honey Lime Chicken Fajitas: 11.2
+  Grilled Pineapple Salmon: 17.45
+  Spicy Pineapple Salsa Dip: 4.55
+  Hatch Green Chile Rice: 4.46
+  Honey-Lime Grilled Shrimp: 15.9
+  Churro Ice Cream Sandwich: 8.06
+  Smoky Chipotle BBQ Wings: 7.07
+  Spicy Chocolate Churros: 5.18
+  Baja Fish Taco Plate: 15.41
+  Crispy Fish Baja Bowl: 10.94
+  Smoky Chipotle BBQ Ribs: 11.58
+  Chili Lime Roasted Corn: 4.07
+  Sizzling Pork Carnitas Bowl: 12.33

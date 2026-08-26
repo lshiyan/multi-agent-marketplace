@@ -1,0 +1,47 @@
+id: business_0375
+name: Fajita the Bean Scene
+description: Step into a world where smoky sizzles, zesty flavors, and classic comfort
+  meet with a creative twist. Enjoy a vibrant Tex-Mex experience inspired by fresh
+  ingredients and bold, memorable bites.
+rating: 1.0
+progenitor_customer: customer_0125
+menu_features:
+  Tamarind Ginger Cooler: 4.89
+  Honey Lime Fajita Sizzlers: 13.03
+  Chocolate Mole Chicken: 16.66
+  Black Bean & Corn Enchiladas: 13.14
+  Zesty Lime Chicken Tacos: 10.36
+  Chocolate Cinnamon Flan: 7.24
+  Spicy Black Bean and Cheese Quesadilla: 11.66
+  Black Bean Street Tacos: 10.79
+  Crispy Fish Baja Bowl: 13.68
+  Chili Lime Skirt Steak: 17.66
+  Carnitas Breakfast Burrito: 11.83
+  Mole Chicken Quesadilla: 9.74
+  Crispy Fish Street Tacos: 16.13
+  Spicy Shrimp Nacho Platter: 10.19
+  Roasted Corn Elote: 4.17
+  Smoky Chipotle BBQ Nachos: 11.29
+  Southwest Chopped Salad: 9.85
+  Chipotle Chicken Enchiladas: 13.9
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Tamarind Ginger Cooler: 3.57
+  Honey Lime Fajita Sizzlers: 9.51
+  Chocolate Mole Chicken: 12.16
+  Black Bean & Corn Enchiladas: 9.59
+  Zesty Lime Chicken Tacos: 7.56
+  Chocolate Cinnamon Flan: 5.29
+  Spicy Black Bean and Cheese Quesadilla: 8.51
+  Black Bean Street Tacos: 7.88
+  Crispy Fish Baja Bowl: 9.99
+  Chili Lime Skirt Steak: 12.89
+  Carnitas Breakfast Burrito: 8.64
+  Mole Chicken Quesadilla: 7.11
+  Crispy Fish Street Tacos: 11.77
+  Spicy Shrimp Nacho Platter: 7.44
+  Roasted Corn Elote: 3.04
+  Smoky Chipotle BBQ Nachos: 8.24
+  Southwest Chopped Salad: 7.19
+  Chipotle Chicken Enchiladas: 10.15

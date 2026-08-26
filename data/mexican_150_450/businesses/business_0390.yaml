@@ -1,0 +1,35 @@
+id: business_0390
+name: Flan & Fire
+description: Flan & Fire serves up a vibrant blend of classic Mexican-inspired cuisine
+  and modern Tex-Mex favorites, finished with signature housemade desserts. Join us
+  for bold flavors, creative dishes, and a warm, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0130
+menu_features:
+  Toasted Coconut Flan: 6.42
+  Coconut Flan Delight: 6.95
+  Roasted Tomato Salsa Dip: 3.58
+  Avocado Lime Empanadas: 10.33
+  Classic Flan Delight: 5.41
+  Grilled Pineapple Salmon: 18.02
+  Black Bean & Cheese Enchiladas: 12.29
+  Grilled Elote Corn: 5.08
+  Gourmet Nacho Platter: 10.88
+  Ancho Chili Braised Beef Enchiladas: 15.33
+  "Spicy Jalape\xF1o Limeade": 4.19
+  Black Bean & Corn Enchiladas: 11.18
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Toasted Coconut Flan: 5.39
+  Coconut Flan Delight: 5.84
+  Roasted Tomato Salsa Dip: 3.01
+  Avocado Lime Empanadas: 8.68
+  Classic Flan Delight: 4.54
+  Grilled Pineapple Salmon: 15.14
+  Black Bean & Cheese Enchiladas: 10.32
+  Grilled Elote Corn: 4.27
+  Gourmet Nacho Platter: 9.14
+  Ancho Chili Braised Beef Enchiladas: 12.88
+  "Spicy Jalape\xF1o Limeade": 3.52
+  Black Bean & Corn Enchiladas: 9.39

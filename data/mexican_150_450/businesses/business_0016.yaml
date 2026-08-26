@@ -1,0 +1,37 @@
+id: business_0016
+name: Mango Mesa
+description: A vibrant destination blending classic and modern Mexican flavors with
+  a spicy, fruity twist. Experience fresh salsas, flavorful grilled dishes, and refreshing
+  drinks in a lively atmosphere.
+rating: 1.0
+progenitor_customer: customer_0006
+menu_features:
+  Mango Jalapeno Salsa and Chips: 5.59
+  Ancho Chili Braised Beef Enchiladas: 10.07
+  Horchata Iced Latte: 5.23
+  Spicy Black Bean Enchiladas: 10.65
+  Citrus Marinated Carne Asada: 15.11
+  Classic Flan Delight: 4.65
+  Stuffed Avocado Delight: 8.61
+  Classic Lime Margarita: 6.71
+  Vanilla Almond Horchata: 4.5
+  Blueberry Jalapeno Margarita: 9.66
+  Ancho Chile BBQ Ribs: 21.75
+  Grilled Elote Corn: 4.38
+  Baja Fish Tacos: 14.32
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Mango Jalapeno Salsa and Chips: 4.64
+  Ancho Chili Braised Beef Enchiladas: 8.36
+  Horchata Iced Latte: 4.34
+  Spicy Black Bean Enchiladas: 8.84
+  Citrus Marinated Carne Asada: 12.54
+  Classic Flan Delight: 3.86
+  Stuffed Avocado Delight: 7.15
+  Classic Lime Margarita: 5.57
+  Vanilla Almond Horchata: 3.73
+  Blueberry Jalapeno Margarita: 8.02
+  Ancho Chile BBQ Ribs: 18.05
+  Grilled Elote Corn: 3.64
+  Baja Fish Tacos: 11.89

@@ -1,0 +1,43 @@
+id: business_0068
+name: Sabor y Sol Cantina
+description: Experience vibrant Mexican and Tex-Mex flavors in a welcoming, sun-inspired
+  setting. Savor fresh grilled favorites, zesty specialties, and refreshing beverages
+  crafted for every occasion.
+rating: 1.0
+progenitor_customer: customer_0023
+menu_features:
+  Al Pastor Quesadilla: 11.24
+  Huevos Rancheros: 9.06
+  Chipotle Lime Chicken Skewers: 11.51
+  Roasted Poblano Veggie Skillet: 11.14
+  Zesty Lime Grilled Shrimp: 15.24
+  Black Bean and Avocado Wrap: 9.6
+  Cheesy Jalapeno Poppers: 9.68
+  Crispy Avocado Nachos: 9.34
+  Tropical Coconut Margarita: 7.26
+  Sizzling Carne Asada: 14.82
+  Sweet Plantain Empanadas: 6.42
+  Black Bean and Lime Soup: 6.18
+  Zesty Lime Chicken Tacos: 11.33
+  Pico de Gallo Chicken Salad: 7.37
+  Three-Cheese Enchilada Stack: 13.8
+  Mesquite Grilled Steak Fajitas: 14.17
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Al Pastor Quesadilla: 7.31
+  Huevos Rancheros: 5.89
+  Chipotle Lime Chicken Skewers: 7.48
+  Roasted Poblano Veggie Skillet: 7.24
+  Zesty Lime Grilled Shrimp: 9.91
+  Black Bean and Avocado Wrap: 6.24
+  Cheesy Jalapeno Poppers: 6.29
+  Crispy Avocado Nachos: 6.07
+  Tropical Coconut Margarita: 4.72
+  Sizzling Carne Asada: 9.63
+  Sweet Plantain Empanadas: 4.17
+  Black Bean and Lime Soup: 4.02
+  Zesty Lime Chicken Tacos: 7.36
+  Pico de Gallo Chicken Salad: 4.79
+  Three-Cheese Enchilada Stack: 8.97
+  Mesquite Grilled Steak Fajitas: 9.21

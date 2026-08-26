@@ -1,0 +1,33 @@
+id: business_0026
+name: Sabor Street
+description: Savor bold, modern takes on Mexican and Tex-Mex favorites in a lively,
+  welcoming atmosphere. From zesty tacos to refreshing margaritas, every bite is a
+  flavorful adventure.
+rating: 1.0
+progenitor_customer: customer_0009
+menu_features:
+  Savory Chorizo Street Tacos: 11.62
+  Classic Horchata Delight: 3.32
+  Ancho Chili Braised Beef Enchiladas: 14.38
+  Mango Habanero Margarita: 9.65
+  Raspberry Chipotle Barbecue Ribs: 14.43
+  Hatch Green Chile Stew: 12.67
+  Sweet and Spicy Chicken Tostadas: 10.59
+  Roasted Corn and Black Bean Salad: 9.18
+  Mango Jalapeno Salsa and Chips: 5.43
+  Chili Con Queso Supreme: 6.91
+  Honey-Lime Shrimp Skewers: 13.18
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Savory Chorizo Street Tacos: 10.69
+  Classic Horchata Delight: 3.05
+  Ancho Chili Braised Beef Enchiladas: 13.23
+  Mango Habanero Margarita: 8.88
+  Raspberry Chipotle Barbecue Ribs: 13.28
+  Hatch Green Chile Stew: 11.66
+  Sweet and Spicy Chicken Tostadas: 9.74
+  Roasted Corn and Black Bean Salad: 8.45
+  Mango Jalapeno Salsa and Chips: 5.0
+  Chili Con Queso Supreme: 6.36
+  Honey-Lime Shrimp Skewers: 12.13

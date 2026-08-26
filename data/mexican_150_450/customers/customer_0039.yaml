@@ -1,0 +1,12 @@
+id: customer_0039
+name: Lucas Thompson
+request: 'I am looking to place an order with a business that offers the following
+  menu items: 1 Carne Asada Fajitas, 1 Mexican Street Corn Dip, and 1 Chocolate Sopapilla
+  Bites. These specific items are very important to me. Could you please assist in
+  finding a business that serves all of these items, so that I can proceed with placing
+  my order? Thank you!'
+menu_features:
+  Carne Asada Fajitas: 14.99
+  Mexican Street Corn Dip: 9.49
+  Chocolate Sopapilla Bites: 4.99
+amenity_features: []

@@ -1,0 +1,35 @@
+id: business_0406
+name: Casa Verde Limonada
+description: Casa Verde Limonada offers a vibrant take on Mexican and Tex-Mex cuisine,
+  blending fresh flavors and smoky spices in a lively, welcoming atmosphere. Enjoy
+  creative dishes and handcrafted drinks inspired by the heart of Mexico.
+rating: 1.0
+progenitor_customer: customer_0136
+menu_features:
+  Chili Lime Street Corn: 5.16
+  Citrus Cilantro Rice: 3.8
+  Spicy Cucumber Margarita: 9.06
+  Chipotle Lime Shrimp Skewers: 14.84
+  Honey Lime Chicken Fajitas: 12.78
+  Crispy Fish Street Tacos: 17.49
+  Black Bean & Corn Quesadilla: 10.8
+  Creamy Avocado Caesar Salad: 10.98
+  Poblano Pepper Relleno Plate: 10.5
+  Smoky Black Bean Tostadas: 8.2
+  Creamy Poblano Corn Chowder: 8.3
+  Fresh Lime and Cilantro Guacamole: 10.18
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Chili Lime Street Corn: 4.59
+  Citrus Cilantro Rice: 3.38
+  Spicy Cucumber Margarita: 8.06
+  Chipotle Lime Shrimp Skewers: 13.21
+  Honey Lime Chicken Fajitas: 11.37
+  Crispy Fish Street Tacos: 15.57
+  Black Bean & Corn Quesadilla: 9.61
+  Creamy Avocado Caesar Salad: 9.77
+  Poblano Pepper Relleno Plate: 9.35
+  Smoky Black Bean Tostadas: 7.3
+  Creamy Poblano Corn Chowder: 7.39
+  Fresh Lime and Cilantro Guacamole: 9.06

@@ -1,0 +1,33 @@
+id: business_0103
+name: Sabor & Sunsets
+description: Experience vibrant Mexican and Tex-Mex flavors in a lively, welcoming
+  setting. Savor a creative menu full of fresh bites, sweet treats, and refreshing
+  drinks inspired by tradition and sunshine.
+rating: 1.0
+progenitor_customer: customer_0035
+menu_features:
+  Golden Tequila Sunrise: 9.16
+  Classic Flan Delight: 6.53
+  Avocado Lime Grilled Shrimp: 14.17
+  Southwestern Quinoa Salad: 8.56
+  Black Bean & Corn Quesadilla: 10.54
+  Cocoa Dusted Churro Bites: 5.26
+  Tomatillo Ranch Enchiladas: 12.04
+  Tamarind Glazed Wings: 12.76
+  Choco-Chili Volcano Cake: 6.69
+  Passion Fruit Agua Fresca: 3.45
+  Fajita Veggie Burrito Bowl: 13.37
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Golden Tequila Sunrise: 8.52
+  Classic Flan Delight: 6.07
+  Avocado Lime Grilled Shrimp: 13.18
+  Southwestern Quinoa Salad: 7.96
+  Black Bean & Corn Quesadilla: 9.8
+  Cocoa Dusted Churro Bites: 4.89
+  Tomatillo Ranch Enchiladas: 11.2
+  Tamarind Glazed Wings: 11.87
+  Choco-Chili Volcano Cake: 6.22
+  Passion Fruit Agua Fresca: 3.21
+  Fajita Veggie Burrito Bowl: 12.43

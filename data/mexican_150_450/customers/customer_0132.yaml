@@ -1,0 +1,10 @@
+id: customer_0132
+name: Maya Patel
+request: 'Could you please assist me in finding a business that offers the following
+  items: 1 Spicy Chorizo Enchilada and 1 Stuffed Avocado Delight? It is important
+  that both items are available, as I intend to place an order once a suitable business
+  is found. Thank you.'
+menu_features:
+  Spicy Chorizo Enchiladas: 13.99
+  Stuffed Avocado Delight: 7.49
+amenity_features: []

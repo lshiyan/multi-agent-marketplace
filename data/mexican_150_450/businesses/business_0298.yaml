@@ -1,0 +1,39 @@
+id: business_0298
+name: Much Ado About Lime
+description: A spirited Tex-Mex eatery where bold flavors take center stage, from
+  zesty starters to brunch-inspired classics and sizzling specialties. Kick back and
+  enjoy a fiesta of savory bites and creative sips in a lively, lime-loving atmosphere.
+rating: 1.0
+progenitor_customer: customer_0100
+menu_features:
+  "Spicy Jalape\xF1o Limeade": 3.05
+  Black Bean and Lime Soup: 8.01
+  Breakfast Chorizo Torta: 8.06
+  Loaded Nacho Fries: 9.0
+  Bacon Wrapped Jalapeno Bites: 10.1
+  Black Bean Breakfast Burrito: 8.16
+  Avocado Lime Grilled Shrimp: 11.74
+  Frozen Strawberry Daiquiri: 9.42
+  Spiced Churro Bites: 6.75
+  Loaded Nachos Grande: 11.88
+  Breakfast Chilaquiles Verde: 9.2
+  Raspberry Chipotle Barbecue Ribs: 14.33
+  Sizzling Fajita Fiesta: 15.1
+  Tequila Lime Shrimp Skewers: 15.79
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  "Spicy Jalape\xF1o Limeade": 2.32
+  Black Bean and Lime Soup: 6.09
+  Breakfast Chorizo Torta: 6.13
+  Loaded Nacho Fries: 6.84
+  Bacon Wrapped Jalapeno Bites: 7.68
+  Black Bean Breakfast Burrito: 6.2
+  Avocado Lime Grilled Shrimp: 8.92
+  Frozen Strawberry Daiquiri: 7.16
+  Spiced Churro Bites: 5.13
+  Loaded Nachos Grande: 9.03
+  Breakfast Chilaquiles Verde: 6.99
+  Raspberry Chipotle Barbecue Ribs: 10.89
+  Sizzling Fajita Fiesta: 11.48
+  Tequila Lime Shrimp Skewers: 12.0

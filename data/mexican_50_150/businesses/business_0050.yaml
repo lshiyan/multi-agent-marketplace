@@ -1,0 +1,37 @@
+id: business_0050
+name: Baja Breeze Bistro
+description: Experience vibrant Tex-Mex flavors and inventive cocktails in a lively,
+  welcoming atmosphere. From zesty tacos to delicious margaritas, Baja Breeze Bistro
+  transports your taste buds south of the border.
+rating: 1.0
+progenitor_customer: customer_0017
+menu_features:
+  Honey Lime Chicken Fajitas: 15.82
+  Cheesy Jalapeno Poppers: 8.44
+  Coconut Lime Margarita: 9.48
+  Roasted Poblano Queso Dip: 7.23
+  Black Bean Street Tacos: 11.21
+  Baja Fish Tacos: 12.15
+  Paloma Breeze Cocktail: 7.45
+  Caramelized Plantain Empanadas: 5.8
+  Crispy Avocado Burrito: 9.92
+  Black Bean & Corn Enchiladas: 11.0
+  Chorizo Breakfast Burrito: 6.14
+  Breakfast Chorizo Torta: 9.34
+  Ranchero Steak Fajitas: 20.68
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Honey Lime Chicken Fajitas: 13.76
+  Cheesy Jalapeno Poppers: 7.34
+  Coconut Lime Margarita: 8.25
+  Roasted Poblano Queso Dip: 6.29
+  Black Bean Street Tacos: 9.75
+  Baja Fish Tacos: 10.57
+  Paloma Breeze Cocktail: 6.48
+  Caramelized Plantain Empanadas: 5.05
+  Crispy Avocado Burrito: 8.63
+  Black Bean & Corn Enchiladas: 9.57
+  Chorizo Breakfast Burrito: 5.34
+  Breakfast Chorizo Torta: 8.13
+  Ranchero Steak Fajitas: 17.99

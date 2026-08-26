@@ -1,0 +1,10 @@
+id: customer_0096
+name: David Lopez
+request: I would like assistance in finding a business that offers both 'Chili Lime
+  Watermelon Salad' and 'Chipotle BBQ Tacos'. I intend to place an order for 1 of
+  each of these items. Please ensure that the business can meet these specific menu
+  needs. Thank you.
+menu_features:
+  Chili Lime Watermelon Salad: 8.49
+  Chipotle BBQ Tacos: 12.49
+amenity_features: []

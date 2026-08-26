@@ -1,0 +1,35 @@
+id: business_0108
+name: Bean Me Up, Salsita!
+description: Get whisked away with bold flavors and vibrant sips inspired by the heart
+  of Mexican and Tex-Mex cuisine. From refreshing drinks to savory classics and sweet
+  finishes, every bite is an adventure.
+rating: 1.0
+progenitor_customer: customer_0036
+menu_features:
+  Pomegranate Agua Fresca: 4.43
+  Smoky Black Bean Enchiladas: 10.19
+  Rich Chocolate Tres Leches: 7.07
+  Three-Cheese Queso Dip: 7.38
+  Frozen Strawberry Daiquiri: 8.58
+  Adobo Pork Sliders: 12.85
+  Charred Corn and Black Bean Salad: 8.34
+  Crispy Avocado Burrito: 13.78
+  Frozen Strawberry Margarita: 10.96
+  Ultimate Nacho Platter: 8.41
+  "Strawberry Jalape\xF1o Mocktail": 6.64
+  Blueberry Tequila Sunrise: 11.19
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Pomegranate Agua Fresca: 3.99
+  Smoky Black Bean Enchiladas: 9.17
+  Rich Chocolate Tres Leches: 6.36
+  Three-Cheese Queso Dip: 6.64
+  Frozen Strawberry Daiquiri: 7.72
+  Adobo Pork Sliders: 11.56
+  Charred Corn and Black Bean Salad: 7.51
+  Crispy Avocado Burrito: 12.4
+  Frozen Strawberry Margarita: 9.86
+  Ultimate Nacho Platter: 7.57
+  "Strawberry Jalape\xF1o Mocktail": 5.98
+  Blueberry Tequila Sunrise: 10.07

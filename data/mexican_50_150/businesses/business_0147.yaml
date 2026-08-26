@@ -1,0 +1,38 @@
+id: business_0147
+name: Fajita Than Fiction
+description: Step into a delicious tale of Tex-Mex tradition and inventive flavors,
+  where sizzling dishes and refreshing drinks bring every meal to life. Enjoy a vibrant
+  dining experience packed with bold spices, fresh ingredients, and a twist of culinary
+  creativity.
+rating: 1.0
+progenitor_customer: customer_0049
+menu_features:
+  Smoky Chipotle Steak Fajitas: 16.13
+  Spice-Rubbed Grilled Fajitas: 13.85
+  Black Bean Sweet Potato Burrito: 10.36
+  Ultimate Nacho Platter: 10.69
+  Tamale Trio Sampler: 11.14
+  Coconut Lime Margarita: 9.36
+  Braised Beef Barbacoa Tacos: 10.66
+  Pineapple Agua Fresca: 4.09
+  Flan with Caramel Drizzle: 6.08
+  Crispy Avocado Bites: 8.21
+  Breakfast Chorizo Torta: 7.35
+  Mexican Chocolate Milkshake: 7.59
+  Roasted Corn and Black Bean Salsa: 9.45
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Smoky Chipotle Steak Fajitas: 15.16
+  Spice-Rubbed Grilled Fajitas: 13.02
+  Black Bean Sweet Potato Burrito: 9.74
+  Ultimate Nacho Platter: 10.05
+  Tamale Trio Sampler: 10.47
+  Coconut Lime Margarita: 8.8
+  Braised Beef Barbacoa Tacos: 10.02
+  Pineapple Agua Fresca: 3.84
+  Flan with Caramel Drizzle: 5.72
+  Crispy Avocado Bites: 7.72
+  Breakfast Chorizo Torta: 6.91
+  Mexican Chocolate Milkshake: 7.13
+  Roasted Corn and Black Bean Salsa: 8.88

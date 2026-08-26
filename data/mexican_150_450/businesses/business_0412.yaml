@@ -1,0 +1,45 @@
+id: business_0412
+name: Casa Dulce y Fuego
+description: Experience a vibrant blend of sweet and savory flavors at Casa Dulce
+  y Fuego, where classic Mexican and Tex-Mex favorites meet fresh, creative twists.
+  Savor signature sips and bold bites in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0138
+menu_features:
+  Frozen Strawberry Daiquiri: 7.06
+  Cucumber Jalapeno Agua Fresca: 4.04
+  Beef Barbacoa Tostadas: 11.21
+  Roasted Poblano Queso Dip: 6.75
+  Citrus Marinated Carne Asada: 16.02
+  Blueberry Agave Margarita: 10.52
+  Citrus Cilantro Rice: 4.83
+  Fresh Lime Cilantro Rice: 3.31
+  Mexican Chocolate Brownie: 6.05
+  Loaded Nacho Fiesta: 11.16
+  Classic Flan Delight: 6.1
+  Mango Jalapeno Slush: 4.36
+  Mango Habanero Wings: 11.14
+  Zesty Lime Grilled Shrimp: 15.51
+  Three Cheese Sope: 10.6
+  Crispy Fish Baja Bowl: 14.57
+  Raspberry Jalapeno Mojito: 8.66
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Frozen Strawberry Daiquiri: 5.65
+  Cucumber Jalapeno Agua Fresca: 3.23
+  Beef Barbacoa Tostadas: 8.97
+  Roasted Poblano Queso Dip: 5.4
+  Citrus Marinated Carne Asada: 12.82
+  Blueberry Agave Margarita: 8.42
+  Citrus Cilantro Rice: 3.86
+  Fresh Lime Cilantro Rice: 2.65
+  Mexican Chocolate Brownie: 4.84
+  Loaded Nacho Fiesta: 8.93
+  Classic Flan Delight: 4.88
+  Mango Jalapeno Slush: 3.49
+  Mango Habanero Wings: 8.91
+  Zesty Lime Grilled Shrimp: 12.41
+  Three Cheese Sope: 8.48
+  Crispy Fish Baja Bowl: 11.66
+  Raspberry Jalapeno Mojito: 6.93

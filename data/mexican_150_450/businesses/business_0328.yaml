@@ -1,0 +1,39 @@
+id: business_0328
+name: Fries & Fiesta
+description: Fries & Fiesta brings bold Tex-Mex flavors and sweet twists to every
+  plate, blending vibrant classics with unique crowd-pleasers. Dive into an upbeat
+  atmosphere where every meal feels like a celebration.
+rating: 1.0
+progenitor_customer: customer_0110
+menu_features:
+  Pork Carnitas Platter: 13.19
+  Chocolate Churro Bites: 4.36
+  Crispy Chicken Tostada Bowls: 15.62
+  Blue Agave Tequila Sunrise: 9.52
+  Spicy Black Bean Enchiladas: 9.34
+  Black Bean and Cilantro Rice: 4.13
+  Loaded Nacho Fiesta: 11.1
+  Grilled Chipotle Chicken Burrito: 9.71
+  Spicy Mango Margarita: 9.23
+  Zesty Lime Grilled Chicken: 16.08
+  Black Bean & Cheese Enchiladas: 12.66
+  Rich Chocolate Tamales: 8.02
+  Cheesy Jalapeno Queso: 7.64
+  Loaded Sweet Potato Fries: 6.44
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Pork Carnitas Platter: 9.76
+  Chocolate Churro Bites: 3.23
+  Crispy Chicken Tostada Bowls: 11.56
+  Blue Agave Tequila Sunrise: 7.04
+  Spicy Black Bean Enchiladas: 6.91
+  Black Bean and Cilantro Rice: 3.06
+  Loaded Nacho Fiesta: 8.21
+  Grilled Chipotle Chicken Burrito: 7.19
+  Spicy Mango Margarita: 6.83
+  Zesty Lime Grilled Chicken: 11.9
+  Black Bean & Cheese Enchiladas: 9.37
+  Rich Chocolate Tamales: 5.93
+  Cheesy Jalapeno Queso: 5.65
+  Loaded Sweet Potato Fries: 4.77

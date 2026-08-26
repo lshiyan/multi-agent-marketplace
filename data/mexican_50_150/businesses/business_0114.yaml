@@ -1,0 +1,43 @@
+id: business_0114
+name: Holy Frijoles & Flaming Pineapple
+description: Dive into a vibrant fusion of Tex-Mex and Mexican flavors where cheesy,
+  spicy, and tangy creations meet tropical-inspired drinks. Our lively cantina is
+  the perfect spot to savor creative twists and fresh favorites.
+rating: 1.0
+progenitor_customer: customer_0038
+menu_features:
+  Three-Cheese Chile Rellenos: 11.65
+  Crispy Avocado Bites: 8.92
+  Coconut Lime Margarita: 10.07
+  Sweet and Spicy Chicken Tostadas: 11.42
+  Molten Queso Fundido: 6.32
+  Pineapple Habanero Sake: 8.13
+  Hatch Chile Queso Dip: 8.97
+  Citrus Grilled Chicken Tacos: 13.02
+  Ancho Honey-Glazed Salmon: 15.12
+  Cilantro Lime Rice Bowl: 11.59
+  Avocado Lime Cheesecake: 7.11
+  Street Style Quesadillas: 8.73
+  Tequila Sunrise Smoothie: 8.01
+  Pineapple Habanero Margarita: 9.12
+  Roasted Poblano Soup: 6.83
+  Al Pastor Quesadilla: 11.75
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Three-Cheese Chile Rellenos: 9.32
+  Crispy Avocado Bites: 7.14
+  Coconut Lime Margarita: 8.06
+  Sweet and Spicy Chicken Tostadas: 9.14
+  Molten Queso Fundido: 5.06
+  Pineapple Habanero Sake: 6.5
+  Hatch Chile Queso Dip: 7.18
+  Citrus Grilled Chicken Tacos: 10.42
+  Ancho Honey-Glazed Salmon: 12.1
+  Cilantro Lime Rice Bowl: 9.27
+  Avocado Lime Cheesecake: 5.69
+  Street Style Quesadillas: 6.98
+  Tequila Sunrise Smoothie: 6.41
+  Pineapple Habanero Margarita: 7.3
+  Roasted Poblano Soup: 5.46
+  Al Pastor Quesadilla: 9.4

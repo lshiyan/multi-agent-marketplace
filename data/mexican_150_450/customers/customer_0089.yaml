@@ -1,0 +1,9 @@
+id: customer_0089
+name: Mia Kim
+request: 'Hello, I need assistance finding a business where I can order the following
+  item: 1 Queso Fundido with Chorizo. It is important that the business offers this
+  specific menu item. Once confirmed, I intend to place the order right away. Thank
+  you for your help.'
+menu_features:
+  Queso Fundido with Chorizo: 9.49
+amenity_features: []

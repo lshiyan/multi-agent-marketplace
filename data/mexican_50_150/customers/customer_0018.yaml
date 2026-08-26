@@ -1,0 +1,9 @@
+id: customer_0018
+name: Jasmine Robinson
+request: Could you please find a business that offers both a Coconut Lime Rice Bowl
+  and an Agave Lime Margarita, as I would like to place an order for 1 of each? Thank
+  you!
+menu_features:
+  Coconut Lime Rice Bowl: 10.49
+  Agave Lime Margarita: 9.99
+amenity_features: []

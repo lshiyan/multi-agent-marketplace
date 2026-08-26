@@ -1,0 +1,35 @@
+id: business_0419
+name: "Saz\xF3n & Citrus Kitchen"
+description: A vibrant, modern eatery celebrating the bold flavors of Mexico and the
+  fresh zest of Tex-Mex cuisine. Gather with friends and savor inventive dishes, lively
+  salsas, and unique desserts in a contemporary setting.
+rating: 1.0
+progenitor_customer: customer_0140
+menu_features:
+  Shrimp Ceviche Bowl: 11.66
+  Honey Lime Grilled Fajitas: 11.92
+  Cocoa Dusted Churro Bites: 5.57
+  Tangy Tomato Salsa Soup: 8.1
+  Creamy Poblano Corn Chowder: 8.11
+  Roasted Pecan Flan: 7.09
+  Chili-Lime Cauliflower Bites: 10.17
+  Three-Cheese Queso Dip: 8.53
+  Crispy Tinga Chicken Tacos: 9.79
+  Smoky Lime Quinoa Salad: 10.22
+  Spiced Chocolate Flan: 8.54
+  Black Bean Avocado Enchiladas: 13.01
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Shrimp Ceviche Bowl: 8.4
+  Honey Lime Grilled Fajitas: 8.58
+  Cocoa Dusted Churro Bites: 4.01
+  Tangy Tomato Salsa Soup: 5.83
+  Creamy Poblano Corn Chowder: 5.84
+  Roasted Pecan Flan: 5.1
+  Chili-Lime Cauliflower Bites: 7.32
+  Three-Cheese Queso Dip: 6.14
+  Crispy Tinga Chicken Tacos: 7.05
+  Smoky Lime Quinoa Salad: 7.36
+  Spiced Chocolate Flan: 6.15
+  Black Bean Avocado Enchiladas: 9.37

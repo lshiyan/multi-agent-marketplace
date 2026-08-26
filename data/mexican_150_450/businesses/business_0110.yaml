@@ -1,0 +1,37 @@
+id: business_0110
+name: Crema & Cocoa Kitchen
+description: A vibrant modern eatery offering fresh, bold flavors inspired by Mexican
+  and Tex-Mex cuisine. Enjoy a creative mix of classics and new favorites, perfect
+  for any time of day.
+rating: 1.0
+progenitor_customer: customer_0037
+menu_features:
+  Avocado Lime Crema Tostadas: 8.81
+  Coconut Flan Delight: 8.63
+  Cocoa Dusted Churro Bites: 5.75
+  Sunset Grilled Veggie Tacos: 12.54
+  Tex-Mex Big Breakfast Bowl: 10.9
+  Tamale Trio Platter: 15.23
+  Mexican Spiced Chocolate Cake: 6.74
+  Crispy Avocado Bites: 8.78
+  Chili Con Queso Supreme: 7.26
+  Blueberry Jalapeno Margarita: 10.24
+  Pineapple Habanero Salsa: 4.64
+  Chipotle Lime Chicken Skewers: 10.51
+  Black Bean Taco Bowl: 9.74
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Avocado Lime Crema Tostadas: 5.55
+  Coconut Flan Delight: 5.44
+  Cocoa Dusted Churro Bites: 3.62
+  Sunset Grilled Veggie Tacos: 7.9
+  Tex-Mex Big Breakfast Bowl: 6.87
+  Tamale Trio Platter: 9.59
+  Mexican Spiced Chocolate Cake: 4.25
+  Crispy Avocado Bites: 5.53
+  Chili Con Queso Supreme: 4.57
+  Blueberry Jalapeno Margarita: 6.45
+  Pineapple Habanero Salsa: 2.92
+  Chipotle Lime Chicken Skewers: 6.62
+  Black Bean Taco Bowl: 6.14

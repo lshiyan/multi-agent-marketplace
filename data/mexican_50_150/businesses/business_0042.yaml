@@ -1,0 +1,38 @@
+id: business_0042
+name: Lime & Ember Social
+description: Experience a modern twist on Mexican and Tex-Mex cuisine, where vibrant
+  flavors, fresh ingredients, and bold sips come together in a lively atmosphere.
+  Perfect for sharing bites and drinks with friends, every dish sparks a fiesta for
+  the senses.
+rating: 1.0
+progenitor_customer: customer_0014
+menu_features:
+  Twisted Tequila Sunrise: 9.42
+  Blue Corn Enchilada Bake: 14.91
+  Cilantro Lime Rice Bowl: 12.07
+  Spicy Chicken Tortilla Soup: 5.69
+  Pineapple Salsa Pork Tacos: 10.0
+  Mango Habanero Margarita: 10.55
+  Crispy Avocado Wedges: 8.05
+  Shrimp and Avocado Ceviche: 13.02
+  Zesty Lime Grilled Shrimp: 10.73
+  Tequila Lime Shrimp Skewers: 17.1
+  Loaded Nacho Bowl: 10.19
+  Charred Corn & Cotija Nachos: 9.45
+  Mexican Hot Chocolate: 5.34
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Twisted Tequila Sunrise: 8.76
+  Blue Corn Enchilada Bake: 13.87
+  Cilantro Lime Rice Bowl: 11.23
+  Spicy Chicken Tortilla Soup: 5.29
+  Pineapple Salsa Pork Tacos: 9.3
+  Mango Habanero Margarita: 9.81
+  Crispy Avocado Wedges: 7.49
+  Shrimp and Avocado Ceviche: 12.11
+  Zesty Lime Grilled Shrimp: 9.98
+  Tequila Lime Shrimp Skewers: 15.9
+  Loaded Nacho Bowl: 9.48
+  Charred Corn & Cotija Nachos: 8.79
+  Mexican Hot Chocolate: 4.97

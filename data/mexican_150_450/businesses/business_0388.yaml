@@ -1,0 +1,33 @@
+id: business_0388
+name: El Camino Dulce y Picante
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  inviting atmosphere. El Camino Dulce y Picante celebrates sweet and savory classics,
+  bringing together bold spices and fresh, colorful ingredients in every bite.
+rating: 1.0
+progenitor_customer: customer_0130
+menu_features:
+  Fiesta Street Corn: 5.1
+  Honey Lime Fajita Sizzlers: 18.52
+  Chili Chocolate Lava Cake: 9.26
+  Loaded Nacho Fiesta: 8.95
+  Pineapple Jalapeno Salsa: 5.4
+  Stuffed Chicken Poblano: 13.35
+  Warm Churro Bites: 5.6
+  Chili Lime Roasted Corn: 4.34
+  Ancho Chili Chocolate Cake: 6.55
+  Classic Flan Delight: 7.54
+  Avocado Lime Empanadas: 8.5
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Fiesta Street Corn: 3.77
+  Honey Lime Fajita Sizzlers: 13.7
+  Chili Chocolate Lava Cake: 6.85
+  Loaded Nacho Fiesta: 6.62
+  Pineapple Jalapeno Salsa: 4.0
+  Stuffed Chicken Poblano: 9.88
+  Warm Churro Bites: 4.14
+  Chili Lime Roasted Corn: 3.21
+  Ancho Chili Chocolate Cake: 4.85
+  Classic Flan Delight: 5.58
+  Avocado Lime Empanadas: 6.29

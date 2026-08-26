@@ -1,0 +1,41 @@
+id: business_0255
+name: Poblano & Pineapple Place
+description: A vibrant spot where bold flavors and fresh ingredients come together
+  in inventive Tex-Mex and Mexican-inspired dishes. Join us for a colorful dining
+  experience, refreshing drinks, and a menu full of unique bites and satisfying favorites.
+rating: 1.0
+progenitor_customer: customer_0085
+menu_features:
+  Crispy Avocado Bites: 7.29
+  Caramelized Onion Queso Dip: 7.81
+  Shrimp Ceviche Cups: 11.56
+  Horchata Iced Latte: 5.15
+  Pineapple Chipotle Salsa & Chips: 5.97
+  Al Pastor Quesadilla: 13.2
+  Roasted Poblano Rellenos: 13.02
+  Avocado Lime Quinoa Bowl: 10.42
+  Black Bean and Sweet Potato Empanadas: 11.03
+  Pineapple Salsa Pork Tacos: 13.64
+  Creamy Poblano Corn Chowder: 9.07
+  Sizzling Fajita Platter: 17.6
+  Mango Habanero Margarita: 8.39
+  Tex-Mex Fajita Wrap: 10.23
+  Blueberry Tequila Sunrise: 10.76
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Crispy Avocado Bites: 5.98
+  Caramelized Onion Queso Dip: 6.4
+  Shrimp Ceviche Cups: 9.48
+  Horchata Iced Latte: 4.22
+  Pineapple Chipotle Salsa & Chips: 4.9
+  Al Pastor Quesadilla: 10.82
+  Roasted Poblano Rellenos: 10.68
+  Avocado Lime Quinoa Bowl: 8.54
+  Black Bean and Sweet Potato Empanadas: 9.04
+  Pineapple Salsa Pork Tacos: 11.18
+  Creamy Poblano Corn Chowder: 7.44
+  Sizzling Fajita Platter: 14.43
+  Mango Habanero Margarita: 6.88
+  Tex-Mex Fajita Wrap: 8.39
+  Blueberry Tequila Sunrise: 8.82

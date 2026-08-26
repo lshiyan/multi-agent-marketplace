@@ -1,0 +1,43 @@
+id: business_0209
+name: Chili & Citrus Cantina
+description: Step into a vibrant cantina where bold flavors meet fresh zest in every
+  dish. Enjoy creative Tex-Mex and Mexican plates alongside inventive drinks and sweet
+  treats, all served in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0070
+menu_features:
+  Zesty Lime Grilled Chicken: 15.88
+  Warm Churro Bites: 6.72
+  Spicy Pineapple Salsa Dip: 5.13
+  Loaded Nacho Supreme: 9.82
+  Blue Agave Tequila Sunrise: 9.52
+  Mexican Coffee Flan: 6.62
+  Adobo Pork Sliders: 11.94
+  Beef Barbacoa Tostadas: 8.59
+  Chili Lime Shrimp Skewers: 12.37
+  Zesty Lime Grilled Shrimp: 15.74
+  Tamarind Ginger Cooler: 4.1
+  Avocado Lime Quinoa Bowl: 9.9
+  Spiced Chocolate Flan: 6.36
+  Smoky Chipotle Steak Fajitas: 13.74
+  Spiked Horchata Cooler: 9.18
+  Mesquite Grilled Steak Fajitas: 16.02
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Zesty Lime Grilled Chicken: 13.02
+  Warm Churro Bites: 5.51
+  Spicy Pineapple Salsa Dip: 4.21
+  Loaded Nacho Supreme: 8.05
+  Blue Agave Tequila Sunrise: 7.81
+  Mexican Coffee Flan: 5.43
+  Adobo Pork Sliders: 9.79
+  Beef Barbacoa Tostadas: 7.04
+  Chili Lime Shrimp Skewers: 10.14
+  Zesty Lime Grilled Shrimp: 12.91
+  Tamarind Ginger Cooler: 3.36
+  Avocado Lime Quinoa Bowl: 8.12
+  Spiced Chocolate Flan: 5.22
+  Smoky Chipotle Steak Fajitas: 11.27
+  Spiked Horchata Cooler: 7.53
+  Mesquite Grilled Steak Fajitas: 13.14

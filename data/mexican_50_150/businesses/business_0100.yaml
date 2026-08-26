@@ -1,0 +1,33 @@
+id: business_0100
+name: "Azul y Lim\xF3n Cantina"
+description: "Azul y Lim\xF3n Cantina brings vibrant Mexican and Tex-Mex flavors to\
+  \ life with fresh seafood, zesty grilled dishes, and refreshing cocktails. Enjoy\
+  \ a lively atmosphere and creative cuisine inspired by the heart of Mexico."
+rating: 1.0
+progenitor_customer: customer_0034
+menu_features:
+  Grilled Shrimp Skewers: 13.94
+  Sizzling Steak Fajitas: 14.11
+  Loaded Nacho Fries: 6.5
+  Frozen Strawberry Margarita: 7.57
+  Black Bean and Corn Salsa: 4.45
+  Avocado Lime Cheesecake: 6.82
+  Grilled Pineapple and Shrimp Salad: 11.06
+  Mango Habanero Salsa: 4.21
+  Breakfast Burrito Bonanza: 7.67
+  Chili Lime Street Corn: 6.68
+  Tequila Lime Flan: 8.58
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Grilled Shrimp Skewers: 12.13
+  Sizzling Steak Fajitas: 12.28
+  Loaded Nacho Fries: 5.66
+  Frozen Strawberry Margarita: 6.59
+  Black Bean and Corn Salsa: 3.87
+  Avocado Lime Cheesecake: 5.93
+  Grilled Pineapple and Shrimp Salad: 9.62
+  Mango Habanero Salsa: 3.66
+  Breakfast Burrito Bonanza: 6.67
+  Chili Lime Street Corn: 5.81
+  Tequila Lime Flan: 7.46

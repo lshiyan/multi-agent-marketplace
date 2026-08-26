@@ -1,0 +1,36 @@
+id: business_0141
+name: "Taco \u2019Bout Lime"
+description: "Taco \u2019Bout Lime offers a fresh twist on Mexican and Tex-Mex classics,\
+  \ serving up zesty flavors, creative cocktails, and veggie-forward dishes in a vibrant,\
+  \ laid-back setting. Enjoy bold taste combinations that celebrate every season with\
+  \ a squeeze of lime and a dash of spice."
+rating: 1.0
+progenitor_customer: customer_0047
+menu_features:
+  Classic Lime Margarita: 8.84
+  Chili Lime Watermelon Salad: 8.82
+  Blue Corn Tortilla Chips: 5.33
+  Black Bean and Avocado Wrap: 7.91
+  Mango Jalapeno Salsa and Chips: 5.33
+  Crisp Jicama Slaw: 4.06
+  "Strawberry Jalape\xF1o Mocktail": 6.23
+  Black Bean & Cheese Enchiladas: 12.21
+  Avocado Street Tacos: 9.46
+  Grilled Chipotle Chicken Burrito: 11.85
+  Mushroom & Cheese Tamales: 7.62
+  Sweet Corn Tamale Cake: 7.64
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Classic Lime Margarita: 7.69
+  Chili Lime Watermelon Salad: 7.67
+  Blue Corn Tortilla Chips: 4.64
+  Black Bean and Avocado Wrap: 6.88
+  Mango Jalapeno Salsa and Chips: 4.64
+  Crisp Jicama Slaw: 3.53
+  "Strawberry Jalape\xF1o Mocktail": 5.42
+  Black Bean & Cheese Enchiladas: 10.62
+  Avocado Street Tacos: 8.23
+  Grilled Chipotle Chicken Burrito: 10.31
+  Mushroom & Cheese Tamales: 6.63
+  Sweet Corn Tamale Cake: 6.65

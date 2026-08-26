@@ -1,0 +1,9 @@
+id: customer_0024
+name: Lucas Lee
+request: Could you please find a business that offers the 'Tamale Trio Platter' and
+  a 'Fresh Mint Mojito'? I would like to place an order for these items, with one
+  of each. Thank you very much for your assistance.
+menu_features:
+  Tamale Trio Platter: 14.99
+  Fresh Mint Mojito: 8.49
+amenity_features: []

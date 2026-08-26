@@ -1,0 +1,37 @@
+id: business_0173
+name: Shrimply the Zest
+description: Dive into bold, bright flavors at Shrimply the Zest, where every dish
+  celebrates a vibrant fusion of spice, citrus, and creative flair. Savor everything
+  from zesty tacos to smoky, sweet treats in a fun and lively atmosphere.
+rating: 1.0
+progenitor_customer: customer_0058
+menu_features:
+  Chipotle Lime Shrimp Tacos: 14.4
+  Fresh Lime and Cilantro Guacamole: 10.63
+  Chili Lime Skirt Steak: 16.1
+  Smoky Chipotle BBQ Nachos: 11.97
+  Smoky Mezcal Mule: 10.85
+  Mango Habanero Wings: 12.33
+  Tomatillo Ranch Enchiladas: 11.37
+  Churro Ice Cream Sandwich: 6.97
+  Grilled Pineapple & Shrimp Quesadillas: 11.29
+  Blueberry Agave Margarita: 10.99
+  Crispy Avocado Nachos: 8.07
+  Creamy Poblano Corn Chowder: 9.66
+  Chocolate Molten Tamale: 8.17
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Chipotle Lime Shrimp Tacos: 13.54
+  Fresh Lime and Cilantro Guacamole: 9.99
+  Chili Lime Skirt Steak: 15.13
+  Smoky Chipotle BBQ Nachos: 11.25
+  Smoky Mezcal Mule: 10.2
+  Mango Habanero Wings: 11.59
+  Tomatillo Ranch Enchiladas: 10.69
+  Churro Ice Cream Sandwich: 6.55
+  Grilled Pineapple & Shrimp Quesadillas: 10.61
+  Blueberry Agave Margarita: 10.33
+  Crispy Avocado Nachos: 7.59
+  Creamy Poblano Corn Chowder: 9.08
+  Chocolate Molten Tamale: 7.68

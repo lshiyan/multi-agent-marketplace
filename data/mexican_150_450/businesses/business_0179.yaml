@@ -1,0 +1,41 @@
+id: business_0179
+name: Fiesta Flower
+description: Fiesta Flower brings a vibrant twist to classic Mexican and Tex-Mex favorites,
+  blending bold flavors, fresh ingredients, and irresistible sweets. Enjoy a lively
+  atmosphere inspired by the colors and tastes of Mexico.
+rating: 1.0
+progenitor_customer: customer_0060
+menu_features:
+  Sizzling Fajita Plate: 15.28
+  Tres Leches Cake: 7.15
+  Cactus Flower Iced Tea: 5.49
+  Jicama and Citrus Salad: 10.19
+  Grilled Pineapple Mojito: 10.03
+  Cinnamon Sugar Churro Sticks: 6.01
+  Black Bean Avocado Tostadas: 10.39
+  Mango Agua Fresca: 3.42
+  Crispy Avocado Bites: 8.05
+  Street Style Quesadillas: 9.28
+  Raspberry Jalapeno Mojito: 8.91
+  Ancho Chili Braised Beef Enchiladas: 12.5
+  Mushroom & Cheese Tamales: 8.2
+  Fresh Lime and Cilantro Guacamole: 8.85
+  Chocolate Mole Brownie: 8.78
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Sizzling Fajita Plate: 14.06
+  Tres Leches Cake: 6.58
+  Cactus Flower Iced Tea: 5.05
+  Jicama and Citrus Salad: 9.37
+  Grilled Pineapple Mojito: 9.23
+  Cinnamon Sugar Churro Sticks: 5.53
+  Black Bean Avocado Tostadas: 9.56
+  Mango Agua Fresca: 3.15
+  Crispy Avocado Bites: 7.41
+  Street Style Quesadillas: 8.54
+  Raspberry Jalapeno Mojito: 8.2
+  Ancho Chili Braised Beef Enchiladas: 11.5
+  Mushroom & Cheese Tamales: 7.54
+  Fresh Lime and Cilantro Guacamole: 8.14
+  Chocolate Mole Brownie: 8.08

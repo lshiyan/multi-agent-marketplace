@@ -1,0 +1,45 @@
+id: business_0438
+name: Cilantro & Cacao
+description: Step into a vibrant world of fresh flavors and rich desserts, where veggie-forward
+  plates meet bold Tex-Mex classics. Enjoy savory, spicy, and sweet delights in a
+  lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0146
+menu_features:
+  Veggie Fajita Platter: 11.24
+  Fajita Veggie Burrito Bowl: 12.04
+  Coconut Tres Leches: 7.29
+  Avocado Lime Salad: 10.1
+  Carnitas Breakfast Burrito: 12.31
+  Cucumber Jalapeno Agua Fresca: 4.35
+  Roasted Corn Elote: 2.82
+  Spicy Chocolate Churros: 5.58
+  Roasted Poblano Queso Dip: 8.16
+  Black Bean & Corn Quesadilla: 8.53
+  Beef Enchiladas Verdes: 12.66
+  Black Bean Taco Bowl: 10.58
+  Crispy Avocado Tacos: 12.52
+  Smoky Chipotle BBQ Ribs: 13.93
+  Honey-Lime Grilled Shrimp: 13.69
+  Cinnamon Sugar Churro Sticks: 6.17
+  Pineapple Habanero Salsa: 4.39
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Veggie Fajita Platter: 7.64
+  Fajita Veggie Burrito Bowl: 8.19
+  Coconut Tres Leches: 4.96
+  Avocado Lime Salad: 6.87
+  Carnitas Breakfast Burrito: 8.37
+  Cucumber Jalapeno Agua Fresca: 2.96
+  Roasted Corn Elote: 1.92
+  Spicy Chocolate Churros: 3.79
+  Roasted Poblano Queso Dip: 5.55
+  Black Bean & Corn Quesadilla: 5.8
+  Beef Enchiladas Verdes: 8.61
+  Black Bean Taco Bowl: 7.19
+  Crispy Avocado Tacos: 8.51
+  Smoky Chipotle BBQ Ribs: 9.47
+  Honey-Lime Grilled Shrimp: 9.31
+  Cinnamon Sugar Churro Sticks: 4.2
+  Pineapple Habanero Salsa: 2.99

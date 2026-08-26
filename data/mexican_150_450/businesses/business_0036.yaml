@@ -1,0 +1,40 @@
+id: business_0036
+name: Zest Vida Cantina
+description: Experience a vibrant fusion of fresh flavors and bold spices inspired
+  by Tex-Mex and modern Mexican cuisine. From sizzling skillet favorites to refreshing
+  handcrafted drinks, Zest Vida Cantina brings lively energy and delicious variety
+  to every meal.
+rating: 1.0
+progenitor_customer: customer_0012
+menu_features:
+  Breakfast Chorizo Tostadas: 10.66
+  Flamin' Skillet Fajitas: 16.47
+  Fresh Mint Mojito: 8.24
+  "Strawberry Jalape\xF1o Mocktail": 5.99
+  Passionfruit Agua Fresca: 3.77
+  Southwest Chopped Salad: 11.3
+  Caramelized Plantain Empanadas: 5.85
+  Zesty Lime Chicken Tacos: 8.11
+  Spicy Shrimp Nacho Platter: 8.79
+  Caramel Apple Empanadas: 6.38
+  Crispy Fish Street Tacos: 16.82
+  Black Bean and Cilantro Rice: 2.47
+  Spicy Black Bean Enchiladas: 12.97
+  Guava Limeade Cooler: 4.42
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Breakfast Chorizo Tostadas: 8.95
+  Flamin' Skillet Fajitas: 13.83
+  Fresh Mint Mojito: 6.92
+  "Strawberry Jalape\xF1o Mocktail": 5.03
+  Passionfruit Agua Fresca: 3.17
+  Southwest Chopped Salad: 9.49
+  Caramelized Plantain Empanadas: 4.91
+  Zesty Lime Chicken Tacos: 6.81
+  Spicy Shrimp Nacho Platter: 7.38
+  Caramel Apple Empanadas: 5.36
+  Crispy Fish Street Tacos: 14.13
+  Black Bean and Cilantro Rice: 2.07
+  Spicy Black Bean Enchiladas: 10.89
+  Guava Limeade Cooler: 3.71

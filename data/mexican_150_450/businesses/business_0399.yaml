@@ -1,0 +1,37 @@
+id: business_0399
+name: "Sage & Saz\xF3n"
+description: "Sage & Saz\xF3n is a modern Mex/Tex-Mex restaurant offering vibrant\
+  \ flavors and creative twists on classic favorites. Enjoy a colorful cocktail menu\
+  \ and flavorful dishes inspired by the heart and soul of Mexican cuisine."
+rating: 1.0
+progenitor_customer: customer_0133
+menu_features:
+  Roasted Poblano Corn Chowder: 6.92
+  Creamy Avocado Caesar Salad: 10.48
+  Blueberry Jalapeno Margarita: 9.62
+  Spicy Pork Tamales: 11.8
+  Spicy Black Bean Enchiladas: 11.36
+  Beef Fajita Skillet: 13.15
+  Housemade Horchata: 4.49
+  Smoky BBQ Pork Tostadas: 6.17
+  Passionfruit Agua Fresca: 3.85
+  Breakfast Chorizo Torta: 9.28
+  Caramelized Onion Queso Dip: 8.2
+  Passionfruit Paloma: 9.1
+  Tequila Lime Grilled Shrimp: 14.92
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Roasted Poblano Corn Chowder: 5.33
+  Creamy Avocado Caesar Salad: 8.07
+  Blueberry Jalapeno Margarita: 7.41
+  Spicy Pork Tamales: 9.09
+  Spicy Black Bean Enchiladas: 8.75
+  Beef Fajita Skillet: 10.13
+  Housemade Horchata: 3.46
+  Smoky BBQ Pork Tostadas: 4.75
+  Passionfruit Agua Fresca: 2.96
+  Breakfast Chorizo Torta: 7.15
+  Caramelized Onion Queso Dip: 6.31
+  Passionfruit Paloma: 7.01
+  Tequila Lime Grilled Shrimp: 11.49

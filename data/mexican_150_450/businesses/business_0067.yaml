@@ -1,0 +1,35 @@
+id: business_0067
+name: "Casa Lim\xF3n y Cacao"
+description: "A welcoming destination for Mexican and Tex-Mex favorites, Casa Lim\xF3\
+  n y Cacao brings together bright citrus notes and rich, comforting flavors in every\
+  \ dish. Enjoy handcrafted drinks and inspired classics in a vibrant, relaxed setting."
+rating: 1.0
+progenitor_customer: customer_0023
+menu_features:
+  Agave Lime Margarita: 9.61
+  Zesty Lime Grilled Shrimp: 14.16
+  Black Bean and Lime Soup: 5.63
+  Ancho Chili Chocolate Cake: 7.64
+  Frozen Strawberry Daiquiri: 8.99
+  Fresh Corn Elote: 3.97
+  Ancho Chili Braised Beef Enchiladas: 15.28
+  Fresh Limeade: 3.75
+  Carnitas Breakfast Burrito: 11.46
+  Stuffed Poblano Peppers: 11.15
+  Southwestern Quinoa Salad: 10.38
+  Crispy Avocado Burrito: 10.63
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Agave Lime Margarita: 6.34
+  Zesty Lime Grilled Shrimp: 9.35
+  Black Bean and Lime Soup: 3.72
+  Ancho Chili Chocolate Cake: 5.04
+  Frozen Strawberry Daiquiri: 5.93
+  Fresh Corn Elote: 2.62
+  Ancho Chili Braised Beef Enchiladas: 10.08
+  Fresh Limeade: 2.48
+  Carnitas Breakfast Burrito: 7.56
+  Stuffed Poblano Peppers: 7.36
+  Southwestern Quinoa Salad: 6.85
+  Crispy Avocado Burrito: 7.02

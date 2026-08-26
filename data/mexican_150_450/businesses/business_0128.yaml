@@ -1,0 +1,41 @@
+id: business_0128
+name: Pineapple & Pepper Kitchen
+description: A modern Tex-Mex spot serving bright, bold flavors in every dish. Enjoy
+  a fresh twist on classic favorites with lively salsas, vibrant salads, and unique
+  desserts.
+rating: 1.0
+progenitor_customer: customer_0043
+menu_features:
+  Pineapple Habanero Sake: 7.54
+  Fresh Limeade: 3.92
+  Garlic Lime Shrimp Salad: 14.51
+  Sizzling Fajita Plate: 16.46
+  Street Corn Quesadilla: 10.52
+  Breakfast Chilaquiles Verde: 9.04
+  Grilled Pineapple & Shrimp Quesadillas: 12.44
+  Chocolate Mole Chicken: 16.65
+  Pineapple Salsa Nachos: 12.02
+  Crispy Avocado Tacos: 8.89
+  Avocado Ranch Burrito Bowl: 12.63
+  Coconut Lime Tres Leches: 6.44
+  Loaded Sweet Potato Fries: 6.19
+  Raspberry Jalapeno Mojito: 10.09
+  Spicy Chocolate Churros: 5.28
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Pineapple Habanero Sake: 6.03
+  Fresh Limeade: 3.14
+  Garlic Lime Shrimp Salad: 11.61
+  Sizzling Fajita Plate: 13.17
+  Street Corn Quesadilla: 8.42
+  Breakfast Chilaquiles Verde: 7.23
+  Grilled Pineapple & Shrimp Quesadillas: 9.95
+  Chocolate Mole Chicken: 13.32
+  Pineapple Salsa Nachos: 9.62
+  Crispy Avocado Tacos: 7.11
+  Avocado Ranch Burrito Bowl: 10.1
+  Coconut Lime Tres Leches: 5.15
+  Loaded Sweet Potato Fries: 4.95
+  Raspberry Jalapeno Mojito: 8.07
+  Spicy Chocolate Churros: 4.22

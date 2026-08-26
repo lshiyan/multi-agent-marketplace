@@ -1,0 +1,39 @@
+id: business_0216
+name: Sol & Savory
+description: Bringing fresh flavors and bold spices together, Sol & Savory offers
+  a modern twist on classic Mexican and Tex-Mex fare. Enjoy vibrant plates, creative
+  drinks, and a sun-soaked atmosphere perfect for any gathering.
+rating: 1.0
+progenitor_customer: customer_0072
+menu_features:
+  Loaded Sweet Potato Fries: 9.14
+  Grilled Elote Corn: 4.42
+  Mango Habanero Wings: 11.67
+  Pineapple Jalapeno Margarita: 8.63
+  Spicy Mango Margarita: 8.33
+  Sizzling Fajita Platter: 16.15
+  Coconut Lime Tres Leches: 6.76
+  Vanilla Almond Horchata: 4.05
+  Breakfast Chilaquiles Verde: 10.73
+  Hatch Green Chile Rice: 6.07
+  Tamarind Ginger Cooler: 4.3
+  Smoky Chipotle BBQ Nachos: 12.63
+  Black Bean Crunch Wrap: 12.99
+  Spicy Pork Tamales: 12.67
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Loaded Sweet Potato Fries: 6.58
+  Grilled Elote Corn: 3.18
+  Mango Habanero Wings: 8.4
+  Pineapple Jalapeno Margarita: 6.21
+  Spicy Mango Margarita: 6.0
+  Sizzling Fajita Platter: 11.63
+  Coconut Lime Tres Leches: 4.87
+  Vanilla Almond Horchata: 2.92
+  Breakfast Chilaquiles Verde: 7.73
+  Hatch Green Chile Rice: 4.37
+  Tamarind Ginger Cooler: 3.1
+  Smoky Chipotle BBQ Nachos: 9.09
+  Black Bean Crunch Wrap: 9.35
+  Spicy Pork Tamales: 9.12

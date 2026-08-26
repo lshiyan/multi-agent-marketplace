@@ -1,0 +1,37 @@
+id: business_0134
+name: "Pepper & Piqu\xEDn"
+description: "Pepper & Piqu\xEDn celebrates bold Mexican and Tex-Mex flavors in every\
+  \ bite, from spicy starters to zesty refreshments. Join us for a vibrant dining\
+  \ experience where classic traditions meet creative twists."
+rating: 1.0
+progenitor_customer: customer_0045
+menu_features:
+  Bacon Wrapped Jalapeno Bites: 7.97
+  Smoky Black Bean Tostadas: 9.82
+  Warm Churro Bites: 6.44
+  Crispy Carnitas Quesadilla: 11.09
+  Pineapple Jalapeno Salsa: 5.99
+  Roasted Poblano Queso Dip: 4.96
+  Zesty Shrimp Quesadillas: 15.22
+  Roasted Poblano Corn Chowder: 8.2
+  Bacon and Egg Tostada: 9.0
+  Sea Breeze Ceviche: 10.56
+  "Spicy Jalape\xF1o Limeade": 3.63
+  Frozen Mango Margarita: 8.53
+  Hatch Green Chile Stew: 10.74
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Bacon Wrapped Jalapeno Bites: 6.46
+  Smoky Black Bean Tostadas: 7.95
+  Warm Churro Bites: 5.22
+  Crispy Carnitas Quesadilla: 8.98
+  Pineapple Jalapeno Salsa: 4.85
+  Roasted Poblano Queso Dip: 4.02
+  Zesty Shrimp Quesadillas: 12.33
+  Roasted Poblano Corn Chowder: 6.64
+  Bacon and Egg Tostada: 7.29
+  Sea Breeze Ceviche: 8.55
+  "Spicy Jalape\xF1o Limeade": 2.94
+  Frozen Mango Margarita: 6.91
+  Hatch Green Chile Stew: 8.7

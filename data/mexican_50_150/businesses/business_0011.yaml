@@ -1,0 +1,39 @@
+id: business_0011
+name: Flan in the Pan
+description: Flan in the Pan serves up a vibrant twist on Mexican and Tex-Mex classics,
+  blending bold flavors with fresh, fruity surprises. Dive into a fiesta of sizzling
+  plates, tangy punches, and sweet endings in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0004
+menu_features:
+  Tropical Guava Mint Punch: 5.8
+  Jicama and Citrus Salad: 7.92
+  Pineapple Chipotle Pork: 13.9
+  Sizzling Chicken Fajitas: 13.98
+  Carne Asada Nachos: 12.31
+  Vegetarian Tamale Platter: 11.9
+  Blueberry Jalapeno Lemonade: 3.95
+  Tamale Pie Casserole: 14.43
+  Vanilla Flan Delight: 5.84
+  Loaded Nacho Supreme: 11.59
+  Pineapple Salsa Pork Tacos: 11.12
+  Stuffed Poblano Pepper Delight: 10.27
+  Black Bean & Corn Queso Dip: 6.71
+  Blueberry Jalapeno Margarita: 9.91
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Tropical Guava Mint Punch: 4.76
+  Jicama and Citrus Salad: 6.49
+  Pineapple Chipotle Pork: 11.4
+  Sizzling Chicken Fajitas: 11.46
+  Carne Asada Nachos: 10.09
+  Vegetarian Tamale Platter: 9.76
+  Blueberry Jalapeno Lemonade: 3.24
+  Tamale Pie Casserole: 11.83
+  Vanilla Flan Delight: 4.79
+  Loaded Nacho Supreme: 9.5
+  Pineapple Salsa Pork Tacos: 9.12
+  Stuffed Poblano Pepper Delight: 8.42
+  Black Bean & Corn Queso Dip: 5.5
+  Blueberry Jalapeno Margarita: 8.13

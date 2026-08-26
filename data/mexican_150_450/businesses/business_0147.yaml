@@ -1,0 +1,41 @@
+id: business_0147
+name: Sabores del Sol Cantina
+description: Experience the vibrant spirit of Mexican and Tex-Mex cuisine in a lively,
+  welcoming setting. From flavor-packed quesadillas to refreshing margaritas, our
+  menu celebrates bold tastes and fresh ingredients.
+rating: 1.0
+progenitor_customer: customer_0049
+menu_features:
+  Crispy Carnitas Quesadilla: 8.88
+  Spicy Shrimp Fajitas: 14.42
+  Creamy Avocado Caesar Salad: 9.11
+  Breakfast Burrito Supreme: 11.31
+  Three-Cheese Queso Dip: 6.38
+  Loaded Nacho Supreme: 8.85
+  Smoky Black Bean Nachos: 11.34
+  Coconut Lime Tres Leches: 7.67
+  Black Bean Stuffed Bell Peppers: 10.41
+  "Blueberry Jalape\xF1o Margarita": 8.1
+  Cactus Cooler Margarita: 9.49
+  Green Chile Pork Stew: 12.85
+  Hatch Green Chile Quesadilla: 12.02
+  Avocado Lime Dip: 7.39
+  Tex-Mex Fajita Wrap: 14.51
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Crispy Carnitas Quesadilla: 6.84
+  Spicy Shrimp Fajitas: 11.1
+  Creamy Avocado Caesar Salad: 7.01
+  Breakfast Burrito Supreme: 8.71
+  Three-Cheese Queso Dip: 4.91
+  Loaded Nacho Supreme: 6.81
+  Smoky Black Bean Nachos: 8.73
+  Coconut Lime Tres Leches: 5.91
+  Black Bean Stuffed Bell Peppers: 8.02
+  "Blueberry Jalape\xF1o Margarita": 6.24
+  Cactus Cooler Margarita: 7.31
+  Green Chile Pork Stew: 9.89
+  Hatch Green Chile Quesadilla: 9.26
+  Avocado Lime Dip: 5.69
+  Tex-Mex Fajita Wrap: 11.17

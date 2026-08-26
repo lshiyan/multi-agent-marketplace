@@ -1,0 +1,35 @@
+id: business_0151
+name: Sol Brillante Cocina
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  colorful setting. From refreshing aguas frescas to inspired tacos and zesty, chocolate-kissed
+  dishes, every plate invites you to savor tradition with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0051
+menu_features:
+  Passionfruit Agua Fresca: 3.83
+  Cocoa Dusted Churro Bites: 6.4
+  Pineapple Habanero Salsa: 4.9
+  Chocolate Mole Chicken: 15.04
+  Chipotle Chicken Enchiladas: 10.23
+  Baja Fish Tacos: 12.14
+  Sizzling Chicken Fajitas: 14.39
+  Crispy Carnitas Tacos: 14.9
+  Zesty Lime Shrimp Salad: 13.75
+  Zesty Lime Chicken Enchiladas: 11.47
+  Blueberry Jalapeno Lemonade: 4.01
+  Crispy Fish Tacos: 12.27
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Passionfruit Agua Fresca: 3.06
+  Cocoa Dusted Churro Bites: 5.12
+  Pineapple Habanero Salsa: 3.92
+  Chocolate Mole Chicken: 12.03
+  Chipotle Chicken Enchiladas: 8.18
+  Baja Fish Tacos: 9.71
+  Sizzling Chicken Fajitas: 11.51
+  Crispy Carnitas Tacos: 11.92
+  Zesty Lime Shrimp Salad: 11.0
+  Zesty Lime Chicken Enchiladas: 9.18
+  Blueberry Jalapeno Lemonade: 3.21
+  Crispy Fish Tacos: 9.82

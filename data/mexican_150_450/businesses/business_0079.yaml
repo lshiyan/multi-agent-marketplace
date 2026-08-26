@@ -1,0 +1,37 @@
+id: business_0079
+name: Nacho Typical Day
+description: Start your culinary adventure with a playful twist on Mexican and Tex-Mex
+  favorites, from spicy sips to sweet surprises. Every visit promises bold flavors
+  and inventive bites in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0027
+menu_features:
+  Raspberry Jalapeno Mojito: 7.31
+  Churro Ice Cream Sandwich: 5.82
+  Roasted Pecan Flan: 5.43
+  Loaded Nacho Fries: 8.13
+  Sweet Corn Tamale Bites: 8.74
+  Loaded Nacho Fiesta: 11.76
+  Ultimate Nacho Platter: 10.7
+  Chocolate Molten Tamale: 7.03
+  Black Bean Taco Bowl: 9.11
+  Roasted Corn and Black Bean Salsa: 7.0
+  Verde Ranchero Huevos: 14.09
+  Tequila Lime Flan: 7.73
+  Mushroom & Cheese Tamales: 8.37
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Raspberry Jalapeno Mojito: 5.12
+  Churro Ice Cream Sandwich: 4.07
+  Roasted Pecan Flan: 3.8
+  Loaded Nacho Fries: 5.69
+  Sweet Corn Tamale Bites: 6.12
+  Loaded Nacho Fiesta: 8.23
+  Ultimate Nacho Platter: 7.49
+  Chocolate Molten Tamale: 4.92
+  Black Bean Taco Bowl: 6.38
+  Roasted Corn and Black Bean Salsa: 4.9
+  Verde Ranchero Huevos: 9.86
+  Tequila Lime Flan: 5.41
+  Mushroom & Cheese Tamales: 5.86

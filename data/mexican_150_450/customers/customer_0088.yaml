@@ -1,0 +1,10 @@
+id: customer_0088
+name: Jacob Garcia
+request: 'Please assist in placing an order for the following items from a business
+  that offers both a ''Coconut Lime Flan'' and a ''Black Bean Burgers'': 1 Coconut
+  Lime Flan and 1 Black Bean Burgers. It is important that the business can provide
+  both menu items as specified. Thank you.'
+menu_features:
+  Coconut Lime Flan: 5.99
+  Black Bean Burgers: 10.49
+amenity_features: []

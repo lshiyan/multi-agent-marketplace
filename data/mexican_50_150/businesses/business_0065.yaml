@@ -1,0 +1,41 @@
+id: business_0065
+name: Casa Flor y Fuego
+description: A vibrant destination for fresh Mexican and Tex-Mex cuisine, Casa Flor
+  y Fuego blends bold flavors, colorful ingredients, and a welcoming atmosphere. Discover
+  refreshing drinks, savory mains, and zesty snacks made to delight every palate.
+rating: 1.0
+progenitor_customer: customer_0022
+menu_features:
+  Hibiscus Iced Tea: 3.65
+  Spice-Rubbed Grilled Fajitas: 15.15
+  Beef Enchiladas Verdes: 11.09
+  Creamy Avocado Soup: 6.37
+  Pineapple Pico de Gallo Nachos: 10.05
+  Loaded Nacho Supreme: 10.29
+  Roasted Corn and Black Bean Salsa: 7.2
+  Margarita Lime Pie: 6.33
+  Cilantro Lime Shrimp Skewers: 12.12
+  Roasted Pepper Queso Dip: 5.7
+  Mexican Street Corn Salad: 7.57
+  Smoky Lime Quinoa Salad: 7.86
+  Fresh Mango Salsa Nachos: 9.56
+  Spicy Beef Empanadas: 10.84
+  Grilled Avocado and Quinoa Bowl: 9.92
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Hibiscus Iced Tea: 2.23
+  Spice-Rubbed Grilled Fajitas: 9.24
+  Beef Enchiladas Verdes: 6.76
+  Creamy Avocado Soup: 3.89
+  Pineapple Pico de Gallo Nachos: 6.13
+  Loaded Nacho Supreme: 6.28
+  Roasted Corn and Black Bean Salsa: 4.39
+  Margarita Lime Pie: 3.86
+  Cilantro Lime Shrimp Skewers: 7.39
+  Roasted Pepper Queso Dip: 3.48
+  Mexican Street Corn Salad: 4.62
+  Smoky Lime Quinoa Salad: 4.79
+  Fresh Mango Salsa Nachos: 5.83
+  Spicy Beef Empanadas: 6.61
+  Grilled Avocado and Quinoa Bowl: 6.05

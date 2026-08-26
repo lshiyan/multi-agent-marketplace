@@ -1,0 +1,40 @@
+id: business_0192
+name: Guac the Plank
+description: Set sail for a flavor adventure at Guac the Plank, a vibrant Mexican
+  and Tex-Mex eatery known for bold citrus twists, crispy bites, and fresh-from-the-grill
+  specialties. Dive into colorful dishes and refreshing drinks perfect for lively
+  gatherings and spirited brunches.
+rating: 1.0
+progenitor_customer: customer_0064
+menu_features:
+  Honey-Lime Grilled Salmon: 16.06
+  Carnitas Breakfast Burrito: 10.58
+  Crispy Avocado Fritters: 9.34
+  Garlic Lime Shrimp Salad: 13.56
+  Vanilla Almond Horchata: 4.1
+  Blue Corn Tostada Salad: 8.21
+  Crispy Fish Street Tacos: 13.06
+  Blue Corn Tortilla Chips: 4.84
+  Lime-Garlic Grilled Chicken: 17.49
+  Zesty Lime Shrimp Tostadas: 11.22
+  Avocado Lime Salad: 9.83
+  Chocolate Molten Tamale: 5.55
+  Chili-Lime Cauliflower Bites: 10.17
+  Breakfast Chorizo Tostadas: 9.3
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Honey-Lime Grilled Salmon: 10.6
+  Carnitas Breakfast Burrito: 6.98
+  Crispy Avocado Fritters: 6.16
+  Garlic Lime Shrimp Salad: 8.95
+  Vanilla Almond Horchata: 2.71
+  Blue Corn Tostada Salad: 5.42
+  Crispy Fish Street Tacos: 8.62
+  Blue Corn Tortilla Chips: 3.19
+  Lime-Garlic Grilled Chicken: 11.54
+  Zesty Lime Shrimp Tostadas: 7.41
+  Avocado Lime Salad: 6.49
+  Chocolate Molten Tamale: 3.66
+  Chili-Lime Cauliflower Bites: 6.71
+  Breakfast Chorizo Tostadas: 6.14

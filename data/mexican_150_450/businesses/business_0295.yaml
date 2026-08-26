@@ -1,0 +1,45 @@
+id: business_0295
+name: Crisp & Citrus Kitchen
+description: Crisp & Citrus Kitchen serves up vibrant Mexican and Tex-Mex dishes with
+  bold, fresh flavors and creative twists. Enjoy a lively atmosphere perfect for savoring
+  refreshing drinks, unique tacos, and a variety of flavorful bites.
+rating: 1.0
+progenitor_customer: customer_0099
+menu_features:
+  Crispy Fish Tacos: 12.8
+  Citrus Cilantro Rice: 5.11
+  Honey Chipotle Shrimp Bowl: 14.55
+  Cheesy Jalapeno Poppers: 8.24
+  Coconut Lime Margarita: 9.54
+  Smoky Black Bean Enchiladas: 13.87
+  Avocado Lime Dip: 6.96
+  "Spicy Jalape\xF1o Limeade": 4.05
+  Honey-Lime Shrimp Skewers: 13.47
+  Black Bean & Cheese Enchiladas: 12.35
+  Refreshing Agua Fresca Trio: 8.51
+  Smoky Chipotle Quesadillas: 7.6
+  Fiesta Street Corn: 4.39
+  Stuffed Chicken Poblano: 14.99
+  Chili Lime Skirt Steak: 14.88
+  Verde Chicken Enchiladas: 11.41
+  Chocolate Mole Brownie: 6.74
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Crispy Fish Tacos: 9.73
+  Citrus Cilantro Rice: 3.88
+  Honey Chipotle Shrimp Bowl: 11.06
+  Cheesy Jalapeno Poppers: 6.26
+  Coconut Lime Margarita: 7.25
+  Smoky Black Bean Enchiladas: 10.54
+  Avocado Lime Dip: 5.29
+  "Spicy Jalape\xF1o Limeade": 3.08
+  Honey-Lime Shrimp Skewers: 10.24
+  Black Bean & Cheese Enchiladas: 9.39
+  Refreshing Agua Fresca Trio: 6.47
+  Smoky Chipotle Quesadillas: 5.78
+  Fiesta Street Corn: 3.34
+  Stuffed Chicken Poblano: 11.39
+  Chili Lime Skirt Steak: 11.31
+  Verde Chicken Enchiladas: 8.67
+  Chocolate Mole Brownie: 5.12

@@ -1,0 +1,46 @@
+id: business_0310
+name: "La Estaci\xF3n Picante"
+description: "A vibrant destination for bold Mexican and Tex-Mex flavors, La Estaci\xF3\
+  n Picante serves up fresh, spirited cuisine and creative beverages in a lively,\
+  \ welcoming atmosphere. Experience a celebration of tradition and spice in every\
+  \ bite."
+rating: 1.0
+progenitor_customer: customer_0104
+menu_features:
+  "Spicy Jalape\xF1o Limeade": 3.21
+  Breakfast Chorizo Torta: 6.36
+  Pineapple Salsa Pork Tacos: 11.8
+  Smoky Chipotle Queso: 7.36
+  Green Chile Pork Stew: 14.84
+  Hibiscus Agua Fresca: 3.4
+  Hibiscus Iced Tea: 3.13
+  Fiesta Street Corn: 4.45
+  Blueberry Agave Margarita: 10.26
+  Beef Barbacoa Tostadas: 10.29
+  Cocoa Dusted Churro Bites: 5.89
+  Chili-Lime Cauliflower Bites: 8.23
+  Pineapple Habanero Salsa: 4.36
+  Spicy Pork Tamales: 10.59
+  Classic Beef Barbacoa: 15.14
+  Tomatillo Ranch Enchiladas: 12.88
+  Crispy Avocado Tacos: 10.51
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  "Spicy Jalape\xF1o Limeade": 2.44
+  Breakfast Chorizo Torta: 4.83
+  Pineapple Salsa Pork Tacos: 8.97
+  Smoky Chipotle Queso: 5.59
+  Green Chile Pork Stew: 11.28
+  Hibiscus Agua Fresca: 2.58
+  Hibiscus Iced Tea: 2.38
+  Fiesta Street Corn: 3.38
+  Blueberry Agave Margarita: 7.8
+  Beef Barbacoa Tostadas: 7.82
+  Cocoa Dusted Churro Bites: 4.48
+  Chili-Lime Cauliflower Bites: 6.25
+  Pineapple Habanero Salsa: 3.31
+  Spicy Pork Tamales: 8.05
+  Classic Beef Barbacoa: 11.51
+  Tomatillo Ranch Enchiladas: 9.79
+  Crispy Avocado Tacos: 7.99

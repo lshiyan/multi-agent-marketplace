@@ -1,0 +1,40 @@
+id: business_0249
+name: Fajita & Flare
+description: Experience bold flavors and vibrant spices in a lively setting where
+  classic and creative Mexican dishes are grilled to perfection. Enjoy a fresh take
+  on Tex-Mex favorites and specialty drinks in an atmosphere bursting with warmth
+  and color.
+rating: 1.0
+progenitor_customer: customer_0083
+menu_features:
+  Spice-Rubbed Grilled Fajitas: 15.99
+  Breakfast Chorizo Tostadas: 8.3
+  Breakfast Burrito Bowl: 8.99
+  Honey-Lime Shrimp Skewers: 15.06
+  Chipotle Lime Shrimp Tacos: 13.77
+  Black Bean and Cilantro Rice: 4.41
+  Chorizo and Egg Tacos: 8.96
+  Mexican Chocolate Brownie: 6.11
+  Caramelized Onion Queso Dip: 8.18
+  Roasted Poblano Rellenos: 18.05
+  Blueberry Agave Margarita: 10.89
+  Zesty Shrimp Quesadillas: 14.47
+  Sizzling Fajita Skillet: 15.74
+  Horchata Iced Coffee: 4.87
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Spice-Rubbed Grilled Fajitas: 14.39
+  Breakfast Chorizo Tostadas: 7.47
+  Breakfast Burrito Bowl: 8.09
+  Honey-Lime Shrimp Skewers: 13.55
+  Chipotle Lime Shrimp Tacos: 12.39
+  Black Bean and Cilantro Rice: 3.97
+  Chorizo and Egg Tacos: 8.06
+  Mexican Chocolate Brownie: 5.5
+  Caramelized Onion Queso Dip: 7.36
+  Roasted Poblano Rellenos: 16.25
+  Blueberry Agave Margarita: 9.8
+  Zesty Shrimp Quesadillas: 13.02
+  Sizzling Fajita Skillet: 14.17
+  Horchata Iced Coffee: 4.38

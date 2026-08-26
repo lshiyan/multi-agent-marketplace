@@ -1,0 +1,35 @@
+id: business_0162
+name: Sabrosa Sunrise Cantina
+description: Wake up your tastebuds at Sabrosa Sunrise Cantina, where vibrant Mexican
+  and Tex-Mex flavors meet fresh, wholesome ingredients. Enjoy bold bowls, crisp salads,
+  and festive beverages in a warm, sunlit setting.
+rating: 1.0
+progenitor_customer: customer_0054
+menu_features:
+  Breakfast Burrito Bowl: 7.49
+  Chipotle Lime Chicken Salad: 8.75
+  Avocado Ranch Burrito Bowl: 11.74
+  Street Corn Elote: 5.94
+  "Spicy Jalape\xF1o Limeade": 3.73
+  Veggie Fajita Platter: 18.62
+  "Coconut Horchata Latt\xE9": 5.33
+  Refreshing Agua Fresca Trio: 7.85
+  Spicy Mango Margarita: 8.56
+  Spicy Chicken Tortilla Soup: 5.4
+  Salted Caramel Margarita: 10.85
+  Crispy Tinga Chicken Tacos: 8.69
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Breakfast Burrito Bowl: 6.74
+  Chipotle Lime Chicken Salad: 7.88
+  Avocado Ranch Burrito Bowl: 10.57
+  Street Corn Elote: 5.35
+  "Spicy Jalape\xF1o Limeade": 3.36
+  Veggie Fajita Platter: 16.76
+  "Coconut Horchata Latt\xE9": 4.8
+  Refreshing Agua Fresca Trio: 7.06
+  Spicy Mango Margarita: 7.7
+  Spicy Chicken Tortilla Soup: 4.86
+  Salted Caramel Margarita: 9.77
+  Crispy Tinga Chicken Tacos: 7.82

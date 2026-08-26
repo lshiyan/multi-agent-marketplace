@@ -1,0 +1,35 @@
+id: business_0138
+name: Flare & Flavor Eatery
+description: Delight in bold, modern Mexican and Tex-Mex dishes crafted with vibrant
+  ingredients and inventive twists. From zesty starters to decadent desserts, every
+  plate is a celebration of colorful flavors.
+rating: 1.0
+progenitor_customer: customer_0046
+menu_features:
+  Spiced Chocolate Flan: 6.21
+  Breakfast Burrito Bowl: 8.6
+  Toasted Coconut Flan: 5.36
+  Blueberry Jalapeno Margarita: 10.13
+  Pumpkin Spice Churros: 5.37
+  Tamarind Glazed Wings: 12.33
+  Passion Fruit Agua Fresca: 4.29
+  Poblano Pepper Relleno Plate: 13.5
+  Passion Fruit Mojito: 9.16
+  Black Bean and Lime Soup: 6.71
+  Chipotle Lime Chicken Skewers: 10.58
+  Avocado Lime Grilled Shrimp: 14.22
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Spiced Chocolate Flan: 4.91
+  Breakfast Burrito Bowl: 6.79
+  Toasted Coconut Flan: 4.23
+  Blueberry Jalapeno Margarita: 8.0
+  Pumpkin Spice Churros: 4.24
+  Tamarind Glazed Wings: 9.74
+  Passion Fruit Agua Fresca: 3.39
+  Poblano Pepper Relleno Plate: 10.67
+  Passion Fruit Mojito: 7.24
+  Black Bean and Lime Soup: 5.3
+  Chipotle Lime Chicken Skewers: 8.36
+  Avocado Lime Grilled Shrimp: 11.23

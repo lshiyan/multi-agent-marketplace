@@ -1,0 +1,43 @@
+id: business_0306
+name: Guacward Glance
+description: A fresh, vibrant spot serving playful takes on classic Mexican and Tex-Mex
+  fare, where bold flavors and bright sips steal the show. Our kitchen blends tradition
+  with a twist for a crave-worthy dining experience.
+rating: 1.0
+progenitor_customer: customer_0102
+menu_features:
+  Guava Limeade Cooler: 4.73
+  Coconut Lime Shrimp Skewers: 11.77
+  Horchata Cold Brew Coffee: 4.55
+  Carnitas Breakfast Burrito: 12.66
+  Margarita Lime Cheesecake: 6.03
+  Three-Cheese Enchilada Stack: 11.8
+  Smoky Black Bean Nachos: 10.67
+  Strawberry Jalapeno Lemonade: 3.63
+  Beef Enchiladas Verdes: 13.69
+  Chipotle Chicken Enchiladas: 13.65
+  Mexican Street Corn Salad: 6.51
+  Zesty Lime Shrimp Salad: 15.39
+  Pineapple Pico de Gallo Salsa: 8.61
+  Spicy Street Corn: 4.67
+  Adobo Pork Sliders: 12.31
+  Cilantro Lime Rice Bowl: 8.96
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Guava Limeade Cooler: 4.4
+  Coconut Lime Shrimp Skewers: 10.95
+  Horchata Cold Brew Coffee: 4.23
+  Carnitas Breakfast Burrito: 11.77
+  Margarita Lime Cheesecake: 5.61
+  Three-Cheese Enchilada Stack: 10.97
+  Smoky Black Bean Nachos: 9.92
+  Strawberry Jalapeno Lemonade: 3.38
+  Beef Enchiladas Verdes: 12.73
+  Chipotle Chicken Enchiladas: 12.69
+  Mexican Street Corn Salad: 6.05
+  Zesty Lime Shrimp Salad: 14.31
+  Pineapple Pico de Gallo Salsa: 8.01
+  Spicy Street Corn: 4.34
+  Adobo Pork Sliders: 11.45
+  Cilantro Lime Rice Bowl: 8.33

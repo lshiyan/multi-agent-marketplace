@@ -1,0 +1,39 @@
+id: business_0395
+name: Pepper & Plantain
+description: A vibrant spot where sweet, spicy, and savory Mexican flavors come together.
+  Enjoy creative takes on classic Tex-Mex and Mexican comfort foods in a lively, welcoming
+  setting.
+rating: 1.0
+progenitor_customer: customer_0132
+menu_features:
+  Pumpkin Spice Flan: 5.63
+  Mexican Chocolate Brownie: 6.22
+  Spicy Black Bean and Cheese Quesadilla: 9.84
+  Sweet Plantain Empanadas: 7.58
+  Citrus Grilled Chicken Tacos: 12.57
+  Street Corn Elote: 5.92
+  "Blueberry Jalape\xF1o Margarita": 11.65
+  Blueberry Jalapeno Margarita: 13.81
+  Pineapple Jalapeno Salsa: 5.24
+  Jicama and Citrus Salad: 8.33
+  Passion Fruit Agua Fresca: 3.11
+  Stuffed Avocado Delight: 7.7
+  Black Bean Street Tacos: 11.41
+  Spicy Chorizo Enchiladas: 14.61
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Pumpkin Spice Flan: 4.17
+  Mexican Chocolate Brownie: 4.6
+  Spicy Black Bean and Cheese Quesadilla: 7.28
+  Sweet Plantain Empanadas: 5.61
+  Citrus Grilled Chicken Tacos: 9.3
+  Street Corn Elote: 4.38
+  "Blueberry Jalape\xF1o Margarita": 8.62
+  Blueberry Jalapeno Margarita: 10.22
+  Pineapple Jalapeno Salsa: 3.88
+  Jicama and Citrus Salad: 6.16
+  Passion Fruit Agua Fresca: 2.3
+  Stuffed Avocado Delight: 5.7
+  Black Bean Street Tacos: 8.44
+  Spicy Chorizo Enchiladas: 10.81

@@ -1,0 +1,47 @@
+id: business_0059
+name: Spice & Citrus Cantina
+description: A vibrant, modern spot serving up fresh, bold Mexican and Tex-Mex flavors
+  with creative twists on classic favorites. Indulge in zesty bites, refreshing sips,
+  and a colorful atmosphere that brings a taste of Mexico to the heart of your city.
+rating: 1.0
+progenitor_customer: customer_0020
+menu_features:
+  Cinnamon Churro Bites: 5.95
+  Chili Lime Shrimp Skewers: 15.56
+  Gourmet Nacho Platter: 9.91
+  Pineapple Jalapeno Margarita: 9.14
+  Chipotle Lime Chicken Salad: 10.45
+  Chipotle Shrimp Skewers: 13.26
+  Fresh Corn Elote: 3.29
+  Ancho Chili Spiced Ribs: 18.44
+  Blueberry Agave Margarita: 10.35
+  Black Bean & Cheese Enchiladas: 13.54
+  Rich Chocolate Tamales: 5.41
+  Mango Habanero Wings: 10.85
+  Creamy Avocado Smoothie: 5.11
+  Carne Asada Nachos: 13.55
+  Vanilla Almond Horchata: 4.01
+  "Cheesy Jalape\xF1o Queso Dip": 7.09
+  Huevos Rancheros: 10.69
+  Chili Chocolate Lava Cake: 7.17
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Cinnamon Churro Bites: 4.7
+  Chili Lime Shrimp Skewers: 12.29
+  Gourmet Nacho Platter: 7.83
+  Pineapple Jalapeno Margarita: 7.22
+  Chipotle Lime Chicken Salad: 8.26
+  Chipotle Shrimp Skewers: 10.48
+  Fresh Corn Elote: 2.6
+  Ancho Chili Spiced Ribs: 14.57
+  Blueberry Agave Margarita: 8.18
+  Black Bean & Cheese Enchiladas: 10.7
+  Rich Chocolate Tamales: 4.27
+  Mango Habanero Wings: 8.57
+  Creamy Avocado Smoothie: 4.04
+  Carne Asada Nachos: 10.7
+  Vanilla Almond Horchata: 3.17
+  "Cheesy Jalape\xF1o Queso Dip": 5.6
+  Huevos Rancheros: 8.45
+  Chili Chocolate Lava Cake: 5.66

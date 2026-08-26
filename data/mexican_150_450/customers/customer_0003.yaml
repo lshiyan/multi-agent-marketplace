@@ -1,0 +1,10 @@
+id: customer_0003
+name: Rachel Kim
+request: Could you please assist me in finding a business that serves the following
+  menu items? I am looking to place an order for 1 Lime-Cilantro Quinoa Salad and
+  1 Adobo Roasted Corn Salad. It is important that both items are available. Thank
+  you for your help.
+menu_features:
+  Lime-Cilantro Quinoa Salad: 9.79
+  Adobo Roasted Corn Salad: 8.49
+amenity_features: []

@@ -1,0 +1,11 @@
+id: customer_0019
+name: John O'Neill
+request: 'Could you please help me find a business that offers the following menu
+  items: 1 Mango Agua Fresca, 1 Grilled Avocado and Quinoa Bowl, and 1 Grilled Steak
+  Fajita Platter? It''s important that all these items are available from the same
+  vendor, as I intend to place an order for them. Thank you!'
+menu_features:
+  Mango Agua Fresca: 3.49
+  Grilled Avocado and Quinoa Bowl: 10.49
+  Grilled Steak Fajita Platter: 15.99
+amenity_features: []

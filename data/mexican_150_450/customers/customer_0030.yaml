@@ -1,0 +1,13 @@
+id: customer_0030
+name: Mia Lopez
+request: 'I hope this message finds you well. I am looking to place an order with
+  a business that can provide the following menu items: 1 Caramelized Onion and Goat
+  Cheese Empanada, 1 Blueberry Agave Agua Fresca, and 1 Chocolate Sopapilla Bite.
+  It is important that all these items are available from the same business, as I
+  am ready to place the order. Thank you for your assistance in finding a suitable
+  business.'
+menu_features:
+  Caramelized Onion and Goat Cheese Empanadas: 6.49
+  Blueberry Agave Agua Fresca: 4.99
+  Chocolate Sopapilla Bites: 4.99
+amenity_features: []

@@ -1,0 +1,37 @@
+id: business_0039
+name: Fajita the Heat
+description: "Spice up your day with our inventive Tex-Mex dishes and fresh, vibrant\
+  \ flavors. From crave-worthy starters to sizzling mains, it\u2019s always a fiesta\
+  \ at Fajita the Heat."
+rating: 1.0
+progenitor_customer: customer_0013
+menu_features:
+  Chili Lime Margarita: 8.38
+  Sizzling Chicken Fajitas: 18.06
+  Adobo Pork Sliders: 10.82
+  Lime-Garlic Grilled Chicken: 14.7
+  Roasted Tomato Salsa Dip: 3.31
+  Black Bean & Cheese Enchiladas: 13.56
+  Creamy Poblano Corn Chowder: 8.09
+  Caramelized Plantain Empanadas: 5.83
+  Chili Lime Jicama Sticks: 5.6
+  Avocado Lime Dip: 7.2
+  Jicama and Citrus Salad: 7.32
+  Beef Enchiladas Verdes: 12.2
+  Fajita Veggie Burrito Bowl: 15.2
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Chili Lime Margarita: 6.54
+  Sizzling Chicken Fajitas: 14.09
+  Adobo Pork Sliders: 8.44
+  Lime-Garlic Grilled Chicken: 11.47
+  Roasted Tomato Salsa Dip: 2.58
+  Black Bean & Cheese Enchiladas: 10.58
+  Creamy Poblano Corn Chowder: 6.31
+  Caramelized Plantain Empanadas: 4.55
+  Chili Lime Jicama Sticks: 4.37
+  Avocado Lime Dip: 5.62
+  Jicama and Citrus Salad: 5.71
+  Beef Enchiladas Verdes: 9.52
+  Fajita Veggie Burrito Bowl: 11.86

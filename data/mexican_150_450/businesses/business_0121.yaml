@@ -1,0 +1,37 @@
+id: business_0121
+name: Midnight Mesa
+description: Midnight Mesa brings a modern twist to Mexican and Tex-Mex favorites,
+  serving up bold flavors with fresh, vibrant ingredients. Experience creative takes
+  on classic dishes in a lively, contemporary setting.
+rating: 1.0
+progenitor_customer: customer_0041
+menu_features:
+  Midnight Mole Enchiladas: 15.01
+  Pineapple Habanero Salsa: 4.2
+  Southwestern Quinoa Salad: 10.08
+  Blue Corn Tortilla Chips: 4.76
+  Stuffed Poblano Pepper Delight: 8.89
+  Smoky Black Bean Nachos: 10.73
+  Black Bean & Corn Quesadilla: 10.89
+  Tamale Pie Casserole: 12.51
+  Ancho Chili Chocolate Cake: 6.45
+  Avocado Lime Grilled Shrimp: 14.38
+  Mango Habanero Wings: 11.03
+  Flamin' Skillet Fajitas: 18.76
+  Mole Chicken Quesadilla: 10.67
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Midnight Mole Enchiladas: 11.71
+  Pineapple Habanero Salsa: 3.28
+  Southwestern Quinoa Salad: 7.86
+  Blue Corn Tortilla Chips: 3.71
+  Stuffed Poblano Pepper Delight: 6.93
+  Smoky Black Bean Nachos: 8.37
+  Black Bean & Corn Quesadilla: 8.49
+  Tamale Pie Casserole: 9.76
+  Ancho Chili Chocolate Cake: 5.03
+  Avocado Lime Grilled Shrimp: 11.22
+  Mango Habanero Wings: 8.6
+  Flamin' Skillet Fajitas: 14.63
+  Mole Chicken Quesadilla: 8.32

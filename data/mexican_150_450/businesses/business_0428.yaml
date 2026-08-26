@@ -1,0 +1,35 @@
+id: business_0428
+name: Brunch & Bloom Cantina
+description: A fresh, vibrant spot for Tex-Mex favorites with a modern twist, featuring
+  bold flavors and colorful drinks in a lively setting. Perfect for brunch or a cheerful
+  bite any time of day.
+rating: 1.0
+progenitor_customer: customer_0143
+menu_features:
+  Crispy Tinga Chicken Tacos: 9.49
+  Passionfruit Agua Fresca: 3.39
+  Chorizo Breakfast Burrito: 9.96
+  Breakfast Tostada Stack: 11.1
+  Citrus Marinated Carne Asada: 17.45
+  Horchata Iced Latte: 3.55
+  Passion Fruit Agua Fresca: 3.9
+  Zesty Lime Shrimp Tostadas: 10.61
+  Smoky Chipotle Quesadillas: 11.32
+  Citrus Grilled Chicken Tacos: 11.95
+  Avocado Lime Cheesecake: 7.47
+  Cucumber Jalapeno Agua Fresca: 4.67
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Crispy Tinga Chicken Tacos: 7.88
+  Passionfruit Agua Fresca: 2.81
+  Chorizo Breakfast Burrito: 8.27
+  Breakfast Tostada Stack: 9.21
+  Citrus Marinated Carne Asada: 14.48
+  Horchata Iced Latte: 2.95
+  Passion Fruit Agua Fresca: 3.24
+  Zesty Lime Shrimp Tostadas: 8.81
+  Smoky Chipotle Quesadillas: 9.4
+  Citrus Grilled Chicken Tacos: 9.92
+  Avocado Lime Cheesecake: 6.2
+  Cucumber Jalapeno Agua Fresca: 3.88

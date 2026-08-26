@@ -1,0 +1,43 @@
+id: business_0250
+name: Crave Mex Kitchen
+description: Discover a vibrant twist on classic Mexican and Tex-Mex favorites at
+  Crave Mex Kitchen. Fresh flavors, creative bites, and bold spices come together
+  for an unforgettable dining experience.
+rating: 1.0
+progenitor_customer: customer_0084
+menu_features:
+  Spiced Churro Bites: 4.12
+  Roasted Poblano Rellenos: 13.8
+  Mexican Chocolate Flan: 7.16
+  Ancho Chile BBQ Ribs: 16.37
+  Zesty Lime Shrimp Salad: 12.55
+  Breakfast Chorizo Tostadas: 11.87
+  Mexican Coffee Flan: 4.69
+  Baja Fish Tacos: 17.27
+  Chili Lime Roasted Corn: 4.53
+  Chipotle Lime Chicken Skewers: 11.81
+  Sizzling Chicken Fajitas: 14.05
+  Twice-Baked Sweet Potato: 7.27
+  Grilled Shrimp Skewers: 13.46
+  Zesty Shrimp Ceviche: 13.13
+  Crispy Fish Street Tacos: 14.03
+  Mesquite Grilled Steak Fajitas: 17.42
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Spiced Churro Bites: 3.58
+  Roasted Poblano Rellenos: 12.01
+  Mexican Chocolate Flan: 6.23
+  Ancho Chile BBQ Ribs: 14.24
+  Zesty Lime Shrimp Salad: 10.92
+  Breakfast Chorizo Tostadas: 10.33
+  Mexican Coffee Flan: 4.08
+  Baja Fish Tacos: 15.02
+  Chili Lime Roasted Corn: 3.94
+  Chipotle Lime Chicken Skewers: 10.27
+  Sizzling Chicken Fajitas: 12.22
+  Twice-Baked Sweet Potato: 6.32
+  Grilled Shrimp Skewers: 11.71
+  Zesty Shrimp Ceviche: 11.42
+  Crispy Fish Street Tacos: 12.21
+  Mesquite Grilled Steak Fajitas: 15.16

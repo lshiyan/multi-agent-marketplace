@@ -1,0 +1,47 @@
+id: business_0082
+name: "Casa Chipotle y Saz\xF3n"
+description: Step into a vibrant setting inspired by the bold flavors of Mexico and
+  the Southwest. Enjoy our chef-driven, spice-forward dishes and fresh, seasonal ingredients
+  at every visit.
+rating: 1.0
+progenitor_customer: customer_0028
+menu_features:
+  Chipotle Chicken Burrito Bowl: 11.3
+  Spice-Rubbed Grilled Fajitas: 13.81
+  Jalapeno Cheddar Cornbread: 4.02
+  Grilled Pineapple Dessert Quesadilla: 8.1
+  Chipotle Chicken Enchiladas: 14.14
+  Fajita Veggie Burrito Bowl: 13.95
+  Stuffed Chicken Poblano: 12.72
+  Sweet Chili Lime Elote: 5.01
+  Mexican Spiced Chocolate Cake: 7.36
+  Roasted Poblano Soup: 6.22
+  Blueberry Agave Agua Fresca: 3.78
+  Baja Shrimp Quesadilla: 12.53
+  Smoky Chipotle BBQ Wings: 11.02
+  Citrus Marinated Carne Asada: 16.26
+  Creamy Avocado Caesar Salad: 11.13
+  Fresh Watermelon Aqua Fresca: 4.79
+  Spicy Black Bean Tacos: 10.64
+  Crispy Fish Baja Bowl: 14.55
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Chipotle Chicken Burrito Bowl: 9.04
+  Spice-Rubbed Grilled Fajitas: 11.05
+  Jalapeno Cheddar Cornbread: 3.22
+  Grilled Pineapple Dessert Quesadilla: 6.48
+  Chipotle Chicken Enchiladas: 11.31
+  Fajita Veggie Burrito Bowl: 11.16
+  Stuffed Chicken Poblano: 10.18
+  Sweet Chili Lime Elote: 4.01
+  Mexican Spiced Chocolate Cake: 5.89
+  Roasted Poblano Soup: 4.98
+  Blueberry Agave Agua Fresca: 3.02
+  Baja Shrimp Quesadilla: 10.02
+  Smoky Chipotle BBQ Wings: 8.82
+  Citrus Marinated Carne Asada: 13.01
+  Creamy Avocado Caesar Salad: 8.9
+  Fresh Watermelon Aqua Fresca: 3.83
+  Spicy Black Bean Tacos: 8.51
+  Crispy Fish Baja Bowl: 11.64

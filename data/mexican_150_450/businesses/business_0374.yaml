@@ -1,0 +1,41 @@
+id: business_0374
+name: La Parilla Esmeralda
+description: Experience the vibrant flavors of Mexico and the Southwest in a welcoming,
+  modern setting. Enjoy artfully grilled meats, fresh salads, and decadent desserts
+  crafted with authentic spices and a twist of creativity.
+rating: 1.0
+progenitor_customer: customer_0125
+menu_features:
+  Mesquite Grilled Steak Fajitas: 15.36
+  Zesty Lime Chicken Tacos: 11.3
+  Grilled Pineapple Mojito: 8.63
+  Chocolate Cinnamon Flan: 6.49
+  Green Chile Cheesesteak: 12.76
+  Spiced Churro Bites: 6.25
+  Honey Lime Grilled Fajitas: 16.76
+  Rich Chocolate Tres Leches: 5.79
+  Southwest Chopped Salad: 10.5
+  Chipotle Chicken Enchiladas: 12.77
+  Spicy Chicken Tortilla Soup: 5.51
+  Carnitas Breakfast Burrito: 9.2
+  Mushroom & Cheese Tamales: 9.23
+  Spicy Shrimp Ceviche: 11.62
+  Loaded Nacho Fiesta: 9.59
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Mesquite Grilled Steak Fajitas: 13.06
+  Zesty Lime Chicken Tacos: 9.61
+  Grilled Pineapple Mojito: 7.34
+  Chocolate Cinnamon Flan: 5.52
+  Green Chile Cheesesteak: 10.85
+  Spiced Churro Bites: 5.31
+  Honey Lime Grilled Fajitas: 14.25
+  Rich Chocolate Tres Leches: 4.92
+  Southwest Chopped Salad: 8.92
+  Chipotle Chicken Enchiladas: 10.85
+  Spicy Chicken Tortilla Soup: 4.68
+  Carnitas Breakfast Burrito: 7.82
+  Mushroom & Cheese Tamales: 7.85
+  Spicy Shrimp Ceviche: 9.88
+  Loaded Nacho Fiesta: 8.15

@@ -1,0 +1,1500 @@
+- name: Cheesy Jalapeno Poppers
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Grilled Chipotle Chicken Burrito
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: Cinnamon Sugar Churros
+  mean_price: 5.49
+  price_stddev: 0.6863
+- name: Salted Caramel Margarita
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Spicy Black Bean Enchiladas
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Roasted Corn and Avocado Salad
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Smoky Mezcal Mule
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Loaded Nacho Bowl
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Sizzling Fajita Platter
+  mean_price: 16.49
+  price_stddev: 2.0612
+- name: Baja Fish Tacos
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Crispy Carnitas Quesadilla
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Pineapple Jalapeno Salsa
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Sweet Plantain Empanadas
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Breakfast Chorizo Tostadas
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Twice-Baked Sweet Potato
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Mexican Hot Chocolate
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Crispy Avocado Bites
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Spicy Chipotle Chicken Wrap
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Black Bean Street Tacos
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Loaded Nacho Supreme
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Chipotle Lime Shrimp Skewers
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Hibiscus Agua Fresca
+  mean_price: 3.49
+  price_stddev: 0.4363
+- name: Chocolate Cinnamon Flan
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Frozen Mango Margarita
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Pico de Gallo Chicken Salad
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Blueberry Jalapeno Lemonade
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Spicy Beef Enchilada Bake
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: Vanilla Almond Horchata
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Passion Fruit Mojito
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Caramelized Onion Queso Dip
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Crispy Avocado Fritters
+  mean_price: 8.29
+  price_stddev: 1.0362
+- name: Stuffed Poblano Pepper Delight
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Mexican Chocolate Lava Cake
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Margarita Grilled Chicken
+  mean_price: 14.59
+  price_stddev: 1.8237
+- name: Spicy Mango Margarita
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Blue Corn Tortilla Soup
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Chipotle Lime Shrimp Tacos
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Three-Cheese Enchilada Stack
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Lime-Cilantro Quinoa Salad
+  mean_price: 9.79
+  price_stddev: 1.2237
+- name: Passion Fruit Agua Fresca
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Crispy Fish Baja Bowl
+  mean_price: 13.29
+  price_stddev: 1.6612
+- name: Coconut Lime Margarita
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Cheesy Jalapeno Queso
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Savory Chorizo Street Tacos
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Zesty Lime Chicken Fajitas
+  mean_price: 15.29
+  price_stddev: 1.9112
+- name: Classic Beef Enchiladas
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: Chipotle Chicken Burrito Bowl
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Creamy Avocado Smoothie
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Smoky BBQ Pork Tostadas
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Black Bean and Corn Salsa
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Caramelized Plantain Empanadas
+  mean_price: 6.49
+  price_stddev: 0.8113
+- name: Cinnamon Sugar Churro Sticks
+  mean_price: 5.49
+  price_stddev: 0.6863
+- name: Breakfast Chilaquiles Verde
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Sizzling Beef Alambre
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Blueberry Hibiscus Margarita
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Pineapple Habanero Sake
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Jalapeno Cheddar Cornbread
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Crispy Avocado Tostadas
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Loaded Nacho Fries
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Mango Habanero Salsa
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Classic Flan Delight
+  mean_price: 6.49
+  price_stddev: 0.8113
+- name: Grilled Pineapple Salmon
+  mean_price: 17.99
+  price_stddev: 2.2487
+- name: Sunrise Breakfast Tacos
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Black Bean & Corn Queso Dip
+  mean_price: 6.49
+  price_stddev: 0.8113
+- name: Tropical Coconut Margarita
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Mexican Chocolate Brownie
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Spicy Beef Chimichangas
+  mean_price: 14.49
+  price_stddev: 1.8113
+- name: Housemade Horchata
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Cactus Jack Quesadilla
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Stuffed Poblano Peppers
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Blue Corn Enchilada Bake
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Chipotle Lime Chicken Salad
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Tex-Mex Breakfast Skillet
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Avocado Lime Cheesecake
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Ancho Chili Chocolate Cake
+  mean_price: 7.25
+  price_stddev: 0.9062
+- name: Black Bean & Corn Quesadilla
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Spicy Pineapple Chipotle Margarita
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Caramel Apple Empanadas
+  mean_price: 5.79
+  price_stddev: 0.7238
+- name: Mushroom & Cheese Tamales
+  mean_price: 8.29
+  price_stddev: 1.0362
+- name: Cactus Flower Iced Tea
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Charred Corn & Cotija Nachos
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Pumpkin Spice Churros
+  mean_price: 5.59
+  price_stddev: 0.6987
+- name: Roasted Tomato Salsa Dip
+  mean_price: 3.49
+  price_stddev: 0.4363
+- name: Sea Breeze Ceviche
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Crispy Avocado Tacos
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Beef Fajita Skillet
+  mean_price: 14.89
+  price_stddev: 1.8613
+- name: Grilled Pineapple & Shrimp Quesadillas
+  mean_price: 12.69
+  price_stddev: 1.5862
+- name: Chocolate Tamale Cake
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Pork Carnitas Platter
+  mean_price: 14.29
+  price_stddev: 1.7862
+- name: Twisted Tequila Sunrise
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Avocado & Tomato Breakfast Tostadas
+  mean_price: 8.59
+  price_stddev: 1.0737
+- name: Mango Habanero Wings
+  mean_price: 11.89
+  price_stddev: 1.4863
+- name: Flan with Caramel Drizzle
+  mean_price: 5.79
+  price_stddev: 0.7238
+- name: Cucumber Jalapeno Agua Fresca
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Zesty Lime Chicken Tacos
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Smoky Chipotle BBQ Nachos
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Avocado Ranch Burrito Bowl
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Baja Fish Taco Plate
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Creamy Poblano Corn Chowder
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Coconut Lime Shrimp Skewers
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Choco-Chili Volcano Cake
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Raspberry Jalapeno Mojito
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Black Bean Avocado Enchiladas
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Honey Lime Fajita Sizzlers
+  mean_price: 15.99
+  price_stddev: 1.9988
+- name: Tres Leches Cake
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Chipotle Lime Cauliflower Tacos
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Mexican Chocolate Milkshake
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Passionfruit Paloma
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Zesty Lime Chicken Enchiladas
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Smoky Chipotle Steak Fajitas
+  mean_price: 15.99
+  price_stddev: 1.9988
+- name: Roasted Red Pepper Quesadilla
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Sunset Grilled Veggie Tacos
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: Churro Ice Cream Sandwich
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Blueberry Jalapeno Margarita
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Sizzling Pork Carnitas Bowl
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Crispy Avocado Burrito
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Black Bean and Lime Soup
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Mexican Street Corn Salad
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Coconut Flan Delight
+  mean_price: 7.29
+  price_stddev: 0.9113
+- name: Pineapple Tequila Chicken Skewers
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Tropical Guava Mint Punch
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Verde Ranchero Huevos
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Stuffed Avocado Boats
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Honey Lime Grilled Fajitas
+  mean_price: 14.49
+  price_stddev: 1.8113
+- name: Black Bean and Sweet Potato Empanadas
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Spicy Pineapple Salsa Dip
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Mexican Coffee Flan
+  mean_price: 6.29
+  price_stddev: 0.7863
+- name: Shrimp and Avocado Ceviche
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Crispy Chicken Tostada Bowls
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Minty Mojito Refresher
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Queso Fundido with Chorizo
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Jicama and Citrus Salad
+  mean_price: 7.79
+  price_stddev: 0.9738
+- name: Horchata Latte
+  mean_price: 4.89
+  price_stddev: 0.6112
+- name: "Cheesy Jalape\xF1o Poppers"
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Chipotle Chicken Enchiladas
+  mean_price: 14.89
+  price_stddev: 1.8613
+- name: Sizzling Fajita Fiesta
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Gourmet Nacho Platter
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Stuffed Avocado Delight
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Southwestern Quinoa Salad
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Crispy Fish Tacos
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: Cactus Cooler Margarita
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Smoky Black Bean Soup
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Pineapple Habanero Salsa
+  mean_price: 4.49
+  price_stddev: 0.5613
+- name: Spicy Pork Tamales
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Horchata Iced Coffee
+  mean_price: 4.49
+  price_stddev: 0.5613
+- name: "Blueberry Jalape\xF1o Margarita"
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Avocado Lime Enchiladas
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Spicy Chipotle Chicken Wings
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Smoky Lime Quinoa Salad
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Roasted Pepper Queso Dip
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Braised Beef Barbacoa Tacos
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Chili Lime Shrimp Skewers
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Honey Lime Chicken Fajitas
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Chocolate Sopapilla Bites
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Black Bean Stuffed Sweet Potatoes
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Tamarind Spiced Agua Fresca
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Sweet Corn Tostadas
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Mango Habanero Margarita
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Caramel Corn Flan
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Peppered Steak Nachos
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: Vanilla Cinnamon Horchata
+  mean_price: 3.49
+  price_stddev: 0.4363
+- name: "Cheesy Jalape\xF1o Quesadillas"
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Smoky Chipotle Chicken
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Black Bean & Corn Enchiladas
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Zesty Lime Shrimp Salad
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Tamale Trio Platter
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Green Chile Cheesesteak
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Spiced Churro Bites
+  mean_price: 5.49
+  price_stddev: 0.6863
+- name: Pineapple Habanero Margarita
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Coconut Tres Leches
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Street Corn Fritters
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Sizzling Fajita Skillet
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Breakfast Tostada Stack
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Paloma Breeze Cocktail
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Ranchero Eggs Benedict
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Chocolate Dipped Flan
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Adobo Pork Sliders
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Frozen Strawberry Daiquiri
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Smoky Chipotle Enchiladas
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Mole Chicken Quesadilla
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Black Bean Chili Bowl
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Grilled Pineapple Salsa
+  mean_price: 6.49
+  price_stddev: 0.8113
+- name: Carnitas Breakfast Burrito
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: "Spicy Jalape\xF1o Limeade"
+  mean_price: 3.49
+  price_stddev: 0.4363
+- name: Chipotle Shrimp Skewers
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Ancho Chile Chicken Salad
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Roasted Poblano Rellenos
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Fresh Mint Mojito
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Loaded Nacho Fiesta
+  mean_price: 9.79
+  price_stddev: 1.2237
+- name: Spicy Shrimp Ceviche
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Blue Agave Tequila Sunrise
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Veggie Fajita Platter
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Ancho Chili Rubbed Steak
+  mean_price: 16.49
+  price_stddev: 2.0612
+- name: Chili Lime Watermelon Salad
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Classic Mojito with Mint
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Crispy Avocado Wedges
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Beef Barbacoa Burrito Bowl
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: Honey Lime Grilled Corn
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Mexican Chocolate Flan
+  mean_price: 6.49
+  price_stddev: 0.8113
+- name: Smoky Black Bean Tostadas
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Fresh Lime Cilantro Rice
+  mean_price: 2.99
+  price_stddev: 0.3738
+- name: Spicy Shrimp Nacho Platter
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Caramelized Onion and Chorizo Quesadilla
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Ancho Chili Spiced Ribs
+  mean_price: 15.99
+  price_stddev: 1.9988
+- name: Roasted Poblano Corn Chowder
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Midnight Mole Enchiladas
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Crispy Avocado Nachos
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Chili Con Queso Supreme
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Baja Fish Burrito
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Pineapple Chipotle Pork
+  mean_price: 14.29
+  price_stddev: 1.7862
+- name: Grilled Street Corn
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Black Bean Crunch Wrap
+  mean_price: 9.59
+  price_stddev: 1.1987
+- name: Citrus Marinated Carne Asada
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Spicy Chicken Tortilla Soup
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Breakfast Burrito Bonanza
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Coconut Lime Paleta
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Beef Barbacoa Tostadas
+  mean_price: 11.29
+  price_stddev: 1.4112
+- name: Roasted Poblano Veggie Skillet
+  mean_price: 9.89
+  price_stddev: 1.2363
+- name: Avocado Lime Dip
+  mean_price: 6.89
+  price_stddev: 0.8612
+- name: Zesty Shrimp Quesadillas
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Sweet Corn Tamales
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Blueberry Agave Agua Fresca
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Tangy Tomato Salsa Soup
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Grilled Pineapple Mojito
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Roasted Pecan Flan
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Classic Horchata Smoothie
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Chipotle Bourbon Carnitas
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Charred Corn and Black Bean Salad
+  mean_price: 8.59
+  price_stddev: 1.0737
+- name: Crispy Avocado and Lime Tacos
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Smoky Ancho Chicken Enchiladas
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Spiced Chocolate Tres Leches
+  mean_price: 6.49
+  price_stddev: 0.8113
+- name: Honey-Lime Grilled Shrimp
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Pineapple Jalapeno Margarita
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Creamy Chipotle Pasta
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Peach Berry Sangria
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Spicy Street Corn
+  mean_price: 5.49
+  price_stddev: 0.6863
+- name: Al Pastor Quesadilla
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Coconut Lime Flan
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Refreshing Agua Fresca Trio
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Roasted Corn and Black Bean Salsa
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Hatch Chile Queso Dip
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Agave Lime Chicken Skewers
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Avocado Lime Crema Tostadas
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Ancho Chile Beef Chili
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Fajita Veggie Burrito Bowl
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Zesty Shrimp Ceviche
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Sweet and Spicy Chicken Tostadas
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Crispy Carnitas Tacos
+  mean_price: 12.5
+  price_stddev: 1.5625
+- name: Sweet Corn Tamale Bites
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Fresh Lime and Cilantro Guacamole
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Grilled Pineapple and Pork Tacos
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Roasted Poblano and Cheese Empanadas
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Mango Jalapeno Salsa and Chips
+  mean_price: 5.49
+  price_stddev: 0.6863
+- name: Tequila Lime Chicken Wings
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Queso Fundido Supreme
+  mean_price: 9.29
+  price_stddev: 1.1612
+- name: Spicy Black Bean Nacho Platter
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Jalapeno Mango Margarita
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Blue Corn Tortilla Tacos
+  mean_price: 11.89
+  price_stddev: 1.4863
+- name: Roasted Pumpkin Tamale
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Coffee Cinnamon Mexican Mocha
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Pomegranate Agua Fresca
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Loaded Nacho Platter
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Pineapple Chipotle Salsa & Chips
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Sizzling Chicken Fajitas
+  mean_price: 14.49
+  price_stddev: 1.8113
+- name: Black Bean Sweet Potato Burrito
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Beef Enchiladas Verdes
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Pineapple Agua Fresca
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: "Coconut Horchata Latt\xE9"
+  mean_price: 4.49
+  price_stddev: 0.5613
+- name: Spiced Pumpkin Empanadas
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Green Chile Pork Stew
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Grilled Shrimp Quesadilla
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: Black Bean Avocado Tostadas
+  mean_price: 11.25
+  price_stddev: 1.4062
+- name: Blueberry Agave Mojito
+  mean_price: 8.75
+  price_stddev: 1.0938
+- name: Smoky Chipotle BBQ Wings
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Pineapple Pico de Gallo Nachos
+  mean_price: 10.75
+  price_stddev: 1.3438
+- name: Honey-Lime Shrimp Skewers
+  mean_price: 14.49
+  price_stddev: 1.8113
+- name: Grilled Elote Corn
+  mean_price: 4.5
+  price_stddev: 0.5625
+- name: Garlic Lime Shrimp Salad
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Pumpkin Spice Flan
+  mean_price: 6.25
+  price_stddev: 0.7812
+- name: Horchata Iced Latte
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Zesty Lime Shrimp Tostadas
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Poblano Pepper Queso Dip
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Savory Carne Asada Burrito
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Loaded Chorizo Nachos
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Crispy Tinga Chicken Tacos
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Baja Fish Taco Bowl
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Hatch Green Chile Rice
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Honey-Lime Grilled Salmon
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Choco Flan Combo
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Classic Horchata Delight
+  mean_price: 3.49
+  price_stddev: 0.4363
+- name: Breakfast Chorizo Torta
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Mesquite Grilled Steak Fajitas
+  mean_price: 14.49
+  price_stddev: 1.8113
+- name: Roasted Poblano Queso Dip
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Black Bean and Corn Fiesta Salad
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Chili Lime Street Corn
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Al Pastor Pork Tacos
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Coconut Lime Tres Leches
+  mean_price: 6.49
+  price_stddev: 0.8113
+- name: Classic Beef Barbacoa
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Grilled Avocado and Quinoa Bowl
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Avocado Lime Empanadas
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Ancho Chile BBQ Ribs
+  mean_price: 18.99
+  price_stddev: 2.3737
+- name: Black Bean & Cheese Tostadas
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Strawberry Jalapeno Lemonade
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Blueberry Tequila Sunrise
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Tequila Lime Shrimp Skewers
+  mean_price: 14.49
+  price_stddev: 1.8113
+- name: Mexican Spiced Chocolate Cake
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Cilantro Lime Rice Bowl
+  mean_price: 11.59
+  price_stddev: 1.4487
+- name: Bacon Wrapped Jalapeno Bites
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Tamale Trio Sampler
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Mango Agua Fresca
+  mean_price: 3.49
+  price_stddev: 0.4363
+- name: Ancho Chili Braised Beef Enchiladas
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Cilantro Lime Shrimp Skewers
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Roasted Corn and Black Bean Salad
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Creamy Avocado Soup
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Tequila Lime Grilled Chicken
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Spicy Black Bean and Cheese Quesadilla
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Street Style Corn on the Cob
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Frozen Strawberry Margarita
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Coconut Lime Rice Bowl
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Tomatillo Salsa Verde Nachos
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Lime-Garlic Grilled Chicken
+  mean_price: 14.29
+  price_stddev: 1.7862
+- name: Hatch Green Chile Quesadilla
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Three-Cheese Chile Rellenos
+  mean_price: 12.59
+  price_stddev: 1.5737
+- name: Carnitas Plantain Burrito
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Spiced Agave Margarita
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Red Chili Chicken Pozole
+  mean_price: 11.29
+  price_stddev: 1.4112
+- name: Golden Tequila Sunrise
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Chorizo Breakfast Tacos
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Honey Chipotle Wings
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Chocolate Churro Bites
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Crisp Jicama Slaw
+  mean_price: 4.79
+  price_stddev: 0.5988
+- name: Grilled Shrimp Skewers
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Spicy Zucchini Tostadas
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Vanilla Flan Delight
+  mean_price: 5.49
+  price_stddev: 0.6863
+- name: Grilled Shrimp Fajita Bowl
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Hatch Green Chile Burger
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Sizzling Steak Fajitas
+  mean_price: 15.49
+  price_stddev: 1.9363
+- name: Tropical Pineapple Salsa
+  mean_price: 3.49
+  price_stddev: 0.4363
+- name: Rich Chocolate Tres Leches
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Molten Queso Fundido
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Spiked Horchata Cooler
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Black Bean Burgers
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Avocado Lime Salad
+  mean_price: 8.79
+  price_stddev: 1.0987
+- name: Smoky Chipotle Queso
+  mean_price: 6.79
+  price_stddev: 0.8488
+- name: Spicy Shrimp Fajitas
+  mean_price: 14.29
+  price_stddev: 1.7862
+- name: Hatch Green Chile Stew
+  mean_price: 12.59
+  price_stddev: 1.5737
+- name: Loaded Nachos Grande
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Sizzling Carne Asada
+  mean_price: 15.99
+  price_stddev: 1.9988
+- name: Pineapple Jalapeno Sangria
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Tex-Mex Big Breakfast Bowl
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Street Style Quesadillas
+  mean_price: 9.89
+  price_stddev: 1.2363
+- name: Fire Roasted Salsa Sampler
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Fiesta Street Corn
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Zesty Lime Grilled Shrimp
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Pineapple Salsa Nachos
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Sizzling Fajita Plate
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Black Bean Stuffed Bell Peppers
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Loaded Sweet Potato Fries
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Spicy Chocolate Churros
+  mean_price: 5.49
+  price_stddev: 0.6863
+- name: Mini Street Tacos Platter
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Cocoa Cinnamon Tequila
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Breakfast Burrito Supreme
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Chili Lime Margarita
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Tomatillo Ranch Enchiladas
+  mean_price: 13.29
+  price_stddev: 1.6612
+- name: Caramelized Banana Flan
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Honey Lime Chicken Skewers
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: Pineapple Salsa Shrimp Tacos
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Chipotle Bean Burrito
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Roasted Corn Enchiladas
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Spicy Avocado Burger
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Blueberry Mint Agua Fresca
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Crispy Fish Street Tacos
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Black Bean Breakfast Burrito
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Grilled Steak Fajita Platter
+  mean_price: 15.99
+  price_stddev: 1.9988
+- name: Three Cheese Sope
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Chili Chocolate Lava Cake
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Fresh Limeade
+  mean_price: 3.49
+  price_stddev: 0.4363
+- name: Tamarind Ginger Cooler
+  mean_price: 4.49
+  price_stddev: 0.5613
+- name: Roasted Poblano Quesadilla
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Black Bean and Avocado Wrap
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Classic Tortilla Soup
+  mean_price: 6.49
+  price_stddev: 0.8113
+- name: Spicy Beef Empanadas
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Breakfast Burrito Bowl
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Grilled Pineapple and Shrimp Salad
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Horchata Milkshake
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Vegetarian Tamale Platter
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Carne Asada Nachos
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Chili Lime Roasted Corn
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Tequila Sunrise Smoothie
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Spicy Chicken Chimichanga
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Black Bean & Cheese Enchiladas
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: Avocado Lime Grilled Shrimp
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Tex-Mex Fajita Wrap
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Chipotle BBQ Tacos
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Pineapple Pico de Gallo Salsa
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Creamy Jalapeno Corn Fritters
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Stuffed Chicken Poblano
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Loaded Nacho Skillet
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Margarita Lime Cheesecake
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Blueberry Agave Margarita
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Horchata Cold Brew Coffee
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Cinnamon Sugar Sopapillas
+  mean_price: 5.49
+  price_stddev: 0.6863
+- name: Sweet Chili Lime Elote
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Smoky Chipotle Black Bean Soup
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Crispy Tortilla Breakfast Bowl
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Pico Avocado Toast
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Tamarind Glazed Wings
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Grilled Steak Quesadilla
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Spicy Black Bean Nachos
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Shrimp Ceviche Cups
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Avocado Lime Salsa
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Tamarind-Glazed Ribs
+  mean_price: 16.99
+  price_stddev: 2.1237
+- name: Roasted Corn Elote
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Chocolate Molten Tamale
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Chorizo Breakfast Burrito
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Honey Lime Grilled Chicken
+  mean_price: 14.49
+  price_stddev: 1.8113
+- name: Warm Churro Bites
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Spicy Avocado Smash Burger
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Spicy Black Bean Tacos
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Chili Lime Skirt Steak
+  mean_price: 17.99
+  price_stddev: 2.2487
+- name: Blue Corn Tortilla Chips
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Baja Shrimp Quesadilla
+  mean_price: 13.29
+  price_stddev: 1.6612
+- name: Tequila Lime Flan
+  mean_price: 7.59
+  price_stddev: 0.9487
+- name: Roasted Poblano Soup
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Guava Limeade Cooler
+  mean_price: 4.79
+  price_stddev: 0.5988
+- name: "Cheesy Jalape\xF1o Queso Dip"
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Street Corn Elote
+  mean_price: 5.49
+  price_stddev: 0.6863
+- name: Cilantro Lime Grilled Shrimp
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Poblano Pepper Relleno Plate
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Carne Asada Fajitas
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Southwest Chopped Salad
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Warm Cinnamon Churros
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Agave Lime Margarita
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: "Strawberry Jalape\xF1o Mocktail"
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Sweet Corn Tamale Cake
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Chipotle Lime Chicken Skewers
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Smoky Black Bean Enchiladas
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Adobo Roasted Corn Salad
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Spiced Chocolate Flan
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Tequila Lime Grilled Shrimp
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Avocado Lime Quinoa Bowl
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Citrus Cilantro Rice
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Chili Lime Jicama Sticks
+  mean_price: 5.99
+  price_stddev: 0.7488
+- name: Mexican Street Corn Dip
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Sweet Potato and Black Bean Tacos
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Tamale Pie Casserole
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Grilled Pineapple Dessert Quesadilla
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Blue Corn Tostada Salad
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Classic Lime Margarita
+  mean_price: 8.49
+  price_stddev: 1.0613
+- name: Avocado Street Tacos
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Chocolate Mole Brownie
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Creamy Queso Dip
+  mean_price: 7.49
+  price_stddev: 0.9363
+- name: Chorizo and Egg Tacos
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Raspberry Chipotle Barbecue Ribs
+  mean_price: 14.99
+  price_stddev: 1.8738
+- name: Fresh Watermelon Aqua Fresca
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Pineapple Salsa Pork Tacos
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: Three-Cheese Queso Dip
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Red Chili Braised Beef Brisket
+  mean_price: 14.59
+  price_stddev: 1.8237
+- name: Fresh Mango Salsa Nachos
+  mean_price: 8.69
+  price_stddev: 1.0862
+- name: Cocoa Dusted Churro Bites
+  mean_price: 5.79
+  price_stddev: 0.7238
+- name: Ancho Honey-Glazed Salmon
+  mean_price: 15.99
+  price_stddev: 1.9988
+- name: Caramelized Onion and Goat Cheese Empanadas
+  mean_price: 6.49
+  price_stddev: 0.8113
+- name: Hibiscus Iced Tea
+  mean_price: 3.49
+  price_stddev: 0.4363
+- name: Spicy Cucumber Margarita
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Zesty Lime Grilled Chicken
+  mean_price: 14.49
+  price_stddev: 1.8113
+- name: Flamin' Skillet Fajitas
+  mean_price: 16.99
+  price_stddev: 2.1237
+- name: Street Corn Quesadilla
+  mean_price: 10.99
+  price_stddev: 1.3738
+- name: Spicy Chorizo Enchiladas
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Classic Carne Asada Burrito
+  mean_price: 12.49
+  price_stddev: 1.5613
+- name: Black Bean Taco Bowl
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Rich Chocolate Tamales
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Ultimate Nacho Platter
+  mean_price: 9.49
+  price_stddev: 1.1863
+- name: Huevos Rancheros
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Mango Jalapeno Slush
+  mean_price: 4.99
+  price_stddev: 0.6238
+- name: Spice-Rubbed Grilled Fajitas
+  mean_price: 14.49
+  price_stddev: 1.8113
+- name: Cilantro Lime Chicken Tacos
+  mean_price: 11.49
+  price_stddev: 1.4363
+- name: Smoky Chipotle BBQ Ribs
+  mean_price: 15.99
+  price_stddev: 1.9988
+- name: Black Bean and Cilantro Rice
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Zesty Lime Shrimp Skewers
+  mean_price: 13.99
+  price_stddev: 1.7488
+- name: Chili-Lime Cauliflower Bites
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Creamy Avocado Caesar Salad
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Toasted Coconut Flan
+  mean_price: 6.49
+  price_stddev: 0.8113
+- name: Spicy Chocolate Lava Cake
+  mean_price: 7.99
+  price_stddev: 0.9988
+- name: Tamarind Citrus Margarita
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Cinnamon Churro Bites
+  mean_price: 5.49
+  price_stddev: 0.6863
+- name: Passionfruit Agua Fresca
+  mean_price: 3.49
+  price_stddev: 0.4363
+- name: Citrus Grilled Chicken Tacos
+  mean_price: 11.99
+  price_stddev: 1.4988
+- name: Smoky Chipotle Quesadillas
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Chocolate Mole Chicken
+  mean_price: 15.99
+  price_stddev: 1.9988
+- name: Fresh Corn Elote
+  mean_price: 3.99
+  price_stddev: 0.4988
+- name: Classic Beef Tacos with Zesty Slaw
+  mean_price: 10.49
+  price_stddev: 1.3113
+- name: Ranchero Steak Fajitas
+  mean_price: 16.99
+  price_stddev: 2.1237
+- name: Vanilla Flan with Caramel Sauce
+  mean_price: 6.49
+  price_stddev: 0.8113
+- name: Bacon and Egg Tostada
+  mean_price: 8.99
+  price_stddev: 1.1238
+- name: Margarita Lime Pie
+  mean_price: 5.49
+  price_stddev: 0.6863
+- name: Shrimp Ceviche Bowl
+  mean_price: 13.49
+  price_stddev: 1.6863
+- name: Smoky Black Bean Nachos
+  mean_price: 9.99
+  price_stddev: 1.2488
+- name: Loaded Street Corn
+  mean_price: 6.99
+  price_stddev: 0.8738
+- name: Verde Chicken Enchiladas
+  mean_price: 12.99
+  price_stddev: 1.6238
+- name: Honey Chipotle Shrimp Bowl
+  mean_price: 14.99
+  price_stddev: 1.8738

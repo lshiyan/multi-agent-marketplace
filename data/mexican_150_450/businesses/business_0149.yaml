@@ -1,0 +1,47 @@
+id: business_0149
+name: La Palma Mexicana
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm, lively atmosphere.
+  From sizzling specialties to refreshing drinks and sweet treats, every meal is crafted
+  to celebrate the taste of tradition and delight.
+rating: 1.0
+progenitor_customer: customer_0050
+menu_features:
+  Frozen Strawberry Daiquiri: 6.74
+  Al Pastor Quesadilla: 12.85
+  Flamin' Skillet Fajitas: 17.62
+  Crispy Avocado Burrito: 12.38
+  Coconut Lime Shrimp Skewers: 16.28
+  Pineapple Agua Fresca: 4.13
+  Baja Fish Tacos: 16.18
+  Black Bean and Cilantro Rice: 4.58
+  Zesty Lime Grilled Chicken: 12.8
+  Margarita Lime Cheesecake: 6.66
+  Mesquite Grilled Steak Fajitas: 16.69
+  Blue Corn Tortilla Tacos: 7.21
+  Loaded Nachos Grande: 12.95
+  Ancho Chili Chocolate Cake: 6.63
+  Sizzling Fajita Fiesta: 16.91
+  Citrus Cilantro Rice: 5.78
+  Spicy Chicken Tortilla Soup: 5.73
+  Fresh Corn Elote: 3.82
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Frozen Strawberry Daiquiri: 4.25
+  Al Pastor Quesadilla: 8.1
+  Flamin' Skillet Fajitas: 11.1
+  Crispy Avocado Burrito: 7.8
+  Coconut Lime Shrimp Skewers: 10.26
+  Pineapple Agua Fresca: 2.6
+  Baja Fish Tacos: 10.19
+  Black Bean and Cilantro Rice: 2.89
+  Zesty Lime Grilled Chicken: 8.06
+  Margarita Lime Cheesecake: 4.2
+  Mesquite Grilled Steak Fajitas: 10.51
+  Blue Corn Tortilla Tacos: 4.54
+  Loaded Nachos Grande: 8.16
+  Ancho Chili Chocolate Cake: 4.18
+  Sizzling Fajita Fiesta: 10.65
+  Citrus Cilantro Rice: 3.64
+  Spicy Chicken Tortilla Soup: 3.61
+  Fresh Corn Elote: 2.41

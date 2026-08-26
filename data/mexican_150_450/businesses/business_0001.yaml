@@ -1,0 +1,44 @@
+id: business_0001
+name: Citrus & Chile
+description: Citrus & Chile brings a fresh, vibrant twist to Mexican and Tex-Mex favorites,
+  pairing bold flavors with inventive drinks and classic desserts. Enjoy a modern,
+  welcoming atmosphere perfect for gathering with friends over delicious food and
+  creative cocktails.
+rating: 1.0
+progenitor_customer: customer_0001
+menu_features:
+  Chipotle Lime Shrimp Skewers: 11.42
+  Blueberry Jalapeno Margarita: 10.62
+  Roasted Poblano Corn Chowder: 7.24
+  Ancho Chili Braised Beef Enchiladas: 14.93
+  Beef Enchiladas Verdes: 13.13
+  Citrus Grilled Chicken Tacos: 13.43
+  Cinnamon Sugar Churro Sticks: 4.23
+  Smoky Black Bean Enchiladas: 13.33
+  Housemade Horchata: 3.98
+  Horchata Latte: 5.06
+  Fresh Limeade: 4.18
+  Roasted Corn Enchiladas: 10.55
+  Mexican Chocolate Lava Cake: 6.81
+  Black Bean & Cheese Enchiladas: 11.31
+  Classic Carne Asada Burrito: 12.1
+  Chili Chocolate Lava Cake: 7.85
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Chipotle Lime Shrimp Skewers: 9.25
+  Blueberry Jalapeno Margarita: 8.6
+  Roasted Poblano Corn Chowder: 5.86
+  Ancho Chili Braised Beef Enchiladas: 12.09
+  Beef Enchiladas Verdes: 10.64
+  Citrus Grilled Chicken Tacos: 10.88
+  Cinnamon Sugar Churro Sticks: 3.43
+  Smoky Black Bean Enchiladas: 10.8
+  Housemade Horchata: 3.22
+  Horchata Latte: 4.1
+  Fresh Limeade: 3.39
+  Roasted Corn Enchiladas: 8.55
+  Mexican Chocolate Lava Cake: 5.52
+  Black Bean & Cheese Enchiladas: 9.16
+  Classic Carne Asada Burrito: 9.8
+  Chili Chocolate Lava Cake: 6.36

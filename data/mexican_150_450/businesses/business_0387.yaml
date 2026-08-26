@@ -1,0 +1,46 @@
+id: business_0387
+name: Modern Mango Queso
+description: "Where bold flavors meet modern vibes\u2014savor savory skillets, house-made\
+  \ salsas, creative quesos, and refreshing tropical cocktails in a vibrant, welcoming\
+  \ setting. Experience Mexican and Tex-Mex favorites remixed with fresh, unexpected\
+  \ twists."
+rating: 1.0
+progenitor_customer: customer_0129
+menu_features:
+  Fresh Mango Salsa Nachos: 8.25
+  Beef Fajita Skillet: 16.45
+  Green Chile Cheesesteak: 11.73
+  Pineapple Agua Fresca: 4.16
+  Frozen Strawberry Daiquiri: 9.28
+  Carne Asada Nachos: 14.61
+  Roasted Pecan Flan: 6.72
+  Ancho Chili Spiced Ribs: 17.25
+  Loaded Sweet Potato Fries: 7.61
+  Passionfruit Paloma: 8.95
+  Chili Con Queso Supreme: 7.51
+  Creamy Queso Dip: 6.85
+  Chocolate Molten Tamale: 7.37
+  Smoky Chipotle Queso: 6.94
+  Pineapple Salsa Pork Tacos: 9.2
+  Fresh Mint Mojito: 8.56
+  Cheesy Jalapeno Queso: 8.36
+amenity_features: {}
+min_price_factor: 0.95
+minimum_menu_prices:
+  Fresh Mango Salsa Nachos: 7.84
+  Beef Fajita Skillet: 15.63
+  Green Chile Cheesesteak: 11.14
+  Pineapple Agua Fresca: 3.95
+  Frozen Strawberry Daiquiri: 8.82
+  Carne Asada Nachos: 13.88
+  Roasted Pecan Flan: 6.38
+  Ancho Chili Spiced Ribs: 16.39
+  Loaded Sweet Potato Fries: 7.23
+  Passionfruit Paloma: 8.5
+  Chili Con Queso Supreme: 7.13
+  Creamy Queso Dip: 6.51
+  Chocolate Molten Tamale: 7.0
+  Smoky Chipotle Queso: 6.59
+  Pineapple Salsa Pork Tacos: 8.74
+  Fresh Mint Mojito: 8.13
+  Cheesy Jalapeno Queso: 7.94

@@ -1,0 +1,45 @@
+id: business_0425
+name: Skillet & Spritz
+description: Experience vibrant Mexican and Tex-Mex flavors in a lively, relaxed setting,
+  where fresh ingredients meet creative sips and sizzling plates. Indulge in both
+  classic favorites and sweet treats, perfect for any gathering or occasion.
+rating: 1.0
+progenitor_customer: customer_0142
+menu_features:
+  Chocolate Churro Bites: 6.25
+  Citrus Grilled Chicken Tacos: 11.67
+  Stuffed Poblano Peppers: 10.7
+  Sizzling Fajita Skillet: 15.18
+  Huevos Rancheros: 12.51
+  Classic Horchata Delight: 3.23
+  Cinnamon Churro Bites: 6.9
+  Black Bean & Corn Quesadilla: 11.02
+  Grilled Pineapple and Shrimp Salad: 13.95
+  Street Corn Elote: 5.45
+  Avocado Lime Quinoa Bowl: 9.56
+  Sizzling Carne Asada: 19.21
+  Honey-Lime Shrimp Skewers: 14.02
+  Mango Habanero Margarita: 10.52
+  Cactus Flower Iced Tea: 3.59
+  Smoky Chipotle Enchiladas: 14.39
+  "Blueberry Jalape\xF1o Margarita": 8.06
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Chocolate Churro Bites: 5.25
+  Citrus Grilled Chicken Tacos: 9.8
+  Stuffed Poblano Peppers: 8.99
+  Sizzling Fajita Skillet: 12.75
+  Huevos Rancheros: 10.51
+  Classic Horchata Delight: 2.71
+  Cinnamon Churro Bites: 5.8
+  Black Bean & Corn Quesadilla: 9.26
+  Grilled Pineapple and Shrimp Salad: 11.72
+  Street Corn Elote: 4.58
+  Avocado Lime Quinoa Bowl: 8.03
+  Sizzling Carne Asada: 16.14
+  Honey-Lime Shrimp Skewers: 11.78
+  Mango Habanero Margarita: 8.84
+  Cactus Flower Iced Tea: 3.02
+  Smoky Chipotle Enchiladas: 12.09
+  "Blueberry Jalape\xF1o Margarita": 6.77

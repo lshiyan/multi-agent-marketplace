@@ -1,0 +1,10 @@
+id: customer_0008
+name: Joshua Walker
+request: Could you please assist me in finding a business that offers both Hatch Chile
+  Queso Dip and Zesty Lime Chicken Fajitas? I need one order of each, and it is important
+  that the business has both menu items available. Once confirmed, I intend to place
+  the order for these items. Thank you for your help.
+menu_features:
+  Hatch Chile Queso Dip: 8.49
+  Zesty Lime Chicken Fajitas: 15.29
+amenity_features: []

@@ -1,0 +1,43 @@
+id: business_0371
+name: La Parrilla Luminosa
+description: Experience vibrant Mexican and Tex-Mex flavors with a contemporary twist
+  at La Parrilla Luminosa. Enjoy a lively atmosphere and a menu filled with sizzling
+  plates, fresh veggies, zesty grilled favorites, and creative cocktails.
+rating: 1.0
+progenitor_customer: customer_0124
+menu_features:
+  Sizzling Fajita Platter: 14.97
+  Zesty Lime Grilled Chicken: 13.87
+  Sunset Grilled Veggie Tacos: 10.71
+  Cucumber Jalapeno Agua Fresca: 3.42
+  Avocado Lime Quinoa Bowl: 12.89
+  Passionfruit Paloma: 9.45
+  Adobo Pork Sliders: 10.61
+  Spicy Beef Chimichangas: 17.78
+  Poblano Pepper Relleno Plate: 13.13
+  Pineapple Jalapeno Margarita: 7.5
+  Avocado Lime Crema Tostadas: 9.7
+  Churro Ice Cream Sandwich: 7.62
+  Roasted Poblano Rellenos: 14.8
+  Roasted Pepper Queso Dip: 7.02
+  Caramelized Onion Queso Dip: 8.4
+  Mango Habanero Margarita: 9.79
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Sizzling Fajita Platter: 12.13
+  Zesty Lime Grilled Chicken: 11.23
+  Sunset Grilled Veggie Tacos: 8.68
+  Cucumber Jalapeno Agua Fresca: 2.77
+  Avocado Lime Quinoa Bowl: 10.44
+  Passionfruit Paloma: 7.65
+  Adobo Pork Sliders: 8.59
+  Spicy Beef Chimichangas: 14.4
+  Poblano Pepper Relleno Plate: 10.64
+  Pineapple Jalapeno Margarita: 6.08
+  Avocado Lime Crema Tostadas: 7.86
+  Churro Ice Cream Sandwich: 6.17
+  Roasted Poblano Rellenos: 11.99
+  Roasted Pepper Queso Dip: 5.69
+  Caramelized Onion Queso Dip: 6.8
+  Mango Habanero Margarita: 7.93

@@ -1,0 +1,9 @@
+id: customer_0143
+name: Liam Garcia
+request: Could you please help me find a business that offers both a Breakfast Tostada
+  Stack and a Chorizo Breakfast Burrito? I would like to place an order for one of
+  each. Thank you.
+menu_features:
+  Breakfast Tostada Stack: 10.49
+  Chorizo Breakfast Burrito: 8.99
+amenity_features: []

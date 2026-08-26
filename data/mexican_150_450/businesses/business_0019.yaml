@@ -1,0 +1,43 @@
+id: business_0019
+name: Cantina Verde
+description: Experience a vibrant blend of classic and contemporary Mexican flavors
+  in a lively, modern setting. From fresh takes on enchiladas to zesty margarita desserts
+  and creative cocktails, Cantina Verde brings a bright twist to every dish.
+rating: 1.0
+progenitor_customer: customer_0007
+menu_features:
+  Margarita Lime Pie: 6.05
+  Black Bean Avocado Enchiladas: 10.14
+  Caramelized Onion Queso Dip: 7.38
+  Crispy Avocado Bites: 9.72
+  Twisted Tequila Sunrise: 9.27
+  Breakfast Chilaquiles Verde: 9.65
+  Green Chile Pork Stew: 12.95
+  Tamarind Ginger Cooler: 4.27
+  Flamin' Skillet Fajitas: 17.88
+  Midnight Mole Enchiladas: 13.63
+  Creamy Jalapeno Corn Fritters: 9.51
+  Tequila Lime Shrimp Skewers: 16.14
+  Chipotle Bean Burrito: 9.72
+  Warm Churro Bites: 5.31
+  Coconut Lime Shrimp Skewers: 17.59
+  Smoky Chipotle Queso: 6.59
+amenity_features: {}
+min_price_factor: 0.95
+minimum_menu_prices:
+  Margarita Lime Pie: 5.75
+  Black Bean Avocado Enchiladas: 9.63
+  Caramelized Onion Queso Dip: 7.01
+  Crispy Avocado Bites: 9.23
+  Twisted Tequila Sunrise: 8.81
+  Breakfast Chilaquiles Verde: 9.17
+  Green Chile Pork Stew: 12.3
+  Tamarind Ginger Cooler: 4.06
+  Flamin' Skillet Fajitas: 16.99
+  Midnight Mole Enchiladas: 12.95
+  Creamy Jalapeno Corn Fritters: 9.03
+  Tequila Lime Shrimp Skewers: 15.33
+  Chipotle Bean Burrito: 9.23
+  Warm Churro Bites: 5.04
+  Coconut Lime Shrimp Skewers: 16.71
+  Smoky Chipotle Queso: 6.26

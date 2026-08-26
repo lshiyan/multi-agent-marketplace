@@ -1,0 +1,42 @@
+id: business_0361
+name: Casa Dulce y Sabor
+description: A warm and inviting destination for Mexican and Tex-Mex classics, Casa
+  Dulce y Sabor brings together sweet and savory flavors in every dish and cocktail.
+  Experience vibrant cuisine crafted with fresh ingredients in a relaxed, festive
+  atmosphere.
+rating: 1.0
+progenitor_customer: customer_0121
+menu_features:
+  Roasted Pecan Flan: 6.2
+  Black Bean & Cheese Enchiladas: 14.23
+  Grilled Pineapple Mojito: 9.96
+  Spiced Chocolate Flan: 5.77
+  Spicy Beef Chimichangas: 13.68
+  Pumpkin Spice Flan: 6.29
+  Mango Habanero Wings: 10.43
+  Avocado Lime Dip: 7.4
+  Sizzling Fajita Skillet: 13.98
+  Tangy Tomato Salsa Soup: 8.74
+  Classic Mojito with Mint: 8.05
+  Avocado Lime Salad: 10.09
+  Southwestern Quinoa Salad: 8.5
+  Horchata Iced Latte: 4.32
+  Ancho Honey-Glazed Salmon: 16.98
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Roasted Pecan Flan: 3.91
+  Black Bean & Cheese Enchiladas: 8.96
+  Grilled Pineapple Mojito: 6.27
+  Spiced Chocolate Flan: 3.64
+  Spicy Beef Chimichangas: 8.62
+  Pumpkin Spice Flan: 3.96
+  Mango Habanero Wings: 6.57
+  Avocado Lime Dip: 4.66
+  Sizzling Fajita Skillet: 8.81
+  Tangy Tomato Salsa Soup: 5.51
+  Classic Mojito with Mint: 5.07
+  Avocado Lime Salad: 6.36
+  Southwestern Quinoa Salad: 5.36
+  Horchata Iced Latte: 2.72
+  Ancho Honey-Glazed Salmon: 10.7

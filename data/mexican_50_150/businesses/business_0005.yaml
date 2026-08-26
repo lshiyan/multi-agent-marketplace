@@ -1,0 +1,35 @@
+id: business_0005
+name: Casa de Sabor
+description: Experience vibrant Mexican and Tex-Mex flavors made with fresh ingredients
+  and bold spices. Our kitchen serves up an enticing mix of classic favorites and
+  creative new dishes in a warm, lively atmosphere.
+rating: 1.0
+progenitor_customer: customer_0002
+menu_features:
+  "Cheesy Jalape\xF1o Poppers": 7.68
+  Avocado Lime Quinoa Bowl: 9.78
+  Lime-Garlic Grilled Chicken: 13.32
+  Smoky Chipotle Steak Fajitas: 17.9
+  Zesty Lime Shrimp Tostadas: 10.99
+  Ranchero Eggs Benedict: 14.06
+  Smoky Chipotle Chicken: 11.13
+  Crispy Avocado Fritters: 7.08
+  Twisted Tequila Sunrise: 7.16
+  Tequila Lime Flan: 9.52
+  Loaded Nacho Platter: 9.94
+  Chocolate Mole Brownie: 7.51
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  "Cheesy Jalape\xF1o Poppers": 6.84
+  Avocado Lime Quinoa Bowl: 8.7
+  Lime-Garlic Grilled Chicken: 11.85
+  Smoky Chipotle Steak Fajitas: 15.93
+  Zesty Lime Shrimp Tostadas: 9.78
+  Ranchero Eggs Benedict: 12.51
+  Smoky Chipotle Chicken: 9.91
+  Crispy Avocado Fritters: 6.3
+  Twisted Tequila Sunrise: 6.37
+  Tequila Lime Flan: 8.47
+  Loaded Nacho Platter: 8.85
+  Chocolate Mole Brownie: 6.68

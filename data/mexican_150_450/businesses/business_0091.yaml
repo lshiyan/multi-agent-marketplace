@@ -1,0 +1,33 @@
+id: business_0091
+name: Crispy Cactus Cantina
+description: Experience vibrant modern Mexican flavors in a warm, lively setting.
+  From smoky salsas to sweet and spicy treats, each dish celebrates bold tastes and
+  creative twists.
+rating: 1.0
+progenitor_customer: customer_0031
+menu_features:
+  Roasted Tomato Salsa Dip: 3.98
+  Tamarind-Glazed Ribs: 14.36
+  Chipotle Lime Cauliflower Tacos: 12.05
+  "Cheesy Jalape\xF1o Queso Dip": 8.14
+  Mexican Coffee Flan: 6.09
+  Strawberry Jalapeno Lemonade: 4.14
+  Breakfast Chorizo Tostadas: 8.36
+  Crispy Avocado Burrito: 12.42
+  Rich Chocolate Tamales: 6.9
+  Baja Fish Taco Plate: 12.96
+  Choco-Chili Volcano Cake: 8.51
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Roasted Tomato Salsa Dip: 2.63
+  Tamarind-Glazed Ribs: 9.48
+  Chipotle Lime Cauliflower Tacos: 7.95
+  "Cheesy Jalape\xF1o Queso Dip": 5.37
+  Mexican Coffee Flan: 4.02
+  Strawberry Jalapeno Lemonade: 2.73
+  Breakfast Chorizo Tostadas: 5.52
+  Crispy Avocado Burrito: 8.2
+  Rich Chocolate Tamales: 4.55
+  Baja Fish Taco Plate: 8.55
+  Choco-Chili Volcano Cake: 5.62

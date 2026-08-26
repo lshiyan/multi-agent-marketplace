@@ -1,0 +1,37 @@
+id: business_0325
+name: Shrimply Grilliant
+description: Dive into a vibrant fiesta of bold flavors, sizzling skillets, and refreshing
+  tropical sips. From grilled specialties to crave-worthy bites, every meal is crafted
+  to spice up your day.
+rating: 1.0
+progenitor_customer: customer_0109
+menu_features:
+  Spice-Rubbed Grilled Fajitas: 14.88
+  Tamarind Glazed Wings: 13.25
+  Avocado Lime Grilled Shrimp: 15.45
+  Carnitas Breakfast Burrito: 11.36
+  Tropical Guava Mint Punch: 6.37
+  Beef Fajita Skillet: 16.83
+  Avocado Lime Salad: 5.2
+  Chipotle Lime Shrimp Tacos: 13.5
+  Paloma Breeze Cocktail: 8.96
+  Creamy Avocado Caesar Salad: 12.92
+  Black Bean Chili Bowl: 10.07
+  Choco Flan Combo: 7.83
+  Bacon Wrapped Jalapeno Bites: 7.82
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Spice-Rubbed Grilled Fajitas: 11.31
+  Tamarind Glazed Wings: 10.07
+  Avocado Lime Grilled Shrimp: 11.74
+  Carnitas Breakfast Burrito: 8.63
+  Tropical Guava Mint Punch: 4.84
+  Beef Fajita Skillet: 12.79
+  Avocado Lime Salad: 3.95
+  Chipotle Lime Shrimp Tacos: 10.26
+  Paloma Breeze Cocktail: 6.81
+  Creamy Avocado Caesar Salad: 9.82
+  Black Bean Chili Bowl: 7.65
+  Choco Flan Combo: 5.95
+  Bacon Wrapped Jalapeno Bites: 5.94

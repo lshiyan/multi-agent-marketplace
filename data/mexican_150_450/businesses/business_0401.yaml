@@ -1,0 +1,45 @@
+id: business_0401
+name: Mesquite & Margarita
+description: Experience bold flavors and creative cocktails in a lively, modern setting.
+  From smoky grilled meats to fresh, zesty salsas and vibrant drinks, we bring a unique
+  twist to classic Mexican and Tex-Mex cuisine.
+rating: 1.0
+progenitor_customer: customer_0134
+menu_features:
+  Verde Chicken Enchiladas: 14.07
+  Roasted Corn and Black Bean Salad: 8.23
+  "Blueberry Jalape\xF1o Margarita": 10.91
+  Classic Beef Enchiladas: 12.21
+  Smoky Chipotle BBQ Nachos: 11.39
+  Sizzling Steak Fajitas: 12.59
+  Tomatillo Salsa Verde Nachos: 10.81
+  Warm Churro Bites: 6.28
+  Savory Chorizo Street Tacos: 10.0
+  Cucumber Jalapeno Agua Fresca: 4.43
+  Cocoa Cinnamon Tequila: 9.9
+  Spicy Pork Tamales: 11.88
+  Honey Lime Grilled Fajitas: 16.04
+  Pineapple Habanero Sake: 10.14
+  Spicy Avocado Smash Burger: 13.76
+  Margarita Grilled Chicken: 14.11
+  Mesquite Grilled Steak Fajitas: 15.4
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Verde Chicken Enchiladas: 11.4
+  Roasted Corn and Black Bean Salad: 6.67
+  "Blueberry Jalape\xF1o Margarita": 8.84
+  Classic Beef Enchiladas: 9.89
+  Smoky Chipotle BBQ Nachos: 9.23
+  Sizzling Steak Fajitas: 10.2
+  Tomatillo Salsa Verde Nachos: 8.76
+  Warm Churro Bites: 5.09
+  Savory Chorizo Street Tacos: 8.1
+  Cucumber Jalapeno Agua Fresca: 3.59
+  Cocoa Cinnamon Tequila: 8.02
+  Spicy Pork Tamales: 9.62
+  Honey Lime Grilled Fajitas: 12.99
+  Pineapple Habanero Sake: 8.21
+  Spicy Avocado Smash Burger: 11.15
+  Margarita Grilled Chicken: 11.43
+  Mesquite Grilled Steak Fajitas: 12.47

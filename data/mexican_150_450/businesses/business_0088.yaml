@@ -1,0 +1,39 @@
+id: business_0088
+name: La Mesa de Cielo
+description: La Mesa de Cielo is a warm and welcoming Mexican and Tex-Mex restaurant,
+  offering vibrant flavors and a fresh twist on classic favorites. Enjoy house specialties
+  and creative drinks in a lively, inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0030
+menu_features:
+  Blueberry Agave Agua Fresca: 4.67
+  Sizzling Chicken Fajitas: 15.66
+  Blue Corn Tortilla Chips: 4.64
+  Tomatillo Ranch Enchiladas: 11.27
+  Al Pastor Quesadilla: 13.7
+  Creamy Queso Dip: 6.46
+  Roasted Pecan Flan: 5.2
+  Spicy Black Bean Enchiladas: 10.13
+  Creamy Avocado Smoothie: 5.61
+  Sunrise Breakfast Tacos: 10.55
+  Chocolate Sopapilla Bites: 4.65
+  Hatch Green Chile Rice: 4.93
+  Breakfast Chorizo Tostadas: 9.19
+  Caramelized Onion and Goat Cheese Empanadas: 6.23
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Blueberry Agave Agua Fresca: 3.32
+  Sizzling Chicken Fajitas: 11.12
+  Blue Corn Tortilla Chips: 3.29
+  Tomatillo Ranch Enchiladas: 8.0
+  Al Pastor Quesadilla: 9.73
+  Creamy Queso Dip: 4.59
+  Roasted Pecan Flan: 3.69
+  Spicy Black Bean Enchiladas: 7.19
+  Creamy Avocado Smoothie: 3.98
+  Sunrise Breakfast Tacos: 7.49
+  Chocolate Sopapilla Bites: 3.3
+  Hatch Green Chile Rice: 3.5
+  Breakfast Chorizo Tostadas: 6.52
+  Caramelized Onion and Goat Cheese Empanadas: 4.42

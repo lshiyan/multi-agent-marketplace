@@ -1,0 +1,41 @@
+id: business_0015
+name: Shrimply the Zest
+description: Dive into vibrant Mexican and Tex-Mex flavors at Shrimply the Zest, where
+  every bite is a fresh adventure. From zesty seafood to bold, creative twists on
+  classic eats, you'll find something to spark your taste buds with every visit.
+rating: 1.0
+progenitor_customer: customer_0005
+menu_features:
+  Pineapple Salsa Shrimp Tacos: 14.47
+  Cilantro Lime Shrimp Skewers: 13.12
+  Golden Tequila Sunrise: 11.51
+  Blueberry Tequila Sunrise: 10.87
+  Hatch Green Chile Burger: 13.46
+  Chocolate Mole Chicken: 16.78
+  Ancho Honey-Glazed Salmon: 16.98
+  Loaded Sweet Potato Fries: 7.15
+  Tamarind Citrus Margarita: 10.64
+  Spicy Avocado Burger: 13.26
+  Zesty Shrimp Ceviche: 10.7
+  Black Bean & Corn Enchiladas: 11.04
+  Stuffed Avocado Delight: 6.57
+  Roasted Poblano Corn Chowder: 8.88
+  Loaded Nacho Fiesta: 11.76
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Pineapple Salsa Shrimp Tacos: 11.43
+  Cilantro Lime Shrimp Skewers: 10.36
+  Golden Tequila Sunrise: 9.09
+  Blueberry Tequila Sunrise: 8.59
+  Hatch Green Chile Burger: 10.63
+  Chocolate Mole Chicken: 13.26
+  Ancho Honey-Glazed Salmon: 13.41
+  Loaded Sweet Potato Fries: 5.65
+  Tamarind Citrus Margarita: 8.41
+  Spicy Avocado Burger: 10.48
+  Zesty Shrimp Ceviche: 8.45
+  Black Bean & Corn Enchiladas: 8.72
+  Stuffed Avocado Delight: 5.19
+  Roasted Poblano Corn Chowder: 7.02
+  Loaded Nacho Fiesta: 9.29

@@ -1,0 +1,39 @@
+id: business_0223
+name: Bruncheros & Grillz
+description: "Where bold brunch flavors meet Mexican grill favorites. Enjoy vibrant\
+  \ twists on classic bites, sizzling specialties, and a splash of refreshing cocktails\u2014\
+  all with a spicy, sunny flair."
+rating: 1.0
+progenitor_customer: customer_0075
+menu_features:
+  Grilled Shrimp Skewers: 12.63
+  Black Bean Breakfast Burrito: 9.31
+  Tangy Tomato Salsa Soup: 11.05
+  Passion Fruit Mojito: 9.14
+  Avocado Lime Grilled Shrimp: 15.0
+  Spicy Cucumber Margarita: 8.52
+  Carnitas Plantain Burrito: 15.14
+  Smoky Black Bean Tostadas: 10.23
+  Black Bean and Cilantro Rice: 4.03
+  Warm Cinnamon Churros: 5.03
+  Pumpkin Spice Flan: 6.11
+  Roasted Corn Enchiladas: 9.07
+  Breakfast Burrito Bonanza: 9.14
+  Mango Habanero Wings: 14.02
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Grilled Shrimp Skewers: 11.62
+  Black Bean Breakfast Burrito: 8.57
+  Tangy Tomato Salsa Soup: 10.17
+  Passion Fruit Mojito: 8.41
+  Avocado Lime Grilled Shrimp: 13.8
+  Spicy Cucumber Margarita: 7.84
+  Carnitas Plantain Burrito: 13.93
+  Smoky Black Bean Tostadas: 9.41
+  Black Bean and Cilantro Rice: 3.71
+  Warm Cinnamon Churros: 4.63
+  Pumpkin Spice Flan: 5.62
+  Roasted Corn Enchiladas: 8.34
+  Breakfast Burrito Bonanza: 8.41
+  Mango Habanero Wings: 12.9

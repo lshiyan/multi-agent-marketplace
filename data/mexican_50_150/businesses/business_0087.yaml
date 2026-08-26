@@ -1,0 +1,42 @@
+id: business_0087
+name: Grilluminati
+description: Step into a world of flavor where citrus, spice, and smoky goodness combine
+  in uniquely crafted Mexican and Tex-Mex dishes. Discover some best-kept culinary
+  secrets, from sizzling starters to sweet and tangy twists, in a vibrant, welcoming
+  setting.
+rating: 1.0
+progenitor_customer: customer_0029
+menu_features:
+  Cilantro Lime Grilled Shrimp: 12.66
+  Black Bean Stuffed Bell Peppers: 9.53
+  Avocado Ranch Burrito Bowl: 14.01
+  Tamarind Spiced Agua Fresca: 3.63
+  Black Bean Breakfast Burrito: 7.44
+  Grilled Pineapple Dessert Quesadilla: 7.67
+  Bacon Wrapped Jalapeno Bites: 8.05
+  Fresh Mango Salsa Nachos: 7.56
+  Spicy Pineapple Chipotle Margarita: 8.61
+  Street Style Corn on the Cob: 4.91
+  Flan with Caramel Drizzle: 3.91
+  Red Chili Chicken Pozole: 10.83
+  Peppered Steak Nachos: 11.24
+  Avocado Lime Empanadas: 7.4
+  Red Chili Braised Beef Brisket: 15.88
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Cilantro Lime Grilled Shrimp: 10.51
+  Black Bean Stuffed Bell Peppers: 7.91
+  Avocado Ranch Burrito Bowl: 11.63
+  Tamarind Spiced Agua Fresca: 3.01
+  Black Bean Breakfast Burrito: 6.18
+  Grilled Pineapple Dessert Quesadilla: 6.37
+  Bacon Wrapped Jalapeno Bites: 6.68
+  Fresh Mango Salsa Nachos: 6.27
+  Spicy Pineapple Chipotle Margarita: 7.15
+  Street Style Corn on the Cob: 4.08
+  Flan with Caramel Drizzle: 3.25
+  Red Chili Chicken Pozole: 8.99
+  Peppered Steak Nachos: 9.33
+  Avocado Lime Empanadas: 6.14
+  Red Chili Braised Beef Brisket: 13.18

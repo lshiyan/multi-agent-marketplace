@@ -1,0 +1,44 @@
+id: business_0071
+name: Avocado & Ember
+description: Experience modern Mexican and Tex-Mex fare with vibrant flavors, fresh
+  ingredients, and sizzling plates in a lively and welcoming setting. Whether you're
+  craving classic street tacos, creamy avocado creations, or sweet treats, Avocado
+  & Ember offers something for everyone.
+rating: 1.0
+progenitor_customer: customer_0024
+menu_features:
+  Creamy Avocado Smoothie: 5.49
+  Horchata Iced Latte: 5.9
+  Mini Street Tacos Platter: 10.75
+  Coconut Lime Flan: 7.25
+  Black Bean and Corn Salsa: 5.08
+  Poblano Pepper Relleno Plate: 12.15
+  Fiesta Street Corn: 5.05
+  Pineapple Agua Fresca: 3.47
+  Crispy Fish Tacos: 10.42
+  Tex-Mex Fajita Wrap: 12.68
+  Warm Cinnamon Churros: 6.34
+  Red Chili Braised Beef Brisket: 13.51
+  Sizzling Fajita Plate: 16.41
+  Creamy Avocado Caesar Salad: 9.71
+  Sweet Plantain Empanadas: 6.0
+  Sizzling Chicken Fajitas: 14.68
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Creamy Avocado Smoothie: 3.51
+  Horchata Iced Latte: 3.78
+  Mini Street Tacos Platter: 6.88
+  Coconut Lime Flan: 4.64
+  Black Bean and Corn Salsa: 3.25
+  Poblano Pepper Relleno Plate: 7.78
+  Fiesta Street Corn: 3.23
+  Pineapple Agua Fresca: 2.22
+  Crispy Fish Tacos: 6.67
+  Tex-Mex Fajita Wrap: 8.12
+  Warm Cinnamon Churros: 4.06
+  Red Chili Braised Beef Brisket: 8.65
+  Sizzling Fajita Plate: 10.5
+  Creamy Avocado Caesar Salad: 6.21
+  Sweet Plantain Empanadas: 3.84
+  Sizzling Chicken Fajitas: 9.4

@@ -1,0 +1,38 @@
+id: business_0029
+name: Cocina Azul Modern Mexican
+description: Embrace bold flavors and vibrant textures at Cocina Azul, where classic
+  Mexican favorites and contemporary Tex-Mex creations come together in a lively,
+  modern setting. Enjoy fresh, colorful dishes and expertly crafted drinks in a warm,
+  welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0010
+menu_features:
+  Honey Lime Grilled Corn: 5.65
+  Smoky Chipotle Steak Fajitas: 19.56
+  Savory Carne Asada Burrito: 12.82
+  Classic Flan Delight: 8.94
+  Baja Fish Tacos: 13.07
+  Stuffed Avocado Delight: 7.58
+  Sizzling Beef Alambre: 14.68
+  Tequila Lime Shrimp Skewers: 13.47
+  Classic Mojito with Mint: 8.0
+  Zesty Lime Grilled Shrimp: 14.71
+  Creamy Avocado Caesar Salad: 8.82
+  Crispy Chicken Tostada Bowls: 14.09
+  Tequila Lime Grilled Chicken: 12.08
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Honey Lime Grilled Corn: 3.84
+  Smoky Chipotle Steak Fajitas: 13.3
+  Savory Carne Asada Burrito: 8.72
+  Classic Flan Delight: 6.08
+  Baja Fish Tacos: 8.89
+  Stuffed Avocado Delight: 5.15
+  Sizzling Beef Alambre: 9.98
+  Tequila Lime Shrimp Skewers: 9.16
+  Classic Mojito with Mint: 5.44
+  Zesty Lime Grilled Shrimp: 10.0
+  Creamy Avocado Caesar Salad: 6.0
+  Crispy Chicken Tostada Bowls: 9.58
+  Tequila Lime Grilled Chicken: 8.21

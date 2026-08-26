@@ -1,0 +1,41 @@
+id: business_0012
+name: Sizzle & Sip Taqueria
+description: Experience vibrant flavors and creative twists on Mexican and Tex-Mex
+  favorites in a bold, modern setting. From smoky enchiladas to inventive drinks and
+  sweet treats, each dish is crafted for maximum flavor and fun.
+rating: 1.0
+progenitor_customer: customer_0004
+menu_features:
+  Cinnamon Sugar Churros: 5.74
+  Horchata Iced Coffee: 4.94
+  Black Bean & Corn Queso Dip: 7.28
+  Honey Lime Fajita Sizzlers: 16.74
+  Chili Lime Margarita: 7.74
+  Smoky Chipotle BBQ Ribs: 15.17
+  Roasted Red Pepper Quesadilla: 9.46
+  Smoky Chipotle Enchiladas: 12.82
+  Black Bean and Sweet Potato Empanadas: 7.11
+  Hibiscus Iced Tea: 4.52
+  Breakfast Burrito Bonanza: 10.39
+  Salted Caramel Margarita: 8.85
+  Spicy Black Bean Nachos: 10.23
+  Pineapple Habanero Sake: 7.09
+  Gourmet Nacho Platter: 10.58
+amenity_features: {}
+min_price_factor: 0.95
+minimum_menu_prices:
+  Cinnamon Sugar Churros: 5.45
+  Horchata Iced Coffee: 4.69
+  Black Bean & Corn Queso Dip: 6.92
+  Honey Lime Fajita Sizzlers: 15.9
+  Chili Lime Margarita: 7.35
+  Smoky Chipotle BBQ Ribs: 14.41
+  Roasted Red Pepper Quesadilla: 8.99
+  Smoky Chipotle Enchiladas: 12.18
+  Black Bean and Sweet Potato Empanadas: 6.75
+  Hibiscus Iced Tea: 4.29
+  Breakfast Burrito Bonanza: 9.87
+  Salted Caramel Margarita: 8.41
+  Spicy Black Bean Nachos: 9.72
+  Pineapple Habanero Sake: 6.74
+  Gourmet Nacho Platter: 10.05

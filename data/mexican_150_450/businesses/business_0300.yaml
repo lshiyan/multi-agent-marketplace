@@ -1,0 +1,39 @@
+id: business_0300
+name: Quinoa & Queso Kitchen
+description: Experience bold, contemporary Mexican and Tex-Mex flavors in a vibrant,
+  welcoming space. Enjoy creative twists on classic favorites, fresh ingredients,
+  and a lively atmosphere perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0100
+menu_features:
+  Smoky Lime Quinoa Salad: 10.55
+  Spicy Beef Chimichangas: 13.3
+  Spicy Shrimp Ceviche: 10.1
+  Three-Cheese Queso Dip: 7.43
+  Sizzling Fajita Fiesta: 15.81
+  Beef Enchiladas Verdes: 14.15
+  Black Bean Breakfast Burrito: 7.94
+  Avocado Ranch Burrito Bowl: 12.54
+  Chili Lime Jicama Sticks: 5.47
+  Chili Lime Shrimp Skewers: 10.8
+  Cinnamon Sugar Churro Sticks: 6.5
+  Loaded Nachos Grande: 11.05
+  Cactus Cooler Margarita: 9.22
+  Honey Lime Chicken Fajitas: 13.6
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Smoky Lime Quinoa Salad: 9.92
+  Spicy Beef Chimichangas: 12.5
+  Spicy Shrimp Ceviche: 9.49
+  Three-Cheese Queso Dip: 6.98
+  Sizzling Fajita Fiesta: 14.86
+  Beef Enchiladas Verdes: 13.3
+  Black Bean Breakfast Burrito: 7.46
+  Avocado Ranch Burrito Bowl: 11.79
+  Chili Lime Jicama Sticks: 5.14
+  Chili Lime Shrimp Skewers: 10.15
+  Cinnamon Sugar Churro Sticks: 6.11
+  Loaded Nachos Grande: 10.39
+  Cactus Cooler Margarita: 8.67
+  Honey Lime Chicken Fajitas: 12.78

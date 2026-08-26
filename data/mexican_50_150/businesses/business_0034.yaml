@@ -1,0 +1,39 @@
+id: business_0034
+name: Vida Fresca Cantina
+description: Dive into a vibrant Tex-Mex dining experience where fresh, bold flavors
+  and modern twists bring comfort classics to life. Enjoy a lively atmosphere inspired
+  by the colorful spirit of Mexico and the Southwest.
+rating: 1.0
+progenitor_customer: customer_0012
+menu_features:
+  Roasted Corn Enchiladas: 10.41
+  Stuffed Avocado Boats: 9.51
+  Blue Corn Tostada Salad: 11.75
+  Baja Fish Taco Bowl: 9.62
+  Peach Berry Sangria: 9.67
+  Smoky Black Bean Enchiladas: 11.99
+  Classic Horchata Smoothie: 4.24
+  Black Bean Chili Bowl: 10.88
+  Salted Caramel Margarita: 9.53
+  Black Bean and Cilantro Rice: 3.87
+  Black Bean Burgers: 11.91
+  Spicy Zucchini Tostadas: 13.87
+  Tomatillo Ranch Enchiladas: 11.94
+  Tropical Pineapple Salsa: 3.68
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Roasted Corn Enchiladas: 6.45
+  Stuffed Avocado Boats: 5.9
+  Blue Corn Tostada Salad: 7.29
+  Baja Fish Taco Bowl: 5.96
+  Peach Berry Sangria: 6.0
+  Smoky Black Bean Enchiladas: 7.43
+  Classic Horchata Smoothie: 2.63
+  Black Bean Chili Bowl: 6.75
+  Salted Caramel Margarita: 5.91
+  Black Bean and Cilantro Rice: 2.4
+  Black Bean Burgers: 7.38
+  Spicy Zucchini Tostadas: 8.6
+  Tomatillo Ranch Enchiladas: 7.4
+  Tropical Pineapple Salsa: 2.28

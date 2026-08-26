@@ -1,0 +1,41 @@
+id: business_0373
+name: Taco the Choco-Lime
+description: Dive into bold, bright flavors and a sweet twist on tradition at this
+  playful modern Mex spot. From zesty tacos to decadent chocolate desserts, every
+  bite is a fiesta for your senses.
+rating: 1.0
+progenitor_customer: customer_0125
+menu_features:
+  Pineapple Chipotle Salsa & Chips: 5.26
+  Zesty Lime Chicken Tacos: 8.76
+  Choco-Chili Volcano Cake: 8.31
+  Fresh Lime and Cilantro Guacamole: 9.07
+  Chocolate Mole Chicken: 18.62
+  Southwest Chopped Salad: 11.67
+  Black Bean & Cheese Enchiladas: 12.31
+  Citrus Grilled Chicken Tacos: 11.28
+  Sweet Corn Tamales: 10.12
+  Grilled Shrimp Skewers: 12.71
+  Ancho Chili Chocolate Cake: 6.22
+  Grilled Elote Corn: 4.31
+  Blueberry Agave Margarita: 9.21
+  Chocolate Cinnamon Flan: 6.22
+  Mexican Chocolate Flan: 7.37
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Pineapple Chipotle Salsa & Chips: 4.58
+  Zesty Lime Chicken Tacos: 7.62
+  Choco-Chili Volcano Cake: 7.23
+  Fresh Lime and Cilantro Guacamole: 7.89
+  Chocolate Mole Chicken: 16.2
+  Southwest Chopped Salad: 10.15
+  Black Bean & Cheese Enchiladas: 10.71
+  Citrus Grilled Chicken Tacos: 9.81
+  Sweet Corn Tamales: 8.8
+  Grilled Shrimp Skewers: 11.06
+  Ancho Chili Chocolate Cake: 5.41
+  Grilled Elote Corn: 3.75
+  Blueberry Agave Margarita: 8.01
+  Chocolate Cinnamon Flan: 5.41
+  Mexican Chocolate Flan: 6.41

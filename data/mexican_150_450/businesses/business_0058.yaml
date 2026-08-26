@@ -1,0 +1,39 @@
+id: business_0058
+name: Luna & Lime Cantina
+description: Experience a vibrant fusion of Tex-Mex and Mexican flavors in a fresh,
+  welcoming atmosphere. From zesty salsas to sizzling skewers and decadent desserts,
+  every dish is crafted to delight your senses.
+rating: 1.0
+progenitor_customer: customer_0020
+menu_features:
+  Loaded Chorizo Nachos: 8.75
+  Chili Lime Skirt Steak: 21.3
+  Stuffed Poblano Peppers: 12.57
+  Black Bean and Corn Salsa: 4.35
+  Pineapple Salsa Pork Tacos: 12.0
+  Coconut Flan Delight: 6.96
+  Honey-Lime Shrimp Skewers: 18.37
+  Ultimate Nacho Platter: 9.28
+  Gourmet Nacho Platter: 10.33
+  Chipotle Shrimp Skewers: 13.69
+  Sunrise Breakfast Tacos: 9.08
+  Bacon Wrapped Jalapeno Bites: 9.65
+  Ancho Chili Spiced Ribs: 16.09
+  Carne Asada Nachos: 10.24
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Loaded Chorizo Nachos: 6.47
+  Chili Lime Skirt Steak: 15.76
+  Stuffed Poblano Peppers: 9.3
+  Black Bean and Corn Salsa: 3.22
+  Pineapple Salsa Pork Tacos: 8.88
+  Coconut Flan Delight: 5.15
+  Honey-Lime Shrimp Skewers: 13.59
+  Ultimate Nacho Platter: 6.87
+  Gourmet Nacho Platter: 7.64
+  Chipotle Shrimp Skewers: 10.13
+  Sunrise Breakfast Tacos: 6.72
+  Bacon Wrapped Jalapeno Bites: 7.14
+  Ancho Chili Spiced Ribs: 11.91
+  Carne Asada Nachos: 7.58

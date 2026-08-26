@@ -1,0 +1,43 @@
+id: business_0195
+name: "Z\xF3calo Sunrise Cantina"
+description: A vibrant, modern cantina offering bold, creative spins on classic Mexican
+  and Tex-Mex cuisine. Experience sun-kissed flavors and spirited sips in a lively,
+  welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0065
+menu_features:
+  Smoky Black Bean Nachos: 10.14
+  Pineapple Habanero Sake: 8.66
+  Chili Con Queso Supreme: 6.41
+  Pineapple Chipotle Pork: 12.87
+  Sunrise Breakfast Tacos: 9.42
+  Avocado Lime Salsa: 4.66
+  Creamy Jalapeno Corn Fritters: 8.07
+  Pineapple Tequila Chicken Skewers: 15.49
+  Loaded Nacho Fiesta: 10.41
+  Smoky Chipotle Queso: 7.07
+  Warm Cinnamon Churros: 7.2
+  Chipotle Bourbon Carnitas: 13.77
+  Molten Queso Fundido: 8.17
+  Chili Lime Roasted Corn: 5.93
+  Hatch Green Chile Stew: 12.9
+  Chocolate Mole Brownie: 7.68
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Smoky Black Bean Nachos: 7.3
+  Pineapple Habanero Sake: 6.24
+  Chili Con Queso Supreme: 4.62
+  Pineapple Chipotle Pork: 9.27
+  Sunrise Breakfast Tacos: 6.78
+  Avocado Lime Salsa: 3.36
+  Creamy Jalapeno Corn Fritters: 5.81
+  Pineapple Tequila Chicken Skewers: 11.15
+  Loaded Nacho Fiesta: 7.5
+  Smoky Chipotle Queso: 5.09
+  Warm Cinnamon Churros: 5.18
+  Chipotle Bourbon Carnitas: 9.91
+  Molten Queso Fundido: 5.88
+  Chili Lime Roasted Corn: 4.27
+  Hatch Green Chile Stew: 9.29
+  Chocolate Mole Brownie: 5.53

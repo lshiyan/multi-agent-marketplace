@@ -1,0 +1,43 @@
+id: business_0132
+name: "Casa Pi\xF1alime Grill"
+description: "Bright, fresh, and boldly flavored, Casa Pi\xF1alime Grill offers a\
+  \ contemporary twist on Mexican and Tex-Mex favorites. Enjoy vibrant dishes and\
+  \ creative drinks in a warm, inviting atmosphere."
+rating: 1.0
+progenitor_customer: customer_0044
+menu_features:
+  Horchata Latte: 5.01
+  Chipotle Chicken Burrito Bowl: 14.76
+  Black Bean Taco Bowl: 12.99
+  Honey Lime Grilled Fajitas: 15.4
+  Zesty Lime Grilled Chicken: 15.11
+  Chipotle BBQ Tacos: 13.61
+  Pineapple Salsa Shrimp Tacos: 13.02
+  Rich Chocolate Tamales: 6.45
+  Cilantro Lime Chicken Tacos: 12.6
+  Raspberry Chipotle Barbecue Ribs: 10.98
+  Pineapple Pico de Gallo Nachos: 9.5
+  Pineapple Chipotle Salsa & Chips: 6.28
+  Spicy Black Bean Tacos: 12.51
+  Southwestern Quinoa Salad: 10.13
+  Grilled Pineapple Salsa: 7.39
+  Loaded Nacho Fiesta: 9.92
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Horchata Latte: 4.06
+  Chipotle Chicken Burrito Bowl: 11.96
+  Black Bean Taco Bowl: 10.52
+  Honey Lime Grilled Fajitas: 12.47
+  Zesty Lime Grilled Chicken: 12.24
+  Chipotle BBQ Tacos: 11.02
+  Pineapple Salsa Shrimp Tacos: 10.55
+  Rich Chocolate Tamales: 5.22
+  Cilantro Lime Chicken Tacos: 10.21
+  Raspberry Chipotle Barbecue Ribs: 8.89
+  Pineapple Pico de Gallo Nachos: 7.7
+  Pineapple Chipotle Salsa & Chips: 5.09
+  Spicy Black Bean Tacos: 10.13
+  Southwestern Quinoa Salad: 8.21
+  Grilled Pineapple Salsa: 5.99
+  Loaded Nacho Fiesta: 8.04

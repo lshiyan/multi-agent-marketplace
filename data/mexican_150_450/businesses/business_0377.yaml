@@ -1,0 +1,43 @@
+id: business_0377
+name: Crisp & Chile
+description: Crisp & Chile brings modern Mexican and Tex-Mex flavors together in a
+  vibrant, welcoming setting. Enjoy creative dishes, bold spices, and refreshing drinks
+  that capture the spirit of contemporary Latin cuisine.
+rating: 1.0
+progenitor_customer: customer_0126
+menu_features:
+  Green Chile Cheesesteak: 12.65
+  Classic Horchata Delight: 3.43
+  Crispy Carnitas Tacos: 12.18
+  Chili-Lime Cauliflower Bites: 9.36
+  Ancho Chili Braised Beef Enchiladas: 13.73
+  Green Chile Pork Stew: 15.69
+  Chipotle Lime Chicken Skewers: 10.35
+  Horchata Milkshake: 5.95
+  Crispy Tortilla Breakfast Bowl: 9.35
+  Crispy Avocado Fritters: 8.52
+  Horchata Iced Latte: 5.47
+  Margarita Lime Cheesecake: 5.49
+  Honey-Lime Grilled Salmon: 11.02
+  Avocado Lime Dip: 7.62
+  Pineapple Habanero Sake: 8.61
+  Vanilla Almond Horchata: 3.74
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Green Chile Cheesesteak: 8.86
+  Classic Horchata Delight: 2.4
+  Crispy Carnitas Tacos: 8.53
+  Chili-Lime Cauliflower Bites: 6.55
+  Ancho Chili Braised Beef Enchiladas: 9.61
+  Green Chile Pork Stew: 10.98
+  Chipotle Lime Chicken Skewers: 7.24
+  Horchata Milkshake: 4.17
+  Crispy Tortilla Breakfast Bowl: 6.54
+  Crispy Avocado Fritters: 5.96
+  Horchata Iced Latte: 3.83
+  Margarita Lime Cheesecake: 3.84
+  Honey-Lime Grilled Salmon: 7.71
+  Avocado Lime Dip: 5.33
+  Pineapple Habanero Sake: 6.03
+  Vanilla Almond Horchata: 2.62

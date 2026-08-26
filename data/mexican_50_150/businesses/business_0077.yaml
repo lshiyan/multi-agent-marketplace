@@ -1,0 +1,44 @@
+id: business_0077
+name: "Kickin\u2019 Cacao Cantina"
+description: Bold flavors meet sweet surprises at this modern Mexican spot, where
+  smoky, spicy, and chocolaty creations come together with refreshing drinks. Dive
+  into inventive takes on classic favorites, all crafted for a fiesta of flavor in
+  every bite.
+rating: 1.0
+progenitor_customer: customer_0026
+menu_features:
+  Chocolate Molten Tamale: 4.81
+  Roasted Corn and Black Bean Salsa: 6.91
+  Bacon Wrapped Jalapeno Bites: 8.36
+  Smoky BBQ Pork Tostadas: 12.44
+  Pineapple Agua Fresca: 3.59
+  Spicy Black Bean Nachos: 9.79
+  Chocolate Mole Brownie: 7.52
+  Spicy Black Bean Tacos: 10.68
+  Crispy Carnitas Tacos: 14.26
+  Hibiscus Iced Tea: 3.19
+  Pineapple Jalapeno Sangria: 9.4
+  Three-Cheese Enchilada Stack: 13.84
+  "Cheesy Jalape\xF1o Quesadillas": 11.24
+  Raspberry Jalapeno Mojito: 9.54
+  Smoky Black Bean Tostadas: 8.21
+  Avocado & Tomato Breakfast Tostadas: 8.9
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Chocolate Molten Tamale: 3.66
+  Roasted Corn and Black Bean Salsa: 5.25
+  Bacon Wrapped Jalapeno Bites: 6.35
+  Smoky BBQ Pork Tostadas: 9.45
+  Pineapple Agua Fresca: 2.73
+  Spicy Black Bean Nachos: 7.44
+  Chocolate Mole Brownie: 5.72
+  Spicy Black Bean Tacos: 8.12
+  Crispy Carnitas Tacos: 10.84
+  Hibiscus Iced Tea: 2.42
+  Pineapple Jalapeno Sangria: 7.14
+  Three-Cheese Enchilada Stack: 10.52
+  "Cheesy Jalape\xF1o Quesadillas": 8.54
+  Raspberry Jalapeno Mojito: 7.25
+  Smoky Black Bean Tostadas: 6.24
+  Avocado & Tomato Breakfast Tostadas: 6.76

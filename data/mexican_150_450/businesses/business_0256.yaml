@@ -1,0 +1,39 @@
+id: business_0256
+name: "El Saz\xF3n Dorado"
+description: Discover a vibrant celebration of Mexican and Tex-Mex flavors, featuring
+  classic favorites and bold, modern twists. Enjoy fresh, colorful dishes and warm
+  hospitality in a lively, inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0086
+menu_features:
+  Refreshing Agua Fresca Trio: 8.84
+  Spicy Pork Tamales: 12.37
+  Sizzling Fajita Plate: 13.27
+  Loaded Nacho Fries: 9.57
+  Spicy Black Bean Enchiladas: 9.7
+  Sizzling Chicken Fajitas: 13.93
+  Roasted Pecan Flan: 5.45
+  Fiesta Street Corn: 5.31
+  Warm Cinnamon Churros: 6.87
+  Stuffed Poblano Peppers: 13.65
+  Baja Shrimp Quesadilla: 14.02
+  Three-Cheese Chile Rellenos: 13.87
+  Grilled Street Corn: 6.99
+  Roasted Corn Elote: 3.8
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Refreshing Agua Fresca Trio: 5.57
+  Spicy Pork Tamales: 7.79
+  Sizzling Fajita Plate: 8.36
+  Loaded Nacho Fries: 6.03
+  Spicy Black Bean Enchiladas: 6.11
+  Sizzling Chicken Fajitas: 8.78
+  Roasted Pecan Flan: 3.43
+  Fiesta Street Corn: 3.35
+  Warm Cinnamon Churros: 4.33
+  Stuffed Poblano Peppers: 8.6
+  Baja Shrimp Quesadilla: 8.83
+  Three-Cheese Chile Rellenos: 8.74
+  Grilled Street Corn: 4.4
+  Roasted Corn Elote: 2.39

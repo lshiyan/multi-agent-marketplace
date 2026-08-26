@@ -1,0 +1,45 @@
+id: business_0054
+name: Corny & the Jets
+description: Get swept away by a lively blend of bold flavors and coastal flair! Savor
+  vibrant, fresh dishes with a twist, where every bite brings a taste of the tropics
+  and a dash of spice.
+rating: 1.0
+progenitor_customer: customer_0018
+menu_features:
+  Pineapple Jalapeno Salsa: 4.43
+  Garlic Lime Shrimp Salad: 11.52
+  Grilled Elote Corn: 5.19
+  Coconut Lime Tres Leches: 7.05
+  Tamale Pie Casserole: 13.87
+  Blue Corn Tortilla Soup: 7.14
+  Grilled Shrimp Skewers: 15.62
+  Black Bean and Lime Soup: 8.51
+  Creamy Poblano Corn Chowder: 10.01
+  Ancho Chili Braised Beef Enchiladas: 14.56
+  Spicy Chocolate Churros: 6.44
+  Veggie Fajita Platter: 12.42
+  Tropical Coconut Margarita: 9.32
+  Grilled Pineapple Salmon: 17.77
+  Sea Breeze Ceviche: 13.37
+  Fresh Limeade: 4.06
+  Coconut Lime Rice Bowl: 11.51
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Pineapple Jalapeno Salsa: 3.72
+  Garlic Lime Shrimp Salad: 9.68
+  Grilled Elote Corn: 4.36
+  Coconut Lime Tres Leches: 5.92
+  Tamale Pie Casserole: 11.65
+  Blue Corn Tortilla Soup: 6.0
+  Grilled Shrimp Skewers: 13.12
+  Black Bean and Lime Soup: 7.15
+  Creamy Poblano Corn Chowder: 8.41
+  Ancho Chili Braised Beef Enchiladas: 12.23
+  Spicy Chocolate Churros: 5.41
+  Veggie Fajita Platter: 10.43
+  Tropical Coconut Margarita: 7.83
+  Grilled Pineapple Salmon: 14.93
+  Sea Breeze Ceviche: 11.23
+  Fresh Limeade: 3.41
+  Coconut Lime Rice Bowl: 9.67

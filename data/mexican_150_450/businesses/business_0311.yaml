@@ -1,0 +1,35 @@
+id: business_0311
+name: "Fishin\u2019 for Flan"
+description: "Reel in bold Tex-Mex and Mexican flavors at this vibrant spot, where\
+  \ savory coastal bites meet sweet, creamy treats\u2014served with a playful twist.\
+  \ Gather for fresh, colorful fare and signature sips in a lively, welcoming atmosphere."
+rating: 1.0
+progenitor_customer: customer_0104
+menu_features:
+  Black Bean & Corn Enchiladas: 11.36
+  Southwestern Quinoa Salad: 9.62
+  Crispy Fish Baja Bowl: 15.26
+  Caramelized Onion Queso Dip: 7.69
+  Hibiscus Iced Tea: 3.04
+  Coconut Flan Delight: 6.08
+  Roasted Corn and Black Bean Salad: 10.5
+  Creamy Jalapeno Corn Fritters: 7.42
+  Smoky Lime Quinoa Salad: 9.93
+  Toasted Coconut Flan: 5.68
+  Hibiscus Agua Fresca: 3.6
+  Chipotle Lime Shrimp Tacos: 16.21
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Black Bean & Corn Enchiladas: 9.77
+  Southwestern Quinoa Salad: 8.27
+  Crispy Fish Baja Bowl: 13.12
+  Caramelized Onion Queso Dip: 6.61
+  Hibiscus Iced Tea: 2.61
+  Coconut Flan Delight: 5.23
+  Roasted Corn and Black Bean Salad: 9.03
+  Creamy Jalapeno Corn Fritters: 6.38
+  Smoky Lime Quinoa Salad: 8.54
+  Toasted Coconut Flan: 4.88
+  Hibiscus Agua Fresca: 3.1
+  Chipotle Lime Shrimp Tacos: 13.94

@@ -1,0 +1,11 @@
+id: customer_0027
+name: Lucy Zhao
+request: 'I am looking to place an order from a business that can provide the following
+  specific menu items: 1 Sweet Corn Tamale Bites and 1 Roasted Corn and Black Bean
+  Salsa. It is important that both items are available, as I will only consider ordering
+  if they meet these requirements. Could you please assist me in finding such a business?
+  Thank you!'
+menu_features:
+  Sweet Corn Tamale Bites: 6.99
+  Roasted Corn and Black Bean Salsa: 6.99
+amenity_features: []

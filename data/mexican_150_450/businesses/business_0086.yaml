@@ -1,0 +1,43 @@
+id: business_0086
+name: Smoky Lime Cantina
+description: A vibrant spot where bold flavors meet fresh, zesty inspirations. Enjoy
+  handcrafted drinks and inventive dishes celebrating the spirited essence of modern
+  Mexican and Tex-Mex cuisine.
+rating: 1.0
+progenitor_customer: customer_0029
+menu_features:
+  Smoky Mezcal Mule: 7.82
+  Citrus Marinated Carne Asada: 14.06
+  Crispy Fish Tacos: 12.62
+  Huevos Rancheros: 11.76
+  Black Bean Street Tacos: 10.7
+  Choco Flan Combo: 7.12
+  Smoky Chipotle Enchiladas: 14.12
+  Street Corn Fritters: 6.97
+  Strawberry Jalapeno Lemonade: 3.88
+  Zesty Lime Grilled Chicken: 15.37
+  Spicy Beef Chimichangas: 13.75
+  Baja Fish Tacos: 11.61
+  Smoky Black Bean Tostadas: 9.5
+  Housemade Horchata: 3.56
+  Smoky Lime Quinoa Salad: 10.98
+  Caramelized Onion Queso Dip: 6.46
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Smoky Mezcal Mule: 6.02
+  Citrus Marinated Carne Asada: 10.83
+  Crispy Fish Tacos: 9.72
+  Huevos Rancheros: 9.06
+  Black Bean Street Tacos: 8.24
+  Choco Flan Combo: 5.48
+  Smoky Chipotle Enchiladas: 10.87
+  Street Corn Fritters: 5.37
+  Strawberry Jalapeno Lemonade: 2.99
+  Zesty Lime Grilled Chicken: 11.83
+  Spicy Beef Chimichangas: 10.59
+  Baja Fish Tacos: 8.94
+  Smoky Black Bean Tostadas: 7.32
+  Housemade Horchata: 2.74
+  Smoky Lime Quinoa Salad: 8.45
+  Caramelized Onion Queso Dip: 4.97

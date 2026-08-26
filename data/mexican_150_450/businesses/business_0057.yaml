@@ -1,0 +1,41 @@
+id: business_0057
+name: Azul y Aguacate
+description: Experience vibrant Mexican and Tex-Mex cuisine in a lively, welcoming
+  atmosphere. From zesty salads to flavorful enchiladas and refreshing aguas frescas,
+  savor every bite of tradition and freshness.
+rating: 1.0
+progenitor_customer: customer_0019
+menu_features:
+  Classic Beef Enchiladas: 13.22
+  Caramelized Plantain Empanadas: 5.5
+  Avocado Ranch Burrito Bowl: 13.43
+  Cucumber Jalapeno Agua Fresca: 4.24
+  Tequila Lime Shrimp Skewers: 13.71
+  Grilled Steak Fajita Platter: 19.52
+  Zesty Lime Shrimp Salad: 15.64
+  Fresh Lime and Cilantro Guacamole: 9.78
+  Avocado Street Tacos: 9.21
+  Black Bean and Cilantro Rice: 5.05
+  Mango Agua Fresca: 4.26
+  Smoky Black Bean Soup: 8.04
+  Chili Lime Roasted Corn: 4.38
+  Coconut Lime Tres Leches: 7.03
+  Grilled Avocado and Quinoa Bowl: 9.67
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Classic Beef Enchiladas: 8.86
+  Caramelized Plantain Empanadas: 3.69
+  Avocado Ranch Burrito Bowl: 9.0
+  Cucumber Jalapeno Agua Fresca: 2.84
+  Tequila Lime Shrimp Skewers: 9.19
+  Grilled Steak Fajita Platter: 13.08
+  Zesty Lime Shrimp Salad: 10.48
+  Fresh Lime and Cilantro Guacamole: 6.55
+  Avocado Street Tacos: 6.17
+  Black Bean and Cilantro Rice: 3.38
+  Mango Agua Fresca: 2.85
+  Smoky Black Bean Soup: 5.39
+  Chili Lime Roasted Corn: 2.93
+  Coconut Lime Tres Leches: 4.71
+  Grilled Avocado and Quinoa Bowl: 6.48

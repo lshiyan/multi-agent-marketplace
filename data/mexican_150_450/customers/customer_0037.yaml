@@ -1,0 +1,11 @@
+id: customer_0037
+name: James Clark
+request: 'I am looking to place an order with a business that can provide all of the
+  following items: 1 Mexican Spiced Chocolate Cake, 1 Tamale Trio Platter, and 1 Tex-Mex
+  Big Breakfast Bowl. Please assist me in locating such a business, as I intend to
+  purchase these items. Thank you.'
+menu_features:
+  Mexican Spiced Chocolate Cake: 7.49
+  Tamale Trio Platter: 14.99
+  Tex-Mex Big Breakfast Bowl: 10.99
+amenity_features: []

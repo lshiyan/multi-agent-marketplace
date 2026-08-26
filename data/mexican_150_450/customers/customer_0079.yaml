@@ -1,0 +1,11 @@
+id: customer_0079
+name: William Scott
+request: 'Please find a business that offers the exact menu items on my list: 1 Fire
+  Roasted Salsa Sampler, 1 Chocolate Tamale Cake, and 1 Tamarind Citrus Margarita.
+  It is very important that the business provides all these items. Once a suitable
+  business is found, I intend to place an order for them. Thank you.'
+menu_features:
+  Fire Roasted Salsa Sampler: 5.99
+  Chocolate Tamale Cake: 6.99
+  Tamarind Citrus Margarita: 8.99
+amenity_features: []

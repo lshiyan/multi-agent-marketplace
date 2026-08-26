@@ -1,0 +1,33 @@
+id: business_0097
+name: Crisp & Cactus
+description: Experience bold flavors and vibrant Mexican-inspired dishes in a lively,
+  welcoming atmosphere. From sizzling skillets to sweet indulgences, every plate brings
+  a fresh twist to a fiesta of taste.
+rating: 1.0
+progenitor_customer: customer_0033
+menu_features:
+  Loaded Nacho Skillet: 11.84
+  Coconut Tres Leches: 6.6
+  Black Bean and Corn Fiesta Salad: 6.2
+  Cactus Cooler Margarita: 9.19
+  Warm Churro Bites: 5.38
+  Raspberry Jalapeno Mojito: 9.38
+  Green Chile Cheesesteak: 15.98
+  Zesty Lime Shrimp Skewers: 11.84
+  Smoky Chipotle Enchiladas: 12.75
+  Chili Con Queso Supreme: 6.51
+  Tequila Lime Grilled Shrimp: 13.43
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Loaded Nacho Skillet: 8.64
+  Coconut Tres Leches: 4.82
+  Black Bean and Corn Fiesta Salad: 4.53
+  Cactus Cooler Margarita: 6.71
+  Warm Churro Bites: 3.93
+  Raspberry Jalapeno Mojito: 6.85
+  Green Chile Cheesesteak: 11.67
+  Zesty Lime Shrimp Skewers: 8.64
+  Smoky Chipotle Enchiladas: 9.31
+  Chili Con Queso Supreme: 4.75
+  Tequila Lime Grilled Shrimp: 9.8

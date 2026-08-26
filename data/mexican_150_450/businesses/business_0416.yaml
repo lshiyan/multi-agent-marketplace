@@ -1,0 +1,39 @@
+id: business_0416
+name: Mojito & Mango
+description: Mojito & Mango blends vibrant Mexican and Tex-Mex flavors with refreshing
+  tropical twists. Enjoy a lively setting where zesty drinks and fresh, grilled specialties
+  come together for an unforgettable dining experience.
+rating: 1.0
+progenitor_customer: customer_0139
+menu_features:
+  Passion Fruit Mojito: 10.94
+  Tequila Lime Grilled Chicken: 12.32
+  Fresh Mint Mojito: 8.91
+  Grilled Pineapple and Pork Tacos: 12.64
+  Grilled Pineapple & Shrimp Quesadillas: 11.91
+  Chocolate Tamale Cake: 5.76
+  Chipotle Lime Shrimp Tacos: 16.81
+  Smoky Chipotle Quesadillas: 10.96
+  Chipotle Lime Shrimp Skewers: 12.41
+  Smoky Black Bean Nachos: 9.35
+  Bacon and Egg Tostada: 10.41
+  Smoky Lime Quinoa Salad: 9.33
+  Cilantro Lime Chicken Tacos: 9.45
+  Avocado Lime Quinoa Bowl: 9.13
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Passion Fruit Mojito: 10.06
+  Tequila Lime Grilled Chicken: 11.33
+  Fresh Mint Mojito: 8.2
+  Grilled Pineapple and Pork Tacos: 11.63
+  Grilled Pineapple & Shrimp Quesadillas: 10.96
+  Chocolate Tamale Cake: 5.3
+  Chipotle Lime Shrimp Tacos: 15.47
+  Smoky Chipotle Quesadillas: 10.08
+  Chipotle Lime Shrimp Skewers: 11.42
+  Smoky Black Bean Nachos: 8.6
+  Bacon and Egg Tostada: 9.58
+  Smoky Lime Quinoa Salad: 8.58
+  Cilantro Lime Chicken Tacos: 8.69
+  Avocado Lime Quinoa Bowl: 8.4

@@ -1,0 +1,35 @@
+id: business_0050
+name: Poblano Palms
+description: Experience vibrant Mexican and Tex-Mex flavors at Poblano Palms, where
+  classic favorites meet bold, fresh twists. Join us for flavorful dishes and handcrafted
+  margaritas in a relaxed and inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0017
+menu_features:
+  Smoky Ancho Chicken Enchiladas: 10.61
+  Crispy Fish Street Tacos: 15.15
+  Ranchero Steak Fajitas: 17.42
+  Grilled Chipotle Chicken Burrito: 12.24
+  Poblano Pepper Relleno Plate: 14.82
+  Pineapple Jalapeno Margarita: 10.5
+  Al Pastor Quesadilla: 10.69
+  "Blueberry Jalape\xF1o Margarita": 8.01
+  Choco Flan Combo: 6.92
+  Beef Fajita Skillet: 13.26
+  Fresh Lime and Cilantro Guacamole: 9.24
+  Tropical Pineapple Salsa: 3.26
+amenity_features: {}
+min_price_factor: 0.95
+minimum_menu_prices:
+  Smoky Ancho Chicken Enchiladas: 10.08
+  Crispy Fish Street Tacos: 14.39
+  Ranchero Steak Fajitas: 16.55
+  Grilled Chipotle Chicken Burrito: 11.63
+  Poblano Pepper Relleno Plate: 14.08
+  Pineapple Jalapeno Margarita: 9.97
+  Al Pastor Quesadilla: 10.16
+  "Blueberry Jalape\xF1o Margarita": 7.61
+  Choco Flan Combo: 6.57
+  Beef Fajita Skillet: 12.6
+  Fresh Lime and Cilantro Guacamole: 8.78
+  Tropical Pineapple Salsa: 3.1

@@ -1,0 +1,11 @@
+id: customer_0043
+name: Daniel Hernandez
+request: 'Could you please help me find a business that serves the following menu
+  items: Coconut Lime Flan (1), Crispy Avocado Tacos (1), and Pico Avocado Toast (1)?
+  It is important that the business can provide all these items. Once located, I intend
+  to place an order with them. Thank you for your assistance.'
+menu_features:
+  Coconut Lime Flan: 5.99
+  Crispy Avocado Tacos: 11.99
+  Pico Avocado Toast: 7.99
+amenity_features: []

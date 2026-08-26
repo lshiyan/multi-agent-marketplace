@@ -1,0 +1,11 @@
+id: customer_0134
+name: Samuel Clark
+request: 'Could you please assist me in finding a business that offers the following
+  items on their menu: Cocoa Cinnamon Tequila (1), Margarita Grilled Chicken (1),
+  and Tomatillo Salsa Verde Nachos (1)? I am ready to place an order for these items
+  as soon as a suitable business is identified. Thank you for your help.'
+menu_features:
+  Cocoa Cinnamon Tequila: 9.49
+  Margarita Grilled Chicken: 14.59
+  Tomatillo Salsa Verde Nachos: 10.49
+amenity_features: []

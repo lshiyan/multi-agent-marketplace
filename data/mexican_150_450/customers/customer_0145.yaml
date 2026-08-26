@@ -1,0 +1,10 @@
+id: customer_0145
+name: Noah Kim
+request: 'Could you please assist me in finding a business that offers the following
+  menu items: 1 Roasted Pumpkin Tamale and 1 Vanilla Cinnamon Horchata? It is important
+  that both items are available as I intend to place an order for them. Thank you
+  for your help!'
+menu_features:
+  Roasted Pumpkin Tamale: 7.49
+  Vanilla Cinnamon Horchata: 3.49
+amenity_features: []

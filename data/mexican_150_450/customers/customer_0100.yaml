@@ -1,0 +1,11 @@
+id: customer_0100
+name: Mohammed Ali
+request: Could you please find a business that offers the following menu items and
+  place an order for me? I need 1 Sizzling Fajita Fiesta, 1 Loaded Nachos Grande,
+  and 1 Black Bean Breakfast Burrito. It's important that the business provides all
+  of these items. Thank you!
+menu_features:
+  Sizzling Fajita Fiesta: 13.99
+  Loaded Nachos Grande: 10.99
+  Black Bean Breakfast Burrito: 8.49
+amenity_features: []

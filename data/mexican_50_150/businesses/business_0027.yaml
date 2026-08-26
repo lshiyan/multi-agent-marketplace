@@ -1,0 +1,45 @@
+id: business_0027
+name: Molcajete & Marigold
+description: A vibrant, contemporary spot celebrating the bold flavors and colorful
+  traditions of Mexican and Tex-Mex cuisine. Enjoy creative small plates, fresh salads,
+  and handcrafted drinks in a lively, inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0009
+menu_features:
+  Crispy Avocado Tostadas: 13.33
+  Crispy Chicken Tostada Bowls: 12.89
+  Mesquite Grilled Steak Fajitas: 15.9
+  Green Chile Pork Stew: 14.1
+  Breakfast Burrito Bowl: 8.19
+  Mexican Street Corn Salad: 7.6
+  Ancho Chili Braised Beef Enchiladas: 14.35
+  Al Pastor Quesadilla: 12.01
+  Blueberry Agave Margarita: 10.87
+  Roasted Poblano Corn Chowder: 7.48
+  Pineapple Habanero Sake: 7.51
+  Fresh Watermelon Aqua Fresca: 3.37
+  Fajita Veggie Burrito Bowl: 13.2
+  Spiced Chocolate Tres Leches: 7.13
+  Roasted Pepper Queso Dip: 6.37
+  Chipotle Lime Chicken Salad: 11.73
+  Sunset Grilled Veggie Tacos: 10.06
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Crispy Avocado Tostadas: 8.8
+  Crispy Chicken Tostada Bowls: 8.51
+  Mesquite Grilled Steak Fajitas: 10.49
+  Green Chile Pork Stew: 9.31
+  Breakfast Burrito Bowl: 5.41
+  Mexican Street Corn Salad: 5.02
+  Ancho Chili Braised Beef Enchiladas: 9.47
+  Al Pastor Quesadilla: 7.93
+  Blueberry Agave Margarita: 7.17
+  Roasted Poblano Corn Chowder: 4.94
+  Pineapple Habanero Sake: 4.96
+  Fresh Watermelon Aqua Fresca: 2.22
+  Fajita Veggie Burrito Bowl: 8.71
+  Spiced Chocolate Tres Leches: 4.71
+  Roasted Pepper Queso Dip: 4.2
+  Chipotle Lime Chicken Salad: 7.74
+  Sunset Grilled Veggie Tacos: 6.64

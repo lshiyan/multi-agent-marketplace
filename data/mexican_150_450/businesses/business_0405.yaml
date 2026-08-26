@@ -1,0 +1,35 @@
+id: business_0405
+name: "El Fresco Saz\xF3n"
+description: Experience a vibrant blend of Mexican and Tex-Mex classics in a lively,
+  welcoming atmosphere. Enjoy flavorful salsas, sizzling plates, and delightfully
+  sweet desserts crafted with fresh ingredients and bold spices.
+rating: 1.0
+progenitor_customer: customer_0135
+menu_features:
+  Raspberry Jalapeno Mojito: 7.37
+  Spicy Chipotle Chicken Wrap: 9.02
+  Refreshing Agua Fresca Trio: 8.3
+  Sizzling Fajita Skillet: 10.92
+  Flan with Caramel Drizzle: 5.76
+  Chili Con Queso Supreme: 6.11
+  Sizzling Fajita Platter: 18.04
+  Mango Jalapeno Salsa and Chips: 4.8
+  Loaded Nacho Fries: 6.91
+  Sweet Plantain Empanadas: 6.84
+  Spicy Shrimp Fajitas: 13.33
+  Crispy Fish Street Tacos: 14.27
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Raspberry Jalapeno Mojito: 4.5
+  Spicy Chipotle Chicken Wrap: 5.5
+  Refreshing Agua Fresca Trio: 5.06
+  Sizzling Fajita Skillet: 6.66
+  Flan with Caramel Drizzle: 3.51
+  Chili Con Queso Supreme: 3.73
+  Sizzling Fajita Platter: 11.0
+  Mango Jalapeno Salsa and Chips: 2.93
+  Loaded Nacho Fries: 4.22
+  Sweet Plantain Empanadas: 4.17
+  Spicy Shrimp Fajitas: 8.13
+  Crispy Fish Street Tacos: 8.7

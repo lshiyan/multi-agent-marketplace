@@ -1,0 +1,45 @@
+id: business_0431
+name: Cornbread & Cactus Cooler
+description: Bringing you inventive Mexican and Tex-Mex brunch and dinner with fresh
+  flavors, fiery sips, and a sweet, creative twist. Enjoy classics and bold new favorites
+  in a vibrant, laid-back setting.
+rating: 1.0
+progenitor_customer: customer_0144
+menu_features:
+  Breakfast Chilaquiles Verde: 8.36
+  Cocoa Dusted Churro Bites: 7.65
+  Frozen Strawberry Daiquiri: 8.36
+  Pico de Gallo Chicken Salad: 10.55
+  Roasted Corn Elote: 4.76
+  Jalapeno Cheddar Cornbread: 5.93
+  Salted Caramel Margarita: 8.76
+  Spicy Pork Tamales: 10.0
+  Ancho Chile BBQ Ribs: 20.71
+  Grilled Pineapple & Shrimp Quesadillas: 14.03
+  Toasted Coconut Flan: 5.34
+  Chili Chocolate Lava Cake: 8.65
+  Loaded Chorizo Nachos: 8.58
+  Pineapple Habanero Margarita: 10.32
+  Raspberry Chipotle Barbecue Ribs: 15.16
+  Sizzling Pork Carnitas Bowl: 14.52
+  Cactus Flower Iced Tea: 5.38
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Breakfast Chilaquiles Verde: 7.19
+  Cocoa Dusted Churro Bites: 6.58
+  Frozen Strawberry Daiquiri: 7.19
+  Pico de Gallo Chicken Salad: 9.07
+  Roasted Corn Elote: 4.09
+  Jalapeno Cheddar Cornbread: 5.1
+  Salted Caramel Margarita: 7.53
+  Spicy Pork Tamales: 8.6
+  Ancho Chile BBQ Ribs: 17.81
+  Grilled Pineapple & Shrimp Quesadillas: 12.07
+  Toasted Coconut Flan: 4.59
+  Chili Chocolate Lava Cake: 7.44
+  Loaded Chorizo Nachos: 7.38
+  Pineapple Habanero Margarita: 8.88
+  Raspberry Chipotle Barbecue Ribs: 13.04
+  Sizzling Pork Carnitas Bowl: 12.49
+  Cactus Flower Iced Tea: 4.63

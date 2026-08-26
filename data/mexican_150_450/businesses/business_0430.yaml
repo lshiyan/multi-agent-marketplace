@@ -1,0 +1,45 @@
+id: business_0430
+name: Cocoa & Citrus
+description: Cocoa & Citrus celebrates vibrant, modern Mexican and Tex-Mex flavors
+  with a fresh twist. Come savor zesty drinks, bold plates, and sweet bites in a lively
+  setting.
+rating: 1.0
+progenitor_customer: customer_0144
+menu_features:
+  Cocoa Dusted Churro Bites: 5.34
+  Fresh Corn Elote: 4.63
+  Chipotle Lime Chicken Skewers: 11.34
+  Jalapeno Cheddar Cornbread: 3.64
+  Pineapple Habanero Margarita: 9.78
+  Chocolate Dipped Flan: 6.49
+  Fajita Veggie Burrito Bowl: 13.31
+  Passion Fruit Agua Fresca: 3.66
+  Jicama and Citrus Salad: 7.0
+  Tamale Pie Casserole: 15.65
+  Cucumber Jalapeno Agua Fresca: 3.44
+  Mexican Chocolate Brownie: 6.49
+  Pico de Gallo Chicken Salad: 9.93
+  Grilled Pineapple Mojito: 6.54
+  Three-Cheese Enchilada Stack: 9.53
+  Smoky Black Bean Soup: 5.4
+  Loaded Chorizo Nachos: 8.8
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Cocoa Dusted Churro Bites: 3.63
+  Fresh Corn Elote: 3.15
+  Chipotle Lime Chicken Skewers: 7.71
+  Jalapeno Cheddar Cornbread: 2.48
+  Pineapple Habanero Margarita: 6.65
+  Chocolate Dipped Flan: 4.41
+  Fajita Veggie Burrito Bowl: 9.05
+  Passion Fruit Agua Fresca: 2.49
+  Jicama and Citrus Salad: 4.76
+  Tamale Pie Casserole: 10.64
+  Cucumber Jalapeno Agua Fresca: 2.34
+  Mexican Chocolate Brownie: 4.41
+  Pico de Gallo Chicken Salad: 6.75
+  Grilled Pineapple Mojito: 4.45
+  Three-Cheese Enchilada Stack: 6.48
+  Smoky Black Bean Soup: 3.67
+  Loaded Chorizo Nachos: 5.98

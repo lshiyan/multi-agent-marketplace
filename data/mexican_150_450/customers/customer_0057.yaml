@@ -1,0 +1,10 @@
+id: customer_0057
+name: Mia Patel
+request: 'Please help me find a business that offers all of the following menu items,
+  as I intend to place an order: 1 Chocolate Cinnamon Flan, 1 Honey Chipotle Wings,
+  and 1 Tropical Guava Mint Punch. Thank you for your assistance.'
+menu_features:
+  Chocolate Cinnamon Flan: 5.99
+  Honey Chipotle Wings: 10.99
+  Tropical Guava Mint Punch: 5.99
+amenity_features: []

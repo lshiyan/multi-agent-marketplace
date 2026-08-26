@@ -1,0 +1,43 @@
+id: business_0232
+name: "Cantina Mar y Ma\xEDz"
+description: Experience vibrant modern Mexican and Tex-Mex cuisine in a lively and
+  colorful setting. Our menu features creative takes on classics and fresh, flavorful
+  bites inspired by both land and sea.
+rating: 1.0
+progenitor_customer: customer_0078
+menu_features:
+  Gourmet Nacho Platter: 11.27
+  Grilled Pineapple & Shrimp Quesadillas: 12.25
+  Fajita Veggie Burrito Bowl: 14.35
+  Tamarind-Glazed Ribs: 17.36
+  Chocolate Molten Tamale: 7.39
+  Spicy Black Bean Tacos: 11.49
+  Chocolate Mole Brownie: 7.64
+  Loaded Nacho Skillet: 10.04
+  Creamy Poblano Corn Chowder: 9.39
+  Cactus Cooler Margarita: 10.46
+  Smoky Lime Quinoa Salad: 10.76
+  Horchata Iced Coffee: 4.93
+  Frozen Strawberry Daiquiri: 10.3
+  Spicy Chicken Tortilla Soup: 6.13
+  Grilled Street Corn: 6.53
+  Chili Lime Jicama Sticks: 5.8
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Gourmet Nacho Platter: 9.24
+  Grilled Pineapple & Shrimp Quesadillas: 10.04
+  Fajita Veggie Burrito Bowl: 11.77
+  Tamarind-Glazed Ribs: 14.24
+  Chocolate Molten Tamale: 6.06
+  Spicy Black Bean Tacos: 9.42
+  Chocolate Mole Brownie: 6.26
+  Loaded Nacho Skillet: 8.23
+  Creamy Poblano Corn Chowder: 7.7
+  Cactus Cooler Margarita: 8.58
+  Smoky Lime Quinoa Salad: 8.82
+  Horchata Iced Coffee: 4.04
+  Frozen Strawberry Daiquiri: 8.45
+  Spicy Chicken Tortilla Soup: 5.03
+  Grilled Street Corn: 5.35
+  Chili Lime Jicama Sticks: 4.76

@@ -1,0 +1,11 @@
+id: customer_0006
+name: Daniel Rodriguez
+request: 'Hello, I need assistance finding a restaurant or business that offers the
+  following specific menu items: one ''Stuffed Avocado Delight'' and one ''Classic
+  Lime Margarita''. It is very important that both items are available. Upon locating
+  such a business, I would like to proceed with placing an order for these exact items.
+  Thank you for your help!'
+menu_features:
+  Stuffed Avocado Delight: 7.49
+  Classic Lime Margarita: 8.49
+amenity_features: []

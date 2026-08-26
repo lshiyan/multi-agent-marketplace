@@ -1,0 +1,42 @@
+id: business_0333
+name: La Dulce Mesa Mexicana
+description: La Dulce Mesa Mexicana brings together classic Mexican and Tex-Mex favorites
+  with a modern twist, featuring savory street tacos, cheesy dips, loaded skillets,
+  and indulgent sweet treats. Enjoy bold flavors and creative combinations in a vibrant,
+  welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0111
+menu_features:
+  Rich Chocolate Tamales: 6.7
+  Loaded Nacho Skillet: 9.7
+  Savory Chorizo Street Tacos: 12.87
+  "Cheesy Jalape\xF1o Queso Dip": 7.93
+  Spicy Chipotle Chicken Wrap: 11.64
+  Loaded Sweet Potato Fries: 5.61
+  Horchata Milkshake: 5.0
+  Loaded Nacho Fiesta: 10.55
+  Pineapple Agua Fresca: 4.23
+  Churro Ice Cream Sandwich: 6.51
+  Rich Chocolate Tres Leches: 5.93
+  Mango Habanero Margarita: 11.56
+  Black Bean & Cheese Enchiladas: 9.93
+  Roasted Poblano Veggie Skillet: 10.02
+  Avocado Street Tacos: 11.05
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Rich Chocolate Tamales: 4.09
+  Loaded Nacho Skillet: 5.92
+  Savory Chorizo Street Tacos: 7.85
+  "Cheesy Jalape\xF1o Queso Dip": 4.84
+  Spicy Chipotle Chicken Wrap: 7.1
+  Loaded Sweet Potato Fries: 3.42
+  Horchata Milkshake: 3.05
+  Loaded Nacho Fiesta: 6.44
+  Pineapple Agua Fresca: 2.58
+  Churro Ice Cream Sandwich: 3.97
+  Rich Chocolate Tres Leches: 3.62
+  Mango Habanero Margarita: 7.05
+  Black Bean & Cheese Enchiladas: 6.06
+  Roasted Poblano Veggie Skillet: 6.11
+  Avocado Street Tacos: 6.74

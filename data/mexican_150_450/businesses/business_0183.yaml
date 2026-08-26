@@ -1,0 +1,32 @@
+id: business_0183
+name: Wrap-ture & Relish
+description: Where classic Mexican and Tex-Mex flavors meet a fresh, zesty twist.
+  Enjoy vibrant salads, lively bowls, and sweet treats in a fun and flavorful setting.
+rating: 1.0
+progenitor_customer: customer_0061
+menu_features:
+  Zesty Lime Shrimp Salad: 12.33
+  Passion Fruit Agua Fresca: 3.22
+  Roasted Poblano Rellenos: 16.75
+  Mexican Street Corn Salad: 9.83
+  Jalapeno Mango Margarita: 6.66
+  Sizzling Pork Carnitas Bowl: 12.22
+  Chipotle Bean Burrito: 9.35
+  Zesty Lime Grilled Shrimp: 11.23
+  Rich Chocolate Tamales: 7.41
+  Chili Lime Skirt Steak: 19.41
+  Tex-Mex Fajita Wrap: 13.48
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Zesty Lime Shrimp Salad: 10.97
+  Passion Fruit Agua Fresca: 2.87
+  Roasted Poblano Rellenos: 14.91
+  Mexican Street Corn Salad: 8.75
+  Jalapeno Mango Margarita: 5.93
+  Sizzling Pork Carnitas Bowl: 10.88
+  Chipotle Bean Burrito: 8.32
+  Zesty Lime Grilled Shrimp: 9.99
+  Rich Chocolate Tamales: 6.59
+  Chili Lime Skirt Steak: 17.27
+  Tex-Mex Fajita Wrap: 12.0

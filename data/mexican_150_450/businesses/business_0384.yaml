@@ -1,0 +1,39 @@
+id: business_0384
+name: Chipotle Grove Kitchen
+description: Modern Mexican eats with a smoky twist and vibrant, fresh flavors. Dive
+  into street-style bites, craveable dips, and bold, refreshing drinks in a lively
+  and welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0128
+menu_features:
+  Smoky Chipotle BBQ Nachos: 9.11
+  Tangy Tomato Salsa Soup: 7.3
+  Tamarind Spiced Agua Fresca: 4.4
+  Sizzling Chicken Fajitas: 16.05
+  Stuffed Chicken Poblano: 10.89
+  Savory Chorizo Street Tacos: 9.58
+  Caramelized Onion Queso Dip: 6.6
+  Mini Street Tacos Platter: 10.7
+  Spicy Chicken Chimichanga: 10.42
+  Spicy Beef Chimichangas: 9.82
+  Smoky Chipotle Enchiladas: 14.51
+  Smoky Lime Quinoa Salad: 10.38
+  Pineapple Salsa Pork Tacos: 14.27
+  Creamy Chipotle Pasta: 9.65
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Smoky Chipotle BBQ Nachos: 7.83
+  Tangy Tomato Salsa Soup: 6.28
+  Tamarind Spiced Agua Fresca: 3.78
+  Sizzling Chicken Fajitas: 13.8
+  Stuffed Chicken Poblano: 9.37
+  Savory Chorizo Street Tacos: 8.24
+  Caramelized Onion Queso Dip: 5.68
+  Mini Street Tacos Platter: 9.2
+  Spicy Chicken Chimichanga: 8.96
+  Spicy Beef Chimichangas: 8.45
+  Smoky Chipotle Enchiladas: 12.48
+  Smoky Lime Quinoa Salad: 8.93
+  Pineapple Salsa Pork Tacos: 12.27
+  Creamy Chipotle Pasta: 8.3

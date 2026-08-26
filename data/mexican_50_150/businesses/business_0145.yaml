@@ -1,0 +1,45 @@
+id: business_0145
+name: Chorizo & the Zest
+description: "Chorizo & the Zest puts a lively twist on Mexican and Tex-Mex favorites,\
+  \ blending bold flavors and fresh ingredients in every vibrant dish. From sunrise\
+  \ bites to zesty sips, it\u2019s a flavor adventure from the very first taste."
+rating: 1.0
+progenitor_customer: customer_0049
+menu_features:
+  Al Pastor Pork Tacos: 9.15
+  Cactus Flower Iced Tea: 3.66
+  Chorizo Breakfast Burrito: 7.86
+  Grilled Pineapple Dessert Quesadilla: 7.88
+  Breakfast Chorizo Torta: 9.37
+  Spicy Shrimp Nacho Platter: 9.13
+  Loaded Chorizo Nachos: 9.38
+  Chipotle Lime Chicken Skewers: 12.75
+  Black Bean Breakfast Burrito: 7.51
+  Smoky Chipotle BBQ Ribs: 15.87
+  Crispy Avocado Bites: 8.49
+  Strawberry Jalapeno Lemonade: 5.12
+  Coconut Lime Margarita: 7.55
+  Avocado Lime Crema Tostadas: 8.34
+  Crispy Fish Baja Bowl: 12.29
+  Honey Lime Grilled Chicken: 15.79
+  Jalapeno Mango Margarita: 7.45
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Al Pastor Pork Tacos: 6.86
+  Cactus Flower Iced Tea: 2.75
+  Chorizo Breakfast Burrito: 5.9
+  Grilled Pineapple Dessert Quesadilla: 5.91
+  Breakfast Chorizo Torta: 7.03
+  Spicy Shrimp Nacho Platter: 6.85
+  Loaded Chorizo Nachos: 7.04
+  Chipotle Lime Chicken Skewers: 9.56
+  Black Bean Breakfast Burrito: 5.63
+  Smoky Chipotle BBQ Ribs: 11.9
+  Crispy Avocado Bites: 6.37
+  Strawberry Jalapeno Lemonade: 3.84
+  Coconut Lime Margarita: 5.66
+  Avocado Lime Crema Tostadas: 6.25
+  Crispy Fish Baja Bowl: 9.22
+  Honey Lime Grilled Chicken: 11.84
+  Jalapeno Mango Margarita: 5.59

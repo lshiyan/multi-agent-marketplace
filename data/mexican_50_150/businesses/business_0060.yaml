@@ -1,0 +1,41 @@
+id: business_0060
+name: Ember & Agave
+description: Experience bold, modern Mexican cuisine crafted with fresh ingredients
+  and smoky flavors. Join us for vibrant dishes, inventive drinks, and a warm, welcoming
+  atmosphere.
+rating: 1.0
+progenitor_customer: customer_0020
+menu_features:
+  Chipotle BBQ Tacos: 12.55
+  Roasted Tomato Salsa Dip: 3.69
+  Coffee Cinnamon Mexican Mocha: 4.76
+  Margarita Grilled Chicken: 15.33
+  Stuffed Chicken Poblano: 12.48
+  Roasted Poblano Corn Chowder: 7.85
+  Roasted Red Pepper Quesadilla: 11.65
+  Charred Corn & Cotija Nachos: 6.73
+  Black Bean Taco Bowl: 9.45
+  Caramel Corn Flan: 5.57
+  Cocoa Cinnamon Tequila: 9.93
+  Ancho Chile BBQ Ribs: 18.58
+  Molten Queso Fundido: 8.45
+  Black Bean Street Tacos: 11.32
+  Ancho Chile Beef Chili: 10.99
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Chipotle BBQ Tacos: 8.79
+  Roasted Tomato Salsa Dip: 2.58
+  Coffee Cinnamon Mexican Mocha: 3.33
+  Margarita Grilled Chicken: 10.73
+  Stuffed Chicken Poblano: 8.74
+  Roasted Poblano Corn Chowder: 5.49
+  Roasted Red Pepper Quesadilla: 8.15
+  Charred Corn & Cotija Nachos: 4.71
+  Black Bean Taco Bowl: 6.61
+  Caramel Corn Flan: 3.9
+  Cocoa Cinnamon Tequila: 6.95
+  Ancho Chile BBQ Ribs: 13.01
+  Molten Queso Fundido: 5.91
+  Black Bean Street Tacos: 7.92
+  Ancho Chile Beef Chili: 7.69

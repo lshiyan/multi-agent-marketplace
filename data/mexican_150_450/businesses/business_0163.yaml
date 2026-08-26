@@ -1,0 +1,41 @@
+id: business_0163
+name: Blue Agave Kitchen
+description: A modern Mexican and Tex-Mex eatery offering vibrant flavors, fresh street-inspired
+  bites, and a creative cocktail menu. Experience bold, zesty twists on classic favorites
+  in a lively and welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0055
+menu_features:
+  Blue Corn Tortilla Chips: 5.26
+  Savory Chorizo Street Tacos: 10.19
+  Crispy Avocado Wedges: 7.66
+  Chipotle Lime Chicken Skewers: 11.3
+  Passion Fruit Mojito: 9.94
+  "Spicy Jalape\xF1o Limeade": 3.69
+  Carnitas Breakfast Burrito: 11.21
+  Tequila Lime Shrimp Skewers: 14.12
+  Mango Jalapeno Salsa and Chips: 5.37
+  Zesty Lime Grilled Shrimp: 14.96
+  Honey Lime Chicken Fajitas: 16.51
+  Ancho Chili Braised Beef Enchiladas: 15.7
+  Spicy Mango Margarita: 9.81
+  Tequila Lime Grilled Shrimp: 14.26
+  Crispy Carnitas Quesadilla: 11.51
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Blue Corn Tortilla Chips: 3.52
+  Savory Chorizo Street Tacos: 6.83
+  Crispy Avocado Wedges: 5.13
+  Chipotle Lime Chicken Skewers: 7.57
+  Passion Fruit Mojito: 6.66
+  "Spicy Jalape\xF1o Limeade": 2.47
+  Carnitas Breakfast Burrito: 7.51
+  Tequila Lime Shrimp Skewers: 9.46
+  Mango Jalapeno Salsa and Chips: 3.6
+  Zesty Lime Grilled Shrimp: 10.02
+  Honey Lime Chicken Fajitas: 11.06
+  Ancho Chili Braised Beef Enchiladas: 10.52
+  Spicy Mango Margarita: 6.57
+  Tequila Lime Grilled Shrimp: 9.55
+  Crispy Carnitas Quesadilla: 7.71

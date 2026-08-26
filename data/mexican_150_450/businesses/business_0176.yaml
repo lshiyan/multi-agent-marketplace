@@ -1,0 +1,35 @@
+id: business_0176
+name: Urban Agave Kitchen
+description: Urban Agave Kitchen serves up fresh, bold Mexican and Tex-Mex flavors
+  in a vibrant, modern setting. Enjoy crave-worthy classics and inventive specialties,
+  perfectly paired with house-made drinks.
+rating: 1.0
+progenitor_customer: customer_0059
+menu_features:
+  Crispy Avocado Bites: 8.47
+  Fresh Mint Mojito: 9.39
+  Baja Fish Burrito: 11.4
+  Ancho Chile Beef Chili: 11.83
+  Carnitas Breakfast Burrito: 10.54
+  Mango Habanero Wings: 12.58
+  Savory Chorizo Street Tacos: 8.29
+  Sizzling Fajita Plate: 13.26
+  Crispy Avocado Burrito: 10.27
+  Midnight Mole Enchiladas: 14.25
+  Tequila Lime Shrimp Skewers: 15.69
+  Pineapple Agua Fresca: 4.12
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Crispy Avocado Bites: 7.11
+  Fresh Mint Mojito: 7.89
+  Baja Fish Burrito: 9.58
+  Ancho Chile Beef Chili: 9.94
+  Carnitas Breakfast Burrito: 8.85
+  Mango Habanero Wings: 10.57
+  Savory Chorizo Street Tacos: 6.96
+  Sizzling Fajita Plate: 11.14
+  Crispy Avocado Burrito: 8.63
+  Midnight Mole Enchiladas: 11.97
+  Tequila Lime Shrimp Skewers: 13.18
+  Pineapple Agua Fresca: 3.46

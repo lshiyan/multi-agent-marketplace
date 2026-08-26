@@ -1,0 +1,47 @@
+id: business_0091
+name: Pineapple & Paleta Patio
+description: A vibrant spot serving fresh, flavor-packed Mexican and Tex-Mex fare,
+  from tangy salsas to creative margaritas and refreshing paletas. Enjoy bold, tropical
+  tastes and inventive dishes in a fun, relaxed atmosphere.
+rating: 1.0
+progenitor_customer: customer_0031
+menu_features:
+  Queso Fundido with Chorizo: 8.46
+  Honey-Lime Shrimp Skewers: 16.83
+  Verde Ranchero Huevos: 10.5
+  Pineapple Habanero Margarita: 10.03
+  Avocado Lime Crema Tostadas: 9.63
+  Crispy Avocado and Lime Tacos: 12.12
+  Frozen Mango Margarita: 9.14
+  Pineapple Salsa Nachos: 11.81
+  Spicy Pineapple Chipotle Margarita: 9.98
+  Coconut Lime Paleta: 3.02
+  Vanilla Almond Horchata: 3.73
+  Black Bean & Corn Enchiladas: 9.64
+  Smoky Chipotle BBQ Nachos: 9.37
+  Fresh Watermelon Aqua Fresca: 4.2
+  Breakfast Chorizo Tostadas: 7.7
+  Roasted Poblano Veggie Skillet: 7.83
+  Grilled Pineapple and Pork Tacos: 11.62
+  Molten Queso Fundido: 7.38
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Queso Fundido with Chorizo: 7.28
+  Honey-Lime Shrimp Skewers: 14.47
+  Verde Ranchero Huevos: 9.03
+  Pineapple Habanero Margarita: 8.63
+  Avocado Lime Crema Tostadas: 8.28
+  Crispy Avocado and Lime Tacos: 10.42
+  Frozen Mango Margarita: 7.86
+  Pineapple Salsa Nachos: 10.16
+  Spicy Pineapple Chipotle Margarita: 8.58
+  Coconut Lime Paleta: 2.6
+  Vanilla Almond Horchata: 3.21
+  Black Bean & Corn Enchiladas: 8.29
+  Smoky Chipotle BBQ Nachos: 8.06
+  Fresh Watermelon Aqua Fresca: 3.61
+  Breakfast Chorizo Tostadas: 6.62
+  Roasted Poblano Veggie Skillet: 6.73
+  Grilled Pineapple and Pork Tacos: 9.99
+  Molten Queso Fundido: 6.35

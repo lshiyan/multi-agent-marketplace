@@ -1,0 +1,42 @@
+id: business_0056
+name: Paprika & Palms
+description: Paprika & Palms brings a modern twist to classic Mexican and Tex-Mex
+  flavors, blending fresh ingredients and bold spices in a vibrant, welcoming setting.
+  Experience an inspired menu of savory and sweet dishes, perfect for sharing and
+  savoring.
+rating: 1.0
+progenitor_customer: customer_0019
+menu_features:
+  Chocolate Mole Chicken: 12.67
+  Citrus Cilantro Rice: 5.6
+  Cactus Jack Quesadilla: 10.16
+  Tequila Lime Shrimp Skewers: 15.2
+  Cinnamon Churro Bites: 6.4
+  Classic Beef Tacos with Zesty Slaw: 8.83
+  Verde Chicken Enchiladas: 12.73
+  Spicy Black Bean Nacho Platter: 9.18
+  Pineapple Habanero Sake: 8.37
+  Cheesy Jalapeno Queso: 6.32
+  Coconut Flan Delight: 8.09
+  Loaded Nacho Skillet: 12.4
+  Spicy Beef Empanadas: 9.04
+  Sweet Plantain Empanadas: 8.19
+  Street Corn Elote: 4.8
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Chocolate Mole Chicken: 11.4
+  Citrus Cilantro Rice: 5.04
+  Cactus Jack Quesadilla: 9.14
+  Tequila Lime Shrimp Skewers: 13.68
+  Cinnamon Churro Bites: 5.76
+  Classic Beef Tacos with Zesty Slaw: 7.95
+  Verde Chicken Enchiladas: 11.46
+  Spicy Black Bean Nacho Platter: 8.26
+  Pineapple Habanero Sake: 7.53
+  Cheesy Jalapeno Queso: 5.69
+  Coconut Flan Delight: 7.28
+  Loaded Nacho Skillet: 11.16
+  Spicy Beef Empanadas: 8.14
+  Sweet Plantain Empanadas: 7.37
+  Street Corn Elote: 4.32

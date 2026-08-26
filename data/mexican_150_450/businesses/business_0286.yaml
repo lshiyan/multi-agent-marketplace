@@ -1,0 +1,39 @@
+id: business_0286
+name: La Mesa Tropical
+description: Enjoy the vibrant flavors of Mexican and Tex-Mex cuisine with a fresh,
+  modern twist at La Mesa Tropical. From creamy dips to grilled specialties and refreshing
+  coolers, every bite celebrates bold tastes and bright ingredients.
+rating: 1.0
+progenitor_customer: customer_0096
+menu_features:
+  Caramelized Onion Queso Dip: 7.02
+  Pineapple Tequila Chicken Skewers: 14.99
+  Pineapple Chipotle Salsa & Chips: 6.87
+  Creamy Poblano Corn Chowder: 8.41
+  Creamy Avocado Caesar Salad: 9.21
+  Sunset Grilled Veggie Tacos: 11.62
+  Chili Lime Watermelon Salad: 9.37
+  Guava Limeade Cooler: 4.58
+  Black Bean and Corn Fiesta Salad: 9.36
+  Black Bean Street Tacos: 8.31
+  Spiced Chocolate Flan: 5.4
+  Avocado Lime Salsa: 5.52
+  Chipotle BBQ Tacos: 10.37
+  Passionfruit Agua Fresca: 4.08
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Caramelized Onion Queso Dip: 5.19
+  Pineapple Tequila Chicken Skewers: 11.09
+  Pineapple Chipotle Salsa & Chips: 5.08
+  Creamy Poblano Corn Chowder: 6.22
+  Creamy Avocado Caesar Salad: 6.82
+  Sunset Grilled Veggie Tacos: 8.6
+  Chili Lime Watermelon Salad: 6.93
+  Guava Limeade Cooler: 3.39
+  Black Bean and Corn Fiesta Salad: 6.93
+  Black Bean Street Tacos: 6.15
+  Spiced Chocolate Flan: 4.0
+  Avocado Lime Salsa: 4.08
+  Chipotle BBQ Tacos: 7.67
+  Passionfruit Agua Fresca: 3.02

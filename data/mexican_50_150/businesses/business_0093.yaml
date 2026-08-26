@@ -1,0 +1,45 @@
+id: business_0093
+name: The Guac Spot
+description: A vibrant destination for fresh, zesty Mexican and Tex-Mex cuisine with
+  a creative twist. Dive into bold flavors, crisp veggies, and a playful atmosphere
+  where every meal is a fiesta.
+rating: 1.0
+progenitor_customer: customer_0031
+menu_features:
+  Coconut Lime Paleta: 4.27
+  Crispy Avocado and Lime Tacos: 11.68
+  Avocado Lime Salsa: 5.12
+  Pineapple Pico de Gallo Nachos: 12.12
+  "Strawberry Jalape\xF1o Mocktail": 6.28
+  "Cheesy Jalape\xF1o Quesadillas": 9.26
+  Stuffed Poblano Peppers: 11.96
+  Vanilla Almond Horchata: 4.65
+  Breakfast Burrito Supreme: 7.96
+  Black Bean and Lime Soup: 7.32
+  Creamy Avocado Smoothie: 4.81
+  Tomatillo Ranch Enchiladas: 15.22
+  Black Bean Avocado Enchiladas: 12.63
+  Black Bean and Cilantro Rice: 4.09
+  Jicama and Citrus Salad: 8.04
+  Smoky Chipotle Steak Fajitas: 17.35
+  Zesty Lime Shrimp Skewers: 15.28
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Coconut Lime Paleta: 3.29
+  Crispy Avocado and Lime Tacos: 8.99
+  Avocado Lime Salsa: 3.94
+  Pineapple Pico de Gallo Nachos: 9.33
+  "Strawberry Jalape\xF1o Mocktail": 4.84
+  "Cheesy Jalape\xF1o Quesadillas": 7.13
+  Stuffed Poblano Peppers: 9.21
+  Vanilla Almond Horchata: 3.58
+  Breakfast Burrito Supreme: 6.13
+  Black Bean and Lime Soup: 5.64
+  Creamy Avocado Smoothie: 3.7
+  Tomatillo Ranch Enchiladas: 11.72
+  Black Bean Avocado Enchiladas: 9.73
+  Black Bean and Cilantro Rice: 3.15
+  Jicama and Citrus Salad: 6.19
+  Smoky Chipotle Steak Fajitas: 13.36
+  Zesty Lime Shrimp Skewers: 11.77

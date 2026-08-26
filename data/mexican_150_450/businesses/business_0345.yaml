@@ -1,0 +1,41 @@
+id: business_0345
+name: La Frescura Mexicana
+description: Discover vibrant flavors and inventive classics at La Frescura Mexicana,
+  where every dish celebrates the lively spirit of Mexican and Tex-Mex cuisine. Enjoy
+  a welcoming atmosphere, bold tastes, and fresh ingredients in every bite.
+rating: 1.0
+progenitor_customer: customer_0115
+menu_features:
+  Sweet Chili Lime Elote: 4.94
+  Citrus Cilantro Rice: 3.74
+  Coconut Tres Leches: 7.03
+  Citrus Marinated Carne Asada: 14.58
+  Black Bean Sweet Potato Burrito: 11.41
+  Beef Fajita Skillet: 15.45
+  Green Chile Cheesesteak: 12.92
+  Street Style Quesadillas: 9.64
+  Spicy Black Bean Nachos: 10.84
+  Chocolate Mole Brownie: 7.55
+  Roasted Poblano Rellenos: 17.5
+  Chipotle Lime Chicken Salad: 10.14
+  Avocado Ranch Burrito Bowl: 16.09
+  Avocado Lime Crema Tostadas: 8.75
+  Blue Agave Tequila Sunrise: 11.14
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Sweet Chili Lime Elote: 3.16
+  Citrus Cilantro Rice: 2.39
+  Coconut Tres Leches: 4.5
+  Citrus Marinated Carne Asada: 9.33
+  Black Bean Sweet Potato Burrito: 7.3
+  Beef Fajita Skillet: 9.89
+  Green Chile Cheesesteak: 8.27
+  Street Style Quesadillas: 6.17
+  Spicy Black Bean Nachos: 6.94
+  Chocolate Mole Brownie: 4.83
+  Roasted Poblano Rellenos: 11.2
+  Chipotle Lime Chicken Salad: 6.49
+  Avocado Ranch Burrito Bowl: 10.3
+  Avocado Lime Crema Tostadas: 5.6
+  Blue Agave Tequila Sunrise: 7.13

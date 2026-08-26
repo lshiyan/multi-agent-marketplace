@@ -1,0 +1,11 @@
+id: customer_0035
+name: Isabella Patel
+request: 'Could you please help me find a business that offers the following menu
+  items so I can place an order: 1 Poblano Pepper Queso Dip, 1 Chipotle Lime Shrimp
+  Taco, and 1 Creamy Chipotle Pasta? It''s important that all items are available
+  from the same place. Thank you!'
+menu_features:
+  Poblano Pepper Queso Dip: 6.99
+  Chipotle Lime Shrimp Tacos: 13.49
+  Creamy Chipotle Pasta: 10.99
+amenity_features: []

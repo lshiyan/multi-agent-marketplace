@@ -1,0 +1,37 @@
+id: business_0018
+name: Mucho Avo About Nothing
+description: Dive into a world of bold Mexican and Tex-Mex flavors with a fresh twist
+  at Mucho Avo About Nothing. From sizzling classics to inventive, avocado-inspired
+  creations, every bite is a fiesta for your senses!
+rating: 1.0
+progenitor_customer: customer_0006
+menu_features:
+  Avocado Lime Salad: 8.67
+  Poblano Pepper Queso Dip: 6.61
+  Black Bean Taco Bowl: 9.53
+  Avocado Ranch Burrito Bowl: 11.94
+  Avocado Lime Enchiladas: 12.42
+  Tropical Guava Mint Punch: 5.16
+  Pumpkin Spice Flan: 5.65
+  Choco-Chili Volcano Cake: 6.94
+  Coconut Lime Tres Leches: 7.57
+  Hatch Green Chile Burger: 16.02
+  Sizzling Steak Fajitas: 13.22
+  Midnight Mole Enchiladas: 17.44
+  Bacon Wrapped Jalapeno Bites: 4.93
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Avocado Lime Salad: 7.89
+  Poblano Pepper Queso Dip: 6.02
+  Black Bean Taco Bowl: 8.67
+  Avocado Ranch Burrito Bowl: 10.87
+  Avocado Lime Enchiladas: 11.3
+  Tropical Guava Mint Punch: 4.7
+  Pumpkin Spice Flan: 5.14
+  Choco-Chili Volcano Cake: 6.32
+  Coconut Lime Tres Leches: 6.89
+  Hatch Green Chile Burger: 14.58
+  Sizzling Steak Fajitas: 12.03
+  Midnight Mole Enchiladas: 15.87
+  Bacon Wrapped Jalapeno Bites: 4.49

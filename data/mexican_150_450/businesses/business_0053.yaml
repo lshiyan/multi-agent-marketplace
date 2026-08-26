@@ -1,0 +1,37 @@
+id: business_0053
+name: La Mariposa Mexicana
+description: Step into a vibrant atmosphere where classic Mexican and Tex-Mex flavors
+  come alive with a modern twist. Enjoy fresh, colorful dishes and refreshing beverages
+  inspired by tradition and innovation alike.
+rating: 1.0
+progenitor_customer: customer_0018
+menu_features:
+  Coconut Lime Rice Bowl: 10.27
+  Blue Corn Tortilla Soup: 6.79
+  Tangy Tomato Salsa Soup: 8.42
+  Grilled Pineapple Mojito: 8.53
+  Raspberry Jalapeno Mojito: 9.72
+  Verde Chicken Enchiladas: 12.31
+  Classic Horchata Smoothie: 4.82
+  Creamy Queso Dip: 6.74
+  Chocolate Molten Tamale: 5.63
+  Smoky Lime Quinoa Salad: 11.93
+  Fresh Corn Elote: 4.53
+  Cactus Flower Iced Tea: 4.32
+  Crispy Fish Street Tacos: 15.65
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Coconut Lime Rice Bowl: 6.78
+  Blue Corn Tortilla Soup: 4.48
+  Tangy Tomato Salsa Soup: 5.56
+  Grilled Pineapple Mojito: 5.63
+  Raspberry Jalapeno Mojito: 6.42
+  Verde Chicken Enchiladas: 8.12
+  Classic Horchata Smoothie: 3.18
+  Creamy Queso Dip: 4.45
+  Chocolate Molten Tamale: 3.72
+  Smoky Lime Quinoa Salad: 7.87
+  Fresh Corn Elote: 2.99
+  Cactus Flower Iced Tea: 2.85
+  Crispy Fish Street Tacos: 10.33

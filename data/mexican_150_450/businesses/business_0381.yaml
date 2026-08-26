@@ -1,0 +1,37 @@
+id: business_0381
+name: "Chil\xE9 & Cheddar Modern Mex"
+description: A vibrant spot where bold chiles meet melty cheese, serving up creative
+  Mexican and Tex-Mex classics in a fresh, modern atmosphere. Enjoy a menu packed
+  with zesty flavors, savory dips, and signature bites inspired by regional favorites.
+rating: 1.0
+progenitor_customer: customer_0127
+menu_features:
+  Spicy Chipotle Chicken Wrap: 11.55
+  Baja Fish Tacos: 13.63
+  "Cheesy Jalape\xF1o Queso Dip": 7.6
+  Tamarind Ginger Cooler: 5.33
+  Hatch Chile Queso Dip: 7.34
+  Spiced Chocolate Flan: 8.05
+  Baja Fish Taco Plate: 11.66
+  Spicy Chicken Tortilla Soup: 4.87
+  Hatch Green Chile Stew: 12.11
+  Spicy Pork Tamales: 11.97
+  Spicy Black Bean and Cheese Quesadilla: 9.51
+  Chipotle Chicken Enchiladas: 13.59
+  Spicy Chipotle Chicken Wings: 11.11
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Spicy Chipotle Chicken Wrap: 7.85
+  Baja Fish Tacos: 9.27
+  "Cheesy Jalape\xF1o Queso Dip": 5.17
+  Tamarind Ginger Cooler: 3.62
+  Hatch Chile Queso Dip: 4.99
+  Spiced Chocolate Flan: 5.47
+  Baja Fish Taco Plate: 7.93
+  Spicy Chicken Tortilla Soup: 3.31
+  Hatch Green Chile Stew: 8.23
+  Spicy Pork Tamales: 8.14
+  Spicy Black Bean and Cheese Quesadilla: 6.47
+  Chipotle Chicken Enchiladas: 9.24
+  Spicy Chipotle Chicken Wings: 7.55

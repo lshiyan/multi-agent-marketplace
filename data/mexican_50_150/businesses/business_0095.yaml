@@ -1,0 +1,39 @@
+id: business_0095
+name: Lively Lime Cantina
+description: A vibrant spot serving bold Tex-Mex and modern Mexican fare with fresh
+  flavors and a creative twist. Enjoy a festive atmosphere with zesty bites and refreshing
+  drinks.
+rating: 1.0
+progenitor_customer: customer_0032
+menu_features:
+  Cheesy Jalapeno Poppers: 8.12
+  Roasted Pecan Flan: 3.95
+  Grilled Pineapple Salmon: 17.96
+  Strawberry Jalapeno Lemonade: 3.36
+  Creamy Avocado Caesar Salad: 10.38
+  Chili Lime Street Corn: 7.75
+  Blueberry Mint Agua Fresca: 4.24
+  Zesty Lime Grilled Chicken: 13.38
+  Blueberry Jalapeno Lemonade: 3.76
+  Spiced Agave Margarita: 9.86
+  Roasted Corn and Avocado Salad: 8.39
+  Roasted Poblano Quesadilla: 7.87
+  Mango Habanero Wings: 11.83
+  Sizzling Fajita Fiesta: 14.44
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Cheesy Jalapeno Poppers: 6.82
+  Roasted Pecan Flan: 3.32
+  Grilled Pineapple Salmon: 15.09
+  Strawberry Jalapeno Lemonade: 2.82
+  Creamy Avocado Caesar Salad: 8.72
+  Chili Lime Street Corn: 6.51
+  Blueberry Mint Agua Fresca: 3.56
+  Zesty Lime Grilled Chicken: 11.24
+  Blueberry Jalapeno Lemonade: 3.16
+  Spiced Agave Margarita: 8.28
+  Roasted Corn and Avocado Salad: 7.05
+  Roasted Poblano Quesadilla: 6.61
+  Mango Habanero Wings: 9.94
+  Sizzling Fajita Fiesta: 12.13

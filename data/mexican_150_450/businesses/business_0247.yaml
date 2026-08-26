@@ -1,0 +1,33 @@
+id: business_0247
+name: "Choco-Mol\xE9-sion Course"
+description: "Dive into a flavorful fusion of classic and creative Mexican and Tex-Mex\
+  \ fare. From sweet to spicy, our dishes bring together bold tastes and vibrant spirits\u2014\
+  perfect for sharing and savoring."
+rating: 1.0
+progenitor_customer: customer_0083
+menu_features:
+  Chocolate Mole Brownie: 6.4
+  Zesty Shrimp Quesadillas: 14.0
+  Honey-Lime Shrimp Skewers: 18.77
+  Roasted Corn and Black Bean Salad: 8.31
+  Gourmet Nacho Platter: 10.17
+  Classic Beef Barbacoa: 11.8
+  Chocolate Churro Bites: 5.36
+  "Blueberry Jalape\xF1o Margarita": 13.17
+  Chorizo and Egg Tacos: 7.03
+  Spicy Black Bean Enchiladas: 11.72
+  Spicy Shrimp Fajitas: 14.14
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Chocolate Mole Brownie: 4.1
+  Zesty Shrimp Quesadillas: 8.96
+  Honey-Lime Shrimp Skewers: 12.01
+  Roasted Corn and Black Bean Salad: 5.32
+  Gourmet Nacho Platter: 6.51
+  Classic Beef Barbacoa: 7.55
+  Chocolate Churro Bites: 3.43
+  "Blueberry Jalape\xF1o Margarita": 8.43
+  Chorizo and Egg Tacos: 4.5
+  Spicy Black Bean Enchiladas: 7.5
+  Spicy Shrimp Fajitas: 9.05

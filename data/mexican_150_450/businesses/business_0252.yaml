@@ -1,0 +1,37 @@
+id: business_0252
+name: Tostada the Town
+description: Bringing bold, vibrant Mexican and Tex-Mex flavors together with a playful
+  twist, Tostada the Town serves up zesty meals and fresh sips that are sure to brighten
+  your day. Come for the flavor, stay for the fiesta!
+rating: 1.0
+progenitor_customer: customer_0084
+menu_features:
+  Fresh Limeade: 2.86
+  Breakfast Chorizo Tostadas: 10.2
+  Guava Limeade Cooler: 5.28
+  Hatch Green Chile Rice: 4.78
+  Smoky Chipotle Quesadillas: 10.64
+  Smoky Lime Quinoa Salad: 10.69
+  Creamy Avocado Smoothie: 5.08
+  Tequila Lime Grilled Shrimp: 13.82
+  Chili Lime Skirt Steak: 16.61
+  Twice-Baked Sweet Potato: 5.24
+  Salted Caramel Margarita: 8.35
+  Breakfast Burrito Bowl: 5.68
+  Zesty Lime Shrimp Salad: 9.95
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Fresh Limeade: 2.49
+  Breakfast Chorizo Tostadas: 8.87
+  Guava Limeade Cooler: 4.59
+  Hatch Green Chile Rice: 4.16
+  Smoky Chipotle Quesadillas: 9.26
+  Smoky Lime Quinoa Salad: 9.3
+  Creamy Avocado Smoothie: 4.42
+  Tequila Lime Grilled Shrimp: 12.02
+  Chili Lime Skirt Steak: 14.45
+  Twice-Baked Sweet Potato: 4.56
+  Salted Caramel Margarita: 7.26
+  Breakfast Burrito Bowl: 4.94
+  Zesty Lime Shrimp Salad: 8.66

@@ -1,0 +1,38 @@
+id: business_0159
+name: La Mesa del Rancho
+description: Experience the vibrant flavors of Mexico and the Southwest at La Mesa
+  del Rancho, where fresh ingredients and time-honored traditions come together. Enjoy
+  an inviting atmosphere and a menu filled with bold, comforting classics for every
+  appetite.
+rating: 1.0
+progenitor_customer: customer_0053
+menu_features:
+  Avocado Lime Crema Tostadas: 10.62
+  Crispy Avocado and Lime Tacos: 11.24
+  Classic Beef Barbacoa: 15.95
+  Housemade Horchata: 3.59
+  Rich Chocolate Tamales: 8.98
+  Classic Tortilla Soup: 6.37
+  Spicy Black Bean and Cheese Quesadilla: 9.8
+  Breakfast Chorizo Tostadas: 9.11
+  Bacon and Egg Tostada: 8.35
+  Roasted Corn and Black Bean Salad: 7.45
+  Charred Corn and Black Bean Salad: 9.27
+  Chili Lime Skirt Steak: 21.43
+  Breakfast Chorizo Torta: 9.32
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Avocado Lime Crema Tostadas: 9.13
+  Crispy Avocado and Lime Tacos: 9.67
+  Classic Beef Barbacoa: 13.72
+  Housemade Horchata: 3.09
+  Rich Chocolate Tamales: 7.72
+  Classic Tortilla Soup: 5.48
+  Spicy Black Bean and Cheese Quesadilla: 8.43
+  Breakfast Chorizo Tostadas: 7.83
+  Bacon and Egg Tostada: 7.18
+  Roasted Corn and Black Bean Salad: 6.41
+  Charred Corn and Black Bean Salad: 7.97
+  Chili Lime Skirt Steak: 18.43
+  Breakfast Chorizo Torta: 8.02

@@ -1,0 +1,39 @@
+id: business_0075
+name: Zest & Ember Table
+description: A modern Mexican and Tex-Mex kitchen serving up vibrant flavors and creative
+  twists on classic fare. Enjoy fresh street-inspired eats, bold spices, and sweet
+  treats in a contemporary, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0025
+menu_features:
+  Pineapple Salsa Nachos: 9.92
+  Ancho Honey-Glazed Salmon: 17.06
+  Street Corn Fritters: 6.9
+  Tangy Tomato Salsa Soup: 8.65
+  Vanilla Flan Delight: 4.45
+  Chocolate Molten Tamale: 8.04
+  Savory Chorizo Street Tacos: 9.34
+  Spiced Chocolate Flan: 9.48
+  Tex-Mex Breakfast Skillet: 8.91
+  Ancho Chili Rubbed Steak: 15.04
+  Coconut Lime Shrimp Skewers: 16.19
+  Roasted Pumpkin Tamale: 7.87
+  Honey Lime Grilled Chicken: 14.38
+  Honey Lime Chicken Skewers: 14.45
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Pineapple Salsa Nachos: 7.34
+  Ancho Honey-Glazed Salmon: 12.62
+  Street Corn Fritters: 5.11
+  Tangy Tomato Salsa Soup: 6.4
+  Vanilla Flan Delight: 3.29
+  Chocolate Molten Tamale: 5.95
+  Savory Chorizo Street Tacos: 6.91
+  Spiced Chocolate Flan: 7.02
+  Tex-Mex Breakfast Skillet: 6.59
+  Ancho Chili Rubbed Steak: 11.13
+  Coconut Lime Shrimp Skewers: 11.98
+  Roasted Pumpkin Tamale: 5.82
+  Honey Lime Grilled Chicken: 10.64
+  Honey Lime Chicken Skewers: 10.69

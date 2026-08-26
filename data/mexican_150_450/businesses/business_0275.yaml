@@ -1,0 +1,43 @@
+id: business_0275
+name: Mole Lotta Love
+description: Experience a flavorful fiesta where rich moles, zesty tostadas, spiced
+  sweets, and creative cocktails come together in a celebration of Mexican and Tex-Mex
+  favorites. A cozy, vibrant spot for foodies seeking bold tastes from brunch to dessert.
+rating: 1.0
+progenitor_customer: customer_0092
+menu_features:
+  Avocado Lime Crema Tostadas: 9.53
+  Chocolate Mole Brownie: 6.97
+  Midnight Mole Enchiladas: 15.49
+  Roasted Poblano Queso Dip: 9.56
+  Warm Cinnamon Churros: 7.2
+  Pineapple Jalapeno Margarita: 9.6
+  Ancho Chile Chicken Salad: 9.49
+  Chipotle Lime Shrimp Tacos: 12.76
+  Tamarind Spiced Agua Fresca: 3.11
+  Choco-Chili Volcano Cake: 6.44
+  Classic Beef Enchiladas: 12.02
+  Rich Chocolate Tamales: 6.6
+  Sweet Corn Tostadas: 9.1
+  Grilled Pineapple Mojito: 7.39
+  Spicy Chicken Chimichanga: 11.16
+  Breakfast Chorizo Tostadas: 9.8
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Avocado Lime Crema Tostadas: 7.34
+  Chocolate Mole Brownie: 5.37
+  Midnight Mole Enchiladas: 11.93
+  Roasted Poblano Queso Dip: 7.36
+  Warm Cinnamon Churros: 5.54
+  Pineapple Jalapeno Margarita: 7.39
+  Ancho Chile Chicken Salad: 7.31
+  Chipotle Lime Shrimp Tacos: 9.83
+  Tamarind Spiced Agua Fresca: 2.39
+  Choco-Chili Volcano Cake: 4.96
+  Classic Beef Enchiladas: 9.26
+  Rich Chocolate Tamales: 5.08
+  Sweet Corn Tostadas: 7.01
+  Grilled Pineapple Mojito: 5.69
+  Spicy Chicken Chimichanga: 8.59
+  Breakfast Chorizo Tostadas: 7.55

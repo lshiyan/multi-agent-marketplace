@@ -1,0 +1,41 @@
+id: business_0449
+name: "El Para\xEDso Picante"
+description: "Experience vibrant flavors and a warm, lively atmosphere at El Para\xED\
+  so Picante. Enjoy a creative array of Mexican and Tex-Mex dishes paired with refreshing,\
+  \ handcrafted drinks."
+rating: 1.0
+progenitor_customer: customer_0150
+menu_features:
+  Spicy Mango Margarita: 8.31
+  Horchata Iced Latte: 5.84
+  Spicy Black Bean Nacho Platter: 13.87
+  Hatch Green Chile Stew: 13.08
+  Grilled Pineapple Salmon: 19.48
+  Tequila Lime Flan: 5.88
+  Black Bean Sweet Potato Burrito: 7.91
+  Black Bean & Corn Queso Dip: 8.23
+  Creamy Avocado Smoothie: 5.01
+  "Cheesy Jalape\xF1o Queso Dip": 7.52
+  Stuffed Poblano Peppers: 15.1
+  "Blueberry Jalape\xF1o Margarita": 10.46
+  Zesty Lime Shrimp Salad: 12.99
+  Loaded Nacho Fries: 7.74
+  Mango Habanero Wings: 9.97
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Spicy Mango Margarita: 6.15
+  Horchata Iced Latte: 4.32
+  Spicy Black Bean Nacho Platter: 10.26
+  Hatch Green Chile Stew: 9.68
+  Grilled Pineapple Salmon: 14.42
+  Tequila Lime Flan: 4.35
+  Black Bean Sweet Potato Burrito: 5.85
+  Black Bean & Corn Queso Dip: 6.09
+  Creamy Avocado Smoothie: 3.71
+  "Cheesy Jalape\xF1o Queso Dip": 5.56
+  Stuffed Poblano Peppers: 11.17
+  "Blueberry Jalape\xF1o Margarita": 7.74
+  Zesty Lime Shrimp Salad: 9.61
+  Loaded Nacho Fries: 5.73
+  Mango Habanero Wings: 7.38

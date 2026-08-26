@@ -1,0 +1,37 @@
+id: business_0022
+name: Pine & Poblano
+description: "Bright, bold, and fresh\u2014Pine & Poblano serves up modern Mexican\
+  \ and Tex-Mex favorites with a vibrant twist. Enjoy handcrafted sips, flavorful\
+  \ appetizers, and sizzling specialties all in a lively, welcoming setting."
+rating: 1.0
+progenitor_customer: customer_0008
+menu_features:
+  Pineapple Agua Fresca: 3.82
+  Cactus Flower Iced Tea: 3.71
+  Pineapple Chipotle Salsa & Chips: 6.63
+  Creamy Jalapeno Corn Fritters: 6.56
+  Creamy Poblano Corn Chowder: 8.12
+  Strawberry Jalapeno Lemonade: 4.06
+  Grilled Pineapple & Shrimp Quesadillas: 11.88
+  Spiced Churro Bites: 5.57
+  Beef Enchiladas Verdes: 15.11
+  Creamy Avocado Caesar Salad: 12.21
+  Hatch Chile Queso Dip: 10.36
+  Zesty Lime Chicken Fajitas: 16.89
+  Grilled Steak Quesadilla: 11.89
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Pineapple Agua Fresca: 2.41
+  Cactus Flower Iced Tea: 2.34
+  Pineapple Chipotle Salsa & Chips: 4.18
+  Creamy Jalapeno Corn Fritters: 4.13
+  Creamy Poblano Corn Chowder: 5.12
+  Strawberry Jalapeno Lemonade: 2.56
+  Grilled Pineapple & Shrimp Quesadillas: 7.48
+  Spiced Churro Bites: 3.51
+  Beef Enchiladas Verdes: 9.52
+  Creamy Avocado Caesar Salad: 7.69
+  Hatch Chile Queso Dip: 6.53
+  Zesty Lime Chicken Fajitas: 10.64
+  Grilled Steak Quesadilla: 7.49

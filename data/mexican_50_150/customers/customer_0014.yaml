@@ -1,0 +1,9 @@
+id: customer_0014
+name: Juan Rodriguez
+request: Could you please find a business that serves both 'Mexican Hot Chocolate'
+  and 'Blue Corn Enchilada Bake' and place an order for 1 of each? These items are
+  essential and I intend to purchase them. Thank you for your assistance.
+menu_features:
+  Mexican Hot Chocolate: 4.99
+  Blue Corn Enchilada Bake: 13.49
+amenity_features: []

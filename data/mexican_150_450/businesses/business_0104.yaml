@@ -1,0 +1,35 @@
+id: business_0104
+name: Churr-innovation
+description: A fresh twist on Mexican and Tex-Mex favorites where zesty, spicy, and
+  sweet creations come together in every bite. Savor a lively menu of grilled specialties,
+  bold dips, and inventive desserts in a vibrant, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0035
+menu_features:
+  Zesty Lime Grilled Chicken: 15.34
+  Ultimate Nacho Platter: 8.69
+  Avocado Lime Quinoa Bowl: 9.64
+  Cinnamon Sugar Churros: 5.71
+  Chocolate Molten Tamale: 7.66
+  Cheesy Jalapeno Queso: 9.52
+  Hatch Green Chile Quesadilla: 14.04
+  Chili Lime Skirt Steak: 21.07
+  Avocado Lime Dip: 6.87
+  Loaded Chorizo Nachos: 10.54
+  Golden Tequila Sunrise: 9.08
+  Avocado Lime Cheesecake: 7.71
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Zesty Lime Grilled Chicken: 11.66
+  Ultimate Nacho Platter: 6.6
+  Avocado Lime Quinoa Bowl: 7.33
+  Cinnamon Sugar Churros: 4.34
+  Chocolate Molten Tamale: 5.82
+  Cheesy Jalapeno Queso: 7.24
+  Hatch Green Chile Quesadilla: 10.67
+  Chili Lime Skirt Steak: 16.01
+  Avocado Lime Dip: 5.22
+  Loaded Chorizo Nachos: 8.01
+  Golden Tequila Sunrise: 6.9
+  Avocado Lime Cheesecake: 5.86

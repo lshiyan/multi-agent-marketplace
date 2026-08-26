@@ -1,0 +1,38 @@
+id: business_0155
+name: Enchilada & Ember
+description: A vibrant destination for bold flavors, Enchilada & Ember serves up classic
+  and contemporary Mexican and Tex-Mex favorites in a lively, welcoming setting. Savor
+  comforting enchiladas, zesty salads, and irresistible sweet treats infused with
+  a signature smoky twist.
+rating: 1.0
+progenitor_customer: customer_0052
+menu_features:
+  Classic Beef Enchiladas: 9.15
+  Chipotle Lime Shrimp Skewers: 12.88
+  Spicy Pork Tamales: 11.31
+  Tamale Trio Sampler: 13.35
+  Loaded Nacho Bowl: 10.19
+  Chocolate Mole Chicken: 19.01
+  Mini Street Tacos Platter: 11.13
+  Loaded Nacho Skillet: 8.07
+  Ancho Chili Braised Beef Enchiladas: 15.84
+  Southwestern Quinoa Salad: 10.51
+  Choco-Chili Volcano Cake: 8.46
+  Cinnamon Churro Bites: 4.46
+  Breakfast Chorizo Torta: 11.6
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Classic Beef Enchiladas: 7.69
+  Chipotle Lime Shrimp Skewers: 10.82
+  Spicy Pork Tamales: 9.5
+  Tamale Trio Sampler: 11.21
+  Loaded Nacho Bowl: 8.56
+  Chocolate Mole Chicken: 15.97
+  Mini Street Tacos Platter: 9.35
+  Loaded Nacho Skillet: 6.78
+  Ancho Chili Braised Beef Enchiladas: 13.31
+  Southwestern Quinoa Salad: 8.83
+  Choco-Chili Volcano Cake: 7.11
+  Cinnamon Churro Bites: 3.75
+  Breakfast Chorizo Torta: 9.74

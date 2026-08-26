@@ -1,0 +1,42 @@
+id: business_0319
+name: Citrus & Charcoal
+description: Citrus & Charcoal serves bold, vibrant Mexican and Tex-Mex cuisine with
+  a modern twist, spotlighting smoky flavors, tropical infusions, and sweet indulgences.
+  Discover creative tacos, shareable plates, and signature desserts in an energetic,
+  contemporary atmosphere.
+rating: 1.0
+progenitor_customer: customer_0107
+menu_features:
+  Chipotle Lime Shrimp Tacos: 11.09
+  Loaded Nacho Skillet: 9.81
+  Pomegranate Agua Fresca: 4.36
+  Warm Churro Bites: 6.96
+  Raspberry Chipotle Barbecue Ribs: 13.12
+  Baja Fish Tacos: 14.65
+  Toasted Coconut Flan: 6.17
+  Avocado Ranch Burrito Bowl: 13.64
+  Chili Lime Skirt Steak: 17.72
+  Caramelized Plantain Empanadas: 6.82
+  Avocado Lime Cheesecake: 6.53
+  Crispy Tinga Chicken Tacos: 10.4
+  Braised Beef Barbacoa Tacos: 10.28
+  Loaded Sweet Potato Fries: 5.17
+  Spiced Pumpkin Empanadas: 6.33
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Chipotle Lime Shrimp Tacos: 9.43
+  Loaded Nacho Skillet: 8.34
+  Pomegranate Agua Fresca: 3.71
+  Warm Churro Bites: 5.92
+  Raspberry Chipotle Barbecue Ribs: 11.15
+  Baja Fish Tacos: 12.45
+  Toasted Coconut Flan: 5.24
+  Avocado Ranch Burrito Bowl: 11.59
+  Chili Lime Skirt Steak: 15.06
+  Caramelized Plantain Empanadas: 5.8
+  Avocado Lime Cheesecake: 5.55
+  Crispy Tinga Chicken Tacos: 8.84
+  Braised Beef Barbacoa Tacos: 8.74
+  Loaded Sweet Potato Fries: 4.39
+  Spiced Pumpkin Empanadas: 5.38

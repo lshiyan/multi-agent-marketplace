@@ -1,0 +1,37 @@
+id: business_0125
+name: Chipotle & Coconut Cantina
+description: Savor vibrant Mexican and Tex-Mex flavors with a twist, from sizzling
+  bowls to sweet, tropical desserts. Our cozy cantina blends creativity and tradition
+  for a uniquely delicious dining experience.
+rating: 1.0
+progenitor_customer: customer_0042
+menu_features:
+  Honey Chipotle Shrimp Bowl: 16.24
+  Tomatillo Ranch Enchiladas: 14.63
+  Grilled Shrimp Fajita Bowl: 11.36
+  Toasted Coconut Flan: 6.09
+  Chipotle Bourbon Carnitas: 15.52
+  Chili Lime Street Corn: 4.73
+  Cinnamon Sugar Sopapillas: 5.04
+  Street Style Quesadillas: 11.09
+  Pineapple Salsa Nachos: 9.88
+  Pineapple Agua Fresca: 3.55
+  Sunrise Breakfast Tacos: 10.3
+  Fire Roasted Salsa Sampler: 5.52
+  Honey Lime Chicken Fajitas: 17.94
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Honey Chipotle Shrimp Bowl: 11.53
+  Tomatillo Ranch Enchiladas: 10.39
+  Grilled Shrimp Fajita Bowl: 8.07
+  Toasted Coconut Flan: 4.32
+  Chipotle Bourbon Carnitas: 11.02
+  Chili Lime Street Corn: 3.36
+  Cinnamon Sugar Sopapillas: 3.58
+  Street Style Quesadillas: 7.87
+  Pineapple Salsa Nachos: 7.01
+  Pineapple Agua Fresca: 2.52
+  Sunrise Breakfast Tacos: 7.31
+  Fire Roasted Salsa Sampler: 3.92
+  Honey Lime Chicken Fajitas: 12.74

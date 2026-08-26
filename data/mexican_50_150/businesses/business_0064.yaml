@@ -1,0 +1,43 @@
+id: business_0064
+name: Verde Vista Eats
+description: Experience bold, contemporary flavors inspired by the heart of Mexican
+  and Tex-Mex cuisine. From refreshing sips to fresh-grilled classics, our menu is
+  crafted for vibrant, modern palates.
+rating: 1.0
+progenitor_customer: customer_0022
+menu_features:
+  Creamy Avocado Smoothie: 4.81
+  Horchata Cold Brew Coffee: 5.2
+  Mexican Coffee Flan: 6.14
+  Grilled Avocado and Quinoa Bowl: 12.51
+  Tex-Mex Fajita Wrap: 10.84
+  Cilantro Lime Chicken Tacos: 9.48
+  Tequila Sunrise Smoothie: 7.33
+  Loaded Nacho Platter: 10.61
+  Loaded Nachos Grande: 10.31
+  Mexican Street Corn Salad: 6.71
+  Spicy Chorizo Enchiladas: 14.38
+  Crispy Tortilla Breakfast Bowl: 10.14
+  Chili Con Queso Supreme: 7.09
+  Fire Roasted Salsa Sampler: 6.51
+  Mango Habanero Salsa: 3.89
+  Agave Lime Chicken Skewers: 11.27
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Creamy Avocado Smoothie: 3.8
+  Horchata Cold Brew Coffee: 4.11
+  Mexican Coffee Flan: 4.85
+  Grilled Avocado and Quinoa Bowl: 9.88
+  Tex-Mex Fajita Wrap: 8.56
+  Cilantro Lime Chicken Tacos: 7.49
+  Tequila Sunrise Smoothie: 5.79
+  Loaded Nacho Platter: 8.38
+  Loaded Nachos Grande: 8.14
+  Mexican Street Corn Salad: 5.3
+  Spicy Chorizo Enchiladas: 11.36
+  Crispy Tortilla Breakfast Bowl: 8.01
+  Chili Con Queso Supreme: 5.6
+  Fire Roasted Salsa Sampler: 5.14
+  Mango Habanero Salsa: 3.07
+  Agave Lime Chicken Skewers: 8.9

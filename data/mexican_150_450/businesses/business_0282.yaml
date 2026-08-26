@@ -1,0 +1,33 @@
+id: business_0282
+name: Sol y Frijol Cantina
+description: Experience vibrant Mexican and Tex-Mex flavors with a fresh twist in
+  a lively, welcoming atmosphere. From spicy enchiladas to sweet, creamy desserts,
+  every dish promises bold taste and a touch of sunshine.
+rating: 1.0
+progenitor_customer: customer_0094
+menu_features:
+  Spicy Black Bean Enchiladas: 12.16
+  Chipotle Lime Shrimp Tacos: 14.35
+  Coconut Flan Delight: 6.41
+  Grilled Pineapple Salsa: 6.78
+  Horchata Iced Latte: 5.56
+  Mexican Coffee Flan: 6.82
+  Citrus Grilled Chicken Tacos: 11.42
+  Grilled Elote Corn: 4.54
+  Poblano Pepper Relleno Plate: 9.87
+  Ancho Chili Braised Beef Enchiladas: 13.53
+  Mango Habanero Wings: 11.01
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Spicy Black Bean Enchiladas: 7.9
+  Chipotle Lime Shrimp Tacos: 9.33
+  Coconut Flan Delight: 4.17
+  Grilled Pineapple Salsa: 4.41
+  Horchata Iced Latte: 3.61
+  Mexican Coffee Flan: 4.43
+  Citrus Grilled Chicken Tacos: 7.42
+  Grilled Elote Corn: 2.95
+  Poblano Pepper Relleno Plate: 6.42
+  Ancho Chili Braised Beef Enchiladas: 8.79
+  Mango Habanero Wings: 7.16

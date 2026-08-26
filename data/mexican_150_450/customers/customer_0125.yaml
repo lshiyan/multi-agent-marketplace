@@ -1,0 +1,11 @@
+id: customer_0125
+name: Amelia Walker
+request: 'Could you please assist me in finding a business that offers the following
+  menu items: 1 Zesty Lime Chicken Tacos, 1 Chocolate Cinnamon Flan, and 1 Southwest
+  Chopped Salad? I intend to place an order for these specific items. Thank you for
+  your assistance.'
+menu_features:
+  Zesty Lime Chicken Tacos: 10.49
+  Chocolate Cinnamon Flan: 5.99
+  Southwest Chopped Salad: 9.49
+amenity_features: []

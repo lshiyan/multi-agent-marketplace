@@ -1,0 +1,39 @@
+id: business_0083
+name: Zestful Roots Cantina
+description: Experience bold, refreshing flavors at a vibrant cantina where classics
+  meet creative twists. Enjoy an array of hand-crafted drinks and inventive dishes
+  inspired by Mexican and Tex-Mex traditions.
+rating: 1.0
+progenitor_customer: customer_0028
+menu_features:
+  Peach Berry Sangria: 11.25
+  Zesty Shrimp Quesadillas: 14.95
+  Grilled Pineapple and Pork Tacos: 15.32
+  Frozen Mango Margarita: 7.4
+  Mexican Spiced Chocolate Cake: 6.29
+  Zesty Shrimp Ceviche: 15.76
+  Shrimp Ceviche Cups: 13.16
+  Mexican Chocolate Lava Cake: 8.57
+  Tangy Tomato Salsa Soup: 6.77
+  Smoky Chipotle BBQ Wings: 11.74
+  Coconut Tres Leches: 5.24
+  Roasted Corn and Black Bean Salad: 10.69
+  Sweet Chili Lime Elote: 4.38
+  Cheesy Jalapeno Queso: 9.23
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Peach Berry Sangria: 9.56
+  Zesty Shrimp Quesadillas: 12.71
+  Grilled Pineapple and Pork Tacos: 13.02
+  Frozen Mango Margarita: 6.29
+  Mexican Spiced Chocolate Cake: 5.35
+  Zesty Shrimp Ceviche: 13.4
+  Shrimp Ceviche Cups: 11.19
+  Mexican Chocolate Lava Cake: 7.28
+  Tangy Tomato Salsa Soup: 5.75
+  Smoky Chipotle BBQ Wings: 9.98
+  Coconut Tres Leches: 4.45
+  Roasted Corn and Black Bean Salad: 9.09
+  Sweet Chili Lime Elote: 3.72
+  Cheesy Jalapeno Queso: 7.85

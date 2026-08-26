@@ -1,0 +1,33 @@
+id: business_0229
+name: Nacho Libre & the Enchiladons
+description: A playful twist on Mexican and Tex-Mex favorites, serving up bold flavors,
+  zesty salads, and sassy sangria in a lively, welcoming atmosphere. Saddle up for
+  craveable dishes perfect for any foodie showdown.
+rating: 1.0
+progenitor_customer: customer_0077
+menu_features:
+  Tomatillo Ranch Enchiladas: 11.44
+  Spicy Black Bean Enchiladas: 11.15
+  Chipotle Lime Chicken Salad: 11.07
+  Lime-Garlic Grilled Chicken: 15.38
+  Peppered Steak Nachos: 9.29
+  Fresh Corn Elote: 3.06
+  Spicy Shrimp Nacho Platter: 11.06
+  Pineapple Jalapeno Sangria: 7.21
+  Ancho Chile Chicken Salad: 9.46
+  Smoky Chipotle Queso: 6.19
+  Chocolate Mole Brownie: 5.87
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Tomatillo Ranch Enchiladas: 9.27
+  Spicy Black Bean Enchiladas: 9.03
+  Chipotle Lime Chicken Salad: 8.97
+  Lime-Garlic Grilled Chicken: 12.46
+  Peppered Steak Nachos: 7.52
+  Fresh Corn Elote: 2.48
+  Spicy Shrimp Nacho Platter: 8.96
+  Pineapple Jalapeno Sangria: 5.84
+  Ancho Chile Chicken Salad: 7.66
+  Smoky Chipotle Queso: 5.01
+  Chocolate Mole Brownie: 4.75

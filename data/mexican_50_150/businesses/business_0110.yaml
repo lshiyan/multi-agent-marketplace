@@ -1,0 +1,37 @@
+id: business_0110
+name: Quinta Quesadilla
+description: A vibrant corner where bold Tex-Mex and Mexican flavors meet, featuring
+  inventive salsas, sizzling specialties, and fresh citrus drinks. Step into a lively
+  atmosphere and savor the zest of every bite and sip.
+rating: 1.0
+progenitor_customer: customer_0037
+menu_features:
+  Zesty Shrimp Quesadillas: 11.08
+  Mango Habanero Salsa: 3.74
+  Guava Limeade Cooler: 5.44
+  Tequila Sunrise Smoothie: 7.85
+  Charred Corn & Cotija Nachos: 9.31
+  Three-Cheese Queso Dip: 8.17
+  Passion Fruit Agua Fresca: 3.77
+  Sizzling Beef Alambre: 13.12
+  Chili Lime Street Corn: 7.26
+  Honey Lime Chicken Fajitas: 15.99
+  Spicy Beef Empanadas: 8.69
+  Smoky Lime Quinoa Salad: 8.45
+  Roasted Red Pepper Quesadilla: 11.07
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Zesty Shrimp Quesadillas: 8.75
+  Mango Habanero Salsa: 2.95
+  Guava Limeade Cooler: 4.3
+  Tequila Sunrise Smoothie: 6.2
+  Charred Corn & Cotija Nachos: 7.35
+  Three-Cheese Queso Dip: 6.45
+  Passion Fruit Agua Fresca: 2.98
+  Sizzling Beef Alambre: 10.36
+  Chili Lime Street Corn: 5.74
+  Honey Lime Chicken Fajitas: 12.63
+  Spicy Beef Empanadas: 6.87
+  Smoky Lime Quinoa Salad: 6.68
+  Roasted Red Pepper Quesadilla: 8.75

@@ -1,0 +1,45 @@
+id: business_0045
+name: Quesadilla Quarters
+description: Dive into a vibrant fusion of Mexican and Tex-Mex classics, where every
+  bite bursts with bold flavors and fresh ingredients. Savor grilled delights, zesty
+  creations, and refreshing beverages in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0015
+menu_features:
+  Grilled Shrimp Quesadilla: 12.37
+  Verde Chicken Enchiladas: 11.92
+  Loaded Nacho Skillet: 10.15
+  Chili Lime Shrimp Skewers: 13.45
+  Grilled Steak Quesadilla: 13.24
+  Crispy Fish Baja Bowl: 11.28
+  Black Bean and Lime Soup: 5.95
+  Smoky Chipotle Enchiladas: 15.75
+  Crispy Carnitas Tacos: 15.14
+  Sunset Grilled Veggie Tacos: 10.57
+  Black Bean Stuffed Bell Peppers: 9.56
+  Citrus Grilled Chicken Tacos: 13.52
+  Black Bean Taco Bowl: 9.59
+  Mesquite Grilled Steak Fajitas: 13.65
+  Fresh Limeade: 3.59
+  Tropical Coconut Margarita: 9.18
+  Shrimp Ceviche Cups: 10.94
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Grilled Shrimp Quesadilla: 9.28
+  Verde Chicken Enchiladas: 8.94
+  Loaded Nacho Skillet: 7.61
+  Chili Lime Shrimp Skewers: 10.09
+  Grilled Steak Quesadilla: 9.93
+  Crispy Fish Baja Bowl: 8.46
+  Black Bean and Lime Soup: 4.46
+  Smoky Chipotle Enchiladas: 11.81
+  Crispy Carnitas Tacos: 11.36
+  Sunset Grilled Veggie Tacos: 7.93
+  Black Bean Stuffed Bell Peppers: 7.17
+  Citrus Grilled Chicken Tacos: 10.14
+  Black Bean Taco Bowl: 7.19
+  Mesquite Grilled Steak Fajitas: 10.24
+  Fresh Limeade: 2.69
+  Tropical Coconut Margarita: 6.88
+  Shrimp Ceviche Cups: 8.21

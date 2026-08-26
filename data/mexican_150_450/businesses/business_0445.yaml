@@ -1,0 +1,43 @@
+id: business_0445
+name: "Sol y Saz\xF3n Cocina"
+description: Experience bright flavors and creative twists on Mexican and Tex-Mex
+  classics in a vibrant, welcoming setting. Fresh, bold salsas and comforting savory
+  bites await at every visit.
+rating: 1.0
+progenitor_customer: customer_0149
+menu_features:
+  Ultimate Nacho Platter: 11.07
+  Choco Flan Combo: 6.28
+  Mexican Chocolate Flan: 7.84
+  Mango Habanero Salsa: 5.82
+  Passionfruit Agua Fresca: 3.57
+  Loaded Sweet Potato Fries: 6.56
+  Spicy Black Bean and Cheese Quesadilla: 9.35
+  Loaded Nacho Skillet: 10.05
+  Crispy Avocado Burrito: 10.44
+  Breakfast Burrito Bowl: 8.25
+  Smoky Black Bean Tostadas: 7.14
+  "Cheesy Jalape\xF1o Poppers": 7.11
+  Avocado Lime Salad: 9.36
+  Avocado Ranch Burrito Bowl: 9.71
+  Chili Lime Jicama Sticks: 4.85
+  Black Bean and Lime Soup: 7.82
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Ultimate Nacho Platter: 9.85
+  Choco Flan Combo: 5.59
+  Mexican Chocolate Flan: 6.98
+  Mango Habanero Salsa: 5.18
+  Passionfruit Agua Fresca: 3.18
+  Loaded Sweet Potato Fries: 5.84
+  Spicy Black Bean and Cheese Quesadilla: 8.32
+  Loaded Nacho Skillet: 8.94
+  Crispy Avocado Burrito: 9.29
+  Breakfast Burrito Bowl: 7.34
+  Smoky Black Bean Tostadas: 6.35
+  "Cheesy Jalape\xF1o Poppers": 6.33
+  Avocado Lime Salad: 8.33
+  Avocado Ranch Burrito Bowl: 8.64
+  Chili Lime Jicama Sticks: 4.32
+  Black Bean and Lime Soup: 6.96

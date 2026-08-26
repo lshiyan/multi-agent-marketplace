@@ -1,0 +1,45 @@
+id: business_0262
+name: Carnitas & Citrus
+description: Carnitas & Citrus offers a vibrant twist on Mexican and Tex-Mex favorites,
+  blending bold, fresh flavors with inventive twists. Enjoy colorful drinks, crave-worthy
+  starters, zesty salads, and satisfying mains in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0088
+menu_features:
+  Citrus Cilantro Rice: 4.96
+  Blue Corn Tortilla Chips: 6.16
+  Loaded Nacho Fiesta: 11.5
+  Spicy Shrimp Nacho Platter: 10.0
+  Crispy Carnitas Quesadilla: 8.56
+  Strawberry Jalapeno Lemonade: 4.04
+  Spicy Black Bean and Cheese Quesadilla: 9.98
+  Black Bean and Corn Fiesta Salad: 9.16
+  Pineapple Habanero Sake: 10.65
+  Chipotle Lime Chicken Salad: 11.52
+  Stuffed Chicken Poblano: 14.42
+  Black Bean Burgers: 10.89
+  Chocolate Dipped Flan: 5.61
+  Mango Habanero Margarita: 12.01
+  Smoky Black Bean Enchiladas: 11.56
+  Chili Lime Jicama Sticks: 4.48
+  Coconut Lime Flan: 5.72
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Citrus Cilantro Rice: 4.56
+  Blue Corn Tortilla Chips: 5.67
+  Loaded Nacho Fiesta: 10.58
+  Spicy Shrimp Nacho Platter: 9.2
+  Crispy Carnitas Quesadilla: 7.88
+  Strawberry Jalapeno Lemonade: 3.72
+  Spicy Black Bean and Cheese Quesadilla: 9.18
+  Black Bean and Corn Fiesta Salad: 8.43
+  Pineapple Habanero Sake: 9.8
+  Chipotle Lime Chicken Salad: 10.6
+  Stuffed Chicken Poblano: 13.27
+  Black Bean Burgers: 10.02
+  Chocolate Dipped Flan: 5.16
+  Mango Habanero Margarita: 11.05
+  Smoky Black Bean Enchiladas: 10.64
+  Chili Lime Jicama Sticks: 4.12
+  Coconut Lime Flan: 5.26

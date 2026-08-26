@@ -1,0 +1,43 @@
+id: business_0316
+name: Frida & Flame
+description: Experience vibrant flavors and creative flair at Frida & Flame, where
+  classic Mexican and Tex-Mex favorites meet fresh, modern twists. Enjoy a lively
+  atmosphere and inventive dishes inspired by the colors and spirit of Mexico.
+rating: 1.0
+progenitor_customer: customer_0106
+menu_features:
+  Loaded Sweet Potato Fries: 6.84
+  Jicama and Citrus Salad: 5.9
+  Honey Lime Chicken Skewers: 13.71
+  Crispy Carnitas Quesadilla: 10.83
+  Raspberry Jalapeno Mojito: 7.33
+  Spicy Cucumber Margarita: 7.75
+  Smoky Lime Quinoa Salad: 11.32
+  Poblano Pepper Queso Dip: 7.91
+  Hatch Green Chile Rice: 5.34
+  Huevos Rancheros: 10.42
+  Crispy Fish Street Tacos: 15.27
+  Pumpkin Spice Flan: 7.34
+  Horchata Cold Brew Coffee: 5.2
+  Sizzling Chicken Fajitas: 17.35
+  Fiesta Street Corn: 5.17
+  Avocado Lime Enchiladas: 11.96
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Loaded Sweet Potato Fries: 4.31
+  Jicama and Citrus Salad: 3.72
+  Honey Lime Chicken Skewers: 8.64
+  Crispy Carnitas Quesadilla: 6.82
+  Raspberry Jalapeno Mojito: 4.62
+  Spicy Cucumber Margarita: 4.88
+  Smoky Lime Quinoa Salad: 7.13
+  Poblano Pepper Queso Dip: 4.98
+  Hatch Green Chile Rice: 3.36
+  Huevos Rancheros: 6.56
+  Crispy Fish Street Tacos: 9.62
+  Pumpkin Spice Flan: 4.62
+  Horchata Cold Brew Coffee: 3.28
+  Sizzling Chicken Fajitas: 10.93
+  Fiesta Street Corn: 3.26
+  Avocado Lime Enchiladas: 7.53

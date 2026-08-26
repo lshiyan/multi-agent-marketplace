@@ -1,0 +1,33 @@
+id: business_0199
+name: Glaze & Grill Cantina
+description: Step into Glaze & Grill Cantina, where bold flavors meet vibrant freshness
+  in a modern, lively setting. Savor a creative Mexican and Tex-Mex menu featuring
+  flame-kissed meats, smoky spices, and a touch of sweetness.
+rating: 1.0
+progenitor_customer: customer_0067
+menu_features:
+  Honey Lime Grilled Chicken: 14.77
+  Sizzling Steak Fajitas: 13.48
+  Spicy Black Bean and Cheese Quesadilla: 12.39
+  Classic Flan Delight: 7.11
+  Ancho Chile Chicken Salad: 8.65
+  Grilled Pineapple & Shrimp Quesadillas: 12.67
+  Coconut Lime Shrimp Skewers: 13.95
+  Smoky Chipotle Queso: 5.5
+  Passionfruit Agua Fresca: 3.45
+  Ancho Chile BBQ Ribs: 17.42
+  Loaded Nacho Platter: 11.41
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Honey Lime Grilled Chicken: 11.37
+  Sizzling Steak Fajitas: 10.38
+  Spicy Black Bean and Cheese Quesadilla: 9.54
+  Classic Flan Delight: 5.47
+  Ancho Chile Chicken Salad: 6.66
+  Grilled Pineapple & Shrimp Quesadillas: 9.76
+  Coconut Lime Shrimp Skewers: 10.74
+  Smoky Chipotle Queso: 4.24
+  Passionfruit Agua Fresca: 2.66
+  Ancho Chile BBQ Ribs: 13.41
+  Loaded Nacho Platter: 8.79

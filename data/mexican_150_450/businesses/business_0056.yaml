@@ -1,0 +1,37 @@
+id: business_0056
+name: Fresco Fuego
+description: Fresco Fuego brings vibrant, contemporary Mexican and Tex-Mex flavors
+  together in a lively, welcoming setting. Discover fresh salsas, bold spices, and
+  creative street eats that celebrate every bite.
+rating: 1.0
+progenitor_customer: customer_0019
+menu_features:
+  Avocado Lime Salsa: 4.67
+  Mango Agua Fresca: 2.91
+  Grilled Steak Fajita Platter: 16.1
+  "Spicy Jalape\xF1o Limeade": 3.53
+  Loaded Nacho Fries: 9.49
+  Roasted Corn Elote: 4.54
+  Chili-Lime Cauliflower Bites: 10.09
+  Horchata Cold Brew Coffee: 5.3
+  Crispy Avocado Tacos: 11.7
+  Crispy Fish Street Tacos: 15.15
+  Grilled Avocado and Quinoa Bowl: 8.91
+  Pumpkin Spice Flan: 6.61
+  Chipotle Bourbon Carnitas: 15.08
+amenity_features: {}
+min_price_factor: 0.6
+minimum_menu_prices:
+  Avocado Lime Salsa: 2.8
+  Mango Agua Fresca: 1.75
+  Grilled Steak Fajita Platter: 9.66
+  "Spicy Jalape\xF1o Limeade": 2.12
+  Loaded Nacho Fries: 5.69
+  Roasted Corn Elote: 2.72
+  Chili-Lime Cauliflower Bites: 6.05
+  Horchata Cold Brew Coffee: 3.18
+  Crispy Avocado Tacos: 7.02
+  Crispy Fish Street Tacos: 9.09
+  Grilled Avocado and Quinoa Bowl: 5.35
+  Pumpkin Spice Flan: 3.97
+  Chipotle Bourbon Carnitas: 9.05

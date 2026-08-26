@@ -1,0 +1,43 @@
+id: business_0367
+name: Casa de Coco y Fuego
+description: Experience vibrant Mexican and Tex-Mex cuisine in a lively, welcoming
+  atmosphere. From sizzling platters to signature cocktails, every dish brings a blend
+  of bold spices and tropical flair.
+rating: 1.0
+progenitor_customer: customer_0123
+menu_features:
+  Tropical Coconut Margarita: 8.71
+  Spicy Beef Chimichangas: 13.39
+  Sizzling Fajita Platter: 14.13
+  Ancho Chili Rubbed Steak: 14.97
+  Green Chile Pork Stew: 13.59
+  Three-Cheese Queso Dip: 8.7
+  Sizzling Pork Carnitas Bowl: 13.04
+  Horchata Latte: 4.72
+  Mexican Chocolate Lava Cake: 8.19
+  Black Bean Taco Bowl: 11.32
+  Zesty Lime Shrimp Tostadas: 11.58
+  Tomatillo Ranch Enchiladas: 13.9
+  Pineapple Tequila Chicken Skewers: 12.33
+  Spiced Chocolate Flan: 7.61
+  Loaded Sweet Potato Fries: 8.42
+  Tangy Tomato Salsa Soup: 8.04
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Tropical Coconut Margarita: 8.1
+  Spicy Beef Chimichangas: 12.45
+  Sizzling Fajita Platter: 13.14
+  Ancho Chili Rubbed Steak: 13.92
+  Green Chile Pork Stew: 12.64
+  Three-Cheese Queso Dip: 8.09
+  Sizzling Pork Carnitas Bowl: 12.13
+  Horchata Latte: 4.39
+  Mexican Chocolate Lava Cake: 7.62
+  Black Bean Taco Bowl: 10.53
+  Zesty Lime Shrimp Tostadas: 10.77
+  Tomatillo Ranch Enchiladas: 12.93
+  Pineapple Tequila Chicken Skewers: 11.47
+  Spiced Chocolate Flan: 7.08
+  Loaded Sweet Potato Fries: 7.83
+  Tangy Tomato Salsa Soup: 7.48

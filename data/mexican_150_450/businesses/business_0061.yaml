@@ -1,0 +1,37 @@
+id: business_0061
+name: Piquant Pineapple
+description: Savor a vibrant twist on Mexican and Tex-Mex favorites in a spirited
+  setting, where bold flavors and inventive pairings meet tropical flair. Experience
+  spicy, tangy, and sweet notes in every bite and sip.
+rating: 1.0
+progenitor_customer: customer_0021
+menu_features:
+  Pineapple Habanero Sake: 8.36
+  "Cheesy Jalape\xF1o Poppers": 7.73
+  Tamarind Glazed Wings: 9.39
+  Crispy Fish Baja Bowl: 14.84
+  Tequila Sunrise Smoothie: 7.75
+  Gourmet Nacho Platter: 10.52
+  Pineapple Salsa Pork Tacos: 12.65
+  Warm Cinnamon Churros: 5.32
+  Chipotle Lime Chicken Skewers: 11.26
+  Warm Churro Bites: 5.82
+  Raspberry Chipotle Barbecue Ribs: 15.94
+  "Spicy Jalape\xF1o Limeade": 2.51
+  Adobo Pork Sliders: 10.21
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Pineapple Habanero Sake: 6.27
+  "Cheesy Jalape\xF1o Poppers": 5.8
+  Tamarind Glazed Wings: 7.04
+  Crispy Fish Baja Bowl: 11.13
+  Tequila Sunrise Smoothie: 5.81
+  Gourmet Nacho Platter: 7.89
+  Pineapple Salsa Pork Tacos: 9.49
+  Warm Cinnamon Churros: 3.99
+  Chipotle Lime Chicken Skewers: 8.45
+  Warm Churro Bites: 4.37
+  Raspberry Chipotle Barbecue Ribs: 11.96
+  "Spicy Jalape\xF1o Limeade": 1.88
+  Adobo Pork Sliders: 7.66

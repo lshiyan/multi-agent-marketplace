@@ -1,0 +1,43 @@
+id: business_0007
+name: "Sol y Saz\xF3n Cantina"
+description: "Step into Sol y Saz\xF3n Cantina for vibrant Mexican and Tex-Mex flavors,\
+  \ crafted with a fresh, modern twist. Enjoy a warm atmosphere and a delicious selection\
+  \ of classic and creative dishes and cocktails."
+rating: 1.0
+progenitor_customer: customer_0003
+menu_features:
+  Smoky Black Bean Soup: 7.22
+  Sunset Grilled Veggie Tacos: 12.99
+  Fajita Veggie Burrito Bowl: 15.11
+  Crispy Avocado Burrito: 11.23
+  Tropical Coconut Margarita: 9.59
+  Honey Lime Grilled Fajitas: 17.58
+  Chipotle Lime Shrimp Skewers: 10.69
+  Stuffed Poblano Peppers: 11.06
+  Crispy Carnitas Tacos: 13.0
+  Mole Chicken Quesadilla: 12.67
+  Crisp Jicama Slaw: 5.25
+  Black Bean Burgers: 12.12
+  Avocado Lime Cheesecake: 7.21
+  Cinnamon Churro Bites: 5.28
+  Zesty Lime Chicken Tacos: 9.07
+  Salted Caramel Margarita: 9.72
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Smoky Black Bean Soup: 6.21
+  Sunset Grilled Veggie Tacos: 11.17
+  Fajita Veggie Burrito Bowl: 12.99
+  Crispy Avocado Burrito: 9.66
+  Tropical Coconut Margarita: 8.25
+  Honey Lime Grilled Fajitas: 15.12
+  Chipotle Lime Shrimp Skewers: 9.19
+  Stuffed Poblano Peppers: 9.51
+  Crispy Carnitas Tacos: 11.18
+  Mole Chicken Quesadilla: 10.9
+  Crisp Jicama Slaw: 4.51
+  Black Bean Burgers: 10.42
+  Avocado Lime Cheesecake: 6.2
+  Cinnamon Churro Bites: 4.54
+  Zesty Lime Chicken Tacos: 7.8
+  Salted Caramel Margarita: 8.36

@@ -1,0 +1,11 @@
+id: customer_0031
+name: Isabella Watson
+request: 'I would like your assistance in finding a business that offers the following
+  items on their menu: 1 Crispy Avocado and Lime Tacos, 1 Vanilla Almond Horchata,
+  and 1 Coconut Lime Paleta. These items are essential to my order, and I intend to
+  purchase them as soon as a suitable business is found. Thank you for your help.'
+menu_features:
+  Crispy Avocado and Lime Tacos: 11.99
+  Vanilla Almond Horchata: 3.99
+  Coconut Lime Paleta: 3.99
+amenity_features: []

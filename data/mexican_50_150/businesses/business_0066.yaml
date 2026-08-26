@@ -1,0 +1,41 @@
+id: business_0066
+name: Chili & Citrus Cantina
+description: Experience a vibrant twist on Mexican and Tex-Mex classics, where bold
+  chiles and zesty citrus flavors come together in every dish. Enjoy fresh, creative
+  plates and refreshing housemade drinks in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0022
+menu_features:
+  Honey-Lime Shrimp Skewers: 11.5
+  Breakfast Burrito Bowl: 8.69
+  Veggie Fajita Platter: 15.31
+  Mexican Street Corn Salad: 8.25
+  "Cheesy Jalape\xF1o Queso Dip": 7.65
+  Ancho Chile BBQ Ribs: 14.89
+  Black Bean and Cilantro Rice: 3.85
+  Green Chile Cheesesteak: 14.78
+  Grilled Avocado and Quinoa Bowl: 11.62
+  Queso Fundido with Chorizo: 10.31
+  Choco-Chili Volcano Cake: 8.43
+  Housemade Horchata: 3.54
+  Fresh Limeade: 3.9
+  Tequila Sunrise Smoothie: 7.56
+  Zesty Lime Chicken Tacos: 10.18
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Honey-Lime Shrimp Skewers: 7.82
+  Breakfast Burrito Bowl: 5.91
+  Veggie Fajita Platter: 10.41
+  Mexican Street Corn Salad: 5.61
+  "Cheesy Jalape\xF1o Queso Dip": 5.2
+  Ancho Chile BBQ Ribs: 10.13
+  Black Bean and Cilantro Rice: 2.62
+  Green Chile Cheesesteak: 10.05
+  Grilled Avocado and Quinoa Bowl: 7.9
+  Queso Fundido with Chorizo: 7.01
+  Choco-Chili Volcano Cake: 5.73
+  Housemade Horchata: 2.41
+  Fresh Limeade: 2.65
+  Tequila Sunrise Smoothie: 5.14
+  Zesty Lime Chicken Tacos: 6.92

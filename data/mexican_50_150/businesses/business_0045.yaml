@@ -1,0 +1,37 @@
+id: business_0045
+name: Guac to the Future
+description: Step into a vibrant culinary adventure where bold Mexican flavors and
+  fresh, zesty inspiration come together. From breakfast favorites to creative dinner
+  specialties, every meal is a delicious journey worth savoring.
+rating: 1.0
+progenitor_customer: customer_0015
+menu_features:
+  Breakfast Chilaquiles Verde: 8.52
+  Stuffed Poblano Pepper Delight: 9.21
+  Smoky Chipotle BBQ Nachos: 11.99
+  Black Bean Taco Bowl: 10.25
+  Agave Lime Chicken Skewers: 11.87
+  Shrimp Ceviche Cups: 8.72
+  Avocado Lime Enchiladas: 9.03
+  Zesty Lime Grilled Chicken: 17.84
+  Loaded Nacho Supreme: 9.37
+  Breakfast Chorizo Tostadas: 10.21
+  Tequila Lime Flan: 6.41
+  Minty Mojito Refresher: 7.91
+  Spicy Chicken Chimichanga: 9.04
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Breakfast Chilaquiles Verde: 7.41
+  Stuffed Poblano Pepper Delight: 8.01
+  Smoky Chipotle BBQ Nachos: 10.43
+  Black Bean Taco Bowl: 8.92
+  Agave Lime Chicken Skewers: 10.33
+  Shrimp Ceviche Cups: 7.59
+  Avocado Lime Enchiladas: 7.86
+  Zesty Lime Grilled Chicken: 15.52
+  Loaded Nacho Supreme: 8.15
+  Breakfast Chorizo Tostadas: 8.88
+  Tequila Lime Flan: 5.58
+  Minty Mojito Refresher: 6.88
+  Spicy Chicken Chimichanga: 7.86

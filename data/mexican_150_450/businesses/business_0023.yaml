@@ -1,0 +1,46 @@
+id: business_0023
+name: Cactus & Cocina
+description: Celebrate bold, vibrant flavors at Cactus & Cocina, where inventive Mexican
+  and Tex-Mex classics are crafted with fresh, zesty ingredients and a creative touch.
+  Experience a lively spot perfect for sharing spirited drinks, savory bites, and
+  sweet treats.
+rating: 1.0
+progenitor_customer: customer_0008
+menu_features:
+  Spicy Cucumber Margarita: 7.84
+  Spicy Shrimp Ceviche: 12.53
+  Beef Barbacoa Tostadas: 10.38
+  Smoky Chipotle BBQ Wings: 11.13
+  Grilled Chipotle Chicken Burrito: 10.91
+  Black Bean Sweet Potato Burrito: 9.87
+  Classic Flan Delight: 7.13
+  Hatch Chile Queso Dip: 8.9
+  Housemade Horchata: 3.7
+  Ancho Chili Chocolate Cake: 6.28
+  Gourmet Nacho Platter: 10.31
+  Zesty Lime Chicken Fajitas: 13.77
+  Frozen Strawberry Daiquiri: 6.35
+  Churro Ice Cream Sandwich: 5.85
+  Crispy Avocado Bites: 7.88
+  Spicy Chicken Tortilla Soup: 5.32
+  Horchata Iced Coffee: 4.67
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Spicy Cucumber Margarita: 6.04
+  Spicy Shrimp Ceviche: 9.65
+  Beef Barbacoa Tostadas: 7.99
+  Smoky Chipotle BBQ Wings: 8.57
+  Grilled Chipotle Chicken Burrito: 8.4
+  Black Bean Sweet Potato Burrito: 7.6
+  Classic Flan Delight: 5.49
+  Hatch Chile Queso Dip: 6.85
+  Housemade Horchata: 2.85
+  Ancho Chili Chocolate Cake: 4.84
+  Gourmet Nacho Platter: 7.94
+  Zesty Lime Chicken Fajitas: 10.6
+  Frozen Strawberry Daiquiri: 4.89
+  Churro Ice Cream Sandwich: 4.5
+  Crispy Avocado Bites: 6.07
+  Spicy Chicken Tortilla Soup: 4.1
+  Horchata Iced Coffee: 3.6

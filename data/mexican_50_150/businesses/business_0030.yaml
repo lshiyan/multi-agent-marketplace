@@ -1,0 +1,35 @@
+id: business_0030
+name: Pico & Flame
+description: Experience vibrant Mexican and Tex-Mex flavors with a modern twist, featuring
+  fresh ingredients and bold, fiery dishes. Enjoy refreshing house-made drinks and
+  a welcoming atmosphere perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0010
+menu_features:
+  Stuffed Poblano Pepper Delight: 7.89
+  Grilled Chipotle Chicken Burrito: 14.57
+  Vanilla Cinnamon Horchata: 3.99
+  Jicama and Citrus Salad: 6.99
+  Roasted Red Pepper Quesadilla: 9.7
+  Sizzling Beef Alambre: 14.87
+  Sizzling Fajita Plate: 16.95
+  Honey Lime Grilled Corn: 4.37
+  Hibiscus Agua Fresca: 3.41
+  Mole Chicken Quesadilla: 12.06
+  Pineapple Agua Fresca: 3.59
+  Spicy Chipotle Chicken Wings: 12.04
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Stuffed Poblano Pepper Delight: 7.02
+  Grilled Chipotle Chicken Burrito: 12.97
+  Vanilla Cinnamon Horchata: 3.55
+  Jicama and Citrus Salad: 6.22
+  Roasted Red Pepper Quesadilla: 8.63
+  Sizzling Beef Alambre: 13.23
+  Sizzling Fajita Plate: 15.09
+  Honey Lime Grilled Corn: 3.89
+  Hibiscus Agua Fresca: 3.03
+  Mole Chicken Quesadilla: 10.73
+  Pineapple Agua Fresca: 3.2
+  Spicy Chipotle Chicken Wings: 10.72

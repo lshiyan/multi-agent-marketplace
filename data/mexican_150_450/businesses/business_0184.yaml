@@ -1,0 +1,41 @@
+id: business_0184
+name: Viva Luna Mexicana
+description: Vibrant, fresh, and full of bold flavors, Viva Luna Mexicana brings a
+  modern twist to classic Mexican and Tex-Mex favorites. Enjoy creative plates, zesty
+  cocktails, and a colorful, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0062
+menu_features:
+  Chili Lime Shrimp Skewers: 15.34
+  Baja Fish Taco Plate: 14.11
+  Black Bean & Cheese Tostadas: 12.94
+  Tequila Sunrise Smoothie: 8.38
+  Raspberry Chipotle Barbecue Ribs: 18.3
+  Carnitas Breakfast Burrito: 10.55
+  Tropical Coconut Margarita: 7.18
+  Spicy Chocolate Churros: 4.8
+  Ancho Chile Chicken Salad: 10.51
+  Tamarind Glazed Wings: 12.39
+  Rich Chocolate Tres Leches: 6.13
+  Grilled Chipotle Chicken Burrito: 9.69
+  Coconut Flan Delight: 6.12
+  Grilled Street Corn: 6.15
+  Beef Fajita Skillet: 15.76
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Chili Lime Shrimp Skewers: 11.35
+  Baja Fish Taco Plate: 10.44
+  Black Bean & Cheese Tostadas: 9.58
+  Tequila Sunrise Smoothie: 6.2
+  Raspberry Chipotle Barbecue Ribs: 13.54
+  Carnitas Breakfast Burrito: 7.81
+  Tropical Coconut Margarita: 5.31
+  Spicy Chocolate Churros: 3.55
+  Ancho Chile Chicken Salad: 7.78
+  Tamarind Glazed Wings: 9.17
+  Rich Chocolate Tres Leches: 4.54
+  Grilled Chipotle Chicken Burrito: 7.17
+  Coconut Flan Delight: 4.53
+  Grilled Street Corn: 4.55
+  Beef Fajita Skillet: 11.66

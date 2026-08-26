@@ -1,0 +1,44 @@
+id: business_0059
+name: Casa Brava Mexicana
+description: Casa Brava Mexicana blends bold, traditional flavors with a modern twist,
+  serving up vibrant cocktails, fresh sizzlers, and mouthwatering classics in a welcoming
+  atmosphere. Experience the lively spirit of Mexican and Tex-Mex cuisine with every
+  bite and sip.
+rating: 1.0
+progenitor_customer: customer_0020
+menu_features:
+  Pineapple Habanero Margarita: 9.89
+  Breakfast Burrito Bowl: 8.76
+  Smoky Mezcal Mule: 8.46
+  Coffee Cinnamon Mexican Mocha: 6.11
+  Spicy Pork Tamales: 12.73
+  Ancho Chili Chocolate Cake: 8.23
+  Crispy Fish Tacos: 10.79
+  Honey Lime Fajita Sizzlers: 13.53
+  Smoky Chipotle Black Bean Soup: 9.08
+  Toasted Coconut Flan: 6.14
+  Avocado Lime Empanadas: 8.8
+  Spicy Chicken Tortilla Soup: 6.88
+  Tequila Sunrise Smoothie: 6.58
+  Bacon Wrapped Jalapeno Bites: 7.43
+  Zesty Shrimp Quesadillas: 11.51
+  Caramelized Onion and Goat Cheese Empanadas: 5.88
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Pineapple Habanero Margarita: 8.6
+  Breakfast Burrito Bowl: 7.62
+  Smoky Mezcal Mule: 7.36
+  Coffee Cinnamon Mexican Mocha: 5.32
+  Spicy Pork Tamales: 11.08
+  Ancho Chili Chocolate Cake: 7.16
+  Crispy Fish Tacos: 9.39
+  Honey Lime Fajita Sizzlers: 11.77
+  Smoky Chipotle Black Bean Soup: 7.9
+  Toasted Coconut Flan: 5.34
+  Avocado Lime Empanadas: 7.66
+  Spicy Chicken Tortilla Soup: 5.99
+  Tequila Sunrise Smoothie: 5.72
+  Bacon Wrapped Jalapeno Bites: 6.46
+  Zesty Shrimp Quesadillas: 10.01
+  Caramelized Onion and Goat Cheese Empanadas: 5.12

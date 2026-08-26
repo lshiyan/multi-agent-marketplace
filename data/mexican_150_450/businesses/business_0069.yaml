@@ -1,0 +1,41 @@
+id: business_0069
+name: La Sabrosa Fresca
+description: Experience vibrant Mexican and Tex-Mex flavors with a fresh, modern twist.
+  Savor our creative selection of salsas, salads, tacos, and cocktails crafted to
+  delight every palate.
+rating: 1.0
+progenitor_customer: customer_0023
+menu_features:
+  Loaded Nacho Fries: 7.81
+  Sunrise Breakfast Tacos: 9.03
+  Mango Jalapeno Salsa and Chips: 5.31
+  Jicama and Citrus Salad: 6.92
+  Garlic Lime Shrimp Salad: 13.29
+  Raspberry Jalapeno Mojito: 9.07
+  Zesty Lime Shrimp Salad: 12.67
+  Avocado Lime Salsa: 4.89
+  Pineapple Chipotle Salsa & Chips: 5.62
+  Ancho Chile Chicken Salad: 10.06
+  Smoky Black Bean Soup: 5.65
+  Breakfast Chorizo Torta: 8.89
+  Agave Lime Margarita: 11.45
+  Grilled Steak Quesadilla: 13.14
+  Pineapple Habanero Sake: 8.22
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Loaded Nacho Fries: 6.56
+  Sunrise Breakfast Tacos: 7.59
+  Mango Jalapeno Salsa and Chips: 4.46
+  Jicama and Citrus Salad: 5.81
+  Garlic Lime Shrimp Salad: 11.16
+  Raspberry Jalapeno Mojito: 7.62
+  Zesty Lime Shrimp Salad: 10.64
+  Avocado Lime Salsa: 4.11
+  Pineapple Chipotle Salsa & Chips: 4.72
+  Ancho Chile Chicken Salad: 8.45
+  Smoky Black Bean Soup: 4.75
+  Breakfast Chorizo Torta: 7.47
+  Agave Lime Margarita: 9.62
+  Grilled Steak Quesadilla: 11.04
+  Pineapple Habanero Sake: 6.9

@@ -1,0 +1,11 @@
+id: customer_0034
+name: Jasmine Hernandez
+request: 'Could you please find a business that offers the following menu items: 1
+  Tres Leches Cake, 1 Vanilla Flan Delight, and 1 Spicy Avocado Burger? I intend to
+  place an order for these exact items, so it is important that the business can fulfill
+  all my requirements. Thank you for your assistance.'
+menu_features:
+  Tres Leches Cake: 6.99
+  Vanilla Flan Delight: 5.49
+  Spicy Avocado Burger: 12.99
+amenity_features: []

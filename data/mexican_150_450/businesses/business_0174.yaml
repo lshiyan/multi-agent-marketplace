@@ -1,0 +1,43 @@
+id: business_0174
+name: Sunset & Sizzle
+description: Sunset & Sizzle serves up vibrant Mexican and Tex-Mex fare with a fresh,
+  modern twist. Enjoy bold flavors, savory grilled specialties, and refreshing house-made
+  drinks in a warm, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0058
+menu_features:
+  Sunset Grilled Veggie Tacos: 12.88
+  Passionfruit Agua Fresca: 4.16
+  Carnitas Breakfast Burrito: 11.23
+  Black Bean & Corn Quesadilla: 8.64
+  Ancho Chile Chicken Salad: 7.68
+  Adobo Pork Sliders: 8.97
+  Tequila Lime Shrimp Skewers: 12.58
+  Smoky Mezcal Mule: 9.68
+  Smoky Black Bean Tostadas: 8.64
+  Classic Beef Enchiladas: 12.38
+  Spice-Rubbed Grilled Fajitas: 14.99
+  Zesty Lime Grilled Chicken: 15.02
+  Fajita Veggie Burrito Bowl: 15.39
+  Garlic Lime Shrimp Salad: 11.32
+  Crispy Avocado Nachos: 8.85
+  Avocado Lime Salad: 9.21
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Sunset Grilled Veggie Tacos: 10.18
+  Passionfruit Agua Fresca: 3.29
+  Carnitas Breakfast Burrito: 8.87
+  Black Bean & Corn Quesadilla: 6.83
+  Ancho Chile Chicken Salad: 6.07
+  Adobo Pork Sliders: 7.09
+  Tequila Lime Shrimp Skewers: 9.94
+  Smoky Mezcal Mule: 7.65
+  Smoky Black Bean Tostadas: 6.83
+  Classic Beef Enchiladas: 9.78
+  Spice-Rubbed Grilled Fajitas: 11.84
+  Zesty Lime Grilled Chicken: 11.87
+  Fajita Veggie Burrito Bowl: 12.16
+  Garlic Lime Shrimp Salad: 8.94
+  Crispy Avocado Nachos: 6.99
+  Avocado Lime Salad: 7.28

@@ -1,0 +1,37 @@
+id: business_0206
+name: Much Ado About Avocado
+description: A vibrant spot where Tex-Mex classics sizzle alongside creative avocado
+  twists, craft cocktails, and unforgettable flavors. Come enjoy a fun fusion of tradition
+  and fresh innovation in every bite and sip.
+rating: 1.0
+progenitor_customer: customer_0069
+menu_features:
+  Crispy Avocado Bites: 8.01
+  Blue Agave Tequila Sunrise: 9.01
+  Stuffed Avocado Boats: 8.91
+  Spicy Chorizo Enchiladas: 12.78
+  Smoky Chipotle BBQ Wings: 13.72
+  Crispy Avocado Burrito: 12.4
+  Roasted Pecan Flan: 5.11
+  Horchata Latte: 5.08
+  Ranchero Steak Fajitas: 16.98
+  Sizzling Fajita Platter: 14.94
+  Passion Fruit Mojito: 10.51
+  Chili Lime Shrimp Skewers: 10.28
+  Smoky Black Bean Nachos: 10.14
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Crispy Avocado Bites: 7.53
+  Blue Agave Tequila Sunrise: 8.47
+  Stuffed Avocado Boats: 8.38
+  Spicy Chorizo Enchiladas: 12.01
+  Smoky Chipotle BBQ Wings: 12.9
+  Crispy Avocado Burrito: 11.66
+  Roasted Pecan Flan: 4.8
+  Horchata Latte: 4.78
+  Ranchero Steak Fajitas: 15.96
+  Sizzling Fajita Platter: 14.04
+  Passion Fruit Mojito: 9.88
+  Chili Lime Shrimp Skewers: 9.66
+  Smoky Black Bean Nachos: 9.53

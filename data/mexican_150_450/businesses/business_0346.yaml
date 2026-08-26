@@ -1,0 +1,40 @@
+id: business_0346
+name: La Sabrosa Calle
+description: Experience bold, authentic Mexican and Tex-Mex flavors inspired by the
+  vibrant spirit of the street. From refreshing beverages to sizzling skillets and
+  decadent desserts, every dish is crafted to bring you the heart of Mexico in every
+  bite.
+rating: 1.0
+progenitor_customer: customer_0116
+menu_features:
+  Passion Fruit Agua Fresca: 4.34
+  Raspberry Jalapeno Mojito: 7.8
+  Sizzling Fajita Skillet: 16.33
+  Ultimate Nacho Platter: 12.06
+  Chili Con Queso Supreme: 7.75
+  Verde Chicken Enchiladas: 12.12
+  Creamy Avocado Soup: 6.48
+  Breakfast Chorizo Tostadas: 9.63
+  Rich Chocolate Tres Leches: 6.67
+  Horchata Iced Coffee: 5.31
+  Street Corn Elote: 5.18
+  Midnight Mole Enchiladas: 11.79
+  Savory Chorizo Street Tacos: 9.79
+  Street Corn Fritters: 6.31
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Passion Fruit Agua Fresca: 3.39
+  Raspberry Jalapeno Mojito: 6.08
+  Sizzling Fajita Skillet: 12.74
+  Ultimate Nacho Platter: 9.41
+  Chili Con Queso Supreme: 6.04
+  Verde Chicken Enchiladas: 9.45
+  Creamy Avocado Soup: 5.05
+  Breakfast Chorizo Tostadas: 7.51
+  Rich Chocolate Tres Leches: 5.2
+  Horchata Iced Coffee: 4.14
+  Street Corn Elote: 4.04
+  Midnight Mole Enchiladas: 9.2
+  Savory Chorizo Street Tacos: 7.64
+  Street Corn Fritters: 4.92

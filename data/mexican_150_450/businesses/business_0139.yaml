@@ -1,0 +1,33 @@
+id: business_0139
+name: Avo & Ember Kitchen
+description: Experience a fresh, modern spin on Mexican and Tex-Mex classics, where
+  vibrant flavors and bold ingredients come together in every bite. Enjoy a welcoming
+  atmosphere and a menu crafted for flavor lovers and food explorers alike.
+rating: 1.0
+progenitor_customer: customer_0047
+menu_features:
+  Avocado Ranch Burrito Bowl: 12.0
+  Smoky Chipotle Enchiladas: 11.7
+  Hatch Green Chile Rice: 5.27
+  Crispy Avocado Burrito: 11.42
+  Loaded Nacho Skillet: 11.66
+  Classic Horchata Delight: 3.99
+  Verde Chicken Enchiladas: 10.83
+  Cactus Jack Quesadilla: 12.01
+  Roasted Pecan Flan: 6.18
+  Chili Lime Roasted Corn: 4.35
+  Smoky Chipotle Quesadillas: 8.03
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Avocado Ranch Burrito Bowl: 10.32
+  Smoky Chipotle Enchiladas: 10.06
+  Hatch Green Chile Rice: 4.53
+  Crispy Avocado Burrito: 9.82
+  Loaded Nacho Skillet: 10.03
+  Classic Horchata Delight: 3.43
+  Verde Chicken Enchiladas: 9.31
+  Cactus Jack Quesadilla: 10.33
+  Roasted Pecan Flan: 5.31
+  Chili Lime Roasted Corn: 3.74
+  Smoky Chipotle Quesadillas: 6.91

@@ -1,0 +1,10 @@
+id: customer_0065
+name: Joshua Lee
+request: 'I would like assistance in finding a business where I can place an order
+  for the following menu items: 1 Pineapple Chipotle Pork and 1 Molten Queso Fundido.
+  It''s important that the selected business offers both of these items. Once identified,
+  I intend to proceed with the purchase. Thank you for your help.'
+menu_features:
+  Pineapple Chipotle Pork: 14.29
+  Molten Queso Fundido: 7.49
+amenity_features: []

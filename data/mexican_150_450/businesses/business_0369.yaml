@@ -1,0 +1,43 @@
+id: business_0369
+name: El Sabroso Palacio
+description: A vibrant Mexican and Tex-Mex eatery where rich traditions meet bold,
+  modern flavors. Discover sizzling entrees, savory bites, and fresh handcrafted drinks
+  in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0123
+menu_features:
+  Cheesy Jalapeno Queso: 7.72
+  Ancho Chili Rubbed Steak: 17.01
+  Crispy Avocado Tacos: 10.94
+  Bacon Wrapped Jalapeno Bites: 5.89
+  Vanilla Almond Horchata: 2.96
+  Pineapple Jalapeno Salsa: 4.0
+  Carnitas Breakfast Burrito: 12.24
+  Pineapple Habanero Sake: 8.41
+  Midnight Mole Enchiladas: 11.46
+  Smoky Black Bean Nachos: 8.58
+  Grilled Steak Quesadilla: 13.48
+  Fresh Lime and Cilantro Guacamole: 7.71
+  Huevos Rancheros: 11.23
+  Roasted Poblano Corn Chowder: 6.98
+  Tamale Pie Casserole: 11.07
+  Citrus Marinated Carne Asada: 15.7
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Cheesy Jalapeno Queso: 6.95
+  Ancho Chili Rubbed Steak: 15.31
+  Crispy Avocado Tacos: 9.85
+  Bacon Wrapped Jalapeno Bites: 5.3
+  Vanilla Almond Horchata: 2.66
+  Pineapple Jalapeno Salsa: 3.6
+  Carnitas Breakfast Burrito: 11.02
+  Pineapple Habanero Sake: 7.57
+  Midnight Mole Enchiladas: 10.31
+  Smoky Black Bean Nachos: 7.72
+  Grilled Steak Quesadilla: 12.13
+  Fresh Lime and Cilantro Guacamole: 6.94
+  Huevos Rancheros: 10.11
+  Roasted Poblano Corn Chowder: 6.28
+  Tamale Pie Casserole: 9.96
+  Citrus Marinated Carne Asada: 14.13

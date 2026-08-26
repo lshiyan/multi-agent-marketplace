@@ -1,0 +1,39 @@
+id: business_0446
+name: Rancho Verde Cocina
+description: Savor the bold and fresh tastes of classic Mexican and Tex-Mex cuisine
+  in a vibrant, welcoming atmosphere. At Rancho Verde Cocina, we celebrate the flavors
+  of tradition with a creative twist, offering a delicious experience for every palate.
+rating: 1.0
+progenitor_customer: customer_0149
+menu_features:
+  Verde Ranchero Huevos: 8.41
+  Classic Beef Enchiladas: 12.95
+  Avocado Lime Quinoa Bowl: 10.56
+  Hatch Green Chile Stew: 12.9
+  "Cheesy Jalape\xF1o Poppers": 7.54
+  Tequila Lime Shrimp Skewers: 16.95
+  Creamy Queso Dip: 8.52
+  Chocolate Mole Brownie: 7.77
+  Horchata Latte: 5.46
+  Mango Habanero Margarita: 8.24
+  Margarita Lime Cheesecake: 4.64
+  Mango Habanero Salsa: 4.63
+  Black Bean & Cheese Enchiladas: 9.19
+  Crispy Avocado Tacos: 11.71
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Verde Ranchero Huevos: 5.3
+  Classic Beef Enchiladas: 8.16
+  Avocado Lime Quinoa Bowl: 6.65
+  Hatch Green Chile Stew: 8.13
+  "Cheesy Jalape\xF1o Poppers": 4.75
+  Tequila Lime Shrimp Skewers: 10.68
+  Creamy Queso Dip: 5.37
+  Chocolate Mole Brownie: 4.9
+  Horchata Latte: 3.44
+  Mango Habanero Margarita: 5.19
+  Margarita Lime Cheesecake: 2.92
+  Mango Habanero Salsa: 2.92
+  Black Bean & Cheese Enchiladas: 5.79
+  Crispy Avocado Tacos: 7.38

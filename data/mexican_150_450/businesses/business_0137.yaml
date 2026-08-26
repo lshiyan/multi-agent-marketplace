@@ -1,0 +1,39 @@
+id: business_0137
+name: El Quetzal Cocina
+description: Experience vibrant Mexican and Tex-Mex cuisine in a welcoming atmosphere,
+  where classic flavors meet modern twists. Enjoy housemade drinks, savory street-inspired
+  fare, and enticing desserts for every palate.
+rating: 1.0
+progenitor_customer: customer_0046
+menu_features:
+  Housemade Horchata: 3.33
+  Smoky Lime Quinoa Salad: 10.21
+  Avocado Lime Cheesecake: 6.73
+  Mexican Chocolate Lava Cake: 6.96
+  Tangy Tomato Salsa Soup: 8.97
+  Pumpkin Spice Churros: 5.83
+  Pineapple Habanero Salsa: 4.84
+  Cinnamon Churro Bites: 4.9
+  Crispy Fish Street Tacos: 14.11
+  Fresh Limeade: 3.21
+  Loaded Chorizo Nachos: 7.8
+  Sweet Plantain Empanadas: 7.62
+  Spicy Pineapple Salsa Dip: 4.67
+  Chipotle Lime Chicken Salad: 8.76
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Housemade Horchata: 2.6
+  Smoky Lime Quinoa Salad: 7.96
+  Avocado Lime Cheesecake: 5.25
+  Mexican Chocolate Lava Cake: 5.43
+  Tangy Tomato Salsa Soup: 7.0
+  Pumpkin Spice Churros: 4.55
+  Pineapple Habanero Salsa: 3.78
+  Cinnamon Churro Bites: 3.82
+  Crispy Fish Street Tacos: 11.01
+  Fresh Limeade: 2.5
+  Loaded Chorizo Nachos: 6.08
+  Sweet Plantain Empanadas: 5.94
+  Spicy Pineapple Salsa Dip: 3.64
+  Chipotle Lime Chicken Salad: 6.83

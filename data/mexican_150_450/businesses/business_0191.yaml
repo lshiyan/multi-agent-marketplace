@@ -1,0 +1,45 @@
+id: business_0191
+name: Bloom & Blue Corn
+description: A modern Mexican and Tex-Mex eatery celebrating vibrant flavors, fresh
+  ingredients, and inventive twists on classic favorites. Enjoy bold salads, creative
+  cocktails, and colorful plates in a lively, welcoming space.
+rating: 1.0
+progenitor_customer: customer_0064
+menu_features:
+  Blue Corn Tostada Salad: 11.99
+  "Blueberry Jalape\xF1o Margarita": 12.94
+  Chocolate Molten Tamale: 8.05
+  Chili Lime Shrimp Skewers: 12.95
+  Jicama and Citrus Salad: 8.25
+  Beef Fajita Skillet: 13.78
+  Gourmet Nacho Platter: 12.65
+  Al Pastor Quesadilla: 10.32
+  Crispy Avocado Fritters: 8.69
+  Coconut Tres Leches: 7.47
+  Loaded Sweet Potato Fries: 6.57
+  Black Bean and Cilantro Rice: 2.47
+  Spicy Avocado Smash Burger: 11.04
+  Tequila Lime Shrimp Skewers: 17.81
+  Three-Cheese Queso Dip: 7.03
+  Honey-Lime Grilled Salmon: 20.35
+  Coconut Lime Shrimp Skewers: 18.01
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Blue Corn Tostada Salad: 10.67
+  "Blueberry Jalape\xF1o Margarita": 11.52
+  Chocolate Molten Tamale: 7.16
+  Chili Lime Shrimp Skewers: 11.53
+  Jicama and Citrus Salad: 7.34
+  Beef Fajita Skillet: 12.26
+  Gourmet Nacho Platter: 11.26
+  Al Pastor Quesadilla: 9.18
+  Crispy Avocado Fritters: 7.73
+  Coconut Tres Leches: 6.65
+  Loaded Sweet Potato Fries: 5.85
+  Black Bean and Cilantro Rice: 2.2
+  Spicy Avocado Smash Burger: 9.83
+  Tequila Lime Shrimp Skewers: 15.85
+  Three-Cheese Queso Dip: 6.26
+  Honey-Lime Grilled Salmon: 18.11
+  Coconut Lime Shrimp Skewers: 16.03

@@ -1,0 +1,43 @@
+id: business_0427
+name: Brunchero Kitchen
+description: Brunchero Kitchen brings a modern twist to Mexican and Tex-Mex classics
+  in a vibrant, welcoming atmosphere. Dive into bold flavors and fresh ingredients,
+  perfect for brunch, lunch, or an evening bite.
+rating: 1.0
+progenitor_customer: customer_0143
+menu_features:
+  Chorizo Breakfast Burrito: 8.57
+  Toasted Coconut Flan: 7.11
+  Citrus Grilled Chicken Tacos: 11.88
+  Bacon and Egg Tostada: 7.72
+  Jicama and Citrus Salad: 6.56
+  Roasted Poblano Corn Chowder: 7.43
+  Carnitas Breakfast Burrito: 11.83
+  Salted Caramel Margarita: 9.87
+  Hatch Green Chile Stew: 12.14
+  Spice-Rubbed Grilled Fajitas: 16.11
+  Ancho Chili Braised Beef Enchiladas: 13.36
+  Southwestern Quinoa Salad: 9.08
+  Breakfast Tostada Stack: 9.38
+  Spicy Shrimp Fajitas: 16.95
+  Tequila Lime Shrimp Skewers: 14.24
+  Creamy Jalapeno Corn Fritters: 7.27
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Chorizo Breakfast Burrito: 6.94
+  Toasted Coconut Flan: 5.76
+  Citrus Grilled Chicken Tacos: 9.62
+  Bacon and Egg Tostada: 6.25
+  Jicama and Citrus Salad: 5.31
+  Roasted Poblano Corn Chowder: 6.02
+  Carnitas Breakfast Burrito: 9.58
+  Salted Caramel Margarita: 7.99
+  Hatch Green Chile Stew: 9.83
+  Spice-Rubbed Grilled Fajitas: 13.05
+  Ancho Chili Braised Beef Enchiladas: 10.82
+  Southwestern Quinoa Salad: 7.35
+  Breakfast Tostada Stack: 7.6
+  Spicy Shrimp Fajitas: 13.73
+  Tequila Lime Shrimp Skewers: 11.53
+  Creamy Jalapeno Corn Fritters: 5.89

@@ -1,0 +1,43 @@
+id: business_0348
+name: Sizzle & Sol Kitchen
+description: Experience vibrant Mexican and Tex-Mex flavors in a bright, welcoming
+  atmosphere. Our kitchen serves up savory classics and crave-worthy sweets, all crafted
+  with fresh ingredients and a modern twist.
+rating: 1.0
+progenitor_customer: customer_0116
+menu_features:
+  Sizzling Chicken Fajitas: 14.69
+  Cinnamon Sugar Churro Sticks: 5.72
+  Sweet Plantain Empanadas: 6.66
+  Roasted Tomato Salsa Dip: 2.0
+  Spicy Beef Chimichangas: 15.01
+  Creamy Avocado Soup: 7.4
+  Avocado Lime Quinoa Bowl: 11.83
+  Cinnamon Churro Bites: 5.45
+  Sea Breeze Ceviche: 14.15
+  Sizzling Pork Carnitas Bowl: 12.23
+  "Spicy Jalape\xF1o Limeade": 3.62
+  Smoky Black Bean Tostadas: 7.24
+  Street Corn Fritters: 7.18
+  Classic Beef Barbacoa: 11.55
+  Citrus Cilantro Rice: 4.38
+  Black Bean & Corn Quesadilla: 9.52
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Sizzling Chicken Fajitas: 9.25
+  Cinnamon Sugar Churro Sticks: 3.6
+  Sweet Plantain Empanadas: 4.2
+  Roasted Tomato Salsa Dip: 1.26
+  Spicy Beef Chimichangas: 9.46
+  Creamy Avocado Soup: 4.66
+  Avocado Lime Quinoa Bowl: 7.45
+  Cinnamon Churro Bites: 3.43
+  Sea Breeze Ceviche: 8.91
+  Sizzling Pork Carnitas Bowl: 7.7
+  "Spicy Jalape\xF1o Limeade": 2.28
+  Smoky Black Bean Tostadas: 4.56
+  Street Corn Fritters: 4.52
+  Classic Beef Barbacoa: 7.28
+  Citrus Cilantro Rice: 2.76
+  Black Bean & Corn Quesadilla: 6.0

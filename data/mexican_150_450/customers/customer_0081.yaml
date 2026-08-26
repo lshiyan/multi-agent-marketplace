@@ -1,0 +1,12 @@
+id: customer_0081
+name: Michael Johnson
+request: 'I would like to place an order and need your assistance in finding a business
+  that can fulfill the following items: 1 Three Cheese Sope, 1 Grilled Pineapple Dessert
+  Quesadilla, and 1 Fresh Lime Cilantro Rice. It is very important that the business
+  offers all these menu items. Please let me know if you find a suitable option. Thank
+  you.'
+menu_features:
+  Three Cheese Sope: 9.99
+  Grilled Pineapple Dessert Quesadilla: 7.99
+  Fresh Lime Cilantro Rice: 2.99
+amenity_features: []

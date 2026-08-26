@@ -1,0 +1,33 @@
+id: business_0014
+name: "Guac N\u2019 Roll"
+description: "Where fresh flavors and bold cravings take center stage. Enjoy a lively\
+  \ menu of vibrant salads, crispy bites, zesty seafood, and tempting desserts in\
+  \ a setting that\u2019s always ready to rock your taste buds."
+rating: 1.0
+progenitor_customer: customer_0005
+menu_features:
+  Crispy Avocado Bites: 8.58
+  Zesty Shrimp Ceviche: 12.99
+  Blueberry Agave Margarita: 12.64
+  Roasted Pecan Flan: 5.0
+  Mexican Street Corn Salad: 7.63
+  Smoky Chipotle Quesadillas: 9.99
+  Bacon and Egg Tostada: 10.18
+  Zesty Lime Shrimp Salad: 12.14
+  Spicy Zucchini Tostadas: 11.03
+  Black Bean Street Tacos: 10.77
+  Breakfast Chilaquiles Verde: 8.89
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Crispy Avocado Bites: 7.04
+  Zesty Shrimp Ceviche: 10.65
+  Blueberry Agave Margarita: 10.36
+  Roasted Pecan Flan: 4.1
+  Mexican Street Corn Salad: 6.26
+  Smoky Chipotle Quesadillas: 8.19
+  Bacon and Egg Tostada: 8.35
+  Zesty Lime Shrimp Salad: 9.95
+  Spicy Zucchini Tostadas: 9.04
+  Black Bean Street Tacos: 8.83
+  Breakfast Chilaquiles Verde: 7.29

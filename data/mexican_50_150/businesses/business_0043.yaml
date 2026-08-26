@@ -1,0 +1,43 @@
+id: business_0043
+name: Tamale & Tequila Tavern
+description: A vibrant destination blending modern Mexican and Tex-Mex flavors, Tamale
+  & Tequila Tavern invites you to savor house-crafted margaritas and street-inspired
+  bites in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0015
+menu_features:
+  Blueberry Hibiscus Margarita: 8.8
+  Golden Tequila Sunrise: 9.52
+  Street Style Quesadillas: 9.48
+  Baja Fish Tacos: 14.55
+  Breakfast Chilaquiles Verde: 9.16
+  Sweet Corn Tamale Bites: 7.23
+  Spicy Chicken Tortilla Soup: 6.84
+  Blue Corn Tortilla Soup: 6.91
+  Black Bean Street Tacos: 11.15
+  Cocoa Cinnamon Tequila: 10.21
+  Roasted Poblano and Cheese Empanadas: 8.91
+  Tropical Coconut Margarita: 8.04
+  Chili Lime Skirt Steak: 14.44
+  Three-Cheese Chile Rellenos: 10.04
+  Spice-Rubbed Grilled Fajitas: 14.13
+  Ancho Chili Rubbed Steak: 14.55
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Blueberry Hibiscus Margarita: 6.07
+  Golden Tequila Sunrise: 6.57
+  Street Style Quesadillas: 6.54
+  Baja Fish Tacos: 10.04
+  Breakfast Chilaquiles Verde: 6.32
+  Sweet Corn Tamale Bites: 4.99
+  Spicy Chicken Tortilla Soup: 4.72
+  Blue Corn Tortilla Soup: 4.77
+  Black Bean Street Tacos: 7.69
+  Cocoa Cinnamon Tequila: 7.04
+  Roasted Poblano and Cheese Empanadas: 6.15
+  Tropical Coconut Margarita: 5.55
+  Chili Lime Skirt Steak: 9.96
+  Three-Cheese Chile Rellenos: 6.93
+  Spice-Rubbed Grilled Fajitas: 9.75
+  Ancho Chili Rubbed Steak: 10.04

@@ -1,0 +1,35 @@
+id: business_0136
+name: Much Ado About Lime
+description: Bursting with bright flavors and bold Tex-Mex flair, Much Ado About Lime
+  brings a playful twist to classic and contemporary Mexican-inspired dishes. Enjoy
+  a citrus-kissed experience in a colorful, lively atmosphere perfect for any fiesta.
+rating: 1.0
+progenitor_customer: customer_0046
+menu_features:
+  Tequila Lime Grilled Chicken: 14.32
+  Avocado Lime Enchiladas: 7.46
+  Black Bean Stuffed Sweet Potatoes: 10.57
+  Veggie Fajita Platter: 12.72
+  Smoky Black Bean Soup: 7.04
+  Loaded Chorizo Nachos: 9.75
+  Beef Barbacoa Tostadas: 11.99
+  Spicy Mango Margarita: 10.24
+  Carne Asada Nachos: 12.64
+  Blueberry Agave Margarita: 8.15
+  Tamarind-Glazed Ribs: 20.69
+  Honey Lime Grilled Fajitas: 14.66
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Tequila Lime Grilled Chicken: 10.74
+  Avocado Lime Enchiladas: 5.59
+  Black Bean Stuffed Sweet Potatoes: 7.93
+  Veggie Fajita Platter: 9.54
+  Smoky Black Bean Soup: 5.28
+  Loaded Chorizo Nachos: 7.31
+  Beef Barbacoa Tostadas: 8.99
+  Spicy Mango Margarita: 7.68
+  Carne Asada Nachos: 9.48
+  Blueberry Agave Margarita: 6.11
+  Tamarind-Glazed Ribs: 15.52
+  Honey Lime Grilled Fajitas: 11.0

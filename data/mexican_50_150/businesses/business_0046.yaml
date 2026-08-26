@@ -1,0 +1,41 @@
+id: business_0046
+name: Peppercorn Patio
+description: Step into a vibrant oasis where bold Mexican and Tex-Mex flavors come
+  alive. Enjoy fresh takes on classic favorites, refreshing drinks, and a welcoming
+  patio atmosphere perfect for gathering with friends and family.
+rating: 1.0
+progenitor_customer: customer_0016
+menu_features:
+  Refreshing Agua Fresca Trio: 8.78
+  Black Bean Taco Bowl: 7.81
+  Grilled Street Corn: 6.16
+  Agave Lime Chicken Skewers: 10.41
+  Spicy Zucchini Tostadas: 9.93
+  Pork Carnitas Platter: 16.2
+  Horchata Iced Latte: 4.41
+  Mango Agua Fresca: 3.35
+  Spicy Avocado Burger: 10.39
+  Three Cheese Sope: 10.52
+  Hatch Green Chile Stew: 12.94
+  Roasted Poblano Rellenos: 14.72
+  Classic Beef Enchiladas: 12.83
+  Lime-Garlic Grilled Chicken: 14.35
+  Horchata Cold Brew Coffee: 4.66
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Refreshing Agua Fresca Trio: 6.15
+  Black Bean Taco Bowl: 5.47
+  Grilled Street Corn: 4.31
+  Agave Lime Chicken Skewers: 7.29
+  Spicy Zucchini Tostadas: 6.95
+  Pork Carnitas Platter: 11.34
+  Horchata Iced Latte: 3.09
+  Mango Agua Fresca: 2.34
+  Spicy Avocado Burger: 7.27
+  Three Cheese Sope: 7.36
+  Hatch Green Chile Stew: 9.06
+  Roasted Poblano Rellenos: 10.3
+  Classic Beef Enchiladas: 8.98
+  Lime-Garlic Grilled Chicken: 10.04
+  Horchata Cold Brew Coffee: 3.26

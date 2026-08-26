@@ -1,0 +1,41 @@
+id: business_0036
+name: Zest & Verde Cocina
+description: Experience vibrant flavors and creative twists on Mexican and Tex-Mex
+  classics in a modern, colorful setting. Enjoy bold tacos, fresh guacamole, inventive
+  small plates, and signature cocktails crafted with a contemporary touch.
+rating: 1.0
+progenitor_customer: customer_0012
+menu_features:
+  Spicy Zucchini Tostadas: 9.13
+  Black Bean Street Tacos: 9.1
+  Tangy Tomato Salsa Soup: 8.57
+  Crispy Avocado Fritters: 7.89
+  Black Bean Burgers: 11.31
+  Blueberry Tequila Sunrise: 11.93
+  Creamy Avocado Soup: 6.38
+  Spiked Horchata Cooler: 9.14
+  Chocolate Sopapilla Bites: 4.77
+  Savory Chorizo Street Tacos: 9.39
+  Spicy Black Bean Nacho Platter: 11.66
+  Tropical Guava Mint Punch: 6.25
+  Chocolate Mole Brownie: 7.08
+  Fresh Lime and Cilantro Guacamole: 7.26
+  Spicy Avocado Burger: 12.42
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Spicy Zucchini Tostadas: 5.66
+  Black Bean Street Tacos: 5.64
+  Tangy Tomato Salsa Soup: 5.31
+  Crispy Avocado Fritters: 4.89
+  Black Bean Burgers: 7.01
+  Blueberry Tequila Sunrise: 7.4
+  Creamy Avocado Soup: 3.96
+  Spiked Horchata Cooler: 5.67
+  Chocolate Sopapilla Bites: 2.96
+  Savory Chorizo Street Tacos: 5.82
+  Spicy Black Bean Nacho Platter: 7.23
+  Tropical Guava Mint Punch: 3.88
+  Chocolate Mole Brownie: 4.39
+  Fresh Lime and Cilantro Guacamole: 4.5
+  Spicy Avocado Burger: 7.7

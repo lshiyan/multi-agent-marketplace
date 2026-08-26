@@ -1,0 +1,41 @@
+id: business_0001
+name: Holy Queso!
+description: Dive into bold flavors and fresh twists on Mexican and Tex-Mex classics.
+  From street-inspired bites to refreshing drinks, every dish packs a fiesta of taste
+  in every bite.
+rating: 1.0
+progenitor_customer: customer_0001
+menu_features:
+  Passion Fruit Mojito: 9.53
+  Grilled Steak Quesadilla: 15.84
+  Adobo Roasted Corn Salad: 7.53
+  Classic Horchata Delight: 3.5
+  Blueberry Mint Agua Fresca: 3.3
+  Rich Chocolate Tres Leches: 7.18
+  Street Corn Quesadilla: 11.09
+  Avocado Lime Empanadas: 8.52
+  Hatch Green Chile Rice: 4.48
+  Citrus Grilled Chicken Tacos: 11.92
+  Coconut Lime Paleta: 3.26
+  Roasted Poblano Rellenos: 16.32
+  Spicy Shrimp Ceviche: 10.05
+  Black Bean & Corn Quesadilla: 8.92
+  Hatch Green Chile Stew: 12.71
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Passion Fruit Mojito: 8.67
+  Grilled Steak Quesadilla: 14.41
+  Adobo Roasted Corn Salad: 6.85
+  Classic Horchata Delight: 3.19
+  Blueberry Mint Agua Fresca: 3.0
+  Rich Chocolate Tres Leches: 6.53
+  Street Corn Quesadilla: 10.09
+  Avocado Lime Empanadas: 7.75
+  Hatch Green Chile Rice: 4.08
+  Citrus Grilled Chicken Tacos: 10.85
+  Coconut Lime Paleta: 2.97
+  Roasted Poblano Rellenos: 14.85
+  Spicy Shrimp Ceviche: 9.15
+  Black Bean & Corn Quesadilla: 8.12
+  Hatch Green Chile Stew: 11.57

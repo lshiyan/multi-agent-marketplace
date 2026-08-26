@@ -1,0 +1,38 @@
+id: business_0156
+name: Cocoa & Cactus
+description: Cocoa & Cactus brings a fresh spin to Mexican and Tex-Mex cuisine with
+  bold flavors, tropical drinks, and vibrant sweet treats. Gather with friends and
+  family for a festive atmosphere and creative classics inspired by tradition and
+  sunshine.
+rating: 1.0
+progenitor_customer: customer_0052
+menu_features:
+  Mexican Chocolate Brownie: 6.16
+  Crispy Fish Tacos: 9.89
+  Passionfruit Agua Fresca: 3.94
+  Classic Beef Barbacoa: 16.17
+  Coconut Tres Leches: 6.32
+  Tropical Coconut Margarita: 7.38
+  Tamale Trio Sampler: 12.9
+  Loaded Nacho Bowl: 11.07
+  Loaded Nacho Skillet: 11.33
+  Hatch Green Chile Quesadilla: 12.18
+  Tequila Lime Flan: 7.92
+  Ancho Chili Braised Beef Enchiladas: 15.07
+  Chipotle Lime Shrimp Tacos: 15.54
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Mexican Chocolate Brownie: 4.74
+  Crispy Fish Tacos: 7.62
+  Passionfruit Agua Fresca: 3.03
+  Classic Beef Barbacoa: 12.45
+  Coconut Tres Leches: 4.87
+  Tropical Coconut Margarita: 5.68
+  Tamale Trio Sampler: 9.93
+  Loaded Nacho Bowl: 8.52
+  Loaded Nacho Skillet: 8.72
+  Hatch Green Chile Quesadilla: 9.38
+  Tequila Lime Flan: 6.1
+  Ancho Chili Braised Beef Enchiladas: 11.6
+  Chipotle Lime Shrimp Tacos: 11.97

@@ -1,0 +1,42 @@
+id: business_0111
+name: Cacao & Chile Cantina
+description: Cacao & Chile Cantina offers a creative blend of Mexican and Tex-Mex
+  favorites, where bold flavors and sweet-spicy combos come together in every dish.
+  Enjoy an inviting atmosphere and a menu that celebrates vibrant ingredients and
+  classic tradition.
+rating: 1.0
+progenitor_customer: customer_0037
+menu_features:
+  Rich Chocolate Tamales: 6.71
+  Classic Horchata Smoothie: 5.33
+  Zesty Shrimp Ceviche: 14.51
+  Smoky Chipotle BBQ Nachos: 11.97
+  Hatch Green Chile Quesadilla: 14.24
+  Mexican Spiced Chocolate Cake: 7.63
+  Tequila Lime Flan: 6.87
+  Pineapple Salsa Pork Tacos: 13.7
+  Choco-Chili Volcano Cake: 4.41
+  Tex-Mex Big Breakfast Bowl: 10.63
+  Black Bean Stuffed Sweet Potatoes: 9.16
+  Roasted Corn and Black Bean Salad: 7.66
+  Tamale Trio Platter: 14.86
+  Smoky Black Bean Nachos: 11.77
+  Gourmet Nacho Platter: 13.91
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Rich Chocolate Tamales: 5.3
+  Classic Horchata Smoothie: 4.21
+  Zesty Shrimp Ceviche: 11.46
+  Smoky Chipotle BBQ Nachos: 9.46
+  Hatch Green Chile Quesadilla: 11.25
+  Mexican Spiced Chocolate Cake: 6.03
+  Tequila Lime Flan: 5.43
+  Pineapple Salsa Pork Tacos: 10.82
+  Choco-Chili Volcano Cake: 3.48
+  Tex-Mex Big Breakfast Bowl: 8.4
+  Black Bean Stuffed Sweet Potatoes: 7.24
+  Roasted Corn and Black Bean Salad: 6.05
+  Tamale Trio Platter: 11.74
+  Smoky Black Bean Nachos: 9.3
+  Gourmet Nacho Platter: 10.99

@@ -1,0 +1,39 @@
+id: business_0084
+name: Casa Sabor y Sol
+description: Experience the vibrant flavors and sunny spirit of Mexican and Tex-Mex
+  cuisine in a welcoming, festive setting. From savory classics to inventive sweets
+  and refreshing drinks, our menu brings a taste of tradition with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0028
+menu_features:
+  Hatch Green Chile Stew: 13.59
+  Grilled Pineapple Mojito: 8.77
+  Churro Ice Cream Sandwich: 7.58
+  Southwestern Quinoa Salad: 7.54
+  Tex-Mex Fajita Wrap: 12.08
+  Horchata Milkshake: 5.42
+  Classic Flan Delight: 6.01
+  Rich Chocolate Tres Leches: 5.8
+  Tequila Lime Grilled Shrimp: 13.16
+  Minty Mojito Refresher: 8.15
+  Garlic Lime Shrimp Salad: 14.34
+  Honey Lime Chicken Fajitas: 16.72
+  Tropical Coconut Margarita: 11.4
+  Three-Cheese Enchilada Stack: 12.39
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Hatch Green Chile Stew: 9.92
+  Grilled Pineapple Mojito: 6.4
+  Churro Ice Cream Sandwich: 5.53
+  Southwestern Quinoa Salad: 5.5
+  Tex-Mex Fajita Wrap: 8.82
+  Horchata Milkshake: 3.96
+  Classic Flan Delight: 4.39
+  Rich Chocolate Tres Leches: 4.23
+  Tequila Lime Grilled Shrimp: 9.61
+  Minty Mojito Refresher: 5.95
+  Garlic Lime Shrimp Salad: 10.47
+  Honey Lime Chicken Fajitas: 12.21
+  Tropical Coconut Margarita: 8.32
+  Three-Cheese Enchilada Stack: 9.04

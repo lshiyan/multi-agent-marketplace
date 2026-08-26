@@ -1,0 +1,45 @@
+id: business_0213
+name: La Fresca Cantina
+description: Experience vibrant Mexican and Tex-Mex flavors in a lively and relaxed
+  atmosphere. La Fresca Cantina features fresh, zesty dishes and creative cocktails
+  inspired by the spirit of Mexico.
+rating: 1.0
+progenitor_customer: customer_0071
+menu_features:
+  Chipotle Lime Chicken Skewers: 11.78
+  Sea Breeze Ceviche: 13.15
+  Avocado Lime Grilled Shrimp: 13.71
+  Roasted Poblano and Cheese Empanadas: 9.85
+  Crispy Carnitas Tacos: 12.71
+  Flamin' Skillet Fajitas: 17.6
+  Breakfast Chilaquiles Verde: 10.48
+  Tropical Coconut Margarita: 8.67
+  Black Bean Street Tacos: 8.67
+  Horchata Latte: 4.61
+  Zesty Lime Chicken Enchiladas: 17.0
+  Classic Horchata Smoothie: 4.62
+  Cocoa Dusted Churro Bites: 6.26
+  Creamy Avocado Caesar Salad: 9.92
+  Fresh Mint Mojito: 7.98
+  Grilled Pineapple Mojito: 10.08
+  Honey-Lime Shrimp Skewers: 15.83
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Chipotle Lime Chicken Skewers: 7.3
+  Sea Breeze Ceviche: 8.15
+  Avocado Lime Grilled Shrimp: 8.5
+  Roasted Poblano and Cheese Empanadas: 6.11
+  Crispy Carnitas Tacos: 7.88
+  Flamin' Skillet Fajitas: 10.91
+  Breakfast Chilaquiles Verde: 6.5
+  Tropical Coconut Margarita: 5.38
+  Black Bean Street Tacos: 5.38
+  Horchata Latte: 2.86
+  Zesty Lime Chicken Enchiladas: 10.54
+  Classic Horchata Smoothie: 2.86
+  Cocoa Dusted Churro Bites: 3.88
+  Creamy Avocado Caesar Salad: 6.15
+  Fresh Mint Mojito: 4.95
+  Grilled Pineapple Mojito: 6.25
+  Honey-Lime Shrimp Skewers: 9.81

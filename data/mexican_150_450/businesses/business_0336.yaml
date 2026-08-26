@@ -1,0 +1,33 @@
+id: business_0336
+name: Kernel & Crave
+description: Dive into fresh and vibrant Mexican and Tex-Mex flavors where every dish
+  brings zesty creativity to the table. Expect a lively spread of savory bites, shareable
+  snacks, and decadent desserts with plenty of bold twists.
+rating: 1.0
+progenitor_customer: customer_0112
+menu_features:
+  Chili Lime Roasted Corn: 5.08
+  Chili Lime Jicama Sticks: 5.61
+  Ancho Chili Chocolate Cake: 7.6
+  Classic Horchata Delight: 3.57
+  Pineapple Jalapeno Salsa: 5.35
+  Guava Limeade Cooler: 4.97
+  Tangy Tomato Salsa Soup: 8.72
+  Smoky Black Bean Nachos: 8.65
+  Roasted Corn Enchiladas: 9.59
+  Pico Avocado Toast: 8.31
+  Shrimp and Avocado Ceviche: 11.59
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Chili Lime Roasted Corn: 3.81
+  Chili Lime Jicama Sticks: 4.21
+  Ancho Chili Chocolate Cake: 5.7
+  Classic Horchata Delight: 2.68
+  Pineapple Jalapeno Salsa: 4.01
+  Guava Limeade Cooler: 3.73
+  Tangy Tomato Salsa Soup: 6.54
+  Smoky Black Bean Nachos: 6.49
+  Roasted Corn Enchiladas: 7.19
+  Pico Avocado Toast: 6.23
+  Shrimp and Avocado Ceviche: 8.69

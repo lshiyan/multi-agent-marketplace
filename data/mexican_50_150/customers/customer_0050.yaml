@@ -1,0 +1,9 @@
+id: customer_0050
+name: Zara Hughes
+request: Could you please help me find a restaurant that offers both a Carnitas Plantain
+  Burrito and an Ancho Chile Chicken Salad, as I intend to place an order for 1 of
+  each? Thank you!
+menu_features:
+  Carnitas Plantain Burrito: 12.49
+  Ancho Chile Chicken Salad: 9.99
+amenity_features: []

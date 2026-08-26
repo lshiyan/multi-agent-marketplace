@@ -1,0 +1,33 @@
+id: business_0334
+name: Fiesta Fajita Fork
+description: Experience the vibrant flavors of Mexico with sizzling specialties and
+  delicious desserts in a warm, inviting atmosphere. From savory skillets to sweet
+  delights, your taste adventure awaits at Fiesta Fajita Fork.
+rating: 1.0
+progenitor_customer: customer_0112
+menu_features:
+  Sizzling Chicken Fajitas: 12.63
+  Classic Beef Barbacoa: 16.97
+  Caramel Apple Empanadas: 5.19
+  Passionfruit Agua Fresca: 4.26
+  Shrimp and Avocado Ceviche: 11.52
+  Horchata Milkshake: 5.93
+  Warm Churro Bites: 6.21
+  Bacon and Egg Tostada: 8.32
+  Roasted Poblano Queso Dip: 6.65
+  Citrus Grilled Chicken Tacos: 10.82
+  Pumpkin Spice Flan: 6.4
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Sizzling Chicken Fajitas: 8.46
+  Classic Beef Barbacoa: 11.37
+  Caramel Apple Empanadas: 3.48
+  Passionfruit Agua Fresca: 2.85
+  Shrimp and Avocado Ceviche: 7.72
+  Horchata Milkshake: 3.97
+  Warm Churro Bites: 4.16
+  Bacon and Egg Tostada: 5.57
+  Roasted Poblano Queso Dip: 4.46
+  Citrus Grilled Chicken Tacos: 7.25
+  Pumpkin Spice Flan: 4.29

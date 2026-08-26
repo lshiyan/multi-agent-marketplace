@@ -1,0 +1,37 @@
+id: business_0126
+name: Blue Agave Table
+description: Blue Agave Table brings a fresh take on classic Mexican and Tex-Mex favorites,
+  blending vibrant flavors with a modern twist. Enjoy boldly seasoned dishes, refreshing
+  drinks, and a welcoming atmosphere perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0042
+menu_features:
+  Spiced Chocolate Flan: 7.59
+  Cilantro Lime Chicken Tacos: 11.49
+  Smoky Chipotle BBQ Ribs: 16.36
+  Cilantro Lime Shrimp Skewers: 14.43
+  Classic Carne Asada Burrito: 10.65
+  Black Bean and Avocado Wrap: 9.6
+  Grilled Shrimp Fajita Bowl: 13.32
+  Spicy Beef Chimichangas: 10.8
+  Blueberry Hibiscus Margarita: 10.14
+  Bacon and Egg Tostada: 8.49
+  Blueberry Jalapeno Lemonade: 3.67
+  Mini Street Tacos Platter: 8.55
+  Blue Corn Tortilla Chips: 4.85
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Spiced Chocolate Flan: 5.84
+  Cilantro Lime Chicken Tacos: 8.85
+  Smoky Chipotle BBQ Ribs: 12.6
+  Cilantro Lime Shrimp Skewers: 11.11
+  Classic Carne Asada Burrito: 8.2
+  Black Bean and Avocado Wrap: 7.39
+  Grilled Shrimp Fajita Bowl: 10.26
+  Spicy Beef Chimichangas: 8.32
+  Blueberry Hibiscus Margarita: 7.81
+  Bacon and Egg Tostada: 6.54
+  Blueberry Jalapeno Lemonade: 2.83
+  Mini Street Tacos Platter: 6.58
+  Blue Corn Tortilla Chips: 3.73

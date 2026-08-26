@@ -1,0 +1,35 @@
+id: business_0075
+name: "Mingle & M\xEDrate"
+description: A modern Mexican and Tex-Mex kitchen serving fresh, vibrant flavors and
+  creative takes on classic favorites. Enjoy a relaxed atmosphere with handcrafted
+  drinks and mouthwatering bites, perfect for sharing and savoring together.
+rating: 1.0
+progenitor_customer: customer_0025
+menu_features:
+  Horchata Milkshake: 4.65
+  Smoky Chipotle BBQ Ribs: 15.8
+  Grilled Pineapple Mojito: 7.59
+  Chipotle Lime Shrimp Tacos: 12.88
+  Avocado Street Tacos: 11.55
+  Coconut Tres Leches: 7.33
+  Margarita Lime Cheesecake: 7.32
+  Chipotle Lime Chicken Salad: 15.56
+  Black Bean Avocado Enchiladas: 11.05
+  Mexican Chocolate Milkshake: 4.68
+  Tex-Mex Fajita Wrap: 14.14
+  Black Bean & Corn Enchiladas: 11.63
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Horchata Milkshake: 3.95
+  Smoky Chipotle BBQ Ribs: 13.43
+  Grilled Pineapple Mojito: 6.45
+  Chipotle Lime Shrimp Tacos: 10.95
+  Avocado Street Tacos: 9.82
+  Coconut Tres Leches: 6.23
+  Margarita Lime Cheesecake: 6.22
+  Chipotle Lime Chicken Salad: 13.23
+  Black Bean Avocado Enchiladas: 9.39
+  Mexican Chocolate Milkshake: 3.98
+  Tex-Mex Fajita Wrap: 12.02
+  Black Bean & Corn Enchiladas: 9.89

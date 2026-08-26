@@ -1,0 +1,41 @@
+id: business_0379
+name: Sabores de Azul
+description: Experience vibrant Mexican and Tex-Mex cuisine in a lively, welcoming
+  setting. From hearty breakfasts to sizzling skillets and refreshing drinks, Sabores
+  de Azul serves bold flavors and a fresh take on tradition.
+rating: 1.0
+progenitor_customer: customer_0127
+menu_features:
+  Blue Corn Tortilla Chips: 4.6
+  Carnitas Breakfast Burrito: 10.98
+  Guava Limeade Cooler: 5.18
+  Sizzling Fajita Skillet: 15.03
+  Hatch Chile Queso Dip: 8.81
+  Pineapple Habanero Salsa: 3.24
+  Coconut Flan Delight: 7.37
+  Classic Beef Barbacoa: 15.16
+  Mexican Chocolate Flan: 5.84
+  Loaded Nacho Fries: 9.48
+  Creamy Jalapeno Corn Fritters: 8.75
+  Cilantro Lime Chicken Tacos: 9.11
+  Black Bean Sweet Potato Burrito: 9.01
+  Loaded Nacho Fiesta: 10.23
+  Spicy Chipotle Chicken Wings: 9.09
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Blue Corn Tortilla Chips: 4.28
+  Carnitas Breakfast Burrito: 10.21
+  Guava Limeade Cooler: 4.82
+  Sizzling Fajita Skillet: 13.98
+  Hatch Chile Queso Dip: 8.19
+  Pineapple Habanero Salsa: 3.01
+  Coconut Flan Delight: 6.85
+  Classic Beef Barbacoa: 14.1
+  Mexican Chocolate Flan: 5.43
+  Loaded Nacho Fries: 8.82
+  Creamy Jalapeno Corn Fritters: 8.14
+  Cilantro Lime Chicken Tacos: 8.47
+  Black Bean Sweet Potato Burrito: 8.38
+  Loaded Nacho Fiesta: 9.51
+  Spicy Chipotle Chicken Wings: 8.45

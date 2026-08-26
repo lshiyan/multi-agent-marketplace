@@ -1,0 +1,43 @@
+id: business_0197
+name: Cazuela & Corn
+description: Cazuela & Corn brings a fresh twist to Mexican and Tex-Mex classics with
+  vibrant flavors, creative bowls, and street-inspired bites. Gather with friends
+  and enjoy a welcoming space filled with the aroma of spices and sweet corn delights.
+rating: 1.0
+progenitor_customer: customer_0066
+menu_features:
+  Sweet Corn Tamales: 11.2
+  Blue Corn Tortilla Chips: 5.34
+  Grilled Shrimp Fajita Bowl: 12.88
+  Loaded Nacho Platter: 13.13
+  Sizzling Chicken Fajitas: 14.39
+  Mini Street Tacos Platter: 9.59
+  Sweet Potato and Black Bean Tacos: 12.34
+  Choco-Chili Volcano Cake: 6.92
+  Chipotle Chicken Burrito Bowl: 12.54
+  Chili Lime Shrimp Skewers: 11.75
+  Tamale Pie Casserole: 10.22
+  Three-Cheese Enchilada Stack: 14.84
+  Green Chile Pork Stew: 15.71
+  Horchata Cold Brew Coffee: 5.32
+  Zesty Lime Grilled Chicken: 12.64
+  Cinnamon Sugar Churros: 5.32
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Sweet Corn Tamales: 9.63
+  Blue Corn Tortilla Chips: 4.59
+  Grilled Shrimp Fajita Bowl: 11.08
+  Loaded Nacho Platter: 11.29
+  Sizzling Chicken Fajitas: 12.38
+  Mini Street Tacos Platter: 8.25
+  Sweet Potato and Black Bean Tacos: 10.61
+  Choco-Chili Volcano Cake: 5.95
+  Chipotle Chicken Burrito Bowl: 10.78
+  Chili Lime Shrimp Skewers: 10.11
+  Tamale Pie Casserole: 8.79
+  Three-Cheese Enchilada Stack: 12.76
+  Green Chile Pork Stew: 13.51
+  Horchata Cold Brew Coffee: 4.58
+  Zesty Lime Grilled Chicken: 10.87
+  Cinnamon Sugar Churros: 4.58

@@ -1,0 +1,35 @@
+id: business_0123
+name: Wrap Around the Clock
+description: Wrap yourself in bold Tex-Mex and Mexican flavors, from fresh salsas
+  to sizzling platters and creative cocktails. Serving up vibrant eats and spirited
+  drinks all day long!
+rating: 1.0
+progenitor_customer: customer_0041
+menu_features:
+  Sizzling Fajita Platter: 15.81
+  Chipotle Bean Burrito: 10.5
+  Stuffed Poblano Pepper Delight: 9.72
+  Verde Ranchero Huevos: 8.9
+  Baja Fish Tacos: 12.86
+  "Blueberry Jalape\xF1o Margarita": 10.53
+  Caramelized Onion Queso Dip: 8.82
+  Carnitas Breakfast Burrito: 13.37
+  Pineapple Habanero Sake: 9.03
+  Avocado Lime Salsa: 4.04
+  Tex-Mex Fajita Wrap: 11.63
+  Smoky Lime Quinoa Salad: 8.93
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Sizzling Fajita Platter: 12.49
+  Chipotle Bean Burrito: 8.29
+  Stuffed Poblano Pepper Delight: 7.68
+  Verde Ranchero Huevos: 7.03
+  Baja Fish Tacos: 10.16
+  "Blueberry Jalape\xF1o Margarita": 8.32
+  Caramelized Onion Queso Dip: 6.97
+  Carnitas Breakfast Burrito: 10.56
+  Pineapple Habanero Sake: 7.13
+  Avocado Lime Salsa: 3.19
+  Tex-Mex Fajita Wrap: 9.19
+  Smoky Lime Quinoa Salad: 7.05

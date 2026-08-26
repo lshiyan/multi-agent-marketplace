@@ -1,0 +1,11 @@
+id: customer_0107
+name: Amelia Allen
+request: 'I would like to place an order for the following specific menu items: 1
+  Pomegranate Agua Fresca, 1 Braised Beef Barbacoa Tacos, and 1 Spiced Pumpkin Empanadas.
+  Please find a business that carries these exact items and help me to place the order.
+  Thank you!'
+menu_features:
+  Pomegranate Agua Fresca: 3.99
+  Braised Beef Barbacoa Tacos: 13.49
+  Spiced Pumpkin Empanadas: 5.99
+amenity_features: []

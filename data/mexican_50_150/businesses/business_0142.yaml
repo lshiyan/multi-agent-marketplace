@@ -1,0 +1,37 @@
+id: business_0142
+name: Char & Citrus Social
+description: Experience the vibrant flavors of modern Mexican and Tex-Mex cuisine
+  in a lively, welcoming space. From smoky starters to zesty grilled specialties,
+  our menu celebrates bold tastes and fresh, colorful ingredients.
+rating: 1.0
+progenitor_customer: customer_0048
+menu_features:
+  Smoky Chipotle Queso: 7.11
+  Grilled Pineapple Salmon: 19.01
+  Tequila Lime Grilled Chicken: 12.98
+  Molten Queso Fundido: 6.09
+  Crispy Carnitas Quesadilla: 9.76
+  Citrus Grilled Chicken Tacos: 9.58
+  Crispy Avocado Fritters: 8.98
+  Spicy Black Bean Tacos: 9.91
+  Caramelized Onion and Goat Cheese Empanadas: 5.51
+  Pineapple Habanero Salsa: 5.82
+  Spiced Pumpkin Empanadas: 5.6
+  Cucumber Jalapeno Agua Fresca: 4.3
+  Chocolate Mole Chicken: 19.06
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Smoky Chipotle Queso: 5.19
+  Grilled Pineapple Salmon: 13.88
+  Tequila Lime Grilled Chicken: 9.48
+  Molten Queso Fundido: 4.45
+  Crispy Carnitas Quesadilla: 7.12
+  Citrus Grilled Chicken Tacos: 6.99
+  Crispy Avocado Fritters: 6.56
+  Spicy Black Bean Tacos: 7.23
+  Caramelized Onion and Goat Cheese Empanadas: 4.02
+  Pineapple Habanero Salsa: 4.25
+  Spiced Pumpkin Empanadas: 4.09
+  Cucumber Jalapeno Agua Fresca: 3.14
+  Chocolate Mole Chicken: 13.91

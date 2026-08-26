@@ -1,0 +1,45 @@
+id: business_0109
+name: Mesa Fresca
+description: Mesa Fresca brings a modern twist to Mexican and Tex-Mex classics, serving
+  vibrant bowls, street tacos, and refreshing housemade drinks in a lively, welcoming
+  atmosphere. Enjoy a bold fusion of fresh flavors and colorful culinary traditions.
+rating: 1.0
+progenitor_customer: customer_0037
+menu_features:
+  Black Bean Street Tacos: 8.87
+  Sizzling Pork Carnitas Bowl: 13.42
+  Passionfruit Agua Fresca: 4.19
+  Black Bean Sweet Potato Burrito: 9.04
+  Crispy Fish Tacos: 9.98
+  Housemade Horchata: 3.53
+  Tamale Trio Platter: 15.57
+  Smoky Black Bean Nachos: 10.52
+  Pineapple Salsa Pork Tacos: 11.72
+  Street Corn Elote: 4.58
+  Tex-Mex Big Breakfast Bowl: 10.94
+  Stuffed Poblano Peppers: 12.52
+  Ancho Chili Braised Beef Enchiladas: 15.62
+  Spicy Shrimp Fajitas: 16.52
+  Mexican Spiced Chocolate Cake: 7.94
+  Grilled Street Corn: 5.53
+  Grilled Steak Quesadilla: 11.63
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Black Bean Street Tacos: 6.74
+  Sizzling Pork Carnitas Bowl: 10.2
+  Passionfruit Agua Fresca: 3.18
+  Black Bean Sweet Potato Burrito: 6.87
+  Crispy Fish Tacos: 7.58
+  Housemade Horchata: 2.68
+  Tamale Trio Platter: 11.83
+  Smoky Black Bean Nachos: 8.0
+  Pineapple Salsa Pork Tacos: 8.91
+  Street Corn Elote: 3.48
+  Tex-Mex Big Breakfast Bowl: 8.31
+  Stuffed Poblano Peppers: 9.52
+  Ancho Chili Braised Beef Enchiladas: 11.87
+  Spicy Shrimp Fajitas: 12.56
+  Mexican Spiced Chocolate Cake: 6.03
+  Grilled Street Corn: 4.2
+  Grilled Steak Quesadilla: 8.84

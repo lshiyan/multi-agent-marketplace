@@ -1,0 +1,8 @@
+id: customer_0041
+name: Grace Sanders
+request: Please find a business that offers a menu item called 'Stuffed Poblano Pepper
+  Delight' and place an order for 1 of this item. It is very important that the business
+  has this specific menu item available. Thank you.
+menu_features:
+  Stuffed Poblano Pepper Delight: 9.99
+amenity_features: []

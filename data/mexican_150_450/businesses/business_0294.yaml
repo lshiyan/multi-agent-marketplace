@@ -1,0 +1,41 @@
+id: business_0294
+name: Chowder & Churro
+description: Chowder & Churro blends the bold flavors of Mexican and Tex-Mex cuisine
+  with a playful twist. Enjoy savory mains, sweet treats, and vibrant drinks in a
+  lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0098
+menu_features:
+  Citrus Marinated Carne Asada: 16.03
+  Frozen Strawberry Margarita: 8.4
+  Chocolate Churro Bites: 7.05
+  Choco Flan Combo: 8.66
+  Roasted Poblano Corn Chowder: 7.46
+  Fresh Limeade: 3.31
+  Pineapple Habanero Sake: 5.79
+  Chipotle Lime Chicken Salad: 10.02
+  Black Bean and Lime Soup: 6.2
+  Midnight Mole Enchiladas: 15.0
+  Ancho Chile BBQ Ribs: 20.46
+  "Cheesy Jalape\xF1o Queso Dip": 8.47
+  Honey Lime Fajita Sizzlers: 16.2
+  Roasted Corn Elote: 3.4
+  Tamale Pie Casserole: 13.42
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Citrus Marinated Carne Asada: 10.9
+  Frozen Strawberry Margarita: 5.71
+  Chocolate Churro Bites: 4.79
+  Choco Flan Combo: 5.89
+  Roasted Poblano Corn Chowder: 5.07
+  Fresh Limeade: 2.25
+  Pineapple Habanero Sake: 3.94
+  Chipotle Lime Chicken Salad: 6.81
+  Black Bean and Lime Soup: 4.22
+  Midnight Mole Enchiladas: 10.2
+  Ancho Chile BBQ Ribs: 13.91
+  "Cheesy Jalape\xF1o Queso Dip": 5.76
+  Honey Lime Fajita Sizzlers: 11.02
+  Roasted Corn Elote: 2.31
+  Tamale Pie Casserole: 9.13

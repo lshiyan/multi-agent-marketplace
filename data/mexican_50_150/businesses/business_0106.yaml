@@ -1,0 +1,37 @@
+id: business_0106
+name: La Cosecha Cantina
+description: Experience vibrant, modern Mexican and Tex-Mex flavors in a warm, inviting
+  setting. Enjoy creative street eats, classic favorites, and refreshing cocktails
+  handcrafted with fresh ingredients.
+rating: 1.0
+progenitor_customer: customer_0036
+menu_features:
+  Chorizo and Egg Tacos: 8.7
+  Street Corn Fritters: 7.23
+  Cilantro Lime Rice Bowl: 11.34
+  Roasted Pumpkin Tamale: 7.13
+  Spicy Chipotle Chicken Wrap: 10.03
+  Avocado Lime Dip: 7.94
+  Blue Corn Tostada Salad: 12.02
+  Roasted Poblano and Cheese Empanadas: 5.9
+  Tamarind Citrus Margarita: 8.97
+  Vanilla Flan with Caramel Sauce: 6.63
+  Black Bean and Sweet Potato Empanadas: 8.55
+  Raspberry Chipotle Barbecue Ribs: 17.42
+  Adobo Pork Sliders: 9.74
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Chorizo and Egg Tacos: 7.92
+  Street Corn Fritters: 6.58
+  Cilantro Lime Rice Bowl: 10.32
+  Roasted Pumpkin Tamale: 6.49
+  Spicy Chipotle Chicken Wrap: 9.13
+  Avocado Lime Dip: 7.23
+  Blue Corn Tostada Salad: 10.94
+  Roasted Poblano and Cheese Empanadas: 5.37
+  Tamarind Citrus Margarita: 8.16
+  Vanilla Flan with Caramel Sauce: 6.03
+  Black Bean and Sweet Potato Empanadas: 7.78
+  Raspberry Chipotle Barbecue Ribs: 15.85
+  Adobo Pork Sliders: 8.86

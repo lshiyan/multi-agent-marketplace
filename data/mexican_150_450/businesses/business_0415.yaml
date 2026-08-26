@@ -1,0 +1,45 @@
+id: business_0415
+name: Pepper Pine Cantina
+description: Pepper Pine Cantina brings bold, fresh, and slightly sweet flavors to
+  classic Mexican and Tex-Mex favorites. Enjoy sizzling specialties, zesty salads,
+  and irresistible desserts in a vibrant, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0139
+menu_features:
+  Green Chile Cheesesteak: 13.96
+  Green Chile Pork Stew: 12.18
+  Caramel Apple Empanadas: 4.94
+  Baja Fish Taco Plate: 12.06
+  Spicy Pork Tamales: 14.89
+  Cinnamon Churro Bites: 5.58
+  Black Bean and Lime Soup: 6.12
+  Tequila Lime Grilled Chicken: 14.3
+  Jicama and Citrus Salad: 8.12
+  Chocolate Tamale Cake: 8.19
+  Spice-Rubbed Grilled Fajitas: 13.91
+  Grilled Pineapple & Shrimp Quesadillas: 13.35
+  Creamy Queso Dip: 7.93
+  Honey Lime Fajita Sizzlers: 16.4
+  Smoky Chipotle Enchiladas: 11.75
+  Flamin' Skillet Fajitas: 17.22
+  Grilled Pineapple and Pork Tacos: 12.11
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Green Chile Cheesesteak: 8.79
+  Green Chile Pork Stew: 7.67
+  Caramel Apple Empanadas: 3.11
+  Baja Fish Taco Plate: 7.6
+  Spicy Pork Tamales: 9.38
+  Cinnamon Churro Bites: 3.52
+  Black Bean and Lime Soup: 3.86
+  Tequila Lime Grilled Chicken: 9.01
+  Jicama and Citrus Salad: 5.12
+  Chocolate Tamale Cake: 5.16
+  Spice-Rubbed Grilled Fajitas: 8.76
+  Grilled Pineapple & Shrimp Quesadillas: 8.41
+  Creamy Queso Dip: 5.0
+  Honey Lime Fajita Sizzlers: 10.33
+  Smoky Chipotle Enchiladas: 7.4
+  Flamin' Skillet Fajitas: 10.85
+  Grilled Pineapple and Pork Tacos: 7.63

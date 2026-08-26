@@ -1,0 +1,47 @@
+id: business_0241
+name: Plantain It Safe
+description: A fresh twist on Mexican and Tex-Mex favorites, packed with bold flavors,
+  sweet surprises, and craveable classics. Enjoy a vibrant atmosphere and dishes that
+  always satisfy your adventurous side.
+rating: 1.0
+progenitor_customer: customer_0081
+menu_features:
+  Caramelized Plantain Empanadas: 7.17
+  Black Bean Avocado Enchiladas: 10.28
+  Guava Limeade Cooler: 3.69
+  Beef Enchiladas Verdes: 12.29
+  Tex-Mex Fajita Wrap: 11.84
+  Bacon and Egg Tostada: 8.22
+  Spicy Cucumber Margarita: 9.18
+  Three-Cheese Queso Dip: 6.5
+  Grilled Pineapple Dessert Quesadilla: 7.01
+  Crispy Fish Tacos: 12.58
+  Pineapple Habanero Salsa: 3.78
+  Roasted Corn Enchiladas: 10.31
+  Three Cheese Sope: 8.85
+  Sunset Grilled Veggie Tacos: 9.87
+  Avocado Lime Grilled Shrimp: 13.95
+  Fresh Lime Cilantro Rice: 2.48
+  Warm Churro Bites: 6.27
+  Black Bean Sweet Potato Burrito: 9.56
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Caramelized Plantain Empanadas: 4.45
+  Black Bean Avocado Enchiladas: 6.37
+  Guava Limeade Cooler: 2.29
+  Beef Enchiladas Verdes: 7.62
+  Tex-Mex Fajita Wrap: 7.34
+  Bacon and Egg Tostada: 5.1
+  Spicy Cucumber Margarita: 5.69
+  Three-Cheese Queso Dip: 4.03
+  Grilled Pineapple Dessert Quesadilla: 4.35
+  Crispy Fish Tacos: 7.8
+  Pineapple Habanero Salsa: 2.34
+  Roasted Corn Enchiladas: 6.39
+  Three Cheese Sope: 5.49
+  Sunset Grilled Veggie Tacos: 6.12
+  Avocado Lime Grilled Shrimp: 8.65
+  Fresh Lime Cilantro Rice: 1.54
+  Warm Churro Bites: 3.89
+  Black Bean Sweet Potato Burrito: 5.93

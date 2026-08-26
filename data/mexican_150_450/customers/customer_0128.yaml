@@ -1,0 +1,12 @@
+id: customer_0128
+name: Isabella Robinson
+request: 'Could you please assist me in finding a business that can fulfill an order
+  for the following menu items: 1 Spicy Chicken Chimichanga, 1 Tamarind Spiced Agua
+  Fresca, and 1 Creamy Chipotle Pasta? It is important that the business can provide
+  all of these items, as I intend to place an order with them. Thank you for your
+  assistance.'
+menu_features:
+  Spicy Chicken Chimichanga: 10.99
+  Tamarind Spiced Agua Fresca: 3.99
+  Creamy Chipotle Pasta: 10.99
+amenity_features: []

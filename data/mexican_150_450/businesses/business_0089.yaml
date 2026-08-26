@@ -1,0 +1,41 @@
+id: business_0089
+name: Mucho Queso About Nothing
+description: A playful twist on classic Mexican and Tex-Mex cuisine, serving up melty
+  quesadillas, sweet treats, and inventive favorites in a vibrant, welcoming space.
+  Come for the flavor, stay for the fun atmosphere and crave-worthy creations.
+rating: 1.0
+progenitor_customer: customer_0030
+menu_features:
+  Grilled Steak Quesadilla: 17.52
+  Caramelized Plantain Empanadas: 7.81
+  Mexican Chocolate Lava Cake: 8.51
+  Ancho Chili Chocolate Cake: 7.64
+  Bacon and Egg Tostada: 8.03
+  Fresh Corn Elote: 4.29
+  Poblano Pepper Queso Dip: 6.63
+  Cinnamon Churro Bites: 5.5
+  Blueberry Agave Agua Fresca: 4.19
+  Pico Avocado Toast: 10.45
+  Crispy Carnitas Quesadilla: 11.68
+  Midnight Mole Enchiladas: 13.37
+  Fresh Mint Mojito: 8.19
+  Caramelized Onion and Goat Cheese Empanadas: 6.19
+  Chocolate Sopapilla Bites: 5.1
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Grilled Steak Quesadilla: 11.39
+  Caramelized Plantain Empanadas: 5.08
+  Mexican Chocolate Lava Cake: 5.53
+  Ancho Chili Chocolate Cake: 4.97
+  Bacon and Egg Tostada: 5.22
+  Fresh Corn Elote: 2.79
+  Poblano Pepper Queso Dip: 4.31
+  Cinnamon Churro Bites: 3.58
+  Blueberry Agave Agua Fresca: 2.72
+  Pico Avocado Toast: 6.79
+  Crispy Carnitas Quesadilla: 7.59
+  Midnight Mole Enchiladas: 8.69
+  Fresh Mint Mojito: 5.32
+  Caramelized Onion and Goat Cheese Empanadas: 4.02
+  Chocolate Sopapilla Bites: 3.31

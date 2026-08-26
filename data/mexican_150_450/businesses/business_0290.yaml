@@ -1,0 +1,45 @@
+id: business_0290
+name: Pineapple & Paladar
+description: Step into a vibrant world of Mexican and Tex-Mex flavors, where bold
+  pineapples, zesty spices, and creative cocktails come together for an unforgettable
+  dining experience. Enjoy a sweet and savory menu in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0097
+menu_features:
+  Pineapple Jalapeno Margarita: 9.46
+  Grilled Pineapple Dessert Quesadilla: 6.87
+  Fiesta Street Corn: 5.65
+  Crispy Avocado Burrito: 12.01
+  Grilled Elote Corn: 3.75
+  Garlic Lime Shrimp Salad: 15.66
+  Verde Ranchero Huevos: 9.36
+  Horchata Latte: 5.55
+  Mesquite Grilled Steak Fajitas: 13.62
+  Zesty Lime Shrimp Tostadas: 12.55
+  Raspberry Chipotle Barbecue Ribs: 13.29
+  Choco Flan Combo: 5.95
+  Mexican Chocolate Lava Cake: 8.64
+  Chocolate Molten Tamale: 5.71
+  Three Cheese Sope: 9.91
+  Horchata Iced Coffee: 4.91
+  Mexican Hot Chocolate: 4.97
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Pineapple Jalapeno Margarita: 7.47
+  Grilled Pineapple Dessert Quesadilla: 5.43
+  Fiesta Street Corn: 4.46
+  Crispy Avocado Burrito: 9.49
+  Grilled Elote Corn: 2.96
+  Garlic Lime Shrimp Salad: 12.37
+  Verde Ranchero Huevos: 7.39
+  Horchata Latte: 4.38
+  Mesquite Grilled Steak Fajitas: 10.76
+  Zesty Lime Shrimp Tostadas: 9.91
+  Raspberry Chipotle Barbecue Ribs: 10.5
+  Choco Flan Combo: 4.7
+  Mexican Chocolate Lava Cake: 6.83
+  Chocolate Molten Tamale: 4.51
+  Three Cheese Sope: 7.83
+  Horchata Iced Coffee: 3.88
+  Mexican Hot Chocolate: 3.93

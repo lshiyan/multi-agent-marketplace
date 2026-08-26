@@ -1,0 +1,43 @@
+id: business_0358
+name: Mango & Mingle
+description: A vibrant haven serving up fresh, flavorful Mexican and Tex-Mex dishes
+  with a modern tropical twist. Enjoy lively bites, refreshing sips, and a relaxed
+  atmosphere that invite you to gather, savor, and mingle.
+rating: 1.0
+progenitor_customer: customer_0120
+menu_features:
+  Fresh Mango Salsa Nachos: 10.3
+  Roasted Poblano Rellenos: 13.21
+  Blueberry Mint Agua Fresca: 4.75
+  Zesty Lime Shrimp Tostadas: 11.83
+  Ancho Chili Spiced Ribs: 17.8
+  Blueberry Agave Margarita: 10.93
+  Avocado Lime Salad: 8.16
+  Smoky Black Bean Tostadas: 8.07
+  Baja Fish Taco Plate: 13.3
+  Hatch Green Chile Stew: 13.0
+  Tamarind-Glazed Ribs: 17.13
+  Loaded Nacho Fries: 8.37
+  Classic Horchata Delight: 3.35
+  Black Bean and Lime Soup: 6.99
+  Chipotle Bean Burrito: 9.3
+  Stuffed Poblano Peppers: 12.3
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Fresh Mango Salsa Nachos: 6.28
+  Roasted Poblano Rellenos: 8.06
+  Blueberry Mint Agua Fresca: 2.9
+  Zesty Lime Shrimp Tostadas: 7.22
+  Ancho Chili Spiced Ribs: 10.86
+  Blueberry Agave Margarita: 6.67
+  Avocado Lime Salad: 4.98
+  Smoky Black Bean Tostadas: 4.92
+  Baja Fish Taco Plate: 8.11
+  Hatch Green Chile Stew: 7.93
+  Tamarind-Glazed Ribs: 10.45
+  Loaded Nacho Fries: 5.11
+  Classic Horchata Delight: 2.04
+  Black Bean and Lime Soup: 4.26
+  Chipotle Bean Burrito: 5.67
+  Stuffed Poblano Peppers: 7.5

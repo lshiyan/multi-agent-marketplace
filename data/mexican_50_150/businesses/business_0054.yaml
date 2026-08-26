@@ -1,0 +1,41 @@
+id: business_0054
+name: Holy Mole & Bowl
+description: Fresh flavors, bold combinations, and a playful twist on Mexican and
+  Tex-Mex classics come together in every bowl, tostada, and taco. Enjoy savory street
+  corn, creative aguas frescas, and zesty margaritas in an inviting, modern setting.
+rating: 1.0
+progenitor_customer: customer_0018
+menu_features:
+  Blueberry Agave Agua Fresca: 5.24
+  Carnitas Breakfast Burrito: 12.4
+  Crispy Avocado Tostadas: 10.34
+  Coconut Lime Rice Bowl: 9.84
+  "Blueberry Jalape\xF1o Margarita": 10.89
+  Bacon and Egg Tostada: 9.37
+  Spicy Street Corn: 6.05
+  Agave Lime Margarita: 10.24
+  Pomegranate Agua Fresca: 3.49
+  Queso Fundido with Chorizo: 9.25
+  Three-Cheese Chile Rellenos: 12.32
+  Honey-Lime Grilled Salmon: 13.85
+  Smoky Chipotle Enchiladas: 16.71
+  Cheesy Jalapeno Queso: 6.41
+  Baja Fish Taco Plate: 16.55
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Blueberry Agave Agua Fresca: 3.51
+  Carnitas Breakfast Burrito: 8.31
+  Crispy Avocado Tostadas: 6.93
+  Coconut Lime Rice Bowl: 6.59
+  "Blueberry Jalape\xF1o Margarita": 7.3
+  Bacon and Egg Tostada: 6.28
+  Spicy Street Corn: 4.05
+  Agave Lime Margarita: 6.86
+  Pomegranate Agua Fresca: 2.34
+  Queso Fundido with Chorizo: 6.2
+  Three-Cheese Chile Rellenos: 8.25
+  Honey-Lime Grilled Salmon: 9.28
+  Smoky Chipotle Enchiladas: 11.2
+  Cheesy Jalapeno Queso: 4.29
+  Baja Fish Taco Plate: 11.09

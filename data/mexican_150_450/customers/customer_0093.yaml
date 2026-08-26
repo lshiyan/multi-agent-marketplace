@@ -1,0 +1,11 @@
+id: customer_0093
+name: Fatima Ali
+request: 'Could you please help me find a business where I can place an order for
+  the following items: 1 Cilantro Lime Shrimp Skewers, 1 Mexican Hot Chocolate, and
+  1 Classic Beef Tacos with Zesty Slaw? It is important that the business offers all
+  of these items. Thank you.'
+menu_features:
+  Cilantro Lime Shrimp Skewers: 12.49
+  Mexican Hot Chocolate: 4.99
+  Classic Beef Tacos with Zesty Slaw: 10.49
+amenity_features: []

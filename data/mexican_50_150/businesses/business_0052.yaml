@@ -1,0 +1,37 @@
+id: business_0052
+name: Marina & Mango
+description: Dive into a fresh, flavorful fusion of coastal and citrus-inspired Mexican
+  classics. Our vibrant atmosphere and inventive cuisine promise an unforgettable
+  dining experience.
+rating: 1.0
+progenitor_customer: customer_0018
+menu_features:
+  Agave Lime Margarita: 9.76
+  Coconut Lime Rice Bowl: 11.68
+  Black Bean and Avocado Wrap: 8.15
+  Spicy Black Bean Enchiladas: 12.13
+  Avocado Lime Enchiladas: 10.07
+  Mango Habanero Margarita: 11.23
+  Sea Breeze Ceviche: 13.4
+  Peppered Steak Nachos: 12.55
+  Breakfast Burrito Supreme: 9.33
+  Spicy Beef Empanadas: 8.86
+  Zesty Lime Chicken Enchiladas: 11.97
+  Pineapple Pico de Gallo Nachos: 10.22
+  Black Bean and Cilantro Rice: 3.59
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Agave Lime Margarita: 7.61
+  Coconut Lime Rice Bowl: 9.11
+  Black Bean and Avocado Wrap: 6.36
+  Spicy Black Bean Enchiladas: 9.46
+  Avocado Lime Enchiladas: 7.85
+  Mango Habanero Margarita: 8.76
+  Sea Breeze Ceviche: 10.45
+  Peppered Steak Nachos: 9.79
+  Breakfast Burrito Supreme: 7.28
+  Spicy Beef Empanadas: 6.91
+  Zesty Lime Chicken Enchiladas: 9.34
+  Pineapple Pico de Gallo Nachos: 7.97
+  Black Bean and Cilantro Rice: 2.8

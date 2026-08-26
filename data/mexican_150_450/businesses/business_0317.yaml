@@ -1,0 +1,45 @@
+id: business_0317
+name: Chilaquiles & Grin
+description: A playful Tex-Mex eatery putting a creative twist on classic favorites
+  and sweet surprises. Dive into bold flavors, fresh sips, and a menu designed to
+  make you smile with every bite.
+rating: 1.0
+progenitor_customer: customer_0106
+menu_features:
+  Caramel Apple Empanadas: 5.35
+  Loaded Nacho Fries: 8.41
+  Tex-Mex Fajita Wrap: 13.42
+  Crispy Fish Street Tacos: 16.05
+  Breakfast Chilaquiles Verde: 8.81
+  Crispy Fish Tacos: 13.68
+  Honey Lime Chicken Skewers: 10.76
+  Avocado Lime Enchiladas: 11.31
+  Loaded Nacho Platter: 10.8
+  Chocolate Mole Chicken: 17.77
+  Grilled Pineapple Mojito: 7.91
+  Pineapple Habanero Salsa: 5.42
+  Loaded Sweet Potato Fries: 6.05
+  Bacon Wrapped Jalapeno Bites: 8.6
+  "Blueberry Jalape\xF1o Margarita": 9.1
+  Mexican Street Corn Salad: 7.0
+  Horchata Cold Brew Coffee: 5.14
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Caramel Apple Empanadas: 4.28
+  Loaded Nacho Fries: 6.73
+  Tex-Mex Fajita Wrap: 10.74
+  Crispy Fish Street Tacos: 12.84
+  Breakfast Chilaquiles Verde: 7.05
+  Crispy Fish Tacos: 10.94
+  Honey Lime Chicken Skewers: 8.61
+  Avocado Lime Enchiladas: 9.05
+  Loaded Nacho Platter: 8.64
+  Chocolate Mole Chicken: 14.22
+  Grilled Pineapple Mojito: 6.33
+  Pineapple Habanero Salsa: 4.34
+  Loaded Sweet Potato Fries: 4.84
+  Bacon Wrapped Jalapeno Bites: 6.88
+  "Blueberry Jalape\xF1o Margarita": 7.28
+  Mexican Street Corn Salad: 5.6
+  Horchata Cold Brew Coffee: 4.11

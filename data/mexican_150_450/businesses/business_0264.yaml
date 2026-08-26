@@ -1,0 +1,43 @@
+id: business_0264
+name: Crema & Ember Kitchen
+description: Savor a vibrant fusion of Mexican and Tex-Mex favorites in a fresh, modern
+  setting. From creamy avocado dishes to grilled specialties and soulful sweets, every
+  bite is crafted for flavor and flair.
+rating: 1.0
+progenitor_customer: customer_0088
+menu_features:
+  Pumpkin Spice Flan: 8.31
+  Avocado Lime Crema Tostadas: 9.41
+  Spicy Pork Tamales: 12.35
+  Creamy Avocado Caesar Salad: 9.13
+  Avocado Ranch Burrito Bowl: 14.76
+  Black Bean Burgers: 13.47
+  Roasted Tomato Salsa Dip: 3.95
+  Smoky Lime Quinoa Salad: 10.78
+  Grilled Chipotle Chicken Burrito: 12.24
+  Coconut Lime Flan: 6.23
+  Ultimate Nacho Platter: 10.87
+  Chipotle Lime Shrimp Skewers: 11.86
+  Chipotle Bourbon Carnitas: 15.86
+  Horchata Iced Latte: 4.86
+  Mesquite Grilled Steak Fajitas: 13.32
+  Cucumber Jalapeno Agua Fresca: 3.68
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Pumpkin Spice Flan: 5.4
+  Avocado Lime Crema Tostadas: 6.12
+  Spicy Pork Tamales: 8.03
+  Creamy Avocado Caesar Salad: 5.93
+  Avocado Ranch Burrito Bowl: 9.59
+  Black Bean Burgers: 8.76
+  Roasted Tomato Salsa Dip: 2.57
+  Smoky Lime Quinoa Salad: 7.01
+  Grilled Chipotle Chicken Burrito: 7.96
+  Coconut Lime Flan: 4.05
+  Ultimate Nacho Platter: 7.07
+  Chipotle Lime Shrimp Skewers: 7.71
+  Chipotle Bourbon Carnitas: 10.31
+  Horchata Iced Latte: 3.16
+  Mesquite Grilled Steak Fajitas: 8.66
+  Cucumber Jalapeno Agua Fresca: 2.39

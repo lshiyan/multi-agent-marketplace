@@ -1,0 +1,35 @@
+id: business_0133
+name: Sol y Zest Cocina
+description: Experience a vibrant blend of bold flavors and fresh ingredients in a
+  warm, welcoming atmosphere inspired by the spirited tastes of Mexico and the Southwest.
+  Enjoy refreshing house-made drinks and sizzling specialties, perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0045
+menu_features:
+  "Spicy Jalape\xF1o Limeade": 3.72
+  Baja Fish Tacos: 16.22
+  Raspberry Chipotle Barbecue Ribs: 13.69
+  Spice-Rubbed Grilled Fajitas: 11.11
+  Mango Jalapeno Salsa and Chips: 5.56
+  Mexican Street Corn Salad: 7.02
+  Crispy Fish Street Tacos: 18.16
+  Beef Enchiladas Verdes: 12.47
+  Frozen Mango Margarita: 10.77
+  Citrus Grilled Chicken Tacos: 13.4
+  Cactus Cooler Margarita: 11.01
+  Honey Lime Chicken Fajitas: 16.63
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  "Spicy Jalape\xF1o Limeade": 2.57
+  Baja Fish Tacos: 11.19
+  Raspberry Chipotle Barbecue Ribs: 9.45
+  Spice-Rubbed Grilled Fajitas: 7.67
+  Mango Jalapeno Salsa and Chips: 3.84
+  Mexican Street Corn Salad: 4.84
+  Crispy Fish Street Tacos: 12.53
+  Beef Enchiladas Verdes: 8.6
+  Frozen Mango Margarita: 7.43
+  Citrus Grilled Chicken Tacos: 9.25
+  Cactus Cooler Margarita: 7.6
+  Honey Lime Chicken Fajitas: 11.47

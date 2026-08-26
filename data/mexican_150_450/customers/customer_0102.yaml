@@ -1,0 +1,11 @@
+id: customer_0102
+name: Andrew Thompson
+request: 'Please find a business that offers the following menu items and place an
+  order for them on my behalf: 1 Pineapple Pico de Gallo Salsa, 1 Cilantro Lime Rice
+  Bowl, and 1 Spicy Street Corn. It is very important that the business can provide
+  all of these items. Thank you!'
+menu_features:
+  Pineapple Pico de Gallo Salsa: 6.99
+  Cilantro Lime Rice Bowl: 11.59
+  Spicy Street Corn: 5.49
+amenity_features: []

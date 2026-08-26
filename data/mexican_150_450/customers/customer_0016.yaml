@@ -1,0 +1,12 @@
+id: customer_0016
+name: Ethan Walker
+request: 'Could you please assist me in finding a business that serves the following
+  menu items: Pineapple Pico de Gallo Salsa (1), Grilled Pineapple and Pork Tacos
+  (1), and Savory Carne Asada Burrito (1)? It is crucial that the business offers
+  all these items, as I intend to place an order for exactly these. Thank you for
+  your assistance.'
+menu_features:
+  Pineapple Pico de Gallo Salsa: 6.99
+  Grilled Pineapple and Pork Tacos: 12.49
+  Savory Carne Asada Burrito: 11.99
+amenity_features: []

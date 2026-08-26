@@ -1,0 +1,40 @@
+id: business_0376
+name: Guac 'n' Mole-ment
+description: Guac 'n' Mole-ment brings you bold brunches, craveable comfort food,
+  and a fiesta of fresh flavors inspired by classic and contemporary Mexican and Tex-Mex
+  cuisine. Dig into our crispy, cheesy, and zesty creations in a vibrant, welcoming
+  atmosphere.
+rating: 1.0
+progenitor_customer: customer_0126
+menu_features:
+  Crispy Tortilla Breakfast Bowl: 11.07
+  Chipotle Chicken Enchiladas: 17.32
+  Three-Cheese Enchilada Stack: 10.18
+  Honey-Lime Grilled Salmon: 14.43
+  Citrus Cilantro Rice: 4.36
+  Caramelized Onion Queso Dip: 7.53
+  Black Bean Taco Bowl: 10.4
+  Vanilla Almond Horchata: 4.65
+  Carnitas Breakfast Burrito: 13.45
+  Creamy Poblano Corn Chowder: 10.04
+  Crispy Avocado Fritters: 8.12
+  Loaded Chorizo Nachos: 8.64
+  Sizzling Fajita Skillet: 17.63
+  Citrus Marinated Carne Asada: 15.93
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Crispy Tortilla Breakfast Bowl: 9.63
+  Chipotle Chicken Enchiladas: 15.07
+  Three-Cheese Enchilada Stack: 8.86
+  Honey-Lime Grilled Salmon: 12.55
+  Citrus Cilantro Rice: 3.79
+  Caramelized Onion Queso Dip: 6.55
+  Black Bean Taco Bowl: 9.05
+  Vanilla Almond Horchata: 4.05
+  Carnitas Breakfast Burrito: 11.7
+  Creamy Poblano Corn Chowder: 8.73
+  Crispy Avocado Fritters: 7.06
+  Loaded Chorizo Nachos: 7.52
+  Sizzling Fajita Skillet: 15.34
+  Citrus Marinated Carne Asada: 13.86

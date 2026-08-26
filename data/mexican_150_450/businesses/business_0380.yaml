@@ -1,0 +1,39 @@
+id: business_0380
+name: La Palapa Moderna
+description: Experience vibrant, contemporary Mexican and Tex-Mex cuisine in a lively
+  setting inspired by the flavors of the coast and countryside. Fresh, bold ingredients
+  take the spotlight in imaginative dishes and refreshing drinks.
+rating: 1.0
+progenitor_customer: customer_0127
+menu_features:
+  Garlic Lime Shrimp Salad: 13.64
+  Crispy Fish Baja Bowl: 12.24
+  Pineapple Chipotle Salsa & Chips: 6.18
+  Cactus Cooler Margarita: 8.41
+  Sweet Plantain Empanadas: 6.92
+  Three-Cheese Enchilada Stack: 11.39
+  Flamin' Skillet Fajitas: 16.96
+  Chocolate Mole Brownie: 5.08
+  Hatch Chile Queso Dip: 9.29
+  Pineapple Tequila Chicken Skewers: 15.73
+  Avocado Lime Quinoa Bowl: 9.73
+  Roasted Poblano Corn Chowder: 5.81
+  Roasted Corn Elote: 3.5
+  Spicy Chipotle Chicken Wings: 9.12
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Garlic Lime Shrimp Salad: 8.59
+  Crispy Fish Baja Bowl: 7.71
+  Pineapple Chipotle Salsa & Chips: 3.89
+  Cactus Cooler Margarita: 5.3
+  Sweet Plantain Empanadas: 4.36
+  Three-Cheese Enchilada Stack: 7.18
+  Flamin' Skillet Fajitas: 10.68
+  Chocolate Mole Brownie: 3.2
+  Hatch Chile Queso Dip: 5.85
+  Pineapple Tequila Chicken Skewers: 9.91
+  Avocado Lime Quinoa Bowl: 6.13
+  Roasted Poblano Corn Chowder: 3.66
+  Roasted Corn Elote: 2.21
+  Spicy Chipotle Chicken Wings: 5.75

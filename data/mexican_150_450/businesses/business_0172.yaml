@@ -1,0 +1,38 @@
+id: business_0172
+name: "Taco \u2018Bout Brunch"
+description: "Wake up your taste buds at Taco \u2018Bout Brunch, where fresh flavors\
+  \ and bold spices come together for a deliciously creative Mexican breakfast and\
+  \ beyond. Enjoy inventive twists on classic dishes and vibrant drinks in a lively,\
+  \ welcoming setting."
+rating: 1.0
+progenitor_customer: customer_0058
+menu_features:
+  Sunrise Breakfast Tacos: 8.68
+  Smoky Mezcal Mule: 9.89
+  Pineapple Agua Fresca: 3.51
+  Pumpkin Spice Flan: 5.58
+  Tamarind Ginger Cooler: 3.61
+  Huevos Rancheros: 11.4
+  Caramelized Onion Queso Dip: 6.94
+  Pineapple Habanero Salsa: 4.76
+  Black Bean Avocado Enchiladas: 13.55
+  Street Corn Elote: 4.0
+  Crispy Tinga Chicken Tacos: 8.94
+  Tequila Lime Shrimp Skewers: 11.65
+  Crispy Avocado Nachos: 9.74
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Sunrise Breakfast Tacos: 8.16
+  Smoky Mezcal Mule: 9.3
+  Pineapple Agua Fresca: 3.3
+  Pumpkin Spice Flan: 5.25
+  Tamarind Ginger Cooler: 3.39
+  Huevos Rancheros: 10.72
+  Caramelized Onion Queso Dip: 6.52
+  Pineapple Habanero Salsa: 4.47
+  Black Bean Avocado Enchiladas: 12.74
+  Street Corn Elote: 3.76
+  Crispy Tinga Chicken Tacos: 8.4
+  Tequila Lime Shrimp Skewers: 10.95
+  Crispy Avocado Nachos: 9.16

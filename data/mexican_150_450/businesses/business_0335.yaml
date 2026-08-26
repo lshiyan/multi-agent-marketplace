@@ -1,0 +1,40 @@
+id: business_0335
+name: Cilantro & Ember
+description: Cilantro & Ember brings a modern twist to Mexican and Tex-Mex classics,
+  with a vibrant selection of fresh salads, smoky grilled plates, and creative cocktails
+  in a lively, welcoming setting. Experience bold flavors and a fresh approach to
+  familiar favorites.
+rating: 1.0
+progenitor_customer: customer_0112
+menu_features:
+  Roasted Corn and Black Bean Salad: 9.26
+  Adobo Pork Sliders: 10.18
+  Passionfruit Paloma: 7.97
+  Shrimp and Avocado Ceviche: 11.66
+  Creamy Avocado Caesar Salad: 11.63
+  Beef Barbacoa Tostadas: 9.16
+  Sizzling Chicken Fajitas: 13.64
+  Citrus Cilantro Rice: 5.19
+  Chipotle Lime Shrimp Tacos: 14.57
+  Roasted Poblano Corn Chowder: 7.25
+  Grilled Pineapple Salmon: 16.71
+  Smoky Chipotle Enchiladas: 13.82
+  Pineapple Jalapeno Salsa: 4.77
+  Creamy Poblano Corn Chowder: 8.13
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Roasted Corn and Black Bean Salad: 6.2
+  Adobo Pork Sliders: 6.82
+  Passionfruit Paloma: 5.34
+  Shrimp and Avocado Ceviche: 7.81
+  Creamy Avocado Caesar Salad: 7.79
+  Beef Barbacoa Tostadas: 6.14
+  Sizzling Chicken Fajitas: 9.14
+  Citrus Cilantro Rice: 3.48
+  Chipotle Lime Shrimp Tacos: 9.76
+  Roasted Poblano Corn Chowder: 4.86
+  Grilled Pineapple Salmon: 11.2
+  Smoky Chipotle Enchiladas: 9.26
+  Pineapple Jalapeno Salsa: 3.2
+  Creamy Poblano Corn Chowder: 5.45

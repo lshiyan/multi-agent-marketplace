@@ -1,0 +1,45 @@
+id: business_0320
+name: Fajita & Froth
+description: Fajita & Froth blends vibrant Mexican and Tex-Mex flavors with refreshing
+  drinks in a lively setting. From sizzling classics to creative coffee and cocktail
+  twists, every meal is a celebration of taste and tradition.
+rating: 1.0
+progenitor_customer: customer_0107
+menu_features:
+  Horchata Cold Brew Coffee: 3.99
+  Sizzling Fajita Platter: 15.99
+  Verde Chicken Enchiladas: 14.11
+  Jicama and Citrus Salad: 6.85
+  Pineapple Jalapeno Margarita: 7.97
+  Southwestern Quinoa Salad: 9.99
+  Spiced Pumpkin Empanadas: 7.6
+  Pico Avocado Toast: 9.0
+  Smoky Lime Quinoa Salad: 11.6
+  Pineapple Tequila Chicken Skewers: 13.76
+  Black Bean Avocado Enchiladas: 13.64
+  Braised Beef Barbacoa Tacos: 13.01
+  Pomegranate Agua Fresca: 3.03
+  Fiesta Street Corn: 6.7
+  Savory Chorizo Street Tacos: 12.07
+  Beef Enchiladas Verdes: 13.05
+  Classic Beef Barbacoa: 13.24
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Horchata Cold Brew Coffee: 3.23
+  Sizzling Fajita Platter: 12.95
+  Verde Chicken Enchiladas: 11.43
+  Jicama and Citrus Salad: 5.55
+  Pineapple Jalapeno Margarita: 6.46
+  Southwestern Quinoa Salad: 8.09
+  Spiced Pumpkin Empanadas: 6.16
+  Pico Avocado Toast: 7.29
+  Smoky Lime Quinoa Salad: 9.4
+  Pineapple Tequila Chicken Skewers: 11.15
+  Black Bean Avocado Enchiladas: 11.05
+  Braised Beef Barbacoa Tacos: 10.54
+  Pomegranate Agua Fresca: 2.45
+  Fiesta Street Corn: 5.43
+  Savory Chorizo Street Tacos: 9.78
+  Beef Enchiladas Verdes: 10.57
+  Classic Beef Barbacoa: 10.72

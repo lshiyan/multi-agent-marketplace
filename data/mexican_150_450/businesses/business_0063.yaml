@@ -1,0 +1,37 @@
+id: business_0063
+name: Viva Zest Kitchen
+description: Viva Zest Kitchen brings a modern twist to Mexican and Tex-Mex favorites,
+  celebrating bold flavors and fresh ingredients in every dish. Enjoy vibrant small
+  plates, savory classics, and inventive cocktails in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0021
+menu_features:
+  Zesty Shrimp Ceviche: 13.17
+  Refreshing Agua Fresca Trio: 7.14
+  Spicy Chocolate Churros: 5.94
+  Ranchero Steak Fajitas: 18.76
+  Smoky Black Bean Soup: 7.63
+  Spice-Rubbed Grilled Fajitas: 15.71
+  Blueberry Agave Margarita: 9.94
+  Crispy Carnitas Tacos: 10.03
+  Margarita Lime Cheesecake: 6.34
+  "Cheesy Jalape\xF1o Poppers": 4.79
+  Tequila Sunrise Smoothie: 8.49
+  Creamy Jalapeno Corn Fritters: 8.11
+  Baja Fish Tacos: 14.15
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Zesty Shrimp Ceviche: 10.4
+  Refreshing Agua Fresca Trio: 5.64
+  Spicy Chocolate Churros: 4.69
+  Ranchero Steak Fajitas: 14.82
+  Smoky Black Bean Soup: 6.03
+  Spice-Rubbed Grilled Fajitas: 12.41
+  Blueberry Agave Margarita: 7.85
+  Crispy Carnitas Tacos: 7.92
+  Margarita Lime Cheesecake: 5.01
+  "Cheesy Jalape\xF1o Poppers": 3.78
+  Tequila Sunrise Smoothie: 6.71
+  Creamy Jalapeno Corn Fritters: 6.41
+  Baja Fish Tacos: 11.18

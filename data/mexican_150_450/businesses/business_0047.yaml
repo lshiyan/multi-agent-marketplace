@@ -1,0 +1,40 @@
+id: business_0047
+name: Pueblito Modern Mex
+description: Pueblito Modern Mex serves up vibrant Mexican and Tex-Mex favorites with
+  a fresh twist, from citrusy grilled classics to crave-worthy street food and decadent
+  desserts. Discover bold flavors, feel-good vibes, and an inviting atmosphere perfect
+  for any occasion.
+rating: 1.0
+progenitor_customer: customer_0016
+menu_features:
+  Pineapple Jalapeno Margarita: 10.24
+  Warm Churro Bites: 6.79
+  Pineapple Pico de Gallo Salsa: 7.34
+  Tamale Pie Casserole: 15.39
+  Chocolate Mole Chicken: 17.8
+  Grilled Pineapple and Pork Tacos: 13.03
+  Smoky Chipotle Quesadillas: 10.33
+  Roasted Corn and Black Bean Salad: 8.59
+  Citrus Marinated Carne Asada: 15.58
+  Creamy Jalapeno Corn Fritters: 7.24
+  Classic Flan Delight: 5.85
+  Citrus Cilantro Rice: 6.02
+  Crispy Fish Tacos: 10.3
+  Savory Carne Asada Burrito: 14.97
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Pineapple Jalapeno Margarita: 8.29
+  Warm Churro Bites: 5.5
+  Pineapple Pico de Gallo Salsa: 5.95
+  Tamale Pie Casserole: 12.47
+  Chocolate Mole Chicken: 14.42
+  Grilled Pineapple and Pork Tacos: 10.55
+  Smoky Chipotle Quesadillas: 8.37
+  Roasted Corn and Black Bean Salad: 6.96
+  Citrus Marinated Carne Asada: 12.62
+  Creamy Jalapeno Corn Fritters: 5.86
+  Classic Flan Delight: 4.74
+  Citrus Cilantro Rice: 4.88
+  Crispy Fish Tacos: 8.34
+  Savory Carne Asada Burrito: 12.13

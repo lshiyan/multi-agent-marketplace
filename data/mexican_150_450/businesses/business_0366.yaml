@@ -1,0 +1,40 @@
+id: business_0366
+name: Glaze & Grove
+description: Experience a colorful twist on Mexican and Tex-Mex cuisine where fresh
+  flavors and creative glazes meet vibrant, garden-inspired ingredients. Enjoy reimagined
+  classics alongside sweet treats and refreshing signature drinks in a lively, friendly
+  setting.
+rating: 1.0
+progenitor_customer: customer_0122
+menu_features:
+  Horchata Milkshake: 5.81
+  Mexican Chocolate Brownie: 6.18
+  Ancho Honey-Glazed Salmon: 15.34
+  Coconut Tres Leches: 7.51
+  Blueberry Hibiscus Margarita: 7.6
+  Avocado Lime Salsa: 4.27
+  Honey-Lime Shrimp Skewers: 13.79
+  Spicy Chocolate Churros: 5.81
+  Crispy Fish Street Tacos: 15.71
+  Sunset Grilled Veggie Tacos: 11.51
+  Mexican Coffee Flan: 5.04
+  Black Bean and Corn Salsa: 4.76
+  Sweet Chili Lime Elote: 5.04
+  Green Chile Pork Stew: 15.51
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Horchata Milkshake: 3.78
+  Mexican Chocolate Brownie: 4.02
+  Ancho Honey-Glazed Salmon: 9.97
+  Coconut Tres Leches: 4.88
+  Blueberry Hibiscus Margarita: 4.94
+  Avocado Lime Salsa: 2.78
+  Honey-Lime Shrimp Skewers: 8.96
+  Spicy Chocolate Churros: 3.78
+  Crispy Fish Street Tacos: 10.21
+  Sunset Grilled Veggie Tacos: 7.48
+  Mexican Coffee Flan: 3.28
+  Black Bean and Corn Salsa: 3.09
+  Sweet Chili Lime Elote: 3.28
+  Green Chile Pork Stew: 10.08

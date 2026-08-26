@@ -1,0 +1,37 @@
+id: business_0170
+name: Sizzle & Citrus Social
+description: A vibrant modern eatery serving up sizzling plates, zesty flavors, and
+  inventive drinks, all inspired by Mexican and Tex-Mex traditions. Enjoy a lively
+  atmosphere, bold tastes, and a fresh twist on classic favorites.
+rating: 1.0
+progenitor_customer: customer_0057
+menu_features:
+  Grilled Shrimp Skewers: 18.4
+  Roasted Poblano Queso Dip: 7.52
+  Honey-Lime Shrimp Skewers: 14.87
+  Sizzling Steak Fajitas: 13.28
+  Tropical Guava Mint Punch: 5.32
+  Chocolate Cinnamon Flan: 6.01
+  Adobo Pork Sliders: 11.16
+  Smoky Chipotle BBQ Nachos: 12.09
+  Sizzling Fajita Plate: 15.68
+  Cheesy Jalapeno Queso: 8.24
+  Hatch Green Chile Quesadilla: 13.94
+  Honey Chipotle Wings: 10.27
+  Horchata Iced Coffee: 3.84
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Grilled Shrimp Skewers: 16.93
+  Roasted Poblano Queso Dip: 6.92
+  Honey-Lime Shrimp Skewers: 13.68
+  Sizzling Steak Fajitas: 12.22
+  Tropical Guava Mint Punch: 4.89
+  Chocolate Cinnamon Flan: 5.53
+  Adobo Pork Sliders: 10.27
+  Smoky Chipotle BBQ Nachos: 11.12
+  Sizzling Fajita Plate: 14.43
+  Cheesy Jalapeno Queso: 7.58
+  Hatch Green Chile Quesadilla: 12.82
+  Honey Chipotle Wings: 9.45
+  Horchata Iced Coffee: 3.53

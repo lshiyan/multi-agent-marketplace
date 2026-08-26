@@ -1,0 +1,45 @@
+id: business_0245
+name: Cilantro Lime Modern Mex
+description: Experience vibrant, fresh flavors and creative takes on Mexican and Tex-Mex
+  favorites, served up in a lively, contemporary setting. From bold tacos to indulgent
+  desserts and refreshing drinks, every bite brings a modern twist on tradition.
+rating: 1.0
+progenitor_customer: customer_0082
+menu_features:
+  Cilantro Lime Chicken Tacos: 11.58
+  Loaded Nacho Fries: 7.57
+  Crispy Tinga Chicken Tacos: 8.8
+  Honey Lime Grilled Corn: 4.76
+  Veggie Fajita Platter: 13.43
+  Caramelized Onion and Chorizo Quesadilla: 9.7
+  Housemade Horchata: 3.96
+  Black Bean and Cilantro Rice: 3.77
+  Zesty Lime Grilled Shrimp: 11.65
+  Chocolate Mole Brownie: 7.72
+  Crispy Avocado Burrito: 12.67
+  Horchata Latte: 6.32
+  Roasted Pecan Flan: 5.52
+  Gourmet Nacho Platter: 11.26
+  Frozen Strawberry Daiquiri: 10.01
+  Baja Shrimp Quesadilla: 12.77
+  Creamy Queso Dip: 9.13
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Cilantro Lime Chicken Tacos: 9.26
+  Loaded Nacho Fries: 6.06
+  Crispy Tinga Chicken Tacos: 7.04
+  Honey Lime Grilled Corn: 3.81
+  Veggie Fajita Platter: 10.74
+  Caramelized Onion and Chorizo Quesadilla: 7.76
+  Housemade Horchata: 3.17
+  Black Bean and Cilantro Rice: 3.02
+  Zesty Lime Grilled Shrimp: 9.32
+  Chocolate Mole Brownie: 6.18
+  Crispy Avocado Burrito: 10.14
+  Horchata Latte: 5.06
+  Roasted Pecan Flan: 4.42
+  Gourmet Nacho Platter: 9.01
+  Frozen Strawberry Daiquiri: 8.01
+  Baja Shrimp Quesadilla: 10.22
+  Creamy Queso Dip: 7.3

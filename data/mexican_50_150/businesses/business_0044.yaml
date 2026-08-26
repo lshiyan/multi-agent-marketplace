@@ -1,0 +1,38 @@
+id: business_0044
+name: Mango & Mole Mercado
+description: Experience a vibrant fusion of bold flavors and fresh ingredients at
+  Mango & Mole Mercado, where every dish brings a unique twist on Mexican and Tex-Mex
+  classics. Enjoy zesty salads, signature salsas, and creative desserts in a lively,
+  welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0015
+menu_features:
+  Fire Roasted Salsa Sampler: 5.81
+  Adobo Roasted Corn Salad: 7.99
+  Frozen Mango Margarita: 9.74
+  Chili Lime Shrimp Skewers: 12.85
+  Midnight Mole Enchiladas: 13.02
+  Zesty Lime Shrimp Salad: 11.08
+  Avocado Lime Dip: 6.22
+  Creamy Avocado Caesar Salad: 9.28
+  Pumpkin Spice Flan: 6.8
+  Spicy Shrimp Nacho Platter: 13.55
+  Mexican Chocolate Milkshake: 5.53
+  Breakfast Chilaquiles Verde: 11.64
+  Mango Jalapeno Slush: 5.1
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Fire Roasted Salsa Sampler: 5.23
+  Adobo Roasted Corn Salad: 7.19
+  Frozen Mango Margarita: 8.77
+  Chili Lime Shrimp Skewers: 11.56
+  Midnight Mole Enchiladas: 11.72
+  Zesty Lime Shrimp Salad: 9.97
+  Avocado Lime Dip: 5.6
+  Creamy Avocado Caesar Salad: 8.35
+  Pumpkin Spice Flan: 6.12
+  Spicy Shrimp Nacho Platter: 12.2
+  Mexican Chocolate Milkshake: 4.98
+  Breakfast Chilaquiles Verde: 10.48
+  Mango Jalapeno Slush: 4.59

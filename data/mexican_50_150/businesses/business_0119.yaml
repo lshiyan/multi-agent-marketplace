@@ -1,0 +1,37 @@
+id: business_0119
+name: Chile & Charcoal Cocina
+description: A vibrant spot serving up contemporary Mexican and Tex-Mex plates with
+  bold flavors, fresh ingredients, and a touch of smoky heat. Come savor creative
+  combinations and enjoy dishes that capture the essence of modern Mexican cuisine.
+rating: 1.0
+progenitor_customer: customer_0040
+menu_features:
+  Hatch Green Chile Quesadilla: 10.12
+  Creamy Poblano Corn Chowder: 7.74
+  Caramelized Onion and Goat Cheese Empanadas: 6.08
+  Smoky Ancho Chicken Enchiladas: 12.86
+  "Spicy Jalape\xF1o Limeade": 3.34
+  Cheesy Jalapeno Poppers: 7.57
+  Tamale Trio Platter: 16.86
+  Sizzling Carne Asada: 14.41
+  Spicy Black Bean and Cheese Quesadilla: 11.37
+  Honey Lime Grilled Corn: 4.07
+  Chipotle Lime Shrimp Skewers: 14.98
+  Lime-Garlic Grilled Chicken: 14.05
+  Spicy Chocolate Churros: 5.04
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Hatch Green Chile Quesadilla: 9.31
+  Creamy Poblano Corn Chowder: 7.12
+  Caramelized Onion and Goat Cheese Empanadas: 5.59
+  Smoky Ancho Chicken Enchiladas: 11.83
+  "Spicy Jalape\xF1o Limeade": 3.07
+  Cheesy Jalapeno Poppers: 6.96
+  Tamale Trio Platter: 15.51
+  Sizzling Carne Asada: 13.26
+  Spicy Black Bean and Cheese Quesadilla: 10.46
+  Honey Lime Grilled Corn: 3.74
+  Chipotle Lime Shrimp Skewers: 13.78
+  Lime-Garlic Grilled Chicken: 12.93
+  Spicy Chocolate Churros: 4.64

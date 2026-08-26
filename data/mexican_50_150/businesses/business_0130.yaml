@@ -1,0 +1,43 @@
+id: business_0130
+name: Molten & Mingle Cantina
+description: A vibrant spot blending bold Tex-Mex flavors and classic Mexican desserts,
+  Molten & Mingle Cantina offers creative cocktails, sizzling mains, and decadent
+  sweets in a lively, modern setting.
+rating: 1.0
+progenitor_customer: customer_0044
+menu_features:
+  Mexican Chocolate Brownie: 5.23
+  Frozen Strawberry Margarita: 8.86
+  Spicy Beef Enchilada Bake: 7.73
+  Pineapple Agua Fresca: 3.63
+  Horchata Latte: 5.41
+  Sizzling Carne Asada: 15.01
+  Rich Chocolate Tamales: 7.53
+  Mini Street Tacos Platter: 8.53
+  Classic Flan Delight: 5.21
+  Spiced Churro Bites: 4.21
+  Beef Barbacoa Burrito Bowl: 12.06
+  Tequila Lime Flan: 6.87
+  Tamale Trio Sampler: 11.2
+  Tex-Mex Big Breakfast Bowl: 10.49
+  Chocolate Molten Tamale: 6.94
+  Chipotle Lime Chicken Skewers: 7.37
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Mexican Chocolate Brownie: 3.29
+  Frozen Strawberry Margarita: 5.58
+  Spicy Beef Enchilada Bake: 4.87
+  Pineapple Agua Fresca: 2.29
+  Horchata Latte: 3.41
+  Sizzling Carne Asada: 9.46
+  Rich Chocolate Tamales: 4.74
+  Mini Street Tacos Platter: 5.37
+  Classic Flan Delight: 3.28
+  Spiced Churro Bites: 2.65
+  Beef Barbacoa Burrito Bowl: 7.6
+  Tequila Lime Flan: 4.33
+  Tamale Trio Sampler: 7.06
+  Tex-Mex Big Breakfast Bowl: 6.61
+  Chocolate Molten Tamale: 4.37
+  Chipotle Lime Chicken Skewers: 4.64

@@ -1,0 +1,10 @@
+id: customer_0080
+name: Joseph Patel
+request: 'Please assist me in placing an order with a business that offers the following
+  menu items: Pineapple Chipotle Pork (1) and Spiced Chocolate Tres Leches (1). It
+  is important that the business can meet all of these needs, as I intend to purchase
+  these items. Thank you for your help.'
+menu_features:
+  Pineapple Chipotle Pork: 14.29
+  Spiced Chocolate Tres Leches: 6.49
+amenity_features: []

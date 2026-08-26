@@ -1,0 +1,41 @@
+id: business_0413
+name: Plantain & Paleta
+description: Fresh, bold, and refreshingly unique, Plantain & Paleta is your go-to
+  spot for vibrant Mexican and Tex-Mex flavors with a playful twist. Enjoy creative
+  salads, flavorful bites, and handcrafted drinks in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0138
+menu_features:
+  Creamy Avocado Caesar Salad: 9.57
+  Strawberry Jalapeno Lemonade: 4.12
+  Sweet Plantain Empanadas: 6.93
+  Cactus Flower Iced Tea: 3.87
+  Carnitas Breakfast Burrito: 11.81
+  Mango Habanero Wings: 13.08
+  Mango Jalapeno Slush: 3.81
+  Smoky Chipotle BBQ Nachos: 11.76
+  Fresh Lime Cilantro Rice: 3.06
+  Three Cheese Sope: 11.86
+  Roasted Corn and Black Bean Salad: 7.67
+  Spicy Chicken Tortilla Soup: 5.74
+  Black Bean and Corn Salsa: 5.26
+  Horchata Milkshake: 7.32
+  Pineapple Agua Fresca: 4.48
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Creamy Avocado Caesar Salad: 7.08
+  Strawberry Jalapeno Lemonade: 3.05
+  Sweet Plantain Empanadas: 5.13
+  Cactus Flower Iced Tea: 2.86
+  Carnitas Breakfast Burrito: 8.74
+  Mango Habanero Wings: 9.68
+  Mango Jalapeno Slush: 2.82
+  Smoky Chipotle BBQ Nachos: 8.7
+  Fresh Lime Cilantro Rice: 2.26
+  Three Cheese Sope: 8.78
+  Roasted Corn and Black Bean Salad: 5.68
+  Spicy Chicken Tortilla Soup: 4.25
+  Black Bean and Corn Salsa: 3.89
+  Horchata Milkshake: 5.42
+  Pineapple Agua Fresca: 3.32

@@ -1,0 +1,39 @@
+id: business_0065
+name: Modo Mexicano
+description: Discover a vibrant twist on Mexican and Tex-Mex classics, where bold
+  flavors and inventive desserts come together in a lively, modern setting. Spice,
+  sweetness, and a dash of creativity await at every bite.
+rating: 1.0
+progenitor_customer: customer_0022
+menu_features:
+  Spicy Beef Empanadas: 9.39
+  Ancho Chile BBQ Ribs: 14.85
+  Spicy Chocolate Churros: 4.68
+  Coconut Lime Paleta: 4.3
+  Margarita Lime Cheesecake: 8.05
+  Loaded Nacho Skillet: 10.4
+  Churro Ice Cream Sandwich: 8.03
+  Cilantro Lime Chicken Tacos: 12.84
+  Pineapple Chipotle Salsa & Chips: 7.05
+  Vanilla Almond Horchata: 4.48
+  Caramelized Onion Queso Dip: 7.22
+  Vanilla Flan Delight: 5.11
+  Chipotle Lime Shrimp Skewers: 15.05
+  Rich Chocolate Tamales: 8.64
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Spicy Beef Empanadas: 8.64
+  Ancho Chile BBQ Ribs: 13.66
+  Spicy Chocolate Churros: 4.31
+  Coconut Lime Paleta: 3.96
+  Margarita Lime Cheesecake: 7.41
+  Loaded Nacho Skillet: 9.57
+  Churro Ice Cream Sandwich: 7.39
+  Cilantro Lime Chicken Tacos: 11.81
+  Pineapple Chipotle Salsa & Chips: 6.49
+  Vanilla Almond Horchata: 4.12
+  Caramelized Onion Queso Dip: 6.64
+  Vanilla Flan Delight: 4.7
+  Chipotle Lime Shrimp Skewers: 13.85
+  Rich Chocolate Tamales: 7.95

@@ -1,0 +1,37 @@
+id: business_0276
+name: Zest & Churro Kitchen
+description: Step into a vibrant setting where bold spices, lively citrus, and sweet
+  treats come together for a modern Mexican dining experience. Indulge in creative
+  cocktails, crave-worthy starters, and flavorful favorites crafted with a fresh twist.
+rating: 1.0
+progenitor_customer: customer_0092
+menu_features:
+  Chipotle Lime Shrimp Tacos: 14.44
+  Tropical Coconut Margarita: 10.3
+  Spicy Chicken Chimichanga: 9.12
+  Sweet Corn Tostadas: 7.79
+  Creamy Jalapeno Corn Fritters: 10.5
+  Classic Horchata Smoothie: 3.72
+  Chili Con Queso Supreme: 7.48
+  Cocoa Dusted Churro Bites: 6.12
+  Spiced Churro Bites: 5.63
+  Avocado Lime Salad: 9.69
+  Ancho Chili Braised Beef Enchiladas: 13.5
+  Three-Cheese Enchilada Stack: 11.76
+  Tamarind Spiced Agua Fresca: 3.91
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Chipotle Lime Shrimp Tacos: 11.41
+  Tropical Coconut Margarita: 8.14
+  Spicy Chicken Chimichanga: 7.2
+  Sweet Corn Tostadas: 6.15
+  Creamy Jalapeno Corn Fritters: 8.29
+  Classic Horchata Smoothie: 2.94
+  Chili Con Queso Supreme: 5.91
+  Cocoa Dusted Churro Bites: 4.83
+  Spiced Churro Bites: 4.45
+  Avocado Lime Salad: 7.66
+  Ancho Chili Braised Beef Enchiladas: 10.67
+  Three-Cheese Enchilada Stack: 9.29
+  Tamarind Spiced Agua Fresca: 3.09

@@ -1,0 +1,45 @@
+id: business_0394
+name: Crave Mex Social
+description: Experience a bold twist on Mexican and Tex-Mex cuisine in a vibrant,
+  modern setting. From smoky enchiladas to zesty small plates and sweet, irresistible
+  bites, every dish brings a flavor-packed celebration to the table.
+rating: 1.0
+progenitor_customer: customer_0132
+menu_features:
+  Gourmet Nacho Platter: 9.95
+  Cinnamon Churro Bites: 5.4
+  Tomatillo Ranch Enchiladas: 13.97
+  Smoky Chipotle Enchiladas: 14.16
+  Verde Ranchero Huevos: 10.46
+  Tangy Tomato Salsa Soup: 7.64
+  Chocolate Mole Chicken: 15.35
+  Fiesta Street Corn: 5.15
+  Breakfast Chilaquiles Verde: 10.31
+  Ancho Chile BBQ Ribs: 19.92
+  Spicy Chorizo Enchiladas: 13.36
+  Zesty Lime Shrimp Tostadas: 11.53
+  Stuffed Avocado Delight: 7.15
+  Bacon Wrapped Jalapeno Bites: 9.45
+  Poblano Pepper Queso Dip: 6.7
+  Honey Lime Chicken Fajitas: 17.49
+  Crispy Avocado Burrito: 13.5
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Gourmet Nacho Platter: 9.25
+  Cinnamon Churro Bites: 5.02
+  Tomatillo Ranch Enchiladas: 12.99
+  Smoky Chipotle Enchiladas: 13.17
+  Verde Ranchero Huevos: 9.73
+  Tangy Tomato Salsa Soup: 7.11
+  Chocolate Mole Chicken: 14.28
+  Fiesta Street Corn: 4.79
+  Breakfast Chilaquiles Verde: 9.59
+  Ancho Chile BBQ Ribs: 18.53
+  Spicy Chorizo Enchiladas: 12.42
+  Zesty Lime Shrimp Tostadas: 10.72
+  Stuffed Avocado Delight: 6.65
+  Bacon Wrapped Jalapeno Bites: 8.79
+  Poblano Pepper Queso Dip: 6.23
+  Honey Lime Chicken Fajitas: 16.27
+  Crispy Avocado Burrito: 12.56

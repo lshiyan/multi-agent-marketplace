@@ -1,0 +1,44 @@
+id: business_0421
+name: "Wingin\u2019 It MexiCoastal"
+description: "Where bold flavors meet a fresh coastal vibe, Wingin\u2019 It MexiCoastal\
+  \ dishes out creative, zest-packed eats with a spicy, sweet twist. From smoky starters\
+  \ to fruity, fiesta-worthy sips and decadent desserts, every bite brings a taste\
+  \ of modern Mexican flair."
+rating: 1.0
+progenitor_customer: customer_0141
+menu_features:
+  Mango Habanero Wings: 12.57
+  Classic Horchata Smoothie: 5.37
+  Spicy Pineapple Chipotle Margarita: 7.89
+  Fresh Corn Elote: 4.43
+  Tequila Lime Grilled Shrimp: 13.95
+  Warm Churro Bites: 5.43
+  Black Bean and Corn Salsa: 4.66
+  Spicy Black Bean and Cheese Quesadilla: 9.21
+  Sizzling Fajita Plate: 13.17
+  Pomegranate Agua Fresca: 3.44
+  Ancho Chili Chocolate Cake: 7.3
+  Roasted Poblano Corn Chowder: 7.7
+  Spicy Shrimp Ceviche: 13.32
+  Spiced Pumpkin Empanadas: 5.82
+  Zesty Shrimp Quesadillas: 15.02
+  Sizzling Pork Carnitas Bowl: 11.22
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Mango Habanero Wings: 11.44
+  Classic Horchata Smoothie: 4.89
+  Spicy Pineapple Chipotle Margarita: 7.18
+  Fresh Corn Elote: 4.03
+  Tequila Lime Grilled Shrimp: 12.69
+  Warm Churro Bites: 4.94
+  Black Bean and Corn Salsa: 4.24
+  Spicy Black Bean and Cheese Quesadilla: 8.38
+  Sizzling Fajita Plate: 11.98
+  Pomegranate Agua Fresca: 3.13
+  Ancho Chili Chocolate Cake: 6.64
+  Roasted Poblano Corn Chowder: 7.01
+  Spicy Shrimp Ceviche: 12.12
+  Spiced Pumpkin Empanadas: 5.3
+  Zesty Shrimp Quesadillas: 13.67
+  Sizzling Pork Carnitas Bowl: 10.21

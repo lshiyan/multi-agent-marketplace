@@ -1,0 +1,10 @@
+id: customer_0074
+name: Mia Torres
+request: Please assist me in locating a business that offers both the 'Sweet Corn
+  Tamale Cake' and the 'Smoky Chipotle Black Bean Soup' in the specified quantities
+  of 1 each. Once a suitable business is identified, I would like to place an order
+  for these items. Thank you.
+menu_features:
+  Sweet Corn Tamale Cake: 8.49
+  Smoky Chipotle Black Bean Soup: 8.49
+amenity_features: []

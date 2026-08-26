@@ -1,0 +1,11 @@
+id: customer_0011
+name: Liam O'Reilly
+request: 'Please assist me in finding a business where I can place an order for the
+  following menu items: 1 Crispy Avocado Tacos, 1 Pico Avocado Toast, and 1 Lime-Cilantro
+  Quinoa Salad. It is important that the business offers all of these items, as I
+  intend to purchase them. Thank you for your help.'
+menu_features:
+  Crispy Avocado Tacos: 11.99
+  Pico Avocado Toast: 7.99
+  Lime-Cilantro Quinoa Salad: 9.79
+amenity_features: []

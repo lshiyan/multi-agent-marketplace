@@ -1,0 +1,9 @@
+id: customer_0106
+name: Emma Carter
+request: 'I would like to place an order for the following items: 1 Avocado Lime Enchiladas
+  and 1 Honey Lime Chicken Skewers. Please help me find a business that can fulfill
+  this order. Thank you.'
+menu_features:
+  Avocado Lime Enchiladas: 11.99
+  Honey Lime Chicken Skewers: 11.49
+amenity_features: []

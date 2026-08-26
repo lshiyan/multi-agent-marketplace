@@ -1,0 +1,10 @@
+id: customer_0009
+name: Liam Turner
+request: Could you please help me find a business that offers the specific menu items
+  I need? I am looking to place an order for 1 Chipotle Lime Chicken Salad and 1 Mexican
+  Street Corn Salad. It's important that the business includes both items in their
+  offerings. Thank you for your assistance!
+menu_features:
+  Chipotle Lime Chicken Salad: 10.99
+  Mexican Street Corn Salad: 7.49
+amenity_features: []

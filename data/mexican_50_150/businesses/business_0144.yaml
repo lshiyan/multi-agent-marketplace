@@ -1,0 +1,43 @@
+id: business_0144
+name: Casa Dulce y Fuego
+description: Discover a vibrant blend of classic Mexican and Tex-Mex flavors in a
+  warm, welcoming setting. From savory plates to sweet indulgences, every meal is
+  crafted with spice, tradition, and a hint of sweetness.
+rating: 1.0
+progenitor_customer: customer_0048
+menu_features:
+  Ancho Chili Braised Beef Enchiladas: 13.6
+  Cinnamon Sugar Churro Sticks: 5.14
+  Fajita Veggie Burrito Bowl: 12.98
+  Jalapeno Cheddar Cornbread: 5.02
+  Horchata Iced Coffee: 3.97
+  Tex-Mex Big Breakfast Bowl: 11.47
+  Spiced Pumpkin Empanadas: 4.71
+  Baja Fish Burrito: 14.98
+  Horchata Iced Latte: 5.82
+  Guava Limeade Cooler: 4.38
+  Adobo Roasted Corn Salad: 9.11
+  Ancho Chile BBQ Ribs: 16.75
+  Sizzling Carne Asada: 14.99
+  Mushroom & Cheese Tamales: 7.68
+  Pork Carnitas Platter: 15.75
+  "Cheesy Jalape\xF1o Queso Dip": 7.84
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Ancho Chili Braised Beef Enchiladas: 8.57
+  Cinnamon Sugar Churro Sticks: 3.24
+  Fajita Veggie Burrito Bowl: 8.18
+  Jalapeno Cheddar Cornbread: 3.16
+  Horchata Iced Coffee: 2.5
+  Tex-Mex Big Breakfast Bowl: 7.23
+  Spiced Pumpkin Empanadas: 2.97
+  Baja Fish Burrito: 9.44
+  Horchata Iced Latte: 3.67
+  Guava Limeade Cooler: 2.76
+  Adobo Roasted Corn Salad: 5.74
+  Ancho Chile BBQ Ribs: 10.55
+  Sizzling Carne Asada: 9.44
+  Mushroom & Cheese Tamales: 4.84
+  Pork Carnitas Platter: 9.92
+  "Cheesy Jalape\xF1o Queso Dip": 4.94

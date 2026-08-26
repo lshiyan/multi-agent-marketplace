@@ -1,0 +1,39 @@
+id: business_0013
+name: Salsa Serenade
+description: Experience a fresh twist on Mexican and Tex-Mex classics, brought to
+  life with vibrant flavors and bold, zesty ingredients. Enjoy salads, sizzling fajitas,
+  sweet treats, and more in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0005
+menu_features:
+  Chipotle Lime Chicken Salad: 11.49
+  Zesty Lime Shrimp Salad: 15.44
+  Honey Lime Fajita Sizzlers: 14.63
+  Tomatillo Ranch Enchiladas: 15.63
+  Horchata Milkshake: 6.32
+  Grilled Chipotle Chicken Burrito: 9.46
+  Peppered Steak Nachos: 10.45
+  Sweet Corn Tamales: 10.42
+  Cinnamon Sugar Churros: 4.28
+  Loaded Nacho Platter: 11.34
+  Zesty Shrimp Quesadillas: 11.8
+  Ultimate Nacho Platter: 8.75
+  Ancho Chili Chocolate Cake: 6.92
+  Spicy Zucchini Tostadas: 8.56
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Chipotle Lime Chicken Salad: 8.16
+  Zesty Lime Shrimp Salad: 10.96
+  Honey Lime Fajita Sizzlers: 10.39
+  Tomatillo Ranch Enchiladas: 11.1
+  Horchata Milkshake: 4.49
+  Grilled Chipotle Chicken Burrito: 6.72
+  Peppered Steak Nachos: 7.42
+  Sweet Corn Tamales: 7.4
+  Cinnamon Sugar Churros: 3.04
+  Loaded Nacho Platter: 8.05
+  Zesty Shrimp Quesadillas: 8.38
+  Ultimate Nacho Platter: 6.21
+  Ancho Chili Chocolate Cake: 4.91
+  Spicy Zucchini Tostadas: 6.08

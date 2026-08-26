@@ -1,0 +1,45 @@
+id: business_0299
+name: Nacho Average Fiesta
+description: Step into a flavorful celebration where bold Tex-Mex classics meet creative
+  twists, from street corn and sizzling grilled meats to sweet, cocoa-dusted delights.
+  Experience a fresh take on familiar favorites in a lively, colorful setting.
+rating: 1.0
+progenitor_customer: customer_0100
+menu_features:
+  Tequila Lime Grilled Shrimp: 15.82
+  Loaded Nachos Grande: 11.62
+  Sizzling Fajita Fiesta: 13.27
+  Zesty Lime Grilled Chicken: 20.86
+  Creamy Queso Dip: 8.21
+  Honey-Lime Shrimp Skewers: 15.41
+  Roasted Corn Enchiladas: 11.69
+  Fiesta Street Corn: 4.51
+  Choco-Chili Volcano Cake: 6.59
+  Cocoa Dusted Churro Bites: 6.03
+  Smoky Chipotle BBQ Wings: 10.05
+  Black Bean Breakfast Burrito: 6.29
+  Grilled Steak Quesadilla: 12.62
+  Passionfruit Paloma: 8.11
+  Warm Churro Bites: 5.29
+  Fresh Lime and Cilantro Guacamole: 7.72
+  Black Bean & Corn Enchiladas: 10.87
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Tequila Lime Grilled Shrimp: 14.87
+  Loaded Nachos Grande: 10.92
+  Sizzling Fajita Fiesta: 12.47
+  Zesty Lime Grilled Chicken: 19.61
+  Creamy Queso Dip: 7.72
+  Honey-Lime Shrimp Skewers: 14.49
+  Roasted Corn Enchiladas: 10.99
+  Fiesta Street Corn: 4.24
+  Choco-Chili Volcano Cake: 6.19
+  Cocoa Dusted Churro Bites: 5.67
+  Smoky Chipotle BBQ Wings: 9.45
+  Black Bean Breakfast Burrito: 5.91
+  Grilled Steak Quesadilla: 11.86
+  Passionfruit Paloma: 7.62
+  Warm Churro Bites: 4.97
+  Fresh Lime and Cilantro Guacamole: 7.26
+  Black Bean & Corn Enchiladas: 10.22

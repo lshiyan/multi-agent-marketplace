@@ -1,0 +1,10 @@
+id: customer_0007
+name: Olivia Parker
+request: 'Could you please assist me in finding a business where I can place an order
+  for the following items: 1 Huevos Rancheros and 1 Pineapple Jalapeno Salsa? It is
+  important that both items are available as I intend to purchase them. Thank you
+  for your help!'
+menu_features:
+  Huevos Rancheros: 10.49
+  Pineapple Jalapeno Salsa: 4.99
+amenity_features: []

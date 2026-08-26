@@ -1,0 +1,43 @@
+id: business_0423
+name: Spicewave Cantina
+description: Dive into a modern Mex-Tex experience where bold flavors and fresh ingredients
+  come together in vibrant, creative dishes. Sip unique cocktails and enjoy a menu
+  inspired by street food classics and tropical accents.
+rating: 1.0
+progenitor_customer: customer_0141
+menu_features:
+  Crispy Fish Street Tacos: 17.88
+  Sizzling Steak Fajitas: 14.96
+  Grilled Pineapple Mojito: 8.57
+  Pineapple Chipotle Salsa & Chips: 6.6
+  Green Chile Cheesesteak: 11.17
+  Mole Chicken Quesadilla: 11.27
+  Chipotle Bourbon Carnitas: 14.0
+  Pomegranate Agua Fresca: 4.32
+  Loaded Chorizo Nachos: 7.98
+  Spiced Pumpkin Empanadas: 7.36
+  Spicy Pineapple Chipotle Margarita: 7.22
+  Roasted Corn Elote: 4.59
+  Creamy Poblano Corn Chowder: 8.9
+  Cactus Cooler Margarita: 8.73
+  Loaded Nacho Skillet: 13.44
+  Passionfruit Agua Fresca: 4.25
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Crispy Fish Street Tacos: 13.23
+  Sizzling Steak Fajitas: 11.07
+  Grilled Pineapple Mojito: 6.34
+  Pineapple Chipotle Salsa & Chips: 4.88
+  Green Chile Cheesesteak: 8.27
+  Mole Chicken Quesadilla: 8.34
+  Chipotle Bourbon Carnitas: 10.36
+  Pomegranate Agua Fresca: 3.2
+  Loaded Chorizo Nachos: 5.91
+  Spiced Pumpkin Empanadas: 5.45
+  Spicy Pineapple Chipotle Margarita: 5.34
+  Roasted Corn Elote: 3.4
+  Creamy Poblano Corn Chowder: 6.59
+  Cactus Cooler Margarita: 6.46
+  Loaded Nacho Skillet: 9.95
+  Passionfruit Agua Fresca: 3.15

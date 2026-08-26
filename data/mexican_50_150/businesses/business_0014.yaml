@@ -1,0 +1,33 @@
+id: business_0014
+name: Zest & Ember Cantina
+description: Experience bold flavors and vibrant twists on classic Mexican and Tex-Mex
+  fare in a modern, welcoming setting. Enjoy inventive dishes, fresh citrus drinks,
+  and decadent desserts crafted for a lively dining adventure.
+rating: 1.0
+progenitor_customer: customer_0005
+menu_features:
+  Chipotle Lime Shrimp Skewers: 14.5
+  Blueberry Agave Margarita: 10.21
+  Midnight Mole Enchiladas: 12.51
+  Chocolate Tamale Cake: 6.2
+  Sweet Corn Tamale Bites: 5.29
+  Stuffed Poblano Peppers: 13.02
+  Loaded Sweet Potato Fries: 7.02
+  Fresh Limeade: 4.07
+  Margarita Lime Cheesecake: 7.99
+  Crisp Jicama Slaw: 5.44
+  Rich Chocolate Tamales: 8.76
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Chipotle Lime Shrimp Skewers: 10.0
+  Blueberry Agave Margarita: 7.04
+  Midnight Mole Enchiladas: 8.63
+  Chocolate Tamale Cake: 4.28
+  Sweet Corn Tamale Bites: 3.65
+  Stuffed Poblano Peppers: 8.98
+  Loaded Sweet Potato Fries: 4.84
+  Fresh Limeade: 2.81
+  Margarita Lime Cheesecake: 5.51
+  Crisp Jicama Slaw: 3.75
+  Rich Chocolate Tamales: 6.04

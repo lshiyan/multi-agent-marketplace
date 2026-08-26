@@ -1,0 +1,39 @@
+id: business_0109
+name: Mole & Mango Market
+description: "Step into a vibrant dining experience where bold Mexican and Tex-Mex\
+  \ flavors meet creative culinary twists. Enjoy a welcoming atmosphere and a menu\
+  \ full of fresh salsas, savory entr\xE9es, and colorful drinks."
+rating: 1.0
+progenitor_customer: customer_0037
+menu_features:
+  Tomatillo Salsa Verde Nachos: 10.64
+  Jalapeno Mango Margarita: 8.77
+  Sea Breeze Ceviche: 15.65
+  Midnight Mole Enchiladas: 16.6
+  Flan with Caramel Drizzle: 7.32
+  Creamy Avocado Caesar Salad: 10.65
+  Mexican Chocolate Brownie: 5.29
+  Margarita Lime Cheesecake: 8.59
+  Gourmet Nacho Platter: 12.34
+  Creamy Poblano Corn Chowder: 6.48
+  Sizzling Beef Alambre: 12.79
+  Breakfast Burrito Bonanza: 8.63
+  Passionfruit Agua Fresca: 3.22
+  Passion Fruit Agua Fresca: 3.7
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Tomatillo Salsa Verde Nachos: 8.19
+  Jalapeno Mango Margarita: 6.75
+  Sea Breeze Ceviche: 12.05
+  Midnight Mole Enchiladas: 12.78
+  Flan with Caramel Drizzle: 5.64
+  Creamy Avocado Caesar Salad: 8.2
+  Mexican Chocolate Brownie: 4.07
+  Margarita Lime Cheesecake: 6.61
+  Gourmet Nacho Platter: 9.5
+  Creamy Poblano Corn Chowder: 4.99
+  Sizzling Beef Alambre: 9.85
+  Breakfast Burrito Bonanza: 6.65
+  Passionfruit Agua Fresca: 2.48
+  Passion Fruit Agua Fresca: 2.85

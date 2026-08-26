@@ -1,0 +1,43 @@
+id: business_0055
+name: Casa Cielo Dorado
+description: Step into a warm, inviting space where fresh flavors and vibrant ingredients
+  come together in classic Mexican and Tex-Mex dishes. Enjoy bright aguas frescas,
+  artfully grilled plates, and a taste of golden hospitality with every visit.
+rating: 1.0
+progenitor_customer: customer_0019
+menu_features:
+  Creamy Poblano Corn Chowder: 7.09
+  Avocado Lime Grilled Shrimp: 17.54
+  Grilled Avocado and Quinoa Bowl: 10.5
+  Mango Agua Fresca: 3.98
+  Fresh Limeade: 3.08
+  Breakfast Chorizo Torta: 8.46
+  Verde Ranchero Huevos: 12.57
+  Avocado Lime Crema Tostadas: 9.01
+  Zesty Shrimp Quesadillas: 11.65
+  Pineapple Salsa Pork Tacos: 13.8
+  Passion Fruit Agua Fresca: 3.55
+  Sizzling Pork Carnitas Bowl: 13.98
+  Hatch Green Chile Rice: 6.11
+  Housemade Horchata: 3.92
+  Grilled Pineapple Salmon: 19.84
+  Grilled Steak Fajita Platter: 17.37
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Creamy Poblano Corn Chowder: 5.39
+  Avocado Lime Grilled Shrimp: 13.33
+  Grilled Avocado and Quinoa Bowl: 7.98
+  Mango Agua Fresca: 3.02
+  Fresh Limeade: 2.34
+  Breakfast Chorizo Torta: 6.43
+  Verde Ranchero Huevos: 9.55
+  Avocado Lime Crema Tostadas: 6.85
+  Zesty Shrimp Quesadillas: 8.85
+  Pineapple Salsa Pork Tacos: 10.49
+  Passion Fruit Agua Fresca: 2.7
+  Sizzling Pork Carnitas Bowl: 10.62
+  Hatch Green Chile Rice: 4.64
+  Housemade Horchata: 2.98
+  Grilled Pineapple Salmon: 15.08
+  Grilled Steak Fajita Platter: 13.2

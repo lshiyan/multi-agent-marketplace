@@ -1,0 +1,11 @@
+id: customer_0006
+name: John O'Neill
+request: Could you please help me find a business that offers the following menu items?
+  I am looking to place an order for 1 Avocado Ranch Burrito Bowl, 1 Avocado Lime
+  Salad, and 1 Poblano Pepper Queso Dip. It is important that the business provides
+  all of these specific items. Thank you!
+menu_features:
+  Avocado Ranch Burrito Bowl: 12.49
+  Avocado Lime Salad: 8.79
+  Poblano Pepper Queso Dip: 6.99
+amenity_features: []

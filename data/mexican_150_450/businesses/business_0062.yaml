@@ -1,0 +1,39 @@
+id: business_0062
+name: Guac to the Future
+description: Step into a vibrant culinary adventure where classic Mexican flavors
+  meet fresh twists and bold ingredients. Enjoy a lively atmosphere and creative bites,
+  perfect for flavor seekers.
+rating: 1.0
+progenitor_customer: customer_0021
+menu_features:
+  Ancho Honey-Glazed Salmon: 16.64
+  Fresh Lime and Cilantro Guacamole: 11.3
+  Strawberry Jalapeno Lemonade: 3.43
+  Blueberry Jalapeno Margarita: 12.61
+  "Blueberry Jalape\xF1o Margarita": 9.0
+  Tequila Sunrise Smoothie: 9.68
+  "Cheesy Jalape\xF1o Poppers": 6.45
+  Citrus Marinated Carne Asada: 13.71
+  Chocolate Mole Chicken: 15.63
+  Smoky Black Bean Tostadas: 9.35
+  Black Bean Avocado Enchiladas: 11.53
+  Loaded Nacho Fries: 7.09
+  Chipotle Bean Burrito: 11.54
+  Cilantro Lime Chicken Tacos: 9.84
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Ancho Honey-Glazed Salmon: 10.82
+  Fresh Lime and Cilantro Guacamole: 7.35
+  Strawberry Jalapeno Lemonade: 2.23
+  Blueberry Jalapeno Margarita: 8.2
+  "Blueberry Jalape\xF1o Margarita": 5.85
+  Tequila Sunrise Smoothie: 6.29
+  "Cheesy Jalape\xF1o Poppers": 4.19
+  Citrus Marinated Carne Asada: 8.91
+  Chocolate Mole Chicken: 10.16
+  Smoky Black Bean Tostadas: 6.08
+  Black Bean Avocado Enchiladas: 7.49
+  Loaded Nacho Fries: 4.61
+  Chipotle Bean Burrito: 7.5
+  Cilantro Lime Chicken Tacos: 6.4

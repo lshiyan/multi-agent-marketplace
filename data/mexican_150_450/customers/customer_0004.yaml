@@ -1,0 +1,12 @@
+id: customer_0004
+name: Lily Moore
+request: 'I am looking to place an order with a business that serves the following
+  menu items: 1 Tomatillo Salsa Verde Nachos, 1 Classic Tortilla Soup, and 1 Margarita
+  Grilled Chicken. It is important to me that all of these items are available from
+  the same business. Once you find a suitable option, please let me know so I can
+  place my order. Thank you.'
+menu_features:
+  Tomatillo Salsa Verde Nachos: 10.49
+  Classic Tortilla Soup: 6.49
+  Margarita Grilled Chicken: 14.59
+amenity_features: []

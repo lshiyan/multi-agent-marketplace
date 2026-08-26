@@ -1,0 +1,39 @@
+id: business_0178
+name: Frijol & Flame
+description: Frijol & Flame is a vibrant, modern eatery serving up inventive Mexican
+  and Tex-Mex inspired dishes and refreshing drinks in a lively atmosphere. Enjoy
+  a fresh twist on classics, from crisp tostadas to sweet treats and zesty beverages.
+rating: 1.0
+progenitor_customer: customer_0060
+menu_features:
+  Black Bean Avocado Tostadas: 12.95
+  Raspberry Jalapeno Mojito: 9.03
+  Breakfast Burrito Bowl: 11.01
+  Tres Leches Cake: 7.1
+  Loaded Nacho Platter: 10.73
+  Smoky Black Bean Tostadas: 9.2
+  Classic Horchata Smoothie: 6.03
+  Spicy Black Bean and Cheese Quesadilla: 10.82
+  Flamin' Skillet Fajitas: 18.03
+  Black Bean & Corn Enchiladas: 9.53
+  Mango Agua Fresca: 3.26
+  Grilled Pineapple Mojito: 8.99
+  Black Bean Taco Bowl: 11.3
+  Crispy Fish Tacos: 10.49
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Black Bean Avocado Tostadas: 10.36
+  Raspberry Jalapeno Mojito: 7.22
+  Breakfast Burrito Bowl: 8.81
+  Tres Leches Cake: 5.68
+  Loaded Nacho Platter: 8.58
+  Smoky Black Bean Tostadas: 7.36
+  Classic Horchata Smoothie: 4.82
+  Spicy Black Bean and Cheese Quesadilla: 8.66
+  Flamin' Skillet Fajitas: 14.42
+  Black Bean & Corn Enchiladas: 7.62
+  Mango Agua Fresca: 2.61
+  Grilled Pineapple Mojito: 7.19
+  Black Bean Taco Bowl: 9.04
+  Crispy Fish Tacos: 8.39

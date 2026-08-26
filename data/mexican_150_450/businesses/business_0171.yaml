@@ -1,0 +1,42 @@
+id: business_0171
+name: "Cantina Dulce y Saz\xF3n"
+description: "Discover a celebration of sweet and savory at Cantina Dulce y Saz\xF3\
+  n, where bold Tex-Mex flavors mingle with delightful desserts in a vibrant and welcoming\
+  \ atmosphere. Satisfy your cravings with a menu featuring classic favorites and\
+  \ unique house specialties crafted with care."
+rating: 1.0
+progenitor_customer: customer_0057
+menu_features:
+  Cinnamon Churro Bites: 4.42
+  Churro Ice Cream Sandwich: 7.66
+  Chocolate Cinnamon Flan: 6.6
+  Green Chile Cheesesteak: 12.44
+  Spiced Churro Bites: 6.21
+  Tropical Guava Mint Punch: 5.41
+  Crispy Carnitas Tacos: 14.18
+  Poblano Pepper Queso Dip: 7.87
+  Warm Cinnamon Churros: 6.2
+  Tex-Mex Fajita Wrap: 12.02
+  Honey Chipotle Wings: 10.51
+  Classic Beef Enchiladas: 10.63
+  Bacon and Egg Tostada: 10.1
+  Spicy Shrimp Nacho Platter: 10.25
+  Chocolate Mole Chicken: 14.81
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Cinnamon Churro Bites: 3.58
+  Churro Ice Cream Sandwich: 6.2
+  Chocolate Cinnamon Flan: 5.35
+  Green Chile Cheesesteak: 10.08
+  Spiced Churro Bites: 5.03
+  Tropical Guava Mint Punch: 4.38
+  Crispy Carnitas Tacos: 11.49
+  Poblano Pepper Queso Dip: 6.37
+  Warm Cinnamon Churros: 5.02
+  Tex-Mex Fajita Wrap: 9.74
+  Honey Chipotle Wings: 8.51
+  Classic Beef Enchiladas: 8.61
+  Bacon and Egg Tostada: 8.18
+  Spicy Shrimp Nacho Platter: 8.3
+  Chocolate Mole Chicken: 12.0

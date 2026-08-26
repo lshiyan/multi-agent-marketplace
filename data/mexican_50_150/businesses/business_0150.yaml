@@ -1,0 +1,37 @@
+id: business_0150
+name: Avo Control
+description: Dive into bold, inventive Mexican and Tex-Mex flavors with vibrant salsas,
+  zesty entrees, and playful desserts. Our kitchen crafts every dish with a creative
+  twist, perfect for adventurers in taste.
+rating: 1.0
+progenitor_customer: customer_0050
+menu_features:
+  Black Bean Stuffed Sweet Potatoes: 9.19
+  Pineapple Habanero Sake: 6.68
+  Tequila Lime Shrimp Skewers: 11.88
+  Ancho Chile Chicken Salad: 11.33
+  Spicy Chicken Chimichanga: 12.58
+  Carnitas Plantain Burrito: 14.68
+  Spicy Chocolate Churros: 4.99
+  Classic Beef Barbacoa: 10.5
+  Crispy Fish Street Tacos: 11.21
+  Loaded Nacho Fiesta: 9.82
+  Avocado Lime Cheesecake: 7.14
+  Pumpkin Spice Flan: 6.96
+  Pineapple Salsa Nachos: 10.0
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Black Bean Stuffed Sweet Potatoes: 5.61
+  Pineapple Habanero Sake: 4.07
+  Tequila Lime Shrimp Skewers: 7.25
+  Ancho Chile Chicken Salad: 6.91
+  Spicy Chicken Chimichanga: 7.67
+  Carnitas Plantain Burrito: 8.95
+  Spicy Chocolate Churros: 3.04
+  Classic Beef Barbacoa: 6.41
+  Crispy Fish Street Tacos: 6.84
+  Loaded Nacho Fiesta: 5.99
+  Avocado Lime Cheesecake: 4.36
+  Pumpkin Spice Flan: 4.25
+  Pineapple Salsa Nachos: 6.1

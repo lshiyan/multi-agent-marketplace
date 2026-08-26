@@ -1,0 +1,45 @@
+id: business_0098
+name: Pico & Poblano Place
+description: Delight in bold Tex-Mex and Mexican flavors crafted from fresh ingredients
+  and vibrant spices. Experience inventive classics and modern twists in a lively,
+  welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0033
+menu_features:
+  Spicy Chocolate Churros: 3.98
+  Pico Avocado Toast: 7.97
+  Spicy Beef Empanadas: 11.33
+  Roasted Poblano Quesadilla: 12.32
+  Breakfast Chorizo Tostadas: 8.91
+  Chili Con Queso Supreme: 6.53
+  Roasted Poblano Corn Chowder: 7.61
+  Black Bean and Lime Soup: 6.5
+  Smoky Chipotle Chicken: 12.78
+  Spicy Chicken Tortilla Soup: 5.11
+  Cactus Cooler Margarita: 8.08
+  Black Bean Taco Bowl: 9.25
+  Tropical Pineapple Salsa: 2.74
+  Pineapple Pico de Gallo Nachos: 10.71
+  Loaded Street Corn: 6.01
+  Lime-Cilantro Quinoa Salad: 8.68
+  Red Chili Braised Beef Brisket: 15.43
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Spicy Chocolate Churros: 3.58
+  Pico Avocado Toast: 7.17
+  Spicy Beef Empanadas: 10.2
+  Roasted Poblano Quesadilla: 11.09
+  Breakfast Chorizo Tostadas: 8.02
+  Chili Con Queso Supreme: 5.88
+  Roasted Poblano Corn Chowder: 6.85
+  Black Bean and Lime Soup: 5.85
+  Smoky Chipotle Chicken: 11.5
+  Spicy Chicken Tortilla Soup: 4.6
+  Cactus Cooler Margarita: 7.27
+  Black Bean Taco Bowl: 8.33
+  Tropical Pineapple Salsa: 2.47
+  Pineapple Pico de Gallo Nachos: 9.64
+  Loaded Street Corn: 5.41
+  Lime-Cilantro Quinoa Salad: 7.81
+  Red Chili Braised Beef Brisket: 13.89

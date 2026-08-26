@@ -1,0 +1,33 @@
+id: business_0280
+name: Citrus Ember Grill
+description: "Experience a fresh twist on Mexican and Tex-Mex cuisine\u2014where zesty\
+  \ flavors meet smoky, vibrant creations. Enjoy colorful salads, sizzling mains,\
+  \ and bold salsas in a modern, lively atmosphere."
+rating: 1.0
+progenitor_customer: customer_0094
+menu_features:
+  Chipotle Lime Chicken Salad: 11.39
+  Tomatillo Ranch Enchiladas: 14.03
+  Southwestern Quinoa Salad: 9.59
+  Tamarind-Glazed Ribs: 16.9
+  Chili Lime Roasted Corn: 4.78
+  Grilled Pineapple Salsa: 7.21
+  Black Bean & Corn Quesadilla: 9.49
+  Tequila Lime Grilled Shrimp: 16.84
+  Smoky Chipotle BBQ Nachos: 9.71
+  Pineapple Habanero Salsa: 4.28
+  Ancho Chili Chocolate Cake: 6.65
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Chipotle Lime Chicken Salad: 9.45
+  Tomatillo Ranch Enchiladas: 11.64
+  Southwestern Quinoa Salad: 7.96
+  Tamarind-Glazed Ribs: 14.03
+  Chili Lime Roasted Corn: 3.97
+  Grilled Pineapple Salsa: 5.98
+  Black Bean & Corn Quesadilla: 7.88
+  Tequila Lime Grilled Shrimp: 13.98
+  Smoky Chipotle BBQ Nachos: 8.06
+  Pineapple Habanero Salsa: 3.55
+  Ancho Chili Chocolate Cake: 5.52

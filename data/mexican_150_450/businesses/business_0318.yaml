@@ -1,0 +1,39 @@
+id: business_0318
+name: Glaze & Garden
+description: Glaze & Garden celebrates vibrant Mexican and Tex-Mex flavors with a
+  creative twist. Enjoy fresh, zesty fare and uniquely refreshing drinks in a welcoming
+  and modern setting.
+rating: 1.0
+progenitor_customer: customer_0106
+menu_features:
+  Honey Lime Grilled Fajitas: 16.07
+  Avocado Lime Enchiladas: 11.39
+  Honey Lime Chicken Skewers: 12.4
+  Blueberry Agave Margarita: 7.26
+  Horchata Cold Brew Coffee: 4.59
+  Beef Enchiladas Verdes: 12.6
+  Creamy Avocado Smoothie: 4.58
+  Chili Con Queso Supreme: 7.54
+  Warm Cinnamon Churros: 6.48
+  Chocolate Dipped Flan: 5.47
+  Tamarind Glazed Wings: 9.6
+  Passion Fruit Agua Fresca: 2.97
+  Adobo Pork Sliders: 10.33
+  "Spicy Jalape\xF1o Limeade": 3.8
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Honey Lime Grilled Fajitas: 11.57
+  Avocado Lime Enchiladas: 8.2
+  Honey Lime Chicken Skewers: 8.93
+  Blueberry Agave Margarita: 5.23
+  Horchata Cold Brew Coffee: 3.3
+  Beef Enchiladas Verdes: 9.07
+  Creamy Avocado Smoothie: 3.3
+  Chili Con Queso Supreme: 5.43
+  Warm Cinnamon Churros: 4.67
+  Chocolate Dipped Flan: 3.94
+  Tamarind Glazed Wings: 6.91
+  Passion Fruit Agua Fresca: 2.14
+  Adobo Pork Sliders: 7.44
+  "Spicy Jalape\xF1o Limeade": 2.74

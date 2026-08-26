@@ -1,0 +1,33 @@
+id: business_0141
+name: Kernel of Truth Cantina
+description: Dive into bold, vibrant flavors at Kernel of Truth Cantina, where every
+  bite celebrates the heart of Mexican and Tex-Mex cuisine. From zesty dips to sizzling
+  plates, savor a fresh spin on your favorites in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0047
+menu_features:
+  Three-Cheese Queso Dip: 7.47
+  Roasted Poblano Corn Chowder: 6.98
+  Black Bean and Corn Salsa: 5.61
+  Smoky Black Bean Soup: 6.3
+  Caramelized Onion Queso Dip: 6.6
+  Smoky Chipotle BBQ Nachos: 10.47
+  Mango Jalapeno Salsa and Chips: 4.96
+  Fajita Veggie Burrito Bowl: 10.96
+  Loaded Nacho Fries: 7.58
+  Poblano Pepper Relleno Plate: 11.88
+  Cactus Jack Quesadilla: 12.49
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Three-Cheese Queso Dip: 6.35
+  Roasted Poblano Corn Chowder: 5.93
+  Black Bean and Corn Salsa: 4.77
+  Smoky Black Bean Soup: 5.35
+  Caramelized Onion Queso Dip: 5.61
+  Smoky Chipotle BBQ Nachos: 8.9
+  Mango Jalapeno Salsa and Chips: 4.22
+  Fajita Veggie Burrito Bowl: 9.32
+  Loaded Nacho Fries: 6.44
+  Poblano Pepper Relleno Plate: 10.1
+  Cactus Jack Quesadilla: 10.62

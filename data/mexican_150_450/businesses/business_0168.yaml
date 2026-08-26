@@ -1,0 +1,40 @@
+id: business_0168
+name: Pineapple & Peppercorn
+description: Discover bold, vibrant flavors at Pineapple & Peppercorn, where fresh
+  ingredients and a playful Tex-Mex spirit inspire every dish. From sizzling grills
+  to refreshing house-made beverages, enjoy a creative twist on classic favorites
+  in a lively, inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0056
+menu_features:
+  Grilled Street Corn: 4.49
+  Smoky Black Bean Nachos: 10.47
+  Sweet Plantain Empanadas: 7.66
+  Mesquite Grilled Steak Fajitas: 13.17
+  Caramelized Plantain Empanadas: 7.22
+  Chipotle Chicken Enchiladas: 15.5
+  Ancho Chili Braised Beef Enchiladas: 16.39
+  Loaded Nacho Fiesta: 10.78
+  Red Chili Braised Beef Brisket: 9.27
+  Hatch Green Chile Stew: 14.85
+  Tamarind Ginger Cooler: 4.67
+  Grilled Pineapple Mojito: 7.58
+  Roasted Red Pepper Quesadilla: 9.8
+  Tomatillo Ranch Enchiladas: 14.48
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Grilled Street Corn: 2.78
+  Smoky Black Bean Nachos: 6.49
+  Sweet Plantain Empanadas: 4.75
+  Mesquite Grilled Steak Fajitas: 8.17
+  Caramelized Plantain Empanadas: 4.48
+  Chipotle Chicken Enchiladas: 9.61
+  Ancho Chili Braised Beef Enchiladas: 10.16
+  Loaded Nacho Fiesta: 6.68
+  Red Chili Braised Beef Brisket: 5.75
+  Hatch Green Chile Stew: 9.21
+  Tamarind Ginger Cooler: 2.9
+  Grilled Pineapple Mojito: 4.7
+  Roasted Red Pepper Quesadilla: 6.08
+  Tomatillo Ranch Enchiladas: 8.98
