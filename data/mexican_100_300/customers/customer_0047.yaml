@@ -1,0 +1,11 @@
+id: customer_0047
+name: Katherine Schneider
+request: 'Could you please find a business that offers the following menu items: ''Loaded
+  Nacho Supreme'' (1), ''Crispy Carnitas Tacos'' (1), and ''Honey Lime Grilled Chicken''
+  (1)? Once you find such a business, I would like to place an order for these items.
+  Thank you very much for your assistance.'
+menu_features:
+  Loaded Nacho Supreme: 9.99
+  Crispy Carnitas Tacos: 12.5
+  Honey Lime Grilled Chicken: 14.49
+amenity_features: []

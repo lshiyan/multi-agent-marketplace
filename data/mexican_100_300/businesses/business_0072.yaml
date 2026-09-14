@@ -1,0 +1,35 @@
+id: business_0072
+name: Tierra Dulce Kitchen
+description: Experience vibrant Mexican and Tex-Mex flavors with a modern twist, from
+  craveworthy savory bites to irresistible sweet treats. Join us for inventive eats,
+  refreshing drinks, and a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0024
+menu_features:
+  Spiced Chocolate Flan: 7.25
+  Three-Cheese Queso Dip: 5.64
+  Cinnamon Churro Bites: 5.27
+  Caramelized Onion and Chorizo Quesadilla: 10.2
+  Crispy Avocado Tostadas: 10.74
+  Grilled Pineapple and Pork Tacos: 9.8
+  Shrimp and Avocado Ceviche: 10.32
+  Tamarind Ginger Cooler: 4.02
+  Tamale Trio Platter: 13.87
+  Queso Fundido with Chorizo: 9.9
+  Mexican Street Corn Dip: 7.0
+  Frozen Strawberry Margarita: 7.7
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Spiced Chocolate Flan: 4.5
+  Three-Cheese Queso Dip: 3.5
+  Cinnamon Churro Bites: 3.27
+  Caramelized Onion and Chorizo Quesadilla: 6.32
+  Crispy Avocado Tostadas: 6.66
+  Grilled Pineapple and Pork Tacos: 6.08
+  Shrimp and Avocado Ceviche: 6.4
+  Tamarind Ginger Cooler: 2.49
+  Tamale Trio Platter: 8.6
+  Queso Fundido with Chorizo: 6.14
+  Mexican Street Corn Dip: 4.34
+  Frozen Strawberry Margarita: 4.77

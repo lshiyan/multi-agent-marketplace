@@ -1,0 +1,12 @@
+id: customer_0086
+name: Eric Thompson
+request: 'I am looking to place an order with a business that serves the following
+  specific menu items: Chocolate Mole Chicken (1), Cilantro Lime Rice Bowl (1), and
+  Tamale Trio Sampler (1). It is important that all these items are available for
+  me to proceed with the order. Could you please assist in finding such a business
+  so I can make this purchase? Thank you.'
+menu_features:
+  Chocolate Mole Chicken: 15.99
+  Cilantro Lime Rice Bowl: 11.59
+  Tamale Trio Sampler: 11.99
+amenity_features: []

@@ -1,0 +1,43 @@
+id: business_0222
+name: La Plaza Poblana
+description: A warm and vibrant destination celebrating the bright flavors of Mexico
+  and the Southwest. Enjoy a creative menu of savory classics, fresh salsas, and decadent
+  desserts in a relaxed, colorful setting.
+rating: 1.0
+progenitor_customer: customer_0074
+menu_features:
+  Roasted Poblano Corn Chowder: 6.26
+  Black Bean Sweet Potato Burrito: 10.63
+  Spicy Pineapple Salsa Dip: 4.65
+  Mango Agua Fresca: 4.23
+  Hibiscus Agua Fresca: 3.78
+  Mexican Chocolate Flan: 4.73
+  Mango Habanero Wings: 12.09
+  Rich Chocolate Tres Leches: 8.67
+  Sunrise Breakfast Tacos: 10.28
+  Crisp Jicama Slaw: 4.17
+  Smoky Chipotle Enchiladas: 16.02
+  Chipotle Shrimp Skewers: 12.0
+  Queso Fundido with Chorizo: 10.14
+  Stuffed Avocado Boats: 9.52
+  Smoky BBQ Pork Tostadas: 11.14
+  Braised Beef Barbacoa Tacos: 14.88
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Roasted Poblano Corn Chowder: 4.82
+  Black Bean Sweet Potato Burrito: 8.19
+  Spicy Pineapple Salsa Dip: 3.58
+  Mango Agua Fresca: 3.26
+  Hibiscus Agua Fresca: 2.91
+  Mexican Chocolate Flan: 3.64
+  Mango Habanero Wings: 9.31
+  Rich Chocolate Tres Leches: 6.68
+  Sunrise Breakfast Tacos: 7.92
+  Crisp Jicama Slaw: 3.21
+  Smoky Chipotle Enchiladas: 12.34
+  Chipotle Shrimp Skewers: 9.24
+  Queso Fundido with Chorizo: 7.81
+  Stuffed Avocado Boats: 7.33
+  Smoky BBQ Pork Tostadas: 8.58
+  Braised Beef Barbacoa Tacos: 11.46

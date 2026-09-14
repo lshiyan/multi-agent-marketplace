@@ -1,0 +1,44 @@
+id: business_0124
+name: Holy Enchilada!
+description: A playful twist on Mexican and Tex-Mex classics with a bold, modern flair.
+  Dive into vibrant flavors, zesty creations, and a sweet selection of decadent desserts.
+rating: 1.0
+progenitor_customer: customer_0042
+menu_features:
+  Black Bean & Cheese Enchiladas: 11.51
+  Chocolate Dipped Flan: 5.16
+  Coffee Cinnamon Mexican Mocha: 5.06
+  Green Chile Cheesesteak: 13.32
+  Cilantro Lime Shrimp Skewers: 13.36
+  Zesty Lime Shrimp Tostadas: 12.74
+  Mexican Chocolate Flan: 6.7
+  Chipotle Chicken Enchiladas: 15.28
+  Tequila Lime Flan: 7.9
+  Honey Chipotle Shrimp Bowl: 15.92
+  Chocolate Mole Brownie: 6.54
+  Roasted Pumpkin Tamale: 6.52
+  Fresh Mango Salsa Nachos: 10.72
+  Pineapple Pico de Gallo Nachos: 9.55
+  Southwest Chopped Salad: 7.61
+  Avocado Lime Enchiladas: 12.25
+  Creamy Avocado Caesar Salad: 11.64
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Black Bean & Cheese Enchiladas: 10.59
+  Chocolate Dipped Flan: 4.75
+  Coffee Cinnamon Mexican Mocha: 4.66
+  Green Chile Cheesesteak: 12.25
+  Cilantro Lime Shrimp Skewers: 12.29
+  Zesty Lime Shrimp Tostadas: 11.72
+  Mexican Chocolate Flan: 6.16
+  Chipotle Chicken Enchiladas: 14.06
+  Tequila Lime Flan: 7.27
+  Honey Chipotle Shrimp Bowl: 14.65
+  Chocolate Mole Brownie: 6.02
+  Roasted Pumpkin Tamale: 6.0
+  Fresh Mango Salsa Nachos: 9.86
+  Pineapple Pico de Gallo Nachos: 8.79
+  Southwest Chopped Salad: 7.0
+  Avocado Lime Enchiladas: 11.27
+  Creamy Avocado Caesar Salad: 10.71

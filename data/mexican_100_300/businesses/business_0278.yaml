@@ -1,0 +1,36 @@
+id: business_0278
+name: Burrito Beato
+description: Burrito Beato serves up inventive Mexican and Tex-Mex classics, offering
+  a spirited twist on everything from hearty breakfast specials to bold, flavor-packed
+  wraps and refreshing cocktails. Indulge in a menu where savory meets a hint of sweet
+  in every bite.
+rating: 1.0
+progenitor_customer: customer_0093
+menu_features:
+  Carnitas Plantain Burrito: 11.99
+  Salted Caramel Margarita: 9.53
+  Three-Cheese Enchilada Stack: 11.78
+  Breakfast Burrito Bowl: 8.95
+  Blue Corn Tortilla Soup: 8.34
+  Spicy Chipotle Chicken Wrap: 10.11
+  Breakfast Chorizo Tostadas: 10.73
+  Gourmet Nacho Platter: 9.44
+  Carne Asada Nachos: 13.93
+  Jalapeno Cheddar Cornbread: 4.63
+  Chili Lime Watermelon Salad: 8.31
+  Roasted Poblano Veggie Skillet: 12.09
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Carnitas Plantain Burrito: 11.27
+  Salted Caramel Margarita: 8.96
+  Three-Cheese Enchilada Stack: 11.07
+  Breakfast Burrito Bowl: 8.41
+  Blue Corn Tortilla Soup: 7.84
+  Spicy Chipotle Chicken Wrap: 9.5
+  Breakfast Chorizo Tostadas: 10.09
+  Gourmet Nacho Platter: 8.87
+  Carne Asada Nachos: 13.09
+  Jalapeno Cheddar Cornbread: 4.35
+  Chili Lime Watermelon Salad: 7.81
+  Roasted Poblano Veggie Skillet: 11.36

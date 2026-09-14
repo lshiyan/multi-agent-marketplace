@@ -1,0 +1,45 @@
+id: business_0179
+name: Citrus & Corn Kitchen
+description: A lively, modern eatery serving fresh, vibrant Mexican and Tex-Mex fare
+  with a focus on zesty flavors and seasonal ingredients. Enjoy creative salads, grilled
+  plates, and specialty cocktails in a warm, colorful atmosphere.
+rating: 1.0
+progenitor_customer: customer_0060
+menu_features:
+  Roasted Corn and Avocado Salad: 8.72
+  Cucumber Jalapeno Agua Fresca: 3.99
+  Fresh Limeade: 3.18
+  Blue Corn Tortilla Soup: 7.29
+  Cocoa Cinnamon Tequila: 9.15
+  Zesty Lime Grilled Chicken: 15.31
+  Black Bean & Cheese Tostadas: 11.56
+  Chocolate Cinnamon Flan: 6.38
+  "Blueberry Jalape\xF1o Margarita": 11.07
+  Chili Lime Shrimp Skewers: 10.55
+  Baja Fish Taco Plate: 18.07
+  Roasted Corn and Black Bean Salad: 8.24
+  Loaded Nacho Bowl: 9.85
+  Jicama and Citrus Salad: 8.21
+  Pineapple Jalapeno Margarita: 8.42
+  Tomatillo Salsa Verde Nachos: 10.11
+  Honey Lime Chicken Fajitas: 15.92
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Roasted Corn and Avocado Salad: 6.63
+  Cucumber Jalapeno Agua Fresca: 3.03
+  Fresh Limeade: 2.42
+  Blue Corn Tortilla Soup: 5.54
+  Cocoa Cinnamon Tequila: 6.95
+  Zesty Lime Grilled Chicken: 11.64
+  Black Bean & Cheese Tostadas: 8.79
+  Chocolate Cinnamon Flan: 4.85
+  "Blueberry Jalape\xF1o Margarita": 8.41
+  Chili Lime Shrimp Skewers: 8.02
+  Baja Fish Taco Plate: 13.73
+  Roasted Corn and Black Bean Salad: 6.26
+  Loaded Nacho Bowl: 7.49
+  Jicama and Citrus Salad: 6.24
+  Pineapple Jalapeno Margarita: 6.4
+  Tomatillo Salsa Verde Nachos: 7.68
+  Honey Lime Chicken Fajitas: 12.1

@@ -1,0 +1,8 @@
+id: customer_0043
+name: Liam Wright
+request: 'I would like to place an order for the following menu item: Blueberry Mint
+  Agua Fresca, quantity 1. Please find a business that can fulfill this order, as
+  it is very important to me. Thank you.'
+menu_features:
+  Blueberry Mint Agua Fresca: 3.99
+amenity_features: []

@@ -1,0 +1,42 @@
+id: business_0237
+name: Huevos & Harmony
+description: "Wake up your tastebuds with a playful, flavor-packed twist on classic\
+  \ Mexican and Tex-Mex fare, from loaded skillets and brunch bites to sweet, spiced\
+  \ desserts and vibrant beverages. Celebrate every meal\u2019s melody in our cozy\
+  \ cantina."
+rating: 1.0
+progenitor_customer: customer_0079
+menu_features:
+  Refreshing Agua Fresca Trio: 8.0
+  Mexican Coffee Flan: 5.48
+  Breakfast Burrito Bonanza: 10.89
+  Roasted Red Pepper Quesadilla: 9.83
+  Cocoa Cinnamon Tequila: 8.86
+  Loaded Nacho Skillet: 11.36
+  Spicy Avocado Smash Burger: 11.77
+  Mesquite Grilled Steak Fajitas: 18.03
+  Spiced Chocolate Tres Leches: 5.78
+  Tequila Lime Shrimp Skewers: 13.0
+  Spicy Black Bean Tacos: 11.11
+  Coconut Flan Delight: 7.77
+  "Blueberry Jalape\xF1o Margarita": 9.04
+  Smoky Chipotle Chicken: 17.19
+  Classic Horchata Smoothie: 5.95
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Refreshing Agua Fresca Trio: 5.52
+  Mexican Coffee Flan: 3.78
+  Breakfast Burrito Bonanza: 7.51
+  Roasted Red Pepper Quesadilla: 6.78
+  Cocoa Cinnamon Tequila: 6.11
+  Loaded Nacho Skillet: 7.84
+  Spicy Avocado Smash Burger: 8.12
+  Mesquite Grilled Steak Fajitas: 12.44
+  Spiced Chocolate Tres Leches: 3.99
+  Tequila Lime Shrimp Skewers: 8.97
+  Spicy Black Bean Tacos: 7.67
+  Coconut Flan Delight: 5.36
+  "Blueberry Jalape\xF1o Margarita": 6.24
+  Smoky Chipotle Chicken: 11.86
+  Classic Horchata Smoothie: 4.11

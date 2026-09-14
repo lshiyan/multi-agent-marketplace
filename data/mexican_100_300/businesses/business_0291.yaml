@@ -1,0 +1,45 @@
+id: business_0291
+name: Blue Cactus Kitchen
+description: Blue Cactus Kitchen brings a vibrant, modern twist to classic Mexican
+  and Tex-Mex comfort food. Enjoy fresh salads, savory mains, and sweet treats in
+  a welcoming, upbeat atmosphere.
+rating: 1.0
+progenitor_customer: customer_0097
+menu_features:
+  Tres Leches Cake: 6.64
+  Blue Corn Tostada Salad: 10.62
+  Chipotle Lime Chicken Salad: 11.26
+  Tamarind-Glazed Ribs: 17.77
+  Roasted Poblano Soup: 7.72
+  Creamy Queso Dip: 6.86
+  Hatch Chile Queso Dip: 8.13
+  Crispy Avocado Burrito: 11.47
+  Loaded Nacho Bowl: 12.74
+  Blueberry Agave Agua Fresca: 5.64
+  Honey-Lime Grilled Salmon: 16.33
+  Golden Tequila Sunrise: 10.01
+  Horchata Latte: 5.79
+  Frozen Strawberry Margarita: 8.94
+  Honey Chipotle Wings: 11.16
+  Vanilla Flan with Caramel Sauce: 6.34
+  Jalapeno Cheddar Cornbread: 6.05
+amenity_features: {}
+min_price_factor: 0.6
+minimum_menu_prices:
+  Tres Leches Cake: 3.98
+  Blue Corn Tostada Salad: 6.37
+  Chipotle Lime Chicken Salad: 6.76
+  Tamarind-Glazed Ribs: 10.66
+  Roasted Poblano Soup: 4.63
+  Creamy Queso Dip: 4.12
+  Hatch Chile Queso Dip: 4.88
+  Crispy Avocado Burrito: 6.88
+  Loaded Nacho Bowl: 7.64
+  Blueberry Agave Agua Fresca: 3.38
+  Honey-Lime Grilled Salmon: 9.8
+  Golden Tequila Sunrise: 6.01
+  Horchata Latte: 3.47
+  Frozen Strawberry Margarita: 5.36
+  Honey Chipotle Wings: 6.7
+  Vanilla Flan with Caramel Sauce: 3.8
+  Jalapeno Cheddar Cornbread: 3.63

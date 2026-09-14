@@ -1,0 +1,39 @@
+id: business_0168
+name: Nacho Nook
+description: Step into Nacho Nook for a vibrant spin on Mexican and Tex-Mex favorites,
+  from tangy grilled shrimp to decadent chocolate treats. Every dish is crafted with
+  bold flavors and a creative twist.
+rating: 1.0
+progenitor_customer: customer_0056
+menu_features:
+  Loaded Nacho Fiesta: 9.37
+  Honey Chipotle Wings: 9.11
+  Zesty Lime Grilled Shrimp: 12.49
+  Honey-Lime Grilled Shrimp: 13.86
+  Loaded Nacho Supreme: 8.86
+  Roasted Corn and Black Bean Salsa: 7.93
+  Blue Corn Tostada Salad: 10.4
+  Mexican Chocolate Brownie: 5.35
+  Spiced Churro Bites: 4.63
+  Sweet Corn Tostadas: 9.87
+  Honey Lime Grilled Chicken: 11.8
+  Avocado Lime Cheesecake: 8.26
+  Chipotle Lime Shrimp Skewers: 14.79
+  Loaded Chorizo Nachos: 8.08
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Loaded Nacho Fiesta: 7.12
+  Honey Chipotle Wings: 6.92
+  Zesty Lime Grilled Shrimp: 9.49
+  Honey-Lime Grilled Shrimp: 10.53
+  Loaded Nacho Supreme: 6.73
+  Roasted Corn and Black Bean Salsa: 6.03
+  Blue Corn Tostada Salad: 7.9
+  Mexican Chocolate Brownie: 4.07
+  Spiced Churro Bites: 3.52
+  Sweet Corn Tostadas: 7.5
+  Honey Lime Grilled Chicken: 8.97
+  Avocado Lime Cheesecake: 6.28
+  Chipotle Lime Shrimp Skewers: 11.24
+  Loaded Chorizo Nachos: 6.14

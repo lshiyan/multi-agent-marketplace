@@ -1,0 +1,43 @@
+id: business_0226
+name: Caramel & Cacao Cantina
+description: Experience a vibrant twist on Mexican and Tex-Mex cuisine, celebrating
+  bold flavors and sweet-spicy pairings in every dish. Sip creative cocktails and
+  delight in inventive desserts in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0076
+menu_features:
+  Salted Caramel Margarita: 11.44
+  Baja Fish Tacos: 14.15
+  Black Bean Avocado Tostadas: 9.79
+  Mini Street Tacos Platter: 9.0
+  Queso Fundido Supreme: 8.85
+  Grilled Pineapple Salsa: 5.94
+  Chocolate Cinnamon Flan: 7.06
+  Chili Chocolate Lava Cake: 7.81
+  Ancho Chili Braised Beef Enchiladas: 9.7
+  Blueberry Jalapeno Margarita: 13.31
+  Chocolate Dipped Flan: 6.28
+  Crispy Avocado Burrito: 12.29
+  Loaded Nacho Platter: 10.89
+  Chipotle Chicken Enchiladas: 16.29
+  Mexican Chocolate Flan: 6.74
+  Spicy Chocolate Churros: 4.79
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Salted Caramel Margarita: 10.52
+  Baja Fish Tacos: 13.02
+  Black Bean Avocado Tostadas: 9.01
+  Mini Street Tacos Platter: 8.28
+  Queso Fundido Supreme: 8.14
+  Grilled Pineapple Salsa: 5.46
+  Chocolate Cinnamon Flan: 6.5
+  Chili Chocolate Lava Cake: 7.19
+  Ancho Chili Braised Beef Enchiladas: 8.92
+  Blueberry Jalapeno Margarita: 12.25
+  Chocolate Dipped Flan: 5.78
+  Crispy Avocado Burrito: 11.31
+  Loaded Nacho Platter: 10.02
+  Chipotle Chicken Enchiladas: 14.99
+  Mexican Chocolate Flan: 6.2
+  Spicy Chocolate Churros: 4.41

@@ -1,0 +1,43 @@
+id: business_0147
+name: La Mesa de Avocado
+description: Experience a vibrant blend of modern Mexican and Tex-Mex flavors, highlighting
+  fresh avocados, zesty peppers, and bold, smoky accents. Gather around our table
+  for handcrafted dishes and creative cocktails in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0049
+menu_features:
+  Smoky Chipotle Quesadillas: 10.04
+  Crispy Avocado Tostadas: 9.12
+  Roasted Pepper Queso Dip: 6.5
+  Avocado & Tomato Breakfast Tostadas: 7.39
+  Stuffed Avocado Boats: 8.68
+  Classic Lime Margarita: 10.84
+  Blue Corn Tortilla Soup: 6.66
+  Black Bean Burgers: 12.98
+  Chili Chocolate Lava Cake: 7.54
+  Spiced Chocolate Flan: 6.8
+  Smoky Chipotle Black Bean Soup: 8.06
+  Spicy Chocolate Lava Cake: 8.34
+  Grilled Steak Quesadilla: 11.63
+  Shrimp and Avocado Ceviche: 13.25
+  Spiced Pumpkin Empanadas: 5.1
+  Black Bean and Avocado Wrap: 9.47
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Smoky Chipotle Quesadillas: 9.24
+  Crispy Avocado Tostadas: 8.39
+  Roasted Pepper Queso Dip: 5.98
+  Avocado & Tomato Breakfast Tostadas: 6.8
+  Stuffed Avocado Boats: 7.99
+  Classic Lime Margarita: 9.97
+  Blue Corn Tortilla Soup: 6.13
+  Black Bean Burgers: 11.94
+  Chili Chocolate Lava Cake: 6.94
+  Spiced Chocolate Flan: 6.26
+  Smoky Chipotle Black Bean Soup: 7.42
+  Spicy Chocolate Lava Cake: 7.67
+  Grilled Steak Quesadilla: 10.7
+  Shrimp and Avocado Ceviche: 12.19
+  Spiced Pumpkin Empanadas: 4.69
+  Black Bean and Avocado Wrap: 8.71

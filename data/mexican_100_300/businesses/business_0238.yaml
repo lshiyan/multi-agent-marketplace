@@ -1,0 +1,37 @@
+id: business_0238
+name: "Flan-tom of the Op\xE9ra"
+description: An imaginative spot for Mexican and Tex-Mex cuisine, where sweet meets
+  savory with unexpected flair. Enjoy a symphony of fresh flavors, creative sips,
+  and crowd-pleasing classics in every bite.
+rating: 1.0
+progenitor_customer: customer_0080
+menu_features:
+  Sizzling Steak Fajitas: 18.49
+  Horchata Latte: 4.48
+  Pineapple Salsa Pork Tacos: 14.19
+  Spiced Chocolate Flan: 7.33
+  Caramelized Onion and Chorizo Quesadilla: 10.2
+  Roasted Poblano Rellenos: 14.25
+  Black Bean Breakfast Burrito: 7.78
+  Pineapple Habanero Margarita: 11.66
+  Avocado Lime Salsa: 4.33
+  Fresh Mint Mojito: 9.32
+  Classic Horchata Delight: 3.81
+  Black Bean Sweet Potato Burrito: 10.43
+  Refreshing Agua Fresca Trio: 9.34
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Sizzling Steak Fajitas: 13.5
+  Horchata Latte: 3.27
+  Pineapple Salsa Pork Tacos: 10.36
+  Spiced Chocolate Flan: 5.35
+  Caramelized Onion and Chorizo Quesadilla: 7.45
+  Roasted Poblano Rellenos: 10.4
+  Black Bean Breakfast Burrito: 5.68
+  Pineapple Habanero Margarita: 8.51
+  Avocado Lime Salsa: 3.16
+  Fresh Mint Mojito: 6.8
+  Classic Horchata Delight: 2.78
+  Black Bean Sweet Potato Burrito: 7.61
+  Refreshing Agua Fresca Trio: 6.82

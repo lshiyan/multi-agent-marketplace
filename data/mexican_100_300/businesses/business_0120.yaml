@@ -1,0 +1,43 @@
+id: business_0120
+name: Queso to Show
+description: Step into a fiesta of flavors where sizzling meats, zesty salsas, and
+  sweet-spicy indulgences come together. Queso to Show serves up craveworthy Mexican
+  and Tex-Mex classics with creative twists in a fun, vibrant atmosphere.
+rating: 1.0
+progenitor_customer: customer_0040
+menu_features:
+  Carne Asada Nachos: 12.42
+  Ancho Chili Chocolate Cake: 7.3
+  Sea Breeze Ceviche: 14.34
+  Grilled Steak Quesadilla: 11.1
+  Crispy Tinga Chicken Tacos: 9.4
+  Twisted Tequila Sunrise: 6.73
+  Zesty Lime Chicken Fajitas: 13.37
+  Tamarind-Glazed Ribs: 18.78
+  Spicy Cucumber Margarita: 7.86
+  Pineapple Chipotle Pork: 14.1
+  Spicy Black Bean Tacos: 12.5
+  Avocado Street Tacos: 10.73
+  Classic Lime Margarita: 8.53
+  Classic Horchata Smoothie: 6.19
+  Beef Barbacoa Burrito Bowl: 9.83
+  Mexican Chocolate Lava Cake: 9.61
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Carne Asada Nachos: 11.3
+  Ancho Chili Chocolate Cake: 6.64
+  Sea Breeze Ceviche: 13.05
+  Grilled Steak Quesadilla: 10.1
+  Crispy Tinga Chicken Tacos: 8.55
+  Twisted Tequila Sunrise: 6.12
+  Zesty Lime Chicken Fajitas: 12.17
+  Tamarind-Glazed Ribs: 17.09
+  Spicy Cucumber Margarita: 7.15
+  Pineapple Chipotle Pork: 12.83
+  Spicy Black Bean Tacos: 11.38
+  Avocado Street Tacos: 9.76
+  Classic Lime Margarita: 7.76
+  Classic Horchata Smoothie: 5.63
+  Beef Barbacoa Burrito Bowl: 8.95
+  Mexican Chocolate Lava Cake: 8.75

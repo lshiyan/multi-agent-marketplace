@@ -1,0 +1,41 @@
+id: business_0218
+name: Sabores del Encanto
+description: Discover a vibrant blend of Mexican and Tex-Mex classics in a warm, inviting
+  setting. Enjoy creative plates, fresh salads, bold flavors, and unique house-made
+  drinks and sweets.
+rating: 1.0
+progenitor_customer: customer_0073
+menu_features:
+  Loaded Nacho Platter: 10.53
+  Crispy Chicken Tostada Bowls: 13.43
+  Breakfast Burrito Supreme: 9.53
+  Roasted Corn and Avocado Salad: 8.54
+  Blueberry Jalapeno Lemonade: 4.0
+  Tamale Pie Casserole: 13.7
+  Black Bean Crunch Wrap: 10.76
+  Black Bean & Corn Enchiladas: 8.87
+  Creamy Queso Dip: 6.87
+  Zesty Shrimp Ceviche: 13.72
+  Avocado Lime Salad: 9.22
+  Coconut Lime Paleta: 3.54
+  Margarita Lime Cheesecake: 8.66
+  Grilled Shrimp Skewers: 12.66
+  Classic Horchata Smoothie: 4.7
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Loaded Nacho Platter: 7.69
+  Crispy Chicken Tostada Bowls: 9.8
+  Breakfast Burrito Supreme: 6.96
+  Roasted Corn and Avocado Salad: 6.23
+  Blueberry Jalapeno Lemonade: 2.92
+  Tamale Pie Casserole: 10.0
+  Black Bean Crunch Wrap: 7.85
+  Black Bean & Corn Enchiladas: 6.48
+  Creamy Queso Dip: 5.02
+  Zesty Shrimp Ceviche: 10.02
+  Avocado Lime Salad: 6.73
+  Coconut Lime Paleta: 2.58
+  Margarita Lime Cheesecake: 6.32
+  Grilled Shrimp Skewers: 9.24
+  Classic Horchata Smoothie: 3.43

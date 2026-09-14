@@ -1,0 +1,39 @@
+id: business_0252
+name: Quinoa & Queso
+description: "Quinoa & Queso serves up a vibrant mix of Southwestern and Mexican-inspired\
+  \ flavors in a warm, inviting atmosphere. Enjoy fresh salads, sizzling entr\xE9\
+  es, and refreshing drinks crafted from bold, zesty ingredients."
+rating: 1.0
+progenitor_customer: customer_0084
+menu_features:
+  Smoky Chipotle BBQ Ribs: 13.31
+  Pico de Gallo Chicken Salad: 11.32
+  Tamarind Spiced Agua Fresca: 4.17
+  Southwestern Quinoa Salad: 8.43
+  Honey Chipotle Wings: 7.95
+  Classic Beef Enchiladas: 10.71
+  Creamy Avocado Soup: 8.32
+  Coconut Lime Margarita: 9.56
+  Spicy Chorizo Enchiladas: 15.01
+  Tangy Tomato Salsa Soup: 9.15
+  Stuffed Avocado Boats: 7.85
+  Blue Corn Tostada Salad: 10.46
+  Smoky Lime Quinoa Salad: 11.0
+  Hatch Green Chile Rice: 5.76
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Smoky Chipotle BBQ Ribs: 10.78
+  Pico de Gallo Chicken Salad: 9.17
+  Tamarind Spiced Agua Fresca: 3.38
+  Southwestern Quinoa Salad: 6.83
+  Honey Chipotle Wings: 6.44
+  Classic Beef Enchiladas: 8.68
+  Creamy Avocado Soup: 6.74
+  Coconut Lime Margarita: 7.74
+  Spicy Chorizo Enchiladas: 12.16
+  Tangy Tomato Salsa Soup: 7.41
+  Stuffed Avocado Boats: 6.36
+  Blue Corn Tostada Salad: 8.47
+  Smoky Lime Quinoa Salad: 8.91
+  Hatch Green Chile Rice: 4.67

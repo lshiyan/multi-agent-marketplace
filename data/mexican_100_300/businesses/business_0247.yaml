@@ -1,0 +1,38 @@
+id: business_0247
+name: Flan Stand & Deliver
+description: Bringing you a bold blend of Mexican and Tex-Mex favorites, Flan Stand
+  & Deliver serves up vibrant sips, crispy bites, and sweet treats in a festive, welcoming
+  setting. Experience housemade drinks and inspired dishes that will have you coming
+  back for more.
+rating: 1.0
+progenitor_customer: customer_0083
+menu_features:
+  Housemade Horchata: 3.99
+  Sweet Plantain Empanadas: 8.6
+  Pork Carnitas Platter: 16.53
+  Chocolate Tamale Cake: 8.12
+  Roasted Tomato Salsa Dip: 3.92
+  Passionfruit Agua Fresca: 3.91
+  Choco Flan Combo: 8.31
+  Crisp Jicama Slaw: 5.59
+  Mexican Chocolate Lava Cake: 7.76
+  Breakfast Burrito Bowl: 8.32
+  Horchata Iced Latte: 4.5
+  Grilled Shrimp Skewers: 14.11
+  Pineapple Agua Fresca: 4.26
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Housemade Horchata: 2.75
+  Sweet Plantain Empanadas: 5.93
+  Pork Carnitas Platter: 11.41
+  Chocolate Tamale Cake: 5.6
+  Roasted Tomato Salsa Dip: 2.7
+  Passionfruit Agua Fresca: 2.7
+  Choco Flan Combo: 5.73
+  Crisp Jicama Slaw: 3.86
+  Mexican Chocolate Lava Cake: 5.35
+  Breakfast Burrito Bowl: 5.74
+  Horchata Iced Latte: 3.1
+  Grilled Shrimp Skewers: 9.74
+  Pineapple Agua Fresca: 2.94

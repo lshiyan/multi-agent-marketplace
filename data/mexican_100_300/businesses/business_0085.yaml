@@ -1,0 +1,45 @@
+id: business_0085
+name: Mucho Queso About Nothing
+description: A lively spot where classic and modern Mexican flavors unite, serving
+  up sizzling dishes, crave-worthy salsas, and clever cocktails with a playful twist.
+  Come for the vibrant tastes, stay for the fiesta atmosphere.
+rating: 1.0
+progenitor_customer: customer_0029
+menu_features:
+  Street Style Quesadillas: 10.2
+  Gourmet Nacho Platter: 11.64
+  Spicy Cucumber Margarita: 11.62
+  Spicy Beef Empanadas: 9.03
+  Tequila Lime Shrimp Skewers: 12.73
+  Tropical Pineapple Salsa: 3.32
+  Spiced Chocolate Tres Leches: 6.85
+  Spicy Beef Enchilada Bake: 9.58
+  Grilled Pineapple & Shrimp Quesadillas: 12.07
+  Tomatillo Salsa Verde Nachos: 8.42
+  Fire Roasted Salsa Sampler: 4.21
+  Sizzling Fajita Skillet: 13.26
+  Chocolate Mole Brownie: 7.22
+  Tamarind Ginger Cooler: 4.07
+  Ancho Chili Spiced Ribs: 14.81
+  Queso Fundido Supreme: 8.78
+  Blueberry Agave Margarita: 10.95
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Street Style Quesadillas: 6.83
+  Gourmet Nacho Platter: 7.8
+  Spicy Cucumber Margarita: 7.79
+  Spicy Beef Empanadas: 6.05
+  Tequila Lime Shrimp Skewers: 8.53
+  Tropical Pineapple Salsa: 2.22
+  Spiced Chocolate Tres Leches: 4.59
+  Spicy Beef Enchilada Bake: 6.42
+  Grilled Pineapple & Shrimp Quesadillas: 8.09
+  Tomatillo Salsa Verde Nachos: 5.64
+  Fire Roasted Salsa Sampler: 2.82
+  Sizzling Fajita Skillet: 8.88
+  Chocolate Mole Brownie: 4.84
+  Tamarind Ginger Cooler: 2.73
+  Ancho Chili Spiced Ribs: 9.92
+  Queso Fundido Supreme: 5.88
+  Blueberry Agave Margarita: 7.34

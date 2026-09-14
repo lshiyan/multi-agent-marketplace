@@ -1,0 +1,37 @@
+id: business_0162
+name: Guac My World
+description: Dive into vibrant Tex-Mex flavors, where creamy avocados, fiery salsas,
+  and sweet surprises take center stage. Experience bold classics and inventive delights
+  in a lively atmosphere.
+rating: 1.0
+progenitor_customer: customer_0054
+menu_features:
+  Chocolate Molten Tamale: 5.44
+  Creamy Avocado Smoothie: 4.91
+  Pineapple Habanero Margarita: 8.97
+  Zesty Shrimp Quesadillas: 13.19
+  Stuffed Avocado Boats: 7.29
+  Beef Barbacoa Burrito Bowl: 12.73
+  Breakfast Chilaquiles Verde: 9.89
+  Grilled Pineapple and Pork Tacos: 10.24
+  Caramel Corn Flan: 7.28
+  Cilantro Lime Chicken Tacos: 9.79
+  Blue Agave Tequila Sunrise: 7.59
+  Rich Chocolate Tamales: 6.08
+  Spicy Mango Margarita: 8.5
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Chocolate Molten Tamale: 3.54
+  Creamy Avocado Smoothie: 3.19
+  Pineapple Habanero Margarita: 5.83
+  Zesty Shrimp Quesadillas: 8.57
+  Stuffed Avocado Boats: 4.74
+  Beef Barbacoa Burrito Bowl: 8.27
+  Breakfast Chilaquiles Verde: 6.43
+  Grilled Pineapple and Pork Tacos: 6.66
+  Caramel Corn Flan: 4.73
+  Cilantro Lime Chicken Tacos: 6.36
+  Blue Agave Tequila Sunrise: 4.93
+  Rich Chocolate Tamales: 3.95
+  Spicy Mango Margarita: 5.53

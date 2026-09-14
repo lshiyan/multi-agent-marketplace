@@ -1,0 +1,39 @@
+id: business_0090
+name: Sabor del Mar y Tierra
+description: Experience the vibrant flavors of Mexico and the Southwest with a menu
+  that celebrates fresh seafood, bold spices, and classic comfort. Gather with friends
+  and family for a taste of tradition with a modern twist in a warm, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0030
+menu_features:
+  Loaded Sweet Potato Fries: 7.41
+  Sweet Corn Tostadas: 10.37
+  Chipotle Bean Burrito: 9.89
+  Chipotle Lime Shrimp Skewers: 10.39
+  Molten Queso Fundido: 6.85
+  Avocado Lime Cheesecake: 7.63
+  Creamy Jalapeno Corn Fritters: 7.58
+  Crispy Fish Street Tacos: 12.87
+  Classic Beef Enchiladas: 12.58
+  Al Pastor Quesadilla: 10.18
+  Zesty Lime Chicken Enchiladas: 15.71
+  Baja Fish Tacos: 12.65
+  Creamy Queso Dip: 8.49
+  Honey-Lime Grilled Salmon: 16.49
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Loaded Sweet Potato Fries: 6.74
+  Sweet Corn Tostadas: 9.44
+  Chipotle Bean Burrito: 9.0
+  Chipotle Lime Shrimp Skewers: 9.45
+  Molten Queso Fundido: 6.23
+  Avocado Lime Cheesecake: 6.94
+  Creamy Jalapeno Corn Fritters: 6.9
+  Crispy Fish Street Tacos: 11.71
+  Classic Beef Enchiladas: 11.45
+  Al Pastor Quesadilla: 9.26
+  Zesty Lime Chicken Enchiladas: 14.3
+  Baja Fish Tacos: 11.51
+  Creamy Queso Dip: 7.73
+  Honey-Lime Grilled Salmon: 15.01

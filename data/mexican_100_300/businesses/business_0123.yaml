@@ -1,0 +1,43 @@
+id: business_0123
+name: Vibrant Cactus Kitchen
+description: A lively destination for creative Mexican and Tex-Mex cuisine, blending
+  bold flavors and fresh ingredients. Enjoy a colorful mix of classic favorites and
+  inventive bites in a modern, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0041
+menu_features:
+  Horchata Iced Coffee: 3.9
+  Three-Cheese Enchilada Stack: 14.5
+  Tomatillo Ranch Enchiladas: 16.12
+  Molten Queso Fundido: 7.58
+  Roasted Pecan Flan: 6.65
+  Sea Breeze Ceviche: 10.98
+  Three-Cheese Chile Rellenos: 12.39
+  Caramelized Plantain Empanadas: 6.07
+  Zesty Lime Shrimp Salad: 12.75
+  Ancho Chili Spiced Ribs: 18.94
+  Crispy Tinga Chicken Tacos: 8.59
+  Coconut Lime Paleta: 3.72
+  Chipotle Bean Burrito: 9.42
+  Spicy Mango Margarita: 8.42
+  Loaded Nacho Fries: 7.62
+  Spiced Agave Margarita: 8.7
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Horchata Iced Coffee: 2.92
+  Three-Cheese Enchilada Stack: 10.88
+  Tomatillo Ranch Enchiladas: 12.09
+  Molten Queso Fundido: 5.69
+  Roasted Pecan Flan: 4.99
+  Sea Breeze Ceviche: 8.23
+  Three-Cheese Chile Rellenos: 9.29
+  Caramelized Plantain Empanadas: 4.55
+  Zesty Lime Shrimp Salad: 9.56
+  Ancho Chili Spiced Ribs: 14.21
+  Crispy Tinga Chicken Tacos: 6.44
+  Coconut Lime Paleta: 2.79
+  Chipotle Bean Burrito: 7.06
+  Spicy Mango Margarita: 6.31
+  Loaded Nacho Fries: 5.71
+  Spiced Agave Margarita: 6.52

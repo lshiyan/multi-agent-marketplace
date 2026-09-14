@@ -1,0 +1,41 @@
+id: business_0250
+name: Cantina del Sol y Sabor
+description: Experience vibrant flavors and fresh ingredients in a warm, welcoming
+  setting that celebrates the spirit of Mexican and Tex-Mex cuisine. Enjoy a variety
+  of creative dishes and signature sips perfect for every occasion.
+rating: 1.0
+progenitor_customer: customer_0084
+menu_features:
+  Pineapple Habanero Margarita: 9.2
+  Three-Cheese Chile Rellenos: 11.78
+  Roasted Corn and Avocado Salad: 6.95
+  Smoky Lime Quinoa Salad: 10.49
+  Hatch Green Chile Rice: 5.09
+  Roasted Poblano Veggie Skillet: 9.73
+  Roasted Red Pepper Quesadilla: 8.45
+  Grilled Avocado and Quinoa Bowl: 11.45
+  Creamy Avocado Soup: 7.3
+  Avocado & Tomato Breakfast Tostadas: 7.71
+  Sizzling Fajita Plate: 18.49
+  Chili-Lime Cauliflower Bites: 9.26
+  Crispy Avocado Burrito: 10.69
+  Hatch Green Chile Burger: 13.48
+  Fresh Mango Salsa Nachos: 8.26
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Pineapple Habanero Margarita: 7.08
+  Three-Cheese Chile Rellenos: 9.07
+  Roasted Corn and Avocado Salad: 5.35
+  Smoky Lime Quinoa Salad: 8.08
+  Hatch Green Chile Rice: 3.92
+  Roasted Poblano Veggie Skillet: 7.49
+  Roasted Red Pepper Quesadilla: 6.51
+  Grilled Avocado and Quinoa Bowl: 8.82
+  Creamy Avocado Soup: 5.62
+  Avocado & Tomato Breakfast Tostadas: 5.94
+  Sizzling Fajita Plate: 14.24
+  Chili-Lime Cauliflower Bites: 7.13
+  Crispy Avocado Burrito: 8.23
+  Hatch Green Chile Burger: 10.38
+  Fresh Mango Salsa Nachos: 6.36

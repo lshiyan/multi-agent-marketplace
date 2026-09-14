@@ -1,0 +1,40 @@
+id: business_0057
+name: La Mesa Escondida
+description: Discover vibrant Mexican and Tex-Mex flavors at this inviting cantina,
+  where fresh, bold ingredients and creative cocktails await. Satisfy your cravings
+  with a blend of classic dishes and unique contemporary twists in a warm, colorful
+  setting.
+rating: 1.0
+progenitor_customer: customer_0019
+menu_features:
+  Southwestern Quinoa Salad: 8.05
+  Frozen Mango Margarita: 10.26
+  Vanilla Flan Delight: 6.61
+  Peach Berry Sangria: 9.87
+  Three-Cheese Chile Rellenos: 10.69
+  Pineapple Habanero Sake: 9.01
+  Lime-Garlic Grilled Chicken: 13.96
+  Loaded Nachos Grande: 10.88
+  Street Corn Fritters: 8.05
+  Garlic Lime Shrimp Salad: 12.22
+  Spiced Agave Margarita: 8.12
+  Mango Habanero Wings: 10.95
+  Avocado Lime Quinoa Bowl: 10.45
+  Choco-Chili Volcano Cake: 9.36
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Southwestern Quinoa Salad: 6.36
+  Frozen Mango Margarita: 8.11
+  Vanilla Flan Delight: 5.22
+  Peach Berry Sangria: 7.8
+  Three-Cheese Chile Rellenos: 8.45
+  Pineapple Habanero Sake: 7.12
+  Lime-Garlic Grilled Chicken: 11.03
+  Loaded Nachos Grande: 8.6
+  Street Corn Fritters: 6.36
+  Garlic Lime Shrimp Salad: 9.65
+  Spiced Agave Margarita: 6.41
+  Mango Habanero Wings: 8.65
+  Avocado Lime Quinoa Bowl: 8.26
+  Choco-Chili Volcano Cake: 7.39

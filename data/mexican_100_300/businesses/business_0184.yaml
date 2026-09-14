@@ -1,0 +1,43 @@
+id: business_0184
+name: Sip & Savor Cantina
+description: Experience the vibrant flavors of modern Mexican and Tex-Mex fare at
+  Sip & Savor Cantina. Enjoy a fresh take on classic dishes, creative cocktails, and
+  bold salsas in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0062
+menu_features:
+  Street Corn Elote: 5.53
+  Black Bean Taco Bowl: 10.19
+  Breakfast Burrito Supreme: 9.59
+  Coconut Lime Shrimp Skewers: 14.93
+  Loaded Nacho Platter: 9.62
+  Pineapple Habanero Salsa: 4.22
+  Smoky Mezcal Mule: 9.91
+  Cinnamon Sugar Sopapillas: 4.69
+  "Blueberry Jalape\xF1o Margarita": 10.87
+  Cinnamon Sugar Churros: 6.27
+  Jalapeno Mango Margarita: 7.79
+  Cactus Jack Quesadilla: 9.8
+  Cocoa Cinnamon Tequila: 9.69
+  Hibiscus Agua Fresca: 3.21
+  Fresh Limeade: 4.23
+  Pineapple Pico de Gallo Nachos: 7.63
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Street Corn Elote: 3.59
+  Black Bean Taco Bowl: 6.62
+  Breakfast Burrito Supreme: 6.23
+  Coconut Lime Shrimp Skewers: 9.7
+  Loaded Nacho Platter: 6.25
+  Pineapple Habanero Salsa: 2.74
+  Smoky Mezcal Mule: 6.44
+  Cinnamon Sugar Sopapillas: 3.05
+  "Blueberry Jalape\xF1o Margarita": 7.07
+  Cinnamon Sugar Churros: 4.08
+  Jalapeno Mango Margarita: 5.06
+  Cactus Jack Quesadilla: 6.37
+  Cocoa Cinnamon Tequila: 6.3
+  Hibiscus Agua Fresca: 2.09
+  Fresh Limeade: 2.75
+  Pineapple Pico de Gallo Nachos: 4.96

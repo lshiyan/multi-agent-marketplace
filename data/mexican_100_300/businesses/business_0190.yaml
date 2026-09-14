@@ -1,0 +1,45 @@
+id: business_0190
+name: Azul Cactus Cocina
+description: "Experience vibrant, contemporary Mexican and Tex-Mex cuisine in a lively\
+  \ setting, where fresh ingredients and bold flavors come together. Enjoy creative\
+  \ entr\xE9es and house-crafted drinks inspired by the spirited heart of Mexico."
+rating: 1.0
+progenitor_customer: customer_0064
+menu_features:
+  Vegetarian Tamale Platter: 10.39
+  Pineapple Jalapeno Salsa: 4.36
+  Mexican Coffee Flan: 7.52
+  Chocolate Mole Brownie: 6.48
+  Tomatillo Ranch Enchiladas: 10.42
+  Lime-Garlic Grilled Chicken: 13.63
+  Tequila Lime Grilled Shrimp: 14.05
+  Vanilla Flan with Caramel Sauce: 8.02
+  Cactus Cooler Margarita: 7.98
+  Stuffed Avocado Boats: 9.05
+  Black Bean Stuffed Bell Peppers: 9.55
+  Classic Horchata Smoothie: 6.09
+  Blueberry Tequila Sunrise: 11.11
+  Baja Fish Taco Bowl: 10.64
+  Blueberry Hibiscus Margarita: 10.51
+  Pineapple Habanero Sake: 6.2
+  Chipotle Shrimp Skewers: 13.17
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Vegetarian Tamale Platter: 9.25
+  Pineapple Jalapeno Salsa: 3.88
+  Mexican Coffee Flan: 6.69
+  Chocolate Mole Brownie: 5.77
+  Tomatillo Ranch Enchiladas: 9.27
+  Lime-Garlic Grilled Chicken: 12.13
+  Tequila Lime Grilled Shrimp: 12.5
+  Vanilla Flan with Caramel Sauce: 7.14
+  Cactus Cooler Margarita: 7.1
+  Stuffed Avocado Boats: 8.05
+  Black Bean Stuffed Bell Peppers: 8.5
+  Classic Horchata Smoothie: 5.42
+  Blueberry Tequila Sunrise: 9.89
+  Baja Fish Taco Bowl: 9.47
+  Blueberry Hibiscus Margarita: 9.35
+  Pineapple Habanero Sake: 5.52
+  Chipotle Shrimp Skewers: 11.72

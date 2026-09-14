@@ -1,0 +1,42 @@
+id: business_0200
+name: "Coraz\xF3n de Ma\xEDz Cantina"
+description: A warm and vibrant Mexican eatery celebrating tradition and creativity,
+  where bold flavors meet fresh ingredients in every dish and drink. Enjoy a festive
+  atmosphere perfect for gathering with friends over colorful cocktails and classic
+  comfort food.
+rating: 1.0
+progenitor_customer: customer_0067
+menu_features:
+  Raspberry Jalapeno Mojito: 7.53
+  Blue Corn Tortilla Chips: 4.64
+  Classic Lime Margarita: 8.59
+  Jicama and Citrus Salad: 7.87
+  Three Cheese Sope: 9.07
+  Black Bean Chili Bowl: 10.43
+  Pineapple Salsa Nachos: 9.95
+  Tequila Lime Grilled Chicken: 12.43
+  Chocolate Molten Tamale: 7.58
+  Margarita Lime Pie: 4.98
+  Pineapple Salsa Pork Tacos: 12.57
+  Avocado Lime Enchiladas: 12.46
+  Breakfast Tostada Stack: 10.15
+  Three-Cheese Chile Rellenos: 12.13
+  Chipotle Chicken Enchiladas: 17.85
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Raspberry Jalapeno Mojito: 5.35
+  Blue Corn Tortilla Chips: 3.29
+  Classic Lime Margarita: 6.1
+  Jicama and Citrus Salad: 5.59
+  Three Cheese Sope: 6.44
+  Black Bean Chili Bowl: 7.41
+  Pineapple Salsa Nachos: 7.06
+  Tequila Lime Grilled Chicken: 8.83
+  Chocolate Molten Tamale: 5.38
+  Margarita Lime Pie: 3.54
+  Pineapple Salsa Pork Tacos: 8.92
+  Avocado Lime Enchiladas: 8.85
+  Breakfast Tostada Stack: 7.21
+  Three-Cheese Chile Rellenos: 8.61
+  Chipotle Chicken Enchiladas: 12.67

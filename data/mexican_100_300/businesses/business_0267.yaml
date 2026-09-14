@@ -1,0 +1,45 @@
+id: business_0267
+name: Citrus & Cilantro Cantina
+description: Fresh flavors meet bold spices at Citrus & Cilantro Cantina, where every
+  dish is crafted with vibrant ingredients and a zest for tradition. Experience Tex-Mex
+  favorites and refreshing drinks in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0089
+menu_features:
+  Pico de Gallo Chicken Salad: 11.84
+  Tequila Sunrise Smoothie: 8.99
+  Smoky Chipotle BBQ Wings: 10.24
+  Three-Cheese Chile Rellenos: 12.28
+  Coconut Lime Margarita: 10.28
+  Honey Lime Chicken Skewers: 12.24
+  Poblano Pepper Relleno Plate: 14.26
+  Spice-Rubbed Grilled Fajitas: 12.01
+  Avocado Lime Salsa: 5.06
+  Zesty Lime Grilled Chicken: 12.02
+  Breakfast Burrito Supreme: 10.37
+  Classic Beef Tacos with Zesty Slaw: 12.87
+  Warm Cinnamon Churros: 4.82
+  Creamy Chipotle Pasta: 11.5
+  Crispy Avocado Fritters: 8.69
+  Blue Agave Tequila Sunrise: 9.2
+  Roasted Tomato Salsa Dip: 2.93
+amenity_features: {}
+min_price_factor: 0.6
+minimum_menu_prices:
+  Pico de Gallo Chicken Salad: 7.1
+  Tequila Sunrise Smoothie: 5.39
+  Smoky Chipotle BBQ Wings: 6.14
+  Three-Cheese Chile Rellenos: 7.37
+  Coconut Lime Margarita: 6.17
+  Honey Lime Chicken Skewers: 7.34
+  Poblano Pepper Relleno Plate: 8.56
+  Spice-Rubbed Grilled Fajitas: 7.21
+  Avocado Lime Salsa: 3.04
+  Zesty Lime Grilled Chicken: 7.21
+  Breakfast Burrito Supreme: 6.22
+  Classic Beef Tacos with Zesty Slaw: 7.72
+  Warm Cinnamon Churros: 2.89
+  Creamy Chipotle Pasta: 6.9
+  Crispy Avocado Fritters: 5.21
+  Blue Agave Tequila Sunrise: 5.52
+  Roasted Tomato Salsa Dip: 1.76

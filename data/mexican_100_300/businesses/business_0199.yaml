@@ -1,0 +1,36 @@
+id: business_0199
+name: Quesa-dreams & Churro Scenes
+description: A whimsical Tex-Mex kitchen where cheesy bites and sweet treats shine.
+  Dive into bold flavors and unexpected twists that turn every meal into a fiesta.
+rating: 1.0
+progenitor_customer: customer_0067
+menu_features:
+  Roasted Red Pepper Quesadilla: 9.62
+  Vanilla Flan with Caramel Sauce: 6.67
+  Spicy Shrimp Nacho Platter: 10.56
+  "Cheesy Jalape\xF1o Quesadillas": 10.75
+  Chipotle Lime Chicken Skewers: 13.05
+  Cocoa Cinnamon Tequila: 9.35
+  Spicy Beef Enchilada Bake: 10.92
+  Cinnamon Sugar Churros: 6.36
+  Tamarind-Glazed Ribs: 18.66
+  Blue Corn Tortilla Chips: 5.7
+  Chipotle Lime Shrimp Tacos: 15.04
+  Loaded Street Corn: 7.93
+  Margarita Lime Pie: 4.68
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Roasted Red Pepper Quesadilla: 8.27
+  Vanilla Flan with Caramel Sauce: 5.74
+  Spicy Shrimp Nacho Platter: 9.08
+  "Cheesy Jalape\xF1o Quesadillas": 9.24
+  Chipotle Lime Chicken Skewers: 11.22
+  Cocoa Cinnamon Tequila: 8.04
+  Spicy Beef Enchilada Bake: 9.39
+  Cinnamon Sugar Churros: 5.47
+  Tamarind-Glazed Ribs: 16.05
+  Blue Corn Tortilla Chips: 4.9
+  Chipotle Lime Shrimp Tacos: 12.93
+  Loaded Street Corn: 6.82
+  Margarita Lime Pie: 4.02

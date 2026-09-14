@@ -1,0 +1,11 @@
+id: customer_0072
+name: James Carter
+request: 'I am looking for a business that can provide the following menu items: 1
+  Caramel Corn Flan, 1 Bacon and Egg Tostada, and 1 Zesty Shrimp Quesadillas. It is
+  essential that all three items are available. Once you find such a business, I would
+  like to place an order with them. Thank you for your assistance.'
+menu_features:
+  Caramel Corn Flan: 6.99
+  Bacon and Egg Tostada: 8.99
+  Zesty Shrimp Quesadillas: 13.49
+amenity_features: []

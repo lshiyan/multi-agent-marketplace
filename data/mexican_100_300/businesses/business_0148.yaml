@@ -1,0 +1,46 @@
+id: business_0148
+name: Fiesta Fresca
+description: Experience a vibrant celebration of bold Mexican and Tex-Mex flavors,
+  featuring fresh salsas, grilled specialties, and inventive desserts. Every dish
+  at Fiesta Fresca bursts with zest and south-of-the-border flair in a lively, welcoming
+  setting.
+rating: 1.0
+progenitor_customer: customer_0050
+menu_features:
+  Passionfruit Agua Fresca: 3.81
+  Hatch Green Chile Stew: 14.47
+  Mexican Chocolate Flan: 6.28
+  Breakfast Burrito Bonanza: 6.96
+  Loaded Nacho Fries: 9.17
+  Spice-Rubbed Grilled Fajitas: 13.37
+  Mexican Spiced Chocolate Cake: 7.33
+  Braised Beef Barbacoa Tacos: 12.46
+  Chili Lime Street Corn: 5.47
+  Cactus Cooler Margarita: 8.83
+  Baja Fish Tacos: 14.02
+  Blue Corn Tortilla Soup: 7.11
+  Carne Asada Nachos: 11.62
+  Mango Habanero Wings: 11.62
+  Sizzling Carne Asada: 17.53
+  Hatch Green Chile Burger: 11.81
+  Crispy Tinga Chicken Tacos: 10.56
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Passionfruit Agua Fresca: 2.63
+  Hatch Green Chile Stew: 9.98
+  Mexican Chocolate Flan: 4.33
+  Breakfast Burrito Bonanza: 4.8
+  Loaded Nacho Fries: 6.33
+  Spice-Rubbed Grilled Fajitas: 9.23
+  Mexican Spiced Chocolate Cake: 5.06
+  Braised Beef Barbacoa Tacos: 8.6
+  Chili Lime Street Corn: 3.77
+  Cactus Cooler Margarita: 6.09
+  Baja Fish Tacos: 9.67
+  Blue Corn Tortilla Soup: 4.91
+  Carne Asada Nachos: 8.02
+  Mango Habanero Wings: 8.02
+  Sizzling Carne Asada: 12.1
+  Hatch Green Chile Burger: 8.15
+  Crispy Tinga Chicken Tacos: 7.29

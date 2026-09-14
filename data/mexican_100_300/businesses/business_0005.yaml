@@ -1,0 +1,41 @@
+id: business_0005
+name: Guac and Awe
+description: Experience bold Mexican and Tex-Mex flavors with a modern twist, from
+  zesty appetizers to decadent desserts. Every dish is crafted to surprise your senses
+  and leave you craving more.
+rating: 1.0
+progenitor_customer: customer_0002
+menu_features:
+  Spicy Zucchini Tostadas: 9.6
+  Tequila Lime Shrimp Skewers: 12.25
+  Baja Fish Tacos: 13.35
+  Crispy Avocado Wedges: 6.29
+  Mushroom & Cheese Tamales: 6.84
+  Mango Jalapeno Salsa and Chips: 4.39
+  Roasted Corn Enchiladas: 12.74
+  Mexican Chocolate Lava Cake: 5.52
+  Loaded Nacho Bowl: 12.08
+  Chipotle Shrimp Skewers: 13.62
+  Coconut Lime Flan: 8.22
+  Rich Chocolate Tres Leches: 7.93
+  Raspberry Jalapeno Mojito: 8.36
+  Flamin' Skillet Fajitas: 17.17
+  Honey Lime Chicken Fajitas: 16.56
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Spicy Zucchini Tostadas: 8.74
+  Tequila Lime Shrimp Skewers: 11.15
+  Baja Fish Tacos: 12.15
+  Crispy Avocado Wedges: 5.72
+  Mushroom & Cheese Tamales: 6.22
+  Mango Jalapeno Salsa and Chips: 3.99
+  Roasted Corn Enchiladas: 11.59
+  Mexican Chocolate Lava Cake: 5.02
+  Loaded Nacho Bowl: 10.99
+  Chipotle Shrimp Skewers: 12.39
+  Coconut Lime Flan: 7.48
+  Rich Chocolate Tres Leches: 7.22
+  Raspberry Jalapeno Mojito: 7.61
+  Flamin' Skillet Fajitas: 15.62
+  Honey Lime Chicken Fajitas: 15.07

@@ -1,0 +1,41 @@
+id: business_0068
+name: Tequila Mockingbird
+description: Savor the vibrant flavors of fresh salsas, zesty shrimp dishes, and indulgent
+  desserts at this playful twist on Mexican and Tex-Mex classics. Our creative cocktails
+  and bold, sun-kissed fare are sure to make any meal a fiesta.
+rating: 1.0
+progenitor_customer: customer_0023
+menu_features:
+  Sunset Grilled Veggie Tacos: 13.27
+  Pineapple Habanero Salsa: 4.88
+  Housemade Horchata: 4.32
+  Ancho Chile Beef Chili: 9.42
+  Tequila Lime Grilled Shrimp: 14.35
+  Chipotle Shrimp Skewers: 14.13
+  Warm Churro Bites: 6.39
+  Pineapple Habanero Margarita: 11.66
+  Spicy Pineapple Salsa Dip: 4.71
+  Stuffed Poblano Peppers: 12.27
+  Black Bean Avocado Tostadas: 10.57
+  Mexican Chocolate Flan: 5.15
+  Tex-Mex Breakfast Skillet: 7.19
+  Chipotle Lime Shrimp Tacos: 15.38
+  Fresh Mango Salsa Nachos: 8.74
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Sunset Grilled Veggie Tacos: 9.55
+  Pineapple Habanero Salsa: 3.51
+  Housemade Horchata: 3.11
+  Ancho Chile Beef Chili: 6.78
+  Tequila Lime Grilled Shrimp: 10.33
+  Chipotle Shrimp Skewers: 10.17
+  Warm Churro Bites: 4.6
+  Pineapple Habanero Margarita: 8.4
+  Spicy Pineapple Salsa Dip: 3.39
+  Stuffed Poblano Peppers: 8.83
+  Black Bean Avocado Tostadas: 7.61
+  Mexican Chocolate Flan: 3.71
+  Tex-Mex Breakfast Skillet: 5.18
+  Chipotle Lime Shrimp Tacos: 11.07
+  Fresh Mango Salsa Nachos: 6.29

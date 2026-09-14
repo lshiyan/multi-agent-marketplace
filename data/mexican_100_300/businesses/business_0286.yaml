@@ -1,0 +1,43 @@
+id: business_0286
+name: Tamale & Lime Social
+description: Tamale & Lime Social brings a fresh twist to Mexican and Tex-Mex cuisine,
+  blending traditional flavors with modern flair. Enjoy bold bites, savory classics,
+  and vibrant salads in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0096
+menu_features:
+  Sweet Corn Tamale Bites: 5.91
+  Twice-Baked Sweet Potato: 7.92
+  "Cheesy Jalape\xF1o Queso Dip": 7.51
+  Blue Corn Tortilla Chips: 4.26
+  Smoky Chipotle Black Bean Soup: 8.99
+  Classic Beef Enchiladas: 11.73
+  Mexican Street Corn Salad: 7.13
+  Red Chili Chicken Pozole: 12.93
+  Tex-Mex Breakfast Skillet: 7.97
+  Chocolate Cinnamon Flan: 6.7
+  Classic Beef Tacos with Zesty Slaw: 9.74
+  Chipotle Bean Burrito: 9.53
+  Baja Fish Taco Plate: 15.05
+  Roasted Pecan Flan: 5.99
+  Smoky Black Bean Nachos: 11.48
+  Avocado Lime Quinoa Bowl: 12.21
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Sweet Corn Tamale Bites: 4.02
+  Twice-Baked Sweet Potato: 5.39
+  "Cheesy Jalape\xF1o Queso Dip": 5.11
+  Blue Corn Tortilla Chips: 2.9
+  Smoky Chipotle Black Bean Soup: 6.11
+  Classic Beef Enchiladas: 7.98
+  Mexican Street Corn Salad: 4.85
+  Red Chili Chicken Pozole: 8.79
+  Tex-Mex Breakfast Skillet: 5.42
+  Chocolate Cinnamon Flan: 4.56
+  Classic Beef Tacos with Zesty Slaw: 6.62
+  Chipotle Bean Burrito: 6.48
+  Baja Fish Taco Plate: 10.23
+  Roasted Pecan Flan: 4.07
+  Smoky Black Bean Nachos: 7.81
+  Avocado Lime Quinoa Bowl: 8.3

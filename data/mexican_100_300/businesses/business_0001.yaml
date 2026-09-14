@@ -1,0 +1,37 @@
+id: business_0001
+name: Chile & Cheddar Cantina
+description: Experience bold flavors and vibrant dishes in a lively, welcoming setting.
+  Our menu blends classic Mexican and Tex-Mex favorites with inventive twists, perfect
+  for any occasion.
+rating: 1.0
+progenitor_customer: customer_0001
+menu_features:
+  Smoky Mezcal Mule: 9.67
+  Three-Cheese Enchilada Stack: 10.73
+  Ranchero Eggs Benedict: 10.73
+  Zesty Lime Shrimp Tostadas: 12.3
+  Ancho Chili Spiced Ribs: 16.55
+  Spicy Beef Chimichangas: 13.74
+  Black Bean & Cheese Tostadas: 10.98
+  Spicy Shrimp Ceviche: 13.37
+  Vanilla Cinnamon Horchata: 3.17
+  Street Corn Quesadilla: 10.18
+  Tangy Tomato Salsa Soup: 8.47
+  Grilled Steak Quesadilla: 16.45
+  Pineapple Tequila Chicken Skewers: 14.04
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Smoky Mezcal Mule: 7.83
+  Three-Cheese Enchilada Stack: 8.69
+  Ranchero Eggs Benedict: 8.69
+  Zesty Lime Shrimp Tostadas: 9.96
+  Ancho Chili Spiced Ribs: 13.41
+  Spicy Beef Chimichangas: 11.13
+  Black Bean & Cheese Tostadas: 8.89
+  Spicy Shrimp Ceviche: 10.83
+  Vanilla Cinnamon Horchata: 2.57
+  Street Corn Quesadilla: 8.25
+  Tangy Tomato Salsa Soup: 6.86
+  Grilled Steak Quesadilla: 13.32
+  Pineapple Tequila Chicken Skewers: 11.37

@@ -1,0 +1,45 @@
+id: business_0055
+name: Holy Frijoles & Co.
+description: Delight in bold, inventive Mexican and Tex-Mex flavors with a fresh twist.
+  From zesty agua frescas to sizzling skillets and decadent desserts, every dish is
+  a celebration of vibrant spice and classic comfort.
+rating: 1.0
+progenitor_customer: customer_0019
+menu_features:
+  Tamarind Spiced Agua Fresca: 4.2
+  Pineapple Jalapeno Sangria: 6.77
+  Green Chile Pork Stew: 16.17
+  Sweet Potato and Black Bean Tacos: 10.37
+  Peach Berry Sangria: 9.97
+  Beef Fajita Skillet: 14.49
+  Sweet Corn Tamale Cake: 9.05
+  Horchata Iced Latte: 5.79
+  Smoky Black Bean Enchiladas: 13.58
+  Coconut Lime Shrimp Skewers: 13.28
+  Crispy Avocado Nachos: 6.53
+  Hatch Green Chile Stew: 9.41
+  Hibiscus Iced Tea: 3.29
+  Grilled Pineapple Salsa: 5.83
+  Ancho Chile BBQ Ribs: 19.7
+  Mexican Chocolate Lava Cake: 6.65
+  Street Corn Fritters: 6.35
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Tamarind Spiced Agua Fresca: 2.98
+  Pineapple Jalapeno Sangria: 4.81
+  Green Chile Pork Stew: 11.48
+  Sweet Potato and Black Bean Tacos: 7.36
+  Peach Berry Sangria: 7.08
+  Beef Fajita Skillet: 10.29
+  Sweet Corn Tamale Cake: 6.43
+  Horchata Iced Latte: 4.11
+  Smoky Black Bean Enchiladas: 9.64
+  Coconut Lime Shrimp Skewers: 9.43
+  Crispy Avocado Nachos: 4.64
+  Hatch Green Chile Stew: 6.68
+  Hibiscus Iced Tea: 2.34
+  Grilled Pineapple Salsa: 4.14
+  Ancho Chile BBQ Ribs: 13.99
+  Mexican Chocolate Lava Cake: 4.72
+  Street Corn Fritters: 4.51

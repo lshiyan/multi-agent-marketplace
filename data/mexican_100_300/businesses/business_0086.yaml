@@ -1,0 +1,43 @@
+id: business_0086
+name: Poblano Plaza
+description: Immerse yourself in bold, vibrant flavors at Poblano Plaza, where Tex-Mex
+  classics and creative specialties come together in a lively atmosphere. Enjoy handcrafted
+  salsas, savory bites, and refreshing drinks inspired by the heart of Mexico.
+rating: 1.0
+progenitor_customer: customer_0029
+menu_features:
+  Street Style Quesadillas: 8.68
+  Chipotle BBQ Tacos: 13.47
+  Ancho Chili Braised Beef Enchiladas: 16.48
+  Three-Cheese Chile Rellenos: 14.88
+  Stuffed Poblano Peppers: 13.74
+  Spicy Shrimp Nacho Platter: 13.47
+  Chocolate Mole Brownie: 6.57
+  Smoky Mezcal Mule: 9.75
+  Chili Lime Watermelon Salad: 7.27
+  Pineapple Chipotle Salsa & Chips: 8.12
+  Fire Roasted Salsa Sampler: 5.41
+  Beef Barbacoa Burrito Bowl: 12.08
+  Margarita Grilled Chicken: 15.76
+  Spicy Chipotle Chicken Wings: 10.17
+  Spicy Beef Empanadas: 8.37
+  Black Bean & Corn Enchiladas: 8.27
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Street Style Quesadillas: 5.56
+  Chipotle BBQ Tacos: 8.62
+  Ancho Chili Braised Beef Enchiladas: 10.55
+  Three-Cheese Chile Rellenos: 9.52
+  Stuffed Poblano Peppers: 8.79
+  Spicy Shrimp Nacho Platter: 8.62
+  Chocolate Mole Brownie: 4.2
+  Smoky Mezcal Mule: 6.24
+  Chili Lime Watermelon Salad: 4.65
+  Pineapple Chipotle Salsa & Chips: 5.2
+  Fire Roasted Salsa Sampler: 3.46
+  Beef Barbacoa Burrito Bowl: 7.73
+  Margarita Grilled Chicken: 10.09
+  Spicy Chipotle Chicken Wings: 6.51
+  Spicy Beef Empanadas: 5.36
+  Black Bean & Corn Enchiladas: 5.29

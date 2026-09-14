@@ -1,0 +1,37 @@
+id: business_0281
+name: Fajita to Believe It
+description: Spice up your day with sizzling plates and decadent desserts at this
+  vibrant Tex-Mex haven. From zesty appetizers to sweet classics, every dish brings
+  a new fiesta of flavor.
+rating: 1.0
+progenitor_customer: customer_0094
+menu_features:
+  Cinnamon Sugar Churro Sticks: 4.03
+  Ancho Honey-Glazed Salmon: 14.09
+  Loaded Nacho Platter: 10.91
+  Vanilla Flan with Caramel Sauce: 7.13
+  Tequila Lime Flan: 9.17
+  Spiced Chocolate Tres Leches: 7.19
+  Spicy Shrimp Nacho Platter: 12.54
+  Chocolate Sopapilla Bites: 5.31
+  Raspberry Jalapeno Mojito: 9.19
+  Sizzling Fajita Plate: 18.26
+  Queso Fundido with Chorizo: 11.76
+  Tequila Sunrise Smoothie: 9.47
+  Sizzling Steak Fajitas: 14.97
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Cinnamon Sugar Churro Sticks: 3.79
+  Ancho Honey-Glazed Salmon: 13.24
+  Loaded Nacho Platter: 10.26
+  Vanilla Flan with Caramel Sauce: 6.7
+  Tequila Lime Flan: 8.62
+  Spiced Chocolate Tres Leches: 6.76
+  Spicy Shrimp Nacho Platter: 11.79
+  Chocolate Sopapilla Bites: 4.99
+  Raspberry Jalapeno Mojito: 8.64
+  Sizzling Fajita Plate: 17.16
+  Queso Fundido with Chorizo: 11.05
+  Tequila Sunrise Smoothie: 8.9
+  Sizzling Steak Fajitas: 14.07

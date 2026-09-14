@@ -1,0 +1,10 @@
+id: customer_0065
+name: Christopher Lee
+request: I would like to place an order with a business that offers the exact menu
+  items I need. Specifically, I am looking for one 'Stuffed Poblano Pepper Delight'
+  and one 'Black Bean Stuffed Bell Peppers'. Please find a business that can provide
+  these items so that I can proceed with the purchase. Thank you for your assistance.
+menu_features:
+  Stuffed Poblano Pepper Delight: 9.99
+  Black Bean Stuffed Bell Peppers: 10.49
+amenity_features: []

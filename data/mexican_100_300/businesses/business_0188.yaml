@@ -1,0 +1,44 @@
+id: business_0188
+name: El Valle Dorado Cantina
+description: Experience the vibrant flavors of Mexico and the Southwest with creative
+  takes on classic dishes and refreshing cocktails. El Valle Dorado Cantina invites
+  you to savor a delicious blend of savory, sweet, and spicy delights in a lively
+  atmosphere.
+rating: 1.0
+progenitor_customer: customer_0063
+menu_features:
+  Loaded Nacho Bowl: 10.24
+  Fresh Mango Salsa Nachos: 7.67
+  Raspberry Jalapeno Mojito: 9.7
+  Tequila Lime Shrimp Skewers: 14.59
+  Adobo Pork Sliders: 10.5
+  Roasted Pumpkin Tamale: 5.39
+  Honey Lime Chicken Skewers: 12.26
+  Spiced Agave Margarita: 10.18
+  Choco Flan Combo: 6.04
+  Rich Chocolate Tres Leches: 6.4
+  Caramelized Onion and Chorizo Quesadilla: 9.19
+  Fresh Corn Elote: 3.85
+  Grilled Steak Quesadilla: 15.59
+  Chili Lime Roasted Corn: 5.43
+  Mexican Chocolate Lava Cake: 9.9
+  Cocoa Dusted Churro Bites: 5.15
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Loaded Nacho Bowl: 6.25
+  Fresh Mango Salsa Nachos: 4.68
+  Raspberry Jalapeno Mojito: 5.92
+  Tequila Lime Shrimp Skewers: 8.9
+  Adobo Pork Sliders: 6.41
+  Roasted Pumpkin Tamale: 3.29
+  Honey Lime Chicken Skewers: 7.48
+  Spiced Agave Margarita: 6.21
+  Choco Flan Combo: 3.68
+  Rich Chocolate Tres Leches: 3.9
+  Caramelized Onion and Chorizo Quesadilla: 5.61
+  Fresh Corn Elote: 2.35
+  Grilled Steak Quesadilla: 9.51
+  Chili Lime Roasted Corn: 3.31
+  Mexican Chocolate Lava Cake: 6.04
+  Cocoa Dusted Churro Bites: 3.14

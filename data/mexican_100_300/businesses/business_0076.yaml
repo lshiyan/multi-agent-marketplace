@@ -1,0 +1,39 @@
+id: business_0076
+name: Crave Cantina
+description: Crave Cantina brings a fresh, vibrant twist to Mexican and Tex-Mex classics,
+  featuring bold flavors, sizzling platters, and refreshing drinks in a lively, modern
+  space. Satisfy your cravings with inventive dishes and a welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0026
+menu_features:
+  Honey-Lime Grilled Salmon: 13.13
+  Sizzling Fajita Platter: 18.66
+  Flan with Caramel Drizzle: 6.24
+  Tequila Lime Shrimp Skewers: 17.29
+  Hatch Green Chile Stew: 14.41
+  Grilled Steak Fajita Platter: 17.34
+  Classic Mojito with Mint: 8.97
+  Honey Lime Fajita Sizzlers: 17.92
+  Crispy Avocado Bites: 7.32
+  Adobo Pork Sliders: 11.26
+  Spicy Chipotle Chicken Wings: 9.27
+  Pico Avocado Toast: 9.05
+  Baja Fish Tacos: 14.06
+  Citrus Cilantro Rice: 5.98
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Honey-Lime Grilled Salmon: 8.67
+  Sizzling Fajita Platter: 12.32
+  Flan with Caramel Drizzle: 4.12
+  Tequila Lime Shrimp Skewers: 11.41
+  Hatch Green Chile Stew: 9.51
+  Grilled Steak Fajita Platter: 11.44
+  Classic Mojito with Mint: 5.92
+  Honey Lime Fajita Sizzlers: 11.83
+  Crispy Avocado Bites: 4.83
+  Adobo Pork Sliders: 7.43
+  Spicy Chipotle Chicken Wings: 6.12
+  Pico Avocado Toast: 5.97
+  Baja Fish Tacos: 9.28
+  Citrus Cilantro Rice: 3.95

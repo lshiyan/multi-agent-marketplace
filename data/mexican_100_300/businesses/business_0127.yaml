@@ -1,0 +1,43 @@
+id: business_0127
+name: "Cacao & Jalape\xF1o Kitchen"
+description: Experience bold, modern twists on Mexican and Tex-Mex classics in a vibrant,
+  welcoming space. From zesty margaritas to rich chocolate-inspired desserts, every
+  dish brings a unique burst of flavor.
+rating: 1.0
+progenitor_customer: customer_0043
+menu_features:
+  Mexican Chocolate Brownie: 6.6
+  "Blueberry Jalape\xF1o Margarita": 11.1
+  Pork Carnitas Platter: 11.45
+  Sizzling Carne Asada: 16.17
+  Cocoa Dusted Churro Bites: 5.78
+  Smoky Chipotle Queso: 7.23
+  Coconut Lime Paleta: 3.6
+  Blueberry Mint Agua Fresca: 3.49
+  Tomatillo Ranch Enchiladas: 13.82
+  Roasted Poblano Quesadilla: 11.07
+  Honey Chipotle Wings: 11.99
+  Spiced Chocolate Flan: 6.52
+  Spiced Chocolate Tres Leches: 6.26
+  Coconut Lime Margarita: 8.76
+  Vanilla Cinnamon Horchata: 3.46
+  Pineapple Chipotle Salsa & Chips: 6.5
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Mexican Chocolate Brownie: 4.03
+  "Blueberry Jalape\xF1o Margarita": 6.77
+  Pork Carnitas Platter: 6.98
+  Sizzling Carne Asada: 9.86
+  Cocoa Dusted Churro Bites: 3.53
+  Smoky Chipotle Queso: 4.41
+  Coconut Lime Paleta: 2.2
+  Blueberry Mint Agua Fresca: 2.13
+  Tomatillo Ranch Enchiladas: 8.43
+  Roasted Poblano Quesadilla: 6.75
+  Honey Chipotle Wings: 7.31
+  Spiced Chocolate Flan: 3.98
+  Spiced Chocolate Tres Leches: 3.82
+  Coconut Lime Margarita: 5.34
+  Vanilla Cinnamon Horchata: 2.11
+  Pineapple Chipotle Salsa & Chips: 3.96

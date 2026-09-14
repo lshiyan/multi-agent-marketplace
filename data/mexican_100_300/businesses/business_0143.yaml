@@ -1,0 +1,35 @@
+id: business_0143
+name: Citrus Ember Cantina
+description: "Where bold flavors meet fresh ingredients\u2014Citrus Ember Cantina\
+  \ serves up a modern twist on classic Mexican and Tex-Mex favorites. Enjoy a vibrant\
+  \ atmosphere and inventive dishes, crafted for memorable dining."
+rating: 1.0
+progenitor_customer: customer_0048
+menu_features:
+  Grilled Chipotle Chicken Burrito: 10.12
+  Raspberry Chipotle Barbecue Ribs: 17.98
+  Sweet Corn Tamale Cake: 8.73
+  Gourmet Nacho Platter: 7.93
+  Ultimate Nacho Platter: 9.82
+  Stuffed Avocado Delight: 9.22
+  Avocado & Tomato Breakfast Tostadas: 8.37
+  Avocado Lime Empanadas: 10.35
+  Smoky BBQ Pork Tostadas: 9.99
+  Margarita Lime Cheesecake: 7.03
+  Pork Carnitas Platter: 15.29
+  Coconut Flan Delight: 7.74
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Grilled Chipotle Chicken Burrito: 7.99
+  Raspberry Chipotle Barbecue Ribs: 14.2
+  Sweet Corn Tamale Cake: 6.9
+  Gourmet Nacho Platter: 6.26
+  Ultimate Nacho Platter: 7.76
+  Stuffed Avocado Delight: 7.28
+  Avocado & Tomato Breakfast Tostadas: 6.61
+  Avocado Lime Empanadas: 8.18
+  Smoky BBQ Pork Tostadas: 7.89
+  Margarita Lime Cheesecake: 5.55
+  Pork Carnitas Platter: 12.08
+  Coconut Flan Delight: 6.11

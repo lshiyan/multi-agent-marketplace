@@ -1,0 +1,10 @@
+id: customer_0013
+name: Wei Zhang
+request: 'Could you please assist me in finding a business that offers the following
+  items on their menu: 1 Smoky Chipotle Steak Fajitas and 1 Smoky Ancho Chicken Enchiladas?
+  It''s important that the business can fulfill this exact order. Once such a business
+  is found, I intend to place the order immediately. Thank you for your help.'
+menu_features:
+  Smoky Chipotle Steak Fajitas: 15.99
+  Smoky Ancho Chicken Enchiladas: 12.99
+amenity_features: []

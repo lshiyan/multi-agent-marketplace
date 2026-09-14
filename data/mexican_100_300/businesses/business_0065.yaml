@@ -1,0 +1,37 @@
+id: business_0065
+name: Poblano Palate
+description: Experience a vibrant fusion of Mexican and Tex-Mex flavors, where fresh
+  ingredients and bold spices come together in every dish. Enjoy a lively atmosphere
+  and creative culinary twists perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0022
+menu_features:
+  Pineapple Pico de Gallo Salsa: 8.33
+  Black Bean & Cheese Enchiladas: 14.27
+  Spiced Churro Bites: 5.75
+  Roasted Poblano Queso Dip: 5.44
+  Raspberry Jalapeno Mojito: 9.03
+  Chocolate Cinnamon Flan: 6.15
+  Three-Cheese Chile Rellenos: 14.89
+  Tequila Lime Shrimp Skewers: 14.9
+  Spicy Street Corn: 4.89
+  Chipotle Bean Burrito: 8.78
+  Refreshing Agua Fresca Trio: 6.11
+  Roasted Poblano Veggie Skillet: 10.37
+  Coconut Lime Flan: 6.44
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Pineapple Pico de Gallo Salsa: 7.16
+  Black Bean & Cheese Enchiladas: 12.27
+  Spiced Churro Bites: 4.95
+  Roasted Poblano Queso Dip: 4.68
+  Raspberry Jalapeno Mojito: 7.77
+  Chocolate Cinnamon Flan: 5.29
+  Three-Cheese Chile Rellenos: 12.81
+  Tequila Lime Shrimp Skewers: 12.81
+  Spicy Street Corn: 4.21
+  Chipotle Bean Burrito: 7.55
+  Refreshing Agua Fresca Trio: 5.25
+  Roasted Poblano Veggie Skillet: 8.92
+  Coconut Lime Flan: 5.54

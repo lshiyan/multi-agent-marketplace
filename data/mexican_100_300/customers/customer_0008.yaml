@@ -1,0 +1,11 @@
+id: customer_0008
+name: Lucy Cohen
+request: 'Please assist me in finding a business that serves the following menu items:
+  Breakfast Chorizo Torta (1), Spicy Black Bean Nachos (1), and Beef Barbacoa Tostadas
+  (1). It is important that the business can fulfill this exact order as I intend
+  to place it. Thank you.'
+menu_features:
+  Breakfast Chorizo Torta: 8.99
+  Spicy Black Bean Nachos: 9.49
+  Beef Barbacoa Tostadas: 11.29
+amenity_features: []

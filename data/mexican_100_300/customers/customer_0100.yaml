@@ -1,0 +1,8 @@
+id: customer_0100
+name: Mia Lopez
+request: 'Could you please assist me in finding a business that serves the following
+  menu item: Toasted Coconut Flan (1)? I intend to place an order for this specific
+  item. Thank you for your help.'
+menu_features:
+  Toasted Coconut Flan: 6.49
+amenity_features: []

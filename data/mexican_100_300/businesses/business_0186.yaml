@@ -1,0 +1,43 @@
+id: business_0186
+name: La Parrilla Aurora
+description: Experience vibrant Mexican and Tex-Mex flavors in a lively, welcoming
+  atmosphere. Enjoy fresh grilled specialties and thoughtfully crafted cocktails inspired
+  by both tradition and seasonal produce.
+rating: 1.0
+progenitor_customer: customer_0062
+menu_features:
+  Roasted Poblano Veggie Skillet: 9.36
+  Spicy Mango Margarita: 8.14
+  Garlic Lime Shrimp Salad: 15.13
+  Tex-Mex Fajita Wrap: 11.21
+  Pineapple Jalapeno Sangria: 9.5
+  Grilled Steak Fajita Platter: 16.29
+  Creamy Queso Dip: 8.06
+  Tropical Pineapple Salsa: 3.16
+  Fresh Watermelon Aqua Fresca: 4.04
+  Spicy Black Bean Nacho Platter: 10.26
+  Sweet Potato and Black Bean Tacos: 11.46
+  Baja Fish Taco Plate: 13.65
+  Zesty Lime Chicken Enchiladas: 10.84
+  Cinnamon Sugar Sopapillas: 4.55
+  Pineapple Habanero Margarita: 11.47
+  Chipotle Lime Shrimp Tacos: 14.36
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Roasted Poblano Veggie Skillet: 6.93
+  Spicy Mango Margarita: 6.02
+  Garlic Lime Shrimp Salad: 11.2
+  Tex-Mex Fajita Wrap: 8.3
+  Pineapple Jalapeno Sangria: 7.03
+  Grilled Steak Fajita Platter: 12.05
+  Creamy Queso Dip: 5.96
+  Tropical Pineapple Salsa: 2.34
+  Fresh Watermelon Aqua Fresca: 2.99
+  Spicy Black Bean Nacho Platter: 7.59
+  Sweet Potato and Black Bean Tacos: 8.48
+  Baja Fish Taco Plate: 10.1
+  Zesty Lime Chicken Enchiladas: 8.02
+  Cinnamon Sugar Sopapillas: 3.37
+  Pineapple Habanero Margarita: 8.49
+  Chipotle Lime Shrimp Tacos: 10.63

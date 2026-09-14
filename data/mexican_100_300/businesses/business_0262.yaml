@@ -1,0 +1,46 @@
+id: business_0262
+name: Cantina Sol de Acapulco
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm, inviting setting
+  where every dish bursts with fresh ingredients and bold, satisfying taste. From
+  refreshing cocktails to savory classics, Cantina Sol de Acapulco is your escape
+  to sunshine and spice.
+rating: 1.0
+progenitor_customer: customer_0088
+menu_features:
+  Passion Fruit Mojito: 8.19
+  Black Bean & Corn Enchiladas: 11.07
+  Braised Beef Barbacoa Tacos: 13.57
+  Stuffed Chicken Poblano: 13.34
+  Crispy Fish Baja Bowl: 12.04
+  Beef Barbacoa Burrito Bowl: 10.68
+  Stuffed Avocado Delight: 7.49
+  Grilled Steak Quesadilla: 11.5
+  Cheesy Jalapeno Queso: 9.31
+  Spicy Chorizo Enchiladas: 15.65
+  Classic Beef Barbacoa: 14.87
+  Mexican Street Corn Dip: 7.8
+  Tequila Lime Grilled Chicken: 12.95
+  Coconut Lime Rice Bowl: 10.05
+  Mango Habanero Margarita: 11.42
+  Cilantro Lime Shrimp Skewers: 10.32
+  Chorizo and Egg Tacos: 7.3
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Passion Fruit Mojito: 7.13
+  Black Bean & Corn Enchiladas: 9.63
+  Braised Beef Barbacoa Tacos: 11.81
+  Stuffed Chicken Poblano: 11.61
+  Crispy Fish Baja Bowl: 10.47
+  Beef Barbacoa Burrito Bowl: 9.29
+  Stuffed Avocado Delight: 6.52
+  Grilled Steak Quesadilla: 10.01
+  Cheesy Jalapeno Queso: 8.1
+  Spicy Chorizo Enchiladas: 13.62
+  Classic Beef Barbacoa: 12.94
+  Mexican Street Corn Dip: 6.79
+  Tequila Lime Grilled Chicken: 11.27
+  Coconut Lime Rice Bowl: 8.74
+  Mango Habanero Margarita: 9.94
+  Cilantro Lime Shrimp Skewers: 8.98
+  Chorizo and Egg Tacos: 6.35

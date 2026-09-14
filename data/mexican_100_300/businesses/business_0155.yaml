@@ -1,0 +1,41 @@
+id: business_0155
+name: Chili & the Chocolate Factory
+description: Spice meets sweet in this whimsical eatery serving vibrant Mexican and
+  Tex-Mex fare with bold, creative twists. Indulge in zesty wings, savory enchiladas,
+  fiery cocktails, and decadent desserts in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0052
+menu_features:
+  Tequila Lime Chicken Wings: 11.39
+  Black Bean Chili Bowl: 9.95
+  Chili Chocolate Lava Cake: 7.21
+  Pineapple Habanero Margarita: 7.8
+  Black Bean & Corn Enchiladas: 10.69
+  Creamy Avocado Caesar Salad: 10.79
+  Spicy Shrimp Fajitas: 12.24
+  Avocado & Tomato Breakfast Tostadas: 9.84
+  Stuffed Chicken Poblano: 14.07
+  Spicy Pineapple Salsa Dip: 4.35
+  Refreshing Agua Fresca Trio: 8.12
+  Poblano Pepper Queso Dip: 6.61
+  Black Bean and Lime Soup: 5.73
+  Chili Lime Jicama Sticks: 5.88
+  Chocolate Molten Tamale: 6.59
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Tequila Lime Chicken Wings: 9.91
+  Black Bean Chili Bowl: 8.66
+  Chili Chocolate Lava Cake: 6.27
+  Pineapple Habanero Margarita: 6.79
+  Black Bean & Corn Enchiladas: 9.3
+  Creamy Avocado Caesar Salad: 9.39
+  Spicy Shrimp Fajitas: 10.65
+  Avocado & Tomato Breakfast Tostadas: 8.56
+  Stuffed Chicken Poblano: 12.24
+  Spicy Pineapple Salsa Dip: 3.78
+  Refreshing Agua Fresca Trio: 7.06
+  Poblano Pepper Queso Dip: 5.75
+  Black Bean and Lime Soup: 4.99
+  Chili Lime Jicama Sticks: 5.12
+  Chocolate Molten Tamale: 5.73

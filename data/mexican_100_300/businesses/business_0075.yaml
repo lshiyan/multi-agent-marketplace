@@ -1,0 +1,33 @@
+id: business_0075
+name: Bean There, Salsed That
+description: A playful twist on Mexican and Tex-Mex classics, featuring bold flavors
+  and inventive bites. Swing by for a fiesta of spice, sizzle, and fresh flair in
+  every dish.
+rating: 1.0
+progenitor_customer: customer_0025
+menu_features:
+  Loaded Nacho Platter: 11.1
+  Spicy Beef Enchilada Bake: 11.35
+  Raspberry Jalapeno Mojito: 9.88
+  Spiced Chocolate Tres Leches: 6.17
+  Black Bean Crunch Wrap: 9.91
+  Avocado & Tomato Breakfast Tostadas: 8.14
+  Zesty Lime Chicken Tacos: 11.15
+  Black Bean and Avocado Wrap: 8.43
+  Smoky Chipotle Queso: 6.21
+  Roasted Pumpkin Tamale: 6.5
+  Cocoa Dusted Churro Bites: 6.09
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Loaded Nacho Platter: 8.21
+  Spicy Beef Enchilada Bake: 8.4
+  Raspberry Jalapeno Mojito: 7.31
+  Spiced Chocolate Tres Leches: 4.57
+  Black Bean Crunch Wrap: 7.33
+  Avocado & Tomato Breakfast Tostadas: 6.02
+  Zesty Lime Chicken Tacos: 8.25
+  Black Bean and Avocado Wrap: 6.24
+  Smoky Chipotle Queso: 4.6
+  Roasted Pumpkin Tamale: 4.81
+  Cocoa Dusted Churro Bites: 4.51

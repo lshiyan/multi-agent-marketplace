@@ -1,0 +1,12 @@
+id: customer_0052
+name: Chen Yu
+request: 'I am looking to place an order with a business that can fulfill the following
+  specific menu items: 1 Black Bean and Lime Soup, 1 Tequila Lime Chicken Wings, and
+  1 Poblano Pepper Queso Dip. These items are essential, and it is important that
+  the business provides all of them. Could you please help me find such a business,
+  as I intend to make this purchase once a suitable option is identified? Thank you.'
+menu_features:
+  Black Bean and Lime Soup: 6.99
+  Tequila Lime Chicken Wings: 10.49
+  Poblano Pepper Queso Dip: 6.99
+amenity_features: []

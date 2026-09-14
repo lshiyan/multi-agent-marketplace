@@ -1,0 +1,43 @@
+id: business_0165
+name: Casa del Campo Mexicano
+description: Step into a welcoming oasis where bold flavors and fresh ingredients
+  celebrate the spirit of Mexican and Tex-Mex cuisine. Experience handcrafted dishes
+  and vibrant drinks in a lively, relaxed setting perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0055
+menu_features:
+  Savory Carne Asada Burrito: 11.47
+  Refreshing Agua Fresca Trio: 9.0
+  Passion Fruit Mojito: 8.55
+  Breakfast Burrito Supreme: 11.32
+  Roasted Tomato Salsa Dip: 4.3
+  Carne Asada Fajitas: 15.18
+  Chipotle BBQ Tacos: 11.58
+  Street Corn Quesadilla: 11.44
+  Creamy Poblano Corn Chowder: 7.96
+  Hatch Green Chile Burger: 11.9
+  Classic Horchata Delight: 4.55
+  Chipotle Lime Cauliflower Tacos: 10.97
+  Zesty Lime Shrimp Salad: 13.77
+  Cilantro Lime Chicken Tacos: 11.44
+  Horchata Iced Latte: 4.57
+  Salted Caramel Margarita: 9.49
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Savory Carne Asada Burrito: 8.37
+  Refreshing Agua Fresca Trio: 6.57
+  Passion Fruit Mojito: 6.24
+  Breakfast Burrito Supreme: 8.26
+  Roasted Tomato Salsa Dip: 3.14
+  Carne Asada Fajitas: 11.08
+  Chipotle BBQ Tacos: 8.45
+  Street Corn Quesadilla: 8.35
+  Creamy Poblano Corn Chowder: 5.81
+  Hatch Green Chile Burger: 8.69
+  Classic Horchata Delight: 3.32
+  Chipotle Lime Cauliflower Tacos: 8.01
+  Zesty Lime Shrimp Salad: 10.05
+  Cilantro Lime Chicken Tacos: 8.35
+  Horchata Iced Latte: 3.34
+  Salted Caramel Margarita: 6.93

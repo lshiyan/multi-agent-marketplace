@@ -1,0 +1,45 @@
+id: business_0255
+name: Cantina Pecanero
+description: Experience vibrant Tex-Mex and Mexican-inspired flavors, where classic
+  favorites meet bold, modern twists. Enjoy a warm, lively atmosphere and dishes crafted
+  with fresh ingredients and creative flair.
+rating: 1.0
+progenitor_customer: customer_0085
+menu_features:
+  Roasted Pecan Flan: 6.52
+  Blueberry Jalapeno Margarita: 11.06
+  Black Bean & Cheese Tostadas: 10.39
+  Crispy Avocado Bites: 5.93
+  Spicy Chipotle Chicken Wings: 9.42
+  Blueberry Agave Agua Fresca: 4.62
+  Avocado Lime Enchiladas: 11.88
+  Classic Beef Barbacoa: 15.82
+  Sizzling Carne Asada: 16.73
+  Three Cheese Sope: 9.43
+  Smoky Ancho Chicken Enchiladas: 13.89
+  Chocolate Sopapilla Bites: 5.58
+  Tequila Lime Grilled Shrimp: 14.8
+  Zesty Lime Grilled Chicken: 16.73
+  Mango Habanero Salsa: 4.47
+  Spicy Shrimp Nacho Platter: 10.44
+  Spicy Shrimp Ceviche: 8.21
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Roasted Pecan Flan: 4.43
+  Blueberry Jalapeno Margarita: 7.52
+  Black Bean & Cheese Tostadas: 7.07
+  Crispy Avocado Bites: 4.03
+  Spicy Chipotle Chicken Wings: 6.41
+  Blueberry Agave Agua Fresca: 3.14
+  Avocado Lime Enchiladas: 8.08
+  Classic Beef Barbacoa: 10.76
+  Sizzling Carne Asada: 11.38
+  Three Cheese Sope: 6.41
+  Smoky Ancho Chicken Enchiladas: 9.45
+  Chocolate Sopapilla Bites: 3.79
+  Tequila Lime Grilled Shrimp: 10.06
+  Zesty Lime Grilled Chicken: 11.38
+  Mango Habanero Salsa: 3.04
+  Spicy Shrimp Nacho Platter: 7.1
+  Spicy Shrimp Ceviche: 5.58

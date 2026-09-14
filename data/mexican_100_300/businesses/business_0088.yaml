@@ -1,0 +1,45 @@
+id: business_0088
+name: La Fogata Dorada
+description: Experience vibrant Mexican and Tex-Mex flavors in a lively setting, where
+  traditional and modern dishes meet sizzling street favorites. From tender barbacoa
+  to fresh, zesty creations, every meal brings a taste of celebration.
+rating: 1.0
+progenitor_customer: customer_0030
+menu_features:
+  Classic Beef Barbacoa: 11.72
+  Gourmet Nacho Platter: 11.12
+  Cilantro Lime Chicken Tacos: 11.1
+  Chorizo and Egg Tacos: 7.44
+  Refreshing Agua Fresca Trio: 7.37
+  Spicy Black Bean Nacho Platter: 8.49
+  Al Pastor Quesadilla: 13.63
+  Avocado Lime Salsa: 5.26
+  Black Bean Taco Bowl: 8.9
+  Loaded Sweet Potato Fries: 8.26
+  Spicy Chocolate Lava Cake: 7.5
+  Avocado Lime Cheesecake: 5.35
+  Crispy Fish Street Tacos: 15.61
+  Black Bean Burgers: 12.93
+  Flamin' Skillet Fajitas: 15.52
+  Crispy Avocado and Lime Tacos: 14.81
+  Smoky BBQ Pork Tostadas: 10.94
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Classic Beef Barbacoa: 7.74
+  Gourmet Nacho Platter: 7.34
+  Cilantro Lime Chicken Tacos: 7.33
+  Chorizo and Egg Tacos: 4.91
+  Refreshing Agua Fresca Trio: 4.86
+  Spicy Black Bean Nacho Platter: 5.6
+  Al Pastor Quesadilla: 9.0
+  Avocado Lime Salsa: 3.47
+  Black Bean Taco Bowl: 5.87
+  Loaded Sweet Potato Fries: 5.45
+  Spicy Chocolate Lava Cake: 4.95
+  Avocado Lime Cheesecake: 3.53
+  Crispy Fish Street Tacos: 10.3
+  Black Bean Burgers: 8.53
+  Flamin' Skillet Fajitas: 10.24
+  Crispy Avocado and Lime Tacos: 9.77
+  Smoky BBQ Pork Tostadas: 7.22

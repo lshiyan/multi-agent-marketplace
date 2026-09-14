@@ -1,0 +1,45 @@
+id: business_0094
+name: El Rancho de Sabor
+description: Experience the vibrant flavors of Mexico and the Southwest in a welcoming,
+  rustic setting. El Rancho de Sabor serves up bold, fresh dishes and creative drinks
+  inspired by regional traditions.
+rating: 1.0
+progenitor_customer: customer_0032
+menu_features:
+  Caramelized Onion Queso Dip: 6.2
+  Roasted Poblano and Cheese Empanadas: 8.45
+  Breakfast Burrito Bonanza: 9.89
+  Mesquite Grilled Steak Fajitas: 13.42
+  Red Chili Chicken Pozole: 12.15
+  Classic Tortilla Soup: 5.43
+  Hatch Green Chile Quesadilla: 9.88
+  Chili Lime Shrimp Skewers: 13.49
+  Tamarind Ginger Cooler: 4.33
+  Horchata Iced Latte: 3.88
+  Pineapple Chipotle Salsa & Chips: 6.57
+  Street Corn Elote: 5.74
+  Vanilla Cinnamon Horchata: 4.57
+  Adobo Roasted Corn Salad: 9.1
+  Avocado Lime Enchiladas: 11.31
+  Spiced Chocolate Tres Leches: 7.31
+  Chili Lime Margarita: 9.33
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Caramelized Onion Queso Dip: 5.58
+  Roasted Poblano and Cheese Empanadas: 7.6
+  Breakfast Burrito Bonanza: 8.9
+  Mesquite Grilled Steak Fajitas: 12.08
+  Red Chili Chicken Pozole: 10.94
+  Classic Tortilla Soup: 4.89
+  Hatch Green Chile Quesadilla: 8.89
+  Chili Lime Shrimp Skewers: 12.14
+  Tamarind Ginger Cooler: 3.9
+  Horchata Iced Latte: 3.49
+  Pineapple Chipotle Salsa & Chips: 5.91
+  Street Corn Elote: 5.17
+  Vanilla Cinnamon Horchata: 4.11
+  Adobo Roasted Corn Salad: 8.19
+  Avocado Lime Enchiladas: 10.18
+  Spiced Chocolate Tres Leches: 6.58
+  Chili Lime Margarita: 8.4

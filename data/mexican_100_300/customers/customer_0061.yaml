@@ -1,0 +1,9 @@
+id: customer_0061
+name: Olivia Lewis
+request: 'Please find a business that serves the following menu items: 1 Agave Lime
+  Chicken Skewers and 1 Agave Lime Margarita. It is very important that both items
+  are available as I intend to place an order for these specific items. Thank you!'
+menu_features:
+  Agave Lime Chicken Skewers: 11.99
+  Agave Lime Margarita: 9.99
+amenity_features: []

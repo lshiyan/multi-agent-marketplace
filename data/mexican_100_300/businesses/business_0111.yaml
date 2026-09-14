@@ -1,0 +1,35 @@
+id: business_0111
+name: Sabor Encantado Cantina
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  inviting atmosphere. Our menu features fresh, zesty dishes and classic favorites
+  crafted with bold spices and a creative touch.
+rating: 1.0
+progenitor_customer: customer_0037
+menu_features:
+  Stuffed Chicken Poblano: 13.44
+  Chipotle Bean Burrito: 8.39
+  Roasted Pepper Queso Dip: 7.37
+  Citrus Marinated Carne Asada: 14.78
+  Pineapple Habanero Salsa: 4.07
+  Mexican Chocolate Brownie: 5.21
+  Chili Lime Margarita: 7.44
+  Spice-Rubbed Grilled Fajitas: 14.49
+  Spicy Chicken Chimichanga: 9.98
+  Horchata Iced Latte: 4.98
+  Tex-Mex Big Breakfast Bowl: 9.82
+  Coconut Lime Rice Bowl: 11.09
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Stuffed Chicken Poblano: 10.48
+  Chipotle Bean Burrito: 6.54
+  Roasted Pepper Queso Dip: 5.75
+  Citrus Marinated Carne Asada: 11.53
+  Pineapple Habanero Salsa: 3.17
+  Mexican Chocolate Brownie: 4.06
+  Chili Lime Margarita: 5.8
+  Spice-Rubbed Grilled Fajitas: 11.3
+  Spicy Chicken Chimichanga: 7.78
+  Horchata Iced Latte: 3.88
+  Tex-Mex Big Breakfast Bowl: 7.66
+  Coconut Lime Rice Bowl: 8.65

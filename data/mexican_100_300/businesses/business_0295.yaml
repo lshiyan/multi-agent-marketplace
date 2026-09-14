@@ -1,0 +1,45 @@
+id: business_0295
+name: "Sol & Saz\xF3n Cocina Mexicana"
+description: Experience the vibrant spirit of Mexican and Tex-Mex cuisine in a lively,
+  sun-filled atmosphere. Fresh ingredients and bold flavors come together in creative
+  dishes and colorful sips perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0099
+menu_features:
+  Avocado & Tomato Breakfast Tostadas: 5.9
+  Blueberry Hibiscus Margarita: 8.1
+  Ancho Chili Spiced Ribs: 16.68
+  Spicy Pineapple Chipotle Margarita: 9.88
+  Smoky Chipotle Chicken: 13.32
+  Black Bean & Corn Queso Dip: 6.53
+  Passion Fruit Mojito: 8.73
+  Creamy Queso Dip: 7.51
+  Spicy Black Bean Nacho Platter: 8.46
+  Sweet Corn Tamale Bites: 7.15
+  Stuffed Avocado Boats: 8.31
+  Passionfruit Agua Fresca: 3.36
+  Chorizo Breakfast Burrito: 10.23
+  Street Style Corn on the Cob: 5.26
+  Cocoa Cinnamon Tequila: 8.2
+  Roasted Corn and Avocado Salad: 10.12
+  Tex-Mex Fajita Wrap: 14.18
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Avocado & Tomato Breakfast Tostadas: 5.37
+  Blueberry Hibiscus Margarita: 7.37
+  Ancho Chili Spiced Ribs: 15.18
+  Spicy Pineapple Chipotle Margarita: 8.99
+  Smoky Chipotle Chicken: 12.12
+  Black Bean & Corn Queso Dip: 5.94
+  Passion Fruit Mojito: 7.94
+  Creamy Queso Dip: 6.83
+  Spicy Black Bean Nacho Platter: 7.7
+  Sweet Corn Tamale Bites: 6.51
+  Stuffed Avocado Boats: 7.56
+  Passionfruit Agua Fresca: 3.06
+  Chorizo Breakfast Burrito: 9.31
+  Street Style Corn on the Cob: 4.79
+  Cocoa Cinnamon Tequila: 7.46
+  Roasted Corn and Avocado Salad: 9.21
+  Tex-Mex Fajita Wrap: 12.9

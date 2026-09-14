@@ -1,0 +1,41 @@
+id: business_0008
+name: Spice, Spice, Baby
+description: Bold flavors and festive twists await at this vibrant spot, where every
+  dish balances Mexican tradition with a kick of creativity. From zesty starters to
+  decadent desserts, your taste buds are in for a delicious adventure.
+rating: 1.0
+progenitor_customer: customer_0003
+menu_features:
+  Spiced Churro Bites: 5.29
+  Spicy Black Bean Enchiladas: 9.37
+  Golden Tequila Sunrise: 8.65
+  Sizzling Chicken Fajitas: 14.57
+  Chili Chocolate Lava Cake: 6.95
+  Avocado Lime Empanadas: 8.65
+  Mexican Chocolate Lava Cake: 8.67
+  Carne Asada Nachos: 11.45
+  Street Corn Elote: 6.19
+  Spicy Shrimp Ceviche: 7.94
+  Zesty Lime Shrimp Tostadas: 11.45
+  Crispy Tortilla Breakfast Bowl: 10.5
+  Queso Fundido with Chorizo: 9.04
+  Pumpkin Spice Churros: 5.36
+  Classic Mojito with Mint: 6.74
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Spiced Churro Bites: 4.6
+  Spicy Black Bean Enchiladas: 8.15
+  Golden Tequila Sunrise: 7.53
+  Sizzling Chicken Fajitas: 12.68
+  Chili Chocolate Lava Cake: 6.05
+  Avocado Lime Empanadas: 7.53
+  Mexican Chocolate Lava Cake: 7.54
+  Carne Asada Nachos: 9.96
+  Street Corn Elote: 5.39
+  Spicy Shrimp Ceviche: 6.91
+  Zesty Lime Shrimp Tostadas: 9.96
+  Crispy Tortilla Breakfast Bowl: 9.13
+  Queso Fundido with Chorizo: 7.86
+  Pumpkin Spice Churros: 4.66
+  Classic Mojito with Mint: 5.86

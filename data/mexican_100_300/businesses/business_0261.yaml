@@ -1,0 +1,41 @@
+id: business_0261
+name: Stack to the Future
+description: Step into a vibrant, modern eatery where Tex-Mex classics get a creative
+  twist. From sizzling skillets to sweet surprises, every dish brings a fresh burst
+  of bold flavor.
+rating: 1.0
+progenitor_customer: customer_0087
+menu_features:
+  Verde Chicken Enchiladas: 12.2
+  Grilled Pineapple Dessert Quesadilla: 8.68
+  Chorizo Breakfast Tacos: 9.39
+  Pico Avocado Toast: 5.91
+  Breakfast Tostada Stack: 10.46
+  Sizzling Fajita Fiesta: 12.87
+  Smoky Black Bean Tostadas: 6.31
+  Zesty Lime Grilled Chicken: 9.01
+  Roasted Red Pepper Quesadilla: 8.16
+  Classic Beef Tacos with Zesty Slaw: 12.12
+  Classic Carne Asada Burrito: 15.39
+  Grilled Pineapple Salmon: 15.09
+  Spicy Cucumber Margarita: 10.83
+  Cheesy Jalapeno Poppers: 8.12
+  Crispy Avocado Tostadas: 11.14
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Verde Chicken Enchiladas: 10.13
+  Grilled Pineapple Dessert Quesadilla: 7.2
+  Chorizo Breakfast Tacos: 7.79
+  Pico Avocado Toast: 4.91
+  Breakfast Tostada Stack: 8.68
+  Sizzling Fajita Fiesta: 10.68
+  Smoky Black Bean Tostadas: 5.24
+  Zesty Lime Grilled Chicken: 7.48
+  Roasted Red Pepper Quesadilla: 6.77
+  Classic Beef Tacos with Zesty Slaw: 10.06
+  Classic Carne Asada Burrito: 12.77
+  Grilled Pineapple Salmon: 12.52
+  Spicy Cucumber Margarita: 8.99
+  Cheesy Jalapeno Poppers: 6.74
+  Crispy Avocado Tostadas: 9.25

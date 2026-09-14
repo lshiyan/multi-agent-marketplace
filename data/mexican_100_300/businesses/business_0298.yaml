@@ -1,0 +1,40 @@
+id: business_0298
+name: Crisp & Caramel Cantina
+description: Crisp & Caramel Cantina brings a modern twist to Mexican and Tex-Mex
+  flavors, featuring fresh ingredients, bold salsas, and decadent desserts in a vibrant,
+  welcoming atmosphere. Perfect for those seeking sizzling plates, zesty cocktails,
+  and a memorable dining experience.
+rating: 1.0
+progenitor_customer: customer_0100
+menu_features:
+  Spicy Cucumber Margarita: 9.5
+  Sizzling Fajita Skillet: 11.51
+  Vanilla Flan with Caramel Sauce: 7.2
+  Chili Lime Margarita: 7.65
+  Avocado Lime Enchiladas: 10.95
+  Black Bean & Cheese Tostadas: 9.7
+  Toasted Coconut Flan: 6.61
+  Chipotle Shrimp Skewers: 10.23
+  Crispy Avocado Tostadas: 10.58
+  Classic Beef Tacos with Zesty Slaw: 12.0
+  Hatch Green Chile Burger: 12.62
+  Black Bean and Corn Fiesta Salad: 10.05
+  Caramelized Onion and Chorizo Quesadilla: 11.02
+  Lime-Garlic Grilled Chicken: 16.49
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Spicy Cucumber Margarita: 8.46
+  Sizzling Fajita Skillet: 10.24
+  Vanilla Flan with Caramel Sauce: 6.41
+  Chili Lime Margarita: 6.81
+  Avocado Lime Enchiladas: 9.75
+  Black Bean & Cheese Tostadas: 8.63
+  Toasted Coconut Flan: 5.88
+  Chipotle Shrimp Skewers: 9.1
+  Crispy Avocado Tostadas: 9.42
+  Classic Beef Tacos with Zesty Slaw: 10.68
+  Hatch Green Chile Burger: 11.23
+  Black Bean and Corn Fiesta Salad: 8.94
+  Caramelized Onion and Chorizo Quesadilla: 9.81
+  Lime-Garlic Grilled Chicken: 14.68

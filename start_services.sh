@@ -18,6 +18,7 @@ export SINGULARITYENV_PGADMIN_LISTEN_PORT=8080
 
 mkdir -p "$HOME/singularity_data/postgres"
 mkdir -p "$HOME/singularity_data/pgadmin"
+mkdir -p "$HOME/singularity_data/postgres_data"
 
 echo "Starting PostgreSQL..."
 
@@ -29,8 +30,9 @@ singularity exec \
   postgres \
     -c port=5433 \
     -c unix_socket_directories=/postgres_socket \
-    -c max_connections="${POSTGRES_MAX_CONNECTIONS:-100}"
-
+    -c max_connections="${POSTGRES_MAX_CONNECTIONS:-100}" \
+  > postgres.log 2>&1 &
+ 
 POSTGRES_PID=$!
 
 echo "PostgreSQL PID: $POSTGRES_PID"

@@ -1,0 +1,39 @@
+id: business_0038
+name: Fajita Fresca
+description: Experience a vibrant taste of the Southwest with our fresh twists on
+  classic Mexican and Tex-Mex favorites. From sizzling fajitas to crisp salads and
+  savory street eats, every dish is crafted for flavor and flair.
+rating: 1.0
+progenitor_customer: customer_0013
+menu_features:
+  Southwest Chopped Salad: 12.39
+  Sizzling Fajita Fiesta: 13.81
+  Crispy Avocado and Lime Tacos: 12.8
+  Spice-Rubbed Grilled Fajitas: 11.59
+  Grilled Steak Fajita Platter: 15.45
+  Avocado Lime Empanadas: 10.72
+  Blue Corn Tostada Salad: 10.63
+  Smoky Chipotle Steak Fajitas: 12.32
+  Smoky Ancho Chicken Enchiladas: 9.84
+  Roasted Poblano Corn Chowder: 6.5
+  Flamin' Skillet Fajitas: 16.75
+  Grilled Pineapple Salsa: 5.92
+  Black Bean Crunch Wrap: 10.02
+  Chipotle Bean Burrito: 9.85
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Southwest Chopped Salad: 8.05
+  Sizzling Fajita Fiesta: 8.98
+  Crispy Avocado and Lime Tacos: 8.32
+  Spice-Rubbed Grilled Fajitas: 7.53
+  Grilled Steak Fajita Platter: 10.04
+  Avocado Lime Empanadas: 6.97
+  Blue Corn Tostada Salad: 6.91
+  Smoky Chipotle Steak Fajitas: 8.01
+  Smoky Ancho Chicken Enchiladas: 6.4
+  Roasted Poblano Corn Chowder: 4.23
+  Flamin' Skillet Fajitas: 10.89
+  Grilled Pineapple Salsa: 3.85
+  Black Bean Crunch Wrap: 6.51
+  Chipotle Bean Burrito: 6.4

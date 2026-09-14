@@ -1,0 +1,37 @@
+id: business_0022
+name: "Casa de Mango y Ma\xEDz"
+description: Experience the vibrant flavors of Mexico and the Southwest in a lively
+  setting, where fresh ingredients and bold traditions come together. From zesty appetizers
+  to flavorful specialties, enjoy a unique twist on classic favorites.
+rating: 1.0
+progenitor_customer: customer_0008
+menu_features:
+  Frozen Mango Margarita: 7.87
+  Avocado Lime Salsa: 4.79
+  Spicy Black Bean Nachos: 8.53
+  Chipotle Lime Shrimp Tacos: 14.42
+  Tamarind-Glazed Ribs: 19.48
+  Beef Barbacoa Tostadas: 11.54
+  Tex-Mex Fajita Wrap: 11.41
+  Three-Cheese Queso Dip: 8.02
+  Breakfast Chorizo Torta: 9.29
+  Chipotle Lime Chicken Salad: 10.04
+  Roasted Red Pepper Quesadilla: 9.44
+  Spicy Shrimp Ceviche: 12.15
+  Roasted Poblano and Cheese Empanadas: 9.35
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Frozen Mango Margarita: 6.85
+  Avocado Lime Salsa: 4.17
+  Spicy Black Bean Nachos: 7.42
+  Chipotle Lime Shrimp Tacos: 12.55
+  Tamarind-Glazed Ribs: 16.95
+  Beef Barbacoa Tostadas: 10.04
+  Tex-Mex Fajita Wrap: 9.93
+  Three-Cheese Queso Dip: 6.98
+  Breakfast Chorizo Torta: 8.08
+  Chipotle Lime Chicken Salad: 8.73
+  Roasted Red Pepper Quesadilla: 8.21
+  Spicy Shrimp Ceviche: 10.57
+  Roasted Poblano and Cheese Empanadas: 8.13

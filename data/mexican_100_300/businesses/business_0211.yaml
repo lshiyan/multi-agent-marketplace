@@ -1,0 +1,37 @@
+id: business_0211
+name: Cactus & Cocoa Cantina
+description: Delight in vibrant Mexican and Tex-Mex flavors where traditional favorites
+  meet creative twists, all served in a welcoming, lively atmosphere. Sip, savor,
+  and satisfy your cravings with our fresh, flavorful fare and unique house-made drinks.
+rating: 1.0
+progenitor_customer: customer_0071
+menu_features:
+  Ancho Chili Braised Beef Enchiladas: 14.08
+  Margarita Grilled Chicken: 11.52
+  Classic Flan Delight: 6.96
+  Sunrise Breakfast Tacos: 12.1
+  Chili Lime Skirt Steak: 15.19
+  Mushroom & Cheese Tamales: 8.13
+  Tequila Lime Shrimp Skewers: 13.94
+  Chocolate Mole Brownie: 7.09
+  Tamarind Spiced Agua Fresca: 4.73
+  Cactus Flower Iced Tea: 4.49
+  Crispy Avocado Burrito: 13.76
+  Pineapple Pico de Gallo Nachos: 10.6
+  Tex-Mex Breakfast Skillet: 8.17
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Ancho Chili Braised Beef Enchiladas: 9.01
+  Margarita Grilled Chicken: 7.37
+  Classic Flan Delight: 4.45
+  Sunrise Breakfast Tacos: 7.74
+  Chili Lime Skirt Steak: 9.72
+  Mushroom & Cheese Tamales: 5.2
+  Tequila Lime Shrimp Skewers: 8.92
+  Chocolate Mole Brownie: 4.54
+  Tamarind Spiced Agua Fresca: 3.03
+  Cactus Flower Iced Tea: 2.87
+  Crispy Avocado Burrito: 8.81
+  Pineapple Pico de Gallo Nachos: 6.78
+  Tex-Mex Breakfast Skillet: 5.23

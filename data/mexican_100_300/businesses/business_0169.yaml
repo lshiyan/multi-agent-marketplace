@@ -1,0 +1,35 @@
+id: business_0169
+name: Mezcal & Mornings
+description: Wake up your cravings with bold, smoky flavors and vibrant twists on
+  Mexican and Tex-Mex classics. From sunrise sips to sizzling grills, every meal here
+  is a fiesta for the senses.
+rating: 1.0
+progenitor_customer: customer_0057
+menu_features:
+  Smoky Mezcal Mule: 9.05
+  Twisted Tequila Sunrise: 8.69
+  Cactus Jack Quesadilla: 11.69
+  Chipotle Lime Shrimp Skewers: 13.33
+  Mesquite Grilled Steak Fajitas: 15.15
+  Breakfast Chilaquiles Verde: 11.39
+  Grilled Street Corn: 4.33
+  Huevos Rancheros: 9.42
+  Loaded Nacho Fiesta: 10.45
+  Crispy Tinga Chicken Tacos: 8.23
+  Grilled Shrimp Quesadilla: 12.21
+  Roasted Pumpkin Tamale: 5.75
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Smoky Mezcal Mule: 5.79
+  Twisted Tequila Sunrise: 5.56
+  Cactus Jack Quesadilla: 7.48
+  Chipotle Lime Shrimp Skewers: 8.53
+  Mesquite Grilled Steak Fajitas: 9.7
+  Breakfast Chilaquiles Verde: 7.29
+  Grilled Street Corn: 2.77
+  Huevos Rancheros: 6.03
+  Loaded Nacho Fiesta: 6.69
+  Crispy Tinga Chicken Tacos: 5.27
+  Grilled Shrimp Quesadilla: 7.81
+  Roasted Pumpkin Tamale: 3.68

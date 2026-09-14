@@ -1,0 +1,37 @@
+id: business_0268
+name: Taco 'Bout Brunch & Beyond
+description: Wake up your taste buds with vibrant Mexican and Tex-Mex flavors, perfect
+  for breakfast, brunch, or any craving in between. From savory bites to sweet surprises,
+  our kitchen serves up bold tastes in every dish and sip.
+rating: 1.0
+progenitor_customer: customer_0090
+menu_features:
+  Honey Chipotle Wings: 10.5
+  Black Bean Taco Bowl: 10.46
+  Sweet Corn Tamales: 11.49
+  Hibiscus Iced Tea: 2.82
+  Passion Fruit Mojito: 8.4
+  Caramelized Plantain Empanadas: 7.6
+  Grilled Chipotle Chicken Burrito: 10.92
+  Avocado & Tomato Breakfast Tostadas: 8.78
+  Black Bean Street Tacos: 10.59
+  Breakfast Chorizo Torta: 6.93
+  Sweet Chili Lime Elote: 5.4
+  Three-Cheese Queso Dip: 7.61
+  Chocolate Molten Tamale: 7.61
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Honey Chipotle Wings: 7.98
+  Black Bean Taco Bowl: 7.95
+  Sweet Corn Tamales: 8.73
+  Hibiscus Iced Tea: 2.14
+  Passion Fruit Mojito: 6.38
+  Caramelized Plantain Empanadas: 5.78
+  Grilled Chipotle Chicken Burrito: 8.3
+  Avocado & Tomato Breakfast Tostadas: 6.67
+  Black Bean Street Tacos: 8.05
+  Breakfast Chorizo Torta: 5.27
+  Sweet Chili Lime Elote: 4.1
+  Three-Cheese Queso Dip: 5.78
+  Chocolate Molten Tamale: 5.78

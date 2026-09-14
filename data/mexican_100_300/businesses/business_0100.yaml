@@ -1,0 +1,43 @@
+id: business_0100
+name: Bean & Blaze
+description: Experience bold flavors and vibrant spices at Bean & Blaze, where classic
+  and contemporary Mexican fare come together in every dish. Enjoy a lively atmosphere
+  perfect for sharing flavorful plates and festive drinks.
+rating: 1.0
+progenitor_customer: customer_0034
+menu_features:
+  Spicy Black Bean Tacos: 13.0
+  Sizzling Carne Asada: 17.79
+  Chocolate Cinnamon Flan: 4.65
+  Classic Horchata Smoothie: 4.94
+  Spicy Avocado Smash Burger: 14.29
+  Ancho Chili Rubbed Steak: 19.39
+  Midnight Mole Enchiladas: 10.56
+  Black Bean Avocado Tostadas: 13.65
+  Spiced Agave Margarita: 9.24
+  Black Bean & Corn Queso Dip: 6.97
+  Spicy Black Bean and Cheese Quesadilla: 11.71
+  Hatch Green Chile Rice: 4.27
+  Frozen Mango Margarita: 7.32
+  Loaded Nachos Grande: 8.84
+  Green Chile Pork Stew: 12.39
+  Honey-Lime Grilled Salmon: 15.27
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Spicy Black Bean Tacos: 10.27
+  Sizzling Carne Asada: 14.05
+  Chocolate Cinnamon Flan: 3.67
+  Classic Horchata Smoothie: 3.9
+  Spicy Avocado Smash Burger: 11.29
+  Ancho Chili Rubbed Steak: 15.32
+  Midnight Mole Enchiladas: 8.34
+  Black Bean Avocado Tostadas: 10.78
+  Spiced Agave Margarita: 7.3
+  Black Bean & Corn Queso Dip: 5.51
+  Spicy Black Bean and Cheese Quesadilla: 9.25
+  Hatch Green Chile Rice: 3.37
+  Frozen Mango Margarita: 5.78
+  Loaded Nachos Grande: 6.98
+  Green Chile Pork Stew: 9.79
+  Honey-Lime Grilled Salmon: 12.06

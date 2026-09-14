@@ -1,0 +1,33 @@
+id: business_0042
+name: Mango Mesa
+description: Step into Mango Mesa, where vibrant flavors and inventive pairings bring
+  the spirit of Mexico and the Southwest to your table. Enjoy refreshing sips and
+  zesty bites in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0014
+menu_features:
+  Black Bean & Corn Queso Dip: 6.03
+  Tamarind Ginger Cooler: 4.99
+  Three-Cheese Queso Dip: 7.18
+  Creamy Jalapeno Corn Fritters: 7.59
+  Jalapeno Mango Margarita: 9.5
+  Pork Carnitas Platter: 15.8
+  Crisp Jicama Slaw: 5.19
+  Blue Corn Tortilla Tacos: 11.54
+  Green Chile Cheesesteak: 12.4
+  Classic Mojito with Mint: 7.43
+  Zesty Lime Grilled Chicken: 16.36
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Black Bean & Corn Queso Dip: 3.68
+  Tamarind Ginger Cooler: 3.04
+  Three-Cheese Queso Dip: 4.38
+  Creamy Jalapeno Corn Fritters: 4.63
+  Jalapeno Mango Margarita: 5.79
+  Pork Carnitas Platter: 9.64
+  Crisp Jicama Slaw: 3.17
+  Blue Corn Tortilla Tacos: 7.04
+  Green Chile Cheesesteak: 7.56
+  Classic Mojito with Mint: 4.53
+  Zesty Lime Grilled Chicken: 9.98

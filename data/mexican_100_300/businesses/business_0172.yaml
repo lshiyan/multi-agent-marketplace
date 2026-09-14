@@ -1,0 +1,43 @@
+id: business_0172
+name: Much Ado About Mango
+description: Dive into vibrant Mexican and Tex-Mex flavors with a playful twist. Our
+  kitchen crafts savory classics and inventive desserts bursting with bold fruits,
+  spice, and plenty of zest.
+rating: 1.0
+progenitor_customer: customer_0058
+menu_features:
+  Passionfruit Agua Fresca: 4.12
+  Caramelized Banana Flan: 5.96
+  Grilled Pineapple Dessert Quesadilla: 6.58
+  Sea Breeze Ceviche: 14.44
+  Smoky Black Bean Enchiladas: 14.02
+  Zesty Lime Grilled Shrimp: 14.4
+  Roasted Poblano Soup: 6.75
+  Chipotle Chicken Enchiladas: 15.2
+  Loaded Nacho Bowl: 13.29
+  Spicy Cucumber Margarita: 9.03
+  Black Bean & Corn Queso Dip: 6.24
+  Adobo Pork Sliders: 12.67
+  Tequila Sunrise Smoothie: 7.25
+  Agave Lime Chicken Skewers: 9.64
+  Roasted Tomato Salsa Dip: 4.07
+  Black Bean and Corn Fiesta Salad: 7.74
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Passionfruit Agua Fresca: 3.87
+  Caramelized Banana Flan: 5.6
+  Grilled Pineapple Dessert Quesadilla: 6.19
+  Sea Breeze Ceviche: 13.57
+  Smoky Black Bean Enchiladas: 13.18
+  Zesty Lime Grilled Shrimp: 13.54
+  Roasted Poblano Soup: 6.34
+  Chipotle Chicken Enchiladas: 14.29
+  Loaded Nacho Bowl: 12.49
+  Spicy Cucumber Margarita: 8.49
+  Black Bean & Corn Queso Dip: 5.87
+  Adobo Pork Sliders: 11.91
+  Tequila Sunrise Smoothie: 6.81
+  Agave Lime Chicken Skewers: 9.06
+  Roasted Tomato Salsa Dip: 3.83
+  Black Bean and Corn Fiesta Salad: 7.28

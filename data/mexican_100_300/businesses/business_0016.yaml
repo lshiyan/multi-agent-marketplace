@@ -1,0 +1,41 @@
+id: business_0016
+name: "Holy Guacamol\xE9!"
+description: "Bringing bold flavors and fresh twists to Mexican and Tex-Mex favorites,\
+  \ Holy Guacamol\xE9! delights with zesty salsas, mouthwatering tacos, and creative\
+  \ fusion plates in a vibrant, welcoming setting."
+rating: 1.0
+progenitor_customer: customer_0006
+menu_features:
+  Avocado Lime Empanadas: 7.34
+  Baja Shrimp Quesadilla: 13.95
+  Pineapple Salsa Shrimp Tacos: 12.69
+  Ancho Chile Chicken Salad: 13.34
+  Beef Enchiladas Verdes: 10.47
+  Sizzling Steak Fajitas: 14.87
+  Roasted Poblano Queso Dip: 7.91
+  Grilled Pineapple Salmon: 21.6
+  Lime-Cilantro Quinoa Salad: 8.14
+  Crispy Fish Tacos: 10.4
+  Coconut Lime Tres Leches: 6.09
+  Roasted Poblano and Cheese Empanadas: 9.57
+  Sizzling Carne Asada: 18.2
+  Chipotle Lime Shrimp Skewers: 13.25
+  Spicy Cucumber Margarita: 6.05
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Avocado Lime Empanadas: 5.95
+  Baja Shrimp Quesadilla: 11.3
+  Pineapple Salsa Shrimp Tacos: 10.28
+  Ancho Chile Chicken Salad: 10.81
+  Beef Enchiladas Verdes: 8.48
+  Sizzling Steak Fajitas: 12.04
+  Roasted Poblano Queso Dip: 6.41
+  Grilled Pineapple Salmon: 17.5
+  Lime-Cilantro Quinoa Salad: 6.59
+  Crispy Fish Tacos: 8.42
+  Coconut Lime Tres Leches: 4.93
+  Roasted Poblano and Cheese Empanadas: 7.75
+  Sizzling Carne Asada: 14.74
+  Chipotle Lime Shrimp Skewers: 10.73
+  Spicy Cucumber Margarita: 4.9

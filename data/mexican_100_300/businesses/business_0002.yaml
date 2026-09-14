@@ -1,0 +1,41 @@
+id: business_0002
+name: Fiesta Flame
+description: Dive into vibrant flavors and sizzling dishes at Fiesta Flame, where
+  Tex-Mex classics and inventive bites ignite your taste buds. Enjoy a festive atmosphere
+  perfect for sharing good times and unforgettable meals.
+rating: 1.0
+progenitor_customer: customer_0001
+menu_features:
+  Spiced Agave Margarita: 6.93
+  Flamin' Skillet Fajitas: 14.24
+  Chili Lime Jicama Sticks: 4.67
+  Sizzling Carne Asada: 17.83
+  Spicy Beef Chimichangas: 10.47
+  Coconut Lime Shrimp Skewers: 16.89
+  Coconut Tres Leches: 6.63
+  Black Bean & Cheese Tostadas: 9.28
+  Grilled Pineapple & Shrimp Quesadillas: 13.41
+  Pico de Gallo Chicken Salad: 9.01
+  Street Corn Quesadilla: 9.82
+  Sweet Plantain Empanadas: 6.28
+  Pineapple Tequila Chicken Skewers: 12.23
+  Roasted Red Pepper Quesadilla: 10.86
+  Spicy Chocolate Churros: 4.9
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Spiced Agave Margarita: 5.75
+  Flamin' Skillet Fajitas: 11.82
+  Chili Lime Jicama Sticks: 3.88
+  Sizzling Carne Asada: 14.8
+  Spicy Beef Chimichangas: 8.69
+  Coconut Lime Shrimp Skewers: 14.02
+  Coconut Tres Leches: 5.5
+  Black Bean & Cheese Tostadas: 7.7
+  Grilled Pineapple & Shrimp Quesadillas: 11.13
+  Pico de Gallo Chicken Salad: 7.48
+  Street Corn Quesadilla: 8.15
+  Sweet Plantain Empanadas: 5.21
+  Pineapple Tequila Chicken Skewers: 10.15
+  Roasted Red Pepper Quesadilla: 9.01
+  Spicy Chocolate Churros: 4.07

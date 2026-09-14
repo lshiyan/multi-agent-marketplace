@@ -1,0 +1,37 @@
+id: business_0107
+name: Wing & a Flare
+description: "Spice up your day with bold, flavor-packed Mexican and Tex-Mex classics\
+  \ in a vibrant, friendly setting. From zesty wings to sweet and spicy bites, it\u2019\
+  s a fiesta for your taste buds!"
+rating: 1.0
+progenitor_customer: customer_0036
+menu_features:
+  Tequila Lime Chicken Wings: 11.44
+  Roasted Poblano Corn Chowder: 6.86
+  Cocoa Dusted Churro Bites: 6.44
+  Spicy Chorizo Enchiladas: 14.03
+  Poblano Pepper Queso Dip: 5.23
+  Breakfast Burrito Supreme: 10.21
+  Cilantro Lime Shrimp Skewers: 13.56
+  Grilled Avocado and Quinoa Bowl: 10.61
+  Mango Jalapeno Slush: 5.36
+  Sunrise Breakfast Tacos: 10.42
+  Chocolate Mole Brownie: 6.51
+  Chocolate Molten Tamale: 8.34
+  Creamy Queso Dip: 8.15
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Tequila Lime Chicken Wings: 8.69
+  Roasted Poblano Corn Chowder: 5.21
+  Cocoa Dusted Churro Bites: 4.89
+  Spicy Chorizo Enchiladas: 10.66
+  Poblano Pepper Queso Dip: 3.97
+  Breakfast Burrito Supreme: 7.76
+  Cilantro Lime Shrimp Skewers: 10.31
+  Grilled Avocado and Quinoa Bowl: 8.06
+  Mango Jalapeno Slush: 4.07
+  Sunrise Breakfast Tacos: 7.92
+  Chocolate Mole Brownie: 4.95
+  Chocolate Molten Tamale: 6.34
+  Creamy Queso Dip: 6.19

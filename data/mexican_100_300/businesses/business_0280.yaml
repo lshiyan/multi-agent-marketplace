@@ -1,0 +1,35 @@
+id: business_0280
+name: "Cocina Pi\xF1a Verde"
+description: A modern Mexican-inspired eatery celebrating fresh flavors and vibrant
+  dishes. Enjoy a creative menu featuring bold salsas, hearty bowls, and refreshing
+  drinks in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0094
+menu_features:
+  Pineapple Salsa Pork Tacos: 12.02
+  Tomatillo Ranch Enchiladas: 12.48
+  Hatch Chile Queso Dip: 9.25
+  Golden Tequila Sunrise: 9.08
+  Fajita Veggie Burrito Bowl: 13.31
+  Vegetarian Tamale Platter: 12.41
+  Ancho Honey-Glazed Salmon: 13.72
+  Coconut Lime Rice Bowl: 10.13
+  Roasted Corn Enchiladas: 12.11
+  Spicy Chicken Tortilla Soup: 5.03
+  Creamy Avocado Smoothie: 4.82
+  Black Bean and Avocado Wrap: 10.64
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Pineapple Salsa Pork Tacos: 9.02
+  Tomatillo Ranch Enchiladas: 9.36
+  Hatch Chile Queso Dip: 6.94
+  Golden Tequila Sunrise: 6.81
+  Fajita Veggie Burrito Bowl: 9.98
+  Vegetarian Tamale Platter: 9.31
+  Ancho Honey-Glazed Salmon: 10.29
+  Coconut Lime Rice Bowl: 7.6
+  Roasted Corn Enchiladas: 9.08
+  Spicy Chicken Tortilla Soup: 3.77
+  Creamy Avocado Smoothie: 3.62
+  Black Bean and Avocado Wrap: 7.98

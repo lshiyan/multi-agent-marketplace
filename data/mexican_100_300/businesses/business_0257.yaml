@@ -1,0 +1,45 @@
+id: business_0257
+name: "Casa C\xEDtrica Mexicana"
+description: "Celebrate the vibrant flavors of Mexico and the Southwest at Casa C\xED\
+  trica Mexicana, where fresh ingredients and bold spices come together in every dish.\
+  \ Enjoy a welcoming atmosphere and a delicious array of modern and classic favorites."
+rating: 1.0
+progenitor_customer: customer_0086
+menu_features:
+  Cilantro Lime Rice Bowl: 9.97
+  Crispy Chicken Tostada Bowls: 15.68
+  Coconut Lime Rice Bowl: 10.39
+  Black Bean Street Tacos: 10.75
+  Tamale Trio Sampler: 13.22
+  Huevos Rancheros: 8.7
+  Pineapple Habanero Sake: 8.5
+  Chili Lime Jicama Sticks: 6.03
+  Black Bean Taco Bowl: 7.49
+  Classic Beef Barbacoa: 11.47
+  Spiced Chocolate Tres Leches: 7.35
+  Chocolate Mole Chicken: 14.75
+  Cilantro Lime Chicken Tacos: 10.39
+  Chili Lime Watermelon Salad: 7.24
+  Roasted Tomato Salsa Dip: 3.48
+  Mexican Street Corn Dip: 9.12
+  Loaded Nacho Fiesta: 11.38
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Cilantro Lime Rice Bowl: 9.17
+  Crispy Chicken Tostada Bowls: 14.43
+  Coconut Lime Rice Bowl: 9.56
+  Black Bean Street Tacos: 9.89
+  Tamale Trio Sampler: 12.16
+  Huevos Rancheros: 8.0
+  Pineapple Habanero Sake: 7.82
+  Chili Lime Jicama Sticks: 5.55
+  Black Bean Taco Bowl: 6.89
+  Classic Beef Barbacoa: 10.55
+  Spiced Chocolate Tres Leches: 6.76
+  Chocolate Mole Chicken: 13.57
+  Cilantro Lime Chicken Tacos: 9.56
+  Chili Lime Watermelon Salad: 6.66
+  Roasted Tomato Salsa Dip: 3.2
+  Mexican Street Corn Dip: 8.39
+  Loaded Nacho Fiesta: 10.47

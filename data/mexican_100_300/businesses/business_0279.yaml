@@ -1,0 +1,37 @@
+id: business_0279
+name: Burrito, Churro & Cheers
+description: A vibrant spot serving up festive classics and sweet treats, pairing
+  bold Tex-Mex flavors with playful desserts and refreshing drinks. Come enjoy a warm,
+  lively atmosphere with a delicious twist on tradition.
+rating: 1.0
+progenitor_customer: customer_0093
+menu_features:
+  Rich Chocolate Tres Leches: 5.99
+  Warm Cinnamon Churros: 6.49
+  Pineapple Pico de Gallo Salsa: 7.36
+  Cinnamon Sugar Churros: 4.91
+  Spice-Rubbed Grilled Fajitas: 12.0
+  Frozen Mango Margarita: 5.82
+  Chocolate Mole Brownie: 9.03
+  Passionfruit Agua Fresca: 3.52
+  Carnitas Plantain Burrito: 13.72
+  Roasted Poblano Corn Chowder: 7.46
+  Grilled Pineapple Salsa: 4.68
+  Jalapeno Cheddar Cornbread: 5.79
+  Veggie Fajita Platter: 14.46
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Rich Chocolate Tres Leches: 5.33
+  Warm Cinnamon Churros: 5.78
+  Pineapple Pico de Gallo Salsa: 6.55
+  Cinnamon Sugar Churros: 4.37
+  Spice-Rubbed Grilled Fajitas: 10.68
+  Frozen Mango Margarita: 5.18
+  Chocolate Mole Brownie: 8.04
+  Passionfruit Agua Fresca: 3.13
+  Carnitas Plantain Burrito: 12.21
+  Roasted Poblano Corn Chowder: 6.64
+  Grilled Pineapple Salsa: 4.17
+  Jalapeno Cheddar Cornbread: 5.15
+  Veggie Fajita Platter: 12.87

@@ -1,0 +1,41 @@
+id: business_0244
+name: Lime of the Party
+description: Dive into a fiesta of bold and refreshing flavors with a vibrant menu
+  inspired by modern Mexican and Tex-Mex traditions. At Lime of the Party, every dish
+  brings a burst of zest, spice, and playful creativity to your table.
+rating: 1.0
+progenitor_customer: customer_0082
+menu_features:
+  Chili Lime Watermelon Salad: 6.63
+  Guava Limeade Cooler: 5.36
+  Spicy Chipotle Chicken Wrap: 10.18
+  Choco-Chili Volcano Cake: 9.21
+  Ranchero Eggs Benedict: 11.62
+  Spicy Cucumber Margarita: 6.39
+  Chipotle Bean Burrito: 8.34
+  Chili Lime Jicama Sticks: 6.95
+  Avocado & Tomato Breakfast Tostadas: 10.42
+  Classic Beef Barbacoa: 14.24
+  Citrus Cilantro Rice: 5.8
+  Pomegranate Agua Fresca: 4.15
+  Pico de Gallo Chicken Salad: 6.99
+  Honey-Lime Grilled Shrimp: 13.77
+  Breakfast Burrito Bonanza: 8.12
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Chili Lime Watermelon Salad: 4.97
+  Guava Limeade Cooler: 4.02
+  Spicy Chipotle Chicken Wrap: 7.63
+  Choco-Chili Volcano Cake: 6.91
+  Ranchero Eggs Benedict: 8.71
+  Spicy Cucumber Margarita: 4.79
+  Chipotle Bean Burrito: 6.25
+  Chili Lime Jicama Sticks: 5.21
+  Avocado & Tomato Breakfast Tostadas: 7.81
+  Classic Beef Barbacoa: 10.68
+  Citrus Cilantro Rice: 4.35
+  Pomegranate Agua Fresca: 3.11
+  Pico de Gallo Chicken Salad: 5.24
+  Honey-Lime Grilled Shrimp: 10.33
+  Breakfast Burrito Bonanza: 6.09

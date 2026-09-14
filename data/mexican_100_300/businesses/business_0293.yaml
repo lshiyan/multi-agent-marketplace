@@ -1,0 +1,45 @@
+id: business_0293
+name: Dip, Sip & Flan-tastic
+description: Celebrate bold flavors and sweet finishes at this vibrant spot serving
+  crave-worthy dips, refreshing drinks, and irresistible desserts. Dive into the heart
+  of Mexican and Tex-Mex cuisine with every cheerful bite and sip.
+rating: 1.0
+progenitor_customer: customer_0098
+menu_features:
+  Roasted Tomato Salsa Dip: 3.33
+  Chocolate Sopapilla Bites: 4.72
+  Fresh Lime and Cilantro Guacamole: 10.44
+  Horchata Latte: 5.46
+  Flan with Caramel Drizzle: 4.62
+  Cinnamon Churro Bites: 4.49
+  Chili Lime Skirt Steak: 18.41
+  Stuffed Avocado Delight: 7.61
+  Pineapple Pico de Gallo Nachos: 10.95
+  Fiesta Street Corn: 5.63
+  Mexican Coffee Flan: 5.85
+  Jicama and Citrus Salad: 8.22
+  Sizzling Beef Alambre: 12.03
+  Spicy Black Bean Nacho Platter: 10.39
+  Black Bean Avocado Enchiladas: 11.3
+  Loaded Chorizo Nachos: 8.58
+  Smoky Black Bean Tostadas: 8.83
+amenity_features: {}
+min_price_factor: 0.95
+minimum_menu_prices:
+  Roasted Tomato Salsa Dip: 3.16
+  Chocolate Sopapilla Bites: 4.48
+  Fresh Lime and Cilantro Guacamole: 9.92
+  Horchata Latte: 5.19
+  Flan with Caramel Drizzle: 4.39
+  Cinnamon Churro Bites: 4.27
+  Chili Lime Skirt Steak: 17.49
+  Stuffed Avocado Delight: 7.23
+  Pineapple Pico de Gallo Nachos: 10.4
+  Fiesta Street Corn: 5.35
+  Mexican Coffee Flan: 5.56
+  Jicama and Citrus Salad: 7.81
+  Sizzling Beef Alambre: 11.43
+  Spicy Black Bean Nacho Platter: 9.87
+  Black Bean Avocado Enchiladas: 10.73
+  Loaded Chorizo Nachos: 8.15
+  Smoky Black Bean Tostadas: 8.39

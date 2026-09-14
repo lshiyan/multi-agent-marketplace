@@ -1,0 +1,35 @@
+id: business_0125
+name: Cilantro & Sunrise
+description: "Cilantro & Sunrise invites you to enjoy vibrant Mexican and Tex-Mex\
+  \ flavors in a fresh, modern setting. Savor zesty classics from sizzling skillets\
+  \ to refreshing ceviche\u2014perfect for sharing with friends and family."
+rating: 1.0
+progenitor_customer: customer_0042
+menu_features:
+  Cilantro Lime Chicken Tacos: 10.55
+  Ranchero Steak Fajitas: 13.52
+  Tex-Mex Breakfast Skillet: 6.01
+  Chipotle Lime Chicken Skewers: 9.41
+  Honey Chipotle Shrimp Bowl: 17.06
+  Black Bean & Cheese Enchiladas: 11.92
+  Avocado Lime Empanadas: 7.96
+  Frozen Strawberry Daiquiri: 8.56
+  Veggie Fajita Platter: 12.17
+  Fiesta Street Corn: 4.55
+  Sea Breeze Ceviche: 11.63
+  Tequila Lime Flan: 7.96
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Cilantro Lime Chicken Tacos: 6.54
+  Ranchero Steak Fajitas: 8.38
+  Tex-Mex Breakfast Skillet: 3.73
+  Chipotle Lime Chicken Skewers: 5.83
+  Honey Chipotle Shrimp Bowl: 10.58
+  Black Bean & Cheese Enchiladas: 7.39
+  Avocado Lime Empanadas: 4.94
+  Frozen Strawberry Daiquiri: 5.31
+  Veggie Fajita Platter: 7.55
+  Fiesta Street Corn: 2.82
+  Sea Breeze Ceviche: 7.21
+  Tequila Lime Flan: 4.94

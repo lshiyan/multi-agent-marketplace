@@ -1,0 +1,37 @@
+id: business_0263
+name: Agave Ember Kitchen
+description: Agave Ember Kitchen brings together vibrant Mexican and Tex-Mex flavors
+  in a stylish, contemporary setting. Enjoy creative takes on timeless classics paired
+  with fresh, bold drinks and a lively atmosphere.
+rating: 1.0
+progenitor_customer: customer_0088
+menu_features:
+  Roasted Corn Enchiladas: 11.17
+  Black Bean Chili Bowl: 12.2
+  Caramelized Onion and Goat Cheese Empanadas: 7.5
+  "Blueberry Jalape\xF1o Margarita": 10.54
+  Cheesy Jalapeno Queso: 7.18
+  Spiced Agave Margarita: 7.65
+  Lime-Garlic Grilled Chicken: 16.46
+  Fresh Watermelon Aqua Fresca: 3.75
+  Mesquite Grilled Steak Fajitas: 16.19
+  Mango Habanero Margarita: 10.81
+  Spicy Shrimp Nacho Platter: 11.82
+  Stuffed Avocado Delight: 7.79
+  Creamy Poblano Corn Chowder: 7.81
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Roasted Corn Enchiladas: 6.93
+  Black Bean Chili Bowl: 7.56
+  Caramelized Onion and Goat Cheese Empanadas: 4.65
+  "Blueberry Jalape\xF1o Margarita": 6.53
+  Cheesy Jalapeno Queso: 4.45
+  Spiced Agave Margarita: 4.74
+  Lime-Garlic Grilled Chicken: 10.21
+  Fresh Watermelon Aqua Fresca: 2.33
+  Mesquite Grilled Steak Fajitas: 10.04
+  Mango Habanero Margarita: 6.7
+  Spicy Shrimp Nacho Platter: 7.33
+  Stuffed Avocado Delight: 4.83
+  Creamy Poblano Corn Chowder: 4.84

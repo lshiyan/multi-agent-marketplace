@@ -1,0 +1,39 @@
+id: business_0048
+name: Tierra Roja Cantina
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  inviting setting. Tierra Roja Cantina celebrates fresh ingredients and bold spices,
+  offering a delicious twist on Tex-Mex classics and Mexican favorites.
+rating: 1.0
+progenitor_customer: customer_0016
+menu_features:
+  Vanilla Flan Delight: 5.38
+  Ancho Chili Spiced Ribs: 14.69
+  Spicy Chocolate Churros: 5.46
+  Spiked Horchata Cooler: 10.32
+  Red Chili Braised Beef Brisket: 14.93
+  Black Bean Chili Bowl: 11.89
+  Avocado Lime Quinoa Bowl: 8.92
+  Chili Lime Skirt Steak: 13.61
+  Tex-Mex Breakfast Skillet: 11.35
+  "Spicy Jalape\xF1o Limeade": 3.11
+  Braised Beef Barbacoa Tacos: 13.14
+  Southwest Chopped Salad: 10.25
+  Ultimate Nacho Platter: 7.94
+  Creamy Avocado Caesar Salad: 11.49
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Vanilla Flan Delight: 4.79
+  Ancho Chili Spiced Ribs: 13.07
+  Spicy Chocolate Churros: 4.86
+  Spiked Horchata Cooler: 9.18
+  Red Chili Braised Beef Brisket: 13.29
+  Black Bean Chili Bowl: 10.58
+  Avocado Lime Quinoa Bowl: 7.94
+  Chili Lime Skirt Steak: 12.11
+  Tex-Mex Breakfast Skillet: 10.1
+  "Spicy Jalape\xF1o Limeade": 2.77
+  Braised Beef Barbacoa Tacos: 11.69
+  Southwest Chopped Salad: 9.12
+  Ultimate Nacho Platter: 7.07
+  Creamy Avocado Caesar Salad: 10.23

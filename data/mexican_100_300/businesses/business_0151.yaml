@@ -1,0 +1,39 @@
+id: business_0151
+name: Nacho Typical Grill
+description: Fresh, bold, and a little unexpected, Nacho Typical Grill spices up classic
+  Mexican and Tex-Mex favorites with vibrant flavors and creative twists. From sizzling
+  fajitas to margaritas with a kick, every dish is a fiesta on your plate.
+rating: 1.0
+progenitor_customer: customer_0051
+menu_features:
+  Carne Asada Nachos: 12.07
+  "Blueberry Jalape\xF1o Margarita": 9.93
+  Sweet and Spicy Chicken Tostadas: 11.42
+  Avocado Lime Grilled Shrimp: 18.02
+  Horchata Milkshake: 6.13
+  Mesquite Grilled Steak Fajitas: 14.69
+  Cilantro Lime Grilled Shrimp: 14.99
+  Zesty Lime Chicken Enchiladas: 14.93
+  Classic Beef Enchiladas: 10.52
+  Grilled Steak Quesadilla: 13.26
+  Passionfruit Agua Fresca: 3.36
+  Garlic Lime Shrimp Salad: 12.59
+  Chocolate Cinnamon Flan: 5.51
+  Fresh Mango Salsa Nachos: 7.82
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Carne Asada Nachos: 9.05
+  "Blueberry Jalape\xF1o Margarita": 7.45
+  Sweet and Spicy Chicken Tostadas: 8.56
+  Avocado Lime Grilled Shrimp: 13.52
+  Horchata Milkshake: 4.6
+  Mesquite Grilled Steak Fajitas: 11.02
+  Cilantro Lime Grilled Shrimp: 11.24
+  Zesty Lime Chicken Enchiladas: 11.2
+  Classic Beef Enchiladas: 7.89
+  Grilled Steak Quesadilla: 9.95
+  Passionfruit Agua Fresca: 2.52
+  Garlic Lime Shrimp Salad: 9.44
+  Chocolate Cinnamon Flan: 4.13
+  Fresh Mango Salsa Nachos: 5.87

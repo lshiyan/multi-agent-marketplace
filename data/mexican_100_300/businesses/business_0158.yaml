@@ -1,0 +1,42 @@
+id: business_0158
+name: Blue Agave Bruncheria
+description: A vibrant, modern spot serving up fresh takes on classic Mexican and
+  Tex-Mex flavors, from sizzling skillets to sweet and creative desserts. Join us
+  for a bright brunch or an evening in, complemented by inspired cocktails and handcrafted
+  aguas frescas.
+rating: 1.0
+progenitor_customer: customer_0053
+menu_features:
+  Sizzling Chicken Fajitas: 12.71
+  Chorizo and Egg Tacos: 7.06
+  Coconut Tres Leches: 6.95
+  Classic Horchata Smoothie: 4.72
+  Frozen Strawberry Daiquiri: 9.92
+  Tres Leches Cake: 7.0
+  "Cheesy Jalape\xF1o Poppers": 7.05
+  "Blueberry Jalape\xF1o Margarita": 12.84
+  Breakfast Burrito Bonanza: 8.01
+  Chipotle Chicken Enchiladas: 16.52
+  Coconut Lime Tres Leches: 5.19
+  Mexican Chocolate Flan: 6.58
+  Blueberry Agave Agua Fresca: 5.2
+  Classic Beef Enchiladas: 11.79
+  Raspberry Jalapeno Mojito: 9.78
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Sizzling Chicken Fajitas: 10.3
+  Chorizo and Egg Tacos: 5.72
+  Coconut Tres Leches: 5.63
+  Classic Horchata Smoothie: 3.82
+  Frozen Strawberry Daiquiri: 8.04
+  Tres Leches Cake: 5.67
+  "Cheesy Jalape\xF1o Poppers": 5.71
+  "Blueberry Jalape\xF1o Margarita": 10.4
+  Breakfast Burrito Bonanza: 6.49
+  Chipotle Chicken Enchiladas: 13.38
+  Coconut Lime Tres Leches: 4.2
+  Mexican Chocolate Flan: 5.33
+  Blueberry Agave Agua Fresca: 4.21
+  Classic Beef Enchiladas: 9.55
+  Raspberry Jalapeno Mojito: 7.92

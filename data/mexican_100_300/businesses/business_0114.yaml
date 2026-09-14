@@ -1,0 +1,41 @@
+id: business_0114
+name: Cascabel Cocina Mexicana
+description: Experience a vibrant celebration of Mexican flavors with sizzling skillets,
+  fresh salsas, and creative cocktails in an inviting, lively setting. Each dish is
+  crafted with bold spices and fresh ingredients for a memorable dining adventure.
+rating: 1.0
+progenitor_customer: customer_0038
+menu_features:
+  Beef Fajita Skillet: 15.76
+  Spicy Chipotle Chicken Wings: 8.16
+  Vanilla Cinnamon Horchata: 3.3
+  Blueberry Jalapeno Margarita: 9.84
+  Mango Habanero Margarita: 9.09
+  Crispy Avocado Tostadas: 10.23
+  Fiesta Street Corn: 4.88
+  Coconut Lime Shrimp Skewers: 16.23
+  Spiced Churro Bites: 5.95
+  Blueberry Agave Mojito: 10.52
+  Fresh Mango Salsa Nachos: 7.59
+  Black Bean Avocado Tostadas: 13.23
+  Grilled Shrimp Fajita Bowl: 15.42
+  Smoky Black Bean Tostadas: 8.17
+  Coconut Lime Margarita: 8.92
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Beef Fajita Skillet: 14.34
+  Spicy Chipotle Chicken Wings: 7.43
+  Vanilla Cinnamon Horchata: 3.0
+  Blueberry Jalapeno Margarita: 8.95
+  Mango Habanero Margarita: 8.27
+  Crispy Avocado Tostadas: 9.31
+  Fiesta Street Corn: 4.44
+  Coconut Lime Shrimp Skewers: 14.77
+  Spiced Churro Bites: 5.41
+  Blueberry Agave Mojito: 9.57
+  Fresh Mango Salsa Nachos: 6.91
+  Black Bean Avocado Tostadas: 12.04
+  Grilled Shrimp Fajita Bowl: 14.03
+  Smoky Black Bean Tostadas: 7.43
+  Coconut Lime Margarita: 8.12

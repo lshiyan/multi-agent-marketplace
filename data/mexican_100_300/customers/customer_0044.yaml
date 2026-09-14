@@ -1,0 +1,11 @@
+id: customer_0044
+name: Aisha Khan
+request: 'Could you please assist me in finding a business that offers the following
+  menu items: 1 Passion Fruit Agua Fresca, 1 Black Bean and Corn Salsa, and 1 Peppered
+  Steak Nachos? My intention is to proceed with placing an order for these items.
+  Thank you for your help.'
+menu_features:
+  Passion Fruit Agua Fresca: 3.99
+  Black Bean and Corn Salsa: 4.99
+  Peppered Steak Nachos: 11.49
+amenity_features: []

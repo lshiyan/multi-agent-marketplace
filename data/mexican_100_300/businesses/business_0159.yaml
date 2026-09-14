@@ -1,0 +1,33 @@
+id: business_0159
+name: El Mesquite Azul
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  inviting atmosphere. El Mesquite Azul serves up creative appetizers, grilled favorites,
+  fresh cocktails, and decadent desserts inspired by classic cantina traditions.
+rating: 1.0
+progenitor_customer: customer_0053
+menu_features:
+  Mexican Street Corn Dip: 7.09
+  Vanilla Flan Delight: 5.09
+  Frozen Strawberry Daiquiri: 8.8
+  Tamarind Ginger Cooler: 4.54
+  Mesquite Grilled Steak Fajitas: 13.6
+  Blue Corn Tortilla Chips: 5.0
+  Lime-Garlic Grilled Chicken: 16.45
+  Chipotle BBQ Tacos: 13.09
+  Crispy Avocado Nachos: 8.29
+  "Cheesy Jalape\xF1o Poppers": 8.1
+  Sweet Potato and Black Bean Tacos: 14.68
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Mexican Street Corn Dip: 4.89
+  Vanilla Flan Delight: 3.51
+  Frozen Strawberry Daiquiri: 6.07
+  Tamarind Ginger Cooler: 3.13
+  Mesquite Grilled Steak Fajitas: 9.38
+  Blue Corn Tortilla Chips: 3.45
+  Lime-Garlic Grilled Chicken: 11.35
+  Chipotle BBQ Tacos: 9.03
+  Crispy Avocado Nachos: 5.72
+  "Cheesy Jalape\xF1o Poppers": 5.59
+  Sweet Potato and Black Bean Tacos: 10.13

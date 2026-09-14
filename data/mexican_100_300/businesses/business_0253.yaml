@@ -1,0 +1,35 @@
+id: business_0253
+name: Smoky Citrus Cantina
+description: Experience vibrant Mexican and Tex-Mex flavors with a modern twist, featuring
+  smoky spices, fresh citrus, and bold, garden-inspired dishes in a lively, contemporary
+  setting.
+rating: 1.0
+progenitor_customer: customer_0085
+menu_features:
+  Smoky Ancho Chicken Enchiladas: 11.0
+  Chipotle Bean Burrito: 10.39
+  Crispy Avocado Bites: 8.91
+  Grilled Pineapple Salmon: 20.06
+  Coconut Lime Margarita: 8.77
+  Sweet Corn Tostadas: 7.76
+  Spicy Black Bean Nacho Platter: 10.84
+  Southwest Chopped Salad: 9.22
+  Smoky Black Bean Nachos: 10.71
+  Passionfruit Agua Fresca: 2.38
+  Grilled Avocado and Quinoa Bowl: 9.85
+  Ancho Chile BBQ Ribs: 16.74
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Smoky Ancho Chicken Enchiladas: 8.36
+  Chipotle Bean Burrito: 7.9
+  Crispy Avocado Bites: 6.77
+  Grilled Pineapple Salmon: 15.25
+  Coconut Lime Margarita: 6.67
+  Sweet Corn Tostadas: 5.9
+  Spicy Black Bean Nacho Platter: 8.24
+  Southwest Chopped Salad: 7.01
+  Smoky Black Bean Nachos: 8.14
+  Passionfruit Agua Fresca: 1.81
+  Grilled Avocado and Quinoa Bowl: 7.49
+  Ancho Chile BBQ Ribs: 12.72

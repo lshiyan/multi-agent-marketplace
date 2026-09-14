@@ -1,0 +1,36 @@
+id: business_0138
+name: Lime Leaf Lounge
+description: Step into a vibrant oasis where zesty flavors meet bold creativity. Enjoy
+  a fresh take on Mexican and Tex-Mex classics in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0046
+menu_features:
+  Coconut Lime Margarita: 10.52
+  Spice-Rubbed Grilled Fajitas: 15.89
+  Blue Corn Tortilla Chips: 5.52
+  Black Bean Street Tacos: 9.27
+  Hatch Green Chile Burger: 11.04
+  Chipotle Lime Shrimp Tacos: 14.56
+  Tamarind-Glazed Ribs: 16.53
+  Breakfast Burrito Bonanza: 8.03
+  Honey-Lime Shrimp Skewers: 14.37
+  Street Corn Elote: 4.34
+  Loaded Nacho Fries: 8.98
+  Avocado Lime Quinoa Bowl: 11.94
+  Cheesy Jalapeno Poppers: 8.16
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Coconut Lime Margarita: 6.94
+  Spice-Rubbed Grilled Fajitas: 10.49
+  Blue Corn Tortilla Chips: 3.64
+  Black Bean Street Tacos: 6.12
+  Hatch Green Chile Burger: 7.29
+  Chipotle Lime Shrimp Tacos: 9.61
+  Tamarind-Glazed Ribs: 10.91
+  Breakfast Burrito Bonanza: 5.3
+  Honey-Lime Shrimp Skewers: 9.48
+  Street Corn Elote: 2.86
+  Loaded Nacho Fries: 5.93
+  Avocado Lime Quinoa Bowl: 7.88
+  Cheesy Jalapeno Poppers: 5.39

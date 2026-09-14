@@ -1,0 +1,35 @@
+id: business_0062
+name: "Saz\xF3n & Shrimp"
+description: Discover vibrant, modern Mexican and Tex-Mex cuisine with bold flavors,
+  fresh ingredients, and creative twists on classic favorites. Perfect for anyone
+  craving a lively dining experience with a touch of coastal flair.
+rating: 1.0
+progenitor_customer: customer_0021
+menu_features:
+  Avocado Lime Grilled Shrimp: 11.32
+  Avocado Lime Empanadas: 8.04
+  Adobo Pork Sliders: 11.21
+  Blueberry Agave Agua Fresca: 4.55
+  Coconut Tres Leches: 6.6
+  Vanilla Flan Delight: 4.98
+  Ranchero Steak Fajitas: 14.74
+  Cinnamon Sugar Churro Sticks: 5.74
+  Carnitas Breakfast Burrito: 11.9
+  Queso Fundido Supreme: 8.19
+  Chocolate Mole Brownie: 5.95
+  Three Cheese Sope: 7.78
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Avocado Lime Grilled Shrimp: 9.74
+  Avocado Lime Empanadas: 6.91
+  Adobo Pork Sliders: 9.64
+  Blueberry Agave Agua Fresca: 3.91
+  Coconut Tres Leches: 5.68
+  Vanilla Flan Delight: 4.28
+  Ranchero Steak Fajitas: 12.68
+  Cinnamon Sugar Churro Sticks: 4.94
+  Carnitas Breakfast Burrito: 10.23
+  Queso Fundido Supreme: 7.04
+  Chocolate Mole Brownie: 5.12
+  Three Cheese Sope: 6.69

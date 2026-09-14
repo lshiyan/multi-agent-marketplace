@@ -1,0 +1,41 @@
+id: business_0037
+name: El Sabor del Valle
+description: Experience vibrant Mexican and Tex-Mex flavors, crafted with fresh ingredients
+  and bold spices in a warm, inviting setting. From zesty grilled specialties to decadent
+  desserts, every dish celebrates the rich culinary traditions of Mexico.
+rating: 1.0
+progenitor_customer: customer_0013
+menu_features:
+  Garlic Lime Shrimp Salad: 13.09
+  Crispy Chicken Tostada Bowls: 14.13
+  Stuffed Poblano Peppers: 12.7
+  Vanilla Flan Delight: 6.94
+  Spiced Chocolate Tres Leches: 6.73
+  Breakfast Burrito Supreme: 6.61
+  Blueberry Agave Margarita: 11.06
+  Spicy Chipotle Chicken Wings: 8.85
+  Smoky Chipotle Steak Fajitas: 14.36
+  Spicy Chocolate Churros: 4.66
+  Zesty Lime Grilled Chicken: 14.66
+  Smoky Ancho Chicken Enchiladas: 14.74
+  Poblano Pepper Relleno Plate: 13.43
+  Crispy Carnitas Quesadilla: 10.45
+  Sweet Corn Tamale Cake: 8.57
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Garlic Lime Shrimp Salad: 7.98
+  Crispy Chicken Tostada Bowls: 8.62
+  Stuffed Poblano Peppers: 7.75
+  Vanilla Flan Delight: 4.23
+  Spiced Chocolate Tres Leches: 4.11
+  Breakfast Burrito Supreme: 4.03
+  Blueberry Agave Margarita: 6.75
+  Spicy Chipotle Chicken Wings: 5.4
+  Smoky Chipotle Steak Fajitas: 8.76
+  Spicy Chocolate Churros: 2.84
+  Zesty Lime Grilled Chicken: 8.94
+  Smoky Ancho Chicken Enchiladas: 8.99
+  Poblano Pepper Relleno Plate: 8.19
+  Crispy Carnitas Quesadilla: 6.37
+  Sweet Corn Tamale Cake: 5.23

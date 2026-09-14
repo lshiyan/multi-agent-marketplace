@@ -1,0 +1,42 @@
+id: business_0241
+name: Modern Mesa Grill
+description: Modern Mesa Grill brings the vibrant flavors of contemporary Mexican
+  and Tex-Mex cuisine to your table, spotlighting sizzling plates, bold spices, and
+  fresh, creative fare. Enjoy a lively atmosphere where classic favorites meet inventive
+  twists, perfect for any gathering.
+rating: 1.0
+progenitor_customer: customer_0081
+menu_features:
+  Carne Asada Nachos: 12.86
+  Smoky Chipotle Black Bean Soup: 7.97
+  Crispy Fish Tacos: 11.97
+  Spicy Shrimp Fajitas: 15.41
+  Mesquite Grilled Steak Fajitas: 14.45
+  Stuffed Chicken Poblano: 14.69
+  Horchata Cold Brew Coffee: 4.88
+  Veggie Fajita Platter: 14.03
+  Grilled Pineapple Salsa: 7.23
+  Passion Fruit Mojito: 8.63
+  Sizzling Pork Carnitas Bowl: 12.36
+  Breakfast Chorizo Tostadas: 11.03
+  Vanilla Flan with Caramel Sauce: 5.26
+  Pork Carnitas Platter: 15.24
+  Smoky Chipotle BBQ Ribs: 17.19
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Carne Asada Nachos: 8.23
+  Smoky Chipotle Black Bean Soup: 5.1
+  Crispy Fish Tacos: 7.66
+  Spicy Shrimp Fajitas: 9.86
+  Mesquite Grilled Steak Fajitas: 9.25
+  Stuffed Chicken Poblano: 9.4
+  Horchata Cold Brew Coffee: 3.12
+  Veggie Fajita Platter: 8.98
+  Grilled Pineapple Salsa: 4.63
+  Passion Fruit Mojito: 5.52
+  Sizzling Pork Carnitas Bowl: 7.91
+  Breakfast Chorizo Tostadas: 7.06
+  Vanilla Flan with Caramel Sauce: 3.37
+  Pork Carnitas Platter: 9.75
+  Smoky Chipotle BBQ Ribs: 11.0

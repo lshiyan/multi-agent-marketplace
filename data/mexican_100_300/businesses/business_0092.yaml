@@ -1,0 +1,33 @@
+id: business_0092
+name: Sabrosa Urban Kitchen
+description: Experience a fresh twist on Mexican and Tex-Mex flavors with bold street
+  food favorites, vibrant salads, and decadent desserts. At Sabrosa Urban Kitchen,
+  every bite is crafted to delight and surprise in a bright, modern setting.
+rating: 1.0
+progenitor_customer: customer_0031
+menu_features:
+  Chocolate Dipped Flan: 6.92
+  Street Corn Elote: 5.65
+  Stuffed Chicken Poblano: 13.21
+  Spicy Black Bean Nacho Platter: 12.11
+  Avocado Lime Enchiladas: 11.07
+  Classic Beef Tacos with Zesty Slaw: 9.43
+  Mexican Chocolate Flan: 6.89
+  Roasted Corn and Avocado Salad: 8.27
+  Tamarind Ginger Cooler: 4.85
+  Adobo Pork Sliders: 9.77
+  Smoky Black Bean Soup: 7.11
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Chocolate Dipped Flan: 5.61
+  Street Corn Elote: 4.58
+  Stuffed Chicken Poblano: 10.7
+  Spicy Black Bean Nacho Platter: 9.81
+  Avocado Lime Enchiladas: 8.97
+  Classic Beef Tacos with Zesty Slaw: 7.64
+  Mexican Chocolate Flan: 5.58
+  Roasted Corn and Avocado Salad: 6.7
+  Tamarind Ginger Cooler: 3.93
+  Adobo Pork Sliders: 7.91
+  Smoky Black Bean Soup: 5.76

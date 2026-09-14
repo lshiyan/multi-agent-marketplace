@@ -1,0 +1,10 @@
+id: customer_0093
+name: Ava Wilson
+request: 'Could you please assist me in finding a business that offers the following
+  menu items: 1 Carnitas Plantain Burrito and 1 Jalapeno Cheddar Cornbread? It''s
+  important that the business meets all these requirements, as I intend to place an
+  order for these items. Thank you for your help!'
+menu_features:
+  Carnitas Plantain Burrito: 12.49
+  Jalapeno Cheddar Cornbread: 4.99
+amenity_features: []

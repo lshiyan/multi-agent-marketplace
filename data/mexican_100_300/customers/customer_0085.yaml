@@ -1,0 +1,11 @@
+id: customer_0085
+name: Mia Anderson
+request: 'I am looking to place an order for some specific menu items and need your
+  assistance in finding a business that can fulfill my request. The items I need are:
+  1 Crispy Avocado Bites and 1 Smoky Ancho Chicken Enchiladas. It''s important that
+  the business can provide both of these items. Once you find such a business, I intend
+  to place the order immediately. Thank you for your help.'
+menu_features:
+  Crispy Avocado Bites: 8.49
+  Smoky Ancho Chicken Enchiladas: 12.99
+amenity_features: []

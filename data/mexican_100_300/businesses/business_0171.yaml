@@ -1,0 +1,39 @@
+id: business_0171
+name: Chili & Churro Corner
+description: Experience vibrant Mexican and Tex-Mex flavors at Chili & Churro Corner,
+  where savory classics meet irresistible sweets. From tantalizing chiles to decadent
+  chocolate delights, you're in for a deliciously unique dining adventure.
+rating: 1.0
+progenitor_customer: customer_0057
+menu_features:
+  Hatch Green Chile Quesadilla: 12.19
+  Cilantro Lime Shrimp Skewers: 12.31
+  Spicy Chocolate Churros: 4.69
+  Cocoa Cinnamon Tequila: 11.64
+  Spiced Churro Bites: 6.02
+  Vanilla Flan with Caramel Sauce: 7.63
+  Blue Corn Enchilada Bake: 11.24
+  Classic Horchata Smoothie: 4.26
+  Pineapple Salsa Pork Tacos: 14.1
+  Grilled Shrimp Quesadilla: 13.77
+  Black Bean Chili Bowl: 8.38
+  Avocado Street Tacos: 11.39
+  Stuffed Avocado Boats: 10.03
+  Twisted Tequila Sunrise: 9.61
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Hatch Green Chile Quesadilla: 10.36
+  Cilantro Lime Shrimp Skewers: 10.46
+  Spicy Chocolate Churros: 3.99
+  Cocoa Cinnamon Tequila: 9.89
+  Spiced Churro Bites: 5.12
+  Vanilla Flan with Caramel Sauce: 6.49
+  Blue Corn Enchilada Bake: 9.55
+  Classic Horchata Smoothie: 3.62
+  Pineapple Salsa Pork Tacos: 11.98
+  Grilled Shrimp Quesadilla: 11.7
+  Black Bean Chili Bowl: 7.12
+  Avocado Street Tacos: 9.68
+  Stuffed Avocado Boats: 8.53
+  Twisted Tequila Sunrise: 8.17

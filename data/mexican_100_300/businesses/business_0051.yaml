@@ -1,0 +1,35 @@
+id: business_0051
+name: Guac to the Future
+description: Bright, bold flavors and creative twists await at this playful Tex-Mex
+  hotspot. Enjoy fresh takes on classic favorites and inventive drinks in a fun, vibrant
+  setting.
+rating: 1.0
+progenitor_customer: customer_0017
+menu_features:
+  Veggie Fajita Platter: 13.27
+  Tropical Guava Mint Punch: 5.86
+  Honey Lime Chicken Skewers: 11.92
+  Coconut Lime Tres Leches: 6.54
+  Three-Cheese Queso Dip: 7.34
+  Fiesta Street Corn: 4.84
+  Black Bean & Cheese Tostadas: 9.92
+  Horchata Latte: 4.31
+  Breakfast Tostada Stack: 10.59
+  Cilantro Lime Chicken Tacos: 9.35
+  Stuffed Avocado Delight: 7.74
+  Crispy Avocado Burrito: 13.99
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Veggie Fajita Platter: 9.69
+  Tropical Guava Mint Punch: 4.28
+  Honey Lime Chicken Skewers: 8.7
+  Coconut Lime Tres Leches: 4.77
+  Three-Cheese Queso Dip: 5.36
+  Fiesta Street Corn: 3.53
+  Black Bean & Cheese Tostadas: 7.24
+  Horchata Latte: 3.15
+  Breakfast Tostada Stack: 7.73
+  Cilantro Lime Chicken Tacos: 6.83
+  Stuffed Avocado Delight: 5.65
+  Crispy Avocado Burrito: 10.21

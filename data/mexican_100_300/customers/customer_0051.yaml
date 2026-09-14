@@ -1,0 +1,12 @@
+id: customer_0051
+name: Anna Kim
+request: 'Could you please assist me in finding a business that can fulfill my specific
+  order needs? I would like to place an order for the following menu items: 1 Cilantro
+  Lime Grilled Shrimp, 1 Horchata Milkshake, and 1 Sweet and Spicy Chicken Tostada.
+  It is important that the business offers all these items on their menu. Thank you
+  for your assistance.'
+menu_features:
+  Cilantro Lime Grilled Shrimp: 13.49
+  Horchata Milkshake: 5.99
+  Sweet and Spicy Chicken Tostadas: 10.99
+amenity_features: []

@@ -1,0 +1,12 @@
+id: customer_0039
+name: Rajesh Gupta
+request: 'I would like to place an order with a business that serves the following
+  items: 1 Zesty Lime Shrimp Skewers, 1 Spicy Black Bean Enchiladas, and 1 Grilled
+  Pineapple Mojito. It is important that the business offers all these specific items
+  together. Please assist in finding such a business, as I intend to purchase these
+  items.'
+menu_features:
+  Zesty Lime Shrimp Skewers: 13.99
+  Spicy Black Bean Enchiladas: 10.99
+  Grilled Pineapple Mojito: 8.49
+amenity_features: []

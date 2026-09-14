@@ -1,0 +1,40 @@
+id: business_0160
+name: "Mesa Dulce & Saz\xF3n"
+description: "Savor bold, contemporary Mexican and Tex-Mex flavors in a vibrant setting,\
+  \ where fresh ingredients and creative culinary twists bring every dish to life.\
+  \ From zesty starters to indulgent desserts, Mesa Dulce & Saz\xF3n is your destination\
+  \ for a unique taste adventure."
+rating: 1.0
+progenitor_customer: customer_0054
+menu_features:
+  Black Bean and Sweet Potato Empanadas: 8.99
+  Stuffed Poblano Peppers: 14.94
+  Avocado Lime Salsa: 4.62
+  Fresh Mango Salsa Nachos: 7.93
+  Chipotle Lime Shrimp Tacos: 14.63
+  Chocolate Sopapilla Bites: 5.88
+  Caramelized Banana Flan: 7.33
+  Roasted Poblano Queso Dip: 8.32
+  Caramel Corn Flan: 5.92
+  Breakfast Tostada Stack: 10.87
+  Zesty Shrimp Quesadillas: 14.94
+  Queso Fundido with Chorizo: 8.39
+  Rich Chocolate Tamales: 6.09
+  Tamarind Glazed Wings: 12.37
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Black Bean and Sweet Potato Empanadas: 6.11
+  Stuffed Poblano Peppers: 10.16
+  Avocado Lime Salsa: 3.14
+  Fresh Mango Salsa Nachos: 5.39
+  Chipotle Lime Shrimp Tacos: 9.95
+  Chocolate Sopapilla Bites: 4.0
+  Caramelized Banana Flan: 4.98
+  Roasted Poblano Queso Dip: 5.66
+  Caramel Corn Flan: 4.03
+  Breakfast Tostada Stack: 7.39
+  Zesty Shrimp Quesadillas: 10.16
+  Queso Fundido with Chorizo: 5.71
+  Rich Chocolate Tamales: 4.14
+  Tamarind Glazed Wings: 8.41

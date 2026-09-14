@@ -1,0 +1,43 @@
+id: business_0231
+name: "Saz\xF3n de Canela"
+description: Experience the bold flavors and vibrant spirit of Mexican and Tex-Mex
+  cuisine in a warm, welcoming atmosphere. From sizzling meats to decadent chocolate
+  desserts, every dish is crafted to delight your senses.
+rating: 1.0
+progenitor_customer: customer_0077
+menu_features:
+  Breakfast Burrito Bowl: 8.28
+  "Cheesy Jalape\xF1o Queso Dip": 8.18
+  Hatch Green Chile Quesadilla: 12.12
+  Mexican Chocolate Flan: 6.09
+  Chocolate Cinnamon Flan: 7.82
+  Smoky BBQ Pork Tostadas: 12.85
+  Sizzling Carne Asada: 15.15
+  Citrus Grilled Chicken Tacos: 12.55
+  Mexican Hot Chocolate: 4.52
+  Rich Chocolate Tres Leches: 7.52
+  Roasted Tomato Salsa Dip: 3.66
+  Cilantro Lime Shrimp Skewers: 13.07
+  Black Bean Avocado Enchiladas: 11.33
+  Spicy Chorizo Enchiladas: 12.45
+  Blueberry Agave Mojito: 9.06
+  Smoky Chipotle BBQ Ribs: 17.22
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Breakfast Burrito Bowl: 5.38
+  "Cheesy Jalape\xF1o Queso Dip": 5.32
+  Hatch Green Chile Quesadilla: 7.88
+  Mexican Chocolate Flan: 3.96
+  Chocolate Cinnamon Flan: 5.08
+  Smoky BBQ Pork Tostadas: 8.35
+  Sizzling Carne Asada: 9.85
+  Citrus Grilled Chicken Tacos: 8.16
+  Mexican Hot Chocolate: 2.94
+  Rich Chocolate Tres Leches: 4.89
+  Roasted Tomato Salsa Dip: 2.38
+  Cilantro Lime Shrimp Skewers: 8.5
+  Black Bean Avocado Enchiladas: 7.36
+  Spicy Chorizo Enchiladas: 8.09
+  Blueberry Agave Mojito: 5.89
+  Smoky Chipotle BBQ Ribs: 11.19

@@ -1,0 +1,43 @@
+id: business_0273
+name: Avocado & Ancho
+description: Step into Avocado & Ancho for a fresh take on classic Mexican and Tex-Mex
+  flavors. Savor vibrant salads, hearty mains, and creative agua frescas, all inspired
+  by timeless ingredients and a passion for bold taste.
+rating: 1.0
+progenitor_customer: customer_0091
+menu_features:
+  Black Bean and Lime Soup: 6.64
+  Passion Fruit Agua Fresca: 3.68
+  Crispy Avocado Burrito: 8.78
+  Black Bean and Corn Salsa: 5.64
+  Roasted Corn and Avocado Salad: 9.16
+  Pico Avocado Toast: 9.64
+  Blue Corn Tostada Salad: 8.29
+  Caramelized Onion and Chorizo Quesadilla: 7.45
+  Tamarind Spiced Agua Fresca: 4.32
+  Ancho Chile BBQ Ribs: 20.91
+  Mexican Chocolate Flan: 4.82
+  Crispy Avocado Tostadas: 10.59
+  Poblano Pepper Relleno Plate: 11.6
+  Huevos Rancheros: 13.79
+  Black Bean Avocado Tostadas: 11.32
+  Spicy Chorizo Enchiladas: 15.49
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Black Bean and Lime Soup: 4.85
+  Passion Fruit Agua Fresca: 2.69
+  Crispy Avocado Burrito: 6.41
+  Black Bean and Corn Salsa: 4.12
+  Roasted Corn and Avocado Salad: 6.69
+  Pico Avocado Toast: 7.04
+  Blue Corn Tostada Salad: 6.05
+  Caramelized Onion and Chorizo Quesadilla: 5.44
+  Tamarind Spiced Agua Fresca: 3.15
+  Ancho Chile BBQ Ribs: 15.26
+  Mexican Chocolate Flan: 3.52
+  Crispy Avocado Tostadas: 7.73
+  Poblano Pepper Relleno Plate: 8.47
+  Huevos Rancheros: 10.07
+  Black Bean Avocado Tostadas: 8.26
+  Spicy Chorizo Enchiladas: 11.31

@@ -1,0 +1,43 @@
+id: business_0071
+name: "Crisp & C\xEDtrico"
+description: "Crisp & C\xEDtrico brings a vibrant twist to Mexican and Tex-Mex flavors,\
+  \ blending fresh ingredients with bold spices in every dish. Enjoy inventive bites\
+  \ and zesty cocktails in a lively, welcoming space."
+rating: 1.0
+progenitor_customer: customer_0024
+menu_features:
+  Black Bean Crunch Wrap: 8.9
+  Loaded Nachos Grande: 13.37
+  Red Chili Chicken Pozole: 10.81
+  Ancho Chili Spiced Ribs: 16.51
+  Tamale Trio Platter: 13.98
+  Pineapple Jalapeno Margarita: 10.14
+  Spiced Churro Bites: 6.29
+  Avocado Lime Empanadas: 7.61
+  Frozen Strawberry Daiquiri: 9.49
+  Crispy Avocado Wedges: 7.91
+  Smoky Black Bean Enchiladas: 10.82
+  Avocado Street Tacos: 9.43
+  Breakfast Chilaquiles Verde: 10.13
+  Chili-Lime Cauliflower Bites: 11.05
+  Hibiscus Agua Fresca: 3.74
+  Savory Carne Asada Burrito: 11.24
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Black Bean Crunch Wrap: 8.19
+  Loaded Nachos Grande: 12.3
+  Red Chili Chicken Pozole: 9.95
+  Ancho Chili Spiced Ribs: 15.19
+  Tamale Trio Platter: 12.86
+  Pineapple Jalapeno Margarita: 9.33
+  Spiced Churro Bites: 5.79
+  Avocado Lime Empanadas: 7.0
+  Frozen Strawberry Daiquiri: 8.73
+  Crispy Avocado Wedges: 7.28
+  Smoky Black Bean Enchiladas: 9.95
+  Avocado Street Tacos: 8.68
+  Breakfast Chilaquiles Verde: 9.32
+  Chili-Lime Cauliflower Bites: 10.17
+  Hibiscus Agua Fresca: 3.44
+  Savory Carne Asada Burrito: 10.34

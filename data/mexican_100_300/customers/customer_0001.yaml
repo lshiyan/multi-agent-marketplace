@@ -1,0 +1,11 @@
+id: customer_0001
+name: David Smith
+request: 'Could you please assist me in finding a business that can provide the following
+  menu items: 1 Pineapple Tequila Chicken Skewers, 1 Spicy Beef Chimichangas, and
+  1 Street Corn Quesadilla? It is very important that all these items are available
+  for purchase. Thank you.'
+menu_features:
+  Pineapple Tequila Chicken Skewers: 13.99
+  Spicy Beef Chimichangas: 14.49
+  Street Corn Quesadilla: 10.99
+amenity_features: []

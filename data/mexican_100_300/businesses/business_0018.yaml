@@ -1,0 +1,44 @@
+id: business_0018
+name: Wrap & Roll Fiesta
+description: Bright flavors meet bold creativity at Wrap & Roll Fiesta, where Tex-Mex
+  favorites are reimagined with a fresh, modern twist. Dive into a vibrant mix of
+  sizzling wraps, crave-worthy dips, zesty salads, and refreshing drinks all crafted
+  for a fiesta in every bite.
+rating: 1.0
+progenitor_customer: customer_0006
+menu_features:
+  Tropical Pineapple Salsa: 3.68
+  Molten Queso Fundido: 5.8
+  Black Bean and Avocado Wrap: 11.22
+  Tex-Mex Fajita Wrap: 12.51
+  Smoky Chipotle Black Bean Soup: 8.49
+  Loaded Nachos Grande: 10.87
+  Tomatillo Salsa Verde Nachos: 6.0
+  Three-Cheese Queso Dip: 7.75
+  Beef Enchiladas Verdes: 11.33
+  Fresh Watermelon Aqua Fresca: 4.15
+  Ancho Chile Chicken Salad: 11.87
+  Chipotle Lime Shrimp Skewers: 15.11
+  Ranchero Eggs Benedict: 13.81
+  Creamy Queso Dip: 6.09
+  Crispy Avocado Tostadas: 12.59
+  Baja Shrimp Quesadilla: 12.14
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Tropical Pineapple Salsa: 3.05
+  Molten Queso Fundido: 4.81
+  Black Bean and Avocado Wrap: 9.31
+  Tex-Mex Fajita Wrap: 10.38
+  Smoky Chipotle Black Bean Soup: 7.05
+  Loaded Nachos Grande: 9.02
+  Tomatillo Salsa Verde Nachos: 4.98
+  Three-Cheese Queso Dip: 6.43
+  Beef Enchiladas Verdes: 9.4
+  Fresh Watermelon Aqua Fresca: 3.44
+  Ancho Chile Chicken Salad: 9.85
+  Chipotle Lime Shrimp Skewers: 12.54
+  Ranchero Eggs Benedict: 11.46
+  Creamy Queso Dip: 5.05
+  Crispy Avocado Tostadas: 10.45
+  Baja Shrimp Quesadilla: 10.08

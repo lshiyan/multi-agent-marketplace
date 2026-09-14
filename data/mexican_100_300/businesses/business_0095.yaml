@@ -1,0 +1,41 @@
+id: business_0095
+name: Sizzle & Stone Mex Kitchen
+description: Experience vibrant Tex-Mex flavors and fresh, modern Mexican fare in
+  a lively, welcoming space. From sizzling specialties to stone-ground classics, every
+  dish is crafted to delight your senses.
+rating: 1.0
+progenitor_customer: customer_0032
+menu_features:
+  Chipotle Bean Burrito: 10.77
+  Chipotle Lime Chicken Skewers: 11.84
+  Sizzling Chicken Fajitas: 11.17
+  Pico Avocado Toast: 8.79
+  Caramelized Onion Queso Dip: 7.26
+  Braised Beef Barbacoa Tacos: 13.0
+  Classic Tortilla Soup: 6.5
+  Adobo Roasted Corn Salad: 8.57
+  Mexican Chocolate Lava Cake: 8.17
+  Queso Fundido Supreme: 9.65
+  Chili Lime Skirt Steak: 20.6
+  Coconut Lime Paleta: 4.29
+  Spicy Black Bean Tacos: 12.33
+  Rich Chocolate Tres Leches: 7.51
+  Smoky Chipotle Chicken: 11.58
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Chipotle Bean Burrito: 9.48
+  Chipotle Lime Chicken Skewers: 10.42
+  Sizzling Chicken Fajitas: 9.83
+  Pico Avocado Toast: 7.74
+  Caramelized Onion Queso Dip: 6.39
+  Braised Beef Barbacoa Tacos: 11.44
+  Classic Tortilla Soup: 5.72
+  Adobo Roasted Corn Salad: 7.54
+  Mexican Chocolate Lava Cake: 7.19
+  Queso Fundido Supreme: 8.49
+  Chili Lime Skirt Steak: 18.13
+  Coconut Lime Paleta: 3.78
+  Spicy Black Bean Tacos: 10.85
+  Rich Chocolate Tres Leches: 6.61
+  Smoky Chipotle Chicken: 10.19

@@ -1,0 +1,42 @@
+id: business_0245
+name: Nacho Business
+description: Step into a fiesta of bold flavors and colorful creations at Nacho Business,
+  where smoky grills, sizzling skewers, and refreshing coolers come together for a
+  memorable Mexican meal. Perfect for spice lovers, veggie fans, and anyone craving
+  a delicious twist on classic favorites.
+rating: 1.0
+progenitor_customer: customer_0082
+menu_features:
+  Chili Lime Shrimp Skewers: 11.59
+  Black Bean Sweet Potato Burrito: 11.93
+  Tequila Lime Grilled Chicken: 12.24
+  Guava Limeade Cooler: 4.52
+  Spicy Shrimp Nacho Platter: 11.0
+  Stuffed Chicken Poblano: 13.44
+  Refreshing Agua Fresca Trio: 9.43
+  Classic Beef Barbacoa: 9.14
+  Classic Lime Margarita: 9.13
+  Spicy Pork Tamales: 13.0
+  Grilled Steak Fajita Platter: 16.1
+  Spicy Black Bean Nacho Platter: 9.76
+  Pomegranate Agua Fresca: 3.08
+  Loaded Nacho Fiesta: 11.42
+  Street Corn Elote: 4.13
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Chili Lime Shrimp Skewers: 8.46
+  Black Bean Sweet Potato Burrito: 8.71
+  Tequila Lime Grilled Chicken: 8.94
+  Guava Limeade Cooler: 3.3
+  Spicy Shrimp Nacho Platter: 8.03
+  Stuffed Chicken Poblano: 9.81
+  Refreshing Agua Fresca Trio: 6.88
+  Classic Beef Barbacoa: 6.67
+  Classic Lime Margarita: 6.66
+  Spicy Pork Tamales: 9.49
+  Grilled Steak Fajita Platter: 11.75
+  Spicy Black Bean Nacho Platter: 7.12
+  Pomegranate Agua Fresca: 2.25
+  Loaded Nacho Fiesta: 8.34
+  Street Corn Elote: 3.01

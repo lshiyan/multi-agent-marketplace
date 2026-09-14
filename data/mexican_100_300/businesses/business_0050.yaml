@@ -1,0 +1,39 @@
+id: business_0050
+name: "Sabores del Pac\xEDfico"
+description: "Experience the fresh, vibrant tastes of Mexican and Tex-Mex cuisine\
+  \ at Sabores del Pac\xEDfico. Enjoy a welcoming atmosphere and a curated menu featuring\
+  \ bold flavors, grilled delights, and classic favorites."
+rating: 1.0
+progenitor_customer: customer_0017
+menu_features:
+  Chocolate Cinnamon Flan: 6.37
+  Classic Horchata Smoothie: 5.71
+  Baja Fish Taco Bowl: 8.89
+  Tropical Guava Mint Punch: 5.2
+  Sweet Corn Tamale Bites: 7.21
+  Shrimp and Avocado Ceviche: 13.38
+  Grilled Pineapple and Pork Tacos: 13.69
+  Huevos Rancheros: 11.11
+  Sizzling Chicken Fajitas: 13.72
+  Pork Carnitas Platter: 12.64
+  Coconut Lime Rice Bowl: 9.95
+  Braised Beef Barbacoa Tacos: 12.76
+  Margarita Grilled Chicken: 13.61
+  Spice-Rubbed Grilled Fajitas: 13.18
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Chocolate Cinnamon Flan: 4.9
+  Classic Horchata Smoothie: 4.4
+  Baja Fish Taco Bowl: 6.85
+  Tropical Guava Mint Punch: 4.0
+  Sweet Corn Tamale Bites: 5.55
+  Shrimp and Avocado Ceviche: 10.3
+  Grilled Pineapple and Pork Tacos: 10.54
+  Huevos Rancheros: 8.55
+  Sizzling Chicken Fajitas: 10.56
+  Pork Carnitas Platter: 9.73
+  Coconut Lime Rice Bowl: 7.66
+  Braised Beef Barbacoa Tacos: 9.83
+  Margarita Grilled Chicken: 10.48
+  Spice-Rubbed Grilled Fajitas: 10.15

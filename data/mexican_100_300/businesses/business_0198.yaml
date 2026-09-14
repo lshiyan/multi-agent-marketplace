@@ -1,0 +1,42 @@
+id: business_0198
+name: Savory Ember Social
+description: A contemporary Mexican and Tex-Mex eatery, Savory Ember Social celebrates
+  bold flavors and vibrant ingredients with dishes perfect for sharing. Enjoy creative
+  margaritas, inventive small plates, and decadent desserts in a lively, welcoming
+  space.
+rating: 1.0
+progenitor_customer: customer_0066
+menu_features:
+  Chili Chocolate Lava Cake: 7.11
+  Avocado Lime Salad: 6.99
+  Ranchero Eggs Benedict: 10.47
+  Spiced Agave Margarita: 7.53
+  Roasted Poblano and Cheese Empanadas: 8.07
+  Pineapple Pico de Gallo Nachos: 12.35
+  Hatch Green Chile Stew: 13.64
+  Spicy Shrimp Ceviche: 10.27
+  Tamale Trio Sampler: 12.76
+  Avocado Lime Empanadas: 8.26
+  Citrus Cilantro Rice: 4.59
+  Zesty Shrimp Ceviche: 12.25
+  Pineapple Habanero Margarita: 8.75
+  Spicy Chipotle Chicken Wings: 7.67
+  Smoky Black Bean Nachos: 10.28
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Chili Chocolate Lava Cake: 6.33
+  Avocado Lime Salad: 6.22
+  Ranchero Eggs Benedict: 9.32
+  Spiced Agave Margarita: 6.7
+  Roasted Poblano and Cheese Empanadas: 7.18
+  Pineapple Pico de Gallo Nachos: 10.99
+  Hatch Green Chile Stew: 12.14
+  Spicy Shrimp Ceviche: 9.14
+  Tamale Trio Sampler: 11.36
+  Avocado Lime Empanadas: 7.35
+  Citrus Cilantro Rice: 4.09
+  Zesty Shrimp Ceviche: 10.9
+  Pineapple Habanero Margarita: 7.79
+  Spicy Chipotle Chicken Wings: 6.83
+  Smoky Black Bean Nachos: 9.15

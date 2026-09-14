@@ -1,0 +1,43 @@
+id: business_0242
+name: Carnitas & Corners
+description: Discover bold Mexican and Tex-Mex flavors at Carnitas & Corners, where
+  sizzling specialties and vibrant salads meet fresh, modern twists. Gather, sip,
+  and savor creative plates and signature drinks in a warm and lively setting.
+rating: 1.0
+progenitor_customer: customer_0081
+menu_features:
+  Sizzling Pork Carnitas Bowl: 9.67
+  Frozen Strawberry Daiquiri: 9.66
+  Roasted Corn and Avocado Salad: 6.78
+  Spiced Pumpkin Empanadas: 6.39
+  Spicy Chorizo Enchiladas: 13.29
+  Sweet Corn Tostadas: 8.58
+  Horchata Cold Brew Coffee: 5.51
+  Sizzling Fajita Plate: 16.92
+  Grilled Avocado and Quinoa Bowl: 11.96
+  Hatch Green Chile Stew: 10.81
+  Smoky BBQ Pork Tostadas: 11.19
+  Roasted Corn Enchiladas: 12.18
+  Zesty Lime Shrimp Salad: 14.45
+  Carne Asada Nachos: 12.21
+  Stuffed Avocado Delight: 8.52
+  Smoky Chipotle BBQ Ribs: 12.6
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Sizzling Pork Carnitas Bowl: 8.03
+  Frozen Strawberry Daiquiri: 8.02
+  Roasted Corn and Avocado Salad: 5.63
+  Spiced Pumpkin Empanadas: 5.3
+  Spicy Chorizo Enchiladas: 11.03
+  Sweet Corn Tostadas: 7.12
+  Horchata Cold Brew Coffee: 4.57
+  Sizzling Fajita Plate: 14.04
+  Grilled Avocado and Quinoa Bowl: 9.93
+  Hatch Green Chile Stew: 8.97
+  Smoky BBQ Pork Tostadas: 9.29
+  Roasted Corn Enchiladas: 10.11
+  Zesty Lime Shrimp Salad: 11.99
+  Carne Asada Nachos: 10.13
+  Stuffed Avocado Delight: 7.07
+  Smoky Chipotle BBQ Ribs: 10.46

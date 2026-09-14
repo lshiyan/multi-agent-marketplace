@@ -1,0 +1,35 @@
+id: business_0296
+name: Sliders & Sweets Mexicana
+description: Where bold Tex-Mex flavors meet a playful twist, Sliders & Sweets Mexicana
+  delights with creative takes on classics and decadent desserts. Join us for mouthwatering
+  bites, vibrant drinks, and a fiesta of fresh, unexpected flavor combinations.
+rating: 1.0
+progenitor_customer: customer_0099
+menu_features:
+  Ancho Chili Chocolate Cake: 8.75
+  Spicy Pineapple Chipotle Margarita: 11.16
+  Black Bean Crunch Wrap: 9.96
+  Grilled Pineapple Salmon: 18.65
+  Coconut Tres Leches: 7.68
+  Honey Lime Chicken Fajitas: 19.04
+  Chorizo and Egg Tacos: 8.1
+  Caramel Apple Empanadas: 5.76
+  Chorizo Breakfast Burrito: 9.5
+  Adobo Pork Sliders: 10.22
+  Black Bean Sweet Potato Burrito: 9.69
+  Classic Horchata Smoothie: 4.71
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Ancho Chili Chocolate Cake: 7.09
+  Spicy Pineapple Chipotle Margarita: 9.04
+  Black Bean Crunch Wrap: 8.07
+  Grilled Pineapple Salmon: 15.11
+  Coconut Tres Leches: 6.22
+  Honey Lime Chicken Fajitas: 15.42
+  Chorizo and Egg Tacos: 6.56
+  Caramel Apple Empanadas: 4.67
+  Chorizo Breakfast Burrito: 7.7
+  Adobo Pork Sliders: 8.28
+  Black Bean Sweet Potato Burrito: 7.85
+  Classic Horchata Smoothie: 3.82

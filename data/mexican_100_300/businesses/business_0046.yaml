@@ -1,0 +1,41 @@
+id: business_0046
+name: La Ventana Mexicana
+description: Step through the window to vibrant flavors and classic Mexican hospitality,
+  where fresh salads, handcrafted salsas, and rich desserts await. Enjoy a modern
+  twist on tradition in every bite and sip.
+rating: 1.0
+progenitor_customer: customer_0016
+menu_features:
+  Roasted Corn and Avocado Salad: 7.73
+  Sweet Corn Tostadas: 8.59
+  Pumpkin Spice Flan: 7.22
+  Vanilla Flan with Caramel Sauce: 6.15
+  Pineapple Habanero Salsa: 5.0
+  Crispy Avocado Burrito: 11.17
+  Roasted Tomato Salsa Dip: 3.28
+  Smoky Mezcal Mule: 10.16
+  Classic Horchata Smoothie: 4.56
+  Verde Ranchero Huevos: 11.36
+  Black Bean and Corn Fiesta Salad: 7.87
+  Chili Lime Jicama Sticks: 6.5
+  Coconut Lime Rice Bowl: 11.28
+  Cheesy Jalapeno Poppers: 8.74
+  Red Chili Braised Beef Brisket: 16.89
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Roasted Corn and Avocado Salad: 5.57
+  Sweet Corn Tostadas: 6.18
+  Pumpkin Spice Flan: 5.2
+  Vanilla Flan with Caramel Sauce: 4.43
+  Pineapple Habanero Salsa: 3.6
+  Crispy Avocado Burrito: 8.04
+  Roasted Tomato Salsa Dip: 2.36
+  Smoky Mezcal Mule: 7.32
+  Classic Horchata Smoothie: 3.28
+  Verde Ranchero Huevos: 8.18
+  Black Bean and Corn Fiesta Salad: 5.67
+  Chili Lime Jicama Sticks: 4.68
+  Coconut Lime Rice Bowl: 8.12
+  Cheesy Jalapeno Poppers: 6.29
+  Red Chili Braised Beef Brisket: 12.16

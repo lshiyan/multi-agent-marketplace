@@ -1,0 +1,41 @@
+id: business_0223
+name: Flan-tastic Fiestas
+description: A lively spot for Mexican and Tex-Mex flavors, serving up sizzling classics,
+  sweet treats, and flavorful cocktails. Join us for vibrant salads, savory tacos,
+  indulgent desserts, and a fiesta in every bite.
+rating: 1.0
+progenitor_customer: customer_0075
+menu_features:
+  Vanilla Flan Delight: 5.61
+  Chipotle Lime Shrimp Tacos: 13.83
+  Vanilla Almond Horchata: 3.63
+  Classic Beef Barbacoa: 14.15
+  Loaded Nacho Platter: 10.52
+  Honey Chipotle Wings: 11.17
+  Ancho Chile Chicken Salad: 13.28
+  Crispy Tinga Chicken Tacos: 10.68
+  Paloma Breeze Cocktail: 8.22
+  Caramelized Onion and Chorizo Quesadilla: 9.81
+  Veggie Fajita Platter: 12.57
+  Southwest Chopped Salad: 8.63
+  Three-Cheese Enchilada Stack: 10.19
+  Spicy Chipotle Chicken Wrap: 11.21
+  Spicy Beef Enchilada Bake: 13.27
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Vanilla Flan Delight: 3.87
+  Chipotle Lime Shrimp Tacos: 9.54
+  Vanilla Almond Horchata: 2.5
+  Classic Beef Barbacoa: 9.76
+  Loaded Nacho Platter: 7.26
+  Honey Chipotle Wings: 7.71
+  Ancho Chile Chicken Salad: 9.16
+  Crispy Tinga Chicken Tacos: 7.37
+  Paloma Breeze Cocktail: 5.67
+  Caramelized Onion and Chorizo Quesadilla: 6.77
+  Veggie Fajita Platter: 8.67
+  Southwest Chopped Salad: 5.95
+  Three-Cheese Enchilada Stack: 7.03
+  Spicy Chipotle Chicken Wrap: 7.73
+  Spicy Beef Enchilada Bake: 9.16

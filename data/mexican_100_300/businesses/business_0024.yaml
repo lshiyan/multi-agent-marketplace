@@ -1,0 +1,45 @@
+id: business_0024
+name: La Cocina de Sol
+description: A vibrant gathering place serving a creative blend of classic and contemporary
+  Mexican and Tex-Mex fare. Indulge in fresh, bold flavors paired with warm hospitality
+  in an inviting, sunlit setting.
+rating: 1.0
+progenitor_customer: customer_0008
+menu_features:
+  Warm Cinnamon Churros: 6.64
+  Black Bean & Corn Queso Dip: 7.6
+  Pineapple Salsa Shrimp Tacos: 13.09
+  Spicy Black Bean Nachos: 8.97
+  Braised Beef Barbacoa Tacos: 11.4
+  Chipotle Lime Chicken Skewers: 10.54
+  Beef Barbacoa Tostadas: 13.03
+  Mexican Chocolate Milkshake: 6.22
+  Baja Fish Taco Bowl: 11.4
+  Horchata Latte: 4.53
+  Breakfast Chorizo Torta: 7.74
+  Chipotle Bean Burrito: 8.6
+  Blueberry Jalapeno Lemonade: 3.77
+  Lime-Cilantro Quinoa Salad: 8.45
+  Roasted Red Pepper Quesadilla: 10.32
+  Smoky Mezcal Mule: 10.15
+  Spicy Black Bean Nacho Platter: 11.38
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Warm Cinnamon Churros: 5.98
+  Black Bean & Corn Queso Dip: 6.84
+  Pineapple Salsa Shrimp Tacos: 11.78
+  Spicy Black Bean Nachos: 8.07
+  Braised Beef Barbacoa Tacos: 10.26
+  Chipotle Lime Chicken Skewers: 9.49
+  Beef Barbacoa Tostadas: 11.73
+  Mexican Chocolate Milkshake: 5.6
+  Baja Fish Taco Bowl: 10.26
+  Horchata Latte: 4.08
+  Breakfast Chorizo Torta: 6.97
+  Chipotle Bean Burrito: 7.74
+  Blueberry Jalapeno Lemonade: 3.39
+  Lime-Cilantro Quinoa Salad: 7.6
+  Roasted Red Pepper Quesadilla: 9.29
+  Smoky Mezcal Mule: 9.13
+  Spicy Black Bean Nacho Platter: 10.24

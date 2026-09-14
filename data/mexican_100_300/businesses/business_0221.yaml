@@ -1,0 +1,44 @@
+id: business_0221
+name: "La Mesa Jalape\xF1a"
+description: "La Mesa Jalape\xF1a brings you bold Mexican and Tex-Mex favorites in\
+  \ a vibrant setting, featuring sizzling street tacos, fresh salads, and crave-worthy\
+  \ margaritas. Enjoy a celebration of flavors crafted with classic ingredients and\
+  \ a modern twist."
+rating: 1.0
+progenitor_customer: customer_0074
+menu_features:
+  "Cheesy Jalape\xF1o Quesadillas": 10.68
+  Coconut Lime Margarita: 11.07
+  Southwestern Quinoa Salad: 8.91
+  Savory Chorizo Street Tacos: 11.69
+  Roasted Corn Enchiladas: 11.19
+  Frozen Strawberry Margarita: 9.04
+  Hatch Green Chile Burger: 12.73
+  Coconut Lime Rice Bowl: 7.77
+  Smoky Chipotle Enchiladas: 12.01
+  Paloma Breeze Cocktail: 7.61
+  Crispy Carnitas Quesadilla: 11.02
+  Caramel Apple Empanadas: 5.31
+  Spicy Black Bean Tacos: 10.54
+  Honey Chipotle Wings: 12.96
+  Jalapeno Mango Margarita: 8.73
+  Pineapple Habanero Margarita: 11.04
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  "Cheesy Jalape\xF1o Quesadillas": 7.58
+  Coconut Lime Margarita: 7.86
+  Southwestern Quinoa Salad: 6.33
+  Savory Chorizo Street Tacos: 8.3
+  Roasted Corn Enchiladas: 7.94
+  Frozen Strawberry Margarita: 6.42
+  Hatch Green Chile Burger: 9.04
+  Coconut Lime Rice Bowl: 5.52
+  Smoky Chipotle Enchiladas: 8.53
+  Paloma Breeze Cocktail: 5.4
+  Crispy Carnitas Quesadilla: 7.82
+  Caramel Apple Empanadas: 3.77
+  Spicy Black Bean Tacos: 7.48
+  Honey Chipotle Wings: 9.2
+  Jalapeno Mango Margarita: 6.2
+  Pineapple Habanero Margarita: 7.84

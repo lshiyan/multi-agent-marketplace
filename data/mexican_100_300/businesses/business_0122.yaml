@@ -1,0 +1,43 @@
+id: business_0122
+name: "Caf\xE9 Canela Mexicana"
+description: "Caf\xE9 Canela Mexicana celebrates vibrant Mexican and Tex-Mex flavors,\
+  \ offering a warm and inviting atmosphere. Savor bold, comforting classics, inventive\
+  \ coffee creations, and sweet treats inspired by regional traditions."
+rating: 1.0
+progenitor_customer: customer_0041
+menu_features:
+  Chocolate Cinnamon Flan: 5.08
+  Hatch Green Chile Stew: 12.67
+  Crispy Fish Tacos: 11.54
+  Horchata Iced Coffee: 4.23
+  Coffee Cinnamon Mexican Mocha: 4.08
+  Creamy Chipotle Pasta: 12.26
+  Stuffed Chicken Poblano: 12.17
+  Three-Cheese Chile Rellenos: 14.36
+  Black Bean & Cheese Tostadas: 9.5
+  Chipotle Lime Shrimp Skewers: 15.93
+  Verde Ranchero Huevos: 7.56
+  Classic Lime Margarita: 9.17
+  Black Bean and Sweet Potato Empanadas: 8.89
+  "Coconut Horchata Latt\xE9": 3.52
+  Coconut Lime Shrimp Skewers: 16.47
+  Honey Chipotle Wings: 11.78
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Chocolate Cinnamon Flan: 3.76
+  Hatch Green Chile Stew: 9.38
+  Crispy Fish Tacos: 8.54
+  Horchata Iced Coffee: 3.13
+  Coffee Cinnamon Mexican Mocha: 3.02
+  Creamy Chipotle Pasta: 9.07
+  Stuffed Chicken Poblano: 9.01
+  Three-Cheese Chile Rellenos: 10.63
+  Black Bean & Cheese Tostadas: 7.03
+  Chipotle Lime Shrimp Skewers: 11.79
+  Verde Ranchero Huevos: 5.59
+  Classic Lime Margarita: 6.79
+  Black Bean and Sweet Potato Empanadas: 6.58
+  "Coconut Horchata Latt\xE9": 2.6
+  Coconut Lime Shrimp Skewers: 12.19
+  Honey Chipotle Wings: 8.72

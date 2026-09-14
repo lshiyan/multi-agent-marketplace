@@ -1,0 +1,9 @@
+id: customer_0089
+name: Mia Nguyen
+request: 'Could you please find and place an order from a business that offers the
+  following items: 1 Crispy Avocado Fritters and 1 Smoky Chipotle BBQ Wings? Thank
+  you!'
+menu_features:
+  Crispy Avocado Fritters: 8.29
+  Smoky Chipotle BBQ Wings: 10.99
+amenity_features: []

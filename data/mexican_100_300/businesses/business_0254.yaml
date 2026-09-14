@@ -1,0 +1,46 @@
+id: business_0254
+name: Crisp & Cocoa Cantina
+description: Delight in a vibrant twist on Mexican and Tex-Mex traditions, where bold
+  flavors and inventive pairings come together in a lively, welcoming atmosphere.
+  From zesty grilled fare to sweet, cinnamon-kissed treats, every bite brings a fresh
+  take on familiar favorites.
+rating: 1.0
+progenitor_customer: customer_0085
+menu_features:
+  Honey-Lime Grilled Shrimp: 13.03
+  Cocoa Cinnamon Tequila: 8.8
+  Crispy Avocado Bites: 9.44
+  Three-Cheese Chile Rellenos: 14.52
+  Smoky Ancho Chicken Enchiladas: 10.31
+  Roasted Poblano Corn Chowder: 8.42
+  Crispy Fish Tacos: 13.14
+  Three-Cheese Queso Dip: 7.26
+  Grilled Shrimp Skewers: 13.23
+  Tamarind Spiced Agua Fresca: 3.61
+  Crispy Carnitas Quesadilla: 11.82
+  Caramelized Banana Flan: 6.38
+  Breakfast Tostada Stack: 9.59
+  Adobo Pork Sliders: 10.84
+  Chipotle Chicken Enchiladas: 16.33
+  Frozen Strawberry Daiquiri: 7.97
+  Breakfast Chorizo Tostadas: 7.47
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Honey-Lime Grilled Shrimp: 9.51
+  Cocoa Cinnamon Tequila: 6.42
+  Crispy Avocado Bites: 6.89
+  Three-Cheese Chile Rellenos: 10.6
+  Smoky Ancho Chicken Enchiladas: 7.53
+  Roasted Poblano Corn Chowder: 6.15
+  Crispy Fish Tacos: 9.59
+  Three-Cheese Queso Dip: 5.3
+  Grilled Shrimp Skewers: 9.66
+  Tamarind Spiced Agua Fresca: 2.64
+  Crispy Carnitas Quesadilla: 8.63
+  Caramelized Banana Flan: 4.66
+  Breakfast Tostada Stack: 7.0
+  Adobo Pork Sliders: 7.91
+  Chipotle Chicken Enchiladas: 11.92
+  Frozen Strawberry Daiquiri: 5.82
+  Breakfast Chorizo Tostadas: 5.45

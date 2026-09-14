@@ -1,0 +1,37 @@
+id: business_0091
+name: Kernel & Kaktus
+description: Step into Kernel & Kaktus, where fresh flavors and playful twists on
+  Mexican and Tex-Mex classics await. Kick back with a creative margarita and savor
+  vibrant dishes inspired by sunshine and spice.
+rating: 1.0
+progenitor_customer: customer_0031
+menu_features:
+  Mango Agua Fresca: 3.39
+  Roasted Poblano Corn Chowder: 7.19
+  Three-Cheese Chile Rellenos: 14.5
+  Jalapeno Mango Margarita: 8.37
+  Zesty Lime Grilled Chicken: 12.19
+  Loaded Street Corn: 8.13
+  Salted Caramel Margarita: 7.78
+  Breakfast Chilaquiles Verde: 10.03
+  Cactus Flower Iced Tea: 3.33
+  Tex-Mex Breakfast Skillet: 7.96
+  Poblano Pepper Relleno Plate: 13.7
+  Frozen Strawberry Margarita: 7.02
+  Smoky Black Bean Soup: 8.34
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Mango Agua Fresca: 2.41
+  Roasted Poblano Corn Chowder: 5.1
+  Three-Cheese Chile Rellenos: 10.29
+  Jalapeno Mango Margarita: 5.94
+  Zesty Lime Grilled Chicken: 8.65
+  Loaded Street Corn: 5.77
+  Salted Caramel Margarita: 5.52
+  Breakfast Chilaquiles Verde: 7.12
+  Cactus Flower Iced Tea: 2.36
+  Tex-Mex Breakfast Skillet: 5.65
+  Poblano Pepper Relleno Plate: 9.73
+  Frozen Strawberry Margarita: 4.98
+  Smoky Black Bean Soup: 5.92

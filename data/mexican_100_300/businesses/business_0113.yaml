@@ -1,0 +1,39 @@
+id: business_0113
+name: Shrimp & Salsa Spot
+description: Dive into bold, flavorful Mexican and Tex-Mex cuisine in a lively setting.
+  From spicy dips to sizzling bowls and vibrant tacos, every bite brings a fresh twist
+  on tradition.
+rating: 1.0
+progenitor_customer: customer_0038
+menu_features:
+  Spicy Pineapple Salsa Dip: 5.26
+  Grilled Shrimp Fajita Bowl: 13.96
+  Tomatillo Salsa Verde Nachos: 10.65
+  Sizzling Carne Asada: 15.5
+  Crispy Avocado and Lime Tacos: 11.14
+  Loaded Nachos Grande: 11.35
+  Ancho Chili Spiced Ribs: 16.66
+  Avocado & Tomato Breakfast Tostadas: 8.15
+  Crispy Tinga Chicken Tacos: 9.48
+  Breakfast Burrito Bonanza: 9.49
+  Chili Lime Shrimp Skewers: 10.5
+  Jicama and Citrus Salad: 6.75
+  Mango Habanero Margarita: 10.79
+  Spiced Pumpkin Empanadas: 4.29
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Spicy Pineapple Salsa Dip: 3.63
+  Grilled Shrimp Fajita Bowl: 9.63
+  Tomatillo Salsa Verde Nachos: 7.35
+  Sizzling Carne Asada: 10.69
+  Crispy Avocado and Lime Tacos: 7.69
+  Loaded Nachos Grande: 7.83
+  Ancho Chili Spiced Ribs: 11.5
+  Avocado & Tomato Breakfast Tostadas: 5.62
+  Crispy Tinga Chicken Tacos: 6.54
+  Breakfast Burrito Bonanza: 6.55
+  Chili Lime Shrimp Skewers: 7.24
+  Jicama and Citrus Salad: 4.66
+  Mango Habanero Margarita: 7.45
+  Spiced Pumpkin Empanadas: 2.96

@@ -1,0 +1,43 @@
+id: business_0129
+name: "Let\u2019s Give \u2018Em Something to Taco \u2018Bout"
+description: A playful Tex-Mex eatery serving creative twists on classic favorites,
+  refreshing aguas frescas, and vibrant bites packed with bold flavors. Step inside
+  for a fiesta of fresh ingredients, inventive dishes, and fun in every bite!
+rating: 1.0
+progenitor_customer: customer_0043
+menu_features:
+  Blueberry Mint Agua Fresca: 4.44
+  Avocado Lime Enchiladas: 12.85
+  Passionfruit Agua Fresca: 2.99
+  Roasted Poblano and Cheese Empanadas: 10.21
+  Coconut Tres Leches: 6.21
+  Creamy Poblano Corn Chowder: 7.56
+  Black Bean and Corn Fiesta Salad: 7.47
+  Crispy Carnitas Quesadilla: 9.42
+  Spiced Pumpkin Empanadas: 4.93
+  Coconut Lime Flan: 5.62
+  Hibiscus Agua Fresca: 2.81
+  Loaded Nachos Grande: 11.43
+  Spicy Shrimp Ceviche: 10.45
+  Honey-Lime Grilled Salmon: 18.79
+  Crispy Avocado Wedges: 7.96
+  Southwestern Quinoa Salad: 8.3
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Blueberry Mint Agua Fresca: 3.46
+  Avocado Lime Enchiladas: 10.02
+  Passionfruit Agua Fresca: 2.33
+  Roasted Poblano and Cheese Empanadas: 7.96
+  Coconut Tres Leches: 4.84
+  Creamy Poblano Corn Chowder: 5.9
+  Black Bean and Corn Fiesta Salad: 5.83
+  Crispy Carnitas Quesadilla: 7.35
+  Spiced Pumpkin Empanadas: 3.85
+  Coconut Lime Flan: 4.38
+  Hibiscus Agua Fresca: 2.19
+  Loaded Nachos Grande: 8.92
+  Spicy Shrimp Ceviche: 8.15
+  Honey-Lime Grilled Salmon: 14.66
+  Crispy Avocado Wedges: 6.21
+  Southwestern Quinoa Salad: 6.47

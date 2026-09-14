@@ -1,0 +1,37 @@
+id: business_0115
+name: Holy Chip & Queso!
+description: Dive into a flavor fiesta where smoky chiles, melty queso, and zesty
+  lime take center stage. Our Tex-Mex kitchen serves up creative takes on classic
+  dishes and refreshing drinks in a vibrant, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0039
+menu_features:
+  Roasted Poblano Corn Chowder: 7.68
+  Spicy Black Bean Enchiladas: 11.85
+  Roasted Red Pepper Quesadilla: 11.83
+  Smoky Chipotle Queso: 6.33
+  Grilled Pineapple Mojito: 9.39
+  Creamy Avocado Smoothie: 4.31
+  Rich Chocolate Tres Leches: 7.69
+  Zesty Lime Chicken Fajitas: 14.31
+  Beef Fajita Skillet: 15.68
+  Coffee Cinnamon Mexican Mocha: 4.95
+  Creamy Poblano Corn Chowder: 6.87
+  Spicy Zucchini Tostadas: 9.86
+  Zesty Lime Shrimp Skewers: 14.44
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Roasted Poblano Corn Chowder: 5.84
+  Spicy Black Bean Enchiladas: 9.01
+  Roasted Red Pepper Quesadilla: 8.99
+  Smoky Chipotle Queso: 4.81
+  Grilled Pineapple Mojito: 7.14
+  Creamy Avocado Smoothie: 3.28
+  Rich Chocolate Tres Leches: 5.84
+  Zesty Lime Chicken Fajitas: 10.88
+  Beef Fajita Skillet: 11.92
+  Coffee Cinnamon Mexican Mocha: 3.76
+  Creamy Poblano Corn Chowder: 5.22
+  Spicy Zucchini Tostadas: 7.49
+  Zesty Lime Shrimp Skewers: 10.97

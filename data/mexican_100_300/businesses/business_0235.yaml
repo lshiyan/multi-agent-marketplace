@@ -1,0 +1,37 @@
+id: business_0235
+name: Burrito Be Friends
+description: A playful Tex-Mex spot serving up bold flavors, creative bites, and refreshing
+  drinks in a friendly, vibrant setting. Come enjoy burritos, quesadillas, salsas,
+  and plenty of fresh twists on your favorite classics.
+rating: 1.0
+progenitor_customer: customer_0079
+menu_features:
+  Spiked Horchata Cooler: 6.98
+  Tangy Tomato Salsa Soup: 8.57
+  Crispy Avocado Burrito: 9.94
+  Stuffed Chicken Poblano: 12.0
+  "Cheesy Jalape\xF1o Quesadillas": 8.17
+  Loaded Nacho Skillet: 11.94
+  Passion Fruit Mojito: 7.98
+  Sweet Corn Tostadas: 9.06
+  Caramelized Plantain Empanadas: 6.19
+  Black Bean and Avocado Wrap: 11.28
+  Pineapple Habanero Salsa: 3.9
+  Breakfast Burrito Bonanza: 7.39
+  Pico de Gallo Chicken Salad: 10.6
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Spiked Horchata Cooler: 5.72
+  Tangy Tomato Salsa Soup: 7.03
+  Crispy Avocado Burrito: 8.15
+  Stuffed Chicken Poblano: 9.84
+  "Cheesy Jalape\xF1o Quesadillas": 6.7
+  Loaded Nacho Skillet: 9.79
+  Passion Fruit Mojito: 6.54
+  Sweet Corn Tostadas: 7.43
+  Caramelized Plantain Empanadas: 5.08
+  Black Bean and Avocado Wrap: 9.25
+  Pineapple Habanero Salsa: 3.2
+  Breakfast Burrito Bonanza: 6.06
+  Pico de Gallo Chicken Salad: 8.69

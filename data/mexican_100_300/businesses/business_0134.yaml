@@ -1,0 +1,35 @@
+id: business_0134
+name: "Pi\xF1a & Petal"
+description: "Pi\xF1a & Petal serves up vibrant, modern Mexican and Tex-Mex dishes\
+  \ in a lively, inviting setting. Experience a fresh twist on classics with zesty\
+  \ salads, sizzling plates, and refreshingly unique beverages and desserts."
+rating: 1.0
+progenitor_customer: customer_0045
+menu_features:
+  Hibiscus Agua Fresca: 3.84
+  Queso Fundido Supreme: 9.58
+  Grilled Pineapple and Shrimp Salad: 11.61
+  Flamin' Skillet Fajitas: 13.84
+  Grilled Pineapple Dessert Quesadilla: 9.72
+  Chili Lime Skirt Steak: 16.38
+  Tres Leches Cake: 7.4
+  Spicy Chipotle Chicken Wrap: 10.72
+  Spicy Shrimp Fajitas: 9.88
+  Coconut Lime Flan: 4.68
+  Chipotle Lime Shrimp Tacos: 17.72
+  Jicama and Citrus Salad: 7.65
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Hibiscus Agua Fresca: 3.03
+  Queso Fundido Supreme: 7.57
+  Grilled Pineapple and Shrimp Salad: 9.17
+  Flamin' Skillet Fajitas: 10.93
+  Grilled Pineapple Dessert Quesadilla: 7.68
+  Chili Lime Skirt Steak: 12.94
+  Tres Leches Cake: 5.85
+  Spicy Chipotle Chicken Wrap: 8.47
+  Spicy Shrimp Fajitas: 7.81
+  Coconut Lime Flan: 3.7
+  Chipotle Lime Shrimp Tacos: 14.0
+  Jicama and Citrus Salad: 6.04

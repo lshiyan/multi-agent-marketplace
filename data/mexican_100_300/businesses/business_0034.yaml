@@ -1,0 +1,33 @@
+id: business_0034
+name: Lime Lantern
+description: Step into Lime Lantern for a vibrant mix of fresh Mexican and Tex-Mex
+  delights, where bright flavors and colorful ingredients shine in every dish. Enjoy
+  a lively atmosphere and taste the zest of the Southwest in every bite.
+rating: 1.0
+progenitor_customer: customer_0012
+menu_features:
+  Tequila Lime Grilled Chicken: 12.99
+  Crispy Fish Tacos: 11.02
+  Honey Lime Chicken Skewers: 13.97
+  Zesty Lime Shrimp Tostadas: 14.05
+  Sizzling Fajita Skillet: 19.43
+  Southwest Chopped Salad: 9.91
+  Crispy Avocado Tacos: 14.04
+  Black Bean & Corn Queso Dip: 6.3
+  Pico Avocado Toast: 7.69
+  Hatch Green Chile Quesadilla: 8.89
+  Roasted Red Pepper Quesadilla: 10.22
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Tequila Lime Grilled Chicken: 10.26
+  Crispy Fish Tacos: 8.71
+  Honey Lime Chicken Skewers: 11.04
+  Zesty Lime Shrimp Tostadas: 11.1
+  Sizzling Fajita Skillet: 15.35
+  Southwest Chopped Salad: 7.83
+  Crispy Avocado Tacos: 11.09
+  Black Bean & Corn Queso Dip: 4.98
+  Pico Avocado Toast: 6.08
+  Hatch Green Chile Quesadilla: 7.02
+  Roasted Red Pepper Quesadilla: 8.07

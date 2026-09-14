@@ -1,0 +1,41 @@
+id: business_0099
+name: Pecan & Pineapple Place
+description: A vibrant eatery celebrating Mexican and Tex-Mex flavors with creative
+  twists. Savor our fresh, flavorful dishes and decadent desserts in a warm, welcoming
+  atmosphere.
+rating: 1.0
+progenitor_customer: customer_0033
+menu_features:
+  Creamy Avocado Smoothie: 4.81
+  Stuffed Avocado Delight: 6.66
+  Roasted Pecan Flan: 7.07
+  Grilled Pineapple and Pork Tacos: 11.93
+  Chili Lime Margarita: 9.45
+  Grilled Pineapple Dessert Quesadilla: 9.36
+  Three Cheese Sope: 10.96
+  Spicy Black Bean Nachos: 9.84
+  Coconut Flan Delight: 5.71
+  Beef Barbacoa Tostadas: 9.32
+  Queso Fundido Supreme: 7.36
+  Charred Corn and Black Bean Salad: 7.69
+  Vegetarian Tamale Platter: 11.44
+  Vanilla Flan with Caramel Sauce: 6.76
+  Lime-Cilantro Quinoa Salad: 9.49
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Creamy Avocado Smoothie: 3.51
+  Stuffed Avocado Delight: 4.86
+  Roasted Pecan Flan: 5.16
+  Grilled Pineapple and Pork Tacos: 8.71
+  Chili Lime Margarita: 6.9
+  Grilled Pineapple Dessert Quesadilla: 6.83
+  Three Cheese Sope: 8.0
+  Spicy Black Bean Nachos: 7.18
+  Coconut Flan Delight: 4.17
+  Beef Barbacoa Tostadas: 6.8
+  Queso Fundido Supreme: 5.37
+  Charred Corn and Black Bean Salad: 5.61
+  Vegetarian Tamale Platter: 8.35
+  Vanilla Flan with Caramel Sauce: 4.93
+  Lime-Cilantro Quinoa Salad: 6.93

@@ -1,0 +1,45 @@
+id: business_0180
+name: "Mar y Ma\xEDz Cantina"
+description: "Bright flavors and fresh ingredients come together in a vibrant celebration\
+  \ of modern Mexican and Tex-Mex cuisine. From savory seafood to garden-fresh produce,\
+  \ Mar y Ma\xEDz Cantina is where every bite brings a taste of sunshine."
+rating: 1.0
+progenitor_customer: customer_0060
+menu_features:
+  Sea Breeze Ceviche: 11.1
+  Roasted Corn and Avocado Salad: 10.56
+  Roasted Corn and Black Bean Salad: 8.05
+  "Cheesy Jalape\xF1o Quesadillas": 10.11
+  Smoky Chipotle Queso: 5.23
+  Pineapple Jalapeno Sangria: 9.15
+  Huevos Rancheros: 10.81
+  Tequila Lime Flan: 8.71
+  Creamy Avocado Smoothie: 5.96
+  Spicy Chipotle Chicken Wrap: 10.08
+  Honey-Lime Grilled Salmon: 11.55
+  Pineapple Salsa Nachos: 11.07
+  Spicy Chocolate Churros: 5.32
+  Avocado & Tomato Breakfast Tostadas: 7.59
+  Cucumber Jalapeno Agua Fresca: 3.71
+  Bacon Wrapped Jalapeno Bites: 8.81
+  Spicy Black Bean and Cheese Quesadilla: 10.23
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Sea Breeze Ceviche: 8.55
+  Roasted Corn and Avocado Salad: 8.13
+  Roasted Corn and Black Bean Salad: 6.2
+  "Cheesy Jalape\xF1o Quesadillas": 7.78
+  Smoky Chipotle Queso: 4.03
+  Pineapple Jalapeno Sangria: 7.05
+  Huevos Rancheros: 8.32
+  Tequila Lime Flan: 6.71
+  Creamy Avocado Smoothie: 4.59
+  Spicy Chipotle Chicken Wrap: 7.76
+  Honey-Lime Grilled Salmon: 8.89
+  Pineapple Salsa Nachos: 8.52
+  Spicy Chocolate Churros: 4.1
+  Avocado & Tomato Breakfast Tostadas: 5.84
+  Cucumber Jalapeno Agua Fresca: 2.86
+  Bacon Wrapped Jalapeno Bites: 6.78
+  Spicy Black Bean and Cheese Quesadilla: 7.88

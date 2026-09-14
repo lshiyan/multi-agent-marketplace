@@ -1,0 +1,48 @@
+id: business_0102
+name: Citrus Ember Kitchen
+description: Citrus Ember Kitchen brings vibrant, modern Mexican and Tex-Mex flavors
+  to the table, combining bold spices, grilled specialties, and fresh citrus accents.
+  Our creative menu highlights classic favorites with an inventive twist in a lively,
+  welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0034
+menu_features:
+  Lime-Garlic Grilled Chicken: 14.31
+  Chili Chocolate Lava Cake: 6.58
+  Three Cheese Sope: 9.47
+  Vanilla Cinnamon Horchata: 3.65
+  Fresh Limeade: 3.04
+  Tex-Mex Breakfast Skillet: 10.22
+  Hatch Green Chile Rice: 5.7
+  Poblano Pepper Relleno Plate: 13.29
+  Loaded Nacho Fiesta: 11.44
+  Loaded Chorizo Nachos: 9.18
+  Grilled Avocado and Quinoa Bowl: 9.05
+  Spiced Chocolate Flan: 6.2
+  Green Chile Pork Stew: 16.75
+  Avocado Street Tacos: 11.22
+  Breakfast Chorizo Tostadas: 9.85
+  Midnight Mole Enchiladas: 14.74
+  Ancho Chili Rubbed Steak: 15.59
+  Pineapple Pico de Gallo Salsa: 6.74
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Lime-Garlic Grilled Chicken: 12.88
+  Chili Chocolate Lava Cake: 5.92
+  Three Cheese Sope: 8.52
+  Vanilla Cinnamon Horchata: 3.29
+  Fresh Limeade: 2.74
+  Tex-Mex Breakfast Skillet: 9.2
+  Hatch Green Chile Rice: 5.13
+  Poblano Pepper Relleno Plate: 11.96
+  Loaded Nacho Fiesta: 10.3
+  Loaded Chorizo Nachos: 8.26
+  Grilled Avocado and Quinoa Bowl: 8.15
+  Spiced Chocolate Flan: 5.58
+  Green Chile Pork Stew: 15.08
+  Avocado Street Tacos: 10.1
+  Breakfast Chorizo Tostadas: 8.87
+  Midnight Mole Enchiladas: 13.27
+  Ancho Chili Rubbed Steak: 14.03
+  Pineapple Pico de Gallo Salsa: 6.07

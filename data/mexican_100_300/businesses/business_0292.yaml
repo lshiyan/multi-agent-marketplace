@@ -1,0 +1,45 @@
+id: business_0292
+name: "Caf\xE9 Ma\xEDz y Canela"
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm, welcoming setting.
+  From savory classics to decadent desserts and crafted beverages, every dish celebrates
+  tradition with a fresh twist.
+rating: 1.0
+progenitor_customer: customer_0098
+menu_features:
+  Beef Barbacoa Burrito Bowl: 11.81
+  Coffee Cinnamon Mexican Mocha: 4.99
+  Fresh Watermelon Aqua Fresca: 3.84
+  Salted Caramel Margarita: 8.69
+  Blue Corn Tostada Salad: 13.45
+  Shrimp and Avocado Ceviche: 13.98
+  Queso Fundido with Chorizo: 11.19
+  Smoky BBQ Pork Tostadas: 12.73
+  Mexican Chocolate Brownie: 6.38
+  Flan with Caramel Drizzle: 5.37
+  Spiced Agave Margarita: 9.15
+  Street Corn Elote: 6.62
+  Sizzling Beef Alambre: 15.23
+  Fiesta Street Corn: 3.88
+  Hibiscus Iced Tea: 3.4
+  Coconut Flan Delight: 7.23
+  Sizzling Fajita Platter: 17.66
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Beef Barbacoa Burrito Bowl: 10.04
+  Coffee Cinnamon Mexican Mocha: 4.24
+  Fresh Watermelon Aqua Fresca: 3.26
+  Salted Caramel Margarita: 7.39
+  Blue Corn Tostada Salad: 11.43
+  Shrimp and Avocado Ceviche: 11.88
+  Queso Fundido with Chorizo: 9.51
+  Smoky BBQ Pork Tostadas: 10.82
+  Mexican Chocolate Brownie: 5.42
+  Flan with Caramel Drizzle: 4.56
+  Spiced Agave Margarita: 7.78
+  Street Corn Elote: 5.63
+  Sizzling Beef Alambre: 12.95
+  Fiesta Street Corn: 3.3
+  Hibiscus Iced Tea: 2.89
+  Coconut Flan Delight: 6.15
+  Sizzling Fajita Platter: 15.01

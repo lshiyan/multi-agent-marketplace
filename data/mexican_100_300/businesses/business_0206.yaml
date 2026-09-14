@@ -1,0 +1,37 @@
+id: business_0206
+name: Sabor & Citro
+description: Sabor & Citro brings a fresh take on Mexican and Tex-Mex classics, blending
+  zesty citrus and savory flavors in a lively, modern setting. Enjoy bold dishes and
+  creative drinks crafted with a passion for authentic taste and vibrant ingredients.
+rating: 1.0
+progenitor_customer: customer_0069
+menu_features:
+  Chocolate Cinnamon Flan: 5.98
+  Grilled Pineapple & Shrimp Quesadillas: 12.16
+  Frozen Strawberry Daiquiri: 8.66
+  Black Bean Stuffed Sweet Potatoes: 6.41
+  Baja Fish Tacos: 15.06
+  Spicy Mango Margarita: 8.42
+  Black Bean and Avocado Wrap: 9.94
+  Cheesy Jalapeno Queso: 7.08
+  Red Chili Chicken Pozole: 10.11
+  Classic Lime Margarita: 9.7
+  Mesquite Grilled Steak Fajitas: 15.41
+  Blue Corn Tortilla Chips: 6.49
+  Honey Lime Fajita Sizzlers: 17.07
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Chocolate Cinnamon Flan: 4.78
+  Grilled Pineapple & Shrimp Quesadillas: 9.73
+  Frozen Strawberry Daiquiri: 6.93
+  Black Bean Stuffed Sweet Potatoes: 5.13
+  Baja Fish Tacos: 12.05
+  Spicy Mango Margarita: 6.74
+  Black Bean and Avocado Wrap: 7.95
+  Cheesy Jalapeno Queso: 5.66
+  Red Chili Chicken Pozole: 8.09
+  Classic Lime Margarita: 7.76
+  Mesquite Grilled Steak Fajitas: 12.33
+  Blue Corn Tortilla Chips: 5.19
+  Honey Lime Fajita Sizzlers: 13.66

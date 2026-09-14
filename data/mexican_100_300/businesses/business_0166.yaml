@@ -1,0 +1,43 @@
+id: business_0166
+name: La Mesa de Sabores
+description: Experience the vibrant tastes of Mexico and the Southwest in a warm,
+  festive setting. From sizzling specialties to fresh, zesty favorites, our kitchen
+  celebrates bold flavors and creative twists on classic dishes.
+rating: 1.0
+progenitor_customer: customer_0056
+menu_features:
+  Chili Lime Jicama Sticks: 6.5
+  Hatch Green Chile Quesadilla: 9.4
+  Chocolate Molten Tamale: 7.51
+  Grilled Pineapple Dessert Quesadilla: 8.46
+  Loaded Nacho Supreme: 11.33
+  Sizzling Steak Fajitas: 15.64
+  Spicy Shrimp Nacho Platter: 8.61
+  Smoky Chipotle BBQ Nachos: 10.62
+  Blue Corn Enchilada Bake: 13.68
+  Honey Lime Grilled Chicken: 12.14
+  Black Bean & Corn Queso Dip: 6.02
+  Roasted Corn and Black Bean Salsa: 7.16
+  Hibiscus Agua Fresca: 3.88
+  Loaded Chorizo Nachos: 8.92
+  Chipotle Lime Chicken Skewers: 12.17
+  Roasted Corn Enchiladas: 9.53
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Chili Lime Jicama Sticks: 5.07
+  Hatch Green Chile Quesadilla: 7.33
+  Chocolate Molten Tamale: 5.86
+  Grilled Pineapple Dessert Quesadilla: 6.6
+  Loaded Nacho Supreme: 8.84
+  Sizzling Steak Fajitas: 12.2
+  Spicy Shrimp Nacho Platter: 6.72
+  Smoky Chipotle BBQ Nachos: 8.28
+  Blue Corn Enchilada Bake: 10.67
+  Honey Lime Grilled Chicken: 9.47
+  Black Bean & Corn Queso Dip: 4.7
+  Roasted Corn and Black Bean Salsa: 5.58
+  Hibiscus Agua Fresca: 3.03
+  Loaded Chorizo Nachos: 6.96
+  Chipotle Lime Chicken Skewers: 9.49
+  Roasted Corn Enchiladas: 7.43

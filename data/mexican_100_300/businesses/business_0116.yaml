@@ -1,0 +1,47 @@
+id: business_0116
+name: Viva Verde Cantina
+description: Experience the vibrant flavors of Mexican and Tex-Mex cuisine in a lively,
+  welcoming setting. Our menu features bold, fresh ingredients and creative dishes
+  perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0039
+menu_features:
+  Spicy Black Bean Enchiladas: 9.73
+  Honey Lime Chicken Fajitas: 17.0
+  Avocado & Tomato Breakfast Tostadas: 6.91
+  Avocado Street Tacos: 10.82
+  Stuffed Poblano Peppers: 12.52
+  Zesty Lime Shrimp Skewers: 13.42
+  Zesty Lime Shrimp Salad: 15.06
+  Chipotle Lime Shrimp Skewers: 15.23
+  Roasted Poblano Veggie Skillet: 10.65
+  Grilled Pineapple Mojito: 9.45
+  Spicy Shrimp Ceviche: 10.92
+  Flamin' Skillet Fajitas: 17.41
+  Black Bean and Avocado Wrap: 8.97
+  Spicy Avocado Smash Burger: 11.34
+  Ranchero Steak Fajitas: 19.78
+  Blueberry Jalapeno Lemonade: 3.94
+  Sea Breeze Ceviche: 13.66
+  Grilled Street Corn: 5.63
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Spicy Black Bean Enchiladas: 7.88
+  Honey Lime Chicken Fajitas: 13.77
+  Avocado & Tomato Breakfast Tostadas: 5.6
+  Avocado Street Tacos: 8.76
+  Stuffed Poblano Peppers: 10.14
+  Zesty Lime Shrimp Skewers: 10.87
+  Zesty Lime Shrimp Salad: 12.2
+  Chipotle Lime Shrimp Skewers: 12.34
+  Roasted Poblano Veggie Skillet: 8.63
+  Grilled Pineapple Mojito: 7.65
+  Spicy Shrimp Ceviche: 8.85
+  Flamin' Skillet Fajitas: 14.1
+  Black Bean and Avocado Wrap: 7.27
+  Spicy Avocado Smash Burger: 9.19
+  Ranchero Steak Fajitas: 16.02
+  Blueberry Jalapeno Lemonade: 3.19
+  Sea Breeze Ceviche: 11.06
+  Grilled Street Corn: 4.56

@@ -1,0 +1,41 @@
+id: business_0288
+name: Cinnamon & Ceviche Cantina
+description: A vibrant spot where sweet and savory Mexican flavors come together in
+  creative harmony. Enjoy bold, fresh dishes and decadent desserts in a lively, welcoming
+  setting.
+rating: 1.0
+progenitor_customer: customer_0096
+menu_features:
+  Spicy Chocolate Lava Cake: 8.99
+  Sweet Potato and Black Bean Tacos: 12.32
+  Chili Lime Shrimp Skewers: 10.53
+  Huevos Rancheros: 9.98
+  Sea Breeze Ceviche: 16.32
+  Crispy Carnitas Quesadilla: 10.28
+  Twice-Baked Sweet Potato: 6.6
+  Mexican Chocolate Brownie: 5.97
+  Chocolate Cinnamon Flan: 5.62
+  Loaded Nacho Platter: 11.88
+  Spicy Shrimp Nacho Platter: 12.27
+  Tomatillo Salsa Verde Nachos: 11.03
+  Mexican Street Corn Salad: 8.14
+  Frozen Mango Margarita: 8.23
+  Caramel Apple Empanadas: 4.77
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Spicy Chocolate Lava Cake: 7.37
+  Sweet Potato and Black Bean Tacos: 10.1
+  Chili Lime Shrimp Skewers: 8.63
+  Huevos Rancheros: 8.18
+  Sea Breeze Ceviche: 13.38
+  Crispy Carnitas Quesadilla: 8.43
+  Twice-Baked Sweet Potato: 5.41
+  Mexican Chocolate Brownie: 4.9
+  Chocolate Cinnamon Flan: 4.61
+  Loaded Nacho Platter: 9.74
+  Spicy Shrimp Nacho Platter: 10.06
+  Tomatillo Salsa Verde Nachos: 9.04
+  Mexican Street Corn Salad: 6.67
+  Frozen Mango Margarita: 6.75
+  Caramel Apple Empanadas: 3.91

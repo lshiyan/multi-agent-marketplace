@@ -1,0 +1,45 @@
+id: business_0067
+name: "La Flor de Ma\xEDz"
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm, inviting space.
+  From fresh salads and sizzling skewers to classic burritos and refreshing cocktails,
+  every meal is a celebration of taste and tradition.
+rating: 1.0
+progenitor_customer: customer_0023
+menu_features:
+  Frozen Strawberry Margarita: 10.07
+  Breakfast Burrito Bowl: 6.34
+  Blue Corn Tostada Salad: 11.14
+  Grilled Chipotle Chicken Burrito: 12.68
+  Creamy Jalapeno Corn Fritters: 8.08
+  Queso Fundido with Chorizo: 9.38
+  Crispy Avocado Burrito: 15.03
+  Loaded Nacho Fiesta: 7.67
+  Sunset Grilled Veggie Tacos: 10.04
+  Crispy Fish Baja Bowl: 14.19
+  Breakfast Burrito Bonanza: 9.08
+  Chili Lime Shrimp Skewers: 11.61
+  Cactus Flower Iced Tea: 4.63
+  Ancho Chile Beef Chili: 9.59
+  Pineapple Habanero Salsa: 3.78
+  Honey Lime Chicken Skewers: 11.7
+  Stuffed Poblano Peppers: 11.62
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Frozen Strawberry Margarita: 8.56
+  Breakfast Burrito Bowl: 5.39
+  Blue Corn Tostada Salad: 9.47
+  Grilled Chipotle Chicken Burrito: 10.78
+  Creamy Jalapeno Corn Fritters: 6.87
+  Queso Fundido with Chorizo: 7.97
+  Crispy Avocado Burrito: 12.78
+  Loaded Nacho Fiesta: 6.52
+  Sunset Grilled Veggie Tacos: 8.53
+  Crispy Fish Baja Bowl: 12.06
+  Breakfast Burrito Bonanza: 7.72
+  Chili Lime Shrimp Skewers: 9.87
+  Cactus Flower Iced Tea: 3.94
+  Ancho Chile Beef Chili: 8.15
+  Pineapple Habanero Salsa: 3.21
+  Honey Lime Chicken Skewers: 9.94
+  Stuffed Poblano Peppers: 9.88

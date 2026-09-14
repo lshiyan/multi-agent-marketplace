@@ -1,0 +1,42 @@
+id: business_0074
+name: Sabores del Sol Cantina
+description: Experience the vibrant flavors and fresh ingredients of Mexican and Tex-Mex
+  cuisine. Enjoy a warm, welcoming atmosphere with a creative twist on classic favorites.
+rating: 1.0
+progenitor_customer: customer_0025
+menu_features:
+  Grilled Pineapple Dessert Quesadilla: 7.25
+  Coconut Lime Paleta: 3.56
+  Zesty Lime Chicken Tacos: 11.44
+  Smoky Chipotle Queso: 7.78
+  Chili-Lime Cauliflower Bites: 7.1
+  Black Bean and Corn Fiesta Salad: 7.16
+  Chili Lime Street Corn: 6.61
+  Sweet Potato and Black Bean Tacos: 12.64
+  Chipotle Lime Shrimp Skewers: 14.69
+  Fiesta Street Corn: 5.21
+  Ancho Chili Braised Beef Enchiladas: 14.11
+  Baja Fish Taco Plate: 10.18
+  Chili Lime Watermelon Salad: 8.94
+  Black Bean Burgers: 8.89
+  Pico Avocado Toast: 8.28
+  Zesty Lime Shrimp Salad: 10.26
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Grilled Pineapple Dessert Quesadilla: 6.74
+  Coconut Lime Paleta: 3.31
+  Zesty Lime Chicken Tacos: 10.64
+  Smoky Chipotle Queso: 7.24
+  Chili-Lime Cauliflower Bites: 6.6
+  Black Bean and Corn Fiesta Salad: 6.66
+  Chili Lime Street Corn: 6.15
+  Sweet Potato and Black Bean Tacos: 11.76
+  Chipotle Lime Shrimp Skewers: 13.66
+  Fiesta Street Corn: 4.85
+  Ancho Chili Braised Beef Enchiladas: 13.12
+  Baja Fish Taco Plate: 9.47
+  Chili Lime Watermelon Salad: 8.31
+  Black Bean Burgers: 8.27
+  Pico Avocado Toast: 7.7
+  Zesty Lime Shrimp Salad: 9.54

@@ -1,0 +1,41 @@
+id: business_0196
+name: "Sabores del \xC1vocado"
+description: Experience the vibrant flavors of Mexico and the Southwest in a welcoming
+  setting, where fresh ingredients and inventive combinations come together. Enjoy
+  a variety of classic and contemporary dishes, perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0066
+menu_features:
+  Creamy Queso Dip: 7.33
+  Tamale Trio Sampler: 12.44
+  Pineapple Salsa Shrimp Tacos: 16.21
+  Frozen Strawberry Daiquiri: 10.58
+  Breakfast Chorizo Tostadas: 7.92
+  Ranchero Steak Fajitas: 15.05
+  Avocado Lime Empanadas: 8.06
+  Black Bean and Sweet Potato Empanadas: 9.95
+  Spicy Avocado Smash Burger: 15.03
+  Zesty Shrimp Ceviche: 13.05
+  Avocado Lime Salad: 11.27
+  Zesty Lime Chicken Fajitas: 17.44
+  Grilled Avocado and Quinoa Bowl: 12.76
+  Avocado Lime Grilled Shrimp: 11.72
+  Spicy Pork Tamales: 12.25
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Creamy Queso Dip: 5.5
+  Tamale Trio Sampler: 9.33
+  Pineapple Salsa Shrimp Tacos: 12.16
+  Frozen Strawberry Daiquiri: 7.94
+  Breakfast Chorizo Tostadas: 5.94
+  Ranchero Steak Fajitas: 11.29
+  Avocado Lime Empanadas: 6.04
+  Black Bean and Sweet Potato Empanadas: 7.46
+  Spicy Avocado Smash Burger: 11.27
+  Zesty Shrimp Ceviche: 9.79
+  Avocado Lime Salad: 8.45
+  Zesty Lime Chicken Fajitas: 13.08
+  Grilled Avocado and Quinoa Bowl: 9.57
+  Avocado Lime Grilled Shrimp: 8.79
+  Spicy Pork Tamales: 9.19

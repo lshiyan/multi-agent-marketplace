@@ -1,0 +1,35 @@
+id: business_0059
+name: Poblano & Pineapple
+description: Experience a vibrant fusion of classic Mexican and Tex-Mex flavors in
+  a lively, welcoming setting. Our creative dishes blend bold spices and fresh ingredients
+  for a memorable dining adventure.
+rating: 1.0
+progenitor_customer: customer_0020
+menu_features:
+  Stuffed Poblano Peppers: 14.06
+  Pineapple Pico de Gallo Salsa: 5.24
+  Garlic Lime Shrimp Salad: 15.84
+  Black Bean and Corn Fiesta Salad: 9.71
+  Ranchero Steak Fajitas: 18.23
+  Ancho Chili Spiced Ribs: 14.21
+  Carnitas Plantain Burrito: 11.54
+  Honey Lime Grilled Corn: 4.94
+  Spicy Chorizo Enchiladas: 16.86
+  Grilled Pineapple and Pork Tacos: 12.03
+  Tamarind Spiced Agua Fresca: 3.89
+  "Cheesy Jalape\xF1o Queso Dip": 7.68
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Stuffed Poblano Peppers: 13.08
+  Pineapple Pico de Gallo Salsa: 4.87
+  Garlic Lime Shrimp Salad: 14.73
+  Black Bean and Corn Fiesta Salad: 9.03
+  Ranchero Steak Fajitas: 16.95
+  Ancho Chili Spiced Ribs: 13.22
+  Carnitas Plantain Burrito: 10.73
+  Honey Lime Grilled Corn: 4.59
+  Spicy Chorizo Enchiladas: 15.68
+  Grilled Pineapple and Pork Tacos: 11.19
+  Tamarind Spiced Agua Fresca: 3.62
+  "Cheesy Jalape\xF1o Queso Dip": 7.14

@@ -1,0 +1,36 @@
+id: business_0135
+name: La Senda Sabrosa
+description: Experience vibrant Mexican and Tex-Mex cuisine in a warm, welcoming atmosphere.
+  Savor an inspired menu that celebrates classic flavors with fresh, modern twists.
+rating: 1.0
+progenitor_customer: customer_0045
+menu_features:
+  Avocado Lime Empanadas: 10.03
+  Grilled Pineapple and Shrimp Salad: 13.78
+  Warm Cinnamon Churros: 6.25
+  Grilled Street Corn: 7.26
+  Veggie Fajita Platter: 14.31
+  Vanilla Cinnamon Horchata: 3.78
+  Loaded Nacho Platter: 8.82
+  Avocado Lime Grilled Shrimp: 13.19
+  Salted Caramel Margarita: 8.34
+  Refreshing Agua Fresca Trio: 9.23
+  Breakfast Burrito Bonanza: 8.58
+  Smoky Chipotle BBQ Nachos: 11.43
+  Chocolate Dipped Flan: 5.59
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Avocado Lime Empanadas: 6.22
+  Grilled Pineapple and Shrimp Salad: 8.54
+  Warm Cinnamon Churros: 3.88
+  Grilled Street Corn: 4.5
+  Veggie Fajita Platter: 8.87
+  Vanilla Cinnamon Horchata: 2.34
+  Loaded Nacho Platter: 5.47
+  Avocado Lime Grilled Shrimp: 8.18
+  Salted Caramel Margarita: 5.17
+  Refreshing Agua Fresca Trio: 5.72
+  Breakfast Burrito Bonanza: 5.32
+  Smoky Chipotle BBQ Nachos: 7.09
+  Chocolate Dipped Flan: 3.47

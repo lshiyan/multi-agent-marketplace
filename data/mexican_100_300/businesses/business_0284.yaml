@@ -1,0 +1,39 @@
+id: business_0284
+name: Holy Tostada!
+description: A vibrant spot where crispy creations meet bold Mexican flavors, Holy
+  Tostada! serves up fresh takes on classic plates and irresistible sweets with a
+  twist. Come savor colorful bites and indulge your adventurous palate.
+rating: 1.0
+progenitor_customer: customer_0095
+menu_features:
+  Mexican Coffee Flan: 5.64
+  Poblano Pepper Relleno Plate: 12.11
+  Cheesy Jalapeno Poppers: 7.78
+  Shrimp and Avocado Ceviche: 13.47
+  Avocado Lime Crema Tostadas: 10.12
+  Chorizo and Egg Tacos: 7.83
+  Smoky BBQ Pork Tostadas: 8.82
+  Warm Churro Bites: 7.14
+  Pumpkin Spice Flan: 6.56
+  Avocado Lime Quinoa Bowl: 10.13
+  Black Bean Avocado Tostadas: 11.4
+  Fresh Mango Salsa Nachos: 9.5
+  Tomatillo Ranch Enchiladas: 13.73
+  Crispy Avocado Tostadas: 11.65
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Mexican Coffee Flan: 4.57
+  Poblano Pepper Relleno Plate: 9.81
+  Cheesy Jalapeno Poppers: 6.3
+  Shrimp and Avocado Ceviche: 10.91
+  Avocado Lime Crema Tostadas: 8.2
+  Chorizo and Egg Tacos: 6.34
+  Smoky BBQ Pork Tostadas: 7.14
+  Warm Churro Bites: 5.78
+  Pumpkin Spice Flan: 5.31
+  Avocado Lime Quinoa Bowl: 8.21
+  Black Bean Avocado Tostadas: 9.23
+  Fresh Mango Salsa Nachos: 7.7
+  Tomatillo Ranch Enchiladas: 11.12
+  Crispy Avocado Tostadas: 9.44

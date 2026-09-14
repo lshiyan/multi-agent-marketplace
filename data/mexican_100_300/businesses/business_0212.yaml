@@ -1,0 +1,33 @@
+id: business_0212
+name: "Az\xFAcar & Alchemy"
+description: "Az\xFAcar & Alchemy brings vibrant Mexican and Tex-Mex flavors together\
+  \ with a creative, modern twist. Enjoy a fresh mix of sweet and spicy cocktails,\
+  \ savory shareables, and unique desserts in a lively, stylish setting."
+rating: 1.0
+progenitor_customer: customer_0071
+menu_features:
+  Raspberry Jalapeno Mojito: 9.35
+  Loaded Nachos Grande: 10.75
+  Jalapeno Mango Margarita: 8.24
+  Avocado Lime Grilled Shrimp: 12.45
+  Queso Fundido with Chorizo: 8.86
+  Tamarind Glazed Wings: 9.42
+  Sweet Corn Tamale Cake: 8.73
+  Classic Flan Delight: 6.03
+  Breakfast Tostada Stack: 11.16
+  Coconut Lime Paleta: 4.08
+  Roasted Pepper Queso Dip: 8.23
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Raspberry Jalapeno Mojito: 7.95
+  Loaded Nachos Grande: 9.14
+  Jalapeno Mango Margarita: 7.0
+  Avocado Lime Grilled Shrimp: 10.58
+  Queso Fundido with Chorizo: 7.53
+  Tamarind Glazed Wings: 8.01
+  Sweet Corn Tamale Cake: 7.42
+  Classic Flan Delight: 5.13
+  Breakfast Tostada Stack: 9.49
+  Coconut Lime Paleta: 3.47
+  Roasted Pepper Queso Dip: 7.0

@@ -1,0 +1,41 @@
+id: business_0108
+name: Mango & Mezcal
+description: Experience a vibrant twist on Mexican and Tex-Mex favorites, blending
+  bold citrus, tropical flavors, and smoky spice in every bite and sip. A lively destination
+  for creative cocktails, savory bites, and a colorful atmosphere.
+rating: 1.0
+progenitor_customer: customer_0036
+menu_features:
+  Jalapeno Mango Margarita: 9.94
+  Poblano Pepper Queso Dip: 6.22
+  Spicy Pineapple Salsa Dip: 5.79
+  Classic Beef Enchiladas: 11.07
+  Crispy Avocado Tostadas: 12.1
+  Tequila Lime Chicken Wings: 10.73
+  Margarita Lime Cheesecake: 6.19
+  Mango Jalapeno Slush: 5.91
+  Bacon Wrapped Jalapeno Bites: 7.35
+  Coconut Lime Paleta: 4.41
+  Blue Agave Tequila Sunrise: 8.78
+  Breakfast Burrito Supreme: 9.52
+  Zesty Lime Grilled Chicken: 14.62
+  Smoky Chipotle Queso: 6.82
+  Honey Chipotle Wings: 8.29
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Jalapeno Mango Margarita: 7.85
+  Poblano Pepper Queso Dip: 4.91
+  Spicy Pineapple Salsa Dip: 4.57
+  Classic Beef Enchiladas: 8.75
+  Crispy Avocado Tostadas: 9.56
+  Tequila Lime Chicken Wings: 8.48
+  Margarita Lime Cheesecake: 4.89
+  Mango Jalapeno Slush: 4.67
+  Bacon Wrapped Jalapeno Bites: 5.81
+  Coconut Lime Paleta: 3.48
+  Blue Agave Tequila Sunrise: 6.94
+  Breakfast Burrito Supreme: 7.52
+  Zesty Lime Grilled Chicken: 11.55
+  Smoky Chipotle Queso: 5.39
+  Honey Chipotle Wings: 6.55

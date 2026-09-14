@@ -1,0 +1,9 @@
+id: customer_0005
+name: Emily Parker
+request: "Could you please help me find a business that offers both a Horchata Cold\
+  \ Brew Coffee and a Strawberry Jalape\xF1o Mocktail? I would like to place an order\
+  \ for 1 of each. Thank you!"
+menu_features:
+  Horchata Cold Brew Coffee: 4.99
+  "Strawberry Jalape\xF1o Mocktail": 5.99
+amenity_features: []

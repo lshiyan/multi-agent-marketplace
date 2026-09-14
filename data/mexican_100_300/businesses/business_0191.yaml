@@ -1,0 +1,43 @@
+id: business_0191
+name: Bean Me Up, Picante
+description: Where bold flavors and fresh ingredients fuse with a playful Tex-Mex
+  twist. Enjoy inventive brunch classics, zesty cocktails, and plenty of spice in
+  every bite.
+rating: 1.0
+progenitor_customer: customer_0064
+menu_features:
+  Verde Ranchero Huevos: 8.47
+  Spicy Cucumber Margarita: 8.35
+  Spicy Zucchini Tostadas: 7.88
+  Black Bean Sweet Potato Burrito: 10.79
+  Honey Chipotle Wings: 10.09
+  Caramelized Onion and Goat Cheese Empanadas: 7.42
+  Tex-Mex Breakfast Skillet: 9.9
+  Spicy Black Bean and Cheese Quesadilla: 10.8
+  Paloma Breeze Cocktail: 7.36
+  Strawberry Jalapeno Lemonade: 3.15
+  Ancho Chili Spiced Ribs: 14.2
+  Black Bean Crunch Wrap: 11.4
+  "Cheesy Jalape\xF1o Quesadillas": 11.24
+  Black Bean Stuffed Bell Peppers: 11.41
+  Ancho Chile Chicken Salad: 10.54
+  Cactus Cooler Margarita: 8.55
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Verde Ranchero Huevos: 6.86
+  Spicy Cucumber Margarita: 6.76
+  Spicy Zucchini Tostadas: 6.38
+  Black Bean Sweet Potato Burrito: 8.74
+  Honey Chipotle Wings: 8.17
+  Caramelized Onion and Goat Cheese Empanadas: 6.01
+  Tex-Mex Breakfast Skillet: 8.02
+  Spicy Black Bean and Cheese Quesadilla: 8.75
+  Paloma Breeze Cocktail: 5.96
+  Strawberry Jalapeno Lemonade: 2.55
+  Ancho Chili Spiced Ribs: 11.5
+  Black Bean Crunch Wrap: 9.23
+  "Cheesy Jalape\xF1o Quesadillas": 9.1
+  Black Bean Stuffed Bell Peppers: 9.24
+  Ancho Chile Chicken Salad: 8.54
+  Cactus Cooler Margarita: 6.93

@@ -1,0 +1,12 @@
+id: customer_0070
+name: James Anderson
+request: 'Please assist me in finding a business that can fulfill an order for the
+  following specific menu items: 1 Charred Corn & Cotija Nachos, 1 Creamy Avocado
+  Soup, and 1 Shrimp Ceviche Bowl. It''s important that all listed items are available
+  from the same business. Once found, I intend to place this order. Thank you for
+  your assistance.'
+menu_features:
+  Charred Corn & Cotija Nachos: 7.99
+  Creamy Avocado Soup: 7.49
+  Shrimp Ceviche Bowl: 13.49
+amenity_features: []

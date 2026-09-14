@@ -1,0 +1,46 @@
+id: business_0270
+name: Flantastic Voyage
+description: Embark on a culinary adventure where bold Mexican and Tex-Mex flavors
+  take center stage, from zesty street snacks to vibrant, shareable plates. Savor
+  every moment with house-made salsas, tangy marinades, and sweetly spiced desserts
+  in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0090
+menu_features:
+  Sweet Chili Lime Elote: 5.13
+  Sizzling Chicken Fajitas: 15.84
+  Chili-Lime Cauliflower Bites: 7.53
+  Hibiscus Agua Fresca: 3.43
+  Mango Habanero Wings: 13.61
+  Grilled Steak Quesadilla: 13.84
+  Fresh Mango Salsa Nachos: 8.83
+  "Cheesy Jalape\xF1o Quesadillas": 8.87
+  Honey Lime Chicken Skewers: 12.1
+  Chipotle BBQ Tacos: 14.53
+  Al Pastor Pork Tacos: 14.18
+  Baja Fish Tacos: 16.03
+  Sweet Corn Tamales: 12.72
+  Chili Lime Shrimp Skewers: 10.25
+  Black Bean Avocado Enchiladas: 10.02
+  Pumpkin Spice Flan: 5.88
+  Breakfast Chorizo Torta: 7.42
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Sweet Chili Lime Elote: 3.8
+  Sizzling Chicken Fajitas: 11.72
+  Chili-Lime Cauliflower Bites: 5.57
+  Hibiscus Agua Fresca: 2.54
+  Mango Habanero Wings: 10.07
+  Grilled Steak Quesadilla: 10.24
+  Fresh Mango Salsa Nachos: 6.53
+  "Cheesy Jalape\xF1o Quesadillas": 6.56
+  Honey Lime Chicken Skewers: 8.95
+  Chipotle BBQ Tacos: 10.75
+  Al Pastor Pork Tacos: 10.49
+  Baja Fish Tacos: 11.86
+  Sweet Corn Tamales: 9.41
+  Chili Lime Shrimp Skewers: 7.58
+  Black Bean Avocado Enchiladas: 7.41
+  Pumpkin Spice Flan: 4.35
+  Breakfast Chorizo Torta: 5.49

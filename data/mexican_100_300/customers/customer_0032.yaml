@@ -1,0 +1,12 @@
+id: customer_0032
+name: Benjamin Clark
+request: 'I am looking to place an order with a business that can provide the following
+  menu items: 1 Caramelized Onion Queso Dip, 1 Adobo Roasted Corn Salad, and 1 Classic
+  Tortilla Soup. It''s important to me that all of these items are available. Could
+  you please find such a business for me, as I intend to proceed with this order?
+  Thank you.'
+menu_features:
+  Caramelized Onion Queso Dip: 7.49
+  Adobo Roasted Corn Salad: 8.49
+  Classic Tortilla Soup: 6.49
+amenity_features: []

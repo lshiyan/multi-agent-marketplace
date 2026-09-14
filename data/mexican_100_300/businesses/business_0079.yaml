@@ -1,0 +1,39 @@
+id: business_0079
+name: Salsa & Skillet
+description: Experience the vibrant flavors of Mexico and the Southwest with an inspired
+  variety of salsas, hearty dips, and veggie skillets. A festive spot for fresh bites,
+  zesty salads, and a taste of spice in every dish.
+rating: 1.0
+progenitor_customer: customer_0027
+menu_features:
+  Spicy Pineapple Salsa Dip: 5.9
+  Queso Fundido with Chorizo: 9.06
+  Three-Cheese Queso Dip: 7.98
+  Classic Tortilla Soup: 5.25
+  Spicy Black Bean Nacho Platter: 10.76
+  Tomatillo Salsa Verde Nachos: 8.18
+  Chili Con Queso Supreme: 7.46
+  Roasted Poblano Veggie Skillet: 8.82
+  Caramelized Onion Queso Dip: 7.03
+  Chipotle Bean Burrito: 8.35
+  Southwestern Quinoa Salad: 9.41
+  Jicama and Citrus Salad: 8.01
+  Minty Mojito Refresher: 7.75
+  Sweet Corn Tostadas: 5.44
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Spicy Pineapple Salsa Dip: 3.95
+  Queso Fundido with Chorizo: 6.07
+  Three-Cheese Queso Dip: 5.35
+  Classic Tortilla Soup: 3.52
+  Spicy Black Bean Nacho Platter: 7.21
+  Tomatillo Salsa Verde Nachos: 5.48
+  Chili Con Queso Supreme: 5.0
+  Roasted Poblano Veggie Skillet: 5.91
+  Caramelized Onion Queso Dip: 4.71
+  Chipotle Bean Burrito: 5.59
+  Southwestern Quinoa Salad: 6.3
+  Jicama and Citrus Salad: 5.37
+  Minty Mojito Refresher: 5.19
+  Sweet Corn Tostadas: 3.64

@@ -1,0 +1,41 @@
+id: business_0073
+name: "Grill & Thrill Jalape\xF1o"
+description: Get fired up for bold Mexican and Tex-Mex flavors, from smoky favorites
+  to zesty, fresh bites. Satisfy your cravings with vibrant dishes and a side of fun
+  in every meal.
+rating: 1.0
+progenitor_customer: customer_0025
+menu_features:
+  Smoky Chipotle BBQ Ribs: 19.2
+  Black Bean & Corn Queso Dip: 7.07
+  Zesty Lime Chicken Tacos: 10.07
+  Tequila Lime Flan: 8.19
+  Fajita Veggie Burrito Bowl: 12.32
+  Blue Corn Tostada Salad: 10.23
+  Shrimp and Avocado Ceviche: 10.87
+  Chili Lime Jicama Sticks: 6.46
+  Baja Fish Taco Plate: 14.89
+  Mexican Chocolate Brownie: 5.42
+  Sizzling Fajita Skillet: 14.82
+  Classic Horchata Smoothie: 4.75
+  Vanilla Flan Delight: 4.73
+  Smoky BBQ Pork Tostadas: 12.84
+  Frozen Mango Margarita: 9.12
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Smoky Chipotle BBQ Ribs: 11.71
+  Black Bean & Corn Queso Dip: 4.31
+  Zesty Lime Chicken Tacos: 6.14
+  Tequila Lime Flan: 5.0
+  Fajita Veggie Burrito Bowl: 7.52
+  Blue Corn Tostada Salad: 6.24
+  Shrimp and Avocado Ceviche: 6.63
+  Chili Lime Jicama Sticks: 3.94
+  Baja Fish Taco Plate: 9.08
+  Mexican Chocolate Brownie: 3.31
+  Sizzling Fajita Skillet: 9.04
+  Classic Horchata Smoothie: 2.9
+  Vanilla Flan Delight: 2.89
+  Smoky BBQ Pork Tostadas: 7.83
+  Frozen Mango Margarita: 5.56

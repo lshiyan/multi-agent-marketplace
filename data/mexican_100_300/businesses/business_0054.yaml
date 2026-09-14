@@ -1,0 +1,33 @@
+id: business_0054
+name: Queso, Carnitas & Quirk
+description: A vibrant spot serving up inventive Mexican and Tex-Mex classics with
+  a twist. Come savor bold flavors, colorful dishes, and a playful spirit in every
+  bite.
+rating: 1.0
+progenitor_customer: customer_0018
+menu_features:
+  Coconut Lime Paleta: 3.23
+  Jicama and Citrus Salad: 8.62
+  Spicy Black Bean Nacho Platter: 10.2
+  Chipotle Bourbon Carnitas: 16.35
+  Sweet Plantain Empanadas: 7.91
+  Hatch Chile Queso Dip: 7.91
+  Pork Carnitas Platter: 13.28
+  Crispy Avocado Wedges: 7.41
+  Ranchero Eggs Benedict: 13.18
+  Roasted Poblano Veggie Skillet: 9.8
+  Grilled Steak Fajita Platter: 14.22
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Coconut Lime Paleta: 2.2
+  Jicama and Citrus Salad: 5.86
+  Spicy Black Bean Nacho Platter: 6.94
+  Chipotle Bourbon Carnitas: 11.12
+  Sweet Plantain Empanadas: 5.38
+  Hatch Chile Queso Dip: 5.38
+  Pork Carnitas Platter: 9.03
+  Crispy Avocado Wedges: 5.04
+  Ranchero Eggs Benedict: 8.96
+  Roasted Poblano Veggie Skillet: 6.66
+  Grilled Steak Fajita Platter: 9.67

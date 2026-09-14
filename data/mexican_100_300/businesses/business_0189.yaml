@@ -1,0 +1,37 @@
+id: business_0189
+name: Cinnamon & Citrus Cantina
+description: Step into a vibrant cantina where bold spices and zesty flavors come
+  together in creative Mexican and Tex-Mex dishes. Enjoy a lively atmosphere and a
+  menu filled with sweet, smoky, and savory bites, all inspired by the spirit of Mexico.
+rating: 1.0
+progenitor_customer: customer_0063
+menu_features:
+  Chili Lime Roasted Corn: 5.0
+  Cinnamon Sugar Churros: 3.63
+  "Cheesy Jalape\xF1o Quesadillas": 10.01
+  Spiced Pumpkin Empanadas: 4.66
+  Horchata Latte: 4.63
+  Pineapple Pico de Gallo Salsa: 7.52
+  Grilled Steak Quesadilla: 14.09
+  Spicy Chicken Chimichanga: 10.06
+  Mexican Chocolate Lava Cake: 7.89
+  "Cheesy Jalape\xF1o Queso Dip": 7.55
+  Smoky Black Bean Enchiladas: 11.87
+  Fresh Corn Elote: 3.71
+  Spice-Rubbed Grilled Fajitas: 12.23
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Chili Lime Roasted Corn: 3.95
+  Cinnamon Sugar Churros: 2.87
+  "Cheesy Jalape\xF1o Quesadillas": 7.91
+  Spiced Pumpkin Empanadas: 3.68
+  Horchata Latte: 3.66
+  Pineapple Pico de Gallo Salsa: 5.94
+  Grilled Steak Quesadilla: 11.13
+  Spicy Chicken Chimichanga: 7.95
+  Mexican Chocolate Lava Cake: 6.23
+  "Cheesy Jalape\xF1o Queso Dip": 5.96
+  Smoky Black Bean Enchiladas: 9.38
+  Fresh Corn Elote: 2.93
+  Spice-Rubbed Grilled Fajitas: 9.66

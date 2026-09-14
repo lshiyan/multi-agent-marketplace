@@ -1,0 +1,41 @@
+id: business_0105
+name: Fajita Fusion
+description: Experience a fresh twist on Mexican and Tex-Mex comfort classics, sizzling
+  with bold flavors and vibrant ingredients. From savory starters to sweet finishes,
+  Fajita Fusion promises a lively and delicious dining adventure.
+rating: 1.0
+progenitor_customer: customer_0035
+menu_features:
+  Ranchero Steak Fajitas: 18.05
+  Tex-Mex Fajita Wrap: 11.87
+  Blue Corn Enchilada Bake: 10.35
+  Sizzling Fajita Skillet: 15.63
+  Bacon Wrapped Jalapeno Bites: 7.82
+  Tequila Lime Flan: 8.8
+  Tex-Mex Breakfast Skillet: 9.02
+  Green Chile Cheesesteak: 12.17
+  Honey Lime Grilled Fajitas: 12.95
+  Crispy Avocado Burrito: 11.71
+  Spicy Chipotle Chicken Wings: 8.53
+  Creamy Queso Dip: 9.31
+  "Cheesy Jalape\xF1o Queso Dip": 9.8
+  Grilled Chipotle Chicken Burrito: 11.4
+  Spicy Avocado Smash Burger: 13.87
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Ranchero Steak Fajitas: 11.37
+  Tex-Mex Fajita Wrap: 7.48
+  Blue Corn Enchilada Bake: 6.52
+  Sizzling Fajita Skillet: 9.85
+  Bacon Wrapped Jalapeno Bites: 4.93
+  Tequila Lime Flan: 5.54
+  Tex-Mex Breakfast Skillet: 5.68
+  Green Chile Cheesesteak: 7.67
+  Honey Lime Grilled Fajitas: 8.16
+  Crispy Avocado Burrito: 7.38
+  Spicy Chipotle Chicken Wings: 5.37
+  Creamy Queso Dip: 5.87
+  "Cheesy Jalape\xF1o Queso Dip": 6.17
+  Grilled Chipotle Chicken Burrito: 7.18
+  Spicy Avocado Smash Burger: 8.74

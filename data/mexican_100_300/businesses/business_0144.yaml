@@ -1,0 +1,33 @@
+id: business_0144
+name: Palma & Pico
+description: A vibrant modern eatery celebrating the fresh, lively flavors of Mexican
+  and Tex-Mex cuisine. Enjoy creative tacos, zesty salsas, and refreshing drinks in
+  a bright, inviting setting.
+rating: 1.0
+progenitor_customer: customer_0048
+menu_features:
+  Creamy Avocado Smoothie: 4.96
+  Crispy Tinga Chicken Tacos: 11.05
+  Hibiscus Agua Fresca: 3.47
+  Pineapple Pico de Gallo Nachos: 9.72
+  Margarita Grilled Chicken: 16.04
+  Crispy Fish Tacos: 13.0
+  Golden Tequila Sunrise: 7.24
+  Raspberry Chipotle Barbecue Ribs: 11.7
+  Baja Fish Tacos: 13.2
+  Pineapple Chipotle Salsa & Chips: 6.29
+  Coconut Lime Flan: 6.46
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Creamy Avocado Smoothie: 3.37
+  Crispy Tinga Chicken Tacos: 7.51
+  Hibiscus Agua Fresca: 2.36
+  Pineapple Pico de Gallo Nachos: 6.61
+  Margarita Grilled Chicken: 10.91
+  Crispy Fish Tacos: 8.84
+  Golden Tequila Sunrise: 4.92
+  Raspberry Chipotle Barbecue Ribs: 7.96
+  Baja Fish Tacos: 8.98
+  Pineapple Chipotle Salsa & Chips: 4.28
+  Coconut Lime Flan: 4.39

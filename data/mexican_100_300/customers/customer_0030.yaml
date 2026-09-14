@@ -1,0 +1,11 @@
+id: customer_0030
+name: Liam O'Reilly
+request: 'I would like to place an order with a business that serves the following
+  menu items: 1 Crispy Fish Street Tacos, 1 Loaded Sweet Potato Fries, and 1 Al Pastor
+  Quesadilla. Please ensure that the business can provide all of these items. Thank
+  you.'
+menu_features:
+  Crispy Fish Street Tacos: 14.99
+  Loaded Sweet Potato Fries: 6.99
+  Al Pastor Quesadilla: 11.99
+amenity_features: []

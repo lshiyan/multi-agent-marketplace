@@ -1,0 +1,41 @@
+id: business_0006
+name: "Sol y Saz\xF3n"
+description: "Sol y Saz\xF3n offers vibrant, flavorful takes on Mexican and Tex-Mex\
+  \ classics with a creative twist. Enjoy fresh, spicy dishes and inventive cocktails\
+  \ in a lively, modern setting."
+rating: 1.0
+progenitor_customer: customer_0002
+menu_features:
+  Spicy Shrimp Fajitas: 11.34
+  Spicy Cucumber Margarita: 9.01
+  Mango Jalapeno Salsa and Chips: 5.71
+  Chocolate Mole Brownie: 8.68
+  Stuffed Avocado Boats: 9.09
+  Cocoa Cinnamon Tequila: 10.53
+  Roasted Poblano Quesadilla: 9.39
+  Stuffed Avocado Delight: 7.06
+  Coconut Lime Tres Leches: 7.44
+  Horchata Iced Latte: 3.91
+  Frozen Strawberry Daiquiri: 8.43
+  Chili Lime Watermelon Salad: 9.64
+  Loaded Nacho Fries: 7.5
+  Sunrise Breakfast Tacos: 8.72
+  Blueberry Jalapeno Margarita: 9.79
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Spicy Shrimp Fajitas: 7.82
+  Spicy Cucumber Margarita: 6.22
+  Mango Jalapeno Salsa and Chips: 3.94
+  Chocolate Mole Brownie: 5.99
+  Stuffed Avocado Boats: 6.27
+  Cocoa Cinnamon Tequila: 7.27
+  Roasted Poblano Quesadilla: 6.48
+  Stuffed Avocado Delight: 4.87
+  Coconut Lime Tres Leches: 5.13
+  Horchata Iced Latte: 2.7
+  Frozen Strawberry Daiquiri: 5.82
+  Chili Lime Watermelon Salad: 6.65
+  Loaded Nacho Fries: 5.17
+  Sunrise Breakfast Tacos: 6.02
+  Blueberry Jalapeno Margarita: 6.76

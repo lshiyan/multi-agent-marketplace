@@ -1,0 +1,11 @@
+id: customer_0087
+name: Lucy Clark
+request: 'Could you please help me find a restaurant where I can place an order for
+  the following items: 1 Classic Carne Asada Burrito, 1 Chorizo Breakfast Tacos, and
+  1 Verde Chicken Enchiladas? It is important that the business can provide exactly
+  these items, as I intend to purchase them. Thank you very much for your assistance.'
+menu_features:
+  Classic Carne Asada Burrito: 12.49
+  Chorizo Breakfast Tacos: 10.99
+  Verde Chicken Enchiladas: 12.99
+amenity_features: []

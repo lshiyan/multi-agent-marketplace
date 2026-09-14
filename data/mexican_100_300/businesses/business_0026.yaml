@@ -1,0 +1,36 @@
+id: business_0026
+name: Fuego & Fresco
+description: Experience bold flavors and fresh ingredients with every bite at Fuego
+  & Fresco, where the vibrant spirit of Mexican and Tex-Mex cuisine comes alive in
+  every dish and drink. Join us for a sizzling meal that celebrates both tradition
+  and creativity.
+rating: 1.0
+progenitor_customer: customer_0009
+menu_features:
+  Tamarind Glazed Wings: 13.17
+  Loaded Nacho Fries: 9.27
+  Avocado Lime Grilled Shrimp: 15.33
+  Ancho Chile BBQ Ribs: 22.07
+  Queso Fundido with Chorizo: 9.86
+  Black Bean & Corn Queso Dip: 7.92
+  Spicy Mango Margarita: 9.98
+  Passionfruit Paloma: 9.47
+  Roasted Pecan Flan: 4.41
+  Sizzling Fajita Plate: 17.42
+  Hibiscus Agua Fresca: 3.75
+  Mexican Hot Chocolate: 4.34
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Tamarind Glazed Wings: 9.88
+  Loaded Nacho Fries: 6.95
+  Avocado Lime Grilled Shrimp: 11.5
+  Ancho Chile BBQ Ribs: 16.55
+  Queso Fundido with Chorizo: 7.39
+  Black Bean & Corn Queso Dip: 5.94
+  Spicy Mango Margarita: 7.49
+  Passionfruit Paloma: 7.1
+  Roasted Pecan Flan: 3.31
+  Sizzling Fajita Plate: 13.07
+  Hibiscus Agua Fresca: 2.81
+  Mexican Hot Chocolate: 3.25

@@ -1,0 +1,10 @@
+id: customer_0063
+name: William Hughes
+request: 'Could you please assist me in finding a business that can provide the following
+  menu items: 1 Fresh Corn Elote and 1 Chili Lime Roasted Corn? It is important that
+  all items are available. Once located, I intend to place an order for these items.
+  Thank you for your assistance.'
+menu_features:
+  Fresh Corn Elote: 3.99
+  Chili Lime Roasted Corn: 4.99
+amenity_features: []

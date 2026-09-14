@@ -1,0 +1,39 @@
+id: business_0232
+name: Pineapple & Peppercorn
+description: A vibrant Tex-Mex eatery serving bold, fresh flavors and creative twists
+  on classic favorites. Enjoy an inviting atmosphere with a menu highlighting bright
+  ingredients, savory spices, and sweet finishes.
+rating: 1.0
+progenitor_customer: customer_0078
+menu_features:
+  Zesty Shrimp Ceviche: 10.77
+  Blue Corn Enchilada Bake: 12.69
+  Grilled Pineapple Dessert Quesadilla: 8.37
+  Tamale Trio Sampler: 10.23
+  Cinnamon Sugar Churro Sticks: 4.42
+  Blue Corn Tostada Salad: 11.5
+  Creamy Avocado Caesar Salad: 10.69
+  Honey-Lime Grilled Shrimp: 12.31
+  Chocolate Mole Chicken: 20.18
+  Avocado Lime Quinoa Bowl: 12.19
+  Mushroom & Cheese Tamales: 8.27
+  Baja Fish Tacos: 12.54
+  "Spicy Jalape\xF1o Limeade": 3.38
+  Stuffed Avocado Boats: 6.91
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Zesty Shrimp Ceviche: 7.75
+  Blue Corn Enchilada Bake: 9.14
+  Grilled Pineapple Dessert Quesadilla: 6.03
+  Tamale Trio Sampler: 7.37
+  Cinnamon Sugar Churro Sticks: 3.18
+  Blue Corn Tostada Salad: 8.28
+  Creamy Avocado Caesar Salad: 7.7
+  Honey-Lime Grilled Shrimp: 8.86
+  Chocolate Mole Chicken: 14.53
+  Avocado Lime Quinoa Bowl: 8.78
+  Mushroom & Cheese Tamales: 5.95
+  Baja Fish Tacos: 9.03
+  "Spicy Jalape\xF1o Limeade": 2.43
+  Stuffed Avocado Boats: 4.98

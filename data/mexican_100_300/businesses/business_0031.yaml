@@ -1,0 +1,45 @@
+id: business_0031
+name: Mesa Vibrante
+description: Experience fresh and bold flavors at Mesa Vibrante, where classic Mexican
+  and Tex-Mex favorites meet modern culinary creativity. Enjoy vibrant dishes and
+  handcrafted drinks in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0011
+menu_features:
+  Black Bean Crunch Wrap: 9.0
+  Breakfast Burrito Bowl: 9.44
+  Ranchero Eggs Benedict: 12.5
+  Black Bean Avocado Tostadas: 9.09
+  Beef Fajita Skillet: 15.53
+  Tropical Coconut Margarita: 8.47
+  Pineapple Habanero Margarita: 8.55
+  Classic Horchata Delight: 4.09
+  Cactus Jack Quesadilla: 12.58
+  Chili Chocolate Lava Cake: 7.31
+  Sizzling Fajita Fiesta: 18.08
+  Churro Ice Cream Sandwich: 7.83
+  Blue Corn Tortilla Chips: 5.16
+  Crispy Avocado Burrito: 12.84
+  Black Bean Chili Bowl: 10.11
+  Loaded Nachos Grande: 13.02
+  Smoky Chipotle BBQ Ribs: 13.62
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Black Bean Crunch Wrap: 6.3
+  Breakfast Burrito Bowl: 6.61
+  Ranchero Eggs Benedict: 8.75
+  Black Bean Avocado Tostadas: 6.36
+  Beef Fajita Skillet: 10.87
+  Tropical Coconut Margarita: 5.93
+  Pineapple Habanero Margarita: 5.99
+  Classic Horchata Delight: 2.86
+  Cactus Jack Quesadilla: 8.81
+  Chili Chocolate Lava Cake: 5.12
+  Sizzling Fajita Fiesta: 12.66
+  Churro Ice Cream Sandwich: 5.48
+  Blue Corn Tortilla Chips: 3.61
+  Crispy Avocado Burrito: 8.99
+  Black Bean Chili Bowl: 7.08
+  Loaded Nachos Grande: 9.11
+  Smoky Chipotle BBQ Ribs: 9.53

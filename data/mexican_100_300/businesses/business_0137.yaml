@@ -1,0 +1,44 @@
+id: business_0137
+name: Casa Picante y Fresca
+description: Experience the lively flavors of Mexico and the Southwest at Casa Picante
+  y Fresca, where bold chiles, fresh citrus, and vibrant herbs come together in every
+  dish and drink. Enjoy a welcoming atmosphere inspired by traditional and contemporary
+  tastes.
+rating: 1.0
+progenitor_customer: customer_0046
+menu_features:
+  Fresh Limeade: 3.49
+  Red Chili Chicken Pozole: 11.15
+  Ancho Chili Spiced Ribs: 13.98
+  Fiesta Street Corn: 4.9
+  Pineapple Jalapeno Margarita: 8.68
+  "Cheesy Jalape\xF1o Quesadillas": 10.51
+  "Spicy Jalape\xF1o Limeade": 3.9
+  Spicy Chicken Tortilla Soup: 6.69
+  Honey-Lime Shrimp Skewers: 15.59
+  Avocado Lime Empanadas: 8.62
+  Spiked Horchata Cooler: 5.49
+  Fajita Veggie Burrito Bowl: 15.0
+  Creamy Avocado Caesar Salad: 10.15
+  Roasted Poblano Veggie Skillet: 10.43
+  Grilled Shrimp Skewers: 15.16
+  Three-Cheese Chile Rellenos: 14.02
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Fresh Limeade: 2.2
+  Red Chili Chicken Pozole: 7.02
+  Ancho Chili Spiced Ribs: 8.81
+  Fiesta Street Corn: 3.09
+  Pineapple Jalapeno Margarita: 5.47
+  "Cheesy Jalape\xF1o Quesadillas": 6.62
+  "Spicy Jalape\xF1o Limeade": 2.46
+  Spicy Chicken Tortilla Soup: 4.21
+  Honey-Lime Shrimp Skewers: 9.82
+  Avocado Lime Empanadas: 5.43
+  Spiked Horchata Cooler: 3.46
+  Fajita Veggie Burrito Bowl: 9.45
+  Creamy Avocado Caesar Salad: 6.39
+  Roasted Poblano Veggie Skillet: 6.57
+  Grilled Shrimp Skewers: 9.55
+  Three-Cheese Chile Rellenos: 8.83

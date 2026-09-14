@@ -1,0 +1,44 @@
+id: business_0194
+name: El Patio de Brisa
+description: Experience bold Mexican and Tex-Mex flavors with a refreshing twist in
+  a vibrant, welcoming setting. From savory grilled delights to creative takes on
+  classic favorites, every meal at El Patio de Brisa is a celebration of taste and
+  tradition.
+rating: 1.0
+progenitor_customer: customer_0065
+menu_features:
+  Chipotle Lime Chicken Skewers: 12.2
+  Crispy Avocado and Lime Tacos: 14.32
+  Crispy Avocado Wedges: 9.61
+  Creamy Avocado Caesar Salad: 10.1
+  Tex-Mex Breakfast Skillet: 8.61
+  Black Bean Stuffed Bell Peppers: 11.12
+  Grilled Pineapple & Shrimp Quesadillas: 11.85
+  Mexican Chocolate Lava Cake: 8.3
+  Loaded Street Corn: 6.73
+  Stuffed Poblano Pepper Delight: 10.73
+  Smoky Chipotle Chicken: 13.03
+  Chipotle Lime Shrimp Tacos: 12.72
+  Paloma Breeze Cocktail: 8.74
+  Vanilla Flan Delight: 5.89
+  Sea Breeze Ceviche: 12.33
+  Tequila Lime Grilled Chicken: 11.32
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Chipotle Lime Chicken Skewers: 9.52
+  Crispy Avocado and Lime Tacos: 11.17
+  Crispy Avocado Wedges: 7.5
+  Creamy Avocado Caesar Salad: 7.88
+  Tex-Mex Breakfast Skillet: 6.72
+  Black Bean Stuffed Bell Peppers: 8.67
+  Grilled Pineapple & Shrimp Quesadillas: 9.24
+  Mexican Chocolate Lava Cake: 6.47
+  Loaded Street Corn: 5.25
+  Stuffed Poblano Pepper Delight: 8.37
+  Smoky Chipotle Chicken: 10.16
+  Chipotle Lime Shrimp Tacos: 9.92
+  Paloma Breeze Cocktail: 6.82
+  Vanilla Flan Delight: 4.59
+  Sea Breeze Ceviche: 9.62
+  Tequila Lime Grilled Chicken: 8.83

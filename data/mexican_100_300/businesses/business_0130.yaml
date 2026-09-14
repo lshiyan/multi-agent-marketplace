@@ -1,0 +1,40 @@
+id: business_0130
+name: Canela & Coral Cantina
+description: "Experience the vibrant flavors of Mexico and the coast at Canela & Coral\
+  \ Cantina\u2014a welcoming spot for fresh ceviche, zesty bites, and sweet, cinnamon-kissed\
+  \ desserts. Enjoy lively spices, refreshing beverages, and a true taste of culinary\
+  \ tradition."
+rating: 1.0
+progenitor_customer: customer_0044
+menu_features:
+  Coconut Flan Delight: 7.83
+  Mexican Street Corn Dip: 8.66
+  Black Bean and Corn Salsa: 5.14
+  Coffee Cinnamon Mexican Mocha: 4.68
+  Mango Habanero Salsa: 6.08
+  Fresh Limeade: 3.55
+  Passion Fruit Agua Fresca: 4.45
+  Peppered Steak Nachos: 12.79
+  Black Bean and Sweet Potato Empanadas: 8.49
+  Zesty Lime Grilled Shrimp: 13.29
+  Smoky Chipotle Queso: 6.27
+  Sea Breeze Ceviche: 11.28
+  Verde Ranchero Huevos: 9.58
+  Three-Cheese Enchilada Stack: 10.4
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Coconut Flan Delight: 7.2
+  Mexican Street Corn Dip: 7.97
+  Black Bean and Corn Salsa: 4.73
+  Coffee Cinnamon Mexican Mocha: 4.31
+  Mango Habanero Salsa: 5.59
+  Fresh Limeade: 3.27
+  Passion Fruit Agua Fresca: 4.09
+  Peppered Steak Nachos: 11.77
+  Black Bean and Sweet Potato Empanadas: 7.81
+  Zesty Lime Grilled Shrimp: 12.23
+  Smoky Chipotle Queso: 5.77
+  Sea Breeze Ceviche: 10.38
+  Verde Ranchero Huevos: 8.81
+  Three-Cheese Enchilada Stack: 9.57

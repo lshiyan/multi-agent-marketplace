@@ -1,0 +1,39 @@
+id: business_0017
+name: Azul Paloma Cocina
+description: Experience vibrant flavors and bold traditions at Azul Paloma Cocina,
+  where classic Mexican and Tex-Mex dishes are crafted with fresh, southwest-inspired
+  ingredients in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0006
+menu_features:
+  Blue Corn Tortilla Soup: 7.17
+  Stuffed Chicken Poblano: 13.92
+  Beef Enchiladas Verdes: 12.28
+  Stuffed Poblano Peppers: 9.81
+  Chocolate Mole Brownie: 5.88
+  Baja Shrimp Quesadilla: 13.07
+  Grilled Chipotle Chicken Burrito: 13.98
+  Sizzling Fajita Platter: 19.47
+  Crispy Fish Baja Bowl: 11.4
+  Chipotle Lime Shrimp Skewers: 13.49
+  Spicy Chorizo Enchiladas: 13.39
+  Jalapeno Mango Margarita: 8.9
+  Southwest Chopped Salad: 9.32
+  Spicy Black Bean Nacho Platter: 12.11
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Blue Corn Tortilla Soup: 6.17
+  Stuffed Chicken Poblano: 11.97
+  Beef Enchiladas Verdes: 10.56
+  Stuffed Poblano Peppers: 8.44
+  Chocolate Mole Brownie: 5.06
+  Baja Shrimp Quesadilla: 11.24
+  Grilled Chipotle Chicken Burrito: 12.02
+  Sizzling Fajita Platter: 16.74
+  Crispy Fish Baja Bowl: 9.8
+  Chipotle Lime Shrimp Skewers: 11.6
+  Spicy Chorizo Enchiladas: 11.52
+  Jalapeno Mango Margarita: 7.65
+  Southwest Chopped Salad: 8.02
+  Spicy Black Bean Nacho Platter: 10.41

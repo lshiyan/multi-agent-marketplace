@@ -1,0 +1,44 @@
+id: business_0234
+name: Holy Skillet & Guacamole!
+description: Savor a vibrant blend of Tex-Mex and Mexican flavors at a neighborhood
+  eatery where zesty skillets, fresh guacamole, and creative classics are always on
+  the menu. Bright ingredients and bold spices make every bite a fiesta for your taste
+  buds.
+rating: 1.0
+progenitor_customer: customer_0078
+menu_features:
+  Zesty Shrimp Ceviche: 14.6
+  Ultimate Nacho Platter: 9.52
+  Pico de Gallo Chicken Salad: 8.02
+  Roasted Poblano Veggie Skillet: 10.5
+  Avocado & Tomato Breakfast Tostadas: 8.98
+  Fresh Limeade: 3.74
+  Roasted Poblano Quesadilla: 12.06
+  Chipotle BBQ Tacos: 13.1
+  Chocolate Mole Chicken: 18.48
+  Spiced Pumpkin Empanadas: 5.87
+  Tamale Trio Sampler: 12.09
+  Blue Corn Tortilla Soup: 7.02
+  "Coconut Horchata Latt\xE9": 4.93
+  Veggie Fajita Platter: 13.17
+  Cinnamon Sugar Churros: 5.85
+  Fajita Veggie Burrito Bowl: 12.09
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Zesty Shrimp Ceviche: 12.85
+  Ultimate Nacho Platter: 8.38
+  Pico de Gallo Chicken Salad: 7.06
+  Roasted Poblano Veggie Skillet: 9.24
+  Avocado & Tomato Breakfast Tostadas: 7.9
+  Fresh Limeade: 3.29
+  Roasted Poblano Quesadilla: 10.61
+  Chipotle BBQ Tacos: 11.53
+  Chocolate Mole Chicken: 16.26
+  Spiced Pumpkin Empanadas: 5.17
+  Tamale Trio Sampler: 10.64
+  Blue Corn Tortilla Soup: 6.18
+  "Coconut Horchata Latt\xE9": 4.34
+  Veggie Fajita Platter: 11.59
+  Cinnamon Sugar Churros: 5.15
+  Fajita Veggie Burrito Bowl: 10.64

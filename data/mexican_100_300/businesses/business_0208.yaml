@@ -1,0 +1,43 @@
+id: business_0208
+name: Casa de Sabores Brillantes
+description: Experience a vibrant fusion of Mexican and Tex-Mex classics, from cheesy
+  enchiladas and refreshing cocktails to bold, zesty bites. Gather with friends and
+  family for a festive atmosphere and unforgettable flavors.
+rating: 1.0
+progenitor_customer: customer_0070
+menu_features:
+  Three-Cheese Enchilada Stack: 11.91
+  Roasted Poblano and Cheese Empanadas: 7.77
+  Frozen Mango Margarita: 9.07
+  Chili-Lime Cauliflower Bites: 6.39
+  Hatch Chile Queso Dip: 8.12
+  Ranchero Eggs Benedict: 13.56
+  Green Chile Cheesesteak: 14.79
+  Chili Lime Skirt Steak: 22.19
+  Creamy Avocado Soup: 8.9
+  Shrimp Ceviche Bowl: 10.92
+  Frozen Strawberry Daiquiri: 7.16
+  Charred Corn & Cotija Nachos: 6.54
+  Loaded Nachos Grande: 9.96
+  Sweet Corn Tostadas: 8.09
+  Spiked Horchata Cooler: 6.04
+  Ancho Chile Chicken Salad: 13.49
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Three-Cheese Enchilada Stack: 8.69
+  Roasted Poblano and Cheese Empanadas: 5.67
+  Frozen Mango Margarita: 6.62
+  Chili-Lime Cauliflower Bites: 4.66
+  Hatch Chile Queso Dip: 5.93
+  Ranchero Eggs Benedict: 9.9
+  Green Chile Cheesesteak: 10.8
+  Chili Lime Skirt Steak: 16.2
+  Creamy Avocado Soup: 6.5
+  Shrimp Ceviche Bowl: 7.97
+  Frozen Strawberry Daiquiri: 5.23
+  Charred Corn & Cotija Nachos: 4.77
+  Loaded Nachos Grande: 7.27
+  Sweet Corn Tostadas: 5.91
+  Spiked Horchata Cooler: 4.41
+  Ancho Chile Chicken Salad: 9.85

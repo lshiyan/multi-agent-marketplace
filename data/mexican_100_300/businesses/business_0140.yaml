@@ -1,0 +1,47 @@
+id: business_0140
+name: Fajita Fiesta
+description: Savor bold flavors and sizzling plates at Fajita Fiesta, where classic
+  Mexican and Tex-Mex favorites come alive. Fresh ingredients and vibrant spices create
+  an unforgettable dining experience in a welcoming, festive atmosphere.
+rating: 1.0
+progenitor_customer: customer_0047
+menu_features:
+  Sizzling Steak Fajitas: 17.54
+  Chipotle Lime Shrimp Tacos: 15.49
+  Coconut Flan Delight: 7.4
+  Beef Fajita Skillet: 14.42
+  Stuffed Avocado Delight: 8.13
+  Margarita Grilled Chicken: 16.1
+  Loaded Nacho Supreme: 11.27
+  Crispy Avocado Tostadas: 10.54
+  Spicy Mango Margarita: 10.31
+  Mexican Street Corn Dip: 9.84
+  Zesty Lime Shrimp Tostadas: 13.3
+  Savory Carne Asada Burrito: 11.5
+  Crispy Carnitas Tacos: 12.85
+  Honey Lime Grilled Chicken: 13.74
+  Mesquite Grilled Steak Fajitas: 17.11
+  Spicy Chorizo Enchiladas: 14.09
+  Sea Breeze Ceviche: 13.09
+  Sizzling Carne Asada: 17.29
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Sizzling Steak Fajitas: 12.28
+  Chipotle Lime Shrimp Tacos: 10.84
+  Coconut Flan Delight: 5.18
+  Beef Fajita Skillet: 10.09
+  Stuffed Avocado Delight: 5.69
+  Margarita Grilled Chicken: 11.27
+  Loaded Nacho Supreme: 7.89
+  Crispy Avocado Tostadas: 7.38
+  Spicy Mango Margarita: 7.22
+  Mexican Street Corn Dip: 6.89
+  Zesty Lime Shrimp Tostadas: 9.31
+  Savory Carne Asada Burrito: 8.05
+  Crispy Carnitas Tacos: 8.99
+  Honey Lime Grilled Chicken: 9.62
+  Mesquite Grilled Steak Fajitas: 11.98
+  Spicy Chorizo Enchiladas: 9.86
+  Sea Breeze Ceviche: 9.16
+  Sizzling Carne Asada: 12.1

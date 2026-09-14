@@ -1,0 +1,39 @@
+id: business_0182
+name: "Casa Jalape\xF1a"
+description: Experience vibrant Mexican and Tex-Mex flavors in a lively, welcoming
+  setting. From zesty starters to sweet, cinnamon-kissed desserts, every dish celebrates
+  bold, fresh ingredients and time-honored traditions.
+rating: 1.0
+progenitor_customer: customer_0061
+menu_features:
+  Cheesy Jalapeno Poppers: 7.33
+  Three Cheese Sope: 11.02
+  Breakfast Chilaquiles Verde: 12.27
+  Chocolate Sopapilla Bites: 5.09
+  Roasted Poblano Queso Dip: 8.37
+  Chipotle Lime Shrimp Skewers: 15.3
+  Loaded Chorizo Nachos: 8.15
+  Agave Lime Chicken Skewers: 11.43
+  Frozen Strawberry Daiquiri: 9.74
+  Mango Agua Fresca: 3.69
+  Roasted Pepper Queso Dip: 7.55
+  Savory Chorizo Street Tacos: 11.46
+  Agave Lime Margarita: 11.81
+  Cinnamon Sugar Churros: 6.15
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Cheesy Jalapeno Poppers: 6.38
+  Three Cheese Sope: 9.59
+  Breakfast Chilaquiles Verde: 10.67
+  Chocolate Sopapilla Bites: 4.43
+  Roasted Poblano Queso Dip: 7.28
+  Chipotle Lime Shrimp Skewers: 13.31
+  Loaded Chorizo Nachos: 7.09
+  Agave Lime Chicken Skewers: 9.94
+  Frozen Strawberry Daiquiri: 8.47
+  Mango Agua Fresca: 3.21
+  Roasted Pepper Queso Dip: 6.57
+  Savory Chorizo Street Tacos: 9.97
+  Agave Lime Margarita: 10.27
+  Cinnamon Sugar Churros: 5.35

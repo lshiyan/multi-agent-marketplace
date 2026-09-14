@@ -1,0 +1,46 @@
+id: business_0239
+name: Azul Agave Social
+description: Azul Agave Social brings a fresh, modern twist to classic Mexican and
+  Tex-Mex flavors in a vibrant, welcoming atmosphere. Enjoy bold bites, handcrafted
+  drinks, and a spirited ambiance perfect for catching up with friends or brunching
+  in style.
+rating: 1.0
+progenitor_customer: customer_0080
+menu_features:
+  Black Bean Avocado Tostadas: 12.12
+  Raspberry Jalapeno Mojito: 8.28
+  Grilled Chipotle Chicken Burrito: 11.11
+  Coconut Lime Margarita: 9.46
+  Sunrise Breakfast Tacos: 8.86
+  Creamy Avocado Caesar Salad: 12.07
+  Roasted Poblano Rellenos: 16.18
+  Vanilla Flan Delight: 4.73
+  Tequila Lime Grilled Chicken: 10.84
+  Spicy Cucumber Margarita: 8.42
+  Black Bean Breakfast Burrito: 10.02
+  Bacon Wrapped Jalapeno Bites: 9.39
+  Sizzling Chicken Fajitas: 15.78
+  Fresh Mint Mojito: 9.31
+  Adobo Pork Sliders: 10.42
+  Tamarind Citrus Margarita: 8.43
+  Crispy Tinga Chicken Tacos: 9.14
+amenity_features: {}
+min_price_factor: 0.6
+minimum_menu_prices:
+  Black Bean Avocado Tostadas: 7.27
+  Raspberry Jalapeno Mojito: 4.97
+  Grilled Chipotle Chicken Burrito: 6.67
+  Coconut Lime Margarita: 5.68
+  Sunrise Breakfast Tacos: 5.32
+  Creamy Avocado Caesar Salad: 7.24
+  Roasted Poblano Rellenos: 9.71
+  Vanilla Flan Delight: 2.84
+  Tequila Lime Grilled Chicken: 6.5
+  Spicy Cucumber Margarita: 5.05
+  Black Bean Breakfast Burrito: 6.01
+  Bacon Wrapped Jalapeno Bites: 5.63
+  Sizzling Chicken Fajitas: 9.47
+  Fresh Mint Mojito: 5.59
+  Adobo Pork Sliders: 6.25
+  Tamarind Citrus Margarita: 5.06
+  Crispy Tinga Chicken Tacos: 5.48

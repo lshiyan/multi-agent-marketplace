@@ -1,0 +1,43 @@
+id: business_0230
+name: "El Rinc\xF3n de Agave"
+description: "Discover vibrant Mexican and Tex-Mex flavors with a modern twist at\
+  \ El Rinc\xF3n de Agave. Enjoy creative small plates, fresh salads, flavorful tacos,\
+  \ and deliciously inventive drinks in a lively, welcoming setting."
+rating: 1.0
+progenitor_customer: customer_0077
+menu_features:
+  Roasted Pumpkin Tamale: 6.32
+  Pineapple Salsa Shrimp Tacos: 15.63
+  Grilled Street Corn: 8.39
+  Roasted Corn and Avocado Salad: 8.67
+  Citrus Grilled Chicken Tacos: 14.58
+  Cheesy Jalapeno Poppers: 8.72
+  Jicama and Citrus Salad: 7.86
+  Warm Churro Bites: 5.49
+  Blueberry Agave Mojito: 8.58
+  Breakfast Chilaquiles Verde: 9.75
+  Salted Caramel Margarita: 10.24
+  Braised Beef Barbacoa Tacos: 14.84
+  Tamarind Citrus Margarita: 7.23
+  Blueberry Agave Agua Fresca: 4.31
+  Shrimp and Avocado Ceviche: 13.56
+  Blue Agave Tequila Sunrise: 9.52
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Roasted Pumpkin Tamale: 4.68
+  Pineapple Salsa Shrimp Tacos: 11.57
+  Grilled Street Corn: 6.21
+  Roasted Corn and Avocado Salad: 6.42
+  Citrus Grilled Chicken Tacos: 10.79
+  Cheesy Jalapeno Poppers: 6.45
+  Jicama and Citrus Salad: 5.82
+  Warm Churro Bites: 4.06
+  Blueberry Agave Mojito: 6.35
+  Breakfast Chilaquiles Verde: 7.21
+  Salted Caramel Margarita: 7.58
+  Braised Beef Barbacoa Tacos: 10.98
+  Tamarind Citrus Margarita: 5.35
+  Blueberry Agave Agua Fresca: 3.19
+  Shrimp and Avocado Ceviche: 10.03
+  Blue Agave Tequila Sunrise: 7.04

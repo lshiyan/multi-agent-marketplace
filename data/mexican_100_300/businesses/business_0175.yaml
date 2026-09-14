@@ -1,0 +1,43 @@
+id: business_0175
+name: Holy Mole & Grill
+description: An inventive Mexican and Tex-Mex spot where bold flavors and fresh ingredients
+  come together in every bite. Enjoy a vibrant menu of sizzling favorites and delicious
+  twists on classic dishes, all served in a festive, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0059
+menu_features:
+  Sweet Corn Tamale Bites: 6.58
+  Blueberry Jalapeno Lemonade: 4.02
+  Carne Asada Fajitas: 14.39
+  Baja Fish Taco Plate: 13.57
+  Black Bean Avocado Enchiladas: 12.84
+  Spicy Avocado Burger: 12.71
+  Refreshing Agua Fresca Trio: 8.16
+  Creamy Chipotle Pasta: 12.4
+  Coconut Lime Shrimp Skewers: 20.6
+  Chipotle Lime Cauliflower Tacos: 9.83
+  Roasted Poblano and Cheese Empanadas: 7.95
+  Caramelized Onion and Goat Cheese Empanadas: 6.69
+  Mesquite Grilled Steak Fajitas: 10.73
+  Ranchero Steak Fajitas: 13.84
+  Ancho Chili Spiced Ribs: 19.28
+  Pork Carnitas Platter: 13.77
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Sweet Corn Tamale Bites: 5.66
+  Blueberry Jalapeno Lemonade: 3.46
+  Carne Asada Fajitas: 12.38
+  Baja Fish Taco Plate: 11.67
+  Black Bean Avocado Enchiladas: 11.04
+  Spicy Avocado Burger: 10.93
+  Refreshing Agua Fresca Trio: 7.02
+  Creamy Chipotle Pasta: 10.66
+  Coconut Lime Shrimp Skewers: 17.72
+  Chipotle Lime Cauliflower Tacos: 8.45
+  Roasted Poblano and Cheese Empanadas: 6.84
+  Caramelized Onion and Goat Cheese Empanadas: 5.75
+  Mesquite Grilled Steak Fajitas: 9.23
+  Ranchero Steak Fajitas: 11.9
+  Ancho Chili Spiced Ribs: 16.58
+  Pork Carnitas Platter: 11.84

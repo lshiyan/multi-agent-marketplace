@@ -1,0 +1,35 @@
+id: business_0112
+name: Pepper Pine Kitchen
+description: Experience vibrant Mexican and Tex-Mex flavors with a creative twist
+  in a warm, inviting atmosphere. From zesty appetizers to refreshing beverages, every
+  dish celebrates bold spices and fresh ingredients.
+rating: 1.0
+progenitor_customer: customer_0038
+menu_features:
+  Mango Habanero Margarita: 11.99
+  Ancho Chili Spiced Ribs: 14.81
+  Hatch Chile Queso Dip: 9.27
+  "Spicy Jalape\xF1o Limeade": 3.32
+  Creamy Chipotle Pasta: 14.06
+  Crispy Avocado Nachos: 7.89
+  Roasted Red Pepper Quesadilla: 10.49
+  Grilled Pineapple and Pork Tacos: 10.81
+  Blue Corn Tortilla Chips: 5.27
+  Grilled Pineapple & Shrimp Quesadillas: 8.93
+  Grilled Shrimp Fajita Bowl: 9.16
+  Three-Cheese Queso Dip: 8.44
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Mango Habanero Margarita: 7.55
+  Ancho Chili Spiced Ribs: 9.33
+  Hatch Chile Queso Dip: 5.84
+  "Spicy Jalape\xF1o Limeade": 2.09
+  Creamy Chipotle Pasta: 8.86
+  Crispy Avocado Nachos: 4.97
+  Roasted Red Pepper Quesadilla: 6.61
+  Grilled Pineapple and Pork Tacos: 6.81
+  Blue Corn Tortilla Chips: 3.32
+  Grilled Pineapple & Shrimp Quesadillas: 5.63
+  Grilled Shrimp Fajita Bowl: 5.77
+  Three-Cheese Queso Dip: 5.32

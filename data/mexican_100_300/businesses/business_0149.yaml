@@ -1,0 +1,39 @@
+id: business_0149
+name: Cacti & Cocoa Cantina
+description: A lively destination blending bold Mexican and Tex-Mex flavors with a
+  modern twist. Enjoy vibrant cocktails, creative small plates, and decadent desserts
+  in a colorful, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0050
+menu_features:
+  Mexican Spiced Chocolate Cake: 8.8
+  Cactus Cooler Margarita: 8.9
+  Red Chili Chicken Pozole: 12.1
+  Spicy Chipotle Chicken Wings: 9.24
+  Hatch Green Chile Burger: 10.27
+  Street Corn Elote: 5.45
+  Ancho Chile Chicken Salad: 9.36
+  Sizzling Fajita Platter: 15.88
+  Pineapple Chipotle Salsa & Chips: 5.99
+  Stuffed Poblano Peppers: 13.01
+  Cocoa Cinnamon Tequila: 8.62
+  Loaded Chorizo Nachos: 7.64
+  Grilled Avocado and Quinoa Bowl: 9.71
+  Avocado Lime Empanadas: 8.6
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Mexican Spiced Chocolate Cake: 6.69
+  Cactus Cooler Margarita: 6.76
+  Red Chili Chicken Pozole: 9.2
+  Spicy Chipotle Chicken Wings: 7.02
+  Hatch Green Chile Burger: 7.81
+  Street Corn Elote: 4.14
+  Ancho Chile Chicken Salad: 7.11
+  Sizzling Fajita Platter: 12.07
+  Pineapple Chipotle Salsa & Chips: 4.55
+  Stuffed Poblano Peppers: 9.89
+  Cocoa Cinnamon Tequila: 6.55
+  Loaded Chorizo Nachos: 5.81
+  Grilled Avocado and Quinoa Bowl: 7.38
+  Avocado Lime Empanadas: 6.54

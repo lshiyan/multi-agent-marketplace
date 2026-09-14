@@ -1,0 +1,39 @@
+id: business_0163
+name: "Cielo y Saz\xF3n Cantina"
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm, welcoming atmosphere.
+  From crisp salads to creative enchiladas, fresh salsas, and classic drinks, our
+  kitchen celebrates the perfect pairing of zest and tradition.
+rating: 1.0
+progenitor_customer: customer_0055
+menu_features:
+  Garlic Lime Shrimp Salad: 13.98
+  Grilled Pineapple Salsa: 6.27
+  Vanilla Cinnamon Horchata: 2.72
+  Street Corn Quesadilla: 11.08
+  Creamy Chipotle Pasta: 9.99
+  Black Bean Avocado Tostadas: 10.56
+  Carne Asada Fajitas: 14.85
+  Black Bean & Corn Enchiladas: 9.6
+  Smoky Black Bean Enchiladas: 12.29
+  Chipotle Lime Shrimp Skewers: 17.12
+  Spiced Agave Margarita: 12.16
+  Chipotle Lime Cauliflower Tacos: 10.59
+  Black Bean and Corn Fiesta Salad: 8.91
+  Classic Horchata Delight: 3.85
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Garlic Lime Shrimp Salad: 12.58
+  Grilled Pineapple Salsa: 5.64
+  Vanilla Cinnamon Horchata: 2.45
+  Street Corn Quesadilla: 9.97
+  Creamy Chipotle Pasta: 8.99
+  Black Bean Avocado Tostadas: 9.5
+  Carne Asada Fajitas: 13.37
+  Black Bean & Corn Enchiladas: 8.64
+  Smoky Black Bean Enchiladas: 11.06
+  Chipotle Lime Shrimp Skewers: 15.41
+  Spiced Agave Margarita: 10.94
+  Chipotle Lime Cauliflower Tacos: 9.53
+  Black Bean and Corn Fiesta Salad: 8.02
+  Classic Horchata Delight: 3.47

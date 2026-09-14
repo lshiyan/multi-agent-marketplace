@@ -1,0 +1,44 @@
+id: business_0142
+name: "Pl\xE1tano & Palate"
+description: Experience the vibrant flavors of Mexico and the Southwest with inventive
+  tacos, salads, and sweet treats in a warm, inviting setting. Our menu features a
+  creative twist on classic favorites, highlighting fresh ingredients and bold, unforgettable
+  tastes.
+rating: 1.0
+progenitor_customer: customer_0048
+menu_features:
+  Braised Beef Barbacoa Tacos: 13.21
+  Sweet Plantain Empanadas: 8.03
+  Chipotle Lime Chicken Salad: 11.3
+  Black Bean Avocado Enchiladas: 11.81
+  Coconut Lime Paleta: 4.39
+  Spiced Pumpkin Empanadas: 5.71
+  Tamarind Spiced Agua Fresca: 3.73
+  Sweet Corn Tostadas: 9.01
+  Verde Ranchero Huevos: 10.96
+  Breakfast Burrito Bonanza: 8.43
+  Roasted Poblano Corn Chowder: 7.09
+  Passion Fruit Mojito: 8.77
+  Zesty Lime Chicken Enchiladas: 12.24
+  Chili Lime Shrimp Skewers: 16.1
+  Roasted Corn and Avocado Salad: 7.47
+  Raspberry Chipotle Barbecue Ribs: 13.62
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Braised Beef Barbacoa Tacos: 11.49
+  Sweet Plantain Empanadas: 6.99
+  Chipotle Lime Chicken Salad: 9.83
+  Black Bean Avocado Enchiladas: 10.27
+  Coconut Lime Paleta: 3.82
+  Spiced Pumpkin Empanadas: 4.97
+  Tamarind Spiced Agua Fresca: 3.25
+  Sweet Corn Tostadas: 7.84
+  Verde Ranchero Huevos: 9.54
+  Breakfast Burrito Bonanza: 7.33
+  Roasted Poblano Corn Chowder: 6.17
+  Passion Fruit Mojito: 7.63
+  Zesty Lime Chicken Enchiladas: 10.65
+  Chili Lime Shrimp Skewers: 14.01
+  Roasted Corn and Avocado Salad: 6.5
+  Raspberry Chipotle Barbecue Ribs: 11.85

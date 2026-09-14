@@ -1,0 +1,10 @@
+id: customer_0069
+name: Amanda Robinson
+request: 'Could you please assist me in finding a business that offers the following
+  menu items: 1 Cheesy Jalapeno Queso and 1 Black Bean Stuffed Sweet Potatoes? It
+  is essential that the business offers both items, as I intend to place an order
+  for these specific dishes. Thank you for your help.'
+menu_features:
+  Cheesy Jalapeno Queso: 7.99
+  Black Bean Stuffed Sweet Potatoes: 9.49
+amenity_features: []

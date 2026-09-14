@@ -1,0 +1,11 @@
+id: customer_0084
+name: Grace Clark
+request: Could you please find a business that offers all of the following menu items
+  so I can place an order? I need 1 Hatch Green Chile Rice, 1 Smoky Lime Quinoa Salad,
+  and 1 Creamy Avocado Soup. It's important that the business provides all these items.
+  Thank you!
+menu_features:
+  Hatch Green Chile Rice: 4.99
+  Smoky Lime Quinoa Salad: 9.99
+  Creamy Avocado Soup: 7.49
+amenity_features: []

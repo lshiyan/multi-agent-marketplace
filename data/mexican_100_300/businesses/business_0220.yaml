@@ -1,0 +1,39 @@
+id: business_0220
+name: Chili & Chocolate Cocina
+description: Discover a spirited twist on Mexican and Tex-Mex favorites, where bold
+  chilies meet decadent chocolate and vibrant, fresh flavors shine. Enjoy creative
+  dishes and drinks in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0074
+menu_features:
+  Spiced Chocolate Tres Leches: 8.02
+  Ancho Chili Chocolate Cake: 8.06
+  Pineapple Jalapeno Sangria: 7.72
+  Carne Asada Nachos: 11.48
+  Smoky BBQ Pork Tostadas: 13.15
+  Queso Fundido Supreme: 10.8
+  Tamarind Glazed Wings: 11.98
+  Smoky Chipotle Enchiladas: 12.4
+  Mexican Coffee Flan: 4.96
+  Frozen Strawberry Margarita: 8.58
+  Chipotle Lime Chicken Salad: 9.81
+  Jicama and Citrus Salad: 9.03
+  Cinnamon Sugar Churros: 5.41
+  Smoky Black Bean Nachos: 8.36
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Spiced Chocolate Tres Leches: 7.3
+  Ancho Chili Chocolate Cake: 7.33
+  Pineapple Jalapeno Sangria: 7.03
+  Carne Asada Nachos: 10.45
+  Smoky BBQ Pork Tostadas: 11.97
+  Queso Fundido Supreme: 9.83
+  Tamarind Glazed Wings: 10.9
+  Smoky Chipotle Enchiladas: 11.28
+  Mexican Coffee Flan: 4.51
+  Frozen Strawberry Margarita: 7.81
+  Chipotle Lime Chicken Salad: 8.93
+  Jicama and Citrus Salad: 8.22
+  Cinnamon Sugar Churros: 4.92
+  Smoky Black Bean Nachos: 7.61

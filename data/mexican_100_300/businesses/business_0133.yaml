@@ -1,0 +1,35 @@
+id: business_0133
+name: La Plazita Mexicana
+description: La Plazita Mexicana offers a fresh take on classic Mexican and Tex-Mex
+  cuisine, blending vibrant flavors and seasonal ingredients. Enjoy a welcoming atmosphere
+  and a delicious variety of handcrafted dishes and refreshing drinks.
+rating: 1.0
+progenitor_customer: customer_0045
+menu_features:
+  Fresh Lime Cilantro Rice: 3.65
+  Crisp Jicama Slaw: 4.29
+  Loaded Nacho Bowl: 9.36
+  Caramelized Onion and Goat Cheese Empanadas: 7.22
+  Black Bean and Sweet Potato Empanadas: 13.42
+  Grilled Pineapple and Shrimp Salad: 12.74
+  Vanilla Cinnamon Horchata: 3.33
+  Breakfast Burrito Bowl: 8.31
+  Verde Ranchero Huevos: 8.85
+  Pumpkin Spice Flan: 6.24
+  Three Cheese Sope: 9.69
+  Fresh Limeade: 3.73
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Fresh Lime Cilantro Rice: 2.45
+  Crisp Jicama Slaw: 2.87
+  Loaded Nacho Bowl: 6.27
+  Caramelized Onion and Goat Cheese Empanadas: 4.84
+  Black Bean and Sweet Potato Empanadas: 8.99
+  Grilled Pineapple and Shrimp Salad: 8.54
+  Vanilla Cinnamon Horchata: 2.23
+  Breakfast Burrito Bowl: 5.57
+  Verde Ranchero Huevos: 5.93
+  Pumpkin Spice Flan: 4.18
+  Three Cheese Sope: 6.49
+  Fresh Limeade: 2.5

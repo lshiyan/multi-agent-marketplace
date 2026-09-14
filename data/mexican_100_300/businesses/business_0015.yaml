@@ -1,0 +1,44 @@
+id: business_0015
+name: Verde Urban Cantina
+description: Experience fresh, vibrant flavors at Verde Urban Cantina, where classic
+  Mexican and Tex-Mex favorites are reimagined with a modern twist. From sizzling
+  fajitas to inventive mocktails, our menu is crafted for those who crave something
+  exciting in every bite.
+rating: 1.0
+progenitor_customer: customer_0005
+menu_features:
+  Savory Carne Asada Burrito: 11.73
+  Spicy Shrimp Fajitas: 13.42
+  Vanilla Flan Delight: 4.63
+  Pineapple Pico de Gallo Nachos: 10.8
+  Smoky Mezcal Mule: 9.17
+  "Strawberry Jalape\xF1o Mocktail": 7.27
+  Honey Lime Fajita Sizzlers: 18.62
+  Crispy Avocado and Lime Tacos: 10.4
+  Horchata Cold Brew Coffee: 4.59
+  Chili Lime Shrimp Skewers: 11.67
+  Three Cheese Sope: 10.67
+  Spicy Chocolate Churros: 4.97
+  Breakfast Chorizo Tostadas: 11.2
+  Crispy Avocado Wedges: 9.41
+  Lime-Garlic Grilled Chicken: 11.56
+  Tomatillo Salsa Verde Nachos: 12.66
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Savory Carne Asada Burrito: 10.91
+  Spicy Shrimp Fajitas: 12.48
+  Vanilla Flan Delight: 4.31
+  Pineapple Pico de Gallo Nachos: 10.04
+  Smoky Mezcal Mule: 8.53
+  "Strawberry Jalape\xF1o Mocktail": 6.76
+  Honey Lime Fajita Sizzlers: 17.32
+  Crispy Avocado and Lime Tacos: 9.67
+  Horchata Cold Brew Coffee: 4.27
+  Chili Lime Shrimp Skewers: 10.85
+  Three Cheese Sope: 9.92
+  Spicy Chocolate Churros: 4.62
+  Breakfast Chorizo Tostadas: 10.42
+  Crispy Avocado Wedges: 8.75
+  Lime-Garlic Grilled Chicken: 10.75
+  Tomatillo Salsa Verde Nachos: 11.77

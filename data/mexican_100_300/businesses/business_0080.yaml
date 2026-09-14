@@ -1,0 +1,39 @@
+id: business_0080
+name: Pineapple Ember Kitchen
+description: A modern eatery serving vibrant Mexican and Tex-Mex cuisine, blending
+  smoky flavors with bright, refreshing twists. Enjoy inventive small plates and signature
+  drinks in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0027
+menu_features:
+  Grilled Pineapple Salsa: 6.2
+  Smoky Chipotle BBQ Ribs: 14.62
+  Classic Tortilla Soup: 6.08
+  Vanilla Cinnamon Horchata: 3.61
+  Three-Cheese Enchilada Stack: 11.09
+  Creamy Chipotle Pasta: 10.23
+  Adobo Pork Sliders: 12.13
+  Minty Mojito Refresher: 7.8
+  Caramelized Onion Queso Dip: 7.77
+  Smoky Mezcal Mule: 6.07
+  Crisp Jicama Slaw: 4.0
+  Tamarind Glazed Wings: 12.46
+  Grilled Pineapple & Shrimp Quesadillas: 13.96
+  Jicama and Citrus Salad: 8.48
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Grilled Pineapple Salsa: 4.28
+  Smoky Chipotle BBQ Ribs: 10.09
+  Classic Tortilla Soup: 4.2
+  Vanilla Cinnamon Horchata: 2.49
+  Three-Cheese Enchilada Stack: 7.65
+  Creamy Chipotle Pasta: 7.06
+  Adobo Pork Sliders: 8.37
+  Minty Mojito Refresher: 5.38
+  Caramelized Onion Queso Dip: 5.36
+  Smoky Mezcal Mule: 4.19
+  Crisp Jicama Slaw: 2.76
+  Tamarind Glazed Wings: 8.6
+  Grilled Pineapple & Shrimp Quesadillas: 9.63
+  Jicama and Citrus Salad: 5.85

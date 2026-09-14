@@ -1,0 +1,33 @@
+id: business_0025
+name: Taco the Town
+description: Dive into an inventive spin on Mexican and Tex-Mex classics, where bold
+  flavors and fresh ingredients make every meal a fiesta for your senses. Enjoy zesty
+  bowls, sweet treats, and refreshing drinks in a vibrant, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0009
+menu_features:
+  Fajita Veggie Burrito Bowl: 13.5
+  Pineapple Habanero Salsa: 4.68
+  Vanilla Cinnamon Horchata: 4.0
+  Spiced Pumpkin Empanadas: 6.38
+  Spicy Chorizo Enchiladas: 13.81
+  Avocado Lime Salsa: 5.27
+  Al Pastor Pork Tacos: 10.93
+  Tres Leches Cake: 6.91
+  Cactus Flower Iced Tea: 4.01
+  Pineapple Pico de Gallo Salsa: 7.75
+  Passionfruit Paloma: 7.99
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Fajita Veggie Burrito Bowl: 9.99
+  Pineapple Habanero Salsa: 3.46
+  Vanilla Cinnamon Horchata: 2.96
+  Spiced Pumpkin Empanadas: 4.72
+  Spicy Chorizo Enchiladas: 10.22
+  Avocado Lime Salsa: 3.9
+  Al Pastor Pork Tacos: 8.09
+  Tres Leches Cake: 5.11
+  Cactus Flower Iced Tea: 2.97
+  Pineapple Pico de Gallo Salsa: 5.74
+  Passionfruit Paloma: 5.91

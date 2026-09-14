@@ -1,0 +1,12 @@
+id: customer_0090
+name: Lucas Anderson
+request: 'Could you please assist me in finding a business where I can place an order
+  for the following items: 1 Sweet Chili Lime Elote, 1 Breakfast Chorizo Torta, and
+  1 Sweet Corn Tamales? It is important that the business offers all of these menu
+  items exactly as listed. Once such a business is found, I intend to proceed with
+  placing the order. Thank you for your assistance.'
+menu_features:
+  Sweet Chili Lime Elote: 4.99
+  Breakfast Chorizo Torta: 8.99
+  Sweet Corn Tamales: 10.99
+amenity_features: []

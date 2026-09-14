@@ -1,0 +1,45 @@
+id: business_0210
+name: Tamarind & Tostada
+description: Step into a vibrant space where classic Mexican flavors meet fresh, bold
+  twists. Enjoy spirited fare and refreshing drinks in a lively atmosphere perfect
+  for gathering with friends or family.
+rating: 1.0
+progenitor_customer: customer_0070
+menu_features:
+  Crispy Chicken Tostada Bowls: 13.75
+  Shrimp Ceviche Bowl: 11.35
+  Jicama and Citrus Salad: 6.16
+  Spicy Chocolate Churros: 4.63
+  Charred Corn & Cotija Nachos: 7.47
+  Ranchero Steak Fajitas: 17.35
+  Hibiscus Iced Tea: 3.23
+  Tequila Lime Grilled Chicken: 14.87
+  Huevos Rancheros: 11.96
+  Creamy Avocado Soup: 8.39
+  Mexican Coffee Flan: 5.12
+  Coconut Lime Flan: 6.21
+  Hibiscus Agua Fresca: 4.11
+  Choco-Chili Volcano Cake: 7.46
+  Tamarind Citrus Margarita: 7.73
+  Roasted Poblano Quesadilla: 9.17
+  Tamarind-Glazed Ribs: 22.08
+amenity_features: {}
+min_price_factor: 0.95
+minimum_menu_prices:
+  Crispy Chicken Tostada Bowls: 13.06
+  Shrimp Ceviche Bowl: 10.78
+  Jicama and Citrus Salad: 5.85
+  Spicy Chocolate Churros: 4.4
+  Charred Corn & Cotija Nachos: 7.1
+  Ranchero Steak Fajitas: 16.48
+  Hibiscus Iced Tea: 3.07
+  Tequila Lime Grilled Chicken: 14.13
+  Huevos Rancheros: 11.36
+  Creamy Avocado Soup: 7.97
+  Mexican Coffee Flan: 4.86
+  Coconut Lime Flan: 5.9
+  Hibiscus Agua Fresca: 3.9
+  Choco-Chili Volcano Cake: 7.09
+  Tamarind Citrus Margarita: 7.34
+  Roasted Poblano Quesadilla: 8.71
+  Tamarind-Glazed Ribs: 20.98

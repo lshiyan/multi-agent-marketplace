@@ -1,0 +1,41 @@
+id: business_0029
+name: La Parrilla del Valle
+description: Experience vibrant Mexican and Tex-Mex flavors, from sizzling grilled
+  specialties to refreshing house-crafted beverages. A welcoming spot to savor colorful,
+  modern cuisine with a classic touch.
+rating: 1.0
+progenitor_customer: customer_0010
+menu_features:
+  Horchata Iced Latte: 4.32
+  Grilled Steak Fajita Platter: 16.16
+  Chili Lime Skirt Steak: 15.4
+  Pineapple Jalapeno Sangria: 7.15
+  Stuffed Avocado Boats: 10.81
+  Stuffed Poblano Peppers: 14.25
+  Black Bean Street Tacos: 9.56
+  Black Bean Crunch Wrap: 7.86
+  Tex-Mex Fajita Wrap: 12.44
+  Cucumber Jalapeno Agua Fresca: 3.78
+  Tequila Lime Flan: 8.19
+  Classic Mojito with Mint: 8.73
+  Hatch Green Chile Quesadilla: 11.71
+  Green Chile Cheesesteak: 11.19
+  Grilled Elote Corn: 4.58
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Horchata Iced Latte: 3.72
+  Grilled Steak Fajita Platter: 13.9
+  Chili Lime Skirt Steak: 13.24
+  Pineapple Jalapeno Sangria: 6.15
+  Stuffed Avocado Boats: 9.3
+  Stuffed Poblano Peppers: 12.25
+  Black Bean Street Tacos: 8.22
+  Black Bean Crunch Wrap: 6.76
+  Tex-Mex Fajita Wrap: 10.7
+  Cucumber Jalapeno Agua Fresca: 3.25
+  Tequila Lime Flan: 7.04
+  Classic Mojito with Mint: 7.51
+  Hatch Green Chile Quesadilla: 10.07
+  Green Chile Cheesesteak: 9.62
+  Grilled Elote Corn: 3.94

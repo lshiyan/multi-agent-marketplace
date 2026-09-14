@@ -1,0 +1,45 @@
+id: business_0154
+name: Queso to the Limit
+description: Queso to the Limit invites you to savor bold Tex-Mex and Mexican-inspired
+  flavors, from decadent dips to zesty margaritas and sweet chocolatey treats. Experience
+  a fiesta of inventive cuisine and vibrant drinks in every bite and sip.
+rating: 1.0
+progenitor_customer: customer_0052
+menu_features:
+  Chili Con Queso Supreme: 6.78
+  Chocolate Sopapilla Bites: 4.93
+  Chocolate Dipped Flan: 6.32
+  Poblano Pepper Queso Dip: 6.42
+  Hibiscus Agua Fresca: 3.4
+  Smoky Chipotle Black Bean Soup: 8.61
+  Red Chili Chicken Pozole: 9.59
+  Tomatillo Ranch Enchiladas: 15.07
+  Spicy Mango Margarita: 8.18
+  Chocolate Molten Tamale: 7.65
+  Sea Breeze Ceviche: 12.38
+  Black Bean and Lime Soup: 8.29
+  Cocoa Cinnamon Tequila: 9.58
+  Tequila Lime Chicken Wings: 10.28
+  Roasted Poblano Queso Dip: 8.2
+  Cinnamon Sugar Churro Sticks: 5.15
+  Pineapple Jalapeno Salsa: 3.73
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Chili Con Queso Supreme: 5.76
+  Chocolate Sopapilla Bites: 4.19
+  Chocolate Dipped Flan: 5.37
+  Poblano Pepper Queso Dip: 5.46
+  Hibiscus Agua Fresca: 2.89
+  Smoky Chipotle Black Bean Soup: 7.32
+  Red Chili Chicken Pozole: 8.15
+  Tomatillo Ranch Enchiladas: 12.81
+  Spicy Mango Margarita: 6.95
+  Chocolate Molten Tamale: 6.5
+  Sea Breeze Ceviche: 10.52
+  Black Bean and Lime Soup: 7.05
+  Cocoa Cinnamon Tequila: 8.14
+  Tequila Lime Chicken Wings: 8.74
+  Roasted Poblano Queso Dip: 6.97
+  Cinnamon Sugar Churro Sticks: 4.38
+  Pineapple Jalapeno Salsa: 3.17

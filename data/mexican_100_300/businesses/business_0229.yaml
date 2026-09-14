@@ -1,0 +1,34 @@
+id: business_0229
+name: How the Queso Crumbles
+description: Serving up playful Tex-Mex flavors with a fresh twist, How the Queso
+  Crumbles is where comfort, creativity, and good times come together. Dig into vibrant
+  small plates, grilled favorites, and unforgettable desserts in a lively, welcoming
+  setting.
+rating: 1.0
+progenitor_customer: customer_0077
+menu_features:
+  Stuffed Chicken Poblano: 11.06
+  Salted Caramel Margarita: 9.27
+  Blue Corn Enchilada Bake: 11.56
+  Sweet Corn Tostadas: 7.59
+  Coconut Lime Paleta: 4.07
+  Classic Lime Margarita: 8.57
+  Tres Leches Cake: 7.15
+  Chili Lime Jicama Sticks: 6.03
+  Queso Fundido Supreme: 7.33
+  Citrus Grilled Chicken Tacos: 10.9
+  Pineapple Jalapeno Salsa: 4.15
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Stuffed Chicken Poblano: 8.74
+  Salted Caramel Margarita: 7.32
+  Blue Corn Enchilada Bake: 9.13
+  Sweet Corn Tostadas: 6.0
+  Coconut Lime Paleta: 3.22
+  Classic Lime Margarita: 6.77
+  Tres Leches Cake: 5.65
+  Chili Lime Jicama Sticks: 4.76
+  Queso Fundido Supreme: 5.79
+  Citrus Grilled Chicken Tacos: 8.61
+  Pineapple Jalapeno Salsa: 3.28

@@ -1,0 +1,43 @@
+id: business_0285
+name: Savor & Cilantro
+description: Experience a fresh and modern twist on Mexican and Tex-Mex classics,
+  where vibrant flavors and inventive combinations celebrate every bite. Relax in
+  a lively atmosphere and enjoy a menu crafted for brunch, lunch, or dinner.
+rating: 1.0
+progenitor_customer: customer_0095
+menu_features:
+  Cilantro Lime Chicken Tacos: 10.14
+  Grilled Steak Fajita Platter: 13.9
+  Spicy Shrimp Nacho Platter: 10.55
+  Chipotle Chicken Enchiladas: 13.97
+  Sizzling Steak Fajitas: 17.07
+  Roasted Corn Enchiladas: 10.57
+  Spicy Chipotle Chicken Wrap: 11.11
+  Caramelized Onion and Chorizo Quesadilla: 8.47
+  Spicy Avocado Smash Burger: 10.41
+  Honey-Lime Grilled Salmon: 16.12
+  Breakfast Chilaquiles Verde: 9.13
+  Black Bean and Avocado Wrap: 10.73
+  Pineapple Salsa Nachos: 11.68
+  Avocado Lime Crema Tostadas: 8.15
+  Strawberry Jalapeno Lemonade: 4.62
+  Mango Habanero Wings: 13.26
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Cilantro Lime Chicken Tacos: 6.29
+  Grilled Steak Fajita Platter: 8.62
+  Spicy Shrimp Nacho Platter: 6.54
+  Chipotle Chicken Enchiladas: 8.66
+  Sizzling Steak Fajitas: 10.58
+  Roasted Corn Enchiladas: 6.55
+  Spicy Chipotle Chicken Wrap: 6.89
+  Caramelized Onion and Chorizo Quesadilla: 5.25
+  Spicy Avocado Smash Burger: 6.45
+  Honey-Lime Grilled Salmon: 9.99
+  Breakfast Chilaquiles Verde: 5.66
+  Black Bean and Avocado Wrap: 6.65
+  Pineapple Salsa Nachos: 7.24
+  Avocado Lime Crema Tostadas: 5.05
+  Strawberry Jalapeno Lemonade: 2.86
+  Mango Habanero Wings: 8.22

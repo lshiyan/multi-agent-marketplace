@@ -1,0 +1,38 @@
+id: business_0181
+name: Holy Guacamo-Wings!
+description: Get ready to spread your tastebuds' wings at this vibrant cantina, where
+  Tex-Mex classics collide with fresh, zesty twists and a playful approach to flavor.
+  Perfect for brunch, lunch, or happy hour, our cozy spot serves up bold bites and
+  sweet treats sure to satisfy every craving.
+rating: 1.0
+progenitor_customer: customer_0061
+menu_features:
+  Crispy Avocado Burrito: 11.57
+  Coconut Lime Flan: 5.64
+  Honey Chipotle Wings: 10.46
+  Agave Lime Chicken Skewers: 11.78
+  Chocolate Dipped Flan: 6.35
+  Breakfast Chilaquiles Verde: 12.4
+  Coconut Tres Leches: 8.96
+  Paloma Breeze Cocktail: 8.22
+  Caramel Apple Empanadas: 5.27
+  Frozen Mango Margarita: 9.93
+  Agave Lime Margarita: 9.83
+  Blueberry Agave Mojito: 9.55
+  Ancho Chile Chicken Salad: 9.16
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Crispy Avocado Burrito: 8.79
+  Coconut Lime Flan: 4.29
+  Honey Chipotle Wings: 7.95
+  Agave Lime Chicken Skewers: 8.95
+  Chocolate Dipped Flan: 4.83
+  Breakfast Chilaquiles Verde: 9.42
+  Coconut Tres Leches: 6.81
+  Paloma Breeze Cocktail: 6.25
+  Caramel Apple Empanadas: 4.01
+  Frozen Mango Margarita: 7.55
+  Agave Lime Margarita: 7.47
+  Blueberry Agave Mojito: 7.26
+  Ancho Chile Chicken Salad: 6.96

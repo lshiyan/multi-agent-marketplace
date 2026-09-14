@@ -1,0 +1,39 @@
+id: business_0136
+name: La Mesa Dulce Mexicana
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm, welcoming setting.
+  Our kitchen brings together tradition and creativity for unforgettable meals, from
+  savory breakfasts to sizzling dinner favorites.
+rating: 1.0
+progenitor_customer: customer_0046
+menu_features:
+  Three-Cheese Enchilada Stack: 14.46
+  Sizzling Carne Asada: 14.93
+  Coconut Lime Margarita: 8.85
+  Pork Carnitas Platter: 16.52
+  Breakfast Burrito Bowl: 7.3
+  Smoky Black Bean Enchiladas: 12.98
+  Tex-Mex Breakfast Skillet: 10.45
+  Honey Lime Chicken Fajitas: 14.34
+  Honey-Lime Shrimp Skewers: 11.82
+  Tamarind-Glazed Ribs: 18.38
+  Avocado & Tomato Breakfast Tostadas: 9.18
+  Blue Corn Tostada Salad: 8.85
+  Classic Mojito with Mint: 7.87
+  Roasted Corn Enchiladas: 11.5
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Three-Cheese Enchilada Stack: 10.7
+  Sizzling Carne Asada: 11.05
+  Coconut Lime Margarita: 6.55
+  Pork Carnitas Platter: 12.22
+  Breakfast Burrito Bowl: 5.4
+  Smoky Black Bean Enchiladas: 9.61
+  Tex-Mex Breakfast Skillet: 7.73
+  Honey Lime Chicken Fajitas: 10.61
+  Honey-Lime Shrimp Skewers: 8.75
+  Tamarind-Glazed Ribs: 13.6
+  Avocado & Tomato Breakfast Tostadas: 6.79
+  Blue Corn Tostada Salad: 6.55
+  Classic Mojito with Mint: 5.82
+  Roasted Corn Enchiladas: 8.51

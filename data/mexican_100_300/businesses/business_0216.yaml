@@ -1,0 +1,48 @@
+id: business_0216
+name: Tostada Trail
+description: Tostada Trail brings bold flavors and vibrant twists to classic Mexican
+  and Tex-Mex fare, with a colorful menu that spotlights house-made tostadas, zesty
+  starters, and fresh drinks. Embark on a flavor-filled journey from sunrise breakfasts
+  to lively evening bites in a warm, welcoming space.
+rating: 1.0
+progenitor_customer: customer_0072
+menu_features:
+  Bacon and Egg Tostada: 10.08
+  Blue Corn Tortilla Soup: 7.78
+  Smoky Chipotle BBQ Nachos: 15.13
+  Fiesta Street Corn: 5.79
+  Avocado & Tomato Breakfast Tostadas: 8.1
+  Caramel Corn Flan: 6.8
+  Creamy Jalapeno Corn Fritters: 9.82
+  Classic Lime Margarita: 8.06
+  Bacon Wrapped Jalapeno Bites: 8.83
+  Spicy Pork Tamales: 11.36
+  Mango Agua Fresca: 3.31
+  Grilled Pineapple Salmon: 15.18
+  Chipotle Lime Chicken Skewers: 10.05
+  Roasted Poblano Corn Chowder: 8.09
+  Zesty Shrimp Quesadillas: 14.58
+  Fajita Veggie Burrito Bowl: 10.94
+  Grilled Steak Quesadilla: 10.63
+  Zesty Lime Shrimp Tostadas: 11.89
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Bacon and Egg Tostada: 7.66
+  Blue Corn Tortilla Soup: 5.91
+  Smoky Chipotle BBQ Nachos: 11.5
+  Fiesta Street Corn: 4.4
+  Avocado & Tomato Breakfast Tostadas: 6.16
+  Caramel Corn Flan: 5.17
+  Creamy Jalapeno Corn Fritters: 7.46
+  Classic Lime Margarita: 6.13
+  Bacon Wrapped Jalapeno Bites: 6.71
+  Spicy Pork Tamales: 8.63
+  Mango Agua Fresca: 2.52
+  Grilled Pineapple Salmon: 11.54
+  Chipotle Lime Chicken Skewers: 7.64
+  Roasted Poblano Corn Chowder: 6.15
+  Zesty Shrimp Quesadillas: 11.08
+  Fajita Veggie Burrito Bowl: 8.31
+  Grilled Steak Quesadilla: 8.08
+  Zesty Lime Shrimp Tostadas: 9.04

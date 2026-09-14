@@ -1,0 +1,37 @@
+id: business_0203
+name: Holy Smokes & Sips
+description: Dive into bold Tex-Mex flavors and inventive twists at Holy Smokes &
+  Sips. Come for the vibrant bites, stay for the sweet treats and refreshing drinks
+  in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0068
+menu_features:
+  Blue Corn Tortilla Soup: 6.79
+  Classic Mojito with Mint: 8.94
+  Caramel Apple Empanadas: 6.59
+  Mexican Chocolate Milkshake: 6.36
+  Smoky Chipotle Black Bean Soup: 9.51
+  Adobo Pork Sliders: 11.61
+  Al Pastor Quesadilla: 9.77
+  Tamarind Spiced Agua Fresca: 4.18
+  Crispy Fish Street Tacos: 17.32
+  Chipotle Chicken Burrito Bowl: 10.86
+  Smoky Chipotle BBQ Ribs: 16.37
+  Tamarind-Glazed Ribs: 17.79
+  Roasted Poblano Queso Dip: 7.05
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Blue Corn Tortilla Soup: 4.75
+  Classic Mojito with Mint: 6.26
+  Caramel Apple Empanadas: 4.61
+  Mexican Chocolate Milkshake: 4.45
+  Smoky Chipotle Black Bean Soup: 6.66
+  Adobo Pork Sliders: 8.13
+  Al Pastor Quesadilla: 6.84
+  Tamarind Spiced Agua Fresca: 2.93
+  Crispy Fish Street Tacos: 12.12
+  Chipotle Chicken Burrito Bowl: 7.6
+  Smoky Chipotle BBQ Ribs: 11.46
+  Tamarind-Glazed Ribs: 12.45
+  Roasted Poblano Queso Dip: 4.93

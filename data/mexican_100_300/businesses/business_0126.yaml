@@ -1,0 +1,35 @@
+id: business_0126
+name: La Luna Dorada
+description: La Luna Dorada offers vibrant, flavorful Mexican and Tex-Mex fare in
+  a warm, inviting atmosphere. Enjoy a menu inspired by classic recipes and a variety
+  of inventive cocktails that capture the spirit of fiesta.
+rating: 1.0
+progenitor_customer: customer_0042
+menu_features:
+  Black Bean & Cheese Enchiladas: 10.73
+  Pineapple Jalapeno Margarita: 10.42
+  Smoky BBQ Pork Tostadas: 13.1
+  Fiesta Street Corn: 5.27
+  Tequila Lime Shrimp Skewers: 12.93
+  Cocoa Cinnamon Tequila: 8.3
+  Honey Chipotle Shrimp Bowl: 13.53
+  Baja Fish Taco Plate: 10.92
+  Street Corn Elote: 5.42
+  Queso Fundido Supreme: 9.9
+  Tamarind Ginger Cooler: 4.54
+  Mango Agua Fresca: 3.33
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Black Bean & Cheese Enchiladas: 7.51
+  Pineapple Jalapeno Margarita: 7.29
+  Smoky BBQ Pork Tostadas: 9.17
+  Fiesta Street Corn: 3.69
+  Tequila Lime Shrimp Skewers: 9.05
+  Cocoa Cinnamon Tequila: 5.81
+  Honey Chipotle Shrimp Bowl: 9.47
+  Baja Fish Taco Plate: 7.64
+  Street Corn Elote: 3.79
+  Queso Fundido Supreme: 6.93
+  Tamarind Ginger Cooler: 3.18
+  Mango Agua Fresca: 2.33

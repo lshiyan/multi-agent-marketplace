@@ -1,0 +1,37 @@
+id: business_0089
+name: La Fuente de Sabor
+description: Experience the vibrant tastes of Mexico and the Southwest in a welcoming,
+  contemporary setting. From zesty street tacos to hearty grilled specialties and
+  fresh, flavorful sides, every dish is crafted to delight and satisfy.
+rating: 1.0
+progenitor_customer: customer_0030
+menu_features:
+  Spicy Chicken Chimichanga: 7.81
+  Beef Fajita Skillet: 13.39
+  Smoky Black Bean Tostadas: 8.15
+  Tequila Lime Grilled Chicken: 11.74
+  Al Pastor Quesadilla: 13.6
+  Loaded Sweet Potato Fries: 6.02
+  Crispy Fish Street Tacos: 15.9
+  Coconut Lime Tres Leches: 6.52
+  Chili Lime Street Corn: 5.75
+  Coconut Lime Rice Bowl: 10.81
+  Lime-Cilantro Quinoa Salad: 9.95
+  Stuffed Poblano Peppers: 12.22
+  Spice-Rubbed Grilled Fajitas: 14.27
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Spicy Chicken Chimichanga: 5.55
+  Beef Fajita Skillet: 9.51
+  Smoky Black Bean Tostadas: 5.79
+  Tequila Lime Grilled Chicken: 8.34
+  Al Pastor Quesadilla: 9.66
+  Loaded Sweet Potato Fries: 4.27
+  Crispy Fish Street Tacos: 11.29
+  Coconut Lime Tres Leches: 4.63
+  Chili Lime Street Corn: 4.08
+  Coconut Lime Rice Bowl: 7.68
+  Lime-Cilantro Quinoa Salad: 7.06
+  Stuffed Poblano Peppers: 8.68
+  Spice-Rubbed Grilled Fajitas: 10.13

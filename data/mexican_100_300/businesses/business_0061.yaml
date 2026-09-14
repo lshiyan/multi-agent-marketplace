@@ -1,0 +1,41 @@
+id: business_0061
+name: "El Jard\xEDn Mexicano"
+description: Experience the vibrant flavors of Mexican and Tex-Mex cuisine in a lively,
+  welcoming atmosphere. From fresh salads and flavorful tacos to creative drinks and
+  decadent desserts, our menu offers something for every craving.
+rating: 1.0
+progenitor_customer: customer_0021
+menu_features:
+  Jalapeno Mango Margarita: 7.59
+  Avocado & Tomato Breakfast Tostadas: 8.42
+  Creamy Avocado Caesar Salad: 11.53
+  Pineapple Salsa Shrimp Tacos: 16.14
+  Southwestern Quinoa Salad: 9.32
+  Avocado Street Tacos: 11.2
+  Adobo Pork Sliders: 12.91
+  Hatch Green Chile Burger: 11.16
+  Horchata Iced Latte: 5.61
+  Carnitas Breakfast Burrito: 10.54
+  Grilled Pineapple Dessert Quesadilla: 8.17
+  Chipotle Lime Chicken Salad: 12.12
+  Chili Con Queso Supreme: 7.58
+  Rich Chocolate Tres Leches: 6.87
+  Breakfast Burrito Bonanza: 7.91
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Jalapeno Mango Margarita: 6.45
+  Avocado & Tomato Breakfast Tostadas: 7.16
+  Creamy Avocado Caesar Salad: 9.8
+  Pineapple Salsa Shrimp Tacos: 13.72
+  Southwestern Quinoa Salad: 7.92
+  Avocado Street Tacos: 9.52
+  Adobo Pork Sliders: 10.97
+  Hatch Green Chile Burger: 9.49
+  Horchata Iced Latte: 4.77
+  Carnitas Breakfast Burrito: 8.96
+  Grilled Pineapple Dessert Quesadilla: 6.94
+  Chipotle Lime Chicken Salad: 10.3
+  Chili Con Queso Supreme: 6.44
+  Rich Chocolate Tres Leches: 5.84
+  Breakfast Burrito Bonanza: 6.72

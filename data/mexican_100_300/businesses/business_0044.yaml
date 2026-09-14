@@ -1,0 +1,33 @@
+id: business_0044
+name: Lime & Luna Eatery
+description: Discover fresh, modern Mexican and Tex-Mex flavors in a vibrant, relaxed
+  atmosphere. Enjoy creative margaritas, flavorful small plates, and inspired classics
+  with a twist.
+rating: 1.0
+progenitor_customer: customer_0015
+menu_features:
+  Verde Ranchero Huevos: 11.62
+  Garlic Lime Shrimp Salad: 11.57
+  "Blueberry Jalape\xF1o Margarita": 13.27
+  Spicy Cucumber Margarita: 10.17
+  Coconut Lime Paleta: 3.55
+  Shrimp Ceviche Cups: 7.07
+  Frozen Mango Margarita: 8.35
+  Smoky Black Bean Enchiladas: 12.34
+  Classic Mojito with Mint: 7.37
+  Black Bean & Cheese Tostadas: 11.97
+  Fresh Lime and Cilantro Guacamole: 8.53
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Verde Ranchero Huevos: 10.81
+  Garlic Lime Shrimp Salad: 10.76
+  "Blueberry Jalape\xF1o Margarita": 12.34
+  Spicy Cucumber Margarita: 9.46
+  Coconut Lime Paleta: 3.3
+  Shrimp Ceviche Cups: 6.58
+  Frozen Mango Margarita: 7.77
+  Smoky Black Bean Enchiladas: 11.48
+  Classic Mojito with Mint: 6.85
+  Black Bean & Cheese Tostadas: 11.13
+  Fresh Lime and Cilantro Guacamole: 7.93

@@ -1,0 +1,35 @@
+id: business_0224
+name: Tostada & Tequila Tavern
+description: Discover bold flavors and vibrant sips in a lively setting inspired by
+  the heart of Mexican and Tex-Mex traditions. Fresh tostadas, sizzling grilled plates,
+  and creative margaritas await your next fiesta.
+rating: 1.0
+progenitor_customer: customer_0075
+menu_features:
+  Black Bean Avocado Tostadas: 13.6
+  Chili Lime Margarita: 8.58
+  Caramel Apple Empanadas: 7.51
+  Grilled Steak Fajita Platter: 15.93
+  Salted Caramel Margarita: 9.47
+  Black Bean Street Tacos: 10.58
+  Black Bean and Sweet Potato Empanadas: 10.02
+  Vanilla Almond Horchata: 4.25
+  Tequila Lime Grilled Chicken: 14.34
+  Hatch Green Chile Stew: 9.89
+  Grilled Street Corn: 5.65
+  Vanilla Flan Delight: 6.72
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Black Bean Avocado Tostadas: 12.1
+  Chili Lime Margarita: 7.64
+  Caramel Apple Empanadas: 6.68
+  Grilled Steak Fajita Platter: 14.18
+  Salted Caramel Margarita: 8.43
+  Black Bean Street Tacos: 9.42
+  Black Bean and Sweet Potato Empanadas: 8.92
+  Vanilla Almond Horchata: 3.78
+  Tequila Lime Grilled Chicken: 12.76
+  Hatch Green Chile Stew: 8.8
+  Grilled Street Corn: 5.03
+  Vanilla Flan Delight: 5.98

@@ -1,0 +1,33 @@
+id: business_0019
+name: Cocina Vibrante
+description: Dive into the bold flavors and refreshing drinks of our modern Mexican
+  kitchen, where spice meets sweetness in every dish. Experience a vibrant twist on
+  classic favorites in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0007
+menu_features:
+  Black Bean and Cilantro Rice: 3.61
+  Tamarind Spiced Agua Fresca: 3.54
+  Spicy Chocolate Churros: 5.21
+  Warm Cinnamon Churros: 7.3
+  Cinnamon Sugar Churros: 6.39
+  Passion Fruit Mojito: 10.14
+  Creamy Avocado Smoothie: 4.9
+  Ultimate Nacho Platter: 8.13
+  Coconut Flan Delight: 7.36
+  Classic Beef Barbacoa: 16.34
+  Spicy Pineapple Salsa Dip: 5.41
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Black Bean and Cilantro Rice: 3.07
+  Tamarind Spiced Agua Fresca: 3.01
+  Spicy Chocolate Churros: 4.43
+  Warm Cinnamon Churros: 6.21
+  Cinnamon Sugar Churros: 5.43
+  Passion Fruit Mojito: 8.62
+  Creamy Avocado Smoothie: 4.17
+  Ultimate Nacho Platter: 6.91
+  Coconut Flan Delight: 6.26
+  Classic Beef Barbacoa: 13.89
+  Spicy Pineapple Salsa Dip: 4.6

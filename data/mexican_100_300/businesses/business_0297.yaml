@@ -1,0 +1,41 @@
+id: business_0297
+name: Savory Skillet Social
+description: Step into a modern Tex-Mex experience where bold flavors and fresh ingredients
+  come alive on every plate. From sizzling skillets to inventive desserts and zesty
+  drinks, enjoy a lively, flavorful escape for any occasion.
+rating: 1.0
+progenitor_customer: customer_0099
+menu_features:
+  Flamin' Skillet Fajitas: 17.37
+  Zesty Lime Shrimp Salad: 12.97
+  Roasted Poblano Veggie Skillet: 9.13
+  Spiced Chocolate Flan: 7.89
+  Blue Corn Tortilla Chips: 4.61
+  Spicy Chocolate Lava Cake: 6.44
+  Spicy Pineapple Chipotle Margarita: 7.84
+  Creamy Chipotle Pasta: 10.34
+  Blueberry Jalapeno Lemonade: 3.69
+  Spicy Black Bean Nacho Platter: 11.22
+  Honey Chipotle Wings: 9.32
+  Spiced Churro Bites: 5.26
+  Pico Avocado Toast: 8.26
+  Chorizo Breakfast Burrito: 11.79
+  Ancho Chili Spiced Ribs: 15.64
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Flamin' Skillet Fajitas: 12.68
+  Zesty Lime Shrimp Salad: 9.47
+  Roasted Poblano Veggie Skillet: 6.66
+  Spiced Chocolate Flan: 5.76
+  Blue Corn Tortilla Chips: 3.37
+  Spicy Chocolate Lava Cake: 4.7
+  Spicy Pineapple Chipotle Margarita: 5.72
+  Creamy Chipotle Pasta: 7.55
+  Blueberry Jalapeno Lemonade: 2.69
+  Spicy Black Bean Nacho Platter: 8.19
+  Honey Chipotle Wings: 6.8
+  Spiced Churro Bites: 3.84
+  Pico Avocado Toast: 6.03
+  Chorizo Breakfast Burrito: 8.61
+  Ancho Chili Spiced Ribs: 11.42

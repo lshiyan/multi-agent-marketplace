@@ -1,0 +1,41 @@
+id: business_0098
+name: "Solstice Saz\xF3n"
+description: Discover fresh, vibrant flavors in a modern setting inspired by the warmth
+  and spice of Mexico. Savor a lively mix of Tex-Mex favorites, creative cocktails,
+  and bold classic dishes crafted to delight.
+rating: 1.0
+progenitor_customer: customer_0033
+menu_features:
+  Mexican Hot Chocolate: 5.14
+  Charred Corn and Black Bean Salad: 9.83
+  Spiced Pumpkin Empanadas: 5.25
+  Spicy Chipotle Chicken Wrap: 9.93
+  Blue Agave Tequila Sunrise: 9.63
+  Beef Barbacoa Tostadas: 12.31
+  Sizzling Carne Asada: 17.94
+  Blueberry Tequila Sunrise: 10.46
+  Spicy Black Bean Nachos: 10.1
+  Spiked Horchata Cooler: 7.58
+  Crispy Avocado Tostadas: 10.96
+  Chili Lime Skirt Steak: 14.69
+  Spicy Chorizo Enchiladas: 12.63
+  Fresh Lime Cilantro Rice: 3.41
+  Black Bean Avocado Tostadas: 10.73
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Mexican Hot Chocolate: 4.57
+  Charred Corn and Black Bean Salad: 8.75
+  Spiced Pumpkin Empanadas: 4.67
+  Spicy Chipotle Chicken Wrap: 8.84
+  Blue Agave Tequila Sunrise: 8.57
+  Beef Barbacoa Tostadas: 10.96
+  Sizzling Carne Asada: 15.97
+  Blueberry Tequila Sunrise: 9.31
+  Spicy Black Bean Nachos: 8.99
+  Spiked Horchata Cooler: 6.75
+  Crispy Avocado Tostadas: 9.75
+  Chili Lime Skirt Steak: 13.07
+  Spicy Chorizo Enchiladas: 11.24
+  Fresh Lime Cilantro Rice: 3.03
+  Black Bean Avocado Tostadas: 9.55

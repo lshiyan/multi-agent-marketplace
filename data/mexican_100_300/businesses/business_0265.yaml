@@ -1,0 +1,37 @@
+id: business_0265
+name: Crisp & Ceviche Kitchen
+description: Savor vibrant Mexican and Tex-Mex flavors with creative vegetarian and
+  chicken specialties, paired with refreshing drinks and fresh seafood bites. Modern,
+  lively, and perfect for those who crave a bold yet balanced dining experience.
+rating: 1.0
+progenitor_customer: customer_0089
+menu_features:
+  Black Bean Crunch Wrap: 9.84
+  Smoky Chipotle BBQ Wings: 11.75
+  Crispy Tinga Chicken Tacos: 8.09
+  Passionfruit Agua Fresca: 2.54
+  Sweet Corn Tamale Bites: 7.42
+  Avocado Lime Quinoa Bowl: 11.72
+  Sea Breeze Ceviche: 12.78
+  Classic Lime Margarita: 7.45
+  Smoky Chipotle Chicken: 14.05
+  Spicy Black Bean Nacho Platter: 11.37
+  Black Bean and Sweet Potato Empanadas: 8.74
+  Smoky Black Bean Enchiladas: 13.93
+  Crispy Avocado Fritters: 7.89
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Black Bean Crunch Wrap: 6.0
+  Smoky Chipotle BBQ Wings: 7.17
+  Crispy Tinga Chicken Tacos: 4.93
+  Passionfruit Agua Fresca: 1.55
+  Sweet Corn Tamale Bites: 4.53
+  Avocado Lime Quinoa Bowl: 7.15
+  Sea Breeze Ceviche: 7.8
+  Classic Lime Margarita: 4.54
+  Smoky Chipotle Chicken: 8.57
+  Spicy Black Bean Nacho Platter: 6.94
+  Black Bean and Sweet Potato Empanadas: 5.33
+  Smoky Black Bean Enchiladas: 8.5
+  Crispy Avocado Fritters: 4.81

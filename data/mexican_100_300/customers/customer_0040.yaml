@@ -1,0 +1,9 @@
+id: customer_0040
+name: Lucas Gonzalez
+request: 'I would like to place an order for the following menu items: 1 Twisted Tequila
+  Sunrise and 1 Pineapple Chipotle Pork. Please find a business that can fulfill this
+  order exactly as specified, as it is very important to me. Thank you.'
+menu_features:
+  Twisted Tequila Sunrise: 8.49
+  Pineapple Chipotle Pork: 14.29
+amenity_features: []

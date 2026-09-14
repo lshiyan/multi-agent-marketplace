@@ -1,0 +1,11 @@
+id: customer_0055
+name: Yasmin Ahmed
+request: 'Could you please help me find a business that can fulfill the following
+  order: 1 Chipotle Lime Cauliflower Taco, 1 Street Corn Quesadilla, and 1 Carne Asada
+  Fajita? These items are essential, and I intend to place an order once such a business
+  is identified. Thank you!'
+menu_features:
+  Chipotle Lime Cauliflower Tacos: 10.99
+  Street Corn Quesadilla: 10.99
+  Carne Asada Fajitas: 14.99
+amenity_features: []

@@ -1,0 +1,43 @@
+id: business_0294
+name: El Sabor Sizzler
+description: Experience vibrant Mexican and Tex-Mex flavors served hot off the skillet
+  in a lively, welcoming atmosphere. From sizzling specialties to refreshing drinks
+  and decadent desserts, every meal is a celebration of taste.
+rating: 1.0
+progenitor_customer: customer_0098
+menu_features:
+  Sizzling Fajita Skillet: 14.78
+  Baja Fish Tacos: 13.52
+  Black Bean Chili Bowl: 10.15
+  Sweet Corn Tostadas: 8.0
+  Ancho Chili Spiced Ribs: 14.2
+  Spicy Cucumber Margarita: 8.49
+  Chipotle Chicken Enchiladas: 14.1
+  Mexican Chocolate Lava Cake: 9.31
+  Tex-Mex Fajita Wrap: 12.2
+  Smoky Black Bean Nachos: 8.5
+  Tequila Lime Grilled Shrimp: 12.04
+  Grilled Chipotle Chicken Burrito: 12.06
+  Tropical Pineapple Salsa: 2.05
+  Stuffed Poblano Peppers: 11.31
+  Flan with Caramel Drizzle: 5.38
+  Sizzling Beef Alambre: 14.09
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Sizzling Fajita Skillet: 13.6
+  Baja Fish Tacos: 12.44
+  Black Bean Chili Bowl: 9.34
+  Sweet Corn Tostadas: 7.36
+  Ancho Chili Spiced Ribs: 13.06
+  Spicy Cucumber Margarita: 7.81
+  Chipotle Chicken Enchiladas: 12.97
+  Mexican Chocolate Lava Cake: 8.57
+  Tex-Mex Fajita Wrap: 11.22
+  Smoky Black Bean Nachos: 7.82
+  Tequila Lime Grilled Shrimp: 11.08
+  Grilled Chipotle Chicken Burrito: 11.1
+  Tropical Pineapple Salsa: 1.89
+  Stuffed Poblano Peppers: 10.41
+  Flan with Caramel Drizzle: 4.95
+  Sizzling Beef Alambre: 12.96

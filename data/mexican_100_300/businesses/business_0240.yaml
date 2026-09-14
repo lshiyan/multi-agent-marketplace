@@ -1,0 +1,43 @@
+id: business_0240
+name: Cacao & Flame Kitchen
+description: "Experience bold, vibrant flavors at Cacao & Flame Kitchen, where Mexico\u2019\
+  s classic comforts meet a modern, fiery twist. Perfect for those craving fresh drinks,\
+  \ sizzling plates, and delectable desserts in a warm, lively atmosphere."
+rating: 1.0
+progenitor_customer: customer_0080
+menu_features:
+  Choco Flan Combo: 8.45
+  Fresh Mint Mojito: 8.25
+  Spicy Beef Enchilada Bake: 13.04
+  Mango Agua Fresca: 3.03
+  Grilled Steak Fajita Platter: 15.21
+  Mesquite Grilled Steak Fajitas: 17.68
+  Creamy Chipotle Pasta: 11.58
+  Roasted Poblano Rellenos: 15.12
+  Chili Chocolate Lava Cake: 7.06
+  Hatch Green Chile Stew: 12.99
+  Sizzling Fajita Plate: 14.31
+  Vanilla Flan with Caramel Sauce: 6.04
+  Black Bean Breakfast Burrito: 8.71
+  Salted Caramel Margarita: 10.49
+  Smoky Mezcal Mule: 10.75
+  Warm Cinnamon Churros: 4.9
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Choco Flan Combo: 5.41
+  Fresh Mint Mojito: 5.28
+  Spicy Beef Enchilada Bake: 8.35
+  Mango Agua Fresca: 1.94
+  Grilled Steak Fajita Platter: 9.73
+  Mesquite Grilled Steak Fajitas: 11.32
+  Creamy Chipotle Pasta: 7.41
+  Roasted Poblano Rellenos: 9.68
+  Chili Chocolate Lava Cake: 4.52
+  Hatch Green Chile Stew: 8.31
+  Sizzling Fajita Plate: 9.16
+  Vanilla Flan with Caramel Sauce: 3.87
+  Black Bean Breakfast Burrito: 5.57
+  Salted Caramel Margarita: 6.71
+  Smoky Mezcal Mule: 6.88
+  Warm Cinnamon Churros: 3.14

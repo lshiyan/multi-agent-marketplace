@@ -1,0 +1,33 @@
+id: business_0041
+name: "Ma\xEDz & Miel"
+description: "Ma\xEDz & Miel brings vibrant Mexican and Tex-Mex flavors to your table,\
+  \ celebrating sweet and savory traditions with a modern twist. Discover handcrafted\
+  \ dishes and irresistible desserts in a warm, inviting setting."
+rating: 1.0
+progenitor_customer: customer_0014
+menu_features:
+  Sweet Corn Tostadas: 8.56
+  Blue Corn Tortilla Tacos: 11.5
+  Classic Horchata Smoothie: 5.42
+  Classic Horchata Delight: 3.68
+  Blue Corn Tostada Salad: 9.79
+  Spiced Churro Bites: 5.44
+  Mushroom & Cheese Tamales: 7.03
+  Pumpkin Spice Flan: 5.53
+  Avocado Lime Cheesecake: 5.96
+  Crispy Avocado and Lime Tacos: 16.27
+  Chili Lime Skirt Steak: 23.99
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Sweet Corn Tostadas: 5.22
+  Blue Corn Tortilla Tacos: 7.01
+  Classic Horchata Smoothie: 3.31
+  Classic Horchata Delight: 2.24
+  Blue Corn Tostada Salad: 5.97
+  Spiced Churro Bites: 3.32
+  Mushroom & Cheese Tamales: 4.29
+  Pumpkin Spice Flan: 3.37
+  Avocado Lime Cheesecake: 3.64
+  Crispy Avocado and Lime Tacos: 9.92
+  Chili Lime Skirt Steak: 14.63

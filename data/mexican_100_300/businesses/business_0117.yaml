@@ -1,0 +1,41 @@
+id: business_0117
+name: Skillet Me Softly
+description: Turn up the flavor at this playful spot serving vibrant Tex-Mex and Mexican-inspired
+  fare from the grill, skillet, and oven. Fresh twists and bold spices bring every
+  bite to life, with something tempting for food lovers of every kind.
+rating: 1.0
+progenitor_customer: customer_0039
+menu_features:
+  Roasted Poblano Quesadilla: 11.29
+  Spicy Chocolate Churros: 6.07
+  Zesty Lime Shrimp Skewers: 12.67
+  Sizzling Fajita Skillet: 10.65
+  Bacon Wrapped Jalapeno Bites: 8.41
+  Tamarind Ginger Cooler: 4.43
+  Grilled Avocado and Quinoa Bowl: 9.17
+  Roasted Poblano and Cheese Empanadas: 11.54
+  Spicy Shrimp Fajitas: 14.65
+  Grilled Street Corn: 6.41
+  Spicy Black Bean Enchiladas: 11.72
+  Grilled Pineapple Dessert Quesadilla: 7.54
+  Green Chile Pork Stew: 13.89
+  Grilled Pineapple Mojito: 5.97
+  Honey Lime Chicken Skewers: 10.12
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Roasted Poblano Quesadilla: 7.68
+  Spicy Chocolate Churros: 4.13
+  Zesty Lime Shrimp Skewers: 8.62
+  Sizzling Fajita Skillet: 7.24
+  Bacon Wrapped Jalapeno Bites: 5.72
+  Tamarind Ginger Cooler: 3.01
+  Grilled Avocado and Quinoa Bowl: 6.24
+  Roasted Poblano and Cheese Empanadas: 7.85
+  Spicy Shrimp Fajitas: 9.96
+  Grilled Street Corn: 4.36
+  Spicy Black Bean Enchiladas: 7.97
+  Grilled Pineapple Dessert Quesadilla: 5.13
+  Green Chile Pork Stew: 9.45
+  Grilled Pineapple Mojito: 4.06
+  Honey Lime Chicken Skewers: 6.88

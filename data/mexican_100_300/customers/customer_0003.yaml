@@ -1,0 +1,12 @@
+id: customer_0003
+name: Christopher Stewart
+request: 'Could you please assist me in placing an order with a business that offers
+  the following menu items: 1 Spicy Black Bean Enchiladas, 1 Pumpkin Spice Churros,
+  and 1 Crispy Tortilla Breakfast Bowl? It is important that all these items are available.
+  Thank you, and I look forward to placing the order as soon as a suitable business
+  is found.'
+menu_features:
+  Spicy Black Bean Enchiladas: 10.99
+  Pumpkin Spice Churros: 5.59
+  Crispy Tortilla Breakfast Bowl: 10.49
+amenity_features: []

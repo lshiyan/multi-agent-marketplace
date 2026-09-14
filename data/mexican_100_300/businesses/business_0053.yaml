@@ -1,0 +1,35 @@
+id: business_0053
+name: Tamarind & Flame
+description: A modern Tex-Mex eatery serving bold, vibrant flavors and fresh, creative
+  cuisine in a lively setting. Enjoy an inspired menu of inventive classics, grilled
+  specialties, and signature cocktails.
+rating: 1.0
+progenitor_customer: customer_0018
+menu_features:
+  Tamarind-Glazed Ribs: 21.69
+  Avocado & Tomato Breakfast Tostadas: 9.35
+  Grilled Pineapple & Shrimp Quesadillas: 13.37
+  Tex-Mex Fajita Wrap: 9.74
+  Pineapple Habanero Margarita: 10.73
+  Coconut Lime Flan: 6.69
+  Three-Cheese Chile Rellenos: 11.23
+  Honey-Lime Grilled Shrimp: 15.67
+  Smoky Chipotle Queso: 7.5
+  Chipotle Bourbon Carnitas: 17.71
+  Sunrise Breakfast Tacos: 9.11
+  Tamarind Citrus Margarita: 9.35
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Tamarind-Glazed Ribs: 16.27
+  Avocado & Tomato Breakfast Tostadas: 7.01
+  Grilled Pineapple & Shrimp Quesadillas: 10.03
+  Tex-Mex Fajita Wrap: 7.3
+  Pineapple Habanero Margarita: 8.05
+  Coconut Lime Flan: 5.02
+  Three-Cheese Chile Rellenos: 8.42
+  Honey-Lime Grilled Shrimp: 11.75
+  Smoky Chipotle Queso: 5.62
+  Chipotle Bourbon Carnitas: 13.28
+  Sunrise Breakfast Tacos: 6.83
+  Tamarind Citrus Margarita: 7.01

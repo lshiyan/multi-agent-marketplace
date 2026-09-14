@@ -1,0 +1,48 @@
+id: business_0106
+name: Casa de Agave y Fuego
+description: Experience bold Mexican and Tex-Mex flavors in a vibrant setting where
+  smoky salsas, zesty grilled dishes, and creative cocktails bring every meal to life.
+  Whether you're craving fresh-off-the-grill entrees or sweet bites, there's a fiesta
+  of taste waiting for you.
+rating: 1.0
+progenitor_customer: customer_0036
+menu_features:
+  Tequila Lime Shrimp Skewers: 13.46
+  Tex-Mex Fajita Wrap: 13.5
+  Tequila Lime Chicken Wings: 9.51
+  Smoky Chipotle BBQ Ribs: 16.75
+  Mango Jalapeno Slush: 5.69
+  Cocoa Dusted Churro Bites: 5.61
+  Chili-Lime Cauliflower Bites: 9.1
+  Tequila Sunrise Smoothie: 6.85
+  Tamarind Spiced Agua Fresca: 4.17
+  Black Bean Crunch Wrap: 10.2
+  Grilled Steak Fajita Platter: 17.45
+  Queso Fundido with Chorizo: 9.93
+  Poblano Pepper Queso Dip: 6.66
+  Fresh Lime Cilantro Rice: 3.02
+  Mango Habanero Salsa: 5.28
+  Sweet Corn Tostadas: 7.82
+  Spicy Zucchini Tostadas: 9.69
+  Raspberry Jalapeno Mojito: 9.26
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Tequila Lime Shrimp Skewers: 9.15
+  Tex-Mex Fajita Wrap: 9.18
+  Tequila Lime Chicken Wings: 6.47
+  Smoky Chipotle BBQ Ribs: 11.39
+  Mango Jalapeno Slush: 3.87
+  Cocoa Dusted Churro Bites: 3.81
+  Chili-Lime Cauliflower Bites: 6.19
+  Tequila Sunrise Smoothie: 4.66
+  Tamarind Spiced Agua Fresca: 2.84
+  Black Bean Crunch Wrap: 6.94
+  Grilled Steak Fajita Platter: 11.87
+  Queso Fundido with Chorizo: 6.75
+  Poblano Pepper Queso Dip: 4.53
+  Fresh Lime Cilantro Rice: 2.05
+  Mango Habanero Salsa: 3.59
+  Sweet Corn Tostadas: 5.32
+  Spicy Zucchini Tostadas: 6.59
+  Raspberry Jalapeno Mojito: 6.3

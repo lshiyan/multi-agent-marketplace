@@ -1,0 +1,12 @@
+id: customer_0078
+name: Mia Kim
+request: 'I would like assistance in finding a business that can fulfill my order
+  with the following specific items: 1 Zesty Shrimp Ceviche, 1 Chocolate Mole Chicken,
+  and 1 Tamale Trio Sampler. These items are essential to my request, and I intend
+  to place an order as mentioned. Thank you for your help in locating a suitable business
+  that offers all of these menu items.'
+menu_features:
+  Zesty Shrimp Ceviche: 12.99
+  Chocolate Mole Chicken: 15.99
+  Tamale Trio Sampler: 11.99
+amenity_features: []

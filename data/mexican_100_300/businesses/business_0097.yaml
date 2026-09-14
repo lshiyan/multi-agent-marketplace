@@ -1,0 +1,37 @@
+id: business_0097
+name: "Grill Joy Jalape\xF1o"
+description: Spice up your day with bold Mexican and Tex-Mex flavors, from sizzling
+  grilled meats to zesty salsas and creative twists on classic favorites. Discover
+  a menu that balances comfort, heat, and fresh market zest in every bite.
+rating: 1.0
+progenitor_customer: customer_0033
+menu_features:
+  Creamy Jalapeno Corn Fritters: 8.44
+  Creamy Poblano Corn Chowder: 8.76
+  Sizzling Carne Asada: 19.01
+  Beef Barbacoa Tostadas: 10.69
+  Crisp Jicama Slaw: 3.92
+  Roasted Tomato Salsa Dip: 4.55
+  Smoky Chipotle BBQ Ribs: 20.1
+  Charred Corn and Black Bean Salad: 8.29
+  Ancho Chili Chocolate Cake: 7.1
+  Spicy Black Bean Nachos: 10.01
+  Sweet Corn Tostadas: 10.48
+  Chili Chocolate Lava Cake: 6.66
+  Fresh Limeade: 3.87
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Creamy Jalapeno Corn Fritters: 7.93
+  Creamy Poblano Corn Chowder: 8.23
+  Sizzling Carne Asada: 17.87
+  Beef Barbacoa Tostadas: 10.05
+  Crisp Jicama Slaw: 3.68
+  Roasted Tomato Salsa Dip: 4.28
+  Smoky Chipotle BBQ Ribs: 18.89
+  Charred Corn and Black Bean Salad: 7.79
+  Ancho Chili Chocolate Cake: 6.67
+  Spicy Black Bean Nachos: 9.41
+  Sweet Corn Tostadas: 9.85
+  Chili Chocolate Lava Cake: 6.26
+  Fresh Limeade: 3.64

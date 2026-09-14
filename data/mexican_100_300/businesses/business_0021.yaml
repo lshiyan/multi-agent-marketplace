@@ -1,0 +1,43 @@
+id: business_0021
+name: Sabores Frescos Kitchen
+description: A vibrant spot serving fresh, modern Mexican and Tex-Mex fare inspired
+  by bright flavors and seasonal ingredients. Join us for sizzling skillets, bold
+  salsas, and a creative twist on classic favorites.
+rating: 1.0
+progenitor_customer: customer_0007
+menu_features:
+  Caramel Apple Empanadas: 5.81
+  Sizzling Fajita Skillet: 18.14
+  Coconut Lime Tres Leches: 6.65
+  Pineapple Pico de Gallo Nachos: 10.48
+  Citrus Cilantro Rice: 6.04
+  Spicy Shrimp Fajitas: 13.3
+  Black Bean Sweet Potato Burrito: 8.18
+  Jicama and Citrus Salad: 7.97
+  Spicy Black Bean Nacho Platter: 11.99
+  Golden Tequila Sunrise: 8.22
+  Tropical Pineapple Salsa: 3.78
+  Beef Barbacoa Burrito Bowl: 11.77
+  Breakfast Burrito Supreme: 10.35
+  Classic Beef Tacos with Zesty Slaw: 10.73
+  Black Bean and Cilantro Rice: 5.37
+  Adobo Pork Sliders: 10.25
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Caramel Apple Empanadas: 5.35
+  Sizzling Fajita Skillet: 16.69
+  Coconut Lime Tres Leches: 6.12
+  Pineapple Pico de Gallo Nachos: 9.64
+  Citrus Cilantro Rice: 5.56
+  Spicy Shrimp Fajitas: 12.24
+  Black Bean Sweet Potato Burrito: 7.53
+  Jicama and Citrus Salad: 7.33
+  Spicy Black Bean Nacho Platter: 11.03
+  Golden Tequila Sunrise: 7.56
+  Tropical Pineapple Salsa: 3.48
+  Beef Barbacoa Burrito Bowl: 10.83
+  Breakfast Burrito Supreme: 9.52
+  Classic Beef Tacos with Zesty Slaw: 9.87
+  Black Bean and Cilantro Rice: 4.94
+  Adobo Pork Sliders: 9.43

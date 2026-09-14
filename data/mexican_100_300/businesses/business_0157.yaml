@@ -1,0 +1,34 @@
+id: business_0157
+name: Dip, Sip & Sizzle
+description: A vibrant Tex-Mex eatery where bold flavors meet playful twists, serving
+  up spicy wraps, sweet treats, and zesty cocktails in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0053
+menu_features:
+  Spicy Chipotle Chicken Wrap: 10.25
+  Chipotle Bean Burrito: 9.68
+  Spiced Chocolate Flan: 7.67
+  Horchata Iced Latte: 5.65
+  "Cheesy Jalape\xF1o Poppers": 7.52
+  Paloma Breeze Cocktail: 7.16
+  Roasted Poblano Queso Dip: 6.24
+  Verde Ranchero Huevos: 11.24
+  Rich Chocolate Tres Leches: 8.76
+  Sweet Corn Tamale Bites: 6.67
+  Ancho Chili Braised Beef Enchiladas: 12.23
+  Avocado Lime Salsa: 5.78
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Spicy Chipotle Chicken Wrap: 9.33
+  Chipotle Bean Burrito: 8.81
+  Spiced Chocolate Flan: 6.98
+  Horchata Iced Latte: 5.14
+  "Cheesy Jalape\xF1o Poppers": 6.84
+  Paloma Breeze Cocktail: 6.52
+  Roasted Poblano Queso Dip: 5.68
+  Verde Ranchero Huevos: 10.23
+  Rich Chocolate Tres Leches: 7.97
+  Sweet Corn Tamale Bites: 6.07
+  Ancho Chili Braised Beef Enchiladas: 11.13
+  Avocado Lime Salsa: 5.26

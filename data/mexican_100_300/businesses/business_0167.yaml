@@ -1,0 +1,48 @@
+id: business_0167
+name: "Rancho y R\xE1ices Cantina"
+description: "Experience vibrant Tex-Mex and Mexican flavors at Rancho y R\xE1ices\
+  \ Cantina, where classic favorites and inventive dishes come together in a lively\
+  \ atmosphere. Enjoy a menu bursting with smoky grilled fare, zesty salsas, and fresh,\
+  \ bold ingredients."
+rating: 1.0
+progenitor_customer: customer_0056
+menu_features:
+  Ranchero Steak Fajitas: 20.61
+  Braised Beef Barbacoa Tacos: 13.02
+  Creamy Avocado Caesar Salad: 9.13
+  Coconut Lime Rice Bowl: 9.89
+  Loaded Nacho Supreme: 11.42
+  Spicy Chipotle Chicken Wings: 8.25
+  Black Bean Street Tacos: 8.96
+  Smoky BBQ Pork Tostadas: 9.07
+  Tamarind Spiced Agua Fresca: 4.15
+  "Cheesy Jalape\xF1o Quesadillas": 8.3
+  Tequila Lime Flan: 8.41
+  Honey Lime Grilled Chicken: 14.07
+  Roasted Corn and Black Bean Salsa: 8.38
+  Breakfast Chorizo Tostadas: 10.57
+  Spicy Zucchini Tostadas: 11.46
+  Pineapple Chipotle Salsa & Chips: 6.77
+  Molten Queso Fundido: 8.23
+  Ancho Chile BBQ Ribs: 17.53
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Ranchero Steak Fajitas: 15.87
+  Braised Beef Barbacoa Tacos: 10.03
+  Creamy Avocado Caesar Salad: 7.03
+  Coconut Lime Rice Bowl: 7.62
+  Loaded Nacho Supreme: 8.79
+  Spicy Chipotle Chicken Wings: 6.35
+  Black Bean Street Tacos: 6.9
+  Smoky BBQ Pork Tostadas: 6.98
+  Tamarind Spiced Agua Fresca: 3.2
+  "Cheesy Jalape\xF1o Quesadillas": 6.39
+  Tequila Lime Flan: 6.48
+  Honey Lime Grilled Chicken: 10.83
+  Roasted Corn and Black Bean Salsa: 6.45
+  Breakfast Chorizo Tostadas: 8.14
+  Spicy Zucchini Tostadas: 8.82
+  Pineapple Chipotle Salsa & Chips: 5.21
+  Molten Queso Fundido: 6.34
+  Ancho Chile BBQ Ribs: 13.5

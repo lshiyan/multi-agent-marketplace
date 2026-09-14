@@ -1,0 +1,41 @@
+id: business_0004
+name: "Zest & Z\xF3calo"
+description: Experience bold Mexican-inspired flavors with a modern twist in a vibrant,
+  welcoming atmosphere. From sizzling tacos to refreshing aguas frescas and decadent
+  desserts, every bite brings a taste of fiesta.
+rating: 1.0
+progenitor_customer: customer_0002
+menu_features:
+  Sunrise Breakfast Tacos: 8.91
+  Smoky Chipotle Black Bean Soup: 9.68
+  Spicy Chicken Tortilla Soup: 6.37
+  Tres Leches Cake: 6.68
+  Mango Habanero Salsa: 5.56
+  Tamarind Spiced Agua Fresca: 4.34
+  Crispy Avocado Wedges: 7.27
+  Chili Lime Shrimp Skewers: 10.05
+  Caramel Apple Empanadas: 5.74
+  Cheesy Jalapeno Poppers: 7.73
+  Chipotle Chicken Enchiladas: 13.85
+  "Cheesy Jalape\xF1o Quesadillas": 9.62
+  Chili Lime Street Corn: 6.6
+  Mango Jalapeno Salsa and Chips: 4.73
+  Grilled Steak Quesadilla: 12.79
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Sunrise Breakfast Tacos: 6.68
+  Smoky Chipotle Black Bean Soup: 7.26
+  Spicy Chicken Tortilla Soup: 4.78
+  Tres Leches Cake: 5.01
+  Mango Habanero Salsa: 4.17
+  Tamarind Spiced Agua Fresca: 3.25
+  Crispy Avocado Wedges: 5.45
+  Chili Lime Shrimp Skewers: 7.54
+  Caramel Apple Empanadas: 4.3
+  Cheesy Jalapeno Poppers: 5.8
+  Chipotle Chicken Enchiladas: 10.39
+  "Cheesy Jalape\xF1o Quesadillas": 7.21
+  Chili Lime Street Corn: 4.95
+  Mango Jalapeno Salsa and Chips: 3.55
+  Grilled Steak Quesadilla: 9.59

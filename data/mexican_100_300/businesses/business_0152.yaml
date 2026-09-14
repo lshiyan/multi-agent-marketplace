@@ -1,0 +1,43 @@
+id: business_0152
+name: Tamarind & Twists
+description: Discover bold, refreshing flavors at Tamarind & Twists, where classic
+  Mexican favorites meet a modern, vibrant flair. From zesty appetizers to sweetly
+  spiced desserts, every dish is crafted for a deliciously memorable experience.
+rating: 1.0
+progenitor_customer: customer_0051
+menu_features:
+  Fresh Limeade: 3.04
+  Tamarind-Glazed Ribs: 17.94
+  Sweet and Spicy Chicken Tostadas: 11.04
+  Chili Lime Skirt Steak: 20.97
+  Pineapple Salsa Pork Tacos: 10.26
+  Sweet Corn Tamale Bites: 7.59
+  Creamy Avocado Smoothie: 5.45
+  Vanilla Flan with Caramel Sauce: 7.6
+  Shrimp and Avocado Ceviche: 11.97
+  Chipotle Shrimp Skewers: 14.07
+  Tamarind Glazed Wings: 10.8
+  Cilantro Lime Grilled Shrimp: 13.94
+  Horchata Milkshake: 6.87
+  Stuffed Chicken Poblano: 13.63
+  Mexican Hot Chocolate: 4.71
+  Ancho Chili Spiced Ribs: 16.09
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Fresh Limeade: 1.95
+  Tamarind-Glazed Ribs: 11.48
+  Sweet and Spicy Chicken Tostadas: 7.07
+  Chili Lime Skirt Steak: 13.42
+  Pineapple Salsa Pork Tacos: 6.57
+  Sweet Corn Tamale Bites: 4.86
+  Creamy Avocado Smoothie: 3.49
+  Vanilla Flan with Caramel Sauce: 4.86
+  Shrimp and Avocado Ceviche: 7.66
+  Chipotle Shrimp Skewers: 9.0
+  Tamarind Glazed Wings: 6.91
+  Cilantro Lime Grilled Shrimp: 8.92
+  Horchata Milkshake: 4.4
+  Stuffed Chicken Poblano: 8.72
+  Mexican Hot Chocolate: 3.01
+  Ancho Chili Spiced Ribs: 10.3

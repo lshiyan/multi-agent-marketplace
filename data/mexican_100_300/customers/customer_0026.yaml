@@ -1,0 +1,9 @@
+id: customer_0026
+name: Jack Thompson
+request: 'Could you please assist me in finding a business that offers the following
+  menu items: 1 Crispy Avocado Bites and 1 Flan with Caramel Drizzle? I would like
+  to place an order for these specific items. Thank you for your help.'
+menu_features:
+  Crispy Avocado Bites: 8.49
+  Flan with Caramel Drizzle: 5.79
+amenity_features: []

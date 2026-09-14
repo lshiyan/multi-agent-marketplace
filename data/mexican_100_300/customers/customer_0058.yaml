@@ -1,0 +1,11 @@
+id: customer_0058
+name: Grace Yang
+request: 'I need assistance in finding a business that has the following menu items
+  available for order: 1 Agave Lime Chicken Skewer and 1 Roasted Poblano Soup. It
+  is important that both items are available from the same business. Once a suitable
+  business is found, I intend to place an order for these items. Thank you for your
+  assistance.'
+menu_features:
+  Agave Lime Chicken Skewers: 11.99
+  Roasted Poblano Soup: 7.49
+amenity_features: []

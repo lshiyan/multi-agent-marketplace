@@ -1,0 +1,35 @@
+id: business_0264
+name: La Brisa del Coco Mexicana
+description: Experience a refreshing twist on classic Mexican and Tex-Mex cuisine
+  in a lively, welcoming atmosphere. From vibrant margaritas to inventive avocado
+  dishes, every bite and sip celebrates fresh flavors and warm hospitality.
+rating: 1.0
+progenitor_customer: customer_0088
+menu_features:
+  Coconut Lime Margarita: 10.86
+  Crispy Avocado Tostadas: 9.11
+  Blueberry Agave Mojito: 7.68
+  Pineapple Jalapeno Margarita: 9.11
+  Breakfast Burrito Bonanza: 10.24
+  Zesty Lime Shrimp Salad: 13.93
+  Roasted Poblano Veggie Skillet: 9.88
+  Stuffed Avocado Delight: 8.15
+  Margarita Lime Cheesecake: 6.98
+  Cheesy Jalapeno Queso: 7.13
+  Mango Habanero Margarita: 7.31
+  Passion Fruit Mojito: 8.85
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Coconut Lime Margarita: 9.45
+  Crispy Avocado Tostadas: 7.93
+  Blueberry Agave Mojito: 6.68
+  Pineapple Jalapeno Margarita: 7.93
+  Breakfast Burrito Bonanza: 8.91
+  Zesty Lime Shrimp Salad: 12.12
+  Roasted Poblano Veggie Skillet: 8.6
+  Stuffed Avocado Delight: 7.09
+  Margarita Lime Cheesecake: 6.07
+  Cheesy Jalapeno Queso: 6.2
+  Mango Habanero Margarita: 6.36
+  Passion Fruit Mojito: 7.7

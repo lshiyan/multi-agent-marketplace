@@ -1,0 +1,41 @@
+id: business_0173
+name: Sizzle & Skewer
+description: Experience the vibrant flavors of Mexican and Tex-Mex cuisine at Sizzle
+  & Skewer, where bold spices, grilled specialties, and fresh ingredients come together
+  in every dish. Perfect for those craving delicious food in a lively atmosphere.
+rating: 1.0
+progenitor_customer: customer_0058
+menu_features:
+  Beef Fajita Skillet: 17.06
+  Spicy Chipotle Chicken Wrap: 11.89
+  Chipotle Lime Shrimp Skewers: 12.89
+  Crispy Carnitas Quesadilla: 10.97
+  Roasted Poblano Soup: 7.18
+  Ranchero Eggs Benedict: 12.62
+  Agave Lime Chicken Skewers: 12.2
+  Chipotle Lime Chicken Skewers: 10.27
+  Spiced Churro Bites: 5.31
+  Chili Lime Jicama Sticks: 6.53
+  Chili Lime Margarita: 7.73
+  Mesquite Grilled Steak Fajitas: 13.52
+  Coconut Lime Shrimp Skewers: 15.44
+  Queso Fundido with Chorizo: 9.97
+  Jicama and Citrus Salad: 7.12
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Beef Fajita Skillet: 14.5
+  Spicy Chipotle Chicken Wrap: 10.11
+  Chipotle Lime Shrimp Skewers: 10.96
+  Crispy Carnitas Quesadilla: 9.32
+  Roasted Poblano Soup: 6.1
+  Ranchero Eggs Benedict: 10.73
+  Agave Lime Chicken Skewers: 10.37
+  Chipotle Lime Chicken Skewers: 8.73
+  Spiced Churro Bites: 4.51
+  Chili Lime Jicama Sticks: 5.55
+  Chili Lime Margarita: 6.57
+  Mesquite Grilled Steak Fajitas: 11.49
+  Coconut Lime Shrimp Skewers: 13.12
+  Queso Fundido with Chorizo: 8.47
+  Jicama and Citrus Salad: 6.05

@@ -1,0 +1,41 @@
+id: business_0028
+name: Sizzle Verde Grill
+description: Sizzle Verde Grill brings vibrant Mexican and Tex-Mex flavors to your
+  plate with bold, fresh ingredients and inventive twists. Enjoy a lively atmosphere
+  and a menu that celebrates both tradition and creativity.
+rating: 1.0
+progenitor_customer: customer_0010
+menu_features:
+  Pineapple Habanero Sake: 8.42
+  Crispy Fish Baja Bowl: 13.54
+  Tequila Lime Grilled Chicken: 16.63
+  Classic Horchata Smoothie: 5.2
+  Black Bean Sweet Potato Burrito: 10.66
+  Grilled Elote Corn: 5.14
+  Lime-Garlic Grilled Chicken: 12.36
+  Southwestern Quinoa Salad: 8.96
+  Cucumber Jalapeno Agua Fresca: 3.73
+  Spicy Cucumber Margarita: 8.8
+  Creamy Queso Dip: 7.96
+  Cinnamon Sugar Churro Sticks: 5.22
+  Roasted Pumpkin Tamale: 7.45
+  Zesty Lime Grilled Chicken: 12.29
+  Spicy Chicken Chimichanga: 11.65
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Pineapple Habanero Sake: 5.64
+  Crispy Fish Baja Bowl: 9.07
+  Tequila Lime Grilled Chicken: 11.14
+  Classic Horchata Smoothie: 3.48
+  Black Bean Sweet Potato Burrito: 7.14
+  Grilled Elote Corn: 3.44
+  Lime-Garlic Grilled Chicken: 8.28
+  Southwestern Quinoa Salad: 6.0
+  Cucumber Jalapeno Agua Fresca: 2.5
+  Spicy Cucumber Margarita: 5.9
+  Creamy Queso Dip: 5.33
+  Cinnamon Sugar Churro Sticks: 3.5
+  Roasted Pumpkin Tamale: 4.99
+  Zesty Lime Grilled Chicken: 8.23
+  Spicy Chicken Chimichanga: 7.81

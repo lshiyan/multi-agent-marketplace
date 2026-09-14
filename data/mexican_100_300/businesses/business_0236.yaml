@@ -1,0 +1,39 @@
+id: business_0236
+name: La Mesa Sabrosa
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm and inviting
+  setting. La Mesa Sabrosa serves up a festive array of creative small plates, tacos,
+  bold cocktails, and classic desserts for a true taste of fiesta.
+rating: 1.0
+progenitor_customer: customer_0079
+menu_features:
+  Smoky Black Bean Tostadas: 7.65
+  Stuffed Avocado Delight: 8.09
+  Chipotle Shrimp Skewers: 13.92
+  Braised Beef Barbacoa Tacos: 11.8
+  Blueberry Agave Mojito: 9.88
+  Loaded Nacho Skillet: 8.75
+  Black Bean & Cheese Tostadas: 9.21
+  Strawberry Jalapeno Lemonade: 4.02
+  Spicy Chicken Chimichanga: 11.02
+  Pineapple Jalapeno Margarita: 9.67
+  Grilled Shrimp Skewers: 16.77
+  Fiesta Street Corn: 4.6
+  Chocolate Cinnamon Flan: 4.24
+  Spicy Shrimp Nacho Platter: 9.94
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Smoky Black Bean Tostadas: 6.5
+  Stuffed Avocado Delight: 6.88
+  Chipotle Shrimp Skewers: 11.83
+  Braised Beef Barbacoa Tacos: 10.03
+  Blueberry Agave Mojito: 8.4
+  Loaded Nacho Skillet: 7.44
+  Black Bean & Cheese Tostadas: 7.83
+  Strawberry Jalapeno Lemonade: 3.42
+  Spicy Chicken Chimichanga: 9.37
+  Pineapple Jalapeno Margarita: 8.22
+  Grilled Shrimp Skewers: 14.25
+  Fiesta Street Corn: 3.91
+  Chocolate Cinnamon Flan: 3.6
+  Spicy Shrimp Nacho Platter: 8.45

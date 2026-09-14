@@ -1,0 +1,37 @@
+id: business_0036
+name: Casa de Sabores Tradicionales
+description: Experience the vibrant flavors of classic Mexican and Tex-Mex cuisine
+  in a lively, welcoming atmosphere. Enjoy handcrafted beverages and a delicious variety
+  of fresh, authentic dishes made to delight every palate.
+rating: 1.0
+progenitor_customer: customer_0012
+menu_features:
+  Mexican Hot Chocolate: 4.66
+  Refreshing Agua Fresca Trio: 9.28
+  Spiked Horchata Cooler: 7.72
+  Spicy Shrimp Ceviche: 11.48
+  Chili Con Queso Supreme: 6.66
+  Crispy Avocado Tacos: 13.62
+  Fresh Mango Salsa Nachos: 6.88
+  Roasted Red Pepper Quesadilla: 9.63
+  Chorizo and Egg Tacos: 9.17
+  Roasted Poblano Quesadilla: 8.31
+  Black Bean Sweet Potato Burrito: 8.82
+  Roasted Poblano Queso Dip: 6.61
+  Loaded Nacho Fiesta: 10.36
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Mexican Hot Chocolate: 3.82
+  Refreshing Agua Fresca Trio: 7.61
+  Spiked Horchata Cooler: 6.33
+  Spicy Shrimp Ceviche: 9.41
+  Chili Con Queso Supreme: 5.46
+  Crispy Avocado Tacos: 11.17
+  Fresh Mango Salsa Nachos: 5.64
+  Roasted Red Pepper Quesadilla: 7.9
+  Chorizo and Egg Tacos: 7.52
+  Roasted Poblano Quesadilla: 6.81
+  Black Bean Sweet Potato Burrito: 7.23
+  Roasted Poblano Queso Dip: 5.42
+  Loaded Nacho Fiesta: 8.5

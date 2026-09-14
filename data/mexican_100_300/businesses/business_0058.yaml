@@ -1,0 +1,40 @@
+id: business_0058
+name: Cultura Cocina
+description: A modern Mexican and Tex-Mex eatery celebrating bold flavors and creative
+  twists. Enjoy vibrant dishes and inventive drinks in a stylish, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0020
+menu_features:
+  Cactus Jack Quesadilla: 11.08
+  Carnitas Plantain Burrito: 14.15
+  Honey Lime Grilled Corn: 5.71
+  Caramelized Banana Flan: 6.33
+  Pineapple Jalapeno Sangria: 8.65
+  Roasted Pecan Flan: 6.18
+  Mexican Chocolate Milkshake: 6.98
+  Chocolate Sopapilla Bites: 4.81
+  Blueberry Hibiscus Margarita: 8.57
+  Avocado & Tomato Breakfast Tostadas: 7.42
+  Passionfruit Agua Fresca: 3.11
+  Chipotle Lime Chicken Skewers: 12.33
+  Pineapple Jalapeno Salsa: 4.51
+  Coconut Lime Shrimp Skewers: 19.04
+  Adobo Pork Sliders: 9.45
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Cactus Jack Quesadilla: 8.86
+  Carnitas Plantain Burrito: 11.32
+  Honey Lime Grilled Corn: 4.57
+  Caramelized Banana Flan: 5.06
+  Pineapple Jalapeno Sangria: 6.92
+  Roasted Pecan Flan: 4.94
+  Mexican Chocolate Milkshake: 5.58
+  Chocolate Sopapilla Bites: 3.85
+  Blueberry Hibiscus Margarita: 6.86
+  Avocado & Tomato Breakfast Tostadas: 5.94
+  Passionfruit Agua Fresca: 2.49
+  Chipotle Lime Chicken Skewers: 9.86
+  Pineapple Jalapeno Salsa: 3.61
+  Coconut Lime Shrimp Skewers: 15.23
+  Adobo Pork Sliders: 7.56

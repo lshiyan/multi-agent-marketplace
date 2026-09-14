@@ -1,0 +1,10 @@
+id: customer_0037
+name: Laura Kim
+request: 'Could you please assist in placing an order with a business that offers
+  the following menu items: 1 Tex-Mex Big Breakfast Bowl and 1 Citrus Marinated Carne
+  Asada? It is important that both items are available as these are the specific orders
+  I intend to purchase. Thank you!'
+menu_features:
+  Tex-Mex Big Breakfast Bowl: 10.99
+  Citrus Marinated Carne Asada: 14.99
+amenity_features: []

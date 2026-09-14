@@ -1,0 +1,37 @@
+id: business_0077
+name: Wholly Guac & Roll
+description: Get ready to savor fresh, flavorful Tex-Mex and Mexican-inspired creations
+  in a lively, modern setting. From crisp bites to zesty sips, our menu puts a playful
+  twist on classic favorites.
+rating: 1.0
+progenitor_customer: customer_0026
+menu_features:
+  Stuffed Avocado Boats: 11.53
+  Hibiscus Iced Tea: 3.4
+  Blueberry Jalapeno Margarita: 12.82
+  Tamarind Glazed Wings: 10.73
+  Loaded Street Corn: 8.55
+  Crispy Avocado Bites: 10.29
+  Spicy Shrimp Ceviche: 13.72
+  Spicy Black Bean Tacos: 9.79
+  Vegetarian Tamale Platter: 11.62
+  Flan with Caramel Drizzle: 4.67
+  Classic Mojito with Mint: 8.63
+  Tomatillo Ranch Enchiladas: 14.07
+  Crispy Avocado Burrito: 12.09
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Stuffed Avocado Boats: 9.8
+  Hibiscus Iced Tea: 2.89
+  Blueberry Jalapeno Margarita: 10.9
+  Tamarind Glazed Wings: 9.12
+  Loaded Street Corn: 7.27
+  Crispy Avocado Bites: 8.75
+  Spicy Shrimp Ceviche: 11.66
+  Spicy Black Bean Tacos: 8.32
+  Vegetarian Tamale Platter: 9.88
+  Flan with Caramel Drizzle: 3.97
+  Classic Mojito with Mint: 7.34
+  Tomatillo Ranch Enchiladas: 11.96
+  Crispy Avocado Burrito: 10.28

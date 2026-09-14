@@ -1,0 +1,45 @@
+id: business_0183
+name: Lime Blossom Kitchen
+description: Modern Mexican flavors bloom at Lime Blossom Kitchen, where fresh ingredients
+  and vibrant spices come together in delicious harmony. Enjoy classic favorites and
+  creative pairings in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0061
+menu_features:
+  Vanilla Flan Delight: 5.4
+  Fresh Lime Cilantro Rice: 2.69
+  Blue Corn Enchilada Bake: 12.79
+  Queso Fundido Supreme: 8.95
+  Veggie Fajita Platter: 13.33
+  Agave Lime Margarita: 10.55
+  Coconut Lime Margarita: 10.04
+  Sizzling Carne Asada: 16.17
+  Cocoa Dusted Churro Bites: 5.85
+  Red Chili Chicken Pozole: 10.54
+  Classic Horchata Smoothie: 4.37
+  Smoky Mezcal Mule: 11.7
+  Crispy Carnitas Quesadilla: 10.98
+  Agave Lime Chicken Skewers: 10.05
+  Al Pastor Pork Tacos: 12.76
+  "Blueberry Jalape\xF1o Margarita": 11.26
+  Caramelized Onion and Chorizo Quesadilla: 10.83
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Vanilla Flan Delight: 4.54
+  Fresh Lime Cilantro Rice: 2.26
+  Blue Corn Enchilada Bake: 10.74
+  Queso Fundido Supreme: 7.52
+  Veggie Fajita Platter: 11.2
+  Agave Lime Margarita: 8.86
+  Coconut Lime Margarita: 8.43
+  Sizzling Carne Asada: 13.58
+  Cocoa Dusted Churro Bites: 4.91
+  Red Chili Chicken Pozole: 8.85
+  Classic Horchata Smoothie: 3.67
+  Smoky Mezcal Mule: 9.83
+  Crispy Carnitas Quesadilla: 9.22
+  Agave Lime Chicken Skewers: 8.44
+  Al Pastor Pork Tacos: 10.72
+  "Blueberry Jalape\xF1o Margarita": 9.46
+  Caramelized Onion and Chorizo Quesadilla: 9.1

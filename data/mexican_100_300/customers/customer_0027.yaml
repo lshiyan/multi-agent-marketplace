@@ -1,0 +1,11 @@
+id: customer_0027
+name: Matthew Singh
+request: 'I would like assistance in finding a business that serves the following
+  menu items: 1 Minty Mojito Refresher, 1 Classic Tortilla Soup, and 1 Caramelized
+  Onion Queso Dip. It is important that all these items are available as I intend
+  to place an order for each. Thank you for your help.'
+menu_features:
+  Minty Mojito Refresher: 7.99
+  Classic Tortilla Soup: 6.49
+  Caramelized Onion Queso Dip: 7.49
+amenity_features: []

@@ -1,0 +1,44 @@
+id: business_0056
+name: Sabores del Mercado
+description: Experience the vibrant tastes of Mexico and the borderlands at Sabores
+  del Mercado, where bold flavors, fresh ingredients, and colorful dishes take center
+  stage in every meal. Join us for a classic Mexican dining experience in a warm and
+  welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0019
+menu_features:
+  "Cheesy Jalape\xF1o Queso Dip": 7.18
+  Peach Berry Sangria: 9.66
+  Chipotle Bean Burrito: 9.52
+  Street Corn Fritters: 7.48
+  Green Chile Pork Stew: 13.69
+  Ranchero Steak Fajitas: 24.98
+  Zesty Lime Grilled Chicken: 12.51
+  Hibiscus Iced Tea: 3.21
+  Spiced Pumpkin Empanadas: 7.65
+  Breakfast Burrito Bonanza: 9.22
+  Sweet Corn Tamale Cake: 8.52
+  Spice-Rubbed Grilled Fajitas: 15.11
+  Caramel Apple Empanadas: 5.17
+  Passion Fruit Mojito: 9.93
+  Classic Lime Margarita: 9.49
+  Chili Lime Skirt Steak: 21.72
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  "Cheesy Jalape\xF1o Queso Dip": 5.96
+  Peach Berry Sangria: 8.02
+  Chipotle Bean Burrito: 7.9
+  Street Corn Fritters: 6.21
+  Green Chile Pork Stew: 11.36
+  Ranchero Steak Fajitas: 20.73
+  Zesty Lime Grilled Chicken: 10.38
+  Hibiscus Iced Tea: 2.66
+  Spiced Pumpkin Empanadas: 6.35
+  Breakfast Burrito Bonanza: 7.65
+  Sweet Corn Tamale Cake: 7.07
+  Spice-Rubbed Grilled Fajitas: 12.54
+  Caramel Apple Empanadas: 4.29
+  Passion Fruit Mojito: 8.24
+  Classic Lime Margarita: 7.88
+  Chili Lime Skirt Steak: 18.03

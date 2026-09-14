@@ -1,0 +1,37 @@
+id: business_0290
+name: Sabrosa Playa Mexicana
+description: Experience vibrant Mexican and Tex-Mex flavors in a lively, beach-inspired
+  setting. Enjoy a menu bursting with fresh salsas, hearty soups, sizzling fajitas,
+  and other spicy, savory favorites.
+rating: 1.0
+progenitor_customer: customer_0097
+menu_features:
+  Tropical Pineapple Salsa: 2.94
+  Pineapple Jalapeno Sangria: 7.05
+  Jalapeno Cheddar Cornbread: 5.39
+  Pineapple Pico de Gallo Nachos: 10.72
+  Smoky Black Bean Enchiladas: 10.68
+  Spicy Chicken Tortilla Soup: 7.2
+  Spicy Shrimp Fajitas: 15.15
+  Roasted Poblano Soup: 7.84
+  Mushroom & Cheese Tamales: 7.5
+  Roasted Poblano Corn Chowder: 8.05
+  Fresh Lime and Cilantro Guacamole: 6.48
+  Sizzling Steak Fajitas: 14.72
+  Spicy Chipotle Chicken Wrap: 12.39
+amenity_features: {}
+min_price_factor: 0.9
+minimum_menu_prices:
+  Tropical Pineapple Salsa: 2.65
+  Pineapple Jalapeno Sangria: 6.34
+  Jalapeno Cheddar Cornbread: 4.85
+  Pineapple Pico de Gallo Nachos: 9.65
+  Smoky Black Bean Enchiladas: 9.61
+  Spicy Chicken Tortilla Soup: 6.48
+  Spicy Shrimp Fajitas: 13.63
+  Roasted Poblano Soup: 7.06
+  Mushroom & Cheese Tamales: 6.75
+  Roasted Poblano Corn Chowder: 7.25
+  Fresh Lime and Cilantro Guacamole: 5.83
+  Sizzling Steak Fajitas: 13.25
+  Spicy Chipotle Chicken Wrap: 11.15

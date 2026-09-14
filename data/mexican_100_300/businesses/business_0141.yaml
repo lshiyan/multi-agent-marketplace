@@ -1,0 +1,41 @@
+id: business_0141
+name: Carnitas & Crunch
+description: Experience bold Mexican and Tex-Mex flavors in a lively, vibrant setting,
+  featuring sizzling grilled favorites, savory tacos, and inventive desserts. Perfect
+  for anyone craving a fresh twist on classic dishes.
+rating: 1.0
+progenitor_customer: customer_0047
+menu_features:
+  Tequila Lime Grilled Chicken: 12.37
+  Loaded Nacho Supreme: 8.2
+  Spicy Avocado Smash Burger: 13.81
+  Sweet Potato and Black Bean Tacos: 10.21
+  Crispy Carnitas Tacos: 12.92
+  Caramel Apple Empanadas: 5.73
+  Chocolate Mole Brownie: 5.89
+  Sizzling Chicken Fajitas: 13.91
+  "Spicy Jalape\xF1o Limeade": 3.72
+  Golden Tequila Sunrise: 10.75
+  Crispy Tinga Chicken Tacos: 10.94
+  Honey Lime Grilled Chicken: 14.92
+  Black Bean Burgers: 12.36
+  Fiesta Street Corn: 4.24
+  Classic Horchata Smoothie: 5.56
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Tequila Lime Grilled Chicken: 10.27
+  Loaded Nacho Supreme: 6.81
+  Spicy Avocado Smash Burger: 11.46
+  Sweet Potato and Black Bean Tacos: 8.47
+  Crispy Carnitas Tacos: 10.72
+  Caramel Apple Empanadas: 4.76
+  Chocolate Mole Brownie: 4.89
+  Sizzling Chicken Fajitas: 11.55
+  "Spicy Jalape\xF1o Limeade": 3.09
+  Golden Tequila Sunrise: 8.92
+  Crispy Tinga Chicken Tacos: 9.08
+  Honey Lime Grilled Chicken: 12.38
+  Black Bean Burgers: 10.26
+  Fiesta Street Corn: 3.52
+  Classic Horchata Smoothie: 4.61

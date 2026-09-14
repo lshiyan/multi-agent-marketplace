@@ -1,0 +1,33 @@
+id: business_0121
+name: "Mol\xE9 & Mesa"
+description: Experience a fresh twist on Mexican and Tex-Mex classics in a vibrant,
+  welcoming setting. Savor bold flavors, creative drinks, and unforgettable desserts
+  crafted with care and authenticity.
+rating: 1.0
+progenitor_customer: customer_0041
+menu_features:
+  Grilled Avocado and Quinoa Bowl: 9.64
+  Sizzling Fajita Skillet: 15.34
+  Spicy Chicken Tortilla Soup: 4.93
+  Horchata Iced Coffee: 3.9
+  Classic Beef Tacos with Zesty Slaw: 9.37
+  Classic Horchata Smoothie: 4.22
+  Sizzling Fajita Plate: 14.44
+  Tequila Lime Grilled Chicken: 13.25
+  Sweet Corn Tamale Cake: 7.2
+  Green Chile Pork Stew: 11.91
+  Mexican Chocolate Lava Cake: 6.95
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Grilled Avocado and Quinoa Bowl: 6.36
+  Sizzling Fajita Skillet: 10.12
+  Spicy Chicken Tortilla Soup: 3.25
+  Horchata Iced Coffee: 2.57
+  Classic Beef Tacos with Zesty Slaw: 6.18
+  Classic Horchata Smoothie: 2.79
+  Sizzling Fajita Plate: 9.53
+  Tequila Lime Grilled Chicken: 8.75
+  Sweet Corn Tamale Cake: 4.75
+  Green Chile Pork Stew: 7.86
+  Mexican Chocolate Lava Cake: 4.59

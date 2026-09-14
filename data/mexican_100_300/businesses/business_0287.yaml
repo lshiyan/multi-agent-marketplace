@@ -1,0 +1,43 @@
+id: business_0287
+name: Pepper & Pineapple Place
+description: A vibrant spot celebrating bold flavors and zesty pairings, Pepper &
+  Pineapple Place serves up a creative selection of Mexican and Tex-Mex favorites.
+  Enjoy colorful, fresh dishes and inventive drinks in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0096
+menu_features:
+  Chili Lime Jicama Sticks: 5.92
+  Coconut Lime Rice Bowl: 8.65
+  Pineapple Habanero Sake: 8.76
+  Pineapple Habanero Margarita: 11.73
+  Creamy Avocado Smoothie: 4.51
+  Blueberry Tequila Sunrise: 12.57
+  Roasted Poblano Quesadilla: 12.16
+  Three-Cheese Enchilada Stack: 9.8
+  Jalapeno Mango Margarita: 9.64
+  Veggie Fajita Platter: 10.23
+  Citrus Cilantro Rice: 5.1
+  Mexican Street Corn Salad: 7.85
+  Southwest Chopped Salad: 9.09
+  Classic Beef Tacos with Zesty Slaw: 10.22
+  Twice-Baked Sweet Potato: 6.72
+  Chipotle Lime Chicken Skewers: 14.83
+amenity_features: {}
+min_price_factor: 0.95
+minimum_menu_prices:
+  Chili Lime Jicama Sticks: 5.62
+  Coconut Lime Rice Bowl: 8.22
+  Pineapple Habanero Sake: 8.32
+  Pineapple Habanero Margarita: 11.14
+  Creamy Avocado Smoothie: 4.28
+  Blueberry Tequila Sunrise: 11.94
+  Roasted Poblano Quesadilla: 11.55
+  Three-Cheese Enchilada Stack: 9.31
+  Jalapeno Mango Margarita: 9.16
+  Veggie Fajita Platter: 9.72
+  Citrus Cilantro Rice: 4.84
+  Mexican Street Corn Salad: 7.46
+  Southwest Chopped Salad: 8.64
+  Classic Beef Tacos with Zesty Slaw: 9.71
+  Twice-Baked Sweet Potato: 6.38
+  Chipotle Lime Chicken Skewers: 14.09

@@ -1,0 +1,41 @@
+id: business_0014
+name: Casa del Sabor
+description: Casa del Sabor offers a warm and vibrant atmosphere where classic Mexican
+  and Tex-Mex favorites meet bold, modern flavors. Enjoy an array of fresh, creative
+  dishes and signature beverages inspired by the heart of Mexico.
+rating: 1.0
+progenitor_customer: customer_0005
+menu_features:
+  Blueberry Jalapeno Margarita: 10.55
+  Caramel Apple Empanadas: 5.33
+  Spicy Chipotle Chicken Wrap: 9.99
+  Pork Carnitas Platter: 14.82
+  Flamin' Skillet Fajitas: 15.06
+  "Strawberry Jalape\xF1o Mocktail": 6.55
+  Smoky Chipotle BBQ Nachos: 9.4
+  Classic Beef Tacos with Zesty Slaw: 13.32
+  Sea Breeze Ceviche: 9.74
+  Cactus Jack Quesadilla: 9.85
+  Horchata Cold Brew Coffee: 4.68
+  Three-Cheese Enchilada Stack: 13.61
+  Classic Beef Enchiladas: 10.6
+  Street Corn Elote: 5.11
+  Crispy Avocado Burrito: 9.94
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Blueberry Jalapeno Margarita: 9.28
+  Caramel Apple Empanadas: 4.69
+  Spicy Chipotle Chicken Wrap: 8.79
+  Pork Carnitas Platter: 13.04
+  Flamin' Skillet Fajitas: 13.25
+  "Strawberry Jalape\xF1o Mocktail": 5.76
+  Smoky Chipotle BBQ Nachos: 8.27
+  Classic Beef Tacos with Zesty Slaw: 11.72
+  Sea Breeze Ceviche: 8.57
+  Cactus Jack Quesadilla: 8.67
+  Horchata Cold Brew Coffee: 4.12
+  Three-Cheese Enchilada Stack: 11.98
+  Classic Beef Enchiladas: 9.33
+  Street Corn Elote: 4.5
+  Crispy Avocado Burrito: 8.75

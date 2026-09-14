@@ -1,0 +1,45 @@
+id: business_0271
+name: Baja Breeze Bistro
+description: Baja Breeze Bistro brings together vibrant Mexican and Tex-Mex flavors
+  in a welcoming, lively atmosphere. Experience a fresh take on classic favorites
+  and inventive regional specialties, perfect for every appetite.
+rating: 1.0
+progenitor_customer: customer_0091
+menu_features:
+  Crispy Fish Baja Bowl: 16.35
+  Hibiscus Agua Fresca: 3.1
+  Savory Carne Asada Burrito: 12.06
+  Black Bean and Lime Soup: 7.54
+  Vegetarian Tamale Platter: 12.5
+  Cocoa Cinnamon Tequila: 9.31
+  Smoky Chipotle Queso: 7.66
+  Southwest Chopped Salad: 9.38
+  Black Bean and Corn Salsa: 4.17
+  Crispy Tinga Chicken Tacos: 10.92
+  Bacon Wrapped Jalapeno Bites: 7.87
+  Caramelized Plantain Empanadas: 6.66
+  Grilled Steak Quesadilla: 14.3
+  Black Bean and Sweet Potato Empanadas: 10.34
+  Passion Fruit Agua Fresca: 4.12
+  Cilantro Lime Chicken Tacos: 9.82
+  Cactus Jack Quesadilla: 12.77
+amenity_features: {}
+min_price_factor: 0.89
+minimum_menu_prices:
+  Crispy Fish Baja Bowl: 14.55
+  Hibiscus Agua Fresca: 2.76
+  Savory Carne Asada Burrito: 10.73
+  Black Bean and Lime Soup: 6.71
+  Vegetarian Tamale Platter: 11.12
+  Cocoa Cinnamon Tequila: 8.29
+  Smoky Chipotle Queso: 6.82
+  Southwest Chopped Salad: 8.35
+  Black Bean and Corn Salsa: 3.71
+  Crispy Tinga Chicken Tacos: 9.72
+  Bacon Wrapped Jalapeno Bites: 7.0
+  Caramelized Plantain Empanadas: 5.93
+  Grilled Steak Quesadilla: 12.73
+  Black Bean and Sweet Potato Empanadas: 9.2
+  Passion Fruit Agua Fresca: 3.67
+  Cilantro Lime Chicken Tacos: 8.74
+  Cactus Jack Quesadilla: 11.37

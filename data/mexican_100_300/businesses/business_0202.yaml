@@ -1,0 +1,47 @@
+id: business_0202
+name: Mucho Quesadilla About Nothing
+description: A cheerful Tex-Mex spot where melting cheese, vibrant salsas, and bold
+  flavors come together for a delightful dining experience. Savor creative takes on
+  classic favorites and refreshing drinks in a fun, laid-back setting.
+rating: 1.0
+progenitor_customer: customer_0068
+menu_features:
+  Black Bean & Corn Quesadilla: 10.07
+  Vanilla Cinnamon Horchata: 3.99
+  Pork Carnitas Platter: 12.73
+  "Cheesy Jalape\xF1o Quesadillas": 8.47
+  Tropical Pineapple Salsa: 3.32
+  Avocado & Tomato Breakfast Tostadas: 8.47
+  Blueberry Hibiscus Margarita: 8.14
+  Crispy Fish Street Tacos: 11.4
+  Breakfast Tostada Stack: 10.19
+  Al Pastor Quesadilla: 13.15
+  Roasted Pecan Flan: 5.55
+  Spiced Chocolate Tres Leches: 5.63
+  Sweet Corn Tamale Bites: 6.06
+  Fresh Watermelon Aqua Fresca: 3.89
+  Savory Carne Asada Burrito: 12.66
+  Chipotle Chicken Burrito Bowl: 12.64
+  Zesty Lime Shrimp Salad: 13.79
+  Black Bean Crunch Wrap: 10.98
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Black Bean & Corn Quesadilla: 6.34
+  Vanilla Cinnamon Horchata: 2.51
+  Pork Carnitas Platter: 8.02
+  "Cheesy Jalape\xF1o Quesadillas": 5.34
+  Tropical Pineapple Salsa: 2.09
+  Avocado & Tomato Breakfast Tostadas: 5.34
+  Blueberry Hibiscus Margarita: 5.13
+  Crispy Fish Street Tacos: 7.18
+  Breakfast Tostada Stack: 6.42
+  Al Pastor Quesadilla: 8.28
+  Roasted Pecan Flan: 3.5
+  Spiced Chocolate Tres Leches: 3.55
+  Sweet Corn Tamale Bites: 3.82
+  Fresh Watermelon Aqua Fresca: 2.45
+  Savory Carne Asada Burrito: 7.98
+  Chipotle Chicken Burrito Bowl: 7.96
+  Zesty Lime Shrimp Salad: 8.69
+  Black Bean Crunch Wrap: 6.92

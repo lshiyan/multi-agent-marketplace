@@ -1,0 +1,40 @@
+id: business_0215
+name: Citrus & Salsa Social
+description: "Experience a vibrant celebration of Mexican and Tex-Mex flavors, where\
+  \ fresh citrus, lively salsas, and bold spices take center stage. Relax and savor\
+  \ creative small plates, unique drinks, and classic favorites\u2014all in a modern,\
+  \ upbeat setting."
+rating: 1.0
+progenitor_customer: customer_0072
+menu_features:
+  Fresh Lime and Cilantro Guacamole: 8.16
+  Zesty Shrimp Quesadillas: 13.32
+  Spicy Mango Margarita: 9.18
+  Spicy Beef Enchilada Bake: 13.91
+  Grilled Pineapple Salsa: 5.6
+  Jicama and Citrus Salad: 6.36
+  Mango Agua Fresca: 3.47
+  Chipotle Chicken Enchiladas: 14.55
+  Caramel Corn Flan: 7.47
+  Bacon and Egg Tostada: 8.62
+  Pineapple Salsa Shrimp Tacos: 15.1
+  Warm Cinnamon Churros: 4.3
+  Spicy Shrimp Nacho Platter: 9.19
+  Crispy Avocado Tostadas: 10.89
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Fresh Lime and Cilantro Guacamole: 6.04
+  Zesty Shrimp Quesadillas: 9.86
+  Spicy Mango Margarita: 6.79
+  Spicy Beef Enchilada Bake: 10.29
+  Grilled Pineapple Salsa: 4.14
+  Jicama and Citrus Salad: 4.71
+  Mango Agua Fresca: 2.57
+  Chipotle Chicken Enchiladas: 10.77
+  Caramel Corn Flan: 5.53
+  Bacon and Egg Tostada: 6.38
+  Pineapple Salsa Shrimp Tacos: 11.17
+  Warm Cinnamon Churros: 3.18
+  Spicy Shrimp Nacho Platter: 6.8
+  Crispy Avocado Tostadas: 8.06

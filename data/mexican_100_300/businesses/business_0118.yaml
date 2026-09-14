@@ -1,0 +1,45 @@
+id: business_0118
+name: Avocuddle & Spice
+description: Bright, bold, and full of flavor, Avocuddle & Spice serves up creative
+  Mexican and Tex-Mex favorites with fresh twists and a playful spirit. Cozy up with
+  vibrant salads, sizzling skillets, zesty mains, and sweet desserts in every bite.
+rating: 1.0
+progenitor_customer: customer_0040
+menu_features:
+  Roasted Corn and Avocado Salad: 7.19
+  Stuffed Poblano Peppers: 13.51
+  Tex-Mex Breakfast Skillet: 9.42
+  Spicy Pork Tamales: 11.88
+  Black Bean & Corn Enchiladas: 10.49
+  Twisted Tequila Sunrise: 9.8
+  Pineapple Chipotle Pork: 12.41
+  Creamy Avocado Caesar Salad: 9.29
+  Honey-Lime Grilled Shrimp: 14.42
+  Chocolate Dipped Flan: 6.66
+  Classic Horchata Smoothie: 6.28
+  Zesty Lime Grilled Chicken: 13.03
+  Black Bean & Corn Queso Dip: 5.46
+  Classic Beef Barbacoa: 13.07
+  Cocoa Dusted Churro Bites: 4.53
+  Vegetarian Tamale Platter: 10.64
+  Crispy Fish Tacos: 9.38
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Roasted Corn and Avocado Salad: 4.96
+  Stuffed Poblano Peppers: 9.32
+  Tex-Mex Breakfast Skillet: 6.5
+  Spicy Pork Tamales: 8.2
+  Black Bean & Corn Enchiladas: 7.24
+  Twisted Tequila Sunrise: 6.76
+  Pineapple Chipotle Pork: 8.56
+  Creamy Avocado Caesar Salad: 6.41
+  Honey-Lime Grilled Shrimp: 9.95
+  Chocolate Dipped Flan: 4.6
+  Classic Horchata Smoothie: 4.33
+  Zesty Lime Grilled Chicken: 8.99
+  Black Bean & Corn Queso Dip: 3.77
+  Classic Beef Barbacoa: 9.02
+  Cocoa Dusted Churro Bites: 3.13
+  Vegetarian Tamale Platter: 7.34
+  Crispy Fish Tacos: 6.47

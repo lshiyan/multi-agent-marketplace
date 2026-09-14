@@ -1,0 +1,43 @@
+id: business_0283
+name: Tamale & Tequila Tavern
+description: Step into a vibrant space where classic Mexican and Tex-Mex flavors come
+  to life, all served with a modern twist. Enjoy craveable dishes and signature drinks
+  crafted with fresh, bold ingredients.
+rating: 1.0
+progenitor_customer: customer_0095
+menu_features:
+  Classic Beef Enchiladas: 12.11
+  Avocado Lime Crema Tostadas: 11.19
+  Roasted Pumpkin Tamale: 7.99
+  Sweet Potato and Black Bean Tacos: 11.01
+  Sizzling Chicken Fajitas: 13.64
+  Hatch Green Chile Quesadilla: 10.36
+  Cocoa Cinnamon Tequila: 7.03
+  Ancho Chili Braised Beef Enchiladas: 14.68
+  Chocolate Molten Tamale: 8.25
+  Smoky BBQ Pork Tostadas: 10.96
+  Mushroom & Cheese Tamales: 8.26
+  Cinnamon Sugar Churro Sticks: 5.42
+  Golden Tequila Sunrise: 9.44
+  Smoky Black Bean Enchiladas: 13.36
+  Avocado Street Tacos: 9.97
+  Pico de Gallo Chicken Salad: 9.67
+amenity_features: {}
+min_price_factor: 0.81
+minimum_menu_prices:
+  Classic Beef Enchiladas: 9.81
+  Avocado Lime Crema Tostadas: 9.06
+  Roasted Pumpkin Tamale: 6.47
+  Sweet Potato and Black Bean Tacos: 8.92
+  Sizzling Chicken Fajitas: 11.05
+  Hatch Green Chile Quesadilla: 8.39
+  Cocoa Cinnamon Tequila: 5.69
+  Ancho Chili Braised Beef Enchiladas: 11.89
+  Chocolate Molten Tamale: 6.68
+  Smoky BBQ Pork Tostadas: 8.88
+  Mushroom & Cheese Tamales: 6.69
+  Cinnamon Sugar Churro Sticks: 4.39
+  Golden Tequila Sunrise: 7.65
+  Smoky Black Bean Enchiladas: 10.82
+  Avocado Street Tacos: 8.08
+  Pico de Gallo Chicken Salad: 7.83

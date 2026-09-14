@@ -1,0 +1,35 @@
+id: business_0093
+name: Cocina Tamarindo
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm
+  and lively setting. Cocina Tamarindo celebrates fresh, bold tastes with creative
+  sips and sizzling specialties.
+rating: 1.0
+progenitor_customer: customer_0031
+menu_features:
+  Tamarind Ginger Cooler: 4.39
+  Raspberry Jalapeno Mojito: 8.67
+  Pineapple Salsa Shrimp Tacos: 15.96
+  Green Chile Pork Stew: 13.73
+  Avocado Street Tacos: 9.87
+  Blueberry Agave Margarita: 10.98
+  Smoky Black Bean Soup: 7.64
+  Tequila Lime Grilled Chicken: 13.77
+  Black Bean Chili Bowl: 9.09
+  Crispy Avocado and Lime Tacos: 11.2
+  Flamin' Skillet Fajitas: 17.9
+  Vanilla Flan with Caramel Sauce: 4.96
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Tamarind Ginger Cooler: 3.47
+  Raspberry Jalapeno Mojito: 6.85
+  Pineapple Salsa Shrimp Tacos: 12.61
+  Green Chile Pork Stew: 10.85
+  Avocado Street Tacos: 7.8
+  Blueberry Agave Margarita: 8.67
+  Smoky Black Bean Soup: 6.04
+  Tequila Lime Grilled Chicken: 10.88
+  Black Bean Chili Bowl: 7.18
+  Crispy Avocado and Lime Tacos: 8.85
+  Flamin' Skillet Fajitas: 14.14
+  Vanilla Flan with Caramel Sauce: 3.92

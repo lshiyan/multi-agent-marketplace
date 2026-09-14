@@ -1,0 +1,11 @@
+id: customer_0034
+name: Isabella Chen
+request: 'Could you please assist me in finding a business that serves the following
+  menu items: Hatch Green Chile Rice (1), Midnight Mole Enchiladas (1), and Ancho
+  Chili Rubbed Steak (1)? It is very important that the business can provide all of
+  these items, as I intend to place an order for them. Thank you for your help.'
+menu_features:
+  Hatch Green Chile Rice: 4.99
+  Midnight Mole Enchiladas: 13.99
+  Ancho Chili Rubbed Steak: 16.49
+amenity_features: []

@@ -1,0 +1,39 @@
+id: business_0010
+name: Masa & Mingle
+description: A vibrant spot where fresh flavors and creative combinations come together
+  to celebrate the heart of Mexican and Tex-Mex cuisine. Join us for bold dishes,
+  sweet treats, and signature cocktails in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0004
+menu_features:
+  Zesty Lime Chicken Enchiladas: 15.47
+  Spicy Chocolate Lava Cake: 10.42
+  Mole Chicken Quesadilla: 10.27
+  Crispy Fish Tacos: 8.38
+  Smoky Black Bean Tostadas: 7.54
+  Roasted Pecan Flan: 6.24
+  Blueberry Jalapeno Margarita: 11.65
+  Coconut Lime Rice Bowl: 9.98
+  Verde Ranchero Huevos: 9.49
+  Cocoa Dusted Churro Bites: 6.44
+  Sweet Corn Tamale Bites: 7.05
+  Chili Chocolate Lava Cake: 8.23
+  Citrus Cilantro Rice: 6.49
+  Pineapple Salsa Pork Tacos: 10.71
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Zesty Lime Chicken Enchiladas: 12.84
+  Spicy Chocolate Lava Cake: 8.65
+  Mole Chicken Quesadilla: 8.52
+  Crispy Fish Tacos: 6.96
+  Smoky Black Bean Tostadas: 6.26
+  Roasted Pecan Flan: 5.18
+  Blueberry Jalapeno Margarita: 9.67
+  Coconut Lime Rice Bowl: 8.28
+  Verde Ranchero Huevos: 7.88
+  Cocoa Dusted Churro Bites: 5.35
+  Sweet Corn Tamale Bites: 5.85
+  Chili Chocolate Lava Cake: 6.83
+  Citrus Cilantro Rice: 5.39
+  Pineapple Salsa Pork Tacos: 8.89

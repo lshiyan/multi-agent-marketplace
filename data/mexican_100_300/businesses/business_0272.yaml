@@ -1,0 +1,37 @@
+id: business_0272
+name: Flor de Nopal Cantina
+description: Immerse yourself in the vibrant flavors of Mexico and the Southwest at
+  Flor de Nopal Cantina, where classic tastes meet contemporary creativity. Enjoy
+  a welcoming atmosphere and a menu bursting with bold, savory, and subtly sweet delights.
+rating: 1.0
+progenitor_customer: customer_0091
+menu_features:
+  Black Bean & Cheese Tostadas: 8.73
+  Spicy Chocolate Lava Cake: 7.47
+  Black Bean & Corn Queso Dip: 6.18
+  Savory Chorizo Street Tacos: 10.98
+  Hatch Green Chile Stew: 12.45
+  Cactus Flower Iced Tea: 3.91
+  Black Bean and Corn Salsa: 5.32
+  Tamarind Spiced Agua Fresca: 3.09
+  Ancho Chili Spiced Ribs: 15.0
+  Black Bean and Lime Soup: 7.76
+  Passion Fruit Agua Fresca: 3.68
+  Spicy Pineapple Salsa Dip: 5.38
+  Fresh Limeade: 3.27
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Black Bean & Cheese Tostadas: 6.46
+  Spicy Chocolate Lava Cake: 5.53
+  Black Bean & Corn Queso Dip: 4.57
+  Savory Chorizo Street Tacos: 8.13
+  Hatch Green Chile Stew: 9.21
+  Cactus Flower Iced Tea: 2.89
+  Black Bean and Corn Salsa: 3.94
+  Tamarind Spiced Agua Fresca: 2.29
+  Ancho Chili Spiced Ribs: 11.1
+  Black Bean and Lime Soup: 5.74
+  Passion Fruit Agua Fresca: 2.72
+  Spicy Pineapple Salsa Dip: 3.98
+  Fresh Limeade: 2.42

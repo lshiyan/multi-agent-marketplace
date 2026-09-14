@@ -1,0 +1,45 @@
+id: business_0217
+name: "Viva J\xEDcama Kitchen"
+description: Experience vibrant, modern Mexican and Tex-Mex flavors with a refreshing
+  twist. Enjoy creative small plates, craveable classics, and bold cocktails in a
+  lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0073
+menu_features:
+  Jicama and Citrus Salad: 7.05
+  Zesty Shrimp Ceviche: 11.48
+  Pico Avocado Toast: 8.98
+  Classic Lime Margarita: 8.49
+  Tamale Pie Casserole: 17.5
+  Grilled Shrimp Skewers: 11.39
+  Avocado Lime Salad: 9.02
+  Coconut Flan Delight: 7.37
+  Mango Habanero Wings: 13.1
+  Frozen Strawberry Daiquiri: 7.07
+  Tangy Tomato Salsa Soup: 8.27
+  Hatch Green Chile Burger: 11.59
+  Street Style Corn on the Cob: 4.36
+  Chocolate Cinnamon Flan: 5.79
+  Smoky Chipotle Chicken: 15.0
+  Sizzling Fajita Fiesta: 15.65
+  Cinnamon Sugar Churros: 5.1
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Jicama and Citrus Salad: 4.58
+  Zesty Shrimp Ceviche: 7.46
+  Pico Avocado Toast: 5.84
+  Classic Lime Margarita: 5.52
+  Tamale Pie Casserole: 11.38
+  Grilled Shrimp Skewers: 7.4
+  Avocado Lime Salad: 5.86
+  Coconut Flan Delight: 4.79
+  Mango Habanero Wings: 8.52
+  Frozen Strawberry Daiquiri: 4.6
+  Tangy Tomato Salsa Soup: 5.38
+  Hatch Green Chile Burger: 7.53
+  Street Style Corn on the Cob: 2.83
+  Chocolate Cinnamon Flan: 3.76
+  Smoky Chipotle Chicken: 9.75
+  Sizzling Fajita Fiesta: 10.17
+  Cinnamon Sugar Churros: 3.31

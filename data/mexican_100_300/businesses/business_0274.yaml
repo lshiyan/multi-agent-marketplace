@@ -1,0 +1,33 @@
+id: business_0274
+name: La Parrilla Viva
+description: Experience vibrant Mexican and Tex-Mex flavors, where sizzling platters
+  and refreshing specialties are served in a warm, lively setting. Join us for a celebration
+  of bold tastes and fresh ingredients.
+rating: 1.0
+progenitor_customer: customer_0092
+menu_features:
+  Sizzling Fajita Platter: 12.94
+  Loaded Chorizo Nachos: 9.24
+  Cheesy Jalapeno Poppers: 8.87
+  Cilantro Lime Chicken Tacos: 11.2
+  Shrimp and Avocado Ceviche: 10.73
+  Avocado Lime Dip: 6.01
+  Spicy Cucumber Margarita: 7.95
+  Stuffed Avocado Boats: 9.34
+  Pork Carnitas Platter: 15.83
+  Horchata Latte: 4.99
+  Smoky Chipotle Black Bean Soup: 8.29
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  Sizzling Fajita Platter: 10.35
+  Loaded Chorizo Nachos: 7.39
+  Cheesy Jalapeno Poppers: 7.1
+  Cilantro Lime Chicken Tacos: 8.96
+  Shrimp and Avocado Ceviche: 8.58
+  Avocado Lime Dip: 4.81
+  Spicy Cucumber Margarita: 6.36
+  Stuffed Avocado Boats: 7.47
+  Pork Carnitas Platter: 12.66
+  Horchata Latte: 3.99
+  Smoky Chipotle Black Bean Soup: 6.63

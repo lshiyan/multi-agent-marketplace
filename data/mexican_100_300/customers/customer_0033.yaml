@@ -1,0 +1,12 @@
+id: customer_0033
+name: Emily Davis
+request: 'I would like assistance in finding a business where I can place an order
+  for the following items: 1 Spicy Black Bean Nachos, 1 Charred Corn and Black Bean
+  Salad, and 1 Beef Barbacoa Tostadas. It is essential that the business provides
+  all of these menu items. Once a suitable business is located, please proceed with
+  placing the order on my behalf. Thank you.'
+menu_features:
+  Spicy Black Bean Nachos: 9.49
+  Charred Corn and Black Bean Salad: 8.59
+  Beef Barbacoa Tostadas: 11.29
+amenity_features: []

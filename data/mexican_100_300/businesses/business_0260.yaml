@@ -1,0 +1,41 @@
+id: business_0260
+name: La Mesa Verde y Dulce
+description: Experience a flavorful fusion of classic and contemporary Mexican dishes
+  in a lively, welcoming atmosphere. Savor vibrant street tacos, bold salads, sizzling
+  specialties, and indulgent desserts prepared with fresh, quality ingredients.
+rating: 1.0
+progenitor_customer: customer_0087
+menu_features:
+  Verde Chicken Enchiladas: 13.13
+  Smoky Chipotle BBQ Nachos: 12.93
+  Mexican Chocolate Lava Cake: 6.65
+  Blueberry Tequila Sunrise: 11.42
+  "Spicy Jalape\xF1o Limeade": 3.72
+  Jicama and Citrus Salad: 6.29
+  Tamarind-Glazed Ribs: 21.98
+  Classic Carne Asada Burrito: 13.19
+  Creamy Avocado Caesar Salad: 12.04
+  Crispy Tinga Chicken Tacos: 8.69
+  Chorizo Breakfast Tacos: 12.99
+  Mexican Chocolate Flan: 5.9
+  Beef Fajita Skillet: 16.9
+  Blueberry Agave Agua Fresca: 4.96
+  Black Bean Street Tacos: 10.46
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Verde Chicken Enchiladas: 11.29
+  Smoky Chipotle BBQ Nachos: 11.12
+  Mexican Chocolate Lava Cake: 5.72
+  Blueberry Tequila Sunrise: 9.82
+  "Spicy Jalape\xF1o Limeade": 3.2
+  Jicama and Citrus Salad: 5.41
+  Tamarind-Glazed Ribs: 18.9
+  Classic Carne Asada Burrito: 11.34
+  Creamy Avocado Caesar Salad: 10.35
+  Crispy Tinga Chicken Tacos: 7.47
+  Chorizo Breakfast Tacos: 11.17
+  Mexican Chocolate Flan: 5.07
+  Beef Fajita Skillet: 14.53
+  Blueberry Agave Agua Fresca: 4.27
+  Black Bean Street Tacos: 9.0

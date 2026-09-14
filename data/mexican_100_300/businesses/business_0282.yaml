@@ -1,0 +1,33 @@
+id: business_0282
+name: "Seas the Saz\xF3n"
+description: Dive into vibrant Mexican and Tex-Mex flavors with a fresh twist, featuring
+  zesty salads, smoky grilled dishes, and bold coastal inspirations. Experience a
+  splash of citrus, sizzle, and spice in every bite!
+rating: 1.0
+progenitor_customer: customer_0094
+menu_features:
+  Chipotle Lime Chicken Salad: 8.75
+  Ancho Honey-Glazed Salmon: 14.92
+  Blue Corn Tortilla Soup: 7.76
+  Garlic Lime Shrimp Salad: 13.68
+  Pineapple Jalapeno Sangria: 8.33
+  Honey-Lime Grilled Shrimp: 12.26
+  Honey-Lime Grilled Salmon: 15.36
+  Black Bean Chili Bowl: 10.44
+  Tequila Lime Shrimp Skewers: 16.88
+  Chili Lime Skirt Steak: 15.71
+  Roasted Corn Enchiladas: 7.94
+amenity_features: {}
+min_price_factor: 0.86
+minimum_menu_prices:
+  Chipotle Lime Chicken Salad: 7.52
+  Ancho Honey-Glazed Salmon: 12.83
+  Blue Corn Tortilla Soup: 6.67
+  Garlic Lime Shrimp Salad: 11.76
+  Pineapple Jalapeno Sangria: 7.16
+  Honey-Lime Grilled Shrimp: 10.54
+  Honey-Lime Grilled Salmon: 13.21
+  Black Bean Chili Bowl: 8.98
+  Tequila Lime Shrimp Skewers: 14.52
+  Chili Lime Skirt Steak: 13.51
+  Roasted Corn Enchiladas: 6.83

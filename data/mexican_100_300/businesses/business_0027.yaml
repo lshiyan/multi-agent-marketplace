@@ -1,0 +1,33 @@
+id: business_0027
+name: Pico Palate
+description: Pico Palate brings fresh, vibrant flavors to classic and creative Mexican
+  and Tex-Mex favorites in a lively, welcoming space. From sizzling tacos to zesty
+  dips and sweet treats, every bite is a celebration.
+rating: 1.0
+progenitor_customer: customer_0009
+menu_features:
+  Chorizo and Egg Tacos: 6.71
+  Margarita Grilled Chicken: 14.13
+  Warm Cinnamon Churros: 6.35
+  Pineapple Chipotle Salsa & Chips: 5.87
+  Zesty Lime Chicken Enchiladas: 13.0
+  Coconut Lime Rice Bowl: 9.51
+  Sweet Potato and Black Bean Tacos: 7.76
+  Passionfruit Paloma: 9.99
+  Sweet Corn Tamale Bites: 6.23
+  "Cheesy Jalape\xF1o Quesadillas": 9.35
+  Roasted Poblano Queso Dip: 5.43
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Chorizo and Egg Tacos: 5.17
+  Margarita Grilled Chicken: 10.88
+  Warm Cinnamon Churros: 4.89
+  Pineapple Chipotle Salsa & Chips: 4.52
+  Zesty Lime Chicken Enchiladas: 10.01
+  Coconut Lime Rice Bowl: 7.32
+  Sweet Potato and Black Bean Tacos: 5.98
+  Passionfruit Paloma: 7.69
+  Sweet Corn Tamale Bites: 4.8
+  "Cheesy Jalape\xF1o Quesadillas": 7.2
+  Roasted Poblano Queso Dip: 4.18

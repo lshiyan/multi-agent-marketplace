@@ -1,0 +1,43 @@
+id: business_0049
+name: Peppers & Paletas
+description: Dive into a playful celebration of Mexican and Tex-Mex flavors, where
+  savory classics and refreshing tropical treats meet. From zesty tacos to irresistible
+  desserts and cool sips, every bite is a fiesta for your senses.
+rating: 1.0
+progenitor_customer: customer_0017
+menu_features:
+  Coconut Flan Delight: 7.65
+  Pineapple Salsa Pork Tacos: 12.38
+  Pineapple Pico de Gallo Salsa: 6.1
+  Breakfast Burrito Bonanza: 9.03
+  Mexican Coffee Flan: 6.86
+  Chili Con Queso Supreme: 6.11
+  Roasted Red Pepper Quesadilla: 9.49
+  Coconut Lime Paleta: 3.92
+  Pineapple Habanero Margarita: 11.85
+  Refreshing Agua Fresca Trio: 7.82
+  Honey-Lime Grilled Shrimp: 16.69
+  Tres Leches Cake: 6.79
+  Spicy Chocolate Churros: 5.05
+  Tropical Guava Mint Punch: 6.59
+  Black Bean Avocado Tostadas: 12.91
+  Creamy Poblano Corn Chowder: 10.25
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Coconut Flan Delight: 6.73
+  Pineapple Salsa Pork Tacos: 10.89
+  Pineapple Pico de Gallo Salsa: 5.37
+  Breakfast Burrito Bonanza: 7.95
+  Mexican Coffee Flan: 6.04
+  Chili Con Queso Supreme: 5.38
+  Roasted Red Pepper Quesadilla: 8.35
+  Coconut Lime Paleta: 3.45
+  Pineapple Habanero Margarita: 10.43
+  Refreshing Agua Fresca Trio: 6.88
+  Honey-Lime Grilled Shrimp: 14.69
+  Tres Leches Cake: 5.98
+  Spicy Chocolate Churros: 4.44
+  Tropical Guava Mint Punch: 5.8
+  Black Bean Avocado Tostadas: 11.36
+  Creamy Poblano Corn Chowder: 9.02

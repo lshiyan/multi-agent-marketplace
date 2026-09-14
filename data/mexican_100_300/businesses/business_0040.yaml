@@ -1,0 +1,43 @@
+id: business_0040
+name: Estrella Mexicana
+description: Experience vibrant Mexican and Tex-Mex flavors in a welcoming, festive
+  setting. From savory tacos to sweet flan and refreshing drinks, every dish celebrates
+  the essence of Mexican cuisine.
+rating: 1.0
+progenitor_customer: customer_0014
+menu_features:
+  Mexican Chocolate Flan: 7.2
+  Hibiscus Iced Tea: 4.09
+  Spiced Agave Margarita: 9.86
+  Blue Corn Tortilla Tacos: 14.33
+  Garlic Lime Shrimp Salad: 14.83
+  Stuffed Avocado Delight: 6.04
+  Chili Lime Watermelon Salad: 8.69
+  Cinnamon Sugar Churro Sticks: 4.84
+  Crispy Fish Tacos: 8.68
+  Spicy Mango Margarita: 8.0
+  Loaded Nacho Bowl: 8.58
+  Coffee Cinnamon Mexican Mocha: 4.26
+  Mexican Coffee Flan: 6.32
+  Spiced Churro Bites: 5.16
+  Mushroom & Cheese Tamales: 8.11
+  Verde Ranchero Huevos: 9.94
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Mexican Chocolate Flan: 4.46
+  Hibiscus Iced Tea: 2.54
+  Spiced Agave Margarita: 6.11
+  Blue Corn Tortilla Tacos: 8.88
+  Garlic Lime Shrimp Salad: 9.19
+  Stuffed Avocado Delight: 3.74
+  Chili Lime Watermelon Salad: 5.39
+  Cinnamon Sugar Churro Sticks: 3.0
+  Crispy Fish Tacos: 5.38
+  Spicy Mango Margarita: 4.96
+  Loaded Nacho Bowl: 5.32
+  Coffee Cinnamon Mexican Mocha: 2.64
+  Mexican Coffee Flan: 3.92
+  Spiced Churro Bites: 3.2
+  Mushroom & Cheese Tamales: 5.03
+  Verde Ranchero Huevos: 6.16

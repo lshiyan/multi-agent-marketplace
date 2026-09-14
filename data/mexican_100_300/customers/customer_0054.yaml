@@ -1,0 +1,12 @@
+id: customer_0054
+name: Amina Khan
+request: 'I am looking to place an order and need assistance finding a business that
+  can provide the following menu items: 1 Zesty Shrimp Quesadilla, 1 Rich Chocolate
+  Tamale, and 1 Caramel Corn Flan. It is important that all these specific items are
+  available from the same establishment. Once a suitable option is found, I intend
+  to proceed with placing the order. Thank you for your help.'
+menu_features:
+  Zesty Shrimp Quesadillas: 13.49
+  Rich Chocolate Tamales: 6.99
+  Caramel Corn Flan: 6.99
+amenity_features: []

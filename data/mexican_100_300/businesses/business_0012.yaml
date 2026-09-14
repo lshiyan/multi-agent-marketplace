@@ -1,0 +1,43 @@
+id: business_0012
+name: Lime & Agave Kitchen
+description: Lime & Agave Kitchen brings a fresh, modern twist to classic Mexican
+  and Tex-Mex flavors. Enjoy vibrant dishes and inventive cocktails in a lively, welcoming
+  setting.
+rating: 1.0
+progenitor_customer: customer_0004
+menu_features:
+  Avocado Lime Cheesecake: 7.47
+  Tequila Lime Grilled Chicken: 13.39
+  Spicy Chocolate Churros: 5.84
+  Smoky Chipotle BBQ Nachos: 11.8
+  Black Bean and Sweet Potato Empanadas: 9.92
+  Zesty Lime Chicken Enchiladas: 13.98
+  Pineapple Salsa Pork Tacos: 11.75
+  Loaded Nacho Fiesta: 9.14
+  Grilled Chipotle Chicken Burrito: 10.18
+  "Cheesy Jalape\xF1o Queso Dip": 7.01
+  Passion Fruit Mojito: 8.99
+  Spiced Agave Margarita: 9.63
+  Grilled Street Corn: 5.81
+  Savory Carne Asada Burrito: 10.26
+  Mole Chicken Quesadilla: 11.3
+  Tropical Pineapple Salsa: 3.68
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Avocado Lime Cheesecake: 5.15
+  Tequila Lime Grilled Chicken: 9.24
+  Spicy Chocolate Churros: 4.03
+  Smoky Chipotle BBQ Nachos: 8.14
+  Black Bean and Sweet Potato Empanadas: 6.84
+  Zesty Lime Chicken Enchiladas: 9.65
+  Pineapple Salsa Pork Tacos: 8.11
+  Loaded Nacho Fiesta: 6.31
+  Grilled Chipotle Chicken Burrito: 7.02
+  "Cheesy Jalape\xF1o Queso Dip": 4.84
+  Passion Fruit Mojito: 6.2
+  Spiced Agave Margarita: 6.64
+  Grilled Street Corn: 4.01
+  Savory Carne Asada Burrito: 7.08
+  Mole Chicken Quesadilla: 7.8
+  Tropical Pineapple Salsa: 2.54

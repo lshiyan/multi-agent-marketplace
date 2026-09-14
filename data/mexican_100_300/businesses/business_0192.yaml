@@ -1,0 +1,39 @@
+id: business_0192
+name: Guac, Queso & Roll
+description: A fun twist on classic Mexican and Tex-Mex comfort food, served with
+  fresh salsas, fiery stews, and vibrant twists on traditional favorites. Get ready
+  to dip, sip, and savor bold flavors in every bite and sip.
+rating: 1.0
+progenitor_customer: customer_0064
+menu_features:
+  Green Chile Pork Stew: 13.92
+  Spicy Pineapple Salsa Dip: 5.49
+  Sizzling Fajita Plate: 16.16
+  Three-Cheese Queso Dip: 5.52
+  Cactus Cooler Margarita: 10.11
+  Crispy Fish Baja Bowl: 12.95
+  Tequila Lime Shrimp Skewers: 16.96
+  Shrimp and Avocado Ceviche: 13.07
+  Poblano Pepper Relleno Plate: 11.64
+  Black Bean Stuffed Bell Peppers: 11.6
+  Roasted Pecan Flan: 7.31
+  Black Bean Street Tacos: 9.07
+  Al Pastor Pork Tacos: 10.97
+  "Spicy Jalape\xF1o Limeade": 3.48
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Green Chile Pork Stew: 8.49
+  Spicy Pineapple Salsa Dip: 3.35
+  Sizzling Fajita Plate: 9.86
+  Three-Cheese Queso Dip: 3.37
+  Cactus Cooler Margarita: 6.17
+  Crispy Fish Baja Bowl: 7.9
+  Tequila Lime Shrimp Skewers: 10.35
+  Shrimp and Avocado Ceviche: 7.97
+  Poblano Pepper Relleno Plate: 7.1
+  Black Bean Stuffed Bell Peppers: 7.08
+  Roasted Pecan Flan: 4.46
+  Black Bean Street Tacos: 5.53
+  Al Pastor Pork Tacos: 6.69
+  "Spicy Jalape\xF1o Limeade": 2.12

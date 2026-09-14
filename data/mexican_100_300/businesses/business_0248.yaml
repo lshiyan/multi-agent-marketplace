@@ -1,0 +1,37 @@
+id: business_0248
+name: Casa de Sabores Dulces y Picantes
+description: Discover a warm, lively spot where the vibrant flavors of classic and
+  modern Mexican cuisine come together. Enjoy fresh, spicy, and sweet creations inspired
+  by tradition and crafted with a contemporary twist.
+rating: 1.0
+progenitor_customer: customer_0083
+menu_features:
+  Three Cheese Sope: 9.05
+  Spicy Black Bean Tacos: 13.96
+  Pineapple Agua Fresca: 4.1
+  Chocolate Tamale Cake: 6.77
+  Spicy Chicken Tortilla Soup: 6.46
+  Savory Chorizo Street Tacos: 11.44
+  Stuffed Avocado Boats: 7.65
+  Ranchero Eggs Benedict: 13.37
+  Mexican Chocolate Flan: 5.11
+  Black Bean Sweet Potato Burrito: 12.54
+  Tomatillo Ranch Enchiladas: 14.1
+  Jicama and Citrus Salad: 9.13
+  Warm Churro Bites: 6.82
+amenity_features: {}
+min_price_factor: 0.88
+minimum_menu_prices:
+  Three Cheese Sope: 7.96
+  Spicy Black Bean Tacos: 12.28
+  Pineapple Agua Fresca: 3.61
+  Chocolate Tamale Cake: 5.96
+  Spicy Chicken Tortilla Soup: 5.68
+  Savory Chorizo Street Tacos: 10.07
+  Stuffed Avocado Boats: 6.73
+  Ranchero Eggs Benedict: 11.77
+  Mexican Chocolate Flan: 4.5
+  Black Bean Sweet Potato Burrito: 11.04
+  Tomatillo Ranch Enchiladas: 12.41
+  Jicama and Citrus Salad: 8.03
+  Warm Churro Bites: 6.0

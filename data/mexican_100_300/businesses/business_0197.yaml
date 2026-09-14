@@ -1,0 +1,38 @@
+id: business_0197
+name: Casa Verde y Sol
+description: Experience the vibrant flavors of Mexico and the Southwest at Casa Verde
+  y Sol, where fresh ingredients and bright citrus pairings highlight every plate.
+  Enjoy a warm, inviting atmosphere with a menu full of creative classics and modern
+  favorites.
+rating: 1.0
+progenitor_customer: customer_0066
+menu_features:
+  Avocado Lime Quinoa Bowl: 10.14
+  Caramelized Plantain Empanadas: 6.95
+  Tamale Trio Sampler: 11.38
+  Shrimp and Avocado Ceviche: 12.44
+  Blueberry Tequila Sunrise: 8.19
+  Chili Lime Jicama Sticks: 6.5
+  Pork Carnitas Platter: 11.24
+  Citrus Cilantro Rice: 4.76
+  Chipotle Lime Shrimp Tacos: 16.04
+  Al Pastor Pork Tacos: 13.35
+  Zesty Shrimp Ceviche: 14.95
+  Avocado Lime Salad: 9.68
+  Grilled Pineapple Salsa: 7.7
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Avocado Lime Quinoa Bowl: 7.0
+  Caramelized Plantain Empanadas: 4.8
+  Tamale Trio Sampler: 7.85
+  Shrimp and Avocado Ceviche: 8.58
+  Blueberry Tequila Sunrise: 5.65
+  Chili Lime Jicama Sticks: 4.48
+  Pork Carnitas Platter: 7.76
+  Citrus Cilantro Rice: 3.28
+  Chipotle Lime Shrimp Tacos: 11.07
+  Al Pastor Pork Tacos: 9.21
+  Zesty Shrimp Ceviche: 10.32
+  Avocado Lime Salad: 6.68
+  Grilled Pineapple Salsa: 5.31

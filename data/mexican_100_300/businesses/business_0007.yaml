@@ -1,0 +1,39 @@
+id: business_0007
+name: Citrus & Cactus
+description: Bright, bold Mexican and Tex-Mex flavors meet fresh, modern vibes at
+  Citrus & Cactus. Enjoy a creative twist on classic favorites, from vibrant sizzlers
+  to handcrafted desserts and refreshing drinks.
+rating: 1.0
+progenitor_customer: customer_0003
+menu_features:
+  Crispy Chicken Tostada Bowls: 10.64
+  Pumpkin Spice Churros: 5.58
+  Fresh Lime Cilantro Rice: 3.13
+  Pineapple Salsa Pork Tacos: 10.62
+  Honey Lime Fajita Sizzlers: 19.58
+  Cactus Flower Iced Tea: 4.22
+  Spicy Black Bean and Cheese Quesadilla: 10.31
+  Tomatillo Ranch Enchiladas: 11.39
+  Spicy Black Bean Enchiladas: 11.14
+  Coffee Cinnamon Mexican Mocha: 5.78
+  Black Bean Burgers: 13.18
+  Roasted Pepper Queso Dip: 8.31
+  Vegetarian Tamale Platter: 12.96
+  Crispy Tortilla Breakfast Bowl: 12.14
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Crispy Chicken Tostada Bowls: 7.13
+  Pumpkin Spice Churros: 3.74
+  Fresh Lime Cilantro Rice: 2.1
+  Pineapple Salsa Pork Tacos: 7.12
+  Honey Lime Fajita Sizzlers: 13.12
+  Cactus Flower Iced Tea: 2.83
+  Spicy Black Bean and Cheese Quesadilla: 6.91
+  Tomatillo Ranch Enchiladas: 7.63
+  Spicy Black Bean Enchiladas: 7.46
+  Coffee Cinnamon Mexican Mocha: 3.87
+  Black Bean Burgers: 8.83
+  Roasted Pepper Queso Dip: 5.57
+  Vegetarian Tamale Platter: 8.68
+  Crispy Tortilla Breakfast Bowl: 8.13

@@ -1,0 +1,35 @@
+id: business_0146
+name: La Cosecha Verde
+description: Experience fresh flavors and vibrant textures at La Cosecha Verde, where
+  Mexican and Tex-Mex traditions meet creative cuisine. Enjoy a welcoming atmosphere
+  as you savor classic favorites with a modern twist.
+rating: 1.0
+progenitor_customer: customer_0049
+menu_features:
+  Crispy Avocado Tostadas: 9.5
+  Green Chile Pork Stew: 14.04
+  Sweet Corn Tamale Bites: 7.28
+  Cactus Flower Iced Tea: 3.9
+  Breakfast Tostada Stack: 10.71
+  Horchata Iced Latte: 4.52
+  Breakfast Burrito Bowl: 7.75
+  Spicy Chipotle Chicken Wings: 8.41
+  Roasted Pecan Flan: 5.21
+  Smoky Chipotle Quesadillas: 8.74
+  Vanilla Cinnamon Horchata: 3.19
+  Pico Avocado Toast: 6.98
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Crispy Avocado Tostadas: 8.64
+  Green Chile Pork Stew: 12.78
+  Sweet Corn Tamale Bites: 6.62
+  Cactus Flower Iced Tea: 3.55
+  Breakfast Tostada Stack: 9.75
+  Horchata Iced Latte: 4.11
+  Breakfast Burrito Bowl: 7.05
+  Spicy Chipotle Chicken Wings: 7.65
+  Roasted Pecan Flan: 4.74
+  Smoky Chipotle Quesadillas: 7.95
+  Vanilla Cinnamon Horchata: 2.9
+  Pico Avocado Toast: 6.35

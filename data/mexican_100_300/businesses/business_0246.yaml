@@ -1,0 +1,35 @@
+id: business_0246
+name: La Parrilla Brillante
+description: Experience a vibrant fusion of classic Mexican and modern Tex-Mex flavors
+  in a welcoming, lively atmosphere. Enjoy bold, smoky dishes and refreshing house-made
+  drinks crafted with the freshest ingredients.
+rating: 1.0
+progenitor_customer: customer_0082
+menu_features:
+  Smoky Black Bean Tostadas: 8.74
+  Grilled Avocado and Quinoa Bowl: 10.36
+  Pomegranate Agua Fresca: 4.41
+  Mango Habanero Salsa: 4.81
+  Spicy Chipotle Chicken Wrap: 9.41
+  Gourmet Nacho Platter: 12.44
+  Tamarind Ginger Cooler: 4.56
+  Sizzling Fajita Plate: 13.88
+  Guava Limeade Cooler: 4.86
+  Smoky Chipotle Chicken: 9.71
+  Blueberry Jalapeno Lemonade: 3.31
+  Mexican Chocolate Milkshake: 5.81
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Smoky Black Bean Tostadas: 6.47
+  Grilled Avocado and Quinoa Bowl: 7.67
+  Pomegranate Agua Fresca: 3.26
+  Mango Habanero Salsa: 3.56
+  Spicy Chipotle Chicken Wrap: 6.96
+  Gourmet Nacho Platter: 9.21
+  Tamarind Ginger Cooler: 3.37
+  Sizzling Fajita Plate: 10.27
+  Guava Limeade Cooler: 3.6
+  Smoky Chipotle Chicken: 7.19
+  Blueberry Jalapeno Lemonade: 2.45
+  Mexican Chocolate Milkshake: 4.3

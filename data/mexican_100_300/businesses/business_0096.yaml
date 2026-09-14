@@ -1,0 +1,47 @@
+id: business_0096
+name: Cilantro & Stone
+description: Experience bold Mexican and Tex-Mex flavors with vibrant, fresh ingredients
+  in a modern, stylish setting. Classic comforts and creative favorites come together
+  for a taste of tradition reimagined.
+rating: 1.0
+progenitor_customer: customer_0032
+menu_features:
+  Paloma Breeze Cocktail: 9.29
+  Fresh Lime and Cilantro Guacamole: 6.72
+  Classic Tortilla Soup: 5.78
+  Stuffed Poblano Peppers: 14.62
+  Tomatillo Ranch Enchiladas: 14.11
+  Pork Carnitas Platter: 13.41
+  Honey-Lime Grilled Salmon: 15.69
+  Tres Leches Cake: 7.49
+  Breakfast Burrito Bonanza: 9.26
+  Spicy Avocado Smash Burger: 14.5
+  Caramelized Onion Queso Dip: 6.89
+  Spicy Chicken Chimichanga: 10.16
+  Crisp Jicama Slaw: 4.62
+  Spicy Pork Tamales: 10.68
+  Green Chile Cheesesteak: 15.19
+  Adobo Roasted Corn Salad: 7.67
+  Grilled Pineapple and Pork Tacos: 13.96
+  Classic Lime Margarita: 7.64
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Paloma Breeze Cocktail: 6.78
+  Fresh Lime and Cilantro Guacamole: 4.91
+  Classic Tortilla Soup: 4.22
+  Stuffed Poblano Peppers: 10.67
+  Tomatillo Ranch Enchiladas: 10.3
+  Pork Carnitas Platter: 9.79
+  Honey-Lime Grilled Salmon: 11.45
+  Tres Leches Cake: 5.47
+  Breakfast Burrito Bonanza: 6.76
+  Spicy Avocado Smash Burger: 10.58
+  Caramelized Onion Queso Dip: 5.03
+  Spicy Chicken Chimichanga: 7.42
+  Crisp Jicama Slaw: 3.37
+  Spicy Pork Tamales: 7.8
+  Green Chile Cheesesteak: 11.09
+  Adobo Roasted Corn Salad: 5.6
+  Grilled Pineapple and Pork Tacos: 10.19
+  Classic Lime Margarita: 5.58

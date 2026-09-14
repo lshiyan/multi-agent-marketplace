@@ -1,0 +1,35 @@
+id: business_0266
+name: Smoky Slaw & Sizzle
+description: Experience bold Mexican and Tex-Mex flavors in a vibrant, modern space.
+  From sizzling grilled platters to fresh, crunchy bites, our menu brings zest and
+  creativity to every meal.
+rating: 1.0
+progenitor_customer: customer_0089
+menu_features:
+  Classic Beef Tacos with Zesty Slaw: 10.36
+  Loaded Nacho Bowl: 13.55
+  Grilled Steak Fajita Platter: 13.59
+  Black Bean Avocado Tostadas: 9.8
+  Crispy Avocado Fritters: 9.57
+  Honey-Lime Grilled Shrimp: 15.86
+  Spicy Chocolate Churros: 6.73
+  Smoky Chipotle BBQ Wings: 9.85
+  Grilled Steak Quesadilla: 14.07
+  Cinnamon Churro Bites: 5.18
+  Ultimate Nacho Platter: 10.4
+  Loaded Chorizo Nachos: 8.92
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Classic Beef Tacos with Zesty Slaw: 7.87
+  Loaded Nacho Bowl: 10.3
+  Grilled Steak Fajita Platter: 10.33
+  Black Bean Avocado Tostadas: 7.45
+  Crispy Avocado Fritters: 7.27
+  Honey-Lime Grilled Shrimp: 12.05
+  Spicy Chocolate Churros: 5.11
+  Smoky Chipotle BBQ Wings: 7.49
+  Grilled Steak Quesadilla: 10.69
+  Cinnamon Churro Bites: 3.94
+  Ultimate Nacho Platter: 7.9
+  Loaded Chorizo Nachos: 6.78

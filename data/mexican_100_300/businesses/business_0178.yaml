@@ -1,0 +1,37 @@
+id: business_0178
+name: Pineapple & Pepper Pavilion
+description: Experience a vibrant fusion of classic and contemporary Mexican and Tex-Mex
+  flavors in a lively, welcoming setting. Fresh ingredients, bold spices, and creative
+  dishes await you at every visit.
+rating: 1.0
+progenitor_customer: customer_0060
+menu_features:
+  Sweet Corn Tamale Cake: 8.0
+  Cucumber Jalapeno Agua Fresca: 3.83
+  Ultimate Nacho Platter: 9.39
+  Grilled Pineapple and Pork Tacos: 15.06
+  Roasted Corn and Black Bean Salad: 8.76
+  Ranchero Eggs Benedict: 12.92
+  Ancho Chili Chocolate Cake: 6.49
+  Coconut Flan Delight: 7.01
+  Breakfast Burrito Bowl: 8.01
+  Ancho Chile BBQ Ribs: 21.57
+  Fresh Mango Salsa Nachos: 6.8
+  Coconut Lime Rice Bowl: 9.39
+  Baja Fish Taco Plate: 11.15
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Sweet Corn Tamale Cake: 4.96
+  Cucumber Jalapeno Agua Fresca: 2.37
+  Ultimate Nacho Platter: 5.82
+  Grilled Pineapple and Pork Tacos: 9.34
+  Roasted Corn and Black Bean Salad: 5.43
+  Ranchero Eggs Benedict: 8.01
+  Ancho Chili Chocolate Cake: 4.02
+  Coconut Flan Delight: 4.35
+  Breakfast Burrito Bowl: 4.97
+  Ancho Chile BBQ Ribs: 13.37
+  Fresh Mango Salsa Nachos: 4.22
+  Coconut Lime Rice Bowl: 5.82
+  Baja Fish Taco Plate: 6.91

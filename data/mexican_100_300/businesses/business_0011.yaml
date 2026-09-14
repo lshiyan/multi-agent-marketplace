@@ -1,0 +1,41 @@
+id: business_0011
+name: Pepper Patch
+description: Pepper Patch serves up vibrant Mexican and Tex-Mex flavors with fresh
+  salads, zesty street tacos, and refreshing house-made beverages. Dive into a colorful
+  menu inspired by classic and creative combinations in a warm, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0004
+menu_features:
+  Black Bean and Corn Fiesta Salad: 10.63
+  Sizzling Carne Asada: 14.57
+  Cactus Flower Iced Tea: 3.8
+  Paloma Breeze Cocktail: 9.36
+  Blueberry Jalapeno Lemonade: 4.39
+  Spicy Chicken Tortilla Soup: 6.6
+  Mole Chicken Quesadilla: 10.24
+  Roasted Poblano Corn Chowder: 7.08
+  Ancho Chile Chicken Salad: 11.36
+  Braised Beef Barbacoa Tacos: 12.27
+  Sweet Plantain Empanadas: 7.3
+  Pineapple Salsa Shrimp Tacos: 12.74
+  Avocado Street Tacos: 10.16
+  Fiesta Street Corn: 3.93
+  Black Bean Taco Bowl: 8.86
+amenity_features: {}
+min_price_factor: 0.73
+minimum_menu_prices:
+  Black Bean and Corn Fiesta Salad: 7.76
+  Sizzling Carne Asada: 10.64
+  Cactus Flower Iced Tea: 2.77
+  Paloma Breeze Cocktail: 6.83
+  Blueberry Jalapeno Lemonade: 3.2
+  Spicy Chicken Tortilla Soup: 4.82
+  Mole Chicken Quesadilla: 7.48
+  Roasted Poblano Corn Chowder: 5.17
+  Ancho Chile Chicken Salad: 8.29
+  Braised Beef Barbacoa Tacos: 8.96
+  Sweet Plantain Empanadas: 5.33
+  Pineapple Salsa Shrimp Tacos: 9.3
+  Avocado Street Tacos: 7.42
+  Fiesta Street Corn: 2.87
+  Black Bean Taco Bowl: 6.47

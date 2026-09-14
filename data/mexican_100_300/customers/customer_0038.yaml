@@ -1,0 +1,9 @@
+id: customer_0038
+name: Maria Petrova
+request: 'I would like to place an order for the following items: 1 Grilled Shrimp
+  Fajita Bowl and 1 Mango Habanero Margarita. Please find a business that offers these
+  menu items, as they are essential to my order. Thank you.'
+menu_features:
+  Grilled Shrimp Fajita Bowl: 12.99
+  Mango Habanero Margarita: 9.99
+amenity_features: []

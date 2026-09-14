@@ -1,0 +1,35 @@
+id: business_0064
+name: Taco 'Bout Fresh
+description: Get ready to fiesta with a vibrant twist on Mexican and Tex-Mex classics,
+  bursting with bright flavors and fresh ingredients. From zesty appetizers to sweet
+  finales, every bite brings a little sunshine to your plate.
+rating: 1.0
+progenitor_customer: customer_0022
+menu_features:
+  Zesty Lime Shrimp Tostadas: 12.16
+  Avocado Lime Quinoa Bowl: 11.78
+  Chili Lime Skirt Steak: 17.65
+  Black Bean & Cheese Enchiladas: 11.27
+  Fresh Mango Salsa Nachos: 10.3
+  Baja Fish Tacos: 13.89
+  Spicy Black Bean Nacho Platter: 10.33
+  Coconut Flan Delight: 7.81
+  Savory Chorizo Street Tacos: 12.71
+  Carne Asada Nachos: 11.19
+  Spicy Street Corn: 6.08
+  Pineapple Salsa Pork Tacos: 12.41
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Zesty Lime Shrimp Tostadas: 9.0
+  Avocado Lime Quinoa Bowl: 8.72
+  Chili Lime Skirt Steak: 13.06
+  Black Bean & Cheese Enchiladas: 8.34
+  Fresh Mango Salsa Nachos: 7.62
+  Baja Fish Tacos: 10.28
+  Spicy Black Bean Nacho Platter: 7.64
+  Coconut Flan Delight: 5.78
+  Savory Chorizo Street Tacos: 9.41
+  Carne Asada Nachos: 8.28
+  Spicy Street Corn: 4.5
+  Pineapple Salsa Pork Tacos: 9.18

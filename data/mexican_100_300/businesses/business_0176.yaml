@@ -1,0 +1,45 @@
+id: business_0176
+name: Molcajete Mingle
+description: Dive into a vibrant celebration of Mexican and Tex-Mex flavors with a
+  fresh, creative twist. From bold salsas to sizzling classics and sweet finishes,
+  our modern eatery invites you to savor every bite.
+rating: 1.0
+progenitor_customer: customer_0059
+menu_features:
+  Pineapple Habanero Salsa: 4.61
+  Black Bean Sweet Potato Burrito: 10.98
+  Carne Asada Fajitas: 16.91
+  Sweet Plantain Empanadas: 6.7
+  Spicy Avocado Burger: 10.93
+  Braised Beef Barbacoa Tacos: 11.57
+  Housemade Horchata: 4.28
+  "Spicy Jalape\xF1o Limeade": 3.6
+  Red Chili Chicken Pozole: 11.92
+  Spicy Chocolate Lava Cake: 9.85
+  Three Cheese Sope: 8.62
+  Chipotle Lime Cauliflower Tacos: 11.01
+  Zesty Lime Shrimp Salad: 9.25
+  Caramelized Onion and Goat Cheese Empanadas: 6.26
+  Sizzling Chicken Fajitas: 13.2
+  Cinnamon Sugar Churro Sticks: 5.82
+  Veggie Fajita Platter: 11.94
+amenity_features: {}
+min_price_factor: 0.95
+minimum_menu_prices:
+  Pineapple Habanero Salsa: 4.38
+  Black Bean Sweet Potato Burrito: 10.43
+  Carne Asada Fajitas: 16.06
+  Sweet Plantain Empanadas: 6.37
+  Spicy Avocado Burger: 10.38
+  Braised Beef Barbacoa Tacos: 10.99
+  Housemade Horchata: 4.07
+  "Spicy Jalape\xF1o Limeade": 3.42
+  Red Chili Chicken Pozole: 11.32
+  Spicy Chocolate Lava Cake: 9.36
+  Three Cheese Sope: 8.19
+  Chipotle Lime Cauliflower Tacos: 10.46
+  Zesty Lime Shrimp Salad: 8.79
+  Caramelized Onion and Goat Cheese Empanadas: 5.95
+  Sizzling Chicken Fajitas: 12.54
+  Cinnamon Sugar Churro Sticks: 5.53
+  Veggie Fajita Platter: 11.34

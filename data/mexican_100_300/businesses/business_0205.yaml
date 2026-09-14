@@ -1,0 +1,42 @@
+id: business_0205
+name: Lime & Lava Lounge
+description: Lime & Lava Lounge serves up a vibrant array of Mexican and Tex-Mex favorites,
+  where bold, fresh flavors and sizzling specialties come together in a lively, welcoming
+  atmosphere. Enjoy a creative selection of entrees, tasty bites, and refreshing drinks
+  perfect for any occasion.
+rating: 1.0
+progenitor_customer: customer_0069
+menu_features:
+  Spicy Shrimp Fajitas: 12.96
+  Black Bean Stuffed Sweet Potatoes: 7.7
+  Queso Fundido with Chorizo: 8.82
+  Fresh Watermelon Aqua Fresca: 4.41
+  Coconut Lime Margarita: 8.64
+  "Blueberry Jalape\xF1o Margarita": 10.68
+  Zesty Lime Grilled Chicken: 12.2
+  Honey-Lime Grilled Salmon: 14.11
+  Honey Lime Chicken Skewers: 13.74
+  Hatch Green Chile Stew: 14.66
+  Avocado Lime Quinoa Bowl: 9.76
+  Verde Ranchero Huevos: 9.04
+  Tequila Lime Flan: 7.06
+  Cheesy Jalapeno Queso: 6.21
+  Chipotle Lime Chicken Salad: 9.16
+amenity_features: {}
+min_price_factor: 0.83
+minimum_menu_prices:
+  Spicy Shrimp Fajitas: 10.76
+  Black Bean Stuffed Sweet Potatoes: 6.39
+  Queso Fundido with Chorizo: 7.32
+  Fresh Watermelon Aqua Fresca: 3.66
+  Coconut Lime Margarita: 7.17
+  "Blueberry Jalape\xF1o Margarita": 8.86
+  Zesty Lime Grilled Chicken: 10.13
+  Honey-Lime Grilled Salmon: 11.71
+  Honey Lime Chicken Skewers: 11.4
+  Hatch Green Chile Stew: 12.17
+  Avocado Lime Quinoa Bowl: 8.1
+  Verde Ranchero Huevos: 7.5
+  Tequila Lime Flan: 5.86
+  Cheesy Jalapeno Queso: 5.15
+  Chipotle Lime Chicken Salad: 7.6

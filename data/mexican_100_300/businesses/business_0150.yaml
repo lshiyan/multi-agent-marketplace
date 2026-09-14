@@ -1,0 +1,35 @@
+id: business_0150
+name: Sabores del Desierto
+description: Discover bold and vibrant flavors inspired by the heart of Mexico and
+  the spirit of the Southwest. From savory classics to inventive sweets and sips,
+  every meal is a fiesta for your senses.
+rating: 1.0
+progenitor_customer: customer_0050
+menu_features:
+  Ancho Chili Chocolate Cake: 6.92
+  Pineapple Habanero Salsa: 3.75
+  Avocado & Tomato Breakfast Tostadas: 8.23
+  Black Bean & Corn Quesadilla: 8.67
+  Black Bean Avocado Enchiladas: 13.97
+  Roasted Poblano Queso Dip: 6.75
+  Cactus Cooler Margarita: 10.82
+  Pico de Gallo Chicken Salad: 7.88
+  Mexican Spiced Chocolate Cake: 7.55
+  Pineapple Pico de Gallo Nachos: 9.14
+  Savory Chorizo Street Tacos: 8.64
+  Sweet Plantain Empanadas: 6.44
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Ancho Chili Chocolate Cake: 5.12
+  Pineapple Habanero Salsa: 2.77
+  Avocado & Tomato Breakfast Tostadas: 6.09
+  Black Bean & Corn Quesadilla: 6.42
+  Black Bean Avocado Enchiladas: 10.34
+  Roasted Poblano Queso Dip: 5.0
+  Cactus Cooler Margarita: 8.01
+  Pico de Gallo Chicken Salad: 5.83
+  Mexican Spiced Chocolate Cake: 5.59
+  Pineapple Pico de Gallo Nachos: 6.76
+  Savory Chorizo Street Tacos: 6.39
+  Sweet Plantain Empanadas: 4.77

@@ -1,0 +1,36 @@
+id: business_0207
+name: Citrus & Spice Social
+description: Discover bold, fresh flavors at Citrus & Spice Social, a modern eatery
+  serving vibrant Mexican and Tex-Mex dishes in a lively, welcoming atmosphere. Enjoy
+  a curated menu of sweet, tangy, and savory specialties, hand-crafted drinks, and
+  creative desserts.
+rating: 1.0
+progenitor_customer: customer_0069
+menu_features:
+  Chili Lime Watermelon Salad: 8.53
+  Cinnamon Sugar Churro Sticks: 6.01
+  Black Bean Stuffed Sweet Potatoes: 8.98
+  Avocado Lime Grilled Shrimp: 15.32
+  Classic Lime Margarita: 11.02
+  Caramel Apple Empanadas: 5.83
+  Tamarind Glazed Wings: 12.24
+  Creamy Poblano Corn Chowder: 8.74
+  Cheesy Jalapeno Queso: 6.3
+  Frozen Strawberry Margarita: 9.0
+  Horchata Latte: 6.1
+  Sweet Corn Tamale Cake: 7.66
+amenity_features: {}
+min_price_factor: 0.87
+minimum_menu_prices:
+  Chili Lime Watermelon Salad: 7.42
+  Cinnamon Sugar Churro Sticks: 5.23
+  Black Bean Stuffed Sweet Potatoes: 7.81
+  Avocado Lime Grilled Shrimp: 13.33
+  Classic Lime Margarita: 9.59
+  Caramel Apple Empanadas: 5.07
+  Tamarind Glazed Wings: 10.65
+  Creamy Poblano Corn Chowder: 7.6
+  Cheesy Jalapeno Queso: 5.48
+  Frozen Strawberry Margarita: 7.83
+  Horchata Latte: 5.31
+  Sweet Corn Tamale Cake: 6.66

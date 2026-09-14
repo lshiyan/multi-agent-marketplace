@@ -1,0 +1,45 @@
+id: business_0256
+name: Casa Azul de Sabor
+description: Discover vibrant Mexican and Tex-Mex flavors in a lively, welcoming atmosphere.
+  From sizzling platters to rich desserts and refreshing margaritas, every meal celebrates
+  the spirit of tradition and taste.
+rating: 1.0
+progenitor_customer: customer_0086
+menu_features:
+  Sizzling Fajita Platter: 15.82
+  Classic Lime Margarita: 5.95
+  Blue Corn Tortilla Chips: 5.34
+  Smoky Chipotle BBQ Ribs: 13.52
+  Chocolate Dipped Flan: 5.16
+  Chocolate Mole Chicken: 17.07
+  Coconut Flan Delight: 6.7
+  Tamale Trio Sampler: 11.79
+  Zesty Lime Shrimp Salad: 12.82
+  Cilantro Lime Rice Bowl: 9.29
+  Black Bean and Corn Fiesta Salad: 9.87
+  Verde Ranchero Huevos: 10.92
+  Creamy Jalapeno Corn Fritters: 8.9
+  Savory Chorizo Street Tacos: 12.19
+  Loaded Chorizo Nachos: 7.0
+  Poblano Pepper Relleno Plate: 12.52
+  Coconut Lime Tres Leches: 6.56
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Sizzling Fajita Platter: 11.23
+  Classic Lime Margarita: 4.22
+  Blue Corn Tortilla Chips: 3.79
+  Smoky Chipotle BBQ Ribs: 9.6
+  Chocolate Dipped Flan: 3.66
+  Chocolate Mole Chicken: 12.12
+  Coconut Flan Delight: 4.76
+  Tamale Trio Sampler: 8.37
+  Zesty Lime Shrimp Salad: 9.1
+  Cilantro Lime Rice Bowl: 6.6
+  Black Bean and Corn Fiesta Salad: 7.01
+  Verde Ranchero Huevos: 7.75
+  Creamy Jalapeno Corn Fritters: 6.32
+  Savory Chorizo Street Tacos: 8.65
+  Loaded Chorizo Nachos: 4.97
+  Poblano Pepper Relleno Plate: 8.89
+  Coconut Lime Tres Leches: 4.66

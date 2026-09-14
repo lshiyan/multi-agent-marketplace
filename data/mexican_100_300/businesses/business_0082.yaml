@@ -1,0 +1,37 @@
+id: business_0082
+name: La Cosecha Mexicana
+description: Experience bold Mexican and Tex-Mex flavors in a vibrant, welcoming atmosphere.
+  From colorful appetizers to refreshing cocktails and decadent desserts, every meal
+  highlights the richness of modern Mexican cuisine.
+rating: 1.0
+progenitor_customer: customer_0028
+menu_features:
+  Horchata Milkshake: 6.02
+  Fajita Veggie Burrito Bowl: 16.0
+  Crispy Avocado Nachos: 7.24
+  Smoky Chipotle Queso: 5.85
+  Sweet Corn Tamale Bites: 9.8
+  Sea Breeze Ceviche: 14.45
+  Cilantro Lime Grilled Shrimp: 13.39
+  Chocolate Cinnamon Flan: 4.77
+  Chipotle Lime Chicken Salad: 10.08
+  Crispy Carnitas Tacos: 13.64
+  Blueberry Jalapeno Margarita: 13.2
+  Grilled Pineapple Dessert Quesadilla: 7.7
+  Chipotle Shrimp Skewers: 11.97
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Horchata Milkshake: 4.64
+  Fajita Veggie Burrito Bowl: 12.32
+  Crispy Avocado Nachos: 5.57
+  Smoky Chipotle Queso: 4.5
+  Sweet Corn Tamale Bites: 7.55
+  Sea Breeze Ceviche: 11.13
+  Cilantro Lime Grilled Shrimp: 10.31
+  Chocolate Cinnamon Flan: 3.67
+  Chipotle Lime Chicken Salad: 7.76
+  Crispy Carnitas Tacos: 10.5
+  Blueberry Jalapeno Margarita: 10.16
+  Grilled Pineapple Dessert Quesadilla: 5.93
+  Chipotle Shrimp Skewers: 9.22

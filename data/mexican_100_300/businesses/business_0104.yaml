@@ -1,0 +1,41 @@
+id: business_0104
+name: Flan & Fuego
+description: Flan & Fuego serves bold, fresh Mexican and Tex-Mex favorites with a
+  sweet and spicy twist. Enjoy vibrant flavors and inventive dishes in a lively, welcoming
+  atmosphere.
+rating: 1.0
+progenitor_customer: customer_0035
+menu_features:
+  Paloma Breeze Cocktail: 8.18
+  Baja Fish Taco Plate: 13.89
+  Tres Leches Cake: 8.28
+  Honey Chipotle Wings: 13.53
+  Chocolate Dipped Flan: 4.7
+  Spicy Chipotle Chicken Wrap: 11.55
+  Mexican Coffee Flan: 4.54
+  Roasted Corn Enchiladas: 11.39
+  Honey Lime Fajita Sizzlers: 15.09
+  Caramelized Onion and Chorizo Quesadilla: 7.75
+  Honey Lime Grilled Fajitas: 14.35
+  Black Bean & Cheese Tostadas: 7.44
+  Chocolate Mole Brownie: 8.01
+  Spiced Agave Margarita: 10.43
+  Rich Chocolate Tres Leches: 7.23
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Paloma Breeze Cocktail: 6.71
+  Baja Fish Taco Plate: 11.39
+  Tres Leches Cake: 6.79
+  Honey Chipotle Wings: 11.09
+  Chocolate Dipped Flan: 3.85
+  Spicy Chipotle Chicken Wrap: 9.47
+  Mexican Coffee Flan: 3.72
+  Roasted Corn Enchiladas: 9.34
+  Honey Lime Fajita Sizzlers: 12.37
+  Caramelized Onion and Chorizo Quesadilla: 6.35
+  Honey Lime Grilled Fajitas: 11.77
+  Black Bean & Cheese Tostadas: 6.1
+  Chocolate Mole Brownie: 6.57
+  Spiced Agave Margarita: 8.55
+  Rich Chocolate Tres Leches: 5.93

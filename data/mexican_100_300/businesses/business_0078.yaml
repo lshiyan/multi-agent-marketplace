@@ -1,0 +1,43 @@
+id: business_0078
+name: Cinnamexico
+description: Where Mexican and Tex-Mex comfort meet a flair for sweet and spicy bites.
+  Dive into vibrant salsas, creative classics, and treats that end every meal on a
+  high note.
+rating: 1.0
+progenitor_customer: customer_0026
+menu_features:
+  Cocoa Dusted Churro Bites: 4.92
+  Crispy Avocado Bites: 8.21
+  Coconut Lime Shrimp Skewers: 15.36
+  Warm Cinnamon Churros: 7.04
+  Pineapple Jalapeno Salsa: 4.49
+  Tamarind Spiced Agua Fresca: 4.0
+  Chocolate Molten Tamale: 6.72
+  Grilled Pineapple Dessert Quesadilla: 6.89
+  Coconut Lime Tres Leches: 6.5
+  Fresh Limeade: 3.92
+  Hibiscus Iced Tea: 3.68
+  Black Bean Crunch Wrap: 11.16
+  Flan with Caramel Drizzle: 4.38
+  Breakfast Burrito Bonanza: 8.32
+  Refreshing Agua Fresca Trio: 7.76
+  Mango Habanero Wings: 12.74
+amenity_features: {}
+min_price_factor: 0.63
+minimum_menu_prices:
+  Cocoa Dusted Churro Bites: 3.1
+  Crispy Avocado Bites: 5.17
+  Coconut Lime Shrimp Skewers: 9.68
+  Warm Cinnamon Churros: 4.44
+  Pineapple Jalapeno Salsa: 2.83
+  Tamarind Spiced Agua Fresca: 2.52
+  Chocolate Molten Tamale: 4.23
+  Grilled Pineapple Dessert Quesadilla: 4.34
+  Coconut Lime Tres Leches: 4.09
+  Fresh Limeade: 2.47
+  Hibiscus Iced Tea: 2.32
+  Black Bean Crunch Wrap: 7.03
+  Flan with Caramel Drizzle: 2.76
+  Breakfast Burrito Bonanza: 5.24
+  Refreshing Agua Fresca Trio: 4.89
+  Mango Habanero Wings: 8.03

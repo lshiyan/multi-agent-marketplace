@@ -1,0 +1,41 @@
+id: business_0003
+name: Pico Pepper
+description: Experience a vibrant blend of traditional and modern Mexican flavors
+  at Pico Pepper. From zesty breakfast specialties to inventive classics with a twist,
+  our kitchen serves up a fiesta for every appetite.
+rating: 1.0
+progenitor_customer: customer_0001
+menu_features:
+  Avocado & Tomato Breakfast Tostadas: 9.71
+  Mexican Chocolate Milkshake: 6.46
+  Chocolate Mole Brownie: 5.35
+  Roasted Pumpkin Tamale: 7.46
+  Tamarind Ginger Cooler: 4.79
+  Breakfast Burrito Bowl: 6.47
+  Loaded Chorizo Nachos: 9.12
+  Street Corn Quesadilla: 11.54
+  Spiced Churro Bites: 6.54
+  Pineapple Tequila Chicken Skewers: 15.39
+  Ancho Chile BBQ Ribs: 24.47
+  Ranchero Eggs Benedict: 13.71
+  Beef Barbacoa Burrito Bowl: 11.84
+  Spicy Beef Chimichangas: 18.12
+  Grilled Pineapple & Shrimp Quesadillas: 15.26
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Avocado & Tomato Breakfast Tostadas: 7.48
+  Mexican Chocolate Milkshake: 4.97
+  Chocolate Mole Brownie: 4.12
+  Roasted Pumpkin Tamale: 5.74
+  Tamarind Ginger Cooler: 3.69
+  Breakfast Burrito Bowl: 4.98
+  Loaded Chorizo Nachos: 7.02
+  Street Corn Quesadilla: 8.89
+  Spiced Churro Bites: 5.04
+  Pineapple Tequila Chicken Skewers: 11.85
+  Ancho Chile BBQ Ribs: 18.84
+  Ranchero Eggs Benedict: 10.56
+  Beef Barbacoa Burrito Bowl: 9.12
+  Spicy Beef Chimichangas: 13.95
+  Grilled Pineapple & Shrimp Quesadillas: 11.75

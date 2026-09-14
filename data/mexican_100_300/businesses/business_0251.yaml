@@ -1,0 +1,41 @@
+id: business_0251
+name: La Mesa Fresca
+description: La Mesa Fresca serves vibrant Mexican and Tex-Mex classics in a festive,
+  inviting setting. Enjoy a fresh take on tradition with a menu full of bold flavors
+  and seasonal ingredients.
+rating: 1.0
+progenitor_customer: customer_0084
+menu_features:
+  Pork Carnitas Platter: 14.62
+  Classic Mojito with Mint: 9.01
+  Baja Fish Tacos: 11.13
+  Creamy Avocado Soup: 6.89
+  Chili-Lime Cauliflower Bites: 9.35
+  Sizzling Fajita Plate: 16.11
+  Classic Beef Barbacoa: 12.3
+  Tangy Tomato Salsa Soup: 5.56
+  "Cheesy Jalape\xF1o Quesadillas": 9.06
+  Smoky Lime Quinoa Salad: 11.01
+  Avocado Street Tacos: 12.49
+  Spicy Mango Margarita: 10.29
+  Hibiscus Iced Tea: 3.7
+  Hatch Green Chile Rice: 4.69
+  Smoky Chipotle Queso: 5.8
+amenity_features: {}
+min_price_factor: 0.76
+minimum_menu_prices:
+  Pork Carnitas Platter: 11.11
+  Classic Mojito with Mint: 6.85
+  Baja Fish Tacos: 8.46
+  Creamy Avocado Soup: 5.24
+  Chili-Lime Cauliflower Bites: 7.11
+  Sizzling Fajita Plate: 12.24
+  Classic Beef Barbacoa: 9.35
+  Tangy Tomato Salsa Soup: 4.23
+  "Cheesy Jalape\xF1o Quesadillas": 6.89
+  Smoky Lime Quinoa Salad: 8.37
+  Avocado Street Tacos: 9.49
+  Spicy Mango Margarita: 7.82
+  Hibiscus Iced Tea: 2.81
+  Hatch Green Chile Rice: 3.56
+  Smoky Chipotle Queso: 4.41

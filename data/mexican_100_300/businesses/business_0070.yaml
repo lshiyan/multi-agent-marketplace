@@ -1,0 +1,33 @@
+id: business_0070
+name: "Luna y Lim\xF3n Cantina"
+description: Experience a vibrant fusion of classic Mexican and Tex-Mex flavors with
+  refreshing twists in a lively, welcoming setting. Enjoy bold appetizers, creative
+  cocktails, and signature entrees crafted with fresh ingredients for every palate.
+rating: 1.0
+progenitor_customer: customer_0024
+menu_features:
+  Chili Con Queso Supreme: 7.47
+  Coconut Lime Margarita: 10.74
+  Crisp Jicama Slaw: 5.33
+  Tamale Trio Platter: 16.78
+  Vanilla Flan Delight: 5.04
+  Black Bean & Cheese Tostadas: 8.45
+  Pineapple Habanero Sake: 8.39
+  Black Bean and Corn Fiesta Salad: 10.08
+  Zesty Lime Shrimp Tostadas: 11.87
+  Mango Agua Fresca: 4.32
+  Mango Habanero Wings: 11.79
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Chili Con Queso Supreme: 4.86
+  Coconut Lime Margarita: 6.98
+  Crisp Jicama Slaw: 3.46
+  Tamale Trio Platter: 10.91
+  Vanilla Flan Delight: 3.28
+  Black Bean & Cheese Tostadas: 5.49
+  Pineapple Habanero Sake: 5.45
+  Black Bean and Corn Fiesta Salad: 6.55
+  Zesty Lime Shrimp Tostadas: 7.72
+  Mango Agua Fresca: 2.81
+  Mango Habanero Wings: 7.66

@@ -1,0 +1,35 @@
+id: business_0069
+name: Casa Viva Mexicana
+description: Discover vibrant Mexican and Tex-Mex flavors, from refreshing drinks
+  to creative tacos, hearty burritos, and delicious desserts. Warm hospitality and
+  colorful cuisine await you at Casa Viva Mexicana.
+rating: 1.0
+progenitor_customer: customer_0023
+menu_features:
+  Blueberry Jalapeno Lemonade: 3.9
+  Roasted Poblano and Cheese Empanadas: 8.04
+  Sunset Grilled Veggie Tacos: 10.98
+  Crispy Avocado Burrito: 12.26
+  Pumpkin Spice Flan: 5.45
+  Loaded Nacho Fiesta: 10.51
+  Black Bean Sweet Potato Burrito: 7.79
+  Ancho Chile Beef Chili: 12.88
+  Chipotle BBQ Tacos: 12.22
+  Chorizo and Egg Tacos: 7.12
+  Avocado Lime Quinoa Bowl: 9.95
+  Chili-Lime Cauliflower Bites: 8.52
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Blueberry Jalapeno Lemonade: 2.89
+  Roasted Poblano and Cheese Empanadas: 5.95
+  Sunset Grilled Veggie Tacos: 8.13
+  Crispy Avocado Burrito: 9.07
+  Pumpkin Spice Flan: 4.03
+  Loaded Nacho Fiesta: 7.78
+  Black Bean Sweet Potato Burrito: 5.76
+  Ancho Chile Beef Chili: 9.53
+  Chipotle BBQ Tacos: 9.04
+  Chorizo and Egg Tacos: 5.27
+  Avocado Lime Quinoa Bowl: 7.36
+  Chili-Lime Cauliflower Bites: 6.3

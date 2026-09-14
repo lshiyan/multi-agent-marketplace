@@ -1,0 +1,39 @@
+id: business_0052
+name: Molcajete Moderno
+description: Experience a vibrant take on Mexican and Tex-Mex classics, where bold
+  flavors meet fresh, inventive twists. From savory stuffed peppers to sweet plantain
+  creations, Molcajete Moderno promises a spirited and memorable dining adventure.
+rating: 1.0
+progenitor_customer: customer_0018
+menu_features:
+  Stuffed Chicken Poblano: 15.07
+  Pineapple Salsa Pork Tacos: 11.47
+  Pineapple Pico de Gallo Nachos: 11.81
+  Loaded Street Corn: 7.03
+  Chipotle Bourbon Carnitas: 14.28
+  Sweet Plantain Empanadas: 7.2
+  Chocolate Molten Tamale: 6.5
+  Smoky Chipotle Black Bean Soup: 8.14
+  Chipotle Chicken Enchiladas: 14.18
+  Blue Corn Tostada Salad: 11.04
+  Breakfast Burrito Bowl: 6.93
+  Black Bean Street Tacos: 9.13
+  Breakfast Tostada Stack: 10.42
+  Avocado Lime Enchiladas: 9.97
+amenity_features: {}
+min_price_factor: 0.64
+minimum_menu_prices:
+  Stuffed Chicken Poblano: 9.64
+  Pineapple Salsa Pork Tacos: 7.34
+  Pineapple Pico de Gallo Nachos: 7.56
+  Loaded Street Corn: 4.5
+  Chipotle Bourbon Carnitas: 9.14
+  Sweet Plantain Empanadas: 4.61
+  Chocolate Molten Tamale: 4.16
+  Smoky Chipotle Black Bean Soup: 5.21
+  Chipotle Chicken Enchiladas: 9.08
+  Blue Corn Tostada Salad: 7.07
+  Breakfast Burrito Bowl: 4.44
+  Black Bean Street Tacos: 5.84
+  Breakfast Tostada Stack: 6.67
+  Avocado Lime Enchiladas: 6.38

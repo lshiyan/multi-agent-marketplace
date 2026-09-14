@@ -1,0 +1,35 @@
+id: business_0201
+name: Empanada Begin
+description: Start your flavor journey with bold, inventive twists on Mexican and
+  Tex-Mex classics in a vibrant, welcoming space. From savory breakfasts to zesty,
+  creative street fare and sweet treats, every bite is a fresh experience.
+rating: 1.0
+progenitor_customer: customer_0067
+menu_features:
+  Spiced Pumpkin Empanadas: 5.91
+  Breakfast Chorizo Tostadas: 9.82
+  Chipotle BBQ Tacos: 11.19
+  Caramelized Onion and Chorizo Quesadilla: 8.78
+  Black Bean Street Tacos: 9.18
+  Chipotle Lime Chicken Salad: 11.37
+  Tamarind-Glazed Ribs: 16.22
+  Cactus Flower Iced Tea: 3.72
+  Breakfast Burrito Supreme: 9.55
+  Margarita Lime Pie: 5.57
+  Mango Habanero Wings: 15.32
+  Sweet Corn Tamale Cake: 9.42
+amenity_features: {}
+min_price_factor: 0.65
+minimum_menu_prices:
+  Spiced Pumpkin Empanadas: 3.84
+  Breakfast Chorizo Tostadas: 6.38
+  Chipotle BBQ Tacos: 7.27
+  Caramelized Onion and Chorizo Quesadilla: 5.71
+  Black Bean Street Tacos: 5.97
+  Chipotle Lime Chicken Salad: 7.39
+  Tamarind-Glazed Ribs: 10.54
+  Cactus Flower Iced Tea: 2.42
+  Breakfast Burrito Supreme: 6.21
+  Margarita Lime Pie: 3.62
+  Mango Habanero Wings: 9.96
+  Sweet Corn Tamale Cake: 6.12

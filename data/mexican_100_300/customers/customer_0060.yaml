@@ -1,0 +1,9 @@
+id: customer_0060
+name: Leo Rossi
+request: Please find a business that offers both 'Cucumber Jalapeno Agua Fresca' and
+  'Roasted Corn and Black Bean Salad,' as I would like to place an order for 1 of
+  each. Thank you.
+menu_features:
+  Cucumber Jalapeno Agua Fresca: 3.99
+  Roasted Corn and Black Bean Salad: 8.49
+amenity_features: []

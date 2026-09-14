@@ -1,0 +1,37 @@
+id: business_0193
+name: Zest & Ember Cantina
+description: Experience bold, modern Mexican and Tex-Mex flavors with a creative twist,
+  from crave-worthy small plates to colorful cocktails. Zest & Ember Cantina is where
+  vibrant ingredients and smoky spices come together for a deliciously memorable meal.
+rating: 1.0
+progenitor_customer: customer_0065
+menu_features:
+  Mango Habanero Wings: 10.83
+  Braised Beef Barbacoa Tacos: 13.39
+  Black Bean Stuffed Bell Peppers: 9.11
+  Spicy Chicken Tortilla Soup: 6.88
+  Blueberry Jalapeno Margarita: 12.09
+  Coconut Lime Margarita: 7.77
+  Frozen Strawberry Margarita: 10.9
+  Fresh Watermelon Aqua Fresca: 3.21
+  Spicy Chocolate Lava Cake: 7.35
+  Zesty Lime Grilled Shrimp: 12.01
+  Green Chile Pork Stew: 15.68
+  Stuffed Poblano Pepper Delight: 10.53
+  Avocado Lime Enchiladas: 12.31
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Mango Habanero Wings: 8.12
+  Braised Beef Barbacoa Tacos: 10.04
+  Black Bean Stuffed Bell Peppers: 6.83
+  Spicy Chicken Tortilla Soup: 5.16
+  Blueberry Jalapeno Margarita: 9.07
+  Coconut Lime Margarita: 5.83
+  Frozen Strawberry Margarita: 8.18
+  Fresh Watermelon Aqua Fresca: 2.41
+  Spicy Chocolate Lava Cake: 5.51
+  Zesty Lime Grilled Shrimp: 9.01
+  Green Chile Pork Stew: 11.76
+  Stuffed Poblano Pepper Delight: 7.9
+  Avocado Lime Enchiladas: 9.23

@@ -1,0 +1,41 @@
+id: business_0174
+name: Skewer Than Fiction
+description: Dive into bold Mexican and Tex-Mex flavors, from sizzling skewers to
+  crunchy, cocoa-dusted sweets and vibrant agua frescas. Each plate is a new delicious
+  chapter in modern comfort cuisine.
+rating: 1.0
+progenitor_customer: customer_0058
+menu_features:
+  Baja Fish Taco Plate: 15.94
+  Spiced Pumpkin Empanadas: 6.86
+  Roasted Poblano Soup: 8.24
+  Refreshing Agua Fresca Trio: 7.73
+  Cocoa Dusted Churro Bites: 4.87
+  Roasted Corn Enchiladas: 10.17
+  Ranchero Steak Fajitas: 21.28
+  Blue Corn Tortilla Chips: 5.07
+  Fresh Watermelon Aqua Fresca: 3.7
+  Black Bean Crunch Wrap: 9.46
+  Tamarind Spiced Agua Fresca: 4.19
+  Grilled Steak Quesadilla: 13.59
+  Blueberry Agave Agua Fresca: 5.51
+  Agave Lime Chicken Skewers: 13.72
+  Spicy Shrimp Fajitas: 16.12
+amenity_features: {}
+min_price_factor: 0.61
+minimum_menu_prices:
+  Baja Fish Taco Plate: 9.72
+  Spiced Pumpkin Empanadas: 4.18
+  Roasted Poblano Soup: 5.03
+  Refreshing Agua Fresca Trio: 4.72
+  Cocoa Dusted Churro Bites: 2.97
+  Roasted Corn Enchiladas: 6.2
+  Ranchero Steak Fajitas: 12.98
+  Blue Corn Tortilla Chips: 3.09
+  Fresh Watermelon Aqua Fresca: 2.26
+  Black Bean Crunch Wrap: 5.77
+  Tamarind Spiced Agua Fresca: 2.56
+  Grilled Steak Quesadilla: 8.29
+  Blueberry Agave Agua Fresca: 3.36
+  Agave Lime Chicken Skewers: 8.37
+  Spicy Shrimp Fajitas: 9.83

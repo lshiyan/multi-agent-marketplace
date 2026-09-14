@@ -1,0 +1,39 @@
+id: business_0275
+name: "Ma\xEDz the Limit"
+description: A vibrant spot where modern Mexican flavors meet creative Tex-Mex twists.
+  Enjoy mouthwatering tamales, zesty small plates, and refreshing drinks in a fun,
+  welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0092
+menu_features:
+  Mushroom & Cheese Tamales: 7.78
+  Hatch Green Chile Burger: 9.71
+  Sweet Corn Tamale Cake: 6.38
+  Chili-Lime Cauliflower Bites: 6.2
+  Grilled Pineapple Salmon: 15.66
+  Grilled Pineapple and Pork Tacos: 12.98
+  Blue Corn Enchilada Bake: 14.05
+  Chili Lime Margarita: 7.07
+  Hibiscus Iced Tea: 4.2
+  "Spicy Jalape\xF1o Limeade": 3.55
+  Avocado Lime Dip: 7.1
+  Loaded Chorizo Nachos: 10.36
+  Roasted Poblano Veggie Skillet: 9.95
+  Coconut Tres Leches: 7.35
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Mushroom & Cheese Tamales: 4.82
+  Hatch Green Chile Burger: 6.02
+  Sweet Corn Tamale Cake: 3.96
+  Chili-Lime Cauliflower Bites: 3.84
+  Grilled Pineapple Salmon: 9.71
+  Grilled Pineapple and Pork Tacos: 8.05
+  Blue Corn Enchilada Bake: 8.71
+  Chili Lime Margarita: 4.38
+  Hibiscus Iced Tea: 2.6
+  "Spicy Jalape\xF1o Limeade": 2.2
+  Avocado Lime Dip: 4.4
+  Loaded Chorizo Nachos: 6.42
+  Roasted Poblano Veggie Skillet: 6.17
+  Coconut Tres Leches: 4.56

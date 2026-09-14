@@ -1,0 +1,39 @@
+id: business_0156
+name: La Mesa del Poblano
+description: Experience vibrant Mexican and Tex-Mex cuisine in a warm, inviting setting.
+  Our menu features fresh flavors, signature salsas, and savory classics crafted with
+  a modern twist.
+rating: 1.0
+progenitor_customer: customer_0052
+menu_features:
+  Black Bean and Lime Soup: 7.31
+  Tequila Lime Chicken Wings: 11.24
+  Caramelized Onion and Goat Cheese Empanadas: 7.51
+  Salted Caramel Margarita: 8.25
+  Poblano Pepper Queso Dip: 7.11
+  Grilled Pineapple Dessert Quesadilla: 7.23
+  Sweet Plantain Empanadas: 7.11
+  Pineapple Habanero Salsa: 4.7
+  Tex-Mex Fajita Wrap: 11.46
+  Roasted Red Pepper Quesadilla: 11.38
+  "Cheesy Jalape\xF1o Quesadillas": 8.89
+  Roasted Poblano Quesadilla: 13.2
+  Black Bean and Corn Fiesta Salad: 10.95
+  Smoky Black Bean Enchiladas: 14.33
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Black Bean and Lime Soup: 5.99
+  Tequila Lime Chicken Wings: 9.22
+  Caramelized Onion and Goat Cheese Empanadas: 6.16
+  Salted Caramel Margarita: 6.76
+  Poblano Pepper Queso Dip: 5.83
+  Grilled Pineapple Dessert Quesadilla: 5.93
+  Sweet Plantain Empanadas: 5.83
+  Pineapple Habanero Salsa: 3.85
+  Tex-Mex Fajita Wrap: 9.4
+  Roasted Red Pepper Quesadilla: 9.33
+  "Cheesy Jalape\xF1o Quesadillas": 7.29
+  Roasted Poblano Quesadilla: 10.82
+  Black Bean and Corn Fiesta Salad: 8.98
+  Smoky Black Bean Enchiladas: 11.75

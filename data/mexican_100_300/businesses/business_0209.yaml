@@ -1,0 +1,37 @@
+id: business_0209
+name: Kernel & Quirk Cantina
+description: "Where bold flavors meet a playful spirit\u2014Kernel & Quirk Cantina\
+  \ serves up inventive Mexican and Tex-Mex fare, refreshing drinks, and decadent\
+  \ desserts in a lively, welcoming setting."
+rating: 1.0
+progenitor_customer: customer_0070
+menu_features:
+  Charred Corn & Cotija Nachos: 9.71
+  "Coconut Horchata Latt\xE9": 3.36
+  Spicy Pork Tamales: 8.08
+  Southwestern Quinoa Salad: 9.74
+  Spicy Chocolate Lava Cake: 8.11
+  Pineapple Pico de Gallo Salsa: 5.96
+  Cactus Jack Quesadilla: 10.9
+  Creamy Avocado Soup: 8.03
+  Shrimp Ceviche Bowl: 13.81
+  Frozen Mango Margarita: 10.19
+  Blueberry Agave Mojito: 9.13
+  Stuffed Avocado Delight: 8.0
+  Housemade Horchata: 3.14
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Charred Corn & Cotija Nachos: 7.57
+  "Coconut Horchata Latt\xE9": 2.62
+  Spicy Pork Tamales: 6.3
+  Southwestern Quinoa Salad: 7.6
+  Spicy Chocolate Lava Cake: 6.33
+  Pineapple Pico de Gallo Salsa: 4.65
+  Cactus Jack Quesadilla: 8.5
+  Creamy Avocado Soup: 6.26
+  Shrimp Ceviche Bowl: 10.77
+  Frozen Mango Margarita: 7.95
+  Blueberry Agave Mojito: 7.12
+  Stuffed Avocado Delight: 6.24
+  Housemade Horchata: 2.45

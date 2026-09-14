@@ -1,0 +1,10 @@
+id: customer_0023
+name: Amelia Thompson
+request: 'Could you please help me find a business where I can place an order for
+  the following items: 1 Ancho Chile Beef Chili and 1 Sunset Grilled Veggie Tacos?
+  It is important that the business offers both of these items as specified, as I
+  intend to purchase them. Thank you.'
+menu_features:
+  Ancho Chile Beef Chili: 12.49
+  Sunset Grilled Veggie Tacos: 11.49
+amenity_features: []

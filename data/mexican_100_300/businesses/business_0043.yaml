@@ -1,0 +1,39 @@
+id: business_0043
+name: Ember & Avocado
+description: Experience a fresh, modern take on Mexican and Tex-Mex favorites, where
+  vibrant flavors meet fire-roasted goodness. Gather with friends and unwind over
+  bold salads, sizzling skillets, and signature drinks in a lively, welcoming setting.
+rating: 1.0
+progenitor_customer: customer_0015
+menu_features:
+  Roasted Poblano and Cheese Empanadas: 10.06
+  Smoky Chipotle BBQ Nachos: 11.78
+  Roasted Corn and Avocado Salad: 9.78
+  Huevos Rancheros: 12.68
+  Creamy Queso Dip: 7.18
+  Fresh Lime Cilantro Rice: 2.62
+  Beef Fajita Skillet: 12.31
+  Spicy Avocado Smash Burger: 11.46
+  Mexican Coffee Flan: 6.5
+  Strawberry Jalapeno Lemonade: 3.93
+  Fresh Limeade: 3.45
+  Lime-Garlic Grilled Chicken: 13.5
+  Smoky Black Bean Tostadas: 10.55
+  Shrimp Ceviche Cups: 10.6
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Roasted Poblano and Cheese Empanadas: 7.54
+  Smoky Chipotle BBQ Nachos: 8.83
+  Roasted Corn and Avocado Salad: 7.33
+  Huevos Rancheros: 9.51
+  Creamy Queso Dip: 5.38
+  Fresh Lime Cilantro Rice: 1.97
+  Beef Fajita Skillet: 9.23
+  Spicy Avocado Smash Burger: 8.6
+  Mexican Coffee Flan: 4.88
+  Strawberry Jalapeno Lemonade: 2.95
+  Fresh Limeade: 2.59
+  Lime-Garlic Grilled Chicken: 10.12
+  Smoky Black Bean Tostadas: 7.91
+  Shrimp Ceviche Cups: 7.95

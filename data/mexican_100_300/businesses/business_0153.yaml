@@ -1,0 +1,39 @@
+id: business_0153
+name: "Cantina de Chipotle y Ma\xEDz"
+description: A warm and inviting gathering place serving vibrant Mexican and Tex-Mex
+  favorites, bursting with smoky, spicy, and fresh flavors. Enjoy creative street
+  eats, refreshing drinks, and a festive atmosphere for every occasion.
+rating: 1.0
+progenitor_customer: customer_0051
+menu_features:
+  Smoky Chipotle Queso: 7.08
+  Spicy Black Bean Tacos: 12.2
+  Chili Lime Street Corn: 5.34
+  Roasted Poblano Quesadilla: 12.94
+  Ancho Chili Braised Beef Enchiladas: 15.91
+  Blueberry Agave Agua Fresca: 4.38
+  Cilantro Lime Grilled Shrimp: 13.19
+  Chorizo and Egg Tacos: 7.92
+  Horchata Milkshake: 4.02
+  Crispy Tinga Chicken Tacos: 8.06
+  Sweet and Spicy Chicken Tostadas: 10.93
+  Mango Habanero Wings: 12.26
+  Spiced Churro Bites: 6.38
+  Tequila Lime Grilled Chicken: 12.37
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Smoky Chipotle Queso: 6.44
+  Spicy Black Bean Tacos: 11.1
+  Chili Lime Street Corn: 4.86
+  Roasted Poblano Quesadilla: 11.78
+  Ancho Chili Braised Beef Enchiladas: 14.48
+  Blueberry Agave Agua Fresca: 3.99
+  Cilantro Lime Grilled Shrimp: 12.0
+  Chorizo and Egg Tacos: 7.21
+  Horchata Milkshake: 3.66
+  Crispy Tinga Chicken Tacos: 7.33
+  Sweet and Spicy Chicken Tostadas: 9.95
+  Mango Habanero Wings: 11.16
+  Spiced Churro Bites: 5.81
+  Tequila Lime Grilled Chicken: 11.26

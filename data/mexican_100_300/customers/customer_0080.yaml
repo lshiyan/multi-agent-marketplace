@@ -1,0 +1,11 @@
+id: customer_0080
+name: David Anderson
+request: 'I would like assistance in finding a business that serves the following
+  exact menu items: 1 Fresh Mint Mojito, 1 Roasted Poblano Rellenos, and 1 Black Bean
+  Breakfast Burrito. These items are very important to me, and I intend to place an
+  order with such a business. Thank you for your help.'
+menu_features:
+  Fresh Mint Mojito: 8.49
+  Roasted Poblano Rellenos: 14.99
+  Black Bean Breakfast Burrito: 8.49
+amenity_features: []

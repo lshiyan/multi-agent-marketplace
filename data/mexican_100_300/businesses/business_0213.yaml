@@ -1,0 +1,35 @@
+id: business_0213
+name: Flan the Flames
+description: Ignite your cravings with a fiery fusion of Mexican and Tex-Mex classics,
+  all finished with a sweet flan flourish. From sizzling skillets to cool, creamy
+  desserts, Flan the Flames serves up bold flavors and unforgettable bites.
+rating: 1.0
+progenitor_customer: customer_0071
+menu_features:
+  Three-Cheese Queso Dip: 6.67
+  Ranchero Steak Fajitas: 15.99
+  Beef Fajita Skillet: 13.34
+  Classic Flan Delight: 5.67
+  Tequila Lime Flan: 7.84
+  Ancho Chile BBQ Ribs: 21.82
+  Classic Beef Enchiladas: 11.02
+  Crispy Fish Tacos: 11.81
+  Avocado Lime Salsa: 3.89
+  Ancho Chile Chicken Salad: 9.83
+  Three-Cheese Enchilada Stack: 16.19
+  Grilled Pineapple Dessert Quesadilla: 8.44
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Three-Cheese Queso Dip: 4.4
+  Ranchero Steak Fajitas: 10.55
+  Beef Fajita Skillet: 8.8
+  Classic Flan Delight: 3.74
+  Tequila Lime Flan: 5.17
+  Ancho Chile BBQ Ribs: 14.4
+  Classic Beef Enchiladas: 7.27
+  Crispy Fish Tacos: 7.79
+  Avocado Lime Salsa: 2.57
+  Ancho Chile Chicken Salad: 6.49
+  Three-Cheese Enchilada Stack: 10.69
+  Grilled Pineapple Dessert Quesadilla: 5.57

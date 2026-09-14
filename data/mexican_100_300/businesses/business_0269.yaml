@@ -1,0 +1,44 @@
+id: business_0269
+name: "Molten Ma\xEDz Kitchen"
+description: Experience the vibrant flavors of modern Mexican and Tex-Mex cuisine,
+  where zesty salsas, creative bowls, and decadent desserts come together in a fresh,
+  welcoming atmosphere. From brunch bites to sweet finales, every dish celebrates
+  the colorful heart of contemporary Mex cooking.
+rating: 1.0
+progenitor_customer: customer_0090
+menu_features:
+  Crispy Fish Baja Bowl: 12.87
+  Tequila Lime Flan: 7.03
+  Chorizo and Egg Tacos: 7.41
+  Breakfast Chorizo Torta: 9.28
+  Jalapeno Mango Margarita: 10.51
+  Chocolate Molten Tamale: 7.31
+  Sweet Corn Tamales: 10.67
+  Creamy Jalapeno Corn Fritters: 9.21
+  Three-Cheese Chile Rellenos: 12.45
+  Baja Fish Taco Bowl: 9.32
+  Chili Con Queso Supreme: 6.63
+  Pineapple Chipotle Salsa & Chips: 5.94
+  Garlic Lime Shrimp Salad: 14.29
+  Sweet Chili Lime Elote: 5.25
+  Caramelized Onion and Chorizo Quesadilla: 10.61
+  Avocado Lime Salsa: 5.12
+amenity_features: {}
+min_price_factor: 0.71
+minimum_menu_prices:
+  Crispy Fish Baja Bowl: 9.14
+  Tequila Lime Flan: 4.99
+  Chorizo and Egg Tacos: 5.26
+  Breakfast Chorizo Torta: 6.59
+  Jalapeno Mango Margarita: 7.46
+  Chocolate Molten Tamale: 5.19
+  Sweet Corn Tamales: 7.58
+  Creamy Jalapeno Corn Fritters: 6.54
+  Three-Cheese Chile Rellenos: 8.84
+  Baja Fish Taco Bowl: 6.62
+  Chili Con Queso Supreme: 4.71
+  Pineapple Chipotle Salsa & Chips: 4.22
+  Garlic Lime Shrimp Salad: 10.15
+  Sweet Chili Lime Elote: 3.73
+  Caramelized Onion and Chorizo Quesadilla: 7.53
+  Avocado Lime Salsa: 3.64

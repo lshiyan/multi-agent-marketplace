@@ -1,0 +1,45 @@
+id: business_0032
+name: Tres Tastes
+description: Experience a vibrant celebration of Mexican and Tex-Mex flavors at Tres
+  Tastes, where bold spices meet sweet delights. Enjoy savory classics, refreshing
+  drinks, and decadent desserts in a lively and welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0011
+menu_features:
+  Rich Chocolate Tres Leches: 6.86
+  Classic Beef Enchiladas: 11.85
+  Hibiscus Agua Fresca: 3.36
+  "Cheesy Jalape\xF1o Quesadillas": 10.72
+  Spicy Beef Enchilada Bake: 10.3
+  Raspberry Jalapeno Mojito: 7.31
+  Churro Ice Cream Sandwich: 6.15
+  Beef Fajita Skillet: 14.73
+  Coconut Flan Delight: 7.45
+  Pineapple Jalapeno Salsa: 5.17
+  Tropical Coconut Margarita: 9.28
+  Mesquite Grilled Steak Fajitas: 17.45
+  Loaded Nacho Fries: 10.4
+  Spicy Shrimp Ceviche: 11.45
+  Zesty Lime Grilled Chicken: 15.63
+  Fresh Lime Cilantro Rice: 2.4
+  Roasted Corn Enchiladas: 9.96
+amenity_features: {}
+min_price_factor: 0.84
+minimum_menu_prices:
+  Rich Chocolate Tres Leches: 5.76
+  Classic Beef Enchiladas: 9.95
+  Hibiscus Agua Fresca: 2.82
+  "Cheesy Jalape\xF1o Quesadillas": 9.0
+  Spicy Beef Enchilada Bake: 8.65
+  Raspberry Jalapeno Mojito: 6.14
+  Churro Ice Cream Sandwich: 5.17
+  Beef Fajita Skillet: 12.37
+  Coconut Flan Delight: 6.26
+  Pineapple Jalapeno Salsa: 4.34
+  Tropical Coconut Margarita: 7.8
+  Mesquite Grilled Steak Fajitas: 14.66
+  Loaded Nacho Fries: 8.74
+  Spicy Shrimp Ceviche: 9.62
+  Zesty Lime Grilled Chicken: 13.13
+  Fresh Lime Cilantro Rice: 2.02
+  Roasted Corn Enchiladas: 8.37

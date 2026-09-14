@@ -1,0 +1,38 @@
+id: business_0101
+name: Pepper & Lime Public House
+description: Vibrant flavors meet modern comfort at this lively eatery, where smoky
+  chiles, fresh avocados, and zesty citrus create a contemporary twist on Mexican
+  and Tex-Mex classics. Join us for bold bites, sweet treats, and signature sips in
+  a warm, inviting setting.
+rating: 1.0
+progenitor_customer: customer_0034
+menu_features:
+  "Cheesy Jalape\xF1o Quesadillas": 10.03
+  Chocolate Cinnamon Flan: 6.7
+  Ancho Chili Rubbed Steak: 17.92
+  Mesquite Grilled Steak Fajitas: 17.76
+  Roasted Corn and Avocado Salad: 8.49
+  Avocado Lime Enchiladas: 12.66
+  Hatch Green Chile Rice: 4.85
+  Creamy Poblano Corn Chowder: 8.66
+  Jalapeno Mango Margarita: 9.14
+  Black Bean & Cheese Tostadas: 10.14
+  Midnight Mole Enchiladas: 13.09
+  Choco-Chili Volcano Cake: 8.3
+  Spiced Churro Bites: 5.8
+amenity_features: {}
+min_price_factor: 0.8
+minimum_menu_prices:
+  "Cheesy Jalape\xF1o Quesadillas": 8.02
+  Chocolate Cinnamon Flan: 5.36
+  Ancho Chili Rubbed Steak: 14.34
+  Mesquite Grilled Steak Fajitas: 14.21
+  Roasted Corn and Avocado Salad: 6.79
+  Avocado Lime Enchiladas: 10.13
+  Hatch Green Chile Rice: 3.88
+  Creamy Poblano Corn Chowder: 6.93
+  Jalapeno Mango Margarita: 7.31
+  Black Bean & Cheese Tostadas: 8.11
+  Midnight Mole Enchiladas: 10.47
+  Choco-Chili Volcano Cake: 6.64
+  Spiced Churro Bites: 4.64

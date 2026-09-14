@@ -1,0 +1,10 @@
+id: customer_0006
+name: Daniel Lee
+request: 'Please help me find a restaurant where I can place an order for the following
+  items: 1 Beef Enchiladas Verdes and 1 Baja Shrimp Quesadilla. It is important that
+  the restaurant offers both these menu items. Once you find such a place, I intend
+  to place this order. Thank you!'
+menu_features:
+  Beef Enchiladas Verdes: 12.99
+  Baja Shrimp Quesadilla: 13.29
+amenity_features: []

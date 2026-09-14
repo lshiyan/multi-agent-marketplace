@@ -1,0 +1,39 @@
+id: business_0009
+name: "Casa Coraz\xF3n Mexicana"
+description: Step into a warm and vibrant space that celebrates the flavors of both
+  classic Mexican and Tex-Mex cuisine. From hearty enchiladas to sizzling breakfast
+  skillets and sweet churros, every dish is crafted with love and a touch of tradition.
+rating: 1.0
+progenitor_customer: customer_0003
+menu_features:
+  Mexican Hot Chocolate: 4.05
+  Loaded Nacho Fiesta: 10.08
+  Cactus Jack Quesadilla: 9.96
+  Chili Lime Watermelon Salad: 9.4
+  Tangy Tomato Salsa Soup: 9.94
+  Crispy Tortilla Breakfast Bowl: 12.11
+  Sweet Corn Tostadas: 7.14
+  Classic Beef Enchiladas: 11.5
+  Sizzling Steak Fajitas: 14.84
+  Spicy Black Bean Enchiladas: 12.43
+  Tex-Mex Breakfast Skillet: 6.55
+  Grilled Chipotle Chicken Burrito: 14.55
+  Breakfast Burrito Bowl: 7.22
+  Pumpkin Spice Churros: 4.85
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Mexican Hot Chocolate: 3.73
+  Loaded Nacho Fiesta: 9.27
+  Cactus Jack Quesadilla: 9.16
+  Chili Lime Watermelon Salad: 8.65
+  Tangy Tomato Salsa Soup: 9.14
+  Crispy Tortilla Breakfast Bowl: 11.14
+  Sweet Corn Tostadas: 6.57
+  Classic Beef Enchiladas: 10.58
+  Sizzling Steak Fajitas: 13.65
+  Spicy Black Bean Enchiladas: 11.44
+  Tex-Mex Breakfast Skillet: 6.03
+  Grilled Chipotle Chicken Burrito: 13.39
+  Breakfast Burrito Bowl: 6.64
+  Pumpkin Spice Churros: 4.46

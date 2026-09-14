@@ -1,0 +1,39 @@
+id: business_0030
+name: Pepper & Paloma
+description: Pepper & Paloma is a colorful spot where fresh flavors and classic Mexican
+  and Tex-Mex favorites meet creative twists. Enjoy a vibrant mix of grilled specialties,
+  zesty small plates, and refreshing drinks in a lively setting.
+rating: 1.0
+progenitor_customer: customer_0010
+menu_features:
+  Roasted Red Pepper Quesadilla: 7.21
+  Honey-Lime Grilled Shrimp: 14.52
+  Chocolate Sopapilla Bites: 5.39
+  Black Bean Crunch Wrap: 9.3
+  Spiked Horchata Cooler: 8.42
+  Cinnamon Sugar Churros: 6.59
+  Cucumber Jalapeno Agua Fresca: 3.12
+  Creamy Chipotle Pasta: 10.95
+  Tequila Lime Grilled Chicken: 14.88
+  Smoky Chipotle Queso: 5.74
+  Classic Beef Enchiladas: 9.82
+  Chili Lime Jicama Sticks: 5.84
+  Grilled Elote Corn: 5.44
+  Sea Breeze Ceviche: 12.45
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Roasted Red Pepper Quesadilla: 4.47
+  Honey-Lime Grilled Shrimp: 9.0
+  Chocolate Sopapilla Bites: 3.34
+  Black Bean Crunch Wrap: 5.77
+  Spiked Horchata Cooler: 5.22
+  Cinnamon Sugar Churros: 4.09
+  Cucumber Jalapeno Agua Fresca: 1.93
+  Creamy Chipotle Pasta: 6.79
+  Tequila Lime Grilled Chicken: 9.23
+  Smoky Chipotle Queso: 3.56
+  Classic Beef Enchiladas: 6.09
+  Chili Lime Jicama Sticks: 3.62
+  Grilled Elote Corn: 3.37
+  Sea Breeze Ceviche: 7.72

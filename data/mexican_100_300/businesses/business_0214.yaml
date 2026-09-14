@@ -1,0 +1,42 @@
+id: business_0214
+name: Sizzle & Sip Mex Kitchen
+description: Dive into bold, modern flavors at Sizzle & Sip Mex Kitchen, where vibrant
+  Tex-Mex classics and refreshing drinks create the perfect spot to unwind. Enjoy
+  a lively atmosphere and a menu filled with crave-worthy favorites and sweet, shareable
+  treats.
+rating: 1.0
+progenitor_customer: customer_0072
+menu_features:
+  Sizzling Chicken Fajitas: 14.52
+  Zesty Shrimp Quesadillas: 13.41
+  Spicy Chicken Chimichanga: 11.7
+  Caramel Corn Flan: 7.23
+  Ranchero Steak Fajitas: 9.09
+  Smoky Mezcal Mule: 9.4
+  Zesty Lime Shrimp Salad: 12.15
+  Huevos Rancheros: 10.66
+  Spiked Horchata Cooler: 8.44
+  Jalapeno Mango Margarita: 10.87
+  Cocoa Dusted Churro Bites: 5.21
+  Refreshing Agua Fresca Trio: 6.82
+  Tequila Lime Flan: 7.98
+  Bacon and Egg Tostada: 10.31
+  Fresh Watermelon Aqua Fresca: 4.15
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Sizzling Chicken Fajitas: 10.02
+  Zesty Shrimp Quesadillas: 9.25
+  Spicy Chicken Chimichanga: 8.07
+  Caramel Corn Flan: 4.99
+  Ranchero Steak Fajitas: 6.27
+  Smoky Mezcal Mule: 6.49
+  Zesty Lime Shrimp Salad: 8.38
+  Huevos Rancheros: 7.36
+  Spiked Horchata Cooler: 5.82
+  Jalapeno Mango Margarita: 7.5
+  Cocoa Dusted Churro Bites: 3.59
+  Refreshing Agua Fresca Trio: 4.71
+  Tequila Lime Flan: 5.51
+  Bacon and Egg Tostada: 7.11
+  Fresh Watermelon Aqua Fresca: 2.86

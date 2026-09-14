@@ -1,0 +1,39 @@
+id: business_0228
+name: "El Jard\xEDn de Sabores"
+description: Discover a vibrant fusion of classic Mexican and Tex-Mex flavors in a
+  lively, welcoming setting. From savory bites to refreshing sips and sweet finales,
+  every dish is crafted with fresh ingredients and bold spices.
+rating: 1.0
+progenitor_customer: customer_0076
+menu_features:
+  Margarita Lime Cheesecake: 5.74
+  Hibiscus Agua Fresca: 3.24
+  Three-Cheese Queso Dip: 7.59
+  Queso Fundido with Chorizo: 10.97
+  Caramelized Onion and Chorizo Quesadilla: 9.4
+  Spiced Pumpkin Empanadas: 5.29
+  Honey Lime Chicken Skewers: 11.14
+  Crispy Avocado Burrito: 12.35
+  "Blueberry Jalape\xF1o Margarita": 9.7
+  Blue Agave Tequila Sunrise: 7.58
+  Smoky Black Bean Tostadas: 8.41
+  Crispy Fish Baja Bowl: 11.03
+  Black Bean Chili Bowl: 8.61
+  Mini Street Tacos Platter: 9.43
+amenity_features: {}
+min_price_factor: 0.94
+minimum_menu_prices:
+  Margarita Lime Cheesecake: 5.4
+  Hibiscus Agua Fresca: 3.05
+  Three-Cheese Queso Dip: 7.13
+  Queso Fundido with Chorizo: 10.31
+  Caramelized Onion and Chorizo Quesadilla: 8.84
+  Spiced Pumpkin Empanadas: 4.97
+  Honey Lime Chicken Skewers: 10.47
+  Crispy Avocado Burrito: 11.61
+  "Blueberry Jalape\xF1o Margarita": 9.12
+  Blue Agave Tequila Sunrise: 7.13
+  Smoky Black Bean Tostadas: 7.91
+  Crispy Fish Baja Bowl: 10.37
+  Black Bean Chili Bowl: 8.09
+  Mini Street Tacos Platter: 8.86

@@ -1,0 +1,36 @@
+id: business_0249
+name: Cielo Dulce Cantina
+description: Experience a creative twist on classic Mexican and Tex-Mex flavors with
+  a vibrant menu of sweet and savory dishes, fresh salsas, and unique desserts. At
+  Cielo Dulce Cantina, bold tastes and bright ingredients come together in an inviting,
+  festive atmosphere.
+rating: 1.0
+progenitor_customer: customer_0083
+menu_features:
+  Chocolate Tamale Cake: 7.35
+  Crispy Avocado and Lime Tacos: 12.28
+  Avocado Lime Enchiladas: 9.59
+  Caramel Apple Empanadas: 6.25
+  Pineapple Jalapeno Salsa: 5.03
+  Margarita Lime Cheesecake: 7.62
+  Horchata Iced Latte: 4.55
+  Pumpkin Spice Flan: 6.47
+  Pineapple Agua Fresca: 3.49
+  Pineapple Salsa Nachos: 9.13
+  Chili Chocolate Lava Cake: 7.98
+  Blueberry Tequila Sunrise: 7.31
+amenity_features: {}
+min_price_factor: 0.92
+minimum_menu_prices:
+  Chocolate Tamale Cake: 6.76
+  Crispy Avocado and Lime Tacos: 11.3
+  Avocado Lime Enchiladas: 8.82
+  Caramel Apple Empanadas: 5.75
+  Pineapple Jalapeno Salsa: 4.63
+  Margarita Lime Cheesecake: 7.01
+  Horchata Iced Latte: 4.19
+  Pumpkin Spice Flan: 5.95
+  Pineapple Agua Fresca: 3.21
+  Pineapple Salsa Nachos: 8.4
+  Chili Chocolate Lava Cake: 7.34
+  Blueberry Tequila Sunrise: 6.73

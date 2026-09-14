@@ -1,0 +1,33 @@
+id: business_0300
+name: Avocado Aura
+description: Step into Avocado Aura, where vibrant flavors and fresh ingredients come
+  together for a uniquely delicious Mexican and Tex-Mex dining experience. Enjoy a
+  lively, relaxed atmosphere perfect for savoring creative dishes and refreshing drinks.
+rating: 1.0
+progenitor_customer: customer_0100
+menu_features:
+  Avocado Street Tacos: 9.42
+  Tequila Sunrise Smoothie: 8.64
+  Paloma Breeze Cocktail: 9.23
+  Fresh Limeade: 4.04
+  Stuffed Avocado Delight: 9.05
+  Chipotle Chicken Enchiladas: 16.85
+  Smoky Chipotle Queso: 7.76
+  Spicy Shrimp Fajitas: 15.36
+  Sizzling Fajita Fiesta: 12.27
+  Toasted Coconut Flan: 5.04
+  Creamy Queso Dip: 8.01
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Avocado Street Tacos: 6.31
+  Tequila Sunrise Smoothie: 5.79
+  Paloma Breeze Cocktail: 6.18
+  Fresh Limeade: 2.71
+  Stuffed Avocado Delight: 6.06
+  Chipotle Chicken Enchiladas: 11.29
+  Smoky Chipotle Queso: 5.2
+  Spicy Shrimp Fajitas: 10.29
+  Sizzling Fajita Fiesta: 8.22
+  Toasted Coconut Flan: 3.38
+  Creamy Queso Dip: 5.37

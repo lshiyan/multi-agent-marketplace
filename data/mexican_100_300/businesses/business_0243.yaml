@@ -1,0 +1,39 @@
+id: business_0243
+name: "Wrap and J\xEDcama Roll"
+description: "Get ready to roll with bold Tex-Mex flavors\u2014where zesty wraps,\
+  \ vibrant salads, irresistible dips, and sweet treats come together in a fiesta\
+  \ of fresh, fiery, and inventive cuisine."
+rating: 1.0
+progenitor_customer: customer_0081
+menu_features:
+  Spicy Chipotle Chicken Wings: 8.81
+  Three-Cheese Queso Dip: 5.25
+  Horchata Latte: 4.06
+  Fresh Lime Cilantro Rice: 2.76
+  Breakfast Chorizo Tostadas: 10.55
+  Mexican Street Corn Dip: 8.28
+  Spicy Chipotle Chicken Wrap: 8.83
+  Frozen Strawberry Margarita: 10.78
+  Horchata Cold Brew Coffee: 4.54
+  Cinnamon Churro Bites: 6.07
+  Jicama and Citrus Salad: 8.46
+  Spicy Chorizo Enchiladas: 13.61
+  Sizzling Pork Carnitas Bowl: 10.84
+  Tequila Lime Flan: 8.04
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Spicy Chipotle Chicken Wings: 8.02
+  Three-Cheese Queso Dip: 4.78
+  Horchata Latte: 3.69
+  Fresh Lime Cilantro Rice: 2.51
+  Breakfast Chorizo Tostadas: 9.6
+  Mexican Street Corn Dip: 7.53
+  Spicy Chipotle Chicken Wrap: 8.04
+  Frozen Strawberry Margarita: 9.81
+  Horchata Cold Brew Coffee: 4.13
+  Cinnamon Churro Bites: 5.52
+  Jicama and Citrus Salad: 7.7
+  Spicy Chorizo Enchiladas: 12.39
+  Sizzling Pork Carnitas Bowl: 9.86
+  Tequila Lime Flan: 7.32

@@ -1,0 +1,35 @@
+id: business_0277
+name: Sabores de la Calidez
+description: Experience the warmth and spice of Mexican and Tex-Mex favorites in a
+  vibrant, welcoming setting. Savor handcrafted classics and inventive twists paired
+  with refreshing, fruit-forward margaritas and delectable sweet treats.
+rating: 1.0
+progenitor_customer: customer_0093
+menu_features:
+  Warm Churro Bites: 4.84
+  Crispy Tinga Chicken Tacos: 8.52
+  Pumpkin Spice Flan: 5.89
+  Carnitas Plantain Burrito: 11.45
+  Frozen Strawberry Margarita: 8.08
+  Jalapeno Mango Margarita: 9.84
+  Spicy Chorizo Enchiladas: 12.9
+  Hatch Green Chile Stew: 11.74
+  "Blueberry Jalape\xF1o Margarita": 13.05
+  Jalapeno Cheddar Cornbread: 5.69
+  Zesty Lime Grilled Chicken: 18.24
+  Roasted Poblano Corn Chowder: 7.9
+amenity_features: {}
+min_price_factor: 0.82
+minimum_menu_prices:
+  Warm Churro Bites: 3.97
+  Crispy Tinga Chicken Tacos: 6.99
+  Pumpkin Spice Flan: 4.83
+  Carnitas Plantain Burrito: 9.39
+  Frozen Strawberry Margarita: 6.63
+  Jalapeno Mango Margarita: 8.07
+  Spicy Chorizo Enchiladas: 10.58
+  Hatch Green Chile Stew: 9.63
+  "Blueberry Jalape\xF1o Margarita": 10.7
+  Jalapeno Cheddar Cornbread: 4.67
+  Zesty Lime Grilled Chicken: 14.96
+  Roasted Poblano Corn Chowder: 6.48

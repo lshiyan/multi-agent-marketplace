@@ -1,0 +1,47 @@
+id: business_0258
+name: Lime & Ember Eatery
+description: Lime & Ember Eatery serves up vibrant Mexican and Tex-Mex flavors with
+  a creative twist, featuring bold salsas, sizzling specialties, and refreshing beverages.
+  Enjoy a welcoming space where classic traditions meet modern taste.
+rating: 1.0
+progenitor_customer: customer_0086
+menu_features:
+  Queso Fundido with Chorizo: 9.74
+  Cilantro Lime Rice Bowl: 11.53
+  Loaded Nachos Grande: 8.28
+  Chocolate Mole Chicken: 17.13
+  Spicy Pork Tamales: 12.0
+  Roasted Poblano Queso Dip: 6.81
+  Horchata Latte: 5.11
+  Roasted Poblano Corn Chowder: 7.21
+  Sunrise Breakfast Tacos: 8.03
+  Avocado Lime Quinoa Bowl: 11.95
+  Black Bean and Avocado Wrap: 11.69
+  Chipotle Chicken Enchiladas: 18.32
+  Hibiscus Agua Fresca: 3.52
+  Tamale Trio Sampler: 14.01
+  Chocolate Cinnamon Flan: 5.46
+  Ranchero Eggs Benedict: 10.94
+  Tequila Sunrise Smoothie: 8.24
+  Coconut Lime Flan: 5.76
+amenity_features: {}
+min_price_factor: 0.72
+minimum_menu_prices:
+  Queso Fundido with Chorizo: 7.01
+  Cilantro Lime Rice Bowl: 8.3
+  Loaded Nachos Grande: 5.96
+  Chocolate Mole Chicken: 12.33
+  Spicy Pork Tamales: 8.64
+  Roasted Poblano Queso Dip: 4.9
+  Horchata Latte: 3.68
+  Roasted Poblano Corn Chowder: 5.19
+  Sunrise Breakfast Tacos: 5.78
+  Avocado Lime Quinoa Bowl: 8.6
+  Black Bean and Avocado Wrap: 8.42
+  Chipotle Chicken Enchiladas: 13.19
+  Hibiscus Agua Fresca: 2.53
+  Tamale Trio Sampler: 10.09
+  Chocolate Cinnamon Flan: 3.93
+  Ranchero Eggs Benedict: 7.88
+  Tequila Sunrise Smoothie: 5.93
+  Coconut Lime Flan: 4.15

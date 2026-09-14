@@ -1,0 +1,42 @@
+id: business_0039
+name: "Cielo & Ma\xEDz"
+description: Experience vibrant Mexican and Tex-Mex flavors with creative spins on
+  traditional favorites, served in a fresh and welcoming atmosphere. From smoky enchiladas
+  to unique agua frescas and indulgent desserts, every dish is crafted to delight
+  your senses.
+rating: 1.0
+progenitor_customer: customer_0013
+menu_features:
+  Fiesta Street Corn: 5.31
+  Breakfast Tostada Stack: 9.29
+  Chocolate Cinnamon Flan: 6.53
+  Smoky Chipotle Steak Fajitas: 17.37
+  Blueberry Agave Agua Fresca: 4.93
+  Loaded Nacho Fiesta: 10.57
+  Mango Habanero Salsa: 5.25
+  Classic Lime Margarita: 10.34
+  Chipotle Lime Shrimp Tacos: 10.32
+  Smoky Ancho Chicken Enchiladas: 14.63
+  Spicy Chocolate Lava Cake: 9.07
+  Blue Corn Tortilla Soup: 7.21
+  Breakfast Chorizo Tostadas: 9.62
+  Smoky Black Bean Enchiladas: 11.97
+  Fresh Watermelon Aqua Fresca: 3.8
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Fiesta Street Corn: 4.09
+  Breakfast Tostada Stack: 7.15
+  Chocolate Cinnamon Flan: 5.03
+  Smoky Chipotle Steak Fajitas: 13.37
+  Blueberry Agave Agua Fresca: 3.8
+  Loaded Nacho Fiesta: 8.14
+  Mango Habanero Salsa: 4.04
+  Classic Lime Margarita: 7.96
+  Chipotle Lime Shrimp Tacos: 7.95
+  Smoky Ancho Chicken Enchiladas: 11.27
+  Spicy Chocolate Lava Cake: 6.98
+  Blue Corn Tortilla Soup: 5.55
+  Breakfast Chorizo Tostadas: 7.41
+  Smoky Black Bean Enchiladas: 9.22
+  Fresh Watermelon Aqua Fresca: 2.93

@@ -1,0 +1,43 @@
+id: business_0225
+name: Shrimp & Sizzle Cantina
+description: Dive into bold Tex-Mex and Mexican flavors with modern flair at Shrimp
+  & Sizzle Cantina. Savor signature tacos, vibrant salads, inventive cocktails, and
+  zesty appetizers in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0075
+menu_features:
+  Chipotle Lime Shrimp Tacos: 16.11
+  Zesty Lime Shrimp Salad: 11.69
+  Vanilla Almond Horchata: 3.2
+  Passion Fruit Mojito: 8.76
+  Creamy Chipotle Pasta: 12.33
+  Honey-Lime Grilled Shrimp: 16.7
+  Creamy Poblano Corn Chowder: 9.54
+  Al Pastor Pork Tacos: 11.82
+  Honey Chipotle Wings: 12.29
+  Pineapple Pico de Gallo Salsa: 5.79
+  Spiced Agave Margarita: 9.97
+  Blue Corn Tostada Salad: 9.11
+  Chili Lime Street Corn: 6.75
+  Frozen Mango Margarita: 8.19
+  Hatch Green Chile Stew: 12.55
+  Spicy Shrimp Nacho Platter: 10.86
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Chipotle Lime Shrimp Tacos: 12.4
+  Zesty Lime Shrimp Salad: 9.0
+  Vanilla Almond Horchata: 2.46
+  Passion Fruit Mojito: 6.75
+  Creamy Chipotle Pasta: 9.49
+  Honey-Lime Grilled Shrimp: 12.86
+  Creamy Poblano Corn Chowder: 7.35
+  Al Pastor Pork Tacos: 9.1
+  Honey Chipotle Wings: 9.46
+  Pineapple Pico de Gallo Salsa: 4.46
+  Spiced Agave Margarita: 7.68
+  Blue Corn Tostada Salad: 7.01
+  Chili Lime Street Corn: 5.2
+  Frozen Mango Margarita: 6.31
+  Hatch Green Chile Stew: 9.66
+  Spicy Shrimp Nacho Platter: 8.36

@@ -1,0 +1,39 @@
+id: business_0164
+name: La Brisa de Fuego
+description: Experience vibrant Mexican and Tex-Mex flavors in an inviting atmosphere,
+  where zesty spices and bright citrus notes meet fresh, creative dishes. Perfect
+  for those seeking a lively meal with classic favorites and delicious modern touches.
+rating: 1.0
+progenitor_customer: customer_0055
+menu_features:
+  Chili Lime Skirt Steak: 19.67
+  Mexican Chocolate Flan: 5.64
+  Chipotle Lime Cauliflower Tacos: 11.22
+  Passionfruit Agua Fresca: 3.28
+  Savory Chorizo Street Tacos: 8.98
+  Chipotle Lime Shrimp Skewers: 18.02
+  Street Corn Quesadilla: 10.39
+  Zesty Lime Chicken Enchiladas: 14.87
+  Carne Asada Fajitas: 12.34
+  Pineapple Habanero Sake: 10.13
+  Ancho Chili Spiced Ribs: 16.09
+  Southwest Chopped Salad: 9.28
+  Caramelized Onion and Chorizo Quesadilla: 7.54
+  Stuffed Poblano Peppers: 13.77
+amenity_features: {}
+min_price_factor: 0.79
+minimum_menu_prices:
+  Chili Lime Skirt Steak: 15.54
+  Mexican Chocolate Flan: 4.46
+  Chipotle Lime Cauliflower Tacos: 8.86
+  Passionfruit Agua Fresca: 2.59
+  Savory Chorizo Street Tacos: 7.09
+  Chipotle Lime Shrimp Skewers: 14.24
+  Street Corn Quesadilla: 8.21
+  Zesty Lime Chicken Enchiladas: 11.75
+  Carne Asada Fajitas: 9.75
+  Pineapple Habanero Sake: 8.0
+  Ancho Chili Spiced Ribs: 12.71
+  Southwest Chopped Salad: 7.33
+  Caramelized Onion and Chorizo Quesadilla: 5.96
+  Stuffed Poblano Peppers: 10.88

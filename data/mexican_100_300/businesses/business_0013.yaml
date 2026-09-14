@@ -1,0 +1,39 @@
+id: business_0013
+name: Savor Mexicano
+description: Savor Mexicano brings a contemporary twist to classic Mexican and Tex-Mex
+  flavors, featuring creative bites, bold beverages, and inventive desserts. Gather
+  with friends and enjoy our vibrant, flavor-packed take on your favorites.
+rating: 1.0
+progenitor_customer: customer_0005
+menu_features:
+  Carne Asada Nachos: 12.19
+  Crispy Chicken Tostada Bowls: 14.9
+  Pineapple Habanero Sake: 7.87
+  Smoky Chipotle BBQ Nachos: 10.27
+  Loaded Street Corn: 7.92
+  Ranchero Eggs Benedict: 9.38
+  Horchata Cold Brew Coffee: 6.15
+  Pumpkin Spice Flan: 6.51
+  Coffee Cinnamon Mexican Mocha: 4.1
+  "Strawberry Jalape\xF1o Mocktail": 6.14
+  Black Bean & Corn Queso Dip: 7.37
+  Loaded Nacho Platter: 10.72
+  Sweet Potato and Black Bean Tacos: 11.26
+  Chipotle Lime Shrimp Skewers: 15.63
+amenity_features: {}
+min_price_factor: 0.69
+minimum_menu_prices:
+  Carne Asada Nachos: 8.41
+  Crispy Chicken Tostada Bowls: 10.28
+  Pineapple Habanero Sake: 5.43
+  Smoky Chipotle BBQ Nachos: 7.09
+  Loaded Street Corn: 5.46
+  Ranchero Eggs Benedict: 6.47
+  Horchata Cold Brew Coffee: 4.24
+  Pumpkin Spice Flan: 4.49
+  Coffee Cinnamon Mexican Mocha: 2.83
+  "Strawberry Jalape\xF1o Mocktail": 4.24
+  Black Bean & Corn Queso Dip: 5.09
+  Loaded Nacho Platter: 7.4
+  Sweet Potato and Black Bean Tacos: 7.77
+  Chipotle Lime Shrimp Skewers: 10.78

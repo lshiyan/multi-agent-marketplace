@@ -1,0 +1,33 @@
+id: business_0047
+name: Sabor Grillhouse
+description: Experience bold Mexican and Tex-Mex flavors at Sabor Grillhouse, where
+  smoky grilled favorites and vibrant dishes meet in a lively, modern atmosphere.
+  Enjoy creative twists on classic fare and signature cocktails inspired by tradition.
+rating: 1.0
+progenitor_customer: customer_0016
+menu_features:
+  Mesquite Grilled Steak Fajitas: 13.53
+  Adobo Pork Sliders: 10.94
+  Red Chili Braised Beef Brisket: 16.4
+  Garlic Lime Shrimp Salad: 15.38
+  Stuffed Chicken Poblano: 14.35
+  Spicy Beef Enchilada Bake: 9.43
+  Hatch Green Chile Stew: 13.14
+  Roasted Poblano Queso Dip: 6.73
+  Hatch Chile Queso Dip: 9.51
+  Molten Queso Fundido: 9.53
+  Pineapple Jalapeno Margarita: 9.22
+amenity_features: {}
+min_price_factor: 0.62
+minimum_menu_prices:
+  Mesquite Grilled Steak Fajitas: 8.39
+  Adobo Pork Sliders: 6.78
+  Red Chili Braised Beef Brisket: 10.17
+  Garlic Lime Shrimp Salad: 9.54
+  Stuffed Chicken Poblano: 8.9
+  Spicy Beef Enchilada Bake: 5.85
+  Hatch Green Chile Stew: 8.15
+  Roasted Poblano Queso Dip: 4.17
+  Hatch Chile Queso Dip: 5.9
+  Molten Queso Fundido: 5.91
+  Pineapple Jalapeno Margarita: 5.72

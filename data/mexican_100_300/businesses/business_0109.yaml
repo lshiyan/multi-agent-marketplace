@@ -1,0 +1,35 @@
+id: business_0109
+name: Sizzle & Citrus
+description: Experience bold Tex-Mex and Mexican flavors with sizzling plates, vibrant
+  citrus touches, and inventive cocktails. A lively spot to savor hearty breakfasts,
+  savory mains, and sweet twists on classic desserts.
+rating: 1.0
+progenitor_customer: customer_0037
+menu_features:
+  Caramelized Onion and Chorizo Quesadilla: 8.7
+  Spicy Pork Tamales: 11.52
+  Shrimp and Avocado Ceviche: 14.8
+  Sizzling Fajita Skillet: 12.32
+  Green Chile Cheesesteak: 12.2
+  Classic Lime Margarita: 8.92
+  Citrus Marinated Carne Asada: 15.13
+  Tex-Mex Big Breakfast Bowl: 11.87
+  Caramel Apple Empanadas: 6.97
+  Strawberry Jalapeno Lemonade: 4.67
+  Sweet Corn Tamale Bites: 7.12
+  Frozen Strawberry Margarita: 8.7
+amenity_features: {}
+min_price_factor: 0.93
+minimum_menu_prices:
+  Caramelized Onion and Chorizo Quesadilla: 8.09
+  Spicy Pork Tamales: 10.71
+  Shrimp and Avocado Ceviche: 13.76
+  Sizzling Fajita Skillet: 11.46
+  Green Chile Cheesesteak: 11.35
+  Classic Lime Margarita: 8.3
+  Citrus Marinated Carne Asada: 14.07
+  Tex-Mex Big Breakfast Bowl: 11.04
+  Caramel Apple Empanadas: 6.48
+  Strawberry Jalapeno Lemonade: 4.34
+  Sweet Corn Tamale Bites: 6.62
+  Frozen Strawberry Margarita: 8.09

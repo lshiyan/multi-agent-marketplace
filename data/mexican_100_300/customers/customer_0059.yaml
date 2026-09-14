@@ -1,0 +1,11 @@
+id: customer_0059
+name: Joshua Singh
+request: 'I am looking to place an order with a business that can provide the following
+  specific menu items: 1 Carne Asada Fajitas, 1 Spicy Avocado Burger, and 1 Chipotle
+  Lime Cauliflower Tacos. Please find a business that serves all these items so that
+  I can proceed with my order. Thank you!'
+menu_features:
+  Carne Asada Fajitas: 14.99
+  Spicy Avocado Burger: 12.99
+  Chipotle Lime Cauliflower Tacos: 10.99
+amenity_features: []

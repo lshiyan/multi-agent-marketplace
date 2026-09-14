@@ -1,0 +1,35 @@
+id: business_0063
+name: Huevos Your Own Adventure
+description: Embark on a bold and flavorful journey through vibrant Mexican and Tex-Mex
+  classics, from zesty breakfast delights to festive feasts full of fresh twists.
+  Sip, savor, and spice up your day in a playful, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0021
+menu_features:
+  Carnitas Breakfast Burrito: 11.56
+  Blueberry Jalapeno Lemonade: 4.07
+  Lime-Garlic Grilled Chicken: 13.9
+  Loaded Nacho Fiesta: 12.34
+  Coconut Lime Tres Leches: 5.91
+  Black Bean and Corn Fiesta Salad: 9.22
+  Avocado Lime Salsa: 5.23
+  Ancho Chile BBQ Ribs: 17.54
+  Chili Lime Street Corn: 5.1
+  Roasted Pepper Queso Dip: 6.37
+  Rich Chocolate Tres Leches: 8.29
+  Black Bean Chili Bowl: 8.94
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Carnitas Breakfast Burrito: 7.63
+  Blueberry Jalapeno Lemonade: 2.69
+  Lime-Garlic Grilled Chicken: 9.17
+  Loaded Nacho Fiesta: 8.14
+  Coconut Lime Tres Leches: 3.9
+  Black Bean and Corn Fiesta Salad: 6.09
+  Avocado Lime Salsa: 3.45
+  Ancho Chile BBQ Ribs: 11.58
+  Chili Lime Street Corn: 3.37
+  Roasted Pepper Queso Dip: 4.2
+  Rich Chocolate Tres Leches: 5.47
+  Black Bean Chili Bowl: 5.9

@@ -1,0 +1,43 @@
+id: business_0066
+name: Masa Modern
+description: Discover vibrant Tex-Mex and Mexican-inspired fare in a fresh, modern
+  setting. Enjoy bold flavors, creative twists on classics, and house-made treats
+  from our kitchen and bar.
+rating: 1.0
+progenitor_customer: customer_0022
+menu_features:
+  Stuffed Avocado Delight: 7.82
+  Black Bean & Cheese Enchiladas: 12.36
+  Roasted Pecan Flan: 4.85
+  Caramel Apple Empanadas: 6.45
+  Ranchero Steak Fajitas: 17.68
+  Chipotle Bean Burrito: 8.31
+  Roasted Poblano and Cheese Empanadas: 8.78
+  Cinnamon Sugar Churro Sticks: 4.89
+  Coconut Flan Delight: 7.9
+  Hibiscus Iced Tea: 3.53
+  Pineapple Pico de Gallo Nachos: 13.77
+  Coconut Lime Margarita: 11.29
+  Fajita Veggie Burrito Bowl: 13.91
+  Crispy Avocado Burrito: 11.83
+  Spicy Street Corn: 6.09
+  Roasted Poblano Queso Dip: 5.88
+amenity_features: {}
+min_price_factor: 0.68
+minimum_menu_prices:
+  Stuffed Avocado Delight: 5.32
+  Black Bean & Cheese Enchiladas: 8.4
+  Roasted Pecan Flan: 3.3
+  Caramel Apple Empanadas: 4.39
+  Ranchero Steak Fajitas: 12.02
+  Chipotle Bean Burrito: 5.65
+  Roasted Poblano and Cheese Empanadas: 5.97
+  Cinnamon Sugar Churro Sticks: 3.33
+  Coconut Flan Delight: 5.37
+  Hibiscus Iced Tea: 2.4
+  Pineapple Pico de Gallo Nachos: 9.36
+  Coconut Lime Margarita: 7.68
+  Fajita Veggie Burrito Bowl: 9.46
+  Crispy Avocado Burrito: 8.04
+  Spicy Street Corn: 4.14
+  Roasted Poblano Queso Dip: 4.0

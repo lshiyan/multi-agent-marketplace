@@ -1,0 +1,41 @@
+id: business_0204
+name: Sunrise & Spice
+description: Wake up your senses at Sunrise & Spice, where vibrant Mexican and Tex-Mex
+  flavors meet fresh mornings and zesty evenings. Enjoy creative breakfasts, savory
+  tacos, fresh salads, and indulgent desserts in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0068
+menu_features:
+  Sunrise Breakfast Tacos: 9.15
+  Al Pastor Quesadilla: 10.97
+  Crispy Fish Street Tacos: 14.67
+  Chipotle Lime Shrimp Skewers: 13.26
+  Avocado Lime Cheesecake: 6.73
+  Breakfast Burrito Bowl: 8.77
+  Warm Churro Bites: 6.07
+  Blueberry Jalapeno Margarita: 11.86
+  Chipotle Chicken Burrito Bowl: 13.6
+  Horchata Iced Latte: 4.46
+  Breakfast Chorizo Tostadas: 9.87
+  Chipotle Lime Chicken Salad: 9.47
+  Chocolate Mole Brownie: 6.7
+  Three-Cheese Chile Rellenos: 14.39
+  Spicy Mango Margarita: 8.32
+amenity_features: {}
+min_price_factor: 0.67
+minimum_menu_prices:
+  Sunrise Breakfast Tacos: 6.13
+  Al Pastor Quesadilla: 7.35
+  Crispy Fish Street Tacos: 9.83
+  Chipotle Lime Shrimp Skewers: 8.88
+  Avocado Lime Cheesecake: 4.51
+  Breakfast Burrito Bowl: 5.88
+  Warm Churro Bites: 4.07
+  Blueberry Jalapeno Margarita: 7.95
+  Chipotle Chicken Burrito Bowl: 9.11
+  Horchata Iced Latte: 2.99
+  Breakfast Chorizo Tostadas: 6.61
+  Chipotle Lime Chicken Salad: 6.34
+  Chocolate Mole Brownie: 4.49
+  Three-Cheese Chile Rellenos: 9.64
+  Spicy Mango Margarita: 5.57

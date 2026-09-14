@@ -1,0 +1,41 @@
+id: business_0087
+name: "Margarita & Ma\xEDz"
+description: "Dive into vibrant flavors at Margarita & Ma\xEDz, where refreshing cocktails\
+  \ and bold, contemporary Mexican fare are served with a creative twist. Experience\
+  \ a lively atmosphere and a menu full of fresh, colorful bites and classic comforts."
+rating: 1.0
+progenitor_customer: customer_0029
+menu_features:
+  Spicy Cucumber Margarita: 9.96
+  Chili Lime Jicama Sticks: 7.24
+  Blue Corn Tostada Salad: 10.84
+  Sizzling Steak Fajitas: 15.35
+  Avocado Lime Empanadas: 9.11
+  Pumpkin Spice Flan: 5.58
+  Jalapeno Mango Margarita: 8.9
+  Coconut Flan Delight: 9.03
+  Street Style Quesadillas: 7.09
+  Vanilla Cinnamon Horchata: 3.74
+  Chili Lime Watermelon Salad: 8.58
+  Ancho Chili Chocolate Cake: 6.74
+  Fire Roasted Salsa Sampler: 5.51
+  Crispy Avocado Burrito: 12.45
+  Spicy Beef Empanadas: 8.21
+amenity_features: {}
+min_price_factor: 0.74
+minimum_menu_prices:
+  Spicy Cucumber Margarita: 7.37
+  Chili Lime Jicama Sticks: 5.36
+  Blue Corn Tostada Salad: 8.02
+  Sizzling Steak Fajitas: 11.36
+  Avocado Lime Empanadas: 6.74
+  Pumpkin Spice Flan: 4.13
+  Jalapeno Mango Margarita: 6.59
+  Coconut Flan Delight: 6.68
+  Street Style Quesadillas: 5.25
+  Vanilla Cinnamon Horchata: 2.77
+  Chili Lime Watermelon Salad: 6.35
+  Ancho Chili Chocolate Cake: 4.99
+  Fire Roasted Salsa Sampler: 4.08
+  Crispy Avocado Burrito: 9.21
+  Spicy Beef Empanadas: 6.08

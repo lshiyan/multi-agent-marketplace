@@ -1,0 +1,33 @@
+id: business_0020
+name: Pepper Pine Cantina
+description: Experience a fresh twist on classic Mexican and Tex-Mex flavors at Pepper
+  Pine Cantina. Enjoy vibrant salsas, sizzling plates, and creative combinations inspired
+  by the bold tastes of the Southwest.
+rating: 1.0
+progenitor_customer: customer_0007
+menu_features:
+  Black Bean and Cilantro Rice: 3.45
+  Grilled Pineapple & Shrimp Quesadillas: 14.85
+  Pineapple Jalapeno Salsa: 3.89
+  "Cheesy Jalape\xF1o Queso Dip": 6.65
+  Loaded Nachos Grande: 11.39
+  Veggie Fajita Platter: 12.53
+  Avocado Lime Salsa: 5.52
+  Chili Lime Jicama Sticks: 7.17
+  Sizzling Fajita Plate: 13.5
+  Savory Carne Asada Burrito: 13.56
+  Ancho Chile BBQ Ribs: 16.62
+amenity_features: {}
+min_price_factor: 0.85
+minimum_menu_prices:
+  Black Bean and Cilantro Rice: 2.93
+  Grilled Pineapple & Shrimp Quesadillas: 12.62
+  Pineapple Jalapeno Salsa: 3.31
+  "Cheesy Jalape\xF1o Queso Dip": 5.65
+  Loaded Nachos Grande: 9.68
+  Veggie Fajita Platter: 10.65
+  Avocado Lime Salsa: 4.69
+  Chili Lime Jicama Sticks: 6.09
+  Sizzling Fajita Plate: 11.47
+  Savory Carne Asada Burrito: 11.53
+  Ancho Chile BBQ Ribs: 14.13

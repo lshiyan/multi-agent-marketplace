@@ -1,0 +1,45 @@
+id: business_0259
+name: La Parrilla de Sabores
+description: Experience vibrant Tex-Mex and Mexican flavors at La Parrilla de Sabores,
+  where bold spices meet fresh ingredients. Enjoy a lively atmosphere and a creative
+  menu full of sizzling favorites, refreshing cocktails, and delicious comfort classics.
+rating: 1.0
+progenitor_customer: customer_0087
+menu_features:
+  Flamin' Skillet Fajitas: 20.56
+  Blueberry Agave Mojito: 10.74
+  Chipotle Bean Burrito: 8.26
+  Fiesta Street Corn: 5.83
+  Mushroom & Cheese Tamales: 9.07
+  Lime-Cilantro Quinoa Salad: 8.08
+  Blueberry Jalapeno Margarita: 12.63
+  Verde Chicken Enchiladas: 12.86
+  Chorizo Breakfast Tacos: 11.06
+  Classic Carne Asada Burrito: 12.67
+  Blueberry Jalapeno Lemonade: 3.84
+  Spicy Black Bean Tacos: 10.71
+  Chili Lime Skirt Steak: 22.12
+  Chili Lime Jicama Sticks: 6.77
+  Classic Horchata Delight: 3.32
+  Frozen Strawberry Margarita: 8.49
+  Sizzling Fajita Fiesta: 15.12
+amenity_features: {}
+min_price_factor: 0.78
+minimum_menu_prices:
+  Flamin' Skillet Fajitas: 16.04
+  Blueberry Agave Mojito: 8.38
+  Chipotle Bean Burrito: 6.44
+  Fiesta Street Corn: 4.55
+  Mushroom & Cheese Tamales: 7.07
+  Lime-Cilantro Quinoa Salad: 6.3
+  Blueberry Jalapeno Margarita: 9.85
+  Verde Chicken Enchiladas: 10.03
+  Chorizo Breakfast Tacos: 8.63
+  Classic Carne Asada Burrito: 9.88
+  Blueberry Jalapeno Lemonade: 3.0
+  Spicy Black Bean Tacos: 8.35
+  Chili Lime Skirt Steak: 17.25
+  Chili Lime Jicama Sticks: 5.28
+  Classic Horchata Delight: 2.59
+  Frozen Strawberry Margarita: 6.62
+  Sizzling Fajita Fiesta: 11.79

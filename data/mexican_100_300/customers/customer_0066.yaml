@@ -1,0 +1,12 @@
+id: customer_0066
+name: Amelia Wright
+request: 'I am looking for a business that can fulfill an order consisting of the
+  following specific menu items: 1 Avocado Lime Salad, 1 Zesty Shrimp Ceviche, and
+  1 Tamale Trio Sampler. It is important that the business can provide all these items.
+  Once you locate such a business, please proceed to place the order. Thank you for
+  your assistance.'
+menu_features:
+  Avocado Lime Salad: 8.79
+  Zesty Shrimp Ceviche: 12.99
+  Tamale Trio Sampler: 11.99
+amenity_features: []

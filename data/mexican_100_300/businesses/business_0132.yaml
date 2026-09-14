@@ -1,0 +1,37 @@
+id: business_0132
+name: Casa Tamarindo Grill
+description: Experience vibrant Mexican and Tex-Mex flavors in a warm, welcoming setting.
+  Enjoy our savory grilled dishes, zesty appetizers, and refreshing house-made drinks
+  and desserts.
+rating: 1.0
+progenitor_customer: customer_0044
+menu_features:
+  Tamarind Spiced Agua Fresca: 4.19
+  Peppered Steak Nachos: 14.38
+  Vanilla Flan Delight: 5.9
+  Tamarind Glazed Wings: 11.24
+  Cheesy Jalapeno Poppers: 6.77
+  Passion Fruit Agua Fresca: 4.15
+  Poblano Pepper Relleno Plate: 11.72
+  Loaded Nacho Fries: 8.02
+  Spicy Chocolate Churros: 6.1
+  Tequila Lime Shrimp Skewers: 14.22
+  Zesty Lime Grilled Chicken: 10.75
+  Zesty Lime Chicken Enchiladas: 12.18
+  Black Bean and Corn Salsa: 4.38
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Tamarind Spiced Agua Fresca: 3.14
+  Peppered Steak Nachos: 10.79
+  Vanilla Flan Delight: 4.43
+  Tamarind Glazed Wings: 8.43
+  Cheesy Jalapeno Poppers: 5.08
+  Passion Fruit Agua Fresca: 3.11
+  Poblano Pepper Relleno Plate: 8.79
+  Loaded Nacho Fries: 6.01
+  Spicy Chocolate Churros: 4.57
+  Tequila Lime Shrimp Skewers: 10.67
+  Zesty Lime Grilled Chicken: 8.06
+  Zesty Lime Chicken Enchiladas: 9.13
+  Black Bean and Corn Salsa: 3.29

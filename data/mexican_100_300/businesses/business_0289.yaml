@@ -1,0 +1,43 @@
+id: business_0289
+name: "Let's Give \u2018Em Something to Taco Pin-About"
+description: Get ready for a flavor fiesta where sweet, spicy, and savory come together
+  in every bite. From crispy quesadillas to zesty ceviche, our kitchen brings bold
+  Tex-Mex twists to classic favorites.
+rating: 1.0
+progenitor_customer: customer_0097
+menu_features:
+  Roasted Poblano Soup: 6.33
+  Spicy Shrimp Ceviche: 10.72
+  Jalapeno Cheddar Cornbread: 4.7
+  Sweet Potato and Black Bean Tacos: 10.94
+  Spicy Black Bean Nacho Platter: 13.51
+  Crispy Carnitas Quesadilla: 11.94
+  Grilled Pineapple Salsa: 6.11
+  Smoky Chipotle Chicken: 15.16
+  Blueberry Jalapeno Lemonade: 4.24
+  Blue Corn Tostada Salad: 12.04
+  Classic Horchata Smoothie: 4.85
+  Sweet Corn Tostadas: 8.33
+  Avocado Lime Empanadas: 7.34
+  Crispy Fish Tacos: 9.68
+  Roasted Pepper Queso Dip: 7.0
+  Frozen Mango Margarita: 9.55
+amenity_features: {}
+min_price_factor: 0.91
+minimum_menu_prices:
+  Roasted Poblano Soup: 5.76
+  Spicy Shrimp Ceviche: 9.76
+  Jalapeno Cheddar Cornbread: 4.28
+  Sweet Potato and Black Bean Tacos: 9.96
+  Spicy Black Bean Nacho Platter: 12.29
+  Crispy Carnitas Quesadilla: 10.87
+  Grilled Pineapple Salsa: 5.56
+  Smoky Chipotle Chicken: 13.8
+  Blueberry Jalapeno Lemonade: 3.86
+  Blue Corn Tostada Salad: 10.96
+  Classic Horchata Smoothie: 4.41
+  Sweet Corn Tostadas: 7.58
+  Avocado Lime Empanadas: 6.68
+  Crispy Fish Tacos: 8.81
+  Roasted Pepper Queso Dip: 6.37
+  Frozen Mango Margarita: 8.69

@@ -1,0 +1,45 @@
+id: business_0170
+name: Salsafied & Sizzled
+description: Bringing bold Tex-Mex flavors and creative twists to classics, Salsafied
+  & Sizzled invites you to savor vibrant, crave-worthy dishes in a fun, lively setting.
+  From sizzling plates to sweet delights, every bite is a little fiesta.
+rating: 1.0
+progenitor_customer: customer_0057
+menu_features:
+  Three Cheese Sope: 8.98
+  Chipotle Lime Chicken Salad: 11.47
+  Spicy Black Bean Nacho Platter: 11.04
+  Sweet Corn Tamale Cake: 9.69
+  Honey Lime Fajita Sizzlers: 16.05
+  Chocolate Sopapilla Bites: 5.09
+  Spicy Chicken Chimichanga: 11.9
+  Pineapple Salsa Shrimp Tacos: 11.24
+  Black Bean and Avocado Wrap: 11.16
+  Crispy Fish Baja Bowl: 14.22
+  Ranchero Steak Fajitas: 20.0
+  Twisted Tequila Sunrise: 8.98
+  Braised Beef Barbacoa Tacos: 9.77
+  Three-Cheese Enchilada Stack: 11.73
+  Grilled Shrimp Quesadilla: 10.66
+  Ancho Chili Chocolate Cake: 6.84
+  Coconut Lime Rice Bowl: 10.74
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Three Cheese Sope: 6.29
+  Chipotle Lime Chicken Salad: 8.03
+  Spicy Black Bean Nacho Platter: 7.73
+  Sweet Corn Tamale Cake: 6.78
+  Honey Lime Fajita Sizzlers: 11.23
+  Chocolate Sopapilla Bites: 3.56
+  Spicy Chicken Chimichanga: 8.33
+  Pineapple Salsa Shrimp Tacos: 7.87
+  Black Bean and Avocado Wrap: 7.81
+  Crispy Fish Baja Bowl: 9.95
+  Ranchero Steak Fajitas: 14.0
+  Twisted Tequila Sunrise: 6.29
+  Braised Beef Barbacoa Tacos: 6.84
+  Three-Cheese Enchilada Stack: 8.21
+  Grilled Shrimp Quesadilla: 7.46
+  Ancho Chili Chocolate Cake: 4.79
+  Coconut Lime Rice Bowl: 7.52

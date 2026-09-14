@@ -1,0 +1,48 @@
+id: business_0177
+name: Guac to the Sizzle
+description: Experience a bold twist on Mexican and Tex-Mex classics at Guac to the
+  Sizzle, where vibrant flavors meet a playful atmosphere. From fresh, zesty drinks
+  to sizzling mains and sweet desserts, every bite promises a fiesta for your taste
+  buds.
+rating: 1.0
+progenitor_customer: customer_0059
+menu_features:
+  Fresh Limeade: 4.29
+  Crispy Avocado Wedges: 10.24
+  "Cheesy Jalape\xF1o Queso Dip": 8.97
+  Tres Leches Cake: 6.83
+  Spicy Avocado Burger: 14.1
+  Sizzling Fajita Plate: 14.46
+  Spicy Chipotle Chicken Wings: 9.33
+  Chipotle Lime Cauliflower Tacos: 12.94
+  Sweet Corn Tostadas: 9.09
+  Ancho Chili Braised Beef Enchiladas: 15.54
+  Tequila Lime Shrimp Skewers: 15.86
+  Al Pastor Pork Tacos: 10.92
+  Fajita Veggie Burrito Bowl: 13.77
+  Chipotle Bean Burrito: 10.01
+  Carne Asada Fajitas: 16.55
+  Savory Carne Asada Burrito: 12.23
+  Stuffed Poblano Peppers: 13.02
+  Caramelized Plantain Empanadas: 5.99
+amenity_features: {}
+min_price_factor: 0.75
+minimum_menu_prices:
+  Fresh Limeade: 3.22
+  Crispy Avocado Wedges: 7.68
+  "Cheesy Jalape\xF1o Queso Dip": 6.73
+  Tres Leches Cake: 5.12
+  Spicy Avocado Burger: 10.57
+  Sizzling Fajita Plate: 10.85
+  Spicy Chipotle Chicken Wings: 7.0
+  Chipotle Lime Cauliflower Tacos: 9.71
+  Sweet Corn Tostadas: 6.82
+  Ancho Chili Braised Beef Enchiladas: 11.65
+  Tequila Lime Shrimp Skewers: 11.89
+  Al Pastor Pork Tacos: 8.19
+  Fajita Veggie Burrito Bowl: 10.33
+  Chipotle Bean Burrito: 7.51
+  Carne Asada Fajitas: 12.41
+  Savory Carne Asada Burrito: 9.17
+  Stuffed Poblano Peppers: 9.77
+  Caramelized Plantain Empanadas: 4.49

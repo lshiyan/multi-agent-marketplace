@@ -1,0 +1,35 @@
+id: business_0276
+name: "El Jard\xEDn del Lim\xF3n"
+description: "Experience the fresh flavors of Mexico and the Southwest in a vibrant,\
+  \ welcoming atmosphere. El Jard\xEDn del Lim\xF3n invites you to savor zesty, creative\
+  \ dishes and classic favorites crafted with bold, seasonal ingredients."
+rating: 1.0
+progenitor_customer: customer_0092
+menu_features:
+  Fresh Limeade: 3.6
+  Loaded Street Corn: 6.12
+  Ranchero Eggs Benedict: 10.12
+  Avocado Lime Grilled Shrimp: 12.84
+  Avocado Lime Dip: 6.44
+  Smoky Black Bean Nachos: 10.76
+  Pumpkin Spice Flan: 8.52
+  Spicy Black Bean Tacos: 10.86
+  Bacon Wrapped Jalapeno Bites: 7.24
+  Tequila Lime Grilled Chicken: 13.89
+  Three-Cheese Queso Dip: 7.38
+  Tequila Lime Flan: 7.32
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Fresh Limeade: 2.52
+  Loaded Street Corn: 4.28
+  Ranchero Eggs Benedict: 7.08
+  Avocado Lime Grilled Shrimp: 8.99
+  Avocado Lime Dip: 4.51
+  Smoky Black Bean Nachos: 7.53
+  Pumpkin Spice Flan: 5.96
+  Spicy Black Bean Tacos: 7.6
+  Bacon Wrapped Jalapeno Bites: 5.07
+  Tequila Lime Grilled Chicken: 9.72
+  Three-Cheese Queso Dip: 5.17
+  Tequila Lime Flan: 5.12

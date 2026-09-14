@@ -1,0 +1,45 @@
+id: business_0139
+name: Cantina del Mezquite
+description: Savor the vibrant flavors of Mexico and the Southwest at Cantina del
+  Mezquite, where classic dishes meet fresh, colorful ingredients. Enjoy delicious
+  plates and signature cocktails in a warm, inviting atmosphere.
+rating: 1.0
+progenitor_customer: customer_0047
+menu_features:
+  Chipotle Shrimp Skewers: 13.38
+  Roasted Pecan Flan: 6.38
+  Crispy Carnitas Quesadilla: 10.45
+  Loaded Nacho Platter: 10.57
+  Black Bean Chili Bowl: 10.08
+  Tropical Pineapple Salsa: 2.99
+  Honey Lime Grilled Chicken: 15.42
+  Frozen Strawberry Daiquiri: 8.83
+  Grilled Steak Quesadilla: 12.82
+  Three Cheese Sope: 9.82
+  Crispy Carnitas Tacos: 12.27
+  Salted Caramel Margarita: 9.65
+  Baja Fish Tacos: 11.55
+  Roasted Corn Enchiladas: 11.4
+  Breakfast Chorizo Tostadas: 8.72
+  Golden Tequila Sunrise: 8.57
+  Loaded Nacho Supreme: 10.28
+amenity_features: {}
+min_price_factor: 0.66
+minimum_menu_prices:
+  Chipotle Shrimp Skewers: 8.83
+  Roasted Pecan Flan: 4.21
+  Crispy Carnitas Quesadilla: 6.9
+  Loaded Nacho Platter: 6.98
+  Black Bean Chili Bowl: 6.65
+  Tropical Pineapple Salsa: 1.97
+  Honey Lime Grilled Chicken: 10.18
+  Frozen Strawberry Daiquiri: 5.83
+  Grilled Steak Quesadilla: 8.46
+  Three Cheese Sope: 6.48
+  Crispy Carnitas Tacos: 8.1
+  Salted Caramel Margarita: 6.37
+  Baja Fish Tacos: 7.62
+  Roasted Corn Enchiladas: 7.52
+  Breakfast Chorizo Tostadas: 5.76
+  Golden Tequila Sunrise: 5.66
+  Loaded Nacho Supreme: 6.78

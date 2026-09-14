@@ -1,0 +1,39 @@
+id: business_0083
+name: Sope & Sip
+description: Sope & Sip brings a fresh take on Mexican and Tex-Mex favorites, pairing
+  creative sopes, savory small plates, and vibrant drinks. Experience a fusion of
+  flavors both classic and sweet in a lively, welcoming atmosphere.
+rating: 1.0
+progenitor_customer: customer_0028
+menu_features:
+  Three Cheese Sope: 10.88
+  Choco Flan Combo: 8.03
+  Sweet Corn Tamale Cake: 7.88
+  Horchata Milkshake: 5.88
+  Sweet Plantain Empanadas: 5.85
+  Black Bean & Corn Enchiladas: 11.6
+  Raspberry Jalapeno Mojito: 7.43
+  Cilantro Lime Grilled Shrimp: 11.74
+  Queso Fundido with Chorizo: 8.19
+  Crispy Carnitas Tacos: 12.2
+  Sweet Corn Tostadas: 7.09
+  Cactus Flower Iced Tea: 3.83
+  Grilled Shrimp Skewers: 14.24
+  Spiced Agave Margarita: 9.83
+amenity_features: {}
+min_price_factor: 0.77
+minimum_menu_prices:
+  Three Cheese Sope: 8.38
+  Choco Flan Combo: 6.18
+  Sweet Corn Tamale Cake: 6.07
+  Horchata Milkshake: 4.53
+  Sweet Plantain Empanadas: 4.5
+  Black Bean & Corn Enchiladas: 8.93
+  Raspberry Jalapeno Mojito: 5.72
+  Cilantro Lime Grilled Shrimp: 9.04
+  Queso Fundido with Chorizo: 6.31
+  Crispy Carnitas Tacos: 9.39
+  Sweet Corn Tostadas: 5.46
+  Cactus Flower Iced Tea: 2.95
+  Grilled Shrimp Skewers: 10.96
+  Spiced Agave Margarita: 7.57

@@ -1,0 +1,41 @@
+id: business_0227
+name: Casa Verde Encantada
+description: Step into a vibrant haven where bold flavors, fresh ingredients, and
+  creative Tex-Mex touches come together in every dish. Enjoy a festive atmosphere
+  and a taste adventure that highlights the zest and warmth of Mexican cuisine.
+rating: 1.0
+progenitor_customer: customer_0076
+menu_features:
+  Tomatillo Salsa Verde Nachos: 11.19
+  Cinnamon Sugar Churro Sticks: 5.14
+  Crispy Avocado Wedges: 8.47
+  Spicy Zucchini Tostadas: 8.1
+  Hatch Green Chile Quesadilla: 8.61
+  Pineapple Habanero Sake: 8.26
+  Shrimp and Avocado Ceviche: 12.96
+  Mini Street Tacos Platter: 11.3
+  Beef Fajita Skillet: 13.34
+  Smoky Chipotle Black Bean Soup: 8.89
+  Spicy Chicken Tortilla Soup: 6.01
+  Jicama and Citrus Salad: 7.93
+  Chipotle Shrimp Skewers: 11.07
+  Roasted Poblano Veggie Skillet: 9.91
+  Roasted Pecan Flan: 5.08
+amenity_features: {}
+min_price_factor: 0.7
+minimum_menu_prices:
+  Tomatillo Salsa Verde Nachos: 7.83
+  Cinnamon Sugar Churro Sticks: 3.6
+  Crispy Avocado Wedges: 5.93
+  Spicy Zucchini Tostadas: 5.67
+  Hatch Green Chile Quesadilla: 6.03
+  Pineapple Habanero Sake: 5.78
+  Shrimp and Avocado Ceviche: 9.07
+  Mini Street Tacos Platter: 7.91
+  Beef Fajita Skillet: 9.34
+  Smoky Chipotle Black Bean Soup: 6.22
+  Spicy Chicken Tortilla Soup: 4.21
+  Jicama and Citrus Salad: 5.55
+  Chipotle Shrimp Skewers: 7.75
+  Roasted Poblano Veggie Skillet: 6.94
+  Roasted Pecan Flan: 3.56
