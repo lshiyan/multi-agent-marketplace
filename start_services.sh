@@ -21,30 +21,20 @@ mkdir -p "$HOME/singularity_data/pgadmin"
 
 echo "Starting PostgreSQL..."
 
-singularity run \
-    --bind "$HOME/singularity_data/postgres:/var/lib/postgresql/data" \
-    postgres_16.sif \
-    postgres \
-        -c port=5433 \
-        -c max_connections="$POSTGRES_MAX_CONNECTIONS" \
-    > postgres.log 2>&1 &
+singularity exec \
+  --bind "$HOME/singularity_data/postgres_data:/var/lib/postgresql/data" \
+  --bind "$HOME/singularity_data/postgres_socket:/postgres_socket" \
+  postgres_16.sif \
+  /usr/local/bin/docker-entrypoint.sh \
+  postgres \
+    -c port=5433 \
+    -c unix_socket_directories=/postgres_socket \
+    -c max_connections="${POSTGRES_MAX_CONNECTIONS:-100}"
 
 POSTGRES_PID=$!
 
 echo "PostgreSQL PID: $POSTGRES_PID"
 
-echo "Starting pgAdmin..."
-
-singularity run \
-    --bind "$HOME/singularity_data/pgadmin:/var/lib/pgadmin" \
-    pgadmin4.sif \
-    > pgadmin.log 2>&1 &
-
-PGADMIN_PID=$!
-
-echo "pgAdmin PID: $PGADMIN_PID"
-
 echo
 echo "Services started:"
 echo "PostgreSQL: localhost:5433"
-echo "pgAdmin:    localhost:8080"
