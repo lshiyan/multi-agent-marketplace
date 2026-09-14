@@ -96,7 +96,7 @@ def run_experiment_command(args):
             export_filename=args.export_filename,
             customers_per_run=args.customers_per_run,
             num_runs=args.num_runs,
-            plot_path=args.plot_path
+            output_path=args.output_path
         )
     )
 
@@ -207,7 +207,7 @@ def main():
     )
     
     experiment_parser.add_argument(
-        "--plot_path",
+        "--output_path",
         type=str,
         help="Output path of the output plots.",
     )

@@ -38,12 +38,13 @@ async def execute_search(
     """
     # Execute the appropriate search algorithm
     logger.info(f'Search: "{search.query}", {search.search_algorithm}')
+    intervention = search.intervention
     if search.search_algorithm == SearchAlgorithm.FILTERED:
         response = await execute_filtered_search(search, database)
     elif search.search_algorithm == SearchAlgorithm.RNR:
         response = await execute_rnr_search(search, database)
     elif search.search_algorithm == SearchAlgorithm.LEXICAL:
-        response = await execute_lexical_search(search, database)
+        response = await execute_lexical_search(search, database, intervention)
     elif search.search_algorithm == SearchAlgorithm.OPTIMAL:
         if agent is None:
             raise ValueError("agent is required to perform optimal search")

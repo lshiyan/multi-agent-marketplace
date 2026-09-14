@@ -4,6 +4,7 @@
 import socket
 import random
 import asyncio
+import numpy as np
 from datetime import datetime
 from pathlib import Path
 
@@ -360,6 +361,95 @@ def _plot_average_welfare_by_period(
     figure.savefig(output_path, dpi=200)
     plt.close(figure)
     
+def plot_successful_purchases_by_period(
+    successful_purchases: list[int],
+    customers_per_run: int,
+    output_path: str
+):
+    periods = np.arange(1, len(successful_purchases) + 1)
+
+    unsuccessful_purchases = [
+        customers_per_run - successful
+        for successful in successful_purchases
+    ]
+
+    width = 0.35
+
+    fig, ax = plt.subplots(figsize=(10, 6))
+
+    ax.bar(
+        periods - width / 2,
+        successful_purchases,
+        width,
+        label="Successful Purchase",
+    )
+
+    ax.bar(
+        periods + width / 2,
+        unsuccessful_purchases,
+        width,
+        label="No Purchase",
+    )
+
+    ax.set_xlabel("Period")
+    ax.set_ylabel("Number of Customers")
+    ax.set_title("Purchases by Period")
+    ax.set_xticks(periods)
+    ax.legend()
+
+    fig.savefig(output_path, dpi=200)
+    plt.close(fig)
+    
+def plot_average_prices(
+    tracked_businesses: list[BusinessAgent],
+    tracked_businesses_avg_prices: list[list[float]],
+    output_path: Path,
+) -> None:
+    """Plot each tracked business's average price by period."""
+
+    periods = range(1, len(tracked_businesses_avg_prices) + 1)
+
+    figure, axis = plt.subplots(figsize=(10, 6))
+
+    for business_index, business_agent in enumerate(tracked_businesses):
+        prices = [
+            period_prices[business_index]
+            for period_prices in tracked_businesses_avg_prices
+        ]
+
+        # Average initial/base price for this business
+        base_prices = business_agent.business.base_menu_features
+        base_average_price = (
+            sum(base_prices.values()) / len(base_prices)
+        )
+
+        # Price over time
+        line = axis.plot(
+            periods,
+            prices,
+            marker="o",
+            label=business_agent.business.name,
+        )[0]
+
+        # Base average price
+        axis.axhline(
+            y=base_average_price,
+            linestyle="--",
+            alpha=0.5,
+            color=line.get_color(),
+        )
+
+    axis.set_title("Average Business Prices by Period")
+    axis.set_xlabel("Period")
+    axis.set_ylabel("Average Price")
+    axis.set_xticks(list(periods))
+    axis.legend()
+    axis.grid(alpha=0.3)
+
+    figure.tight_layout()
+    figure.savefig(output_path, dpi=200)
+    plt.close(figure)
+    
 async def run_marketplace_experiment(
     data_dir: str | Path,
     experiment_name: str | None = None,
@@ -379,7 +469,7 @@ async def run_marketplace_experiment(
     export_filename: str | None = None,
     customers_per_run: int = 10,
     num_runs: int = 1,
-    plot_path: str = None
+    output_path: str = None
 ):
     """Run a marketplace experiment using YAML configuration files."""
     # Load businesses and customers from YAML files
@@ -390,7 +480,8 @@ async def run_marketplace_experiment(
     print(f"Loading data from: {data_dir}")
     businesses = load_businesses_from_yaml(businesses_dir)
     customers = load_customers_from_yaml(customers_dir)
-
+    successful_purchases = []
+    
     print(f"Loaded {len(customers)} customers and {len(businesses)} businesses")
 
     if experiment_name is None:
@@ -460,6 +551,16 @@ async def run_marketplace_experiment(
             *business_agents,
         ]
 
+        business_avg_prices: dict[str, list[float]] = {
+            business_agent.id: []
+            for business_agent in business_agents
+        }
+
+        business_sales_count: dict[str, int] = {
+            business_agent.id: 0
+            for business_agent in business_agents
+        }
+        
         async with AgentLauncher(
             marketplace_launcher.server_url
         ) as agent_launcher:
@@ -532,6 +633,9 @@ async def run_marketplace_experiment(
                         expected_payment_ids=expected_payment_ids,
                     )
 
+                    for outcome in period_request_outcomes:
+                        for fulfillment in outcome.fulfillments:
+                            business_sales_count[fulfillment.business_id] += 1
                     all_request_outcomes.extend(
                         period_request_outcomes
                     )
@@ -562,11 +666,38 @@ async def run_marketplace_experiment(
                         f"{average_business_welfare:.2f}"
                     )
 
+                    contacted_business_ids = {
+                        contacted_business.business_id
+                        for outcome in period_request_outcomes
+                        for contacted_business in outcome.contacted_businesses
+                    }
+
                     for business_agent in business_agents:
+                        if business_agent.id not in contacted_business_ids:
+                            business_agent.logger.info(
+                                "Skipping price update because business received no requests "
+                                f"in period {period_number}."
+                            )
+                            continue
+
                         await business_agent.update_prices(
                             request_outcomes=period_request_outcomes
                         )
-                        
+                    
+                    successful_purchases_period = 0
+                    
+                    for customer_agent in customer_agents:
+                        if customer_agent.purchased: 
+                            successful_purchases_period += 1
+                    
+                    successful_purchases.append(successful_purchases_period)
+                    
+                    for business_agent in business_agents:
+                        cur_prices = business_agent.current_prices
+                        avg_price = sum(cur_prices.values()) / len(cur_prices)
+
+                        business_avg_prices[business_agent.id].append(avg_price)
+                    
             except KeyboardInterrupt:
                 logger.warning("Simulation interrupted by user")
             finally:
@@ -623,12 +754,12 @@ async def run_marketplace_experiment(
                 logger.info(f"Database conversion complete: {sqlite_path}")
 
         if period_numbers:
-            default_plot_path = Path(
-                f"average_welfare_{experiment_name}.png"
-            )
-            
-            welfare_plot_path = default_plot_path if not plot_path else plot_path
+            output_dir = Path(output_path) if output_path else Path("out")
+            output_dir.mkdir(parents=True, exist_ok=True)
 
+            welfare_plot_path = output_dir / "welfare_by_period.png"
+            purchases_plot_path = output_dir / "purchases_by_period.png"
+            average_prices_plot_path = output_dir / "average_price_by_period.png"
             _plot_average_welfare_by_period(
                 periods=range(len(period_numbers)),
                 average_customer_welfare=(
@@ -640,9 +771,27 @@ async def run_marketplace_experiment(
                 output_path=welfare_plot_path,
             )
 
+            plot_successful_purchases_by_period(successful_purchases, customers_per_run, purchases_plot_path)
+            
+            tracked_businesses = sorted(
+                business_agents,
+                key=lambda business_agent: business_sales_count[business_agent.id],
+                reverse=True,
+            )[:max(10, len(business_agents) // 10)]
+            
+            tracked_businesses_avg_prices = [
+                [
+                    business_avg_prices[business_agent.id][period_index]
+                    for business_agent in tracked_businesses
+                ]
+                for period_index in range(len(period_numbers))
+            ]
+            
+            plot_average_prices(tracked_businesses, tracked_businesses_avg_prices, average_prices_plot_path)
+            
             print(
-                "\nAverage welfare plot saved to: "
-                f"{welfare_plot_path.resolve()}"
+                "\n All plots saved to: "
+                f"{output_dir.resolve()}"
             )
             
         print(f"\nRun analytics with: magentic-marketplace analyze {experiment_name}")

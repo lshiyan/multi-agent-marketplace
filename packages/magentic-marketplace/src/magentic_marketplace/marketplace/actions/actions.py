@@ -76,6 +76,7 @@ class Search(BaseAction):
     type: Literal["search"] = "search"
     query: str = Field(description="Search query")
     search_algorithm: SearchAlgorithm = Field(description="Search algorithm to use")
+    intervention: str = Field(default="normal",description="Platform intervention technique")
     constraints: SearchConstraints | None = Field(
         default=None, description="Search constraints"
     )
