@@ -5,8 +5,11 @@ import socket
 import random
 import asyncio
 import numpy as np
+import csv
+
 from datetime import datetime
 from pathlib import Path
+from matplotlib.ticker import MaxNLocator
 
 from magentic_marketplace.experiments.utils import (
     load_businesses_from_yaml,
@@ -243,21 +246,12 @@ def _calculate_period_average_welfare(
             }
             requested_items = set(outcome.requested_items)
 
-            available_amenities = {
-                amenity
-                for amenity, available
-                in business_agent.business.amenity_features.items()
-                if available
-            }
 
             items_match = requested_items.issubset(
                 purchased_items
             )
-            amenities_match = set(
-                outcome.required_amenities
-            ).issubset(available_amenities)
 
-            if items_match and amenities_match:
+            if items_match:
                 needs_met = True
 
             # Calculate this completed sale's business welfare.
@@ -321,6 +315,12 @@ def _calculate_period_average_welfare(
         round(average_business_welfare, 2),
     )
     
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
+from pathlib import Path
+
+
 def _plot_average_welfare_by_period(
     periods: list[int],
     average_customer_welfare: list[float],
@@ -330,6 +330,11 @@ def _plot_average_welfare_by_period(
     """Save average customer and business welfare over time."""
     figure, axis = plt.subplots(figsize=(9, 5))
 
+    periods_np = np.array(periods)
+    customer_welfare = np.array(average_customer_welfare)
+    business_welfare = np.array(average_business_welfare)
+
+    # Plot observed welfare
     axis.plot(
         periods,
         average_customer_welfare,
@@ -343,6 +348,58 @@ def _plot_average_welfare_by_period(
         label="Average business welfare",
     )
 
+    # Customer welfare line of best fit
+    customer_slope, customer_intercept = np.polyfit(
+        periods_np,
+        customer_welfare,
+        1,
+    )
+    customer_fit = customer_slope * periods_np + customer_intercept
+
+    axis.plot(
+        periods_np,
+        customer_fit,
+        linestyle="--",
+        label="Customer best fit",
+    )
+
+    # Business welfare line of best fit
+    business_slope, business_intercept = np.polyfit(
+        periods_np,
+        business_welfare,
+        1,
+    )
+    business_fit = business_slope * periods_np + business_intercept
+
+    axis.plot(
+        periods_np,
+        business_fit,
+        linestyle="--",
+        label="Business best fit",
+    )
+
+    # Pearson correlation coefficients
+    customer_r = np.corrcoef(
+        periods_np,
+        customer_welfare,
+    )[0, 1]
+
+    business_r = np.corrcoef(
+        periods_np,
+        business_welfare,
+    )[0, 1]
+
+    # Display correlations
+    axis.text(
+        1.02,
+        0.25,
+        f"Customer r = {customer_r:.3f}\n"
+        f"Business r = {business_r:.3f}",
+        transform=axis.transAxes,
+        verticalalignment="top",
+        horizontalalignment="left",
+    )
+
     axis.axhline(
         0,
         linewidth=0.8,
@@ -354,11 +411,17 @@ def _plot_average_welfare_by_period(
     )
     axis.set_xlabel("Period")
     axis.set_ylabel("Average welfare")
-    axis.legend()
+
+    axis.xaxis.set_major_locator(MaxNLocator(integer=True))
+
+    axis.legend(
+        loc="center left",
+        bbox_to_anchor=(1.02, 0.5),
+    )
     axis.grid(alpha=0.3)
 
     figure.tight_layout()
-    figure.savefig(output_path, dpi=200)
+    figure.savefig(output_path, dpi=200, bbox_inches="tight")
     plt.close(figure)
     
 def plot_successful_purchases_by_period(
@@ -395,9 +458,12 @@ def plot_successful_purchases_by_period(
     ax.set_ylabel("Number of Customers")
     ax.set_title("Purchases by Period")
     ax.set_xticks(periods)
-    ax.legend()
+    ax.legend(
+        loc="center left",
+        bbox_to_anchor=(1.02, 0.5),
+    )
 
-    fig.savefig(output_path, dpi=200)
+    fig.savefig(output_path, dpi=200, bbox_inches="tight")
     plt.close(fig)
     
 def plot_average_prices(
@@ -443,11 +509,13 @@ def plot_average_prices(
     axis.set_xlabel("Period")
     axis.set_ylabel("Average Price")
     axis.set_xticks(list(periods))
-    axis.legend()
-    axis.grid(alpha=0.3)
+    axis.legend(
+        loc="center left",
+        bbox_to_anchor=(1.02, 0.5),
+    )
 
     figure.tight_layout()
-    figure.savefig(output_path, dpi=200)
+    figure.savefig(output_path, dpi=200, bbox_inches="tight")
     plt.close(figure)
     
 async def run_marketplace_experiment(
@@ -777,7 +845,7 @@ async def run_marketplace_experiment(
                 business_agents,
                 key=lambda business_agent: business_sales_count[business_agent.id],
                 reverse=True,
-            )[:max(10, len(business_agents) // 10)]
+            )[:min(10, len(business_agents) // 10)]
             
             tracked_businesses_avg_prices = [
                 [
@@ -789,9 +857,72 @@ async def run_marketplace_experiment(
             
             plot_average_prices(tracked_businesses, tracked_businesses_avg_prices, average_prices_plot_path)
             
+            #Saving all data.
+            
+            welfare_data_path = output_dir / "welfare_by_period.csv"
+
+            with open(welfare_data_path, "w", newline="") as file:
+                writer = csv.writer(file)
+
+                writer.writerow([
+                    "period",
+                    "average_customer_welfare",
+                    "average_business_welfare",
+                ])
+
+                writer.writerows(
+                    zip(
+                        period_numbers,
+                        average_customer_welfare_by_period,
+                        average_business_welfare_by_period,
+                    )
+                )
+
+            purchases_data_path = output_dir / "purchases_by_period.csv"
+
+            with open(purchases_data_path, "w", newline="") as file:
+                writer = csv.writer(file)
+
+                writer.writerow([
+                    "period",
+                    "successful_purchases",
+                    "unsuccessful_purchases",
+                ])
+
+                for period, successful in zip(
+                    period_numbers,
+                    successful_purchases,
+                ):
+                    writer.writerow([
+                        period,
+                        successful,
+                        customers_per_run - successful,
+                    ])
+
+
+            average_prices_data_path = (
+                output_dir / "average_price_by_period.csv"
+            )
+
+            with open(average_prices_data_path, "w", newline="") as file:
+                writer = csv.writer(file)
+
+                writer.writerow([
+                    "period",
+                    *[
+                        business_agent.business.name
+                        for business_agent in tracked_businesses
+                    ],
+                ])
+
+                for period_index, period in enumerate(period_numbers):
+                    writer.writerow([
+                        period,
+                        *tracked_businesses_avg_prices[period_index],
+                    ])
+
+
             print(
-                "\n All plots saved to: "
+                "\nAll plots and underlying data saved to: "
                 f"{output_dir.resolve()}"
             )
-            
-        print(f"\nRun analytics with: magentic-marketplace analyze {experiment_name}")
