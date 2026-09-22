@@ -82,6 +82,7 @@ class PromptsHandler:
             if len(conversation_history) > 1
             else ""
         )
+        
         if context is None:
             context = "Customer is making an inquiry. Use text action to respond, or create an order_proposal if they want to purchase something specific."
 

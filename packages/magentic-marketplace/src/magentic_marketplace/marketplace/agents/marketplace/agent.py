@@ -43,7 +43,6 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
         llm_config: BaseLLMConfig | None = None,
         search_algorithm: str = "simple",
         search_bandwidth: int = 10,
-        candidate_bandwidth: int = 30,
         polling_interval: float = 2,
     ):
         profile = MarketplaceAgentProfile(id="marketplace")
@@ -51,7 +50,6 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
 
         self._search_algorithm = SearchAlgorithm(search_algorithm)
         self._search_bandwidth = search_bandwidth
-        self._candidate_bandwidth = candidate_bandwidth
         self._polling_interval = polling_interval
 
     async def on_started(self):
@@ -89,7 +87,7 @@ class MarketplaceAgent(BaseSimpleMarketplaceAgent[AgentProfile]):
         search = Search(
             query=request.query,
             search_algorithm=self._search_algorithm,
-            limit=self._candidate_bandwidth,
+            limit=self._search_bandwidth,
             page=1,
         )
 

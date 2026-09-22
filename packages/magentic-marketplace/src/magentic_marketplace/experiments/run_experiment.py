@@ -477,19 +477,20 @@ def plot_average_prices(
 
     figure, axis = plt.subplots(figsize=(10, 6))
 
+    base_average_prices = []
+
     for business_index, business_agent in enumerate(tracked_businesses):
         prices = [
             period_prices[business_index]
             for period_prices in tracked_businesses_avg_prices
         ]
 
-        # Average initial/base price for this business
         base_prices = business_agent.business.base_menu_features
         base_average_price = (
             sum(base_prices.values()) / len(base_prices)
         )
+        base_average_prices.append(base_average_price)
 
-        # Price over time
         line = axis.plot(
             periods,
             prices,
@@ -497,7 +498,6 @@ def plot_average_prices(
             label=business_agent.business.name,
         )[0]
 
-        # Base average price
         axis.axhline(
             y=base_average_price,
             linestyle="--",
@@ -505,13 +505,37 @@ def plot_average_prices(
             color=line.get_color(),
         )
 
+    final_prices = tracked_businesses_avg_prices[-1]
+
+    price_increases = [
+        (final_price - base_price) / base_price
+        for final_price, base_price in zip(
+            final_prices,
+            base_average_prices,
+        )
+    ]
+
+    average_price_increase = (
+        sum(price_increases) / len(price_increases)
+    )
+
     axis.set_title("Average Business Prices by Period")
     axis.set_xlabel("Period")
     axis.set_ylabel("Average Price")
     axis.set_xticks(list(periods))
+
     axis.legend(
         loc="center left",
         bbox_to_anchor=(1.02, 0.5),
+    )
+
+    axis.text(
+        1.02,
+        0.25,
+        f"Average price increase: {average_price_increase:.2%}",
+        transform=axis.transAxes,
+        ha="left",
+        va="center",
     )
 
     figure.tight_layout()
@@ -704,6 +728,7 @@ async def run_marketplace_experiment(
                     for outcome in period_request_outcomes:
                         for fulfillment in outcome.fulfillments:
                             business_sales_count[fulfillment.business_id] += 1
+                            
                     all_request_outcomes.extend(
                         period_request_outcomes
                     )
