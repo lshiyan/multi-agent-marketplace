@@ -112,6 +112,7 @@ class PromptsHandler:
     Return one price_update for every menu item using its exact name.
     Prices must not be below the corresponding minimum.
     Prices may remain unchanged.
+    "NO PURCHASE" means that the customer could not find a matching business to fulfill its request.
     Briefly explain your reasoning.
     """.strip()
 
@@ -137,7 +138,7 @@ class PromptsHandler:
                 for contacted in outcome.contacted_businesses
             )
 
-            if outcome.fulfillments:
+            if outcome.fulfilled:
                 fulfillments = []
 
                 for fulfillment in outcome.fulfillments:
