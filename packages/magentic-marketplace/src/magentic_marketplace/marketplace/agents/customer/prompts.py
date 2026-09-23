@@ -58,168 +58,146 @@ class PromptsHandler:
         )
         
         return f"""
-You are an autonomous agent working for customer {self.customer.name} ({self.customer.id}). They have the following request:
+    You are an autonomous shopping agent for {self.customer.name}.
 
-{menu_items}. Note that the price is the **maximum** price that they are willing to pay for that item. Obviously, they would be willing to pay any lower price.
+    Requirements:
+    {menu_items}
 
-Your agent ID is: "{self.customer.id}" and your name is "agent-{self.customer.name} ({self.customer.id})".
+    Each listed price is the customer's maximum willingness to pay.
 
-IMPORTANT: You do NOT have access to the customer directly. You must autonomously fulfill their request by interacting with the centralized marketplace agent for business discovery and with individual business agents for negotiation and purchasing.
+    Use the marketplace only to search for businesses. Communicate and
+    negotiate directly with businesses.
+    
+    Available actions:
+    - search_businesses: search the centralized marketplace for businesses
+    - send_messages: contact businesses or pay for proposals
+    - check_messages: retrieve search results, responses, and proposals
+    - no_purchase: stop without purchasing
+    - end_transaction: finish after a successful purchase
 
-# Available Tools
-
-These are your ONLY available actions:
-
-* **search_businesses**: Send a search request to the centralized marketplace agent to obtain ranked businesses relevant to the customer's request.
-* **send_messages**: Send text messages directly to business agents to ask questions, negotiate, or request additional information. Send payment messages to accept proposals.
-* **check_messages**: Check for search results from the marketplace agent and responses, proposals, or confirmations from business agents.
-* **no_purchase**: End the shopping process without making a purchase.
-* **end_transaction**: Finish the transaction.
-
-# Shopping Strategy
-
-### 1. Understand
-
-Carefully analyze the customer's request, including:
-
-* requested products or services,
-* quantities,
-* budget,
-* preferences,
-* constraints,
-* timing or delivery requirements.
-
-### 2. Search
-
-Send a search request to the centralized marketplace agent.
-
-The marketplace agent will:
-
-* retrieve relevant businesses,
-* filter unsuitable businesses,
-* rank businesses according to its search policy.
-
-The marketplace does **not** negotiate or sell products.
-
-### 3. Evaluate Search Results
-
-Review the ranked businesses returned by the marketplace.
-
-Use the rankings as recommendations rather than guarantees.
-
-Select one or more promising businesses to contact directly.
-
-### 4. Contact Businesses
-
-Send messages directly to businesses to:
-
-* verify availability,
-* clarify missing information,
-* negotiate when appropriate,
-* request offers.
-
-You may contact multiple businesses before making a decision.
-
-### 5. Evaluate Proposals
-
-When businesses send order proposals, compare them using:
-
-* satisfaction of hard constraints,
-* price,
-* quality,
-* quantity,
-* availability,
-* customer preferences,
-* overall expected utility for the customer.
-
-Do not automatically accept the first proposal received.
-
-### 6. Decide
-
-If a proposal clearly satisfies the customer's requirements and is preferable to not purchasing anything, send a payment message using the proposal's `message_id` as the `proposal_id`.
-
-If, after reasonable search and communication, no available proposal matches the customer's request, choose 'no_purchase'.
-
-### 7. Finish
-
-Only call `end_transaction` after:
-
-* a payment has succeeded, or
-* the outside option has been selected.
-
-# Important Notes
-
-* 
-* The marketplace agent performs **search and ranking only**.
-* Individual business agents are responsible for answering questions, negotiating, creating proposals, and completing sales.
-* Communicate directly with businesses after receiving search results.
-* You may contact multiple businesses before deciding.
-* Always check for responses after sending messages.
-* Do not wait for the customer to make decisions—you are acting autonomously on their behalf.
-* Do not purchase simply to complete the task. If and only if there are no proposals that match the customer's request, choose 'no_purchase'.""".strip()
-
+    Rules:
+    - Use the marketplace for business discovery only.
+    - Communicate and negotiate directly with businesses.
+    - Compare reasonable alternatives before purchasing.
+    - Never purchase an offer that violates the customer's requirements.
+    - Do not exceed the customer's maximum prices.
+    - After sending messages, check for responses.
+    - To accept an order_proposal, pay using its message_id as proposal_id.
+    - Use no_purchase if no satisfactory proposal exists.
+    - Act autonomously; do not wait for the customer.
+    """.strip()
 
     def format_state_context(self) -> tuple[str, int]:
-        """Format the current state context for the agent.
+        """Format compact persistent state plus recent trajectory."""
 
-        Returns:
-            Formatted state context and integer step counter
+        # Keep proposals explicitly in state so they are not forgotten when
+        # their original messages fall outside the recent-history window.
+        pending_proposals = self.proposal_storage.get_pending_proposals()
 
-        """
-        # Format available proposals with IDs
-        #         pending_proposals = self.proposal_storage.get_pending_proposals()
-        #         proposals_text = ""
-        #         if pending_proposals:
-        #             proposals_text = "\nAvailable Proposals to Accept:\n"
-        #             for proposal in pending_proposals:
-        #                 proposals_text += f"  - Proposal ID: {proposal.proposal_id} from {proposal.business_id} (${proposal.proposal.total_price})\n"
+        if pending_proposals:
+            proposal_lines = []
 
-        #         return f"""
-        # Known Businesses: {len(self.known_business_ids)} businesses found
-        # Received Proposals: {len(self.proposal_storage.proposals)} proposals
-        # Completed Transactions: {len(self.completed_transactions)} transactions{proposals_text}
-        conversation, step_counter = self.format_event_history()
+            for stored in pending_proposals:
+                proposal = stored.proposal
+
+                items = ", ".join(
+                    f"{item.quantity}x {item.item_name} @ ${item.unit_price:.2f}"
+                    for item in proposal.items
+                )
+
+                proposal_lines.append(
+                    f"- {stored.proposal_id} | "
+                    f"business={stored.business_id} | "
+                    f"total=${proposal.total_price:.2f} | "
+                    f"items={items}"
+                )
+
+            proposals_text = "\n".join(proposal_lines)
+        else:
+            proposals_text = "None"
+
+        if self.completed_transactions:
+            completed_text = ", ".join(self.completed_transactions)
+        else:
+            completed_text = "None"
+
+        conversation, step_counter = self.format_event_history(max_events=4)
+
+        if not conversation:
+            conversation = "None"
+
         return (
             f"""
+    # Current State
 
-# Action Trajectory
+    Pending proposals:
+    {proposals_text}
 
-{conversation}
-""",
+    Completed transactions:
+    {completed_text}
+
+    Recent actions:
+    {conversation}
+    """.strip(),
             step_counter,
         )
 
+
     def format_step_prompt(self, last_step: int) -> str:
-        """Format the step prompt for the current decision.
+        """Format compact prompt for the next decision."""
+
+        return f"""
+        Step {last_step + 1}: Choose the next action.
+
+        Search if you need alternatives. Contact businesses if you need information
+        or an offer. Check messages after contacting businesses. Pay for the best
+        satisfactory proposal once you have enough information. Otherwise choose
+        no_purchase after reasonable search.
+        """.strip()
+
+    def format_event_history(
+        self,
+        max_events: int | None = 4,
+    ) -> tuple[str, int]:
+        """Format recent event history.
+
+        Args:
+            max_events:
+                Maximum number of recent events to include in the prompt.
+                None includes the full history.
 
         Returns:
-            Formatted step prompt
-
+            The formatted history and the total number of historical events.
         """
-        return f"""
 
-Step {last_step + 1}: What action should you take?
+        total_events = len(self.event_history)
 
-Send "text" messages to submit requirements to the market. The market will send "order_proposal" messages with offers. Send "pay" messages to accept proposals you want to purchase. When you receive an order_proposal message, use its message_id as the proposal_id in your payment. Always check for responses after sending messages. You must pay for proposals when you have sufficient information - do not wait for the customer. Only end the transaction after successfully paying for a proposal.
+        if max_events is None:
+            events = self.event_history
+            start_step = 1
+        else:
+            events = self.event_history[-max_events:]
+            start_step = total_events - len(events) + 1
 
-Choose your action carefully.
-"""
-
-    def format_event_history(self):
-        """Format the event history for the prompt."""
         lines: list[str] = []
-        step_number = 0
 
-        for event in self.event_history:
-            step_number += 1
+        for step_number, event in enumerate(events, start=start_step):
             if isinstance(event, tuple):
                 lines.extend(
-                    self._format_customer_action_event(*event, step_number=step_number)
+                    self._format_customer_action_event(
+                        *event,
+                        step_number=step_number,
+                    )
                 )
             else:
-                lines.extend(self._format_log_event(event, step_number=step_number))
+                lines.extend(
+                    self._format_log_event(
+                        event,
+                        step_number=step_number,
+                    )
+                )
 
-        return "\n".join(lines).strip(), step_number
+        return "\n".join(lines).strip(), total_events
 
     def _format_customer_action_event(
         self, action: CustomerAction, result: CustomerActionResult, step_number: int
@@ -254,86 +232,99 @@ Choose your action carefully.
         return formatted_entries
 
     def _format_customer_search_businesses_event(
-        self, action: CustomerAction, result: CustomerActionResult, step_number: int
+        self,
+        action: CustomerAction,
+        result: CustomerActionResult,
+        step_number: int,
     ) -> list[str]:
-        lines: list[str] = self._format_step_header(current_step=step_number)
-        lines.append(
-            f"Action: search_businesses: {action.model_dump_json(include={'search_query', 'search_page'})}"
-        )
+        """Format a search event compactly."""
 
-        if isinstance(result, SearchResponse):
-            lines.append(
-                f"Step {step_number} result: Searched {result.total_possible_results} business(es). Showing page {action.search_page} of {result.total_pages} search results."
-            )
-            for business in result.businesses:
+        lines = [
+            f"[{step_number}] SEARCH "
+            f'query="{action.search_query or self.customer.request}"'
+        ]
+
+        if result.is_error:
+            lines.append(f"ERROR: {result.content}")
+            return lines
+
+        try:
+            # Search results arrive as a marketplace message.
+            response = SearchResponse.model_validate(result.content)
+
+            for business in response.businesses:
                 lines.append(
-                    f"Found business: {business.business.name} (ID: {business.id}):\n"
-                    f"  Description: {business.business.description}\n"
-                    f"  Rating: {business.business.rating:.2f}\n"
-                    "\n"
+                    f"{business.id} | "
+                    f"{business.business.name} | "
+                    f"rating={business.business.rating:.2f}"
                 )
-            if not result.businesses:
-                lines.append("No businesses found")
-        elif isinstance(result, ActionExecutionResult):
-            lines.append(f"Failed to search businesses. {result.content}")
-        else:
-            lines.append("Failed to search businesses.")
+
+            if not response.businesses:
+                lines.append("No results")
+
+        except Exception:
+            # Keep the fallback because your exact search response path has
+            # changed during development.
+            lines.append(f"Result: {result.content}")
 
         return lines
-
+    
     def _format_customer_check_messages_event(
-        self, action: CustomerAction, result: CustomerActionResult, step_number: int
+        self,
+        action: CustomerAction,
+        result: CustomerActionResult,
+        step_number: int,
     ) -> list[str]:
+        """Format received messages compactly."""
+
         lines = self._format_step_header(current_step=step_number)
-        lines.append("Action: check_messages (checking for responses)")
+        lines.append("Action: check_messages")
 
         if isinstance(result, FetchMessagesResponse):
-            message_count = len(result.messages)
-            if message_count == 0:
-                lines.append(f"Step {step_number} result: 📭 No new messages")
-            else:
-                formatted_results: list[str] = []
-                # Add received messages to conversation
-                for received_message in result.messages:
-                    message_content = received_message.message
+            if not result.messages:
+                lines.append("No new messages")
+                return lines
+
+            formatted_results: list[str] = []
+
+            for received_message in result.messages:
+                message = received_message.message
+                sender = received_message.from_agent_id
+
+                if isinstance(message, SearchResultsMessage):
                     formatted_results.append(
-                        f"📨 Received {message_content.type} from {received_message.from_agent_id}: "
-                        f"{message_content.model_dump_json(exclude={'type', 'expiry_time'}, exclude_none=True)}"
+                        f"Search results for '{message.query}':"
                     )
-                lines.append(f"Step {step_number} result: {formatted_results}")
-        
-        elif isinstance(result, SearchResultsMessage):
+
+                    for ranked_result in message.results:
+                        business = ranked_result.business
+
+                        formatted_results.append(
+                            f"{ranked_result.rank}. "
+                            f"{business.id} | "
+                            f"{business.business.name} | "
+                            f"rating={business.business.rating:.2f}"
+                        )
+
+                else:
+                    formatted_results.append(
+                        f"From {sender}: "
+                        f"{message.type} "
+                        f"{message.model_dump_json(
+                            exclude={'type', 'expiry_time'},
+                            exclude_none=True,
+                        )}"
+                    )
+
+            lines.extend(formatted_results)
+            return lines
+
+        if isinstance(result, ActionExecutionResult):
             lines.append(
-                f"Step {step_number} result: 🔍 Search results "
-                f"for '{result.query}' using {result.algorithm}"
-            )
-            lines.append(
-                f"Returned {len(result.results)} of "
-                f"{result.total_possible_results} matching businesses."
-            )
-
-            for ranked in result.results:
-                business = ranked.business
-
-                entry = (
-                    f"  {ranked.rank}. {business.id} "
-                    f"({business.business.name})"
-                )
-
-                if ranked.score is not None:
-                    entry += f" score={ranked.score:.3f}"
-
-                if ranked.rationale:
-                    entry += f" — {ranked.rationale}"
-
-                lines.append(entry)
-            
-        elif isinstance(result, ActionExecutionResult):
-            lines.append(
-                f"Step {step_number} result: Failed to fetch messages. {result.content}"
+                f"Failed to fetch messages: {result.content}"
             )
         else:
-            lines.append(f"Step {step_number} result: Failed to fetch messages.")
+            lines.append("Failed to fetch messages.")
 
         return lines
 
@@ -362,9 +353,9 @@ Choose your action carefully.
             )
             is_success, error_message = text_message_result
             if is_success:
-                send_message_result_lines.append("✅ Message sent successfully")
+                send_message_result_lines.append("Message sent")
             else:
-                send_message_result_lines.append(f"❌ Send failed: {error_message}")
+                send_message_result_lines.append(f"Send failed: {error_message}")
 
         for pay_message, pay_message_result in zip(
             pay_messages, message_results.pay_message_results, strict=True
@@ -379,7 +370,7 @@ Choose your action carefully.
             is_success, error_message = pay_message_result
             if is_success:
                 send_message_result_lines.append(
-                    "🎉 PAYMENT COMPLETED SUCCESSFULLY! Transaction accepted by platform. The purchase has been finalized."
+                    "Payment sent successfully."
                 )
             else:
                 send_message_result_lines.append(

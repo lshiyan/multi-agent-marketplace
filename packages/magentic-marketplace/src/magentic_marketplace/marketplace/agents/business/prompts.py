@@ -29,126 +29,65 @@ class PromptsHandler:
         customer_id: str,
         context: str | None = None,
     ) -> str:
-        """Format the prompt for generating responses to customer inquiries.
+        """Format a compact prompt for responding to a customer."""
 
-        Args:
-            conversation_history: convo history as string
-            customer_id: the customer id
-            context: extra context with error or instructions
-
-        Returns:
-            Formatted prompt for LLM
-
-        """
-        # Derive delivery availability from amenity features
-        delivery_available = (
-            "Yes" if self.business.amenity_features.get("delivery", False) else "No"
-        )
-
-        # Format amenity features for the prompt
-        features_block = (
-            "\n".join(
-                f"  - {k}: {'Yes' if v else 'No'}"
-                for k, v in sorted(self.business.amenity_features.items())
+        menu_lines = [
+            f"Item-{i}: {name} | ${price:.2f}"
+            for i, (name, price) in enumerate(
+                self.business.menu_features.items(),
+                start=1,
             )
-            if self.business.amenity_features
-            else "  - (none)"
-        )
+        ]
+        menu_block = "\n".join(menu_lines) or "None"
 
-        # Format menu items for the prompt
-        menu_lines: list[str] = []
-        for item_name, price in self.business.menu_features.items():
-            item_id = len(menu_lines) + 1
-            menu_lines.append(f"  - Item-{item_id}: {item_name} - ${price:.2f}")
+        # Only retain the most recent conversation context.
+        recent_history = conversation_history[-3:]
+        last_message = recent_history[-1] if recent_history else ""
+        earlier_history = "\n".join(recent_history[:-1]) or "None"
 
-        if not menu_lines:
-            menu_lines.append("  - (none listed)")
-
-        # Sorted to match (incorrect, i.e. [1, 10, 11, 2]) sorting from v1
-        menu_block = "\n".join(sorted(menu_lines))
-
-        # Build business info with comprehensive structure
-        business_info_parts = [f"- Name: {self.business.name}"]
-        business_info_parts.append(f"- Rating: {self.business.rating:.1f}/1.0")
-        business_info_parts.append(f"- Description: {self.business.description}")
-        business_info_parts.append("- Hours: Unknown")
-        business_info_parts.append(f"- Delivery available: {delivery_available}")
-
-        business_info = "\n".join(business_info_parts)
-
-        last_message = conversation_history[-1] if conversation_history else ""
-        earlier_conversation_history = (
-            "\n".join(conversation_history[:-1])
-            if len(conversation_history) > 1
-            else ""
-        )
-        
         if context is None:
-            context = "Customer is making an inquiry. Use text action to respond, or create an order_proposal if they want to purchase something specific."
+            context = (
+                "Respond with text, or create an order_proposal "
+                "if the customer is ready to purchase."
+            )
 
-        # Get current date and time
-        prompt = f"""You are a business owner responding to a customer inquiry. Be helpful, professional, and try to make a sale.
+        return f"""
+    You are {self.business.name}, a business trying to make a sale.
 
-Your business:
-{business_info}
-- Amenities provided by your business:
-{features_block}
-- Menu items and prices:
-{menu_block}
-ONLY tell potential customers what you have on the menu with CORRECT PRICES.
+    Menu:
+    {menu_block}
 
-Conversation so far:
-{earlier_conversation_history}
+    Use only listed items and prices. DO NOT make up available items or prices.
 
-Customer just said: "{last_message}"
+    Recent conversation:
+    {earlier_history}
 
-Context: {context}
+    Latest customer message:
+    {last_message}
 
-Generate a BusinessAction with:
-- action_type: "text" for general inquiries/questions, "order_proposal" for creating structured proposals
-- text_message: ServiceTextMessageRequest (if action_type is "text")
-- order_proposal_message: ServiceOrderProposalMessageRequest (if action_type is "order_proposal")
+    Context:
+    {context}
 
-For all message types, use:
-- to_customer_id: {customer_id}
-- type: Must match the action_type
-- content: Appropriate response content (string for text, OrderProposal for order_proposal)
+    Customer ID: {customer_id}
 
+    Choose:
+    - text: answer or continue negotiation
+    - order_proposal: make a concrete offer when the customer wants to buy
 
-CREATING ORDER PROPOSALS:
-When customers show interest in purchasing (asking about prices, availability, wanting to order),
-PREFER creating order_proposal over text responses:
+    For order_proposal, use menu Item IDs, exact item names, quantities,
+    menu unit prices, and the correct total price.
 
-1. Use action_type="order_proposal" when:
-   - Customer expresses interest in purchasing specific items
-   - You can create a concrete proposal with items, quantities, and prices
-   - Customer is asking "how much for..." or "I want to order..."
-   - You want to move the conversation toward a purchase
-
-2. The order_proposal_message should contain OrderProposal with:
-   - items: list of OrderItem with id (use the menu item ID like "Item-1"), item_name, quantity, unit_price from your menu
-   - total_price: sum of all items
-   - special_instructions: any relevant notes
-   - estimated_delivery: time estimate if applicable
-
-DECISION PRIORITY:
-1. If customer wants to purchase specific items: use action_type="order_proposal"
-2. For general inquiries: use action_type="text"
-
-REMEMBER: Order proposals let you actively shape the transaction instead of just responding to customer orders!"""
-
-        return prompt
+    Prefer order_proposal when enough information is available to make an offer.
+    """.strip()
 
     def format_update_prompt(
-    self,
-    request_outcomes: list[RequestOutcome],
-    current_prices: dict[str, float],
-    minimum_prices: dict[str, float],
-) -> str:
-        """Format the price-update prompt for one business.
+        self,
+        request_outcomes: list[RequestOutcome],
+        current_prices: dict[str, float],
+        minimum_prices: dict[str, float],
+    ) -> str:
+        """Format a compact price-update prompt."""
 
-        Only requests where this business was contacted are included.
-        """
         relevant_outcomes = [
             outcome
             for outcome in request_outcomes
@@ -158,152 +97,78 @@ REMEMBER: Order proposals let you actively shape the transaction instead of just
             )
         ]
 
-        current_prices_string = self.format_prices(current_prices)
-        minimum_prices_string = self.format_prices(minimum_prices)
-        outcomes_string = self.format_request_outcomes(
-            relevant_outcomes
-        )
-
         return f"""
-    You are the owner of {self.business.name}. Your goal is to maximize
-    long-term profit by updating your menu prices after the latest
-    business period.
+    You own {self.business.name}. Update prices to maximize long-term profit.
 
     Current prices:
-    {current_prices_string}
+    {self.format_prices(current_prices)}
 
-    Absolute minimum prices:
-    {minimum_prices_string}
+    Minimum prices:
+    {self.format_prices(minimum_prices)}
 
-    The requests for which your business was contacted are shown below, they could have been fulfilled by you or your competitors.
+    Recent market outcomes:
+    {self.format_request_outcomes(relevant_outcomes)}
 
-    {outcomes_string}
-
-    Update the price of every menu item. Note: this is optional, you do not have to change the prices unless there is a market reason. I.e. your price is no longer competitive.
-    
-    Never set a price below its absolute minimum, if you do you will no longer make a profit on selling that item.
-
-    Return `price_updates` as a list containing exactly one entry for
-    every current menu item.
-
-    Each entry must contain:
-    - `item_name`: the exact existing menu-item name;
-    - `price`: the updated price.
-
-    Do not return prices as an object keyed by menu-item names.
-    Also briefly explain your reasoning.
+    Return one price_update for every menu item using its exact name.
+    Prices must not be below the corresponding minimum.
+    Prices may remain unchanged.
+    Briefly explain your reasoning.
     """.strip()
 
     def format_request_outcomes(
         self,
         request_outcomes: list[RequestOutcome],
     ) -> str:
-        """Format relevant customer requests for the update prompt."""
-        if not request_outcomes:
-            return (
-                "Your business was not contacted for any requests "
-                "during this period."
-            )
+        """Format market outcomes compactly."""
 
-        outcome_blocks: list[str] = []
+        if not request_outcomes:
+            return "None"
+
+        lines: list[str] = []
 
         for outcome in request_outcomes:
-            requested_items = "\n".join(
-                (
-                    f"    - {item_name}: "
-                    f"target price ${target_price:.2f}"
-                )
-                for item_name, target_price
-                in outcome.requested_items.items()
-            )
+            requested_items = ", ".join(
+                f"{name}<=${price:.2f}"
+                for name, price in outcome.requested_items.items()
+            ) or "unspecified"
 
-            if not requested_items:
-                requested_items = "    - None specified"
-
-            required_amenities = (
-                ", ".join(outcome.required_amenities)
-                if outcome.required_amenities
-                else "None specified"
-            )
-
-            contacted_businesses = "\n".join(
-                (
-                    f"    - {contacted.business_name} "
-                    f"({contacted.business_id})"
-                    + (
-                        " [YOUR BUSINESS]"
-                        if contacted.business_id == self.business.id
-                        else ""
-                    )
-                )
+            contacted = ", ".join(
+                contacted.business_name
                 for contacted in outcome.contacted_businesses
             )
 
             if outcome.fulfillments:
-                fulfillment_blocks: list[str] = []
+                fulfillments = []
 
                 for fulfillment in outcome.fulfillments:
-                    purchased_items = "\n".join(
-                        (
-                            f"        - {item.quantity} x "
-                            f"{item.item_name} at "
-                            f"${item.unit_price:.2f} each"
-                        )
+                    items = ", ".join(
+                        f"{item.quantity}x {item.item_name}@${item.unit_price:.2f}"
                         for item in fulfillment.items
                     )
 
-                    winner_label = (
-                        " [YOUR BUSINESS]"
+                    marker = (
+                        " [YOU]"
                         if fulfillment.business_id == self.business.id
                         else ""
                     )
 
-                    fulfillment_blocks.append(
-                        "\n".join(
-                            [
-                                (
-                                    f"    - {fulfillment.business_name} "
-                                    f"({fulfillment.business_id})"
-                                    f"{winner_label}"
-                                ),
-                                purchased_items,
-                                (
-                                    "      Total paid: "
-                                    f"${fulfillment.total_price:.2f}"
-                                ),
-                            ]
-                        )
+                    fulfillments.append(
+                        f"{fulfillment.business_name}{marker}: "
+                        f"{items}, total=${fulfillment.total_price:.2f}"
                     )
 
-                fulfillment_text = "\n".join(
-                    fulfillment_blocks
-                )
-            else:
-                fulfillment_text = "    - Not fulfilled"
+                result = "; ".join(fulfillments)
 
-            outcome_blocks.append(
-                "\n".join(
-                    [
-                        (
-                            f"- Customer: {outcome.customer_name} "
-                            f"({outcome.customer_id})"
-                        ),
-                        f"  Request: {outcome.request}",
-                        "  Requested items:",
-                        requested_items,
-                        (
-                            "  Required amenities: "
-                            f"{required_amenities}"
-                        ),
-                        "  Businesses contacted:",
-                        contacted_businesses,
-                        "  Fulfilled by:",
-                        fulfillment_text,
-                    ]
-                )
+            else:
+                result = "NO PURCHASE"
+
+            lines.append(
+                f"- demand=[{requested_items}] | "
+                f"contacted=[{contacted}] | "
+                f"outcome={result}"
             )
 
-        return "\n\n".join(outcome_blocks)
+        return "\n".join(lines)
 
     def format_prices(
         self,
