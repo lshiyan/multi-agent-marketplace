@@ -4,12 +4,10 @@
 import socket
 import random
 import asyncio
-import numpy as np
 import csv
 
 from datetime import datetime
 from pathlib import Path
-from matplotlib.ticker import MaxNLocator
 
 from magentic_marketplace.experiments.utils import (
     load_businesses_from_yaml,
@@ -32,7 +30,6 @@ from magentic_marketplace.marketplace.agents.business.models import (
     RequestOutcome,
 )
 from magentic_marketplace.platform.logger import MarketplaceLogger
-import matplotlib.pyplot as plt
 
 async def _wait_for_business_confirmations(
     expected_payment_ids: set[str],
@@ -315,233 +312,9 @@ def _calculate_period_average_welfare(
         round(average_business_welfare, 2),
     )
     
-import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.ticker import MaxNLocator
 from pathlib import Path
 
 
-def _plot_average_welfare_by_period(
-    periods: list[int],
-    average_customer_welfare: list[float],
-    average_business_welfare: list[float],
-    output_path: Path,
-) -> None:
-    """Save average customer and business welfare over time."""
-    figure, axis = plt.subplots(figsize=(9, 5))
-
-    periods_np = np.array(periods)
-    customer_welfare = np.array(average_customer_welfare)
-    business_welfare = np.array(average_business_welfare)
-
-    # Plot observed welfare
-    axis.plot(
-        periods,
-        average_customer_welfare,
-        marker="o",
-        label="Average customer welfare",
-    )
-    axis.plot(
-        periods,
-        average_business_welfare,
-        marker="o",
-        label="Average business welfare",
-    )
-
-    # Customer welfare line of best fit
-    customer_slope, customer_intercept = np.polyfit(
-        periods_np,
-        customer_welfare,
-        1,
-    )
-    customer_fit = customer_slope * periods_np + customer_intercept
-
-    axis.plot(
-        periods_np,
-        customer_fit,
-        linestyle="--",
-        label="Customer best fit",
-    )
-
-    # Business welfare line of best fit
-    business_slope, business_intercept = np.polyfit(
-        periods_np,
-        business_welfare,
-        1,
-    )
-    business_fit = business_slope * periods_np + business_intercept
-
-    axis.plot(
-        periods_np,
-        business_fit,
-        linestyle="--",
-        label="Business best fit",
-    )
-
-    # Pearson correlation coefficients
-    customer_r = np.corrcoef(
-        periods_np,
-        customer_welfare,
-    )[0, 1]
-
-    business_r = np.corrcoef(
-        periods_np,
-        business_welfare,
-    )[0, 1]
-
-    # Display correlations
-    axis.text(
-        1.02,
-        0.25,
-        f"Customer r = {customer_r:.3f}\n"
-        f"Business r = {business_r:.3f}",
-        transform=axis.transAxes,
-        verticalalignment="top",
-        horizontalalignment="left",
-    )
-
-    axis.axhline(
-        0,
-        linewidth=0.8,
-        linestyle="--",
-    )
-
-    axis.set_title(
-        "Average Customer and Business Welfare by Period"
-    )
-    axis.set_xlabel("Period")
-    axis.set_ylabel("Average welfare")
-
-    axis.xaxis.set_major_locator(MaxNLocator(integer=True))
-
-    axis.legend(
-        loc="center left",
-        bbox_to_anchor=(1.02, 0.5),
-    )
-    axis.grid(alpha=0.3)
-
-    figure.tight_layout()
-    figure.savefig(output_path, dpi=200, bbox_inches="tight")
-    plt.close(figure)
-    
-def plot_successful_purchases_by_period(
-    successful_purchases: list[int],
-    customers_per_run: int,
-    output_path: str
-):
-    periods = np.arange(1, len(successful_purchases) + 1)
-
-    unsuccessful_purchases = [
-        customers_per_run - successful
-        for successful in successful_purchases
-    ]
-
-    width = 0.35
-
-    fig, ax = plt.subplots(figsize=(10, 6))
-
-    ax.bar(
-        periods - width / 2,
-        successful_purchases,
-        width,
-        label="Successful Purchase",
-    )
-
-    ax.bar(
-        periods + width / 2,
-        unsuccessful_purchases,
-        width,
-        label="No Purchase",
-    )
-
-    ax.set_xlabel("Period")
-    ax.set_ylabel("Number of Customers")
-    ax.set_title("Purchases by Period")
-    ax.set_xticks(periods)
-    ax.legend(
-        loc="center left",
-        bbox_to_anchor=(1.02, 0.5),
-    )
-
-    fig.savefig(output_path, dpi=200, bbox_inches="tight")
-    plt.close(fig)
-    
-def plot_average_prices(
-    tracked_businesses: list[BusinessAgent],
-    tracked_businesses_avg_prices: list[list[float]],
-    output_path: Path,
-) -> None:
-    """Plot each tracked business's average price by period."""
-
-    periods = range(1, len(tracked_businesses_avg_prices) + 1)
-
-    figure, axis = plt.subplots(figsize=(10, 6))
-
-    base_average_prices = []
-
-    for business_index, business_agent in enumerate(tracked_businesses):
-        prices = [
-            period_prices[business_index]
-            for period_prices in tracked_businesses_avg_prices
-        ]
-
-        base_prices = business_agent.business.base_menu_features
-        base_average_price = (
-            sum(base_prices.values()) / len(base_prices)
-        )
-        base_average_prices.append(base_average_price)
-
-        line = axis.plot(
-            periods,
-            prices,
-            marker="o",
-            label=business_agent.business.name,
-        )[0]
-
-        axis.axhline(
-            y=base_average_price,
-            linestyle="--",
-            alpha=0.5,
-            color=line.get_color(),
-        )
-
-    final_prices = tracked_businesses_avg_prices[-1]
-
-    price_increases = [
-        (final_price - base_price) / base_price
-        for final_price, base_price in zip(
-            final_prices,
-            base_average_prices,
-        )
-    ]
-
-    average_price_increase = (
-        sum(price_increases) / len(price_increases)
-    )
-
-    axis.set_title("Average Business Prices by Period")
-    axis.set_xlabel("Period")
-    axis.set_ylabel("Average Price")
-    axis.set_xticks(list(periods))
-
-    axis.legend(
-        loc="center left",
-        bbox_to_anchor=(1.02, 0.5),
-    )
-
-    axis.text(
-        1.02,
-        0.25,
-        f"Average price increase: {average_price_increase:.2%}",
-        transform=axis.transAxes,
-        ha="left",
-        va="center",
-    )
-
-    figure.tight_layout()
-    figure.savefig(output_path, dpi=200, bbox_inches="tight")
-    plt.close(figure)
-    
 async def run_marketplace_experiment(
     data_dir: str | Path,
     experiment_name: str | None = None,
@@ -850,28 +623,12 @@ async def run_marketplace_experiment(
             output_dir = Path(output_path) if output_path else Path("out")
             output_dir.mkdir(parents=True, exist_ok=True)
 
-            welfare_plot_path = output_dir / "welfare_by_period.png"
-            purchases_plot_path = output_dir / "purchases_by_period.png"
-            average_prices_plot_path = output_dir / "average_price_by_period.png"
-            _plot_average_welfare_by_period(
-                periods=range(len(period_numbers)),
-                average_customer_welfare=(
-                    average_customer_welfare_by_period
-                ),
-                average_business_welfare=(
-                    average_business_welfare_by_period
-                ),
-                output_path=welfare_plot_path,
-            )
-
-            plot_successful_purchases_by_period(successful_purchases, customers_per_run, purchases_plot_path)
-            
             tracked_businesses = sorted(
                 business_agents,
                 key=lambda business_agent: business_sales_count[business_agent.id],
                 reverse=True,
             )[:min(10, len(business_agents) // 10)]
-            
+
             tracked_businesses_avg_prices = [
                 [
                     business_avg_prices[business_agent.id][period_index]
@@ -879,22 +636,17 @@ async def run_marketplace_experiment(
                 ]
                 for period_index in range(len(period_numbers))
             ]
-            
-            plot_average_prices(tracked_businesses, tracked_businesses_avg_prices, average_prices_plot_path)
-            
-            #Saving all data.
-            
-            welfare_data_path = output_dir / "welfare_by_period.csv"
 
+            # Save all underlying data. Plotting is handled by the standalone
+            # plotting script.
+            welfare_data_path = output_dir / "welfare_by_period.csv"
             with open(welfare_data_path, "w", newline="") as file:
                 writer = csv.writer(file)
-
                 writer.writerow([
                     "period",
                     "average_customer_welfare",
                     "average_business_welfare",
                 ])
-
                 writer.writerows(
                     zip(
                         period_numbers,
@@ -904,16 +656,13 @@ async def run_marketplace_experiment(
                 )
 
             purchases_data_path = output_dir / "purchases_by_period.csv"
-
             with open(purchases_data_path, "w", newline="") as file:
                 writer = csv.writer(file)
-
                 writer.writerow([
                     "period",
                     "successful_purchases",
                     "unsuccessful_purchases",
                 ])
-
                 for period, successful in zip(
                     period_numbers,
                     successful_purchases,
@@ -924,14 +673,11 @@ async def run_marketplace_experiment(
                         customers_per_run - successful,
                     ])
 
-
             average_prices_data_path = (
                 output_dir / "average_price_by_period.csv"
             )
-
             with open(average_prices_data_path, "w", newline="") as file:
                 writer = csv.writer(file)
-
                 writer.writerow([
                     "period",
                     *[
@@ -939,15 +685,30 @@ async def run_marketplace_experiment(
                         for business_agent in tracked_businesses
                     ],
                 ])
-
                 for period_index, period in enumerate(period_numbers):
                     writer.writerow([
                         period,
                         *tracked_businesses_avg_prices[period_index],
                     ])
 
+            # Store each tracked business's original/base average price so the
+            # standalone plotting script can reproduce the baseline lines and
+            # final average price-increase statistic without loading agents.
+            base_prices_data_path = output_dir / "average_price_baselines.csv"
+            with open(base_prices_data_path, "w", newline="") as file:
+                writer = csv.writer(file)
+                writer.writerow(["business", "base_average_price"])
+                for business_agent in tracked_businesses:
+                    base_prices = business_agent.business.base_menu_features
+                    base_average_price = (
+                        sum(base_prices.values()) / len(base_prices)
+                    )
+                    writer.writerow([
+                        business_agent.business.name,
+                        base_average_price,
+                    ])
 
             print(
-                "\nAll plots and underlying data saved to: "
+                "\nAll underlying data saved to: "
                 f"{output_dir.resolve()}"
             )
