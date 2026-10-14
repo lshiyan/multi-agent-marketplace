@@ -121,9 +121,6 @@ class BaseClient:
         self._session: aiohttp.ClientSession | None = None
         self._ref_count: int = 0
 
-        # Start periodic metrics dumping
-        _start_client_metrics_timer(self.base_url)
-
     async def __aenter__(self):
         """Async context manager entry."""
         await self.connect()
