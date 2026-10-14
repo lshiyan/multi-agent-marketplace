@@ -125,8 +125,18 @@ class OpenAIClient(ProviderClient[OpenAIConfig]):
 
         # Handle reasoning vs non-reasoning models
         is_reasoning_model = any(
-            reasoning_model in model for reasoning_model in ("gpt-5", "o4", "o3", "o1")
+            name in model for name in ("gpt-5", "gpt-6", "o4", "o3", "o1")
         )
+
+        if max_tokens is not None:
+            args["max_completion_tokens"] = max_tokens
+
+        if is_reasoning_model:
+            if reasoning_effort is not None:
+                args["reasoning_effort"] = reasoning_effort
+        else:
+            if temperature is not None:
+                args["temperature"] = temperature
 
         if is_reasoning_model:
             # Reasoning models use max_completion_tokens
