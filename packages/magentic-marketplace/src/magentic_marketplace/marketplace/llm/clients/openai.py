@@ -128,40 +128,29 @@ class OpenAIClient(ProviderClient[OpenAIConfig]):
             name in model for name in ("gpt-5", "gpt-6", "o4", "o3", "o1")
         )
 
-        if max_tokens is not None:
-            args["max_completion_tokens"] = max_tokens
+        is_reasoning_model = any(
+            name in model for name in ("gpt-5", "gpt-6", "o4", "o3", "o1")
+        )
+
+        args.update(kwargs)
 
         if is_reasoning_model:
-            if reasoning_effort is not None:
-                args["reasoning_effort"] = reasoning_effort
-        else:
-            if temperature is not None:
-                args["temperature"] = temperature
+            args.pop("max_tokens", None)
 
-        if is_reasoning_model:
-            # Reasoning models use max_completion_tokens
-            if max_tokens:
+            if max_tokens is not None:
                 args["max_completion_tokens"] = max_tokens
 
-            if "gpt-5-chat" not in model:
-                # Most reasoning models don't support temperature < 1
-                if temperature and temperature < 1.0:
-                    temperature = None
-
-            # Handle reasoning effort for supported models
-            if reasoning_effort is not None and "o1" not in model:
-                if reasoning_effort == "minimal":
-                    reasoning_effort = "low"  # o models don't support minimal
+            if reasoning_effort is not None:
                 args["reasoning_effort"] = reasoning_effort
+
         else:
-            # Non-reasoning models
-            if temperature is not None:
-                args["temperature"] = temperature
+            args.pop("max_completion_tokens", None)
+
             if max_tokens is not None:
                 args["max_tokens"] = max_tokens
 
-        # Add any additional kwargs
-        args.update(kwargs)
+            if temperature is not None:
+                args["temperature"] = temperature
 
         # Handle structured output
         if response_format is not None:
