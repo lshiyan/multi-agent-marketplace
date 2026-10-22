@@ -75,7 +75,7 @@ class CustomerAgent(BaseSimpleMarketplaceAgent[CustomerAgentProfile]):
 
         self._polling_interval = polling_interval
         self._max_steps = max_steps
-        self.purchased = True
+        self.purchased = False
 
     @property
     def customer(self) -> Customer:
@@ -334,11 +334,11 @@ class CustomerAgent(BaseSimpleMarketplaceAgent[CustomerAgentProfile]):
             self._event_history.append((action, send_message_results))
 
         elif action.action_type == "end_transaction":
+            self.purchased = True
             self.shutdown()
         
         elif action.action_type == "no_purchase":
             # Accept the proposal specified by the LLM
-            self.purchased = False
             self.shutdown()
 
         # No new messages
