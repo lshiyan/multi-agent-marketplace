@@ -45,7 +45,7 @@ class BaseLLMConfig(BaseModel):
         "LLM_MODEL", "AME_MODEL", "AZURE_OPENAI_DEPLOYMENT_NAME", default=None
     )
     reasoning_effort: Literal["minimal", "low", "medium", "high"] | int = EnvField(
-        "LLM_REASONING_EFFORT", "REASONING_EFFORT", default="minimal"
+        "LLM_REASONING_EFFORT", "REASONING_EFFORT", default="low"
     )
     temperature: float | None = EnvField("LLM_TEMPERATURE", default=None)
     max_tokens: int = EnvField("LLM_MAX_TOKENS", default=2000)

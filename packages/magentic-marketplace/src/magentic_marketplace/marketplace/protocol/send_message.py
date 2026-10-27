@@ -88,17 +88,7 @@ async def _validate_message_content(
         for row in action_rows:
             action = SendMessage.model_validate(row.data.request.parameters)
             if isinstance(action.message, OrderProposal):
-                logger.warning("Ignoring OrderProposal expiry time!")
                 order_proposals.append(action.message)
-                # TODO: Get LLMs to generate a decent expiry time, then bring this back:
-                # if (
-                #     action.message.expiry_time
-                #     and action.message.expiry_time
-                #     < datetime.now(action.message.expiry_time.tzinfo)
-                # ):
-                #     logger.warning("Skipping expired order proposal")
-                # else:
-                #     order_proposals.append(action.message)
             else:
                 logger.warning(
                     f"OrderProposal query returned non OrderProposal action: {action.message.model_dump_json(indent=2)}"
