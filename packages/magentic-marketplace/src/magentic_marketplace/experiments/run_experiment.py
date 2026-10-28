@@ -143,12 +143,6 @@ def _build_request_outcomes(
                 stored_proposal.customer_id
             ].append(fulfillment)
 
-            print(
-                "DEBUG FULFILLMENT ADDED:",
-                repr(stored_proposal.customer_id),
-                repr(proposal_id),
-            )
-
     outcomes: list[RequestOutcome] = []
 
     for customer_agent in customer_agents:
@@ -176,13 +170,6 @@ def _build_request_outcomes(
                 )
             )
 
-        print(
-            "DEBUG CUSTOMER LOOKUP:",
-            repr(customer_agent.id),
-            "available customer IDs:",
-            list(fulfillments_by_customer.keys()),
-        )
-
         fulfillments = fulfillments_by_customer.get(
             customer_agent.id,
             [],
@@ -206,14 +193,6 @@ def _build_request_outcomes(
                 fulfilled=bool(fulfillments),
                 fulfillments=fulfillments,
             )
-        )
-
-    print("DEBUG BUILD OUTCOMES")
-    for outcome in outcomes:
-        print(
-            outcome.customer_id,
-            "fulfilled:", outcome.fulfilled,
-            "fulfillments:", len(outcome.fulfillments),
         )
 
     return outcomes
@@ -256,10 +235,7 @@ def _customer_npe_rows(
         for item in fulfillment.items:
             quantities[item.item_name] = quantities.get(item.item_name, 0) + item.quantity
         requested = set(outcome.requested_items)
-        print("DEBUG NPE BASKET")
-        print("customer:", outcome.customer_id)
-        print("requested_items:", outcome.requested_items)
-        print("fulfillment_items:", outcome.fulfillments[0].items)
+
         if not requested.issubset(quantities):
             row["status"] = "incomplete_basket"
             rows.append(row)
@@ -523,6 +499,8 @@ async def run_marketplace_experiment(
 
         competitive_prices = price_calculator.competitive_equilibrium_prices()
         monopoly_prices = price_calculator.monopoly_equilibrium()
+
+        logger.info("Calculated benchmark prices for NPE analysis.")\
         
         async with AgentLauncher(
             marketplace_launcher.server_url
@@ -597,23 +575,6 @@ async def run_marketplace_experiment(
                         expected_payment_ids=expected_payment_ids,
                     )
 
-                    print("DEBUG PERIOD OUTCOMES")
-                    print("Number of outcomes:", len(period_request_outcomes))
-                    print(
-                        "Number of fulfillments:",
-                        sum(len(o.fulfillments) for o in period_request_outcomes),
-                    )
-
-                    print("Customer purchased:", sum(a.purchased for a in customer_agents))
-                    print("Submitted payments:", len(expected_payment_ids))
-                    print("Confirmed payments in current run:", sum(
-                        len(set(b.confirmed_orders) & expected_payment_ids)
-                        for b in business_agents
-                    ))
-                    print("Recorded fulfillments:", sum(
-                        len(o.fulfillments) for o in period_request_outcomes
-                    ))
-
                     for outcome in period_request_outcomes:
                         for fulfillment in outcome.fulfillments:
                             business_sales_count[fulfillment.business_id] += 1
@@ -627,10 +588,6 @@ async def run_marketplace_experiment(
                         competitive_prices,
                         monopoly_prices,
                     )
-
-                    print("DEBUG NPE ROWS")
-                    for row in period_npe_rows:
-                        print(row["customer_id"], row["status"], row["npe"])
 
                     npe_rows.extend(period_npe_rows)
 

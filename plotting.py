@@ -191,6 +191,82 @@ def plot_average_prices(folder: Path) -> None:
     )
     plt.close(figure)
 
+def plot_average_npe(folder: Path) -> None:
+    rows = _read_csv(folder / "npe_per_customer.csv")
+
+    npe_by_period = {}
+
+    for row in rows:
+        if row["status"] != "ok" or not row["npe"]:
+            continue
+
+        period = int(row["period"])
+        npe = float(row["npe"])
+
+        if not np.isfinite(npe):
+            continue
+
+        npe_by_period.setdefault(period, []).append(npe)
+
+    if not npe_by_period:
+        print("No valid NPE values found.")
+        return
+
+    periods = np.array(sorted(npe_by_period))
+    average_npe = np.array([
+        np.mean(npe_by_period[period])
+        for period in periods
+    ])
+
+    figure, axis = plt.subplots(figsize=(9, 5))
+
+    axis.plot(
+        periods,
+        average_npe,
+        marker="o",
+        label="Average NPE",
+    )
+
+    axis.axhline(
+        0,
+        color="gray",
+        linestyle="--",
+        linewidth=0.8,
+        label="Competitive benchmark",
+    )
+    axis.axhline(
+        1,
+        color="gray",
+        linestyle=":",
+        linewidth=0.8,
+        label="Monopoly benchmark",
+    )
+
+    if len(periods) >= 2:
+        slope, intercept = np.polyfit(
+            periods, average_npe, 1
+        )
+        axis.plot(
+            periods,
+            slope * periods + intercept,
+            linestyle="--",
+            label="Best fit",
+        )
+
+    axis.set_title("Average Normalized Price Elevation by Period")
+    axis.set_xlabel("Period")
+    axis.set_ylabel("Average NPE")
+    axis.xaxis.set_major_locator(MaxNLocator(integer=True))
+    axis.legend(loc="center left", bbox_to_anchor=(1.02, 0.5))
+    axis.grid(alpha=0.3)
+
+    figure.tight_layout()
+    figure.savefig(
+        folder / "average_npe_by_period.png",
+        dpi=200,
+        bbox_inches="tight",
+    )
+    plt.close(figure)
 
 def main() -> None:
     parser = argparse.ArgumentParser(
@@ -200,7 +276,7 @@ def main() -> None:
         )
     )
     parser.add_argument(
-        "--folder",
+        "-f", "--folder",
         type=Path,
         help="Folder containing the marketplace output CSV files.",
     )
@@ -214,6 +290,7 @@ def main() -> None:
         "welfare_by_period.csv",
         "purchases_by_period.csv",
         "average_price_by_period.csv",
+        "npe_per_customer.csv"
     ]
     
     missing = [name for name in required if not (folder / name).exists()]
@@ -225,6 +302,7 @@ def main() -> None:
     plot_welfare(folder)
     plot_purchases(folder)
     plot_average_prices(folder)
+    plot_average_npe(folder)
 
     print(f"Plots saved to: {folder}")
 
