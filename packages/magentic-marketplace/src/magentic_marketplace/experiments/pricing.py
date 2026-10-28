@@ -208,11 +208,20 @@ class PriceCalculator:
             )
 
         return equilibrium_prices
+    
+    def monopoly_equilibrium(
+        self,
+        competitive_prices=None,
+        maxiter=2000,
+        maxfun=10000,
+    ):
+        """Optimize joint marketplace profit using analytical gradients."""
 
-    def monopoly_equilibrium(self):
-        """Solves for monopoly prices that maximize total marketplace profit."""
+        businesses_by_id = {
+            business.id: business
+            for business in self.businesses
+        }
 
-        # Save original prices
         original_prices = {
             business.id: business.current_prices.copy()
             for business in self.businesses
@@ -231,38 +240,146 @@ class PriceCalculator:
             if item in requested_items
         ]
 
-        businesses_by_id = {
-            business.id: business
-            for business in self.businesses
+        if not price_keys:
+            return original_prices
+
+        index = {
+            key: idx for idx, key in enumerate(price_keys)
         }
 
+        costs = np.array([
+            businesses_by_id[bid].minimum_prices[item]
+            for bid, item in price_keys
+        ], dtype=float)
+
+        bounds = [(float(cost), None) for cost in costs]
+
+        initial_prices = competitive_prices or original_prices
+
         x0 = np.array([
-            businesses_by_id[bid].current_prices[item]
+            initial_prices[bid][item]
             for bid, item in price_keys
-        ])
+        ], dtype=float)
 
-        bounds = [
-            (businesses_by_id[bid].minimum_prices[item], None)
-            for bid, item in price_keys
-        ]
+        x0 = np.maximum(x0, costs)
 
-        def objective(x):
-            for (bid, item), price in zip(price_keys, x):
-                business = businesses_by_id[bid]
-                business.current_prices[item] = float(price)
-                business.business.menu_features[item] = float(price)
+        # Precompute feasible baskets.
+        baskets = []
 
-            return -self.total_expected_profit()
-        
+        for customer in self.customers:
+            quantities = {
+                item: float(quantity)
+                for item, quantity in customer.menu_features.items()
+            }
+
+            # Assumes menu_features values are quantities.
+            # If not, replace this with the actual requested quantities.
+
+            alternatives = []
+
+            for business in self.businesses:
+                if not all(
+                    item in business.current_prices
+                    for item in quantities
+                ):
+                    continue
+
+                indices = np.array([
+                    index[(business.id, item)]
+                    for item in quantities
+                ], dtype=int)
+
+                q = np.array(
+                    list(quantities.values()),
+                    dtype=float,
+                )
+
+                alternatives.append((indices, q))
+
+            if alternatives:
+                baskets.append(alternatives)
+
+        lam = 1.0 / (self.alpha * self.mu)
+
+        def objective_and_gradient(x):
+            total_profit = 0.0
+            gradient = np.zeros_like(x)
+
+            for alternatives in baskets:
+                basket_prices = []
+                basket_costs = []
+
+                for indices, q in alternatives:
+                    basket_prices.append(
+                        np.dot(x[indices], q)
+                    )
+                    basket_costs.append(
+                        np.dot(costs[indices], q)
+                    )
+
+                basket_prices = np.asarray(basket_prices)
+                basket_costs = np.asarray(basket_costs)
+
+                utilities = (
+                    self.a - basket_prices / self.alpha
+                ) / self.mu
+
+                log_denom = logsumexp(
+                    np.concatenate((
+                        [self.outside_utility / self.mu],
+                        utilities,
+                    ))
+                )
+
+                probabilities = np.exp(
+                    utilities - log_denom
+                )
+
+                margins = basket_prices - basket_costs
+
+                customer_profit = np.dot(
+                    probabilities, margins
+                )
+
+                total_profit += customer_profit
+
+                coefficients = probabilities * (
+                    1.0 - lam * (margins - customer_profit)
+                )
+
+                for (indices, q), coefficient in zip(
+                    alternatives, coefficients
+                ):
+                    np.add.at(
+                        gradient,
+                        indices,
+                        coefficient * q,
+                    )
+
+            # scipy minimizes rather than maximizes.
+            return -total_profit, -gradient
+
         result = minimize(
-            objective,
+            objective_and_gradient,
             x0,
             method="L-BFGS-B",
+            jac=True,
             bounds=bounds,
+            options={
+                "maxiter": maxiter,
+                "maxfun": maxfun,
+                "ftol": 1e-10,
+                "gtol": 1e-6,
+                "maxls": 50,
+            },
         )
 
         if not result.success:
-            print(f"Warning: {result.message}")
+            raise RuntimeError(
+                f"Monopoly optimization failed: {result.message}; "
+                f"iterations={result.nit}; "
+                f"evaluations={result.nfev}"
+            )
 
         monopoly_prices = {
             bid: prices.copy()
@@ -272,10 +389,11 @@ class PriceCalculator:
         for (bid, item), price in zip(price_keys, result.x):
             monopoly_prices[bid][item] = float(price)
 
-        for business in self.businesses:
-            business.current_prices = original_prices[business.id].copy()
-            business.business.menu_features.update(
-                original_prices[business.id]
-            )
+        print(
+            f"Monopoly converged: "
+            f"profit={-result.fun:.6f}, "
+            f"iterations={result.nit}, "
+            f"evaluations={result.nfev}"
+        )
 
         return monopoly_prices

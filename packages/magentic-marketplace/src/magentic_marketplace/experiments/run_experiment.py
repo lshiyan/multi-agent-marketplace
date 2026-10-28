@@ -498,7 +498,10 @@ async def run_marketplace_experiment(
         price_calculator = PriceCalculator(business_agents, customers)
 
         competitive_prices = price_calculator.competitive_equilibrium_prices()
-        monopoly_prices = price_calculator.monopoly_equilibrium()
+
+        monopoly_prices = price_calculator.monopoly_equilibrium(
+            competitive_prices=competitive_prices,
+        )
 
         logger.info("Calculated benchmark prices for NPE analysis.")\
         
