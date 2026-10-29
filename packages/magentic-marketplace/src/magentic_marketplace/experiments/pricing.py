@@ -268,12 +268,9 @@ class PriceCalculator:
 
         for customer in self.customers:
             quantities = {
-                item: float(quantity)
-                for item, quantity in customer.menu_features.items()
+                item: 1.0
+                for item in customer.menu_features
             }
-
-            # Assumes menu_features values are quantities.
-            # If not, replace this with the actual requested quantities.
 
             alternatives = []
 
