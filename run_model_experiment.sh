@@ -31,3 +31,7 @@ echo "Provider: $provider | Model: $model"
 echo "PID: $pid"
 echo "Log: $output_path/run.log"
 echo "Monitor: tail -f $output_path/run.log"
+
+echo "Ending PostgreSQL service..."
+bash end_services.sh
+echo "PostgreSQL service stopped."
