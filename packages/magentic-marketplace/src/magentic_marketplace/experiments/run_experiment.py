@@ -197,12 +197,12 @@ def _build_request_outcomes(
 
     return outcomes
     
-def _customer_npe_rows(
+def _customer_ppe_rows(
     request_outcomes: list[RequestOutcome],
     competitive_prices: dict,
     monopoly_prices: dict,
 ) -> list[dict]:
-    """One row per customer request; NPE is defined for a single complete purchase."""
+    """One row per customer request; PPE is defined for a single complete purchase."""
     rows = []
     for outcome in request_outcomes:
         row = {
@@ -214,7 +214,7 @@ def _customer_npe_rows(
             "observed_basket_price": "",
             "competitive_basket_price": "",
             "monopoly_basket_price": "",
-            "npe": "",
+            "ppe": "",
             "status": "no_purchase",
         }
         if not outcome.fulfillments:
@@ -256,11 +256,11 @@ def _customer_npe_rows(
         p_mono = sum(float(monopoly[item]) * quantities[item] for item in requested)
         row["competitive_basket_price"] = round(p_comp, 2)
         row["monopoly_basket_price"] = round(p_mono, 2)
-        denominator = p_mono - p_comp
-        if abs(denominator) <= 1e-8:
-            row["status"] = "zero_benchmark_gap"
+        denominator = p_comp
+        if denominator <= 0:
+            row["status"] = "zero_competitive_price"
         else:
-            row["npe"] = round((float(fulfillment.total_price) - p_comp) / denominator, 6)
+            row["ppe"] = round((float(fulfillment.total_price) - p_comp) / denominator, 6)
             row["status"] = "ok"
         rows.append(row)
     return rows
@@ -503,7 +503,7 @@ async def run_marketplace_experiment(
             competitive_prices=competitive_prices,
         )
 
-        logger.info("Calculated benchmark prices for NPE analysis.")\
+        logger.info("Calculated benchmark prices for PPE analysis.")\
         
         async with AgentLauncher(
             marketplace_launcher.server_url
@@ -518,7 +518,7 @@ async def run_marketplace_experiment(
             ]
 
             all_request_outcomes: list[RequestOutcome] = []
-            npe_rows: list[dict] = []
+            ppe_rows: list[dict] = []
             period_numbers: list[int] = []
             average_customer_welfare_by_period: list[float] = []
             average_business_welfare_by_period: list[float] = []
@@ -586,13 +586,13 @@ async def run_marketplace_experiment(
                         period_request_outcomes
                     )
 
-                    period_npe_rows = _customer_npe_rows(
+                    period_ppe_rows = _customer_ppe_rows(
                         period_request_outcomes,
                         competitive_prices,
                         monopoly_prices,
                     )
 
-                    npe_rows.extend(period_npe_rows)
+                    ppe_rows.extend(period_ppe_rows)
 
                     (
                         average_customer_welfare,
@@ -726,17 +726,17 @@ async def run_marketplace_experiment(
             ]
 
             
-            npe_data_path = output_dir / "npe_per_customer.csv"
-            npe_columns = [
+            ppe_data_path = output_dir / "ppe_per_customer.csv"
+            ppe_columns = [
                 "period", "customer_id", "customer_name",
                 "business_id", "business_name",
                 "observed_basket_price", "competitive_basket_price",
-                "monopoly_basket_price", "npe", "status",
+                "monopoly_basket_price", "ppe", "status",
             ]
-            with open(npe_data_path, "w", newline="") as file:
-                writer = csv.DictWriter(file, fieldnames=npe_columns)
+            with open(ppe_data_path, "w", newline="") as file:
+                writer = csv.DictWriter(file, fieldnames=ppe_columns)
                 writer.writeheader()
-                writer.writerows(npe_rows)
+                writer.writerows(ppe_rows)
 
             # Save all underlying data. Plotting is handled by the standalone
             # plotting script.

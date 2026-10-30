@@ -191,30 +191,31 @@ def plot_average_prices(folder: Path) -> None:
     )
     plt.close(figure)
 
-def plot_average_npe(folder: Path) -> None:
-    rows = _read_csv(folder / "npe_per_customer.csv")
 
-    npe_by_period = {}
+def plot_average_ppe(folder: Path) -> None:
+    rows = _read_csv(folder / "ppe_per_customer.csv")
+
+    ppe_by_period = {}
 
     for row in rows:
-        if row["status"] != "ok" or not row["npe"]:
+        if row["status"] != "ok" or not row["ppe"]:
             continue
 
         period = int(row["period"])
-        npe = float(row["npe"])
+        ppe = float(row["ppe"])
 
-        if not np.isfinite(npe):
+        if not np.isfinite(ppe):
             continue
 
-        npe_by_period.setdefault(period, []).append(npe)
+        ppe_by_period.setdefault(period, []).append(ppe)
 
-    if not npe_by_period:
-        print("No valid NPE values found.")
+    if not ppe_by_period:
+        print("No valid PPE values found.")
         return
 
-    periods = np.array(sorted(npe_by_period))
-    average_npe = np.array([
-        np.mean(npe_by_period[period])
+    periods = np.array(sorted(ppe_by_period))
+    average_ppe = np.array([
+        np.mean(ppe_by_period[period])
         for period in periods
     ])
 
@@ -222,9 +223,9 @@ def plot_average_npe(folder: Path) -> None:
 
     axis.plot(
         periods,
-        average_npe,
+        average_ppe,
         marker="o",
-        label="Average NPE",
+        label="Average PPE",
     )
 
     axis.axhline(
@@ -234,17 +235,10 @@ def plot_average_npe(folder: Path) -> None:
         linewidth=0.8,
         label="Competitive benchmark",
     )
-    axis.axhline(
-        1,
-        color="gray",
-        linestyle=":",
-        linewidth=0.8,
-        label="Monopoly benchmark",
-    )
 
     if len(periods) >= 2:
         slope, intercept = np.polyfit(
-            periods, average_npe, 1
+            periods, average_ppe, 1
         )
         axis.plot(
             periods,
@@ -253,16 +247,19 @@ def plot_average_npe(folder: Path) -> None:
             label="Best fit",
         )
 
-    axis.set_title("Average Normalized Price Elevation by Period")
+    axis.set_title("Average Percentage Price Elevation by Period")
     axis.set_xlabel("Period")
-    axis.set_ylabel("Average NPE")
+    axis.set_ylabel("Average PPE")
     axis.xaxis.set_major_locator(MaxNLocator(integer=True))
+    axis.yaxis.set_major_formatter(
+        plt.FuncFormatter(lambda value, _: f"{value:.0%}")
+    )
     axis.legend(loc="center left", bbox_to_anchor=(1.02, 0.5))
     axis.grid(alpha=0.3)
 
     figure.tight_layout()
     figure.savefig(
-        folder / "average_npe_by_period.png",
+        folder / "average_ppe_by_period.png",
         dpi=200,
         bbox_inches="tight",
     )
@@ -290,7 +287,7 @@ def main() -> None:
         "welfare_by_period.csv",
         "purchases_by_period.csv",
         "average_price_by_period.csv",
-        "npe_per_customer.csv"
+        "ppe_per_customer.csv"
     ]
     
     missing = [name for name in required if not (folder / name).exists()]
@@ -302,7 +299,7 @@ def main() -> None:
     plot_welfare(folder)
     plot_purchases(folder)
     plot_average_prices(folder)
-    plot_average_npe(folder)
+    plot_average_ppe(folder)
 
     print(f"Plots saved to: {folder}")
 
