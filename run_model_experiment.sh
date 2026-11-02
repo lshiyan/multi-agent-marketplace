@@ -15,6 +15,15 @@ mkdir -p "$output_path"
 export LLM_PROVIDER="$provider"
 export LLM_MODEL="$model"
 
+# Automatically stop services when the script exits.
+cleanup() {
+    echo "Stopping PostgreSQL services..."
+    bash end_services.sh
+    echo "PostgreSQL services stopped."
+}
+
+trap cleanup EXIT
+
 nohup magentic-marketplace run data/mexican_100_300 \
     --experiment-name "$experiment_name" \
     --override \
@@ -26,9 +35,14 @@ nohup magentic-marketplace run data/mexican_100_300 \
     > "$output_path/run.log" 2>&1 &
 
 pid=$!
+
 echo "Started experiment: $experiment_name"
 echo "Provider: $provider | Model: $model"
 echo "PID: $pid"
 echo "Log: $output_path/run.log"
 echo "Monitor: tail -f $output_path/run.log"
 
+# Wait until the experiment finishes.
+wait "$pid"
+
+echo "Experiment completed."
