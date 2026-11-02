@@ -191,9 +191,11 @@ def plot_average_prices(folder: Path) -> None:
     )
     plt.close(figure)
 
-
-def plot_average_ppe(folder: Path) -> None:
+def plot_average_ppe(folder: Path, alpha: float = 0.3) -> None:
     rows = _read_csv(folder / "ppe_per_customer.csv")
+
+    if not 0 < alpha <= 1:
+        raise ValueError("alpha must be in (0, 1].")
 
     ppe_by_period = {}
 
@@ -214,18 +216,29 @@ def plot_average_ppe(folder: Path) -> None:
         return
 
     periods = np.array(sorted(ppe_by_period))
+
     average_ppe = np.array([
         np.mean(ppe_by_period[period])
         for period in periods
     ])
 
+    # Calculate exponential moving average
+    ema_ppe = np.zeros_like(average_ppe)
+    ema_ppe[0] = average_ppe[0]
+
+    for i in range(1, len(average_ppe)):
+        ema_ppe[i] = (
+            alpha * average_ppe[i]
+            + (1 - alpha) * ema_ppe[i - 1]
+        )
+
     figure, axis = plt.subplots(figsize=(9, 5))
 
     axis.plot(
         periods,
-        average_ppe,
+        ema_ppe,
         marker="o",
-        label="Average PPE",
+        label=f"EMA PPE (α={alpha})",
     )
 
     axis.axhline(
@@ -238,7 +251,7 @@ def plot_average_ppe(folder: Path) -> None:
 
     if len(periods) >= 2:
         slope, intercept = np.polyfit(
-            periods, average_ppe, 1
+            periods, ema_ppe, 1
         )
         axis.plot(
             periods,
@@ -247,13 +260,26 @@ def plot_average_ppe(folder: Path) -> None:
             label="Best fit",
         )
 
-    axis.set_title("Average Percentage Price Elevation by Period")
+        correlation = np.corrcoef(periods, ema_ppe)[0, 1]
+
+        if np.isfinite(correlation):
+            axis.text(
+                1.02,
+                0.25,
+                f"Pearson r = {correlation:.3f}",
+                transform=axis.transAxes,
+                ha="left",
+                va="center",
+            )
+
+    axis.set_title("Exponential Moving Average PPE by Period")
     axis.set_xlabel("Period")
-    axis.set_ylabel("Average PPE")
+    axis.set_ylabel("EMA PPE")
     axis.xaxis.set_major_locator(MaxNLocator(integer=True))
     axis.yaxis.set_major_formatter(
         plt.FuncFormatter(lambda value, _: f"{value:.0%}")
     )
+
     axis.legend(loc="center left", bbox_to_anchor=(1.02, 0.5))
     axis.grid(alpha=0.3)
 
