@@ -15,9 +15,18 @@ def _read_csv(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(file))
 
 
-def plot_welfare(folder: Path) -> None:
+def plot_welfare(folder: Path, alpha: float = 0.3) -> None:
+    if not 0 < alpha <= 1:
+        raise ValueError("alpha must be in (0, 1].")
+
     path = folder / "welfare_by_period.csv"
     rows = _read_csv(path)
+
+    if not rows:
+        print("No welfare data found.")
+        return
+
+    rows = sorted(rows, key=lambda row: int(row["period"]))
 
     periods = np.array([int(row["period"]) for row in rows])
     customer = np.array(
@@ -27,14 +36,47 @@ def plot_welfare(folder: Path) -> None:
         [float(row["average_business_welfare"]) for row in rows]
     )
 
+    # Calculate exponential moving averages
+    customer_ema = np.zeros_like(customer)
+    business_ema = np.zeros_like(business)
+
+    customer_ema[0] = customer[0]
+    business_ema[0] = business[0]
+
+    for i in range(1, len(periods)):
+        customer_ema[i] = (
+            alpha * customer[i]
+            + (1 - alpha) * customer_ema[i - 1]
+        )
+        business_ema[i] = (
+            alpha * business[i]
+            + (1 - alpha) * business_ema[i - 1]
+        )
+
     figure, axis = plt.subplots(figsize=(9, 5))
-    axis.plot(periods, customer, marker="o", label="Average customer welfare")
-    axis.plot(periods, business, marker="o", label="Average business welfare")
+
+    axis.plot(
+        periods,
+        customer_ema,
+        marker="o",
+        label=f"Customer welfare EMA (α={alpha})",
+    )
+    axis.plot(
+        periods,
+        business_ema,
+        marker="o",
+        label=f"Business welfare EMA (α={alpha})",
+    )
 
     correlation_text = []
+
     if len(periods) >= 2:
-        customer_slope, customer_intercept = np.polyfit(periods, customer, 1)
-        business_slope, business_intercept = np.polyfit(periods, business, 1)
+        customer_slope, customer_intercept = np.polyfit(
+            periods, customer_ema, 1
+        )
+        business_slope, business_intercept = np.polyfit(
+            periods, business_ema, 1
+        )
 
         axis.plot(
             periods,
@@ -49,19 +91,35 @@ def plot_welfare(folder: Path) -> None:
             label="Business best fit",
         )
 
-        customer_r = np.corrcoef(periods, customer)[0, 1]
-        business_r = np.corrcoef(periods, business)[0, 1]
-        correlation_text = [
-            f"Customer r = {customer_r:.3f}",
-            f"Business r = {business_r:.3f}",
-        ]
+        customer_r = np.corrcoef(periods, customer_ema)[0, 1]
+        business_r = np.corrcoef(periods, business_ema)[0, 1]
 
-    axis.axhline(0, linewidth=0.8, linestyle="--")
-    axis.set_title("Average Customer and Business Welfare by Period")
+        if np.isfinite(customer_r):
+            correlation_text.append(
+                f"Customer r = {customer_r:.3f}"
+            )
+
+        if np.isfinite(business_r):
+            correlation_text.append(
+                f"Business r = {business_r:.3f}"
+            )
+
+    axis.axhline(
+        0,
+        linewidth=0.8,
+        linestyle="--",
+        color="gray",
+    )
+
+    axis.set_title("Exponential Moving Average Welfare by Period")
     axis.set_xlabel("Period")
-    axis.set_ylabel("Average welfare")
+    axis.set_ylabel("EMA Welfare")
     axis.xaxis.set_major_locator(MaxNLocator(integer=True))
-    axis.legend(loc="center left", bbox_to_anchor=(1.02, 0.5))
+
+    axis.legend(
+        loc="center left",
+        bbox_to_anchor=(1.02, 0.5),
+    )
 
     if correlation_text:
         axis.text(
@@ -74,6 +132,7 @@ def plot_welfare(folder: Path) -> None:
         )
 
     axis.grid(alpha=0.3)
+
     figure.tight_layout()
     figure.savefig(
         folder / "welfare_by_period.png",
