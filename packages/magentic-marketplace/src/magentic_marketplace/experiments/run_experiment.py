@@ -414,6 +414,12 @@ async def run_marketplace_experiment(
     print(f"Loading data from: {data_dir}")
     businesses = load_businesses_from_yaml(businesses_dir)
     customers = load_customers_from_yaml(customers_dir)
+
+    non_distractor_items = {
+        item
+        for customer in customers
+        for item in customer.menu_features
+    }
     successful_purchases = []
     
     print(f"Loaded {len(customers)} customers and {len(businesses)} businesses")
@@ -813,3 +819,43 @@ async def run_marketplace_experiment(
                 "\nAll underlying data saved to: "
                 f"{output_dir.resolve()}"
             )
+
+            business_ppe_path = output_dir / "average_business_ppe.csv"
+
+            with open(business_ppe_path, "w", newline="") as file:
+                writer = csv.writer(file)
+                writer.writerow(["business_name", "average_ppe_increase"])
+
+                for business_agent in business_agents:
+                    business_id = business_agent.id
+                    current_prices = business_agent.current_prices
+                    comp_prices = competitive_prices.get(business_id, {})
+
+                    ppe_values = []
+
+                    for item, observed_price in current_prices.items():
+                        if item not in non_distractor_items:
+                            continue
+
+                        competitive_price = comp_prices.get(item)
+
+                        if competitive_price is None or competitive_price <= 0:
+                            continue
+
+                        ppe = (
+                            (float(observed_price) - float(competitive_price))
+                            / float(competitive_price)
+                        )
+
+                        ppe_values.append(ppe)
+
+                    average_ppe = (
+                        sum(ppe_values) / len(ppe_values)
+                        if ppe_values
+                        else None
+                    )
+
+                    writer.writerow([
+                        business_agent.business.name,
+                        round(average_ppe, 6) if average_ppe is not None else "",
+                    ])

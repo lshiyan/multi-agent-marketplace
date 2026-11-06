@@ -350,6 +350,66 @@ def plot_average_ppe(folder: Path, alpha: float = 0.3) -> None:
     )
     plt.close(figure)
 
+def plot_business_ppe_distribution(folder: Path) -> None:
+    """Plot the distribution of final average item-level PPE across businesses."""
+    rows = _read_csv(folder / "average_business_ppe.csv")
+
+    values = []
+    for row in rows:
+        raw = row["average_ppe_increase"]
+        if not raw:
+            continue
+        value = float(raw)
+        if np.isfinite(value):
+            values.append(value * 100)  # PPE ratio -> percentage points
+
+    if not values:
+        print("No valid business PPE values found.")
+        return
+
+    ppe = np.asarray(values, dtype=float)
+    mean_ppe = float(np.mean(ppe))
+    median_ppe = float(np.median(ppe))
+    share_positive = float(np.mean(ppe > 0) * 100)
+
+    figure, axis = plt.subplots(figsize=(9, 5.5))
+    axis.hist(ppe, bins="auto", edgecolor="white", alpha=0.85)
+    axis.axvline(
+        0, color="black", linestyle="--", linewidth=1.5,
+        label="Competitive benchmark (0%)",
+    )
+    axis.axvline(
+        median_ppe, color="tab:orange", linestyle="-", linewidth=1.8,
+        label=f"Median ({median_ppe:.1f}%)",
+    )
+
+    summary = (
+        f"Businesses: {len(ppe)}\n"
+        f"Mean PPE: {mean_ppe:.1f}%\n"
+        f"Median PPE: {median_ppe:.1f}%\n"
+        f"Above competitive: {share_positive:.1f}%"
+    )
+    axis.text(
+        0.98, 0.97, summary,
+        transform=axis.transAxes, ha="right", va="top",
+        bbox={"facecolor": "white", "edgecolor": "lightgray", "alpha": 0.9},
+    )
+    axis.set_title("Distribution of Average PPE Across Businesses")
+    axis.set_xlabel("Average business PPE increase (%)")
+    axis.set_ylabel("Number of businesses")
+    axis.yaxis.set_major_locator(MaxNLocator(integer=True))
+    axis.grid(axis="y", alpha=0.25)
+    axis.legend(loc="upper left")
+
+    figure.tight_layout()
+    figure.savefig(
+        folder / "average_business_ppe_distribution.png",
+        dpi=200,
+        bbox_inches="tight",
+    )
+    plt.close(figure)
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description=(
@@ -372,7 +432,8 @@ def main() -> None:
         "welfare_by_period.csv",
         "purchases_by_period.csv",
         "average_price_by_period.csv",
-        "ppe_per_customer.csv"
+        "ppe_per_customer.csv",
+        "average_business_ppe.csv",
     ]
     
     missing = [name for name in required if not (folder / name).exists()]
@@ -385,6 +446,7 @@ def main() -> None:
     plot_purchases(folder)
     plot_average_prices(folder)
     plot_average_ppe(folder)
+    plot_business_ppe_distribution(folder)
 
     print(f"Plots saved to: {folder}")
 
