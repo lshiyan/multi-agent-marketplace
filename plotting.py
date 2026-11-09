@@ -7,18 +7,14 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 import numpy as np
-from matplotlib.ticker import MaxNLocator
-
+from matplotlib.ticker import MaxNLocator, MultipleLocator
 
 def _read_csv(path: Path) -> list[dict[str, str]]:
     with path.open(newline="") as file:
         return list(csv.DictReader(file))
 
 
-def plot_welfare(folder: Path, alpha: float = 0.3) -> None:
-    if not 0 < alpha <= 1:
-        raise ValueError("alpha must be in (0, 1].")
-
+def plot_welfare(folder: Path, window: int = 5, tick_interval: int = 5) -> None:
     path = folder / "welfare_by_period.csv"
     rows = _read_csv(path)
 
@@ -29,80 +25,40 @@ def plot_welfare(folder: Path, alpha: float = 0.3) -> None:
     rows = sorted(rows, key=lambda row: int(row["period"]))
 
     periods = np.array([int(row["period"]) for row in rows])
-    customer = np.array(
-        [float(row["average_customer_welfare"]) for row in rows]
-    )
-    business = np.array(
-        [float(row["average_business_welfare"]) for row in rows]
-    )
+    customer = np.array([
+        float(row["average_customer_welfare"]) for row in rows
+    ])
+    business = np.array([
+        float(row["average_business_welfare"]) for row in rows
+    ])
 
-    # Calculate exponential moving averages
-    customer_ema = np.zeros_like(customer)
-    business_ema = np.zeros_like(business)
-
-    customer_ema[0] = customer[0]
-    business_ema[0] = business[0]
-
-    for i in range(1, len(periods)):
-        customer_ema[i] = (
-            alpha * customer[i]
-            + (1 - alpha) * customer_ema[i - 1]
-        )
-        business_ema[i] = (
-            alpha * business[i]
-            + (1 - alpha) * business_ema[i - 1]
-        )
+    customer_avg = sliding_window_average(customer, window)
+    business_avg = sliding_window_average(business, window)
 
     figure, axis = plt.subplots(figsize=(9, 5))
 
     axis.plot(
         periods,
-        customer_ema,
-        marker="o",
-        label=f"Customer welfare EMA (α={alpha})",
+        customer_avg,
+        label=f"Customer welfare (window={window})",
     )
     axis.plot(
         periods,
-        business_ema,
-        marker="o",
-        label=f"Business welfare EMA (α={alpha})",
+        business_avg,
+        label=f"Business welfare (window={window})",
     )
 
     correlation_text = []
 
     if len(periods) >= 2:
-        customer_slope, customer_intercept = np.polyfit(
-            periods, customer_ema, 1
-        )
-        business_slope, business_intercept = np.polyfit(
-            periods, business_ema, 1
-        )
-
-        axis.plot(
-            periods,
-            customer_slope * periods + customer_intercept,
-            linestyle="--",
-            label="Customer best fit",
-        )
-        axis.plot(
-            periods,
-            business_slope * periods + business_intercept,
-            linestyle="--",
-            label="Business best fit",
-        )
-
-        customer_r = np.corrcoef(periods, customer_ema)[0, 1]
-        business_r = np.corrcoef(periods, business_ema)[0, 1]
+        customer_r = np.corrcoef(periods, customer_avg)[0, 1]
+        business_r = np.corrcoef(periods, business_avg)[0, 1]
 
         if np.isfinite(customer_r):
-            correlation_text.append(
-                f"Customer r = {customer_r:.3f}"
-            )
+            correlation_text.append(f"Customer r = {customer_r:.3f}")
 
         if np.isfinite(business_r):
-            correlation_text.append(
-                f"Business r = {business_r:.3f}"
-            )
+            correlation_text.append(f"Business r = {business_r:.3f}")
 
     axis.axhline(
         0,
@@ -111,10 +67,10 @@ def plot_welfare(folder: Path, alpha: float = 0.3) -> None:
         color="gray",
     )
 
-    axis.set_title("Exponential Moving Average Welfare by Period")
+    axis.set_title("Sliding Window Average Welfare by Period")
     axis.set_xlabel("Period")
-    axis.set_ylabel("EMA Welfare")
-    axis.xaxis.set_major_locator(MaxNLocator(integer=True))
+    axis.set_ylabel("Average Welfare")
+    axis.xaxis.set_major_locator(MultipleLocator(tick_interval))
 
     axis.legend(
         loc="center left",
@@ -142,35 +98,82 @@ def plot_welfare(folder: Path, alpha: float = 0.3) -> None:
     plt.close(figure)
 
 
-def plot_purchases(folder: Path) -> None:
+def plot_purchases(folder: Path, window: int = 5) -> None:
     rows = _read_csv(folder / "purchases_by_period.csv")
-    periods = np.array([int(row["period"]) for row in rows])
-    successful = np.array(
-        [int(row["successful_purchases"]) for row in rows]
-    )
-    unsuccessful = np.array(
-        [int(row["unsuccessful_purchases"]) for row in rows]
+
+    if not rows:
+        print("No purchase data found.")
+        return
+
+    rows = sorted(rows, key=lambda row: int(row["period"]))
+
+    periods = np.array([
+        int(row["period"]) for row in rows
+    ])
+
+    successful = np.array([
+        int(row["successful_purchases"]) for row in rows
+    ])
+
+    unsuccessful = np.array([
+        int(row["unsuccessful_purchases"]) for row in rows
+    ])
+
+    total = successful + unsuccessful
+
+    success_rate = np.divide(
+        successful,
+        total,
+        out=np.full(len(total), np.nan),
+        where=total > 0,
     )
 
-    width = 0.35
-    figure, axis = plt.subplots(figsize=(10, 6))
-    axis.bar(
-        periods - width / 2,
-        successful,
-        width,
-        label="Successful Purchase",
+    # Exclude periods with no customers
+    valid = np.isfinite(success_rate)
+    periods = periods[valid]
+    success_rate = success_rate[valid]
+
+    if len(periods) == 0:
+        print("No valid purchase data found.")
+        return
+
+    smoothed_rate = sliding_window_average(
+        success_rate, window
     )
-    axis.bar(
-        periods + width / 2,
-        unsuccessful,
-        width,
-        label="No Purchase",
+
+    figure, axis = plt.subplots(figsize=(9, 5))
+
+    axis.plot(
+        periods,
+        success_rate,
+        color="tab:blue",
+        alpha=0.25,
+        linewidth=1,
+        label="Raw success rate",
     )
+
+    axis.plot(
+        periods,
+        smoothed_rate,
+        color="tab:blue",
+        linewidth=2.5,
+        label=f"Sliding average (window={window})",
+    )
+
+    axis.set_title("Purchase Success Rate by Period")
     axis.set_xlabel("Period")
-    axis.set_ylabel("Number of Customers")
-    axis.set_title("Purchases by Period")
-    axis.set_xticks(periods)
-    axis.legend(loc="center left", bbox_to_anchor=(1.02, 0.5))
+    axis.set_ylabel("Purchase Success Rate")
+
+    axis.set_ylim(0, 1)
+    axis.yaxis.set_major_formatter(
+        plt.FuncFormatter(lambda value, _: f"{value:.0%}")
+    )
+    axis.xaxis.set_major_locator(MaxNLocator(integer=True))
+
+    axis.grid(alpha=0.3)
+    axis.legend()
+
+    figure.tight_layout()
     figure.savefig(
         folder / "purchases_by_period.png",
         dpi=200,
@@ -179,7 +182,7 @@ def plot_purchases(folder: Path) -> None:
     plt.close(figure)
 
 
-def plot_average_prices(folder: Path) -> None:
+def plot_average_prices(folder: Path, tick_interval: int = 5) -> None:
     price_path = folder / "average_price_by_period.csv"
     rows = _read_csv(price_path)
 
@@ -208,7 +211,6 @@ def plot_average_prices(folder: Path) -> None:
         line = axis.plot(
             periods,
             prices,
-            marker="o",
             label=business,
         )[0]
 
@@ -228,7 +230,8 @@ def plot_average_prices(folder: Path) -> None:
     axis.set_title("Average Business Prices by Period")
     axis.set_xlabel("Period")
     axis.set_ylabel("Average Price")
-    axis.set_xticks(periods)
+    axis.xaxis.set_major_locator(MultipleLocator(tick_interval))
+
     axis.legend(loc="center left", bbox_to_anchor=(1.02, 0.5))
 
     if final_price_increases:
@@ -250,11 +253,8 @@ def plot_average_prices(folder: Path) -> None:
     )
     plt.close(figure)
 
-def plot_average_ppe(folder: Path, alpha: float = 0.3) -> None:
+def plot_average_ppe(folder: Path, window: int = 5) -> None:
     rows = _read_csv(folder / "ppe_per_customer.csv")
-
-    if not 0 < alpha <= 1:
-        raise ValueError("alpha must be in (0, 1].")
 
     ppe_by_period = {}
 
@@ -281,23 +281,15 @@ def plot_average_ppe(folder: Path, alpha: float = 0.3) -> None:
         for period in periods
     ])
 
-    # Calculate exponential moving average
-    ema_ppe = np.zeros_like(average_ppe)
-    ema_ppe[0] = average_ppe[0]
-
-    for i in range(1, len(average_ppe)):
-        ema_ppe[i] = (
-            alpha * average_ppe[i]
-            + (1 - alpha) * ema_ppe[i - 1]
-        )
+    window_ppe = sliding_window_average(average_ppe, window)
 
     figure, axis = plt.subplots(figsize=(9, 5))
 
     axis.plot(
         periods,
-        ema_ppe,
+        window_ppe,
         marker="o",
-        label=f"EMA PPE (α={alpha})",
+        label=f"Average PPE (window={window})",
     )
 
     axis.axhline(
@@ -310,7 +302,7 @@ def plot_average_ppe(folder: Path, alpha: float = 0.3) -> None:
 
     if len(periods) >= 2:
         slope, intercept = np.polyfit(
-            periods, ema_ppe, 1
+            periods, window_ppe, 1
         )
         axis.plot(
             periods,
@@ -319,7 +311,7 @@ def plot_average_ppe(folder: Path, alpha: float = 0.3) -> None:
             label="Best fit",
         )
 
-        correlation = np.corrcoef(periods, ema_ppe)[0, 1]
+        correlation = np.corrcoef(periods, window_ppe)[0, 1]
 
         if np.isfinite(correlation):
             axis.text(
@@ -331,9 +323,9 @@ def plot_average_ppe(folder: Path, alpha: float = 0.3) -> None:
                 va="center",
             )
 
-    axis.set_title("Exponential Moving Average PPE by Period")
+    axis.set_title("Sliding Window Average PPE by Period")
     axis.set_xlabel("Period")
-    axis.set_ylabel("EMA PPE")
+    axis.set_ylabel("Average PPE")
     axis.xaxis.set_major_locator(MaxNLocator(integer=True))
     axis.yaxis.set_major_formatter(
         plt.FuncFormatter(lambda value, _: f"{value:.0%}")
@@ -409,6 +401,14 @@ def plot_business_ppe_distribution(folder: Path) -> None:
     )
     plt.close(figure)
 
+def sliding_window_average(values: np.ndarray, window: int = 5) -> np.ndarray:
+    if window < 1:
+        raise ValueError("window must be >= 1.")
+
+    return np.array([
+        np.mean(values[max(0, i - window + 1):i + 1])
+        for i in range(len(values))
+    ])
 
 def main() -> None:
     parser = argparse.ArgumentParser(
@@ -422,6 +422,14 @@ def main() -> None:
         type=Path,
         help="Folder containing the marketplace output CSV files.",
     )
+
+    parser.add_argument(
+        "-w", "--window",
+        type=int,
+        default=5,
+        help="Sliding window size for welfare and PPE plots (default: 5).",
+    )
+
     args = parser.parse_args()
 
     folder = args.folder.expanduser().resolve()
@@ -442,10 +450,10 @@ def main() -> None:
             "Missing required CSV file(s): " + ", ".join(missing)
         )
 
-    plot_welfare(folder)
-    plot_purchases(folder)
+    plot_welfare(folder, window=args.window)
+    plot_purchases(folder, window=args.window)
     plot_average_prices(folder)
-    plot_average_ppe(folder)
+    plot_average_ppe(folder, window=args.window)
     plot_business_ppe_distribution(folder)
 
     print(f"Plots saved to: {folder}")
