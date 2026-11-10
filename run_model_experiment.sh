@@ -6,8 +6,8 @@ provider="$1"
 model="$2"
 runs="$3"
 
-suffix="${model//[^a-zA-Z0-9_-]/_}"
-experiment_name="baseline_mexican_100_300_${suffix}_$(date +%Y%m%d_%H%M%S)_$$"
+suffix="${model//-/_}"
+experiment_name="baseline_mexican_100_300_${suffix}"
 output_path="assets/${experiment_name}"
 
 mkdir -p "$output_path"
@@ -67,6 +67,7 @@ nohup magentic-marketplace run data/mexican_100_300 \
     --num_runs "$runs" \
     --customers_per_run 20 \
     --output_path "$output_path" \
+    --override \
     > "$output_path/run.log" 2>&1 &
 
 pid=$!
