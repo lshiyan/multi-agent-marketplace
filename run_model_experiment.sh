@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 set -euo pipefail
 
@@ -5,9 +6,8 @@ provider="$1"
 model="$2"
 runs="$3"
 
-# Keep experiment names and paths safe for the filesystem.
-suffix="${model//-/_}"
-experiment_name="baseline_mexican_100_300_${suffix}"
+suffix="${model//[^a-zA-Z0-9_-]/_}"
+experiment_name="baseline_mexican_100_300_${suffix}_$(date +%Y%m%d_%H%M%S)_$$"
 output_path="assets/${experiment_name}"
 
 mkdir -p "$output_path"
@@ -15,18 +15,53 @@ mkdir -p "$output_path"
 export LLM_PROVIDER="$provider"
 export LLM_MODEL="$model"
 
-# Automatically stop services when the script exits.
+# Shared coordination directory.
+STATE_DIR="$HOME/.marketplace_experiments"
+mkdir -p "$STATE_DIR"
+
+LOCK_FILE="$STATE_DIR/lock"
+ACTIVE_FILE="$STATE_DIR/active"
+
+# Register this experiment.
+{
+    flock -x 200
+
+    touch "$ACTIVE_FILE"
+    echo "$$" >> "$ACTIVE_FILE"
+
+} 200>"$LOCK_FILE"
+
 cleanup() {
-    echo "Stopping PostgreSQL services..."
-    bash end_services.sh
-    echo "PostgreSQL services stopped."
+    local should_stop=0
+
+    {
+        flock -x 200
+
+        # Remove this experiment from the active list.
+        if [[ -f "$ACTIVE_FILE" ]]; then
+            grep -vx "$$" "$ACTIVE_FILE" > "$ACTIVE_FILE.tmp" || true
+            mv "$ACTIVE_FILE.tmp" "$ACTIVE_FILE"
+        fi
+
+        # If no experiments remain, stop PostgreSQL.
+        if [[ ! -s "$ACTIVE_FILE" ]]; then
+            should_stop=1
+            rm -f "$ACTIVE_FILE"
+        fi
+
+        if (( should_stop )); then
+            echo "Last experiment finished. Stopping PostgreSQL..."
+            bash end_services.sh
+            echo "PostgreSQL stopped."
+        fi
+
+    } 200>"$LOCK_FILE"
 }
 
 trap cleanup EXIT
 
 nohup magentic-marketplace run data/mexican_100_300 \
     --experiment-name "$experiment_name" \
-    --override \
     --postgres-host localhost \
     --postgres-port 5433 \
     --num_runs "$runs" \
@@ -42,7 +77,5 @@ echo "PID: $pid"
 echo "Log: $output_path/run.log"
 echo "Monitor: tail -f $output_path/run.log"
 
-# Wait until the experiment finishes.
 wait "$pid"
-
 echo "Experiment completed."
