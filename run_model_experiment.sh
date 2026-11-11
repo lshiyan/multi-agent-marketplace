@@ -6,7 +6,7 @@ provider="$1"
 model="$2"
 runs="$3"
 
-suffix="${model//-/_}"
+suffix="${model//[-.]/_}"
 experiment_name="baseline_mexican_100_300_${suffix}"
 output_path="assets/${experiment_name}"
 
@@ -14,6 +14,9 @@ mkdir -p "$output_path"
 
 export LLM_PROVIDER="$provider"
 export LLM_MODEL="$model"
+
+#Starting PG service
+bash start_services.sh
 
 # Shared coordination directory.
 STATE_DIR="$HOME/.marketplace_experiments"
