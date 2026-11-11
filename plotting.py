@@ -288,7 +288,6 @@ def plot_average_ppe(folder: Path, window: int = 5) -> None:
     axis.plot(
         periods,
         window_ppe,
-        marker="o",
         label=f"Average PPE (window={window})",
     )
 
