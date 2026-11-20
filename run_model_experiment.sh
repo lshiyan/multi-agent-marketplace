@@ -11,6 +11,8 @@ experiment_name="baseline_mexican_100_300_${suffix}"
 output_path="assets/${experiment_name}"
 
 mkdir -p "$output_path"
+touch "$output_path/model.txt"
+echo "$model" > "$output_path/model.txt"
 
 export LLM_PROVIDER="$provider"
 export LLM_MODEL="$model"
