@@ -1,37 +1,43 @@
 id: business_0272
-name: Flor de Nopal Cantina
-description: Immerse yourself in the vibrant flavors of Mexico and the Southwest at
-  Flor de Nopal Cantina, where classic tastes meet contemporary creativity. Enjoy
-  a welcoming atmosphere and a menu bursting with bold, savory, and subtly sweet delights.
+name: Crisp & Cacao Kitchen
+description: Experience bold Mexican and Tex-Mex flavors with a modern twist, featuring
+  vibrant burgers, refreshing coolers, and decadent desserts. Discover a fresh take
+  on traditions in a lively, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0091
 menu_features:
-  Black Bean & Cheese Tostadas: 8.73
-  Spicy Chocolate Lava Cake: 7.47
-  Black Bean & Corn Queso Dip: 6.18
-  Savory Chorizo Street Tacos: 10.98
-  Hatch Green Chile Stew: 12.45
-  Cactus Flower Iced Tea: 3.91
-  Black Bean and Corn Salsa: 5.32
-  Tamarind Spiced Agua Fresca: 3.09
-  Ancho Chili Spiced Ribs: 15.0
-  Black Bean and Lime Soup: 7.76
-  Passion Fruit Agua Fresca: 3.68
-  Spicy Pineapple Salsa Dip: 5.38
-  Fresh Limeade: 3.27
+  Spicy Avocado Smash Burger: 11.87
+  Mexican Chocolate Brownie: 6.38
+  Guava Limeade Cooler: 7.74
+  Hatch Green Chile Burger: 15.7
+  Coconut Lime Rice Bowl: 9.13
+  Refreshing Agua Fresca Trio: 7.94
+  Cilantro Lime Grilled Shrimp: 9.1
+  Chorizo and Egg Tacos: 8.17
+  Sweet and Spicy Chicken Tostadas: 14.01
+  Cocoa Cinnamon Tequila: 9.18
+  Tamarind Ginger Cooler: 4.45
+  Zesty Shrimp Ceviche: 13.87
+  Zesty Lime Grilled Chicken: 11.9
+  Pineapple Chipotle Salsa & Chips: 6.33
+  Stuffed Chicken Poblano: 13.72
+  Hibiscus Iced Tea: 3.62
 amenity_features: {}
-min_price_factor: 0.74
+min_price_factor: 0.83
 minimum_menu_prices:
-  Black Bean & Cheese Tostadas: 6.46
-  Spicy Chocolate Lava Cake: 5.53
-  Black Bean & Corn Queso Dip: 4.57
-  Savory Chorizo Street Tacos: 8.13
-  Hatch Green Chile Stew: 9.21
-  Cactus Flower Iced Tea: 2.89
-  Black Bean and Corn Salsa: 3.94
-  Tamarind Spiced Agua Fresca: 2.29
-  Ancho Chili Spiced Ribs: 11.1
-  Black Bean and Lime Soup: 5.74
-  Passion Fruit Agua Fresca: 2.72
-  Spicy Pineapple Salsa Dip: 3.98
-  Fresh Limeade: 2.42
+  Spicy Avocado Smash Burger: 9.85
+  Mexican Chocolate Brownie: 5.3
+  Guava Limeade Cooler: 3.93
+  Hatch Green Chile Burger: 13.03
+  Coconut Lime Rice Bowl: 7.58
+  Refreshing Agua Fresca Trio: 6.59
+  Cilantro Lime Grilled Shrimp: 7.55
+  Chorizo and Egg Tacos: 6.78
+  Sweet and Spicy Chicken Tostadas: 11.63
+  Cocoa Cinnamon Tequila: 7.62
+  Tamarind Ginger Cooler: 3.69
+  Zesty Shrimp Ceviche: 11.51
+  Zesty Lime Grilled Chicken: 9.88
+  Pineapple Chipotle Salsa & Chips: 5.25
+  Stuffed Chicken Poblano: 11.39
+  Hibiscus Iced Tea: 3.0

@@ -1,48 +1,38 @@
 id: business_0106
-name: Casa de Agave y Fuego
-description: Experience bold Mexican and Tex-Mex flavors in a vibrant setting where
-  smoky salsas, zesty grilled dishes, and creative cocktails bring every meal to life.
-  Whether you're craving fresh-off-the-grill entrees or sweet bites, there's a fiesta
-  of taste waiting for you.
+name: Poblano & Paleta
+description: A fresh, flavorful spot for Tex-Mex favorites and vibrant drinks. Enjoy
+  creative takes on classic dishes in a warm, colorful setting.
 rating: 1.0
 progenitor_customer: customer_0036
 menu_features:
-  Tequila Lime Shrimp Skewers: 13.46
-  Tex-Mex Fajita Wrap: 13.5
-  Tequila Lime Chicken Wings: 9.51
-  Smoky Chipotle BBQ Ribs: 16.75
-  Mango Jalapeno Slush: 5.69
-  Cocoa Dusted Churro Bites: 5.61
-  Chili-Lime Cauliflower Bites: 9.1
-  Tequila Sunrise Smoothie: 6.85
-  Tamarind Spiced Agua Fresca: 4.17
-  Black Bean Crunch Wrap: 10.2
-  Grilled Steak Fajita Platter: 17.45
-  Queso Fundido with Chorizo: 9.93
-  Poblano Pepper Queso Dip: 6.66
-  Fresh Lime Cilantro Rice: 3.02
-  Mango Habanero Salsa: 5.28
-  Sweet Corn Tostadas: 7.82
-  Spicy Zucchini Tostadas: 9.69
-  Raspberry Jalapeno Mojito: 9.26
+  Horchata Iced Latte: 5.65
+  Chipotle Lime Chicken Skewers: 8.94
+  Black Bean and Corn Fiesta Salad: 8.45
+  Spicy Black Bean Enchiladas: 9.21
+  Blue Corn Enchilada Bake: 10.95
+  Avocado Lime Quinoa Bowl: 11.78
+  Coconut Lime Margarita: 10.13
+  Roasted Poblano Soup: 7.42
+  Crispy Avocado Fritters: 6.77
+  Crispy Avocado Wedges: 7.6
+  "Strawberry Jalape\xF1o Mocktail": 5.86
+  Crisp Jicama Slaw: 5.88
+  Chipotle Lime Cauliflower Tacos: 10.34
+  Stuffed Poblano Pepper Delight: 11.65
 amenity_features: {}
-min_price_factor: 0.68
+min_price_factor: 0.75
 minimum_menu_prices:
-  Tequila Lime Shrimp Skewers: 9.15
-  Tex-Mex Fajita Wrap: 9.18
-  Tequila Lime Chicken Wings: 6.47
-  Smoky Chipotle BBQ Ribs: 11.39
-  Mango Jalapeno Slush: 3.87
-  Cocoa Dusted Churro Bites: 3.81
-  Chili-Lime Cauliflower Bites: 6.19
-  Tequila Sunrise Smoothie: 4.66
-  Tamarind Spiced Agua Fresca: 2.84
-  Black Bean Crunch Wrap: 6.94
-  Grilled Steak Fajita Platter: 11.87
-  Queso Fundido with Chorizo: 6.75
-  Poblano Pepper Queso Dip: 4.53
-  Fresh Lime Cilantro Rice: 2.05
-  Mango Habanero Salsa: 3.59
-  Sweet Corn Tostadas: 5.32
-  Spicy Zucchini Tostadas: 6.59
-  Raspberry Jalapeno Mojito: 6.3
+  Horchata Iced Latte: 4.24
+  Chipotle Lime Chicken Skewers: 6.71
+  Black Bean and Corn Fiesta Salad: 6.34
+  Spicy Black Bean Enchiladas: 8.29
+  Blue Corn Enchilada Bake: 9.64
+  Avocado Lime Quinoa Bowl: 8.83
+  Coconut Lime Margarita: 7.6
+  Roasted Poblano Soup: 5.56
+  Crispy Avocado Fritters: 6.39
+  Crispy Avocado Wedges: 5.7
+  "Strawberry Jalape\xF1o Mocktail": 4.4
+  Crisp Jicama Slaw: 4.41
+  Chipotle Lime Cauliflower Tacos: 7.75
+  Stuffed Poblano Pepper Delight: 8.74

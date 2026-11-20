@@ -1,33 +1,35 @@
 id: business_0041
-name: "Ma\xEDz & Miel"
-description: "Ma\xEDz & Miel brings vibrant Mexican and Tex-Mex flavors to your table,\
-  \ celebrating sweet and savory traditions with a modern twist. Discover handcrafted\
-  \ dishes and irresistible desserts in a warm, inviting setting."
+name: Citrus Ember Kitchen
+description: Discover vibrant Mexican-inspired cuisine with bold flavors, fresh ingredients,
+  and a touch of zest. Our menu brings together smoky, tangy, and spicy tastes for
+  a memorable dining experience.
 rating: 1.0
 progenitor_customer: customer_0014
 menu_features:
-  Sweet Corn Tostadas: 8.56
-  Blue Corn Tortilla Tacos: 11.5
-  Classic Horchata Smoothie: 5.42
-  Classic Horchata Delight: 3.68
-  Blue Corn Tostada Salad: 9.79
-  Spiced Churro Bites: 5.44
-  Mushroom & Cheese Tamales: 7.03
-  Pumpkin Spice Flan: 5.53
-  Avocado Lime Cheesecake: 5.96
-  Crispy Avocado and Lime Tacos: 16.27
-  Chili Lime Skirt Steak: 23.99
+  Chipotle Lime Chicken Skewers: 12.43
+  Chipotle Lime Chicken Salad: 9.97
+  Classic Flan Delight: 6.11
+  Black Bean & Corn Enchiladas: 11.64
+  Chili Lime Roasted Corn: 5.18
+  Horchata Milkshake: 6.65
+  Chipotle Chicken Burrito Bowl: 13.56
+  Stuffed Avocado Delight: 7.23
+  Crispy Avocado Wedges: 8.02
+  Zesty Shrimp Ceviche: 12.51
+  Red Chili Braised Beef Brisket: 12.82
+  Mango Habanero Salsa: 6.21
 amenity_features: {}
-min_price_factor: 0.61
+min_price_factor: 0.75
 minimum_menu_prices:
-  Sweet Corn Tostadas: 5.22
-  Blue Corn Tortilla Tacos: 7.01
-  Classic Horchata Smoothie: 3.31
-  Classic Horchata Delight: 2.24
-  Blue Corn Tostada Salad: 5.97
-  Spiced Churro Bites: 3.32
-  Mushroom & Cheese Tamales: 4.29
-  Pumpkin Spice Flan: 3.37
-  Avocado Lime Cheesecake: 3.64
-  Crispy Avocado and Lime Tacos: 9.92
-  Chili Lime Skirt Steak: 14.63
+  Chipotle Lime Chicken Skewers: 9.32
+  Chipotle Lime Chicken Salad: 7.48
+  Classic Flan Delight: 4.58
+  Black Bean & Corn Enchiladas: 8.73
+  Chili Lime Roasted Corn: 3.67
+  Horchata Milkshake: 4.99
+  Chipotle Chicken Burrito Bowl: 10.17
+  Stuffed Avocado Delight: 5.42
+  Crispy Avocado Wedges: 6.01
+  Zesty Shrimp Ceviche: 9.38
+  Red Chili Braised Beef Brisket: 9.4
+  Mango Habanero Salsa: 4.66

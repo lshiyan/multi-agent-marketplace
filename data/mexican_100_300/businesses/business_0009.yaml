@@ -1,39 +1,41 @@
 id: business_0009
-name: "Casa Coraz\xF3n Mexicana"
-description: Step into a warm and vibrant space that celebrates the flavors of both
-  classic Mexican and Tex-Mex cuisine. From hearty enchiladas to sizzling breakfast
-  skillets and sweet churros, every dish is crafted with love and a touch of tradition.
+name: Agave Azul Kitchen
+description: Agave Azul Kitchen brings a fresh, vibrant twist to Mexican and Tex-Mex
+  classics, serving bold flavors and unique bites in a modern, welcoming atmosphere.
+  Savor our creative meals and craft drinks inspired by the heart of Mexico.
 rating: 1.0
 progenitor_customer: customer_0003
 menu_features:
-  Mexican Hot Chocolate: 4.05
-  Loaded Nacho Fiesta: 10.08
-  Cactus Jack Quesadilla: 9.96
-  Chili Lime Watermelon Salad: 9.4
-  Tangy Tomato Salsa Soup: 9.94
-  Crispy Tortilla Breakfast Bowl: 12.11
-  Sweet Corn Tostadas: 7.14
-  Classic Beef Enchiladas: 11.5
-  Sizzling Steak Fajitas: 14.84
-  Spicy Black Bean Enchiladas: 12.43
-  Tex-Mex Breakfast Skillet: 6.55
-  Grilled Chipotle Chicken Burrito: 14.55
-  Breakfast Burrito Bowl: 7.22
-  Pumpkin Spice Churros: 4.85
+  Street Style Corn on the Cob: 4.57
+  Tequila Lime Shrimp Skewers: 16.44
+  Avocado Ranch Burrito Bowl: 10.14
+  Caramel Corn Flan: 7.16
+  Fajita Veggie Burrito Bowl: 15.47
+  Blue Corn Tostada Salad: 11.31
+  Molten Queso Fundido: 6.93
+  Black Bean and Cilantro Rice: 3.98
+  Cucumber Jalapeno Agua Fresca: 3.77
+  Loaded Nacho Skillet: 11.78
+  Coconut Lime Flan: 7.52
+  Salted Caramel Margarita: 9.41
+  Three-Cheese Enchilada Stack: 10.53
+  Mesquite Grilled Steak Fajitas: 9.47
+  Avocado Lime Quinoa Bowl: 13.82
 amenity_features: {}
-min_price_factor: 0.92
+min_price_factor: 0.66
 minimum_menu_prices:
-  Mexican Hot Chocolate: 3.73
-  Loaded Nacho Fiesta: 9.27
-  Cactus Jack Quesadilla: 9.16
-  Chili Lime Watermelon Salad: 8.65
-  Tangy Tomato Salsa Soup: 9.14
-  Crispy Tortilla Breakfast Bowl: 11.14
-  Sweet Corn Tostadas: 6.57
-  Classic Beef Enchiladas: 10.58
-  Sizzling Steak Fajitas: 13.65
-  Spicy Black Bean Enchiladas: 11.44
-  Tex-Mex Breakfast Skillet: 6.03
-  Grilled Chipotle Chicken Burrito: 13.39
-  Breakfast Burrito Bowl: 6.64
-  Pumpkin Spice Churros: 4.46
+  Street Style Corn on the Cob: 3.02
+  Tequila Lime Shrimp Skewers: 10.85
+  Avocado Ranch Burrito Bowl: 6.69
+  Caramel Corn Flan: 4.73
+  Fajita Veggie Burrito Bowl: 10.21
+  Blue Corn Tostada Salad: 7.46
+  Molten Queso Fundido: 4.57
+  Black Bean and Cilantro Rice: 2.63
+  Cucumber Jalapeno Agua Fresca: 2.49
+  Loaded Nacho Skillet: 7.77
+  Coconut Lime Flan: 4.96
+  Salted Caramel Margarita: 6.21
+  Three-Cheese Enchilada Stack: 8.42
+  Mesquite Grilled Steak Fajitas: 7.72
+  Avocado Lime Quinoa Bowl: 9.12

@@ -1,41 +1,35 @@
 id: business_0095
-name: Sizzle & Stone Mex Kitchen
-description: Experience vibrant Tex-Mex flavors and fresh, modern Mexican fare in
-  a lively, welcoming space. From sizzling specialties to stone-ground classics, every
-  dish is crafted to delight your senses.
+name: La Parrilla Viva
+description: Experience a lively take on classic Mexican and Tex-Mex cuisine, featuring
+  boldly flavored dishes, crave-worthy salsas, and creative cocktails in a warm, inviting
+  atmosphere. Celebrate every meal with vibrant tastes and fresh ingredients.
 rating: 1.0
 progenitor_customer: customer_0032
 menu_features:
-  Chipotle Bean Burrito: 10.77
-  Chipotle Lime Chicken Skewers: 11.84
-  Sizzling Chicken Fajitas: 11.17
-  Pico Avocado Toast: 8.79
-  Caramelized Onion Queso Dip: 7.26
-  Braised Beef Barbacoa Tacos: 13.0
-  Classic Tortilla Soup: 6.5
-  Adobo Roasted Corn Salad: 8.57
-  Mexican Chocolate Lava Cake: 8.17
-  Queso Fundido Supreme: 9.65
-  Chili Lime Skirt Steak: 20.6
-  Coconut Lime Paleta: 4.29
-  Spicy Black Bean Tacos: 12.33
-  Rich Chocolate Tres Leches: 7.51
-  Smoky Chipotle Chicken: 11.58
+  Crispy Carnitas Quesadilla: 10.49
+  Crispy Avocado Burrito: 10.11
+  Sizzling Fajita Plate: 14.75
+  "Cheesy Jalape\xF1o Queso Dip": 8.17
+  Pineapple Jalapeno Salsa: 4.68
+  Smoky Black Bean Soup: 6.45
+  Cucumber Jalapeno Agua Fresca: 3.59
+  Spicy Cucumber Margarita: 9.97
+  Green Chile Cheesesteak: 13.77
+  Spiced Churro Bites: 5.19
+  Grilled Shrimp Skewers: 16.11
+  Gourmet Nacho Platter: 12.2
 amenity_features: {}
-min_price_factor: 0.88
+min_price_factor: 0.82
 minimum_menu_prices:
-  Chipotle Bean Burrito: 9.48
-  Chipotle Lime Chicken Skewers: 10.42
-  Sizzling Chicken Fajitas: 9.83
-  Pico Avocado Toast: 7.74
-  Caramelized Onion Queso Dip: 6.39
-  Braised Beef Barbacoa Tacos: 11.44
-  Classic Tortilla Soup: 5.72
-  Adobo Roasted Corn Salad: 7.54
-  Mexican Chocolate Lava Cake: 7.19
-  Queso Fundido Supreme: 8.49
-  Chili Lime Skirt Steak: 18.13
-  Coconut Lime Paleta: 3.78
-  Spicy Black Bean Tacos: 10.85
-  Rich Chocolate Tres Leches: 6.61
-  Smoky Chipotle Chicken: 10.19
+  Crispy Carnitas Quesadilla: 8.6
+  Crispy Avocado Burrito: 8.29
+  Sizzling Fajita Plate: 12.09
+  "Cheesy Jalape\xF1o Queso Dip": 6.7
+  Pineapple Jalapeno Salsa: 3.84
+  Smoky Black Bean Soup: 5.29
+  Cucumber Jalapeno Agua Fresca: 2.94
+  Spicy Cucumber Margarita: 8.18
+  Green Chile Cheesesteak: 11.29
+  Spiced Churro Bites: 4.26
+  Grilled Shrimp Skewers: 13.21
+  Gourmet Nacho Platter: 8.4

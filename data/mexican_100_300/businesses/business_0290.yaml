@@ -1,37 +1,40 @@
 id: business_0290
-name: Sabrosa Playa Mexicana
-description: Experience vibrant Mexican and Tex-Mex flavors in a lively, beach-inspired
-  setting. Enjoy a menu bursting with fresh salsas, hearty soups, sizzling fajitas,
-  and other spicy, savory favorites.
+name: 'Slaw & Order: Fiesta Unit'
+description: Dive into a vibrant Tex-Mex adventure where fresh flavors, smoky spices,
+  and zesty drinks come together for a truly crave-worthy fiesta. From crisp salads
+  to sizzling platters and tropical cocktails, every meal is an open-and-shut delicious
+  case.
 rating: 1.0
 progenitor_customer: customer_0097
 menu_features:
-  Tropical Pineapple Salsa: 2.94
-  Pineapple Jalapeno Sangria: 7.05
-  Jalapeno Cheddar Cornbread: 5.39
-  Pineapple Pico de Gallo Nachos: 10.72
-  Smoky Black Bean Enchiladas: 10.68
-  Spicy Chicken Tortilla Soup: 7.2
-  Spicy Shrimp Fajitas: 15.15
-  Roasted Poblano Soup: 7.84
-  Mushroom & Cheese Tamales: 7.5
-  Roasted Poblano Corn Chowder: 8.05
-  Fresh Lime and Cilantro Guacamole: 6.48
-  Sizzling Steak Fajitas: 14.72
-  Spicy Chipotle Chicken Wrap: 12.39
+  Black Bean and Cilantro Rice: 4.3
+  Pineapple Pico de Gallo Salsa: 6.66
+  Spicy Shrimp Nacho Platter: 10.65
+  Crisp Jicama Slaw: 4.36
+  Cilantro Lime Shrimp Skewers: 13.92
+  Jalapeno Mango Margarita: 8.25
+  Tamarind Citrus Margarita: 7.55
+  Spicy Pork Tamales: 11.53
+  Blueberry Tequila Sunrise: 11.89
+  Chipotle Bean Burrito: 9.94
+  Tamale Pie Casserole: 13.01
+  Tropical Guava Mint Punch: 5.23
+  Passion Fruit Mojito: 9.23
+  Carne Asada Fajitas: 13.82
 amenity_features: {}
-min_price_factor: 0.9
+min_price_factor: 0.69
 minimum_menu_prices:
-  Tropical Pineapple Salsa: 2.65
-  Pineapple Jalapeno Sangria: 6.34
-  Jalapeno Cheddar Cornbread: 4.85
-  Pineapple Pico de Gallo Nachos: 9.65
-  Smoky Black Bean Enchiladas: 9.61
-  Spicy Chicken Tortilla Soup: 6.48
-  Spicy Shrimp Fajitas: 13.63
-  Roasted Poblano Soup: 7.06
-  Mushroom & Cheese Tamales: 6.75
-  Roasted Poblano Corn Chowder: 7.25
-  Fresh Lime and Cilantro Guacamole: 5.83
-  Sizzling Steak Fajitas: 13.25
-  Spicy Chipotle Chicken Wrap: 11.15
+  Black Bean and Cilantro Rice: 2.97
+  Pineapple Pico de Gallo Salsa: 4.6
+  Spicy Shrimp Nacho Platter: 7.89
+  Crisp Jicama Slaw: 3.01
+  Cilantro Lime Shrimp Skewers: 9.6
+  Jalapeno Mango Margarita: 5.69
+  Tamarind Citrus Margarita: 5.21
+  Spicy Pork Tamales: 7.96
+  Blueberry Tequila Sunrise: 8.2
+  Chipotle Bean Burrito: 6.86
+  Tamale Pie Casserole: 8.98
+  Tropical Guava Mint Punch: 4.15
+  Passion Fruit Mojito: 6.37
+  Carne Asada Fajitas: 9.54

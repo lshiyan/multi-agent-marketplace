@@ -1,35 +1,46 @@
 id: business_0069
-name: Casa Viva Mexicana
-description: Discover vibrant Mexican and Tex-Mex flavors, from refreshing drinks
-  to creative tacos, hearty burritos, and delicious desserts. Warm hospitality and
-  colorful cuisine await you at Casa Viva Mexicana.
+name: "Casa P\xED\xF1on Mexicana"
+description: "Experience the bold flavors and vibrant spirit of Mexico and the Southwest\
+  \ at Casa P\xED\xF1on Mexicana. From creative salsas to hearty breakfast plates\
+  \ and sweet finales, every dish is crafted with fresh ingredients and a touch of\
+  \ tradition."
 rating: 1.0
 progenitor_customer: customer_0023
 menu_features:
-  Blueberry Jalapeno Lemonade: 3.9
-  Roasted Poblano and Cheese Empanadas: 8.04
-  Sunset Grilled Veggie Tacos: 10.98
-  Crispy Avocado Burrito: 12.26
-  Pumpkin Spice Flan: 5.45
-  Loaded Nacho Fiesta: 10.51
-  Black Bean Sweet Potato Burrito: 7.79
-  Ancho Chile Beef Chili: 12.88
-  Chipotle BBQ Tacos: 12.22
-  Chorizo and Egg Tacos: 7.12
-  Avocado Lime Quinoa Bowl: 9.95
-  Chili-Lime Cauliflower Bites: 8.52
+  Poblano Pepper Relleno Plate: 12.61
+  Blueberry Tequila Sunrise: 12.23
+  Tangy Tomato Salsa Soup: 8.67
+  Pineapple Salsa Pork Tacos: 12.55
+  Caramel Corn Flan: 7.39
+  Coconut Lime Margarita: 8.62
+  Breakfast Tostada Stack: 11.26
+  Tex-Mex Big Breakfast Bowl: 10.28
+  Black Bean Sweet Potato Burrito: 8.63
+  Breakfast Burrito Supreme: 8.84
+  Cinnamon Sugar Sopapillas: 5.63
+  Sweet Corn Tostadas: 8.18
+  Warm Churro Bites: 5.71
+  Tomatillo Salsa Verde Nachos: 12.04
+  Adobo Pork Sliders: 9.11
+  Roasted Poblano Quesadilla: 11.67
+  Pico de Gallo Chicken Salad: 11.23
 amenity_features: {}
-min_price_factor: 0.74
+min_price_factor: 0.82
 minimum_menu_prices:
-  Blueberry Jalapeno Lemonade: 2.89
-  Roasted Poblano and Cheese Empanadas: 5.95
-  Sunset Grilled Veggie Tacos: 8.13
-  Crispy Avocado Burrito: 9.07
-  Pumpkin Spice Flan: 4.03
-  Loaded Nacho Fiesta: 7.78
-  Black Bean Sweet Potato Burrito: 5.76
-  Ancho Chile Beef Chili: 9.53
-  Chipotle BBQ Tacos: 9.04
-  Chorizo and Egg Tacos: 5.27
-  Avocado Lime Quinoa Bowl: 7.36
-  Chili-Lime Cauliflower Bites: 6.3
+  Poblano Pepper Relleno Plate: 10.78
+  Blueberry Tequila Sunrise: 10.03
+  Tangy Tomato Salsa Soup: 7.11
+  Pineapple Salsa Pork Tacos: 10.29
+  Caramel Corn Flan: 6.06
+  Coconut Lime Margarita: 7.07
+  Breakfast Tostada Stack: 9.23
+  Tex-Mex Big Breakfast Bowl: 8.43
+  Black Bean Sweet Potato Burrito: 7.08
+  Breakfast Burrito Supreme: 7.25
+  Cinnamon Sugar Sopapillas: 4.62
+  Sweet Corn Tostadas: 6.71
+  Warm Churro Bites: 4.68
+  Tomatillo Salsa Verde Nachos: 9.87
+  Adobo Pork Sliders: 7.91
+  Roasted Poblano Quesadilla: 9.57
+  Pico de Gallo Chicken Salad: 9.21

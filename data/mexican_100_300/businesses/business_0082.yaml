@@ -1,37 +1,43 @@
 id: business_0082
-name: La Cosecha Mexicana
-description: Experience bold Mexican and Tex-Mex flavors in a vibrant, welcoming atmosphere.
-  From colorful appetizers to refreshing cocktails and decadent desserts, every meal
-  highlights the richness of modern Mexican cuisine.
+name: Pecan & Plantain Palate
+description: Delight in bold Mexican and Tex-Mex flavors with a playful twist, featuring
+  hearty classics and unique sweet-and-savory specialties. Experience a vibrant, welcoming
+  atmosphere where every meal is a fresh fiesta.
 rating: 1.0
 progenitor_customer: customer_0028
 menu_features:
-  Horchata Milkshake: 6.02
-  Fajita Veggie Burrito Bowl: 16.0
-  Crispy Avocado Nachos: 7.24
-  Smoky Chipotle Queso: 5.85
-  Sweet Corn Tamale Bites: 9.8
-  Sea Breeze Ceviche: 14.45
-  Cilantro Lime Grilled Shrimp: 13.39
-  Chocolate Cinnamon Flan: 4.77
-  Chipotle Lime Chicken Salad: 10.08
-  Crispy Carnitas Tacos: 13.64
-  Blueberry Jalapeno Margarita: 13.2
-  Grilled Pineapple Dessert Quesadilla: 7.7
-  Chipotle Shrimp Skewers: 11.97
+  Carnitas Plantain Burrito: 8.82
+  Mexican Chocolate Milkshake: 6.96
+  Roasted Corn and Avocado Salad: 7.2
+  Avocado Lime Dip: 5.74
+  Black Bean & Corn Quesadilla: 10.59
+  Zesty Lime Grilled Shrimp: 14.19
+  Black Bean Chili Bowl: 9.27
+  Warm Churro Bites: 6.45
+  Creamy Jalapeno Corn Fritters: 5.98
+  Roasted Poblano and Cheese Empanadas: 9.11
+  Roasted Pecan Flan: 5.98
+  Grilled Shrimp Quesadilla: 10.24
+  Southwest Chopped Salad: 8.97
+  Coconut Lime Shrimp Skewers: 16.93
+  Tex-Mex Big Breakfast Bowl: 10.07
+  Grilled Pineapple Salsa: 6.52
 amenity_features: {}
-min_price_factor: 0.77
+min_price_factor: 0.73
 minimum_menu_prices:
-  Horchata Milkshake: 4.64
-  Fajita Veggie Burrito Bowl: 12.32
-  Crispy Avocado Nachos: 5.57
-  Smoky Chipotle Queso: 4.5
-  Sweet Corn Tamale Bites: 7.55
-  Sea Breeze Ceviche: 11.13
-  Cilantro Lime Grilled Shrimp: 10.31
-  Chocolate Cinnamon Flan: 3.67
-  Chipotle Lime Chicken Salad: 7.76
-  Crispy Carnitas Tacos: 10.5
-  Blueberry Jalapeno Margarita: 10.16
-  Grilled Pineapple Dessert Quesadilla: 5.93
-  Chipotle Shrimp Skewers: 9.22
+  Carnitas Plantain Burrito: 6.44
+  Mexican Chocolate Milkshake: 4.91
+  Roasted Corn and Avocado Salad: 5.26
+  Avocado Lime Dip: 4.19
+  Black Bean & Corn Quesadilla: 7.73
+  Zesty Lime Grilled Shrimp: 10.36
+  Black Bean Chili Bowl: 6.77
+  Warm Churro Bites: 4.71
+  Creamy Jalapeno Corn Fritters: 4.37
+  Roasted Poblano and Cheese Empanadas: 6.65
+  Roasted Pecan Flan: 4.37
+  Grilled Shrimp Quesadilla: 7.48
+  Southwest Chopped Salad: 6.55
+  Coconut Lime Shrimp Skewers: 12.36
+  Tex-Mex Big Breakfast Bowl: 7.35
+  Grilled Pineapple Salsa: 4.58

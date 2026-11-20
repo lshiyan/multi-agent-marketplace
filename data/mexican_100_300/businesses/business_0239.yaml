@@ -1,46 +1,39 @@
 id: business_0239
-name: Azul Agave Social
-description: Azul Agave Social brings a fresh, modern twist to classic Mexican and
-  Tex-Mex flavors in a vibrant, welcoming atmosphere. Enjoy bold bites, handcrafted
-  drinks, and a spirited ambiance perfect for catching up with friends or brunching
-  in style.
+name: "Sol y Saz\xF3n Cantina"
+description: Experience the vibrant flavors of Mexico and the Southwest in a welcoming
+  setting where tradition meets modern flair. Enjoy fresh, colorful dishes and handcrafted
+  drinks inspired by the spirit of Tex-Mex cuisine.
 rating: 1.0
 progenitor_customer: customer_0080
 menu_features:
-  Black Bean Avocado Tostadas: 12.12
-  Raspberry Jalapeno Mojito: 8.28
-  Grilled Chipotle Chicken Burrito: 11.11
-  Coconut Lime Margarita: 9.46
-  Sunrise Breakfast Tacos: 8.86
-  Creamy Avocado Caesar Salad: 12.07
-  Roasted Poblano Rellenos: 16.18
-  Vanilla Flan Delight: 4.73
-  Tequila Lime Grilled Chicken: 10.84
-  Spicy Cucumber Margarita: 8.42
-  Black Bean Breakfast Burrito: 10.02
-  Bacon Wrapped Jalapeno Bites: 9.39
-  Sizzling Chicken Fajitas: 15.78
-  Fresh Mint Mojito: 9.31
-  Adobo Pork Sliders: 10.42
-  Tamarind Citrus Margarita: 8.43
-  Crispy Tinga Chicken Tacos: 9.14
+  Frozen Strawberry Daiquiri: 6.45
+  Sizzling Steak Fajitas: 14.66
+  Grilled Shrimp Quesadilla: 11.91
+  Sea Breeze Ceviche: 13.55
+  Spiced Agave Margarita: 8.9
+  Tex-Mex Breakfast Skillet: 8.94
+  Fresh Lime and Cilantro Guacamole: 8.75
+  Sizzling Fajita Skillet: 12.53
+  Coconut Tres Leches: 6.43
+  Stuffed Avocado Delight: 5.63
+  Chipotle Lime Shrimp Tacos: 14.67
+  Zesty Shrimp Ceviche: 11.06
+  Mango Agua Fresca: 3.87
+  Savory Chorizo Street Tacos: 8.9
 amenity_features: {}
-min_price_factor: 0.6
+min_price_factor: 0.89
 minimum_menu_prices:
-  Black Bean Avocado Tostadas: 7.27
-  Raspberry Jalapeno Mojito: 4.97
-  Grilled Chipotle Chicken Burrito: 6.67
-  Coconut Lime Margarita: 5.68
-  Sunrise Breakfast Tacos: 5.32
-  Creamy Avocado Caesar Salad: 7.24
-  Roasted Poblano Rellenos: 9.71
-  Vanilla Flan Delight: 2.84
-  Tequila Lime Grilled Chicken: 6.5
-  Spicy Cucumber Margarita: 5.05
-  Black Bean Breakfast Burrito: 6.01
-  Bacon Wrapped Jalapeno Bites: 5.63
-  Sizzling Chicken Fajitas: 9.47
-  Fresh Mint Mojito: 5.59
-  Adobo Pork Sliders: 6.25
-  Tamarind Citrus Margarita: 5.06
-  Crispy Tinga Chicken Tacos: 5.48
+  Frozen Strawberry Daiquiri: 5.74
+  Sizzling Steak Fajitas: 12.87
+  Grilled Shrimp Quesadilla: 10.6
+  Sea Breeze Ceviche: 12.06
+  Spiced Agave Margarita: 7.92
+  Tex-Mex Breakfast Skillet: 7.96
+  Fresh Lime and Cilantro Guacamole: 7.61
+  Sizzling Fajita Skillet: 11.15
+  Coconut Tres Leches: 5.72
+  Stuffed Avocado Delight: 5.01
+  Chipotle Lime Shrimp Tacos: 13.06
+  Zesty Shrimp Ceviche: 9.84
+  Mango Agua Fresca: 3.44
+  Savory Chorizo Street Tacos: 7.92

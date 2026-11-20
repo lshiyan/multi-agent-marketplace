@@ -1,35 +1,43 @@
 id: business_0266
-name: Smoky Slaw & Sizzle
-description: Experience bold Mexican and Tex-Mex flavors in a vibrant, modern space.
-  From sizzling grilled platters to fresh, crunchy bites, our menu brings zest and
-  creativity to every meal.
+name: Holy Chip & Sunrise Dip
+description: Start your day or night with a fiesta of fresh flavors, zesty salsas,
+  bold tamales, and sweet treats. Enjoy our creative Mexican and Tex-Mex dishes with
+  a fresh twist in every bite.
 rating: 1.0
 progenitor_customer: customer_0089
 menu_features:
-  Classic Beef Tacos with Zesty Slaw: 10.36
-  Loaded Nacho Bowl: 13.55
-  Grilled Steak Fajita Platter: 13.59
-  Black Bean Avocado Tostadas: 9.8
-  Crispy Avocado Fritters: 9.57
-  Honey-Lime Grilled Shrimp: 15.86
-  Spicy Chocolate Churros: 6.73
-  Smoky Chipotle BBQ Wings: 9.85
-  Grilled Steak Quesadilla: 14.07
-  Cinnamon Churro Bites: 5.18
-  Ultimate Nacho Platter: 10.4
-  Loaded Chorizo Nachos: 8.92
+  Black Bean & Corn Queso Dip: 4.53
+  Stuffed Poblano Peppers: 12.58
+  Roasted Poblano Corn Chowder: 5.2
+  Grilled Chipotle Chicken Burrito: 13.72
+  Fresh Mint Mojito: 8.36
+  Avocado Lime Quinoa Bowl: 11.06
+  Roasted Pumpkin Tamale: 7.22
+  Breakfast Burrito Bonanza: 8.0
+  Caramel Apple Empanadas: 6.04
+  Coconut Tres Leches: 6.03
+  Zesty Shrimp Ceviche: 14.13
+  Tex-Mex Fajita Wrap: 12.56
+  Rich Chocolate Tamales: 6.93
+  Spicy Pork Tamales: 11.0
+  Pineapple Habanero Salsa: 5.0
+  Black Bean Stuffed Sweet Potatoes: 9.1
 amenity_features: {}
-min_price_factor: 0.76
+min_price_factor: 0.67
 minimum_menu_prices:
-  Classic Beef Tacos with Zesty Slaw: 7.87
-  Loaded Nacho Bowl: 10.3
-  Grilled Steak Fajita Platter: 10.33
-  Black Bean Avocado Tostadas: 7.45
-  Crispy Avocado Fritters: 7.27
-  Honey-Lime Grilled Shrimp: 12.05
-  Spicy Chocolate Churros: 5.11
-  Smoky Chipotle BBQ Wings: 7.49
-  Grilled Steak Quesadilla: 10.69
-  Cinnamon Churro Bites: 3.94
-  Ultimate Nacho Platter: 7.9
-  Loaded Chorizo Nachos: 6.78
+  Black Bean & Corn Queso Dip: 3.04
+  Stuffed Poblano Peppers: 8.53
+  Roasted Poblano Corn Chowder: 3.48
+  Grilled Chipotle Chicken Burrito: 9.19
+  Fresh Mint Mojito: 5.6
+  Avocado Lime Quinoa Bowl: 7.41
+  Roasted Pumpkin Tamale: 4.84
+  Breakfast Burrito Bonanza: 5.36
+  Caramel Apple Empanadas: 4.05
+  Coconut Tres Leches: 4.04
+  Zesty Shrimp Ceviche: 9.47
+  Tex-Mex Fajita Wrap: 8.42
+  Rich Chocolate Tamales: 4.64
+  Spicy Pork Tamales: 7.37
+  Pineapple Habanero Salsa: 3.35
+  Black Bean Stuffed Sweet Potatoes: 6.1

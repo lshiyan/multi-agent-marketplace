@@ -1,11 +1,11 @@
 id: customer_0058
-name: Grace Yang
-request: 'I need assistance in finding a business that has the following menu items
-  available for order: 1 Agave Lime Chicken Skewer and 1 Roasted Poblano Soup. It
-  is important that both items are available from the same business. Once a suitable
-  business is found, I intend to place an order for these items. Thank you for your
-  assistance.'
+name: Olivia Lopez
+request: "Could you please help me find a business that serves the following items?\
+  \ I need to place an order for the exact quantities listed: 1 Poblano Pepper Queso\
+  \ Dip, 1 Blueberry Jalape\xF1o Margarita, and 1 Avocado Lime Salad. It's important\
+  \ that the business offers all these items. Thank you!"
 menu_features:
-  Agave Lime Chicken Skewers: 11.99
-  Roasted Poblano Soup: 7.49
+  Poblano Pepper Queso Dip: 7.51
+  "Blueberry Jalape\xF1o Margarita": 12.44
+  Avocado Lime Salad: 10.53
 amenity_features: []

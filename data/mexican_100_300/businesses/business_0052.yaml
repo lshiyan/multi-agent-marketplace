@@ -1,39 +1,43 @@
 id: business_0052
-name: Molcajete Moderno
-description: Experience a vibrant take on Mexican and Tex-Mex classics, where bold
-  flavors meet fresh, inventive twists. From savory stuffed peppers to sweet plantain
-  creations, Molcajete Moderno promises a spirited and memorable dining adventure.
+name: ChimiCharming Eats
+description: Dive into bold, savory Tex-Mex flavors with a playful twist. Our menu
+  brings together smoky, spicy, and fresh ingredients for a delightfully crave-worthy
+  dining experience.
 rating: 1.0
 progenitor_customer: customer_0018
 menu_features:
-  Stuffed Chicken Poblano: 15.07
-  Pineapple Salsa Pork Tacos: 11.47
-  Pineapple Pico de Gallo Nachos: 11.81
-  Loaded Street Corn: 7.03
-  Chipotle Bourbon Carnitas: 14.28
-  Sweet Plantain Empanadas: 7.2
-  Chocolate Molten Tamale: 6.5
-  Smoky Chipotle Black Bean Soup: 8.14
-  Chipotle Chicken Enchiladas: 14.18
-  Blue Corn Tostada Salad: 11.04
-  Breakfast Burrito Bowl: 6.93
-  Black Bean Street Tacos: 9.13
-  Breakfast Tostada Stack: 10.42
-  Avocado Lime Enchiladas: 9.97
+  Smoky Chipotle Queso: 5.82
+  Black Bean Burgers: 9.03
+  Shrimp Ceviche Bowl: 10.37
+  Smoky Black Bean Tostadas: 8.05
+  Cucumber Jalapeno Agua Fresca: 3.84
+  Blueberry Agave Mojito: 9.43
+  Carne Asada Nachos: 12.12
+  Roasted Tomato Salsa Dip: 3.68
+  Spicy Chicken Chimichanga: 13.34
+  Black Bean Avocado Enchiladas: 12.1
+  Raspberry Jalapeno Mojito: 9.03
+  Cheesy Jalapeno Poppers: 6.88
+  Crispy Avocado Nachos: 6.03
+  Ultimate Nacho Platter: 9.69
+  Stuffed Avocado Delight: 8.99
+  Spicy Chipotle Chicken Wrap: 9.35
 amenity_features: {}
-min_price_factor: 0.64
+min_price_factor: 0.95
 minimum_menu_prices:
-  Stuffed Chicken Poblano: 9.64
-  Pineapple Salsa Pork Tacos: 7.34
-  Pineapple Pico de Gallo Nachos: 7.56
-  Loaded Street Corn: 4.5
-  Chipotle Bourbon Carnitas: 9.14
-  Sweet Plantain Empanadas: 4.61
-  Chocolate Molten Tamale: 4.16
-  Smoky Chipotle Black Bean Soup: 5.21
-  Chipotle Chicken Enchiladas: 9.08
-  Blue Corn Tostada Salad: 7.07
-  Breakfast Burrito Bowl: 4.44
-  Black Bean Street Tacos: 5.84
-  Breakfast Tostada Stack: 6.67
-  Avocado Lime Enchiladas: 6.38
+  Smoky Chipotle Queso: 5.53
+  Black Bean Burgers: 8.58
+  Shrimp Ceviche Bowl: 9.85
+  Smoky Black Bean Tostadas: 7.65
+  Cucumber Jalapeno Agua Fresca: 3.65
+  Blueberry Agave Mojito: 8.96
+  Carne Asada Nachos: 11.51
+  Roasted Tomato Salsa Dip: 3.01
+  Spicy Chicken Chimichanga: 12.67
+  Black Bean Avocado Enchiladas: 11.01
+  Raspberry Jalapeno Mojito: 8.58
+  Cheesy Jalapeno Poppers: 6.54
+  Crispy Avocado Nachos: 5.73
+  Ultimate Nacho Platter: 8.72
+  Stuffed Avocado Delight: 8.54
+  Spicy Chipotle Chicken Wrap: 8.88

@@ -1,41 +1,37 @@
 id: business_0002
-name: Fiesta Flame
-description: Dive into vibrant flavors and sizzling dishes at Fiesta Flame, where
-  Tex-Mex classics and inventive bites ignite your taste buds. Enjoy a festive atmosphere
-  perfect for sharing good times and unforgettable meals.
+name: Cocoa & Corn Cantina
+description: Cocoa & Corn Cantina serves up fresh, flavorful Mexican and Tex-Mex favorites
+  with a creative twist. Enjoy our house specialties ranging from rich desserts to
+  classic, veggie-forward dishes in a vibrant, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0001
 menu_features:
-  Spiced Agave Margarita: 6.93
-  Flamin' Skillet Fajitas: 14.24
-  Chili Lime Jicama Sticks: 4.67
-  Sizzling Carne Asada: 17.83
-  Spicy Beef Chimichangas: 10.47
-  Coconut Lime Shrimp Skewers: 16.89
-  Coconut Tres Leches: 6.63
-  Black Bean & Cheese Tostadas: 9.28
-  Grilled Pineapple & Shrimp Quesadillas: 13.41
-  Pico de Gallo Chicken Salad: 9.01
-  Street Corn Quesadilla: 9.82
-  Sweet Plantain Empanadas: 6.28
-  Pineapple Tequila Chicken Skewers: 12.23
-  Roasted Red Pepper Quesadilla: 10.86
-  Spicy Chocolate Churros: 4.9
+  Chocolate Tamale Cake: 6.57
+  Horchata Latte: 4.29
+  Smoky Black Bean Enchiladas: 12.96
+  Stuffed Chicken Poblano: 13.19
+  Coconut Tres Leches: 6.95
+  Avocado Lime Enchiladas: 12.87
+  Mexican Street Corn Salad: 6.44
+  Three-Cheese Chile Rellenos: 14.33
+  Passion Fruit Mojito: 8.64
+  Smoky Chipotle Quesadillas: 11.05
+  "Coconut Horchata Latt\xE9": 4.23
+  Rich Chocolate Tamales: 6.12
+  Three-Cheese Queso Dip: 6.61
 amenity_features: {}
-min_price_factor: 0.83
+min_price_factor: 0.87
 minimum_menu_prices:
-  Spiced Agave Margarita: 5.75
-  Flamin' Skillet Fajitas: 11.82
-  Chili Lime Jicama Sticks: 3.88
-  Sizzling Carne Asada: 14.8
-  Spicy Beef Chimichangas: 8.69
-  Coconut Lime Shrimp Skewers: 14.02
-  Coconut Tres Leches: 5.5
-  Black Bean & Cheese Tostadas: 7.7
-  Grilled Pineapple & Shrimp Quesadillas: 11.13
-  Pico de Gallo Chicken Salad: 7.48
-  Street Corn Quesadilla: 8.15
-  Sweet Plantain Empanadas: 5.21
-  Pineapple Tequila Chicken Skewers: 10.15
-  Roasted Red Pepper Quesadilla: 9.01
-  Spicy Chocolate Churros: 4.07
+  Chocolate Tamale Cake: 5.79
+  Horchata Latte: 3.73
+  Smoky Black Bean Enchiladas: 11.35
+  Stuffed Chicken Poblano: 11.48
+  Coconut Tres Leches: 6.05
+  Avocado Lime Enchiladas: 11.2
+  Mexican Street Corn Salad: 5.6
+  Three-Cheese Chile Rellenos: 12.47
+  Passion Fruit Mojito: 7.52
+  Smoky Chipotle Quesadillas: 9.61
+  "Coconut Horchata Latt\xE9": 3.76
+  Rich Chocolate Tamales: 5.32
+  Three-Cheese Queso Dip: 5.75

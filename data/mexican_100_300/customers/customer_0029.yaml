@@ -1,12 +1,12 @@
 id: customer_0029
-name: Anita Patel
-request: 'I would like your assistance in finding a business that can fulfill a specific
-  order. The order should include the following items: 1 Spicy Beef Empanada, 1 Fire
-  Roasted Salsa Sampler, and 1 Street Style Quesadilla. It is essential that the business
-  can provide all these menu items. Once such a business is found, I intend to place
-  the order. Thank you for your help.'
+name: Olivia Chen
+request: 'I am looking to place an order from a business that offers the following
+  items: 1 Rich Chocolate Tres Leches, 1 Paloma Breeze Cocktail, and 1 Crispy Fish
+  Street Tacos. These items are crucial for my needs, and I intend to purchase them
+  as specified. Could you please assist me in finding a suitable business that can
+  fulfill this order? Thank you.'
 menu_features:
-  Spicy Beef Empanadas: 8.99
-  Fire Roasted Salsa Sampler: 5.99
-  Street Style Quesadillas: 9.89
+  Rich Chocolate Tres Leches: 6.32
+  Paloma Breeze Cocktail: 7.73
+  Crispy Fish Street Tacos: 16.17
 amenity_features: []

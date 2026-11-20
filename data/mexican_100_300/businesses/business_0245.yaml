@@ -1,42 +1,35 @@
 id: business_0245
-name: Nacho Business
-description: Step into a fiesta of bold flavors and colorful creations at Nacho Business,
-  where smoky grills, sizzling skewers, and refreshing coolers come together for a
-  memorable Mexican meal. Perfect for spice lovers, veggie fans, and anyone craving
-  a delicious twist on classic favorites.
+name: Sweet Heat Street
+description: Dive into a fiesta of flavor where zesty citrus, fiery peppers, and fresh
+  produce meet sweet surprises. Enjoy bold Mexican and Tex-Mex classics reimagined
+  with vibrant, modern twists in every sip and bite.
 rating: 1.0
 progenitor_customer: customer_0082
 menu_features:
-  Chili Lime Shrimp Skewers: 11.59
-  Black Bean Sweet Potato Burrito: 11.93
-  Tequila Lime Grilled Chicken: 12.24
-  Guava Limeade Cooler: 4.52
-  Spicy Shrimp Nacho Platter: 11.0
-  Stuffed Chicken Poblano: 13.44
-  Refreshing Agua Fresca Trio: 9.43
-  Classic Beef Barbacoa: 9.14
-  Classic Lime Margarita: 9.13
-  Spicy Pork Tamales: 13.0
-  Grilled Steak Fajita Platter: 16.1
-  Spicy Black Bean Nacho Platter: 9.76
-  Pomegranate Agua Fresca: 3.08
-  Loaded Nacho Fiesta: 11.42
-  Street Corn Elote: 4.13
+  "Strawberry Jalape\xF1o Mocktail": 6.71
+  Passionfruit Paloma: 8.35
+  Black Bean Stuffed Sweet Potatoes: 8.01
+  Black Bean & Cheese Tostadas: 10.22
+  Agave Lime Margarita: 10.6
+  "Spicy Jalape\xF1o Limeade": 3.61
+  Vanilla Almond Horchata: 4.75
+  Fiesta Street Corn: 7.49
+  Sea Breeze Ceviche: 12.08
+  Carne Asada Fajitas: 14.08
+  Shrimp Ceviche Cups: 12.11
+  Coconut Lime Paleta: 3.83
 amenity_features: {}
-min_price_factor: 0.73
+min_price_factor: 0.78
 minimum_menu_prices:
-  Chili Lime Shrimp Skewers: 8.46
-  Black Bean Sweet Potato Burrito: 8.71
-  Tequila Lime Grilled Chicken: 8.94
-  Guava Limeade Cooler: 3.3
-  Spicy Shrimp Nacho Platter: 8.03
-  Stuffed Chicken Poblano: 9.81
-  Refreshing Agua Fresca Trio: 6.88
-  Classic Beef Barbacoa: 6.67
-  Classic Lime Margarita: 6.66
-  Spicy Pork Tamales: 9.49
-  Grilled Steak Fajita Platter: 11.75
-  Spicy Black Bean Nacho Platter: 7.12
-  Pomegranate Agua Fresca: 2.25
-  Loaded Nacho Fiesta: 8.34
-  Street Corn Elote: 3.01
+  "Strawberry Jalape\xF1o Mocktail": 5.23
+  Passionfruit Paloma: 6.51
+  Black Bean Stuffed Sweet Potatoes: 6.25
+  Black Bean & Cheese Tostadas: 7.97
+  Agave Lime Margarita: 8.27
+  "Spicy Jalape\xF1o Limeade": 2.82
+  Vanilla Almond Horchata: 3.71
+  Fiesta Street Corn: 3.94
+  Sea Breeze Ceviche: 9.42
+  Carne Asada Fajitas: 10.98
+  Shrimp Ceviche Cups: 9.45
+  Coconut Lime Paleta: 2.99

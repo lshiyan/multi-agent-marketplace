@@ -1,10 +1,11 @@
 id: customer_0063
-name: William Hughes
-request: 'Could you please assist me in finding a business that can provide the following
-  menu items: 1 Fresh Corn Elote and 1 Chili Lime Roasted Corn? It is important that
-  all items are available. Once located, I intend to place an order for these items.
-  Thank you for your assistance.'
+name: Charles Ramirez
+request: 'I would like assistance in finding a business that can fulfill an order
+  for the following menu items: 1 Spicy Shrimp Ceviche and 1 Loaded Nacho Bowl. It
+  is important that the business can provide both of these items. Once a suitable
+  business is located, I intend to place an order for these items. Thank you for your
+  help.'
 menu_features:
-  Fresh Corn Elote: 3.99
-  Chili Lime Roasted Corn: 4.99
+  Spicy Shrimp Ceviche: 11.28
+  Loaded Nacho Bowl: 11.39
 amenity_features: []

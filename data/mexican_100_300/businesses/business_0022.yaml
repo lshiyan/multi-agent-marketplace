@@ -1,37 +1,44 @@
 id: business_0022
-name: "Casa de Mango y Ma\xEDz"
-description: Experience the vibrant flavors of Mexico and the Southwest in a lively
-  setting, where fresh ingredients and bold traditions come together. From zesty appetizers
-  to flavorful specialties, enjoy a unique twist on classic favorites.
+name: Chile Chillaquiles
+description: "Start your day or spice up your night at Chile Chillaquiles, where bold\
+  \ flavors meet fresh Tex-Mex flair. Enjoy inventive twists on classics, from zesty\
+  \ breakfast bowls to sizzling skewers and hearty enchiladas\u2014all crafted with\
+  \ a playful spirit and a hint of heat."
 rating: 1.0
 progenitor_customer: customer_0008
 menu_features:
-  Frozen Mango Margarita: 7.87
-  Avocado Lime Salsa: 4.79
-  Spicy Black Bean Nachos: 8.53
-  Chipotle Lime Shrimp Tacos: 14.42
-  Tamarind-Glazed Ribs: 19.48
-  Beef Barbacoa Tostadas: 11.54
-  Tex-Mex Fajita Wrap: 11.41
-  Three-Cheese Queso Dip: 8.02
-  Breakfast Chorizo Torta: 9.29
-  Chipotle Lime Chicken Salad: 10.04
-  Roasted Red Pepper Quesadilla: 9.44
-  Spicy Shrimp Ceviche: 12.15
-  Roasted Poblano and Cheese Empanadas: 9.35
+  Chipotle Bean Burrito: 9.13
+  Crispy Carnitas Quesadilla: 10.66
+  Tex-Mex Big Breakfast Bowl: 12.69
+  Spicy Chicken Tortilla Soup: 7.17
+  Chorizo Breakfast Tacos: 10.9
+  Pineapple Tequila Chicken Skewers: 14.24
+  Smoky Ancho Chicken Enchiladas: 10.18
+  Mexican Street Corn Salad: 6.64
+  Smoky Black Bean Nachos: 10.19
+  Avocado Ranch Burrito Bowl: 12.53
+  Lime-Garlic Grilled Chicken: 12.52
+  Honey-Lime Shrimp Skewers: 15.59
+  Vegetarian Tamale Platter: 9.93
+  Loaded Chorizo Nachos: 9.35
+  Breakfast Tostada Stack: 11.95
+  Sea Breeze Ceviche: 11.29
 amenity_features: {}
-min_price_factor: 0.87
+min_price_factor: 0.88
 minimum_menu_prices:
-  Frozen Mango Margarita: 6.85
-  Avocado Lime Salsa: 4.17
-  Spicy Black Bean Nachos: 7.42
-  Chipotle Lime Shrimp Tacos: 12.55
-  Tamarind-Glazed Ribs: 16.95
-  Beef Barbacoa Tostadas: 10.04
-  Tex-Mex Fajita Wrap: 9.93
-  Three-Cheese Queso Dip: 6.98
-  Breakfast Chorizo Torta: 8.08
-  Chipotle Lime Chicken Salad: 8.73
-  Roasted Red Pepper Quesadilla: 8.21
-  Spicy Shrimp Ceviche: 10.57
-  Roasted Poblano and Cheese Empanadas: 8.13
+  Chipotle Bean Burrito: 8.03
+  Crispy Carnitas Quesadilla: 9.38
+  Tex-Mex Big Breakfast Bowl: 11.17
+  Spicy Chicken Tortilla Soup: 6.31
+  Chorizo Breakfast Tacos: 9.59
+  Pineapple Tequila Chicken Skewers: 12.59
+  Smoky Ancho Chicken Enchiladas: 8.96
+  Mexican Street Corn Salad: 5.84
+  Smoky Black Bean Nachos: 8.97
+  Avocado Ranch Burrito Bowl: 11.03
+  Lime-Garlic Grilled Chicken: 11.02
+  Honey-Lime Shrimp Skewers: 13.72
+  Vegetarian Tamale Platter: 8.8
+  Loaded Chorizo Nachos: 8.23
+  Breakfast Tostada Stack: 10.52
+  Sea Breeze Ceviche: 9.94

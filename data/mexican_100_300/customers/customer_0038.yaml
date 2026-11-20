@@ -1,9 +1,12 @@
 id: customer_0038
-name: Maria Petrova
-request: 'I would like to place an order for the following items: 1 Grilled Shrimp
-  Fajita Bowl and 1 Mango Habanero Margarita. Please find a business that offers these
-  menu items, as they are essential to my order. Thank you.'
+name: Benjamin Shah
+request: 'I need assistance finding a business that serves the following specific
+  menu items: ''Peach Berry Sangria'' (1), ''Spicy Beef Chimichangas'' (1), and ''Roasted
+  Pepper Queso Dip'' (1). It is important that the business can meet all these requirements.
+  Once such a business is found, I intend to place an order for these items. Thank
+  you for your help in this matter.'
 menu_features:
-  Grilled Shrimp Fajita Bowl: 12.99
-  Mango Habanero Margarita: 9.99
+  Peach Berry Sangria: 9.51
+  Spicy Beef Chimichangas: 18.5
+  Roasted Pepper Queso Dip: 6.85
 amenity_features: []

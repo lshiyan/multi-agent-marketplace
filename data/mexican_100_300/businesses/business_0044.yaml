@@ -1,33 +1,35 @@
 id: business_0044
-name: Lime & Luna Eatery
-description: Discover fresh, modern Mexican and Tex-Mex flavors in a vibrant, relaxed
-  atmosphere. Enjoy creative margaritas, flavorful small plates, and inspired classics
-  with a twist.
+name: Smoky Sol Cocina
+description: Experience modern Mexican and Tex-Mex flavors in a vibrant, welcoming
+  setting. From fire-grilled specialties to refreshing house-made drinks, every bite
+  at Smoky Sol Cocina is a taste of sunshine and spice.
 rating: 1.0
 progenitor_customer: customer_0015
 menu_features:
-  Verde Ranchero Huevos: 11.62
-  Garlic Lime Shrimp Salad: 11.57
-  "Blueberry Jalape\xF1o Margarita": 13.27
-  Spicy Cucumber Margarita: 10.17
-  Coconut Lime Paleta: 3.55
-  Shrimp Ceviche Cups: 7.07
-  Frozen Mango Margarita: 8.35
-  Smoky Black Bean Enchiladas: 12.34
-  Classic Mojito with Mint: 7.37
-  Black Bean & Cheese Tostadas: 11.97
-  Fresh Lime and Cilantro Guacamole: 8.53
+  Tamale Pie Casserole: 15.83
+  Mini Street Tacos Platter: 11.02
+  Sunset Grilled Veggie Tacos: 12.48
+  Smoky Chipotle BBQ Ribs: 13.88
+  Adobo Roasted Corn Salad: 8.24
+  Chipotle Shrimp Skewers: 14.97
+  Ancho Chile BBQ Ribs: 18.34
+  Spiced Chocolate Tres Leches: 6.31
+  Spicy Chorizo Enchiladas: 15.9
+  Horchata Latte: 4.76
+  Avocado Lime Salsa: 5.04
+  Hibiscus Iced Tea: 3.08
 amenity_features: {}
 min_price_factor: 0.93
 minimum_menu_prices:
-  Verde Ranchero Huevos: 10.81
-  Garlic Lime Shrimp Salad: 10.76
-  "Blueberry Jalape\xF1o Margarita": 12.34
-  Spicy Cucumber Margarita: 9.46
-  Coconut Lime Paleta: 3.3
-  Shrimp Ceviche Cups: 6.58
-  Frozen Mango Margarita: 7.77
-  Smoky Black Bean Enchiladas: 11.48
-  Classic Mojito with Mint: 6.85
-  Black Bean & Cheese Tostadas: 11.13
-  Fresh Lime and Cilantro Guacamole: 7.93
+  Tamale Pie Casserole: 14.72
+  Mini Street Tacos Platter: 10.25
+  Sunset Grilled Veggie Tacos: 11.61
+  Smoky Chipotle BBQ Ribs: 12.91
+  Adobo Roasted Corn Salad: 7.66
+  Chipotle Shrimp Skewers: 13.92
+  Ancho Chile BBQ Ribs: 17.06
+  Spiced Chocolate Tres Leches: 5.87
+  Spicy Chorizo Enchiladas: 12.59
+  Horchata Latte: 4.43
+  Avocado Lime Salsa: 4.69
+  Hibiscus Iced Tea: 2.86

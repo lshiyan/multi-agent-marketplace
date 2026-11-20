@@ -1,35 +1,33 @@
 id: business_0143
-name: Citrus Ember Cantina
-description: "Where bold flavors meet fresh ingredients\u2014Citrus Ember Cantina\
-  \ serves up a modern twist on classic Mexican and Tex-Mex favorites. Enjoy a vibrant\
-  \ atmosphere and inventive dishes, crafted for memorable dining."
+name: Carnitas & Quirk
+description: Spice up your day with bold Tex-Mex flavors and playful twists on classic
+  favorites. From sizzled platters to decadent desserts, this is your spot for a fiesta
+  in every bite!
 rating: 1.0
 progenitor_customer: customer_0048
 menu_features:
-  Grilled Chipotle Chicken Burrito: 10.12
-  Raspberry Chipotle Barbecue Ribs: 17.98
-  Sweet Corn Tamale Cake: 8.73
-  Gourmet Nacho Platter: 7.93
-  Ultimate Nacho Platter: 9.82
-  Stuffed Avocado Delight: 9.22
-  Avocado & Tomato Breakfast Tostadas: 8.37
-  Avocado Lime Empanadas: 10.35
-  Smoky BBQ Pork Tostadas: 9.99
-  Margarita Lime Cheesecake: 7.03
-  Pork Carnitas Platter: 15.29
-  Coconut Flan Delight: 7.74
+  Pork Carnitas Platter: 12.66
+  Breakfast Burrito Bowl: 9.49
+  Huevos Rancheros: 10.22
+  Choco Flan Combo: 6.95
+  Pineapple Chipotle Salsa & Chips: 5.61
+  Coconut Lime Flan: 5.78
+  Smoky Chipotle Enchiladas: 15.62
+  Sizzling Carne Asada: 16.18
+  Chipotle Lime Shrimp Tacos: 12.19
+  Grilled Pineapple Salmon: 17.9
+  Mini Street Tacos Platter: 10.36
 amenity_features: {}
-min_price_factor: 0.79
+min_price_factor: 0.73
 minimum_menu_prices:
-  Grilled Chipotle Chicken Burrito: 7.99
-  Raspberry Chipotle Barbecue Ribs: 14.2
-  Sweet Corn Tamale Cake: 6.9
-  Gourmet Nacho Platter: 6.26
-  Ultimate Nacho Platter: 7.76
-  Stuffed Avocado Delight: 7.28
-  Avocado & Tomato Breakfast Tostadas: 6.61
-  Avocado Lime Empanadas: 8.18
-  Smoky BBQ Pork Tostadas: 7.89
-  Margarita Lime Cheesecake: 5.55
-  Pork Carnitas Platter: 12.08
-  Coconut Flan Delight: 6.11
+  Pork Carnitas Platter: 9.24
+  Breakfast Burrito Bowl: 6.93
+  Huevos Rancheros: 7.46
+  Choco Flan Combo: 5.07
+  Pineapple Chipotle Salsa & Chips: 4.1
+  Coconut Lime Flan: 4.22
+  Smoky Chipotle Enchiladas: 11.4
+  Sizzling Carne Asada: 13.09
+  Chipotle Lime Shrimp Tacos: 8.9
+  Grilled Pineapple Salmon: 13.07
+  Mini Street Tacos Platter: 7.56

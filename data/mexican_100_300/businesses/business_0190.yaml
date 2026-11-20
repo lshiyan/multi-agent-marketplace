@@ -1,45 +1,43 @@
 id: business_0190
-name: Azul Cactus Cocina
-description: "Experience vibrant, contemporary Mexican and Tex-Mex cuisine in a lively\
-  \ setting, where fresh ingredients and bold flavors come together. Enjoy creative\
-  \ entr\xE9es and house-crafted drinks inspired by the spirited heart of Mexico."
+name: Tostada Terrace
+description: Experience bold Mexican-inspired flavors and vibrant refreshments at
+  Tostada Terrace. From savory nibbles to refreshing drinks and tempting desserts,
+  every meal is a colorful celebration.
 rating: 1.0
 progenitor_customer: customer_0064
 menu_features:
-  Vegetarian Tamale Platter: 10.39
-  Pineapple Jalapeno Salsa: 4.36
-  Mexican Coffee Flan: 7.52
-  Chocolate Mole Brownie: 6.48
-  Tomatillo Ranch Enchiladas: 10.42
-  Lime-Garlic Grilled Chicken: 13.63
-  Tequila Lime Grilled Shrimp: 14.05
-  Vanilla Flan with Caramel Sauce: 8.02
-  Cactus Cooler Margarita: 7.98
-  Stuffed Avocado Boats: 9.05
-  Black Bean Stuffed Bell Peppers: 9.55
-  Classic Horchata Smoothie: 6.09
-  Blueberry Tequila Sunrise: 11.11
-  Baja Fish Taco Bowl: 10.64
-  Blueberry Hibiscus Margarita: 10.51
-  Pineapple Habanero Sake: 6.2
-  Chipotle Shrimp Skewers: 13.17
+  Fresh Watermelon Aqua Fresca: 3.86
+  Smoky Chipotle BBQ Wings: 11.11
+  Mango Jalapeno Slush: 4.84
+  Smoky Black Bean Tostadas: 8.44
+  Loaded Nacho Skillet: 12.04
+  Tangy Tomato Salsa Soup: 8.01
+  Baja Fish Tacos: 15.54
+  Jalapeno Mango Margarita: 7.62
+  Mexican Chocolate Brownie: 5.7
+  Black Bean and Sweet Potato Empanadas: 10.06
+  "Strawberry Jalape\xF1o Mocktail": 6.59
+  Avocado Lime Cheesecake: 7.44
+  Margarita Lime Cheesecake: 6.7
+  Black Bean Avocado Tostadas: 12.52
+  Pineapple Jalapeno Salsa: 4.87
+  Sweet Corn Tostadas: 9.73
 amenity_features: {}
-min_price_factor: 0.89
+min_price_factor: 0.73
 minimum_menu_prices:
-  Vegetarian Tamale Platter: 9.25
-  Pineapple Jalapeno Salsa: 3.88
-  Mexican Coffee Flan: 6.69
-  Chocolate Mole Brownie: 5.77
-  Tomatillo Ranch Enchiladas: 9.27
-  Lime-Garlic Grilled Chicken: 12.13
-  Tequila Lime Grilled Shrimp: 12.5
-  Vanilla Flan with Caramel Sauce: 7.14
-  Cactus Cooler Margarita: 7.1
-  Stuffed Avocado Boats: 8.05
-  Black Bean Stuffed Bell Peppers: 8.5
-  Classic Horchata Smoothie: 5.42
-  Blueberry Tequila Sunrise: 9.89
-  Baja Fish Taco Bowl: 9.47
-  Blueberry Hibiscus Margarita: 9.35
-  Pineapple Habanero Sake: 5.52
-  Chipotle Shrimp Skewers: 11.72
+  Fresh Watermelon Aqua Fresca: 2.82
+  Smoky Chipotle BBQ Wings: 8.11
+  Mango Jalapeno Slush: 3.53
+  Smoky Black Bean Tostadas: 6.16
+  Loaded Nacho Skillet: 8.79
+  Tangy Tomato Salsa Soup: 5.85
+  Baja Fish Tacos: 11.34
+  Jalapeno Mango Margarita: 5.56
+  Mexican Chocolate Brownie: 4.16
+  Black Bean and Sweet Potato Empanadas: 7.34
+  "Strawberry Jalape\xF1o Mocktail": 4.81
+  Avocado Lime Cheesecake: 5.43
+  Margarita Lime Cheesecake: 4.89
+  Black Bean Avocado Tostadas: 8.23
+  Pineapple Jalapeno Salsa: 3.56
+  Sweet Corn Tostadas: 7.1

@@ -1,46 +1,41 @@
 id: business_0270
-name: Flantastic Voyage
-description: Embark on a culinary adventure where bold Mexican and Tex-Mex flavors
-  take center stage, from zesty street snacks to vibrant, shareable plates. Savor
-  every moment with house-made salsas, tangy marinades, and sweetly spiced desserts
-  in a lively, welcoming setting.
+name: Casa Chipotle Dorado
+description: Experience the vibrant flavors of modern Mexican and Tex-Mex cuisine
+  at Casa Chipotle Dorado. Enjoy a lively atmosphere, creative cocktails, and fresh-made
+  dishes inspired by regional classics and bold, smoky spices.
 rating: 1.0
 progenitor_customer: customer_0090
 menu_features:
-  Sweet Chili Lime Elote: 5.13
-  Sizzling Chicken Fajitas: 15.84
-  Chili-Lime Cauliflower Bites: 7.53
-  Hibiscus Agua Fresca: 3.43
-  Mango Habanero Wings: 13.61
-  Grilled Steak Quesadilla: 13.84
-  Fresh Mango Salsa Nachos: 8.83
-  "Cheesy Jalape\xF1o Quesadillas": 8.87
-  Honey Lime Chicken Skewers: 12.1
-  Chipotle BBQ Tacos: 14.53
-  Al Pastor Pork Tacos: 14.18
-  Baja Fish Tacos: 16.03
-  Sweet Corn Tamales: 12.72
-  Chili Lime Shrimp Skewers: 10.25
-  Black Bean Avocado Enchiladas: 10.02
-  Pumpkin Spice Flan: 5.88
-  Breakfast Chorizo Torta: 7.42
+  Fresh Corn Elote: 4.34
+  Smoky Chipotle Queso: 5.76
+  Classic Tortilla Soup: 5.87
+  Chili Chocolate Lava Cake: 7.41
+  Passionfruit Paloma: 8.33
+  Salted Caramel Margarita: 7.78
+  Red Chili Braised Beef Brisket: 12.8
+  Street Corn Fritters: 5.79
+  Adobo Pork Sliders: 12.62
+  Avocado Ranch Burrito Bowl: 13.81
+  Ancho Chili Spiced Ribs: 15.86
+  Creamy Avocado Soup: 6.2
+  Three-Cheese Queso Dip: 8.31
+  Shrimp and Avocado Ceviche: 11.74
+  Horchata Iced Coffee: 3.59
 amenity_features: {}
-min_price_factor: 0.74
+min_price_factor: 0.86
 minimum_menu_prices:
-  Sweet Chili Lime Elote: 3.8
-  Sizzling Chicken Fajitas: 11.72
-  Chili-Lime Cauliflower Bites: 5.57
-  Hibiscus Agua Fresca: 2.54
-  Mango Habanero Wings: 10.07
-  Grilled Steak Quesadilla: 10.24
-  Fresh Mango Salsa Nachos: 6.53
-  "Cheesy Jalape\xF1o Quesadillas": 6.56
-  Honey Lime Chicken Skewers: 8.95
-  Chipotle BBQ Tacos: 10.75
-  Al Pastor Pork Tacos: 10.49
-  Baja Fish Tacos: 11.86
-  Sweet Corn Tamales: 9.41
-  Chili Lime Shrimp Skewers: 7.58
-  Black Bean Avocado Enchiladas: 7.41
-  Pumpkin Spice Flan: 4.35
-  Breakfast Chorizo Torta: 5.49
+  Fresh Corn Elote: 3.73
+  Smoky Chipotle Queso: 4.95
+  Classic Tortilla Soup: 5.05
+  Chili Chocolate Lava Cake: 6.37
+  Passionfruit Paloma: 7.16
+  Salted Caramel Margarita: 6.69
+  Red Chili Braised Beef Brisket: 11.47
+  Street Corn Fritters: 4.98
+  Adobo Pork Sliders: 11.32
+  Avocado Ranch Burrito Bowl: 11.88
+  Ancho Chili Spiced Ribs: 13.64
+  Creamy Avocado Soup: 5.33
+  Three-Cheese Queso Dip: 7.15
+  Shrimp and Avocado Ceviche: 10.1
+  Horchata Iced Coffee: 3.09

@@ -1,37 +1,35 @@
 id: business_0103
-name: Zestful Mesa
-description: Experience vibrant Mexican and Tex-Mex flavors with a fresh, creative
-  twist. Zestful Mesa brings together bold ingredients and lively spirit for a memorable
-  dining adventure.
+name: 'Slaw & Order: Tex-Mex Unit'
+description: Bringing culinary justice to your taste buds with a sizzling array of
+  Tex-Mex favorites and inventive Mexican bites. Expect bold flavors, vibrant salsas,
+  and sweet finishes in a lively, welcoming setting.
 rating: 1.0
 progenitor_customer: customer_0035
 menu_features:
-  Pineapple Pico de Gallo Nachos: 11.33
-  Spiced Agave Margarita: 9.34
-  Honey-Lime Grilled Shrimp: 12.14
-  Chipotle BBQ Tacos: 12.12
-  Pineapple Habanero Salsa: 4.59
-  Zesty Lime Chicken Fajitas: 17.88
-  Coconut Tres Leches: 7.85
-  Honey Lime Grilled Fajitas: 11.49
-  Roasted Corn Enchiladas: 9.66
-  Tex-Mex Breakfast Skillet: 8.57
-  Roasted Pumpkin Tamale: 8.22
-  Chipotle Lime Shrimp Tacos: 12.55
-  Street Corn Elote: 6.4
+  Sizzling Fajita Platter: 14.87
+  Grilled Pineapple Salsa: 6.98
+  Spicy Beef Empanadas: 6.99
+  Street Style Corn on the Cob: 5.32
+  Choco-Chili Volcano Cake: 8.28
+  Sweet and Spicy Chicken Tostadas: 10.79
+  Crisp Jicama Slaw: 6.6
+  Chili Lime Jicama Sticks: 6.75
+  Beef Enchiladas Verdes: 12.58
+  Tamale Trio Platter: 15.21
+  Spicy Chicken Chimichanga: 12.61
+  Caramel Apple Empanadas: 6.27
 amenity_features: {}
-min_price_factor: 0.61
+min_price_factor: 0.66
 minimum_menu_prices:
-  Pineapple Pico de Gallo Nachos: 6.91
-  Spiced Agave Margarita: 5.7
-  Honey-Lime Grilled Shrimp: 7.41
-  Chipotle BBQ Tacos: 7.39
-  Pineapple Habanero Salsa: 2.8
-  Zesty Lime Chicken Fajitas: 10.91
-  Coconut Tres Leches: 4.79
-  Honey Lime Grilled Fajitas: 7.01
-  Roasted Corn Enchiladas: 5.89
-  Tex-Mex Breakfast Skillet: 5.23
-  Roasted Pumpkin Tamale: 5.01
-  Chipotle Lime Shrimp Tacos: 7.66
-  Street Corn Elote: 3.9
+  Sizzling Fajita Platter: 9.81
+  Grilled Pineapple Salsa: 4.71
+  Spicy Beef Empanadas: 4.72
+  Street Style Corn on the Cob: 3.51
+  Choco-Chili Volcano Cake: 5.46
+  Sweet and Spicy Chicken Tostadas: 7.12
+  Crisp Jicama Slaw: 4.36
+  Chili Lime Jicama Sticks: 4.46
+  Beef Enchiladas Verdes: 8.3
+  Tamale Trio Platter: 10.04
+  Spicy Chicken Chimichanga: 8.32
+  Caramel Apple Empanadas: 4.14

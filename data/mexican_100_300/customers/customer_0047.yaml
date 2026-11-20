@@ -1,11 +1,11 @@
 id: customer_0047
-name: Katherine Schneider
-request: 'Could you please find a business that offers the following menu items: ''Loaded
-  Nacho Supreme'' (1), ''Crispy Carnitas Tacos'' (1), and ''Honey Lime Grilled Chicken''
-  (1)? Once you find such a business, I would like to place an order for these items.
-  Thank you very much for your assistance.'
+name: James Wang
+request: Could you please assist me in finding a business that offers both Fresh Lime
+  and Cilantro Guacamole and Sweet Chili Lime Elote? I would like to place an order
+  for 1 Fresh Lime and Cilantro Guacamole and 1 Sweet Chili Lime Elote. These items
+  are very important to me, so the business must have both available. Thank you for
+  your help.
 menu_features:
-  Loaded Nacho Supreme: 9.99
-  Crispy Carnitas Tacos: 12.5
-  Honey Lime Grilled Chicken: 14.49
+  Fresh Lime and Cilantro Guacamole: 10.54
+  Sweet Chili Lime Elote: 6.43
 amenity_features: []

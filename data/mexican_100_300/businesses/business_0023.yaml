@@ -1,37 +1,35 @@
 id: business_0023
-name: Churro & Chile
-description: Churro & Chile offers a vibrant twist on classic Mexican and Tex-Mex
-  favorites, from savory tortas to sweet and spicy desserts. Enjoy bold flavors, fresh
-  ingredients, and a lively atmosphere with every visit.
+name: Quesadill-Yeah!
+description: Quesadill-Yeah! serves up a vibrant blend of classic and creative Mexican
+  and Tex-Mex fare, from crave-worthy small bites to sweet and zesty specialties.
+  Come sip, savor, and spice up your day in our fun, flavor-packed eatery.
 rating: 1.0
 progenitor_customer: customer_0008
 menu_features:
-  Breakfast Chorizo Torta: 10.52
-  Avocado Lime Enchiladas: 15.56
-  Pumpkin Spice Flan: 6.81
-  Horchata Iced Latte: 4.43
-  Three-Cheese Chile Rellenos: 11.68
-  Beef Barbacoa Tostadas: 11.1
-  Crispy Avocado Tostadas: 7.41
-  Spicy Black Bean Nachos: 9.07
-  Adobo Pork Sliders: 11.72
-  Smoky Chipotle Queso: 8.01
-  Smoky Black Bean Enchiladas: 14.27
-  Refreshing Agua Fresca Trio: 8.51
-  Spiced Churro Bites: 7.05
+  Blueberry Jalapeno Lemonade: 3.65
+  Caramelized Onion and Goat Cheese Empanadas: 6.26
+  Pineapple Tequila Chicken Skewers: 10.73
+  Mexican Chocolate Flan: 5.65
+  Street Style Quesadillas: 10.33
+  Beef Barbacoa Burrito Bowl: 13.2
+  Vegetarian Tamale Platter: 10.65
+  Sweet Corn Tamales: 11.91
+  Tamarind Citrus Margarita: 7.94
+  Spicy Cucumber Margarita: 9.2
+  Smoky Black Bean Soup: 7.38
+  Zesty Lime Grilled Chicken: 12.8
 amenity_features: {}
-min_price_factor: 0.63
+min_price_factor: 0.65
 minimum_menu_prices:
-  Breakfast Chorizo Torta: 6.63
-  Avocado Lime Enchiladas: 9.8
-  Pumpkin Spice Flan: 4.29
-  Horchata Iced Latte: 2.79
-  Three-Cheese Chile Rellenos: 7.36
-  Beef Barbacoa Tostadas: 6.99
-  Crispy Avocado Tostadas: 4.67
-  Spicy Black Bean Nachos: 5.71
-  Adobo Pork Sliders: 7.38
-  Smoky Chipotle Queso: 5.05
-  Smoky Black Bean Enchiladas: 8.99
-  Refreshing Agua Fresca Trio: 5.36
-  Spiced Churro Bites: 4.44
+  Blueberry Jalapeno Lemonade: 2.37
+  Caramelized Onion and Goat Cheese Empanadas: 4.07
+  Pineapple Tequila Chicken Skewers: 8.92
+  Mexican Chocolate Flan: 3.67
+  Street Style Quesadillas: 6.71
+  Beef Barbacoa Burrito Bowl: 8.58
+  Vegetarian Tamale Platter: 8.87
+  Sweet Corn Tamales: 7.74
+  Tamarind Citrus Margarita: 5.16
+  Spicy Cucumber Margarita: 5.98
+  Smoky Black Bean Soup: 4.8
+  Zesty Lime Grilled Chicken: 8.32

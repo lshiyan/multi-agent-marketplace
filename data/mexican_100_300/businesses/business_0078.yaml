@@ -1,43 +1,39 @@
 id: business_0078
-name: Cinnamexico
-description: Where Mexican and Tex-Mex comfort meet a flair for sweet and spicy bites.
-  Dive into vibrant salsas, creative classics, and treats that end every meal on a
-  high note.
+name: "El Jard\xEDn Mexicano"
+description: Step into a vibrant, welcoming space celebrating the bright flavors of
+  Mexico and the Southwest. Enjoy fresh, inventive dishes and spirited drinks inspired
+  by classic Mexican and Tex-Mex traditions.
 rating: 1.0
 progenitor_customer: customer_0026
 menu_features:
-  Cocoa Dusted Churro Bites: 4.92
-  Crispy Avocado Bites: 8.21
-  Coconut Lime Shrimp Skewers: 15.36
-  Warm Cinnamon Churros: 7.04
-  Pineapple Jalapeno Salsa: 4.49
-  Tamarind Spiced Agua Fresca: 4.0
-  Chocolate Molten Tamale: 6.72
-  Grilled Pineapple Dessert Quesadilla: 6.89
-  Coconut Lime Tres Leches: 6.5
-  Fresh Limeade: 3.92
-  Hibiscus Iced Tea: 3.68
-  Black Bean Crunch Wrap: 11.16
-  Flan with Caramel Drizzle: 4.38
-  Breakfast Burrito Bonanza: 8.32
-  Refreshing Agua Fresca Trio: 7.76
-  Mango Habanero Wings: 12.74
+  Roasted Corn and Avocado Salad: 7.34
+  Breakfast Burrito Supreme: 10.74
+  Blueberry Hibiscus Margarita: 10.7
+  Crispy Carnitas Quesadilla: 11.19
+  Mango Habanero Wings: 10.49
+  Coconut Lime Paleta: 3.92
+  Horchata Milkshake: 4.29
+  Blueberry Tequila Sunrise: 10.15
+  Smoky Chipotle Quesadillas: 9.27
+  Huevos Rancheros: 10.74
+  Crispy Avocado Burrito: 14.3
+  Spiced Churro Bites: 5.51
+  Horchata Latte: 5.79
+  Smoky Black Bean Tostadas: 8.4
 amenity_features: {}
-min_price_factor: 0.63
+min_price_factor: 0.78
 minimum_menu_prices:
-  Cocoa Dusted Churro Bites: 3.1
-  Crispy Avocado Bites: 5.17
-  Coconut Lime Shrimp Skewers: 9.68
-  Warm Cinnamon Churros: 4.44
-  Pineapple Jalapeno Salsa: 2.83
-  Tamarind Spiced Agua Fresca: 2.52
-  Chocolate Molten Tamale: 4.23
-  Grilled Pineapple Dessert Quesadilla: 4.34
-  Coconut Lime Tres Leches: 4.09
-  Fresh Limeade: 2.47
-  Hibiscus Iced Tea: 2.32
-  Black Bean Crunch Wrap: 7.03
-  Flan with Caramel Drizzle: 2.76
-  Breakfast Burrito Bonanza: 5.24
-  Refreshing Agua Fresca Trio: 4.89
-  Mango Habanero Wings: 8.03
+  Roasted Corn and Avocado Salad: 5.73
+  Breakfast Burrito Supreme: 8.38
+  Blueberry Hibiscus Margarita: 6.86
+  Crispy Carnitas Quesadilla: 8.73
+  Mango Habanero Wings: 8.18
+  Coconut Lime Paleta: 3.06
+  Horchata Milkshake: 3.35
+  Blueberry Tequila Sunrise: 7.92
+  Smoky Chipotle Quesadillas: 7.23
+  Huevos Rancheros: 8.38
+  Crispy Avocado Burrito: 11.15
+  Spiced Churro Bites: 4.3
+  Horchata Latte: 4.52
+  Smoky Black Bean Tostadas: 6.55

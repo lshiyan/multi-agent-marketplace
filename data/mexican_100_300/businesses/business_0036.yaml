@@ -1,37 +1,41 @@
 id: business_0036
-name: Casa de Sabores Tradicionales
-description: Experience the vibrant flavors of classic Mexican and Tex-Mex cuisine
-  in a lively, welcoming atmosphere. Enjoy handcrafted beverages and a delicious variety
-  of fresh, authentic dishes made to delight every palate.
+name: Cultura Cocina
+description: Cultura Cocina brings a fresh twist to traditional Mexican and Tex-Mex
+  flavors, blending vibrant ingredients and bold seasonings in an inviting, contemporary
+  space. Enjoy inventive sips and signature bites made to celebrate every occasion.
 rating: 1.0
 progenitor_customer: customer_0012
 menu_features:
-  Mexican Hot Chocolate: 4.66
-  Refreshing Agua Fresca Trio: 9.28
-  Spiked Horchata Cooler: 7.72
-  Spicy Shrimp Ceviche: 11.48
-  Chili Con Queso Supreme: 6.66
-  Crispy Avocado Tacos: 13.62
-  Fresh Mango Salsa Nachos: 6.88
-  Roasted Red Pepper Quesadilla: 9.63
-  Chorizo and Egg Tacos: 9.17
-  Roasted Poblano Quesadilla: 8.31
-  Black Bean Sweet Potato Burrito: 8.82
-  Roasted Poblano Queso Dip: 6.61
-  Loaded Nacho Fiesta: 10.36
+  Tamale Trio Sampler: 11.03
+  Pineapple Habanero Margarita: 7.06
+  Housemade Horchata: 5.34
+  Southwestern Quinoa Salad: 9.51
+  Black Bean Crunch Wrap: 10.11
+  Ancho Chili Spiced Ribs: 15.32
+  Honey-Lime Shrimp Skewers: 13.85
+  Choco Flan Combo: 5.34
+  Crispy Avocado Nachos: 8.27
+  Sizzling Beef Alambre: 14.66
+  Blueberry Mint Agua Fresca: 4.84
+  Mexican Chocolate Brownie: 7.09
+  Smoky Black Bean Tostadas: 9.33
+  Mexican Chocolate Flan: 6.75
+  Sweet Corn Tamales: 11.49
 amenity_features: {}
-min_price_factor: 0.82
+min_price_factor: 0.79
 minimum_menu_prices:
-  Mexican Hot Chocolate: 3.82
-  Refreshing Agua Fresca Trio: 7.61
-  Spiked Horchata Cooler: 6.33
-  Spicy Shrimp Ceviche: 9.41
-  Chili Con Queso Supreme: 5.46
-  Crispy Avocado Tacos: 11.17
-  Fresh Mango Salsa Nachos: 5.64
-  Roasted Red Pepper Quesadilla: 7.9
-  Chorizo and Egg Tacos: 7.52
-  Roasted Poblano Quesadilla: 6.81
-  Black Bean Sweet Potato Burrito: 7.23
-  Roasted Poblano Queso Dip: 5.42
-  Loaded Nacho Fiesta: 8.5
+  Tamale Trio Sampler: 8.71
+  Pineapple Habanero Margarita: 5.58
+  Housemade Horchata: 3.23
+  Southwestern Quinoa Salad: 7.51
+  Black Bean Crunch Wrap: 7.99
+  Ancho Chili Spiced Ribs: 12.1
+  Honey-Lime Shrimp Skewers: 10.94
+  Choco Flan Combo: 4.22
+  Crispy Avocado Nachos: 6.53
+  Sizzling Beef Alambre: 11.58
+  Blueberry Mint Agua Fresca: 2.84
+  Mexican Chocolate Brownie: 5.6
+  Smoky Black Bean Tostadas: 7.37
+  Mexican Chocolate Flan: 5.33
+  Sweet Corn Tamales: 9.08

@@ -1,37 +1,38 @@
 id: business_0185
-name: Holy Queso & Cheesecakes!
-description: A playful Tex-Mex spot dishing up cheesy delights, sweet surprises, and
-  bold margaritas in a festive, welcoming atmosphere. Come savor creative twists on
-  classic flavors and let every bite bring a little fiesta to your day.
+name: Mesa Caliente Mexicana
+description: Experience the vibrant flavors of Mexico and Tex-Mex at Mesa Caliente
+  Mexicana, where bold spices, sizzling plates, and refreshing drinks come together
+  in a lively, inviting atmosphere. Perfect for sharing flavorful appetizers, hearty
+  mains, and decadent desserts with friends and family.
 rating: 1.0
 progenitor_customer: customer_0062
 menu_features:
-  Spiced Agave Margarita: 8.27
-  Avocado Lime Cheesecake: 7.62
-  Grilled Chipotle Chicken Burrito: 11.4
-  Molten Queso Fundido: 9.01
-  Cinnamon Sugar Sopapillas: 6.07
-  Cocoa Cinnamon Tequila: 10.2
-  Tamarind Glazed Wings: 11.11
-  "Cheesy Jalape\xF1o Quesadillas": 10.0
-  Roasted Pumpkin Tamale: 8.05
-  Roasted Pepper Queso Dip: 5.92
-  Carne Asada Nachos: 10.85
-  Black Bean Burgers: 11.4
-  Citrus Cilantro Rice: 5.26
+  Loaded Nacho Skillet: 9.67
+  Spicy Pineapple Salsa Dip: 4.97
+  Sizzling Pork Carnitas Bowl: 12.83
+  Tamarind Spiced Agua Fresca: 3.32
+  Vanilla Flan Delight: 6.21
+  Honey Lime Fajita Sizzlers: 14.98
+  Smoky Mezcal Mule: 8.92
+  Three-Cheese Chile Rellenos: 11.02
+  Sizzling Fajita Plate: 12.51
+  Choco Flan Combo: 6.18
+  Queso Fundido Supreme: 8.72
+  Pineapple Pico de Gallo Salsa: 6.15
+  Spicy Chipotle Chicken Wings: 8.21
 amenity_features: {}
-min_price_factor: 0.61
+min_price_factor: 0.73
 minimum_menu_prices:
-  Spiced Agave Margarita: 5.04
-  Avocado Lime Cheesecake: 4.65
-  Grilled Chipotle Chicken Burrito: 6.95
-  Molten Queso Fundido: 5.5
-  Cinnamon Sugar Sopapillas: 3.7
-  Cocoa Cinnamon Tequila: 6.22
-  Tamarind Glazed Wings: 6.78
-  "Cheesy Jalape\xF1o Quesadillas": 6.1
-  Roasted Pumpkin Tamale: 4.91
-  Roasted Pepper Queso Dip: 3.61
-  Carne Asada Nachos: 6.62
-  Black Bean Burgers: 6.95
-  Citrus Cilantro Rice: 3.21
+  Loaded Nacho Skillet: 7.06
+  Spicy Pineapple Salsa Dip: 2.99
+  Sizzling Pork Carnitas Bowl: 9.37
+  Tamarind Spiced Agua Fresca: 2.42
+  Vanilla Flan Delight: 3.89
+  Honey Lime Fajita Sizzlers: 10.94
+  Smoky Mezcal Mule: 6.51
+  Three-Cheese Chile Rellenos: 8.04
+  Sizzling Fajita Plate: 9.13
+  Choco Flan Combo: 4.51
+  Queso Fundido Supreme: 6.37
+  Pineapple Pico de Gallo Salsa: 4.49
+  Spicy Chipotle Chicken Wings: 5.99

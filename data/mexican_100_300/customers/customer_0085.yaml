@@ -1,11 +1,12 @@
 id: customer_0085
-name: Mia Anderson
-request: 'I am looking to place an order for some specific menu items and need your
-  assistance in finding a business that can fulfill my request. The items I need are:
-  1 Crispy Avocado Bites and 1 Smoky Ancho Chicken Enchiladas. It''s important that
-  the business can provide both of these items. Once you find such a business, I intend
-  to place the order immediately. Thank you for your help.'
+name: Isabelle Scott
+request: 'I am looking to place an order from a business that can provide the following
+  menu items: 1 order of Tequila Lime Chicken Wings, 1 order of Citrus Cilantro Rice,
+  and 1 order of Chili Lime Shrimp Skewers. It is important that all of these items
+  are available. Could you please assist me in finding a suitable business? Thank
+  you.'
 menu_features:
-  Crispy Avocado Bites: 8.49
-  Smoky Ancho Chicken Enchiladas: 12.99
+  Tequila Lime Chicken Wings: 10.34
+  Citrus Cilantro Rice: 4.12
+  Chili Lime Shrimp Skewers: 15.89
 amenity_features: []

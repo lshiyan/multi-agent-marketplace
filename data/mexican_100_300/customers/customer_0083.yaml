@@ -1,9 +1,10 @@
 id: customer_0083
-name: Lucas Walker
-request: Could you please help me find a business that offers both a Pineapple Agua
-  Fresca and a Chocolate Tamale Cake? I would like to place an order for exactly 1
-  of each item. Thank you!
+name: Isabella Patel
+request: Could you please help me locate a business that offers 'Sweet Chili Lime
+  Elote' and 'Jicama and Citrus Salad', as I intend to place an order for 1 of each?
+  These specific items are essential and I would like to ensure the business can fulfill
+  both parts of the order. Thank you for your assistance.
 menu_features:
-  Pineapple Agua Fresca: 3.99
-  Chocolate Tamale Cake: 6.99
+  Sweet Chili Lime Elote: 6.05
+  Jicama and Citrus Salad: 9.6
 amenity_features: []

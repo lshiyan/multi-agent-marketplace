@@ -1,41 +1,42 @@
 id: business_0114
-name: Cascabel Cocina Mexicana
-description: Experience a vibrant celebration of Mexican flavors with sizzling skillets,
-  fresh salsas, and creative cocktails in an inviting, lively setting. Each dish is
-  crafted with bold spices and fresh ingredients for a memorable dining adventure.
+name: Casa Limonada Mexicana
+description: Experience a fresh take on Mexican and Tex-Mex cuisine, where vibrant
+  flavors, zesty citrus twists, and creative comforts come together in a welcoming
+  setting. Savor bold salads, comforting classics, and indulgent desserts inspired
+  by the spirit of modern Mexico.
 rating: 1.0
 progenitor_customer: customer_0038
 menu_features:
-  Beef Fajita Skillet: 15.76
-  Spicy Chipotle Chicken Wings: 8.16
-  Vanilla Cinnamon Horchata: 3.3
-  Blueberry Jalapeno Margarita: 9.84
-  Mango Habanero Margarita: 9.09
-  Crispy Avocado Tostadas: 10.23
-  Fiesta Street Corn: 4.88
-  Coconut Lime Shrimp Skewers: 16.23
-  Spiced Churro Bites: 5.95
-  Blueberry Agave Mojito: 10.52
-  Fresh Mango Salsa Nachos: 7.59
-  Black Bean Avocado Tostadas: 13.23
-  Grilled Shrimp Fajita Bowl: 15.42
-  Smoky Black Bean Tostadas: 8.17
-  Coconut Lime Margarita: 8.92
+  Fresh Lime Cilantro Rice: 2.48
+  Margarita Lime Pie: 6.03
+  Crispy Avocado Tacos: 10.61
+  Zesty Lime Shrimp Salad: 12.38
+  Raspberry Chipotle Barbecue Ribs: 14.56
+  Spicy Beef Chimichangas: 13.29
+  Black Bean Sweet Potato Burrito: 12.05
+  Crispy Avocado Nachos: 9.17
+  Black Bean & Corn Queso Dip: 6.42
+  Roasted Pepper Queso Dip: 5.29
+  Stuffed Poblano Pepper Delight: 12.11
+  Baja Fish Tacos: 11.46
+  Creamy Avocado Smoothie: 6.58
+  Peach Berry Sangria: 5.68
+  Chili Chocolate Lava Cake: 7.42
 amenity_features: {}
-min_price_factor: 0.91
+min_price_factor: 0.65
 minimum_menu_prices:
-  Beef Fajita Skillet: 14.34
-  Spicy Chipotle Chicken Wings: 7.43
-  Vanilla Cinnamon Horchata: 3.0
-  Blueberry Jalapeno Margarita: 8.95
-  Mango Habanero Margarita: 8.27
-  Crispy Avocado Tostadas: 9.31
-  Fiesta Street Corn: 4.44
-  Coconut Lime Shrimp Skewers: 14.77
-  Spiced Churro Bites: 5.41
-  Blueberry Agave Mojito: 9.57
-  Fresh Mango Salsa Nachos: 6.91
-  Black Bean Avocado Tostadas: 12.04
-  Grilled Shrimp Fajita Bowl: 14.03
-  Smoky Black Bean Tostadas: 7.43
-  Coconut Lime Margarita: 8.12
+  Fresh Lime Cilantro Rice: 1.61
+  Margarita Lime Pie: 3.92
+  Crispy Avocado Tacos: 6.9
+  Zesty Lime Shrimp Salad: 8.05
+  Raspberry Chipotle Barbecue Ribs: 9.46
+  Spicy Beef Chimichangas: 10.49
+  Black Bean Sweet Potato Burrito: 7.83
+  Crispy Avocado Nachos: 5.96
+  Black Bean & Corn Queso Dip: 4.17
+  Roasted Pepper Queso Dip: 5.29
+  Stuffed Poblano Pepper Delight: 7.87
+  Baja Fish Tacos: 7.45
+  Creamy Avocado Smoothie: 4.28
+  Peach Berry Sangria: 5.54
+  Chili Chocolate Lava Cake: 4.82

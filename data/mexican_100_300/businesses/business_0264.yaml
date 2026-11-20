@@ -1,35 +1,43 @@
 id: business_0264
-name: La Brisa del Coco Mexicana
-description: Experience a refreshing twist on classic Mexican and Tex-Mex cuisine
-  in a lively, welcoming atmosphere. From vibrant margaritas to inventive avocado
-  dishes, every bite and sip celebrates fresh flavors and warm hospitality.
+name: Slush, Spice & Everything Rice
+description: Dive into a vibrant taste adventure with our creative Tex-Mex-inspired
+  plates and refreshing sips. From hearty breakfasts to smoky skewers and sweet flan,
+  every visit celebrates bold flavors and fresh twists.
 rating: 1.0
 progenitor_customer: customer_0088
 menu_features:
-  Coconut Lime Margarita: 10.86
-  Crispy Avocado Tostadas: 9.11
-  Blueberry Agave Mojito: 7.68
-  Pineapple Jalapeno Margarita: 9.11
-  Breakfast Burrito Bonanza: 10.24
-  Zesty Lime Shrimp Salad: 13.93
-  Roasted Poblano Veggie Skillet: 9.88
-  Stuffed Avocado Delight: 8.15
-  Margarita Lime Cheesecake: 6.98
-  Cheesy Jalapeno Queso: 7.13
-  Mango Habanero Margarita: 7.31
-  Passion Fruit Mojito: 8.85
+  Black Bean Breakfast Burrito: 7.8
+  Choco Flan Combo: 7.02
+  Pineapple Jalapeno Salsa: 4.12
+  Mango Jalapeno Slush: 5.87
+  Smoky Lime Quinoa Salad: 9.72
+  Blueberry Agave Mojito: 9.15
+  Chipotle Lime Chicken Skewers: 15.49
+  Blueberry Jalapeno Lemonade: 3.93
+  Toasted Coconut Flan: 6.21
+  Tequila Sunrise Smoothie: 7.42
+  Spice-Rubbed Grilled Fajitas: 18.38
+  Three-Cheese Enchilada Stack: 9.75
+  Roasted Corn and Avocado Salad: 8.36
+  "Strawberry Jalape\xF1o Mocktail": 5.74
+  Smoky BBQ Pork Tostadas: 9.21
+  Beef Fajita Skillet: 12.78
 amenity_features: {}
-min_price_factor: 0.87
+min_price_factor: 0.62
 minimum_menu_prices:
-  Coconut Lime Margarita: 9.45
-  Crispy Avocado Tostadas: 7.93
-  Blueberry Agave Mojito: 6.68
-  Pineapple Jalapeno Margarita: 7.93
-  Breakfast Burrito Bonanza: 8.91
-  Zesty Lime Shrimp Salad: 12.12
-  Roasted Poblano Veggie Skillet: 8.6
-  Stuffed Avocado Delight: 7.09
-  Margarita Lime Cheesecake: 6.07
-  Cheesy Jalapeno Queso: 6.2
-  Mango Habanero Margarita: 6.36
-  Passion Fruit Mojito: 7.7
+  Black Bean Breakfast Burrito: 6.34
+  Choco Flan Combo: 4.35
+  Pineapple Jalapeno Salsa: 2.55
+  Mango Jalapeno Slush: 3.64
+  Smoky Lime Quinoa Salad: 6.03
+  Blueberry Agave Mojito: 5.67
+  Chipotle Lime Chicken Skewers: 9.6
+  Blueberry Jalapeno Lemonade: 2.44
+  Toasted Coconut Flan: 3.85
+  Tequila Sunrise Smoothie: 4.6
+  Spice-Rubbed Grilled Fajitas: 11.4
+  Three-Cheese Enchilada Stack: 7.55
+  Roasted Corn and Avocado Salad: 5.18
+  "Strawberry Jalape\xF1o Mocktail": 3.56
+  Smoky BBQ Pork Tostadas: 5.71
+  Beef Fajita Skillet: 7.92

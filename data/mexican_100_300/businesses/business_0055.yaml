@@ -1,45 +1,47 @@
 id: business_0055
-name: Holy Frijoles & Co.
-description: Delight in bold, inventive Mexican and Tex-Mex flavors with a fresh twist.
-  From zesty agua frescas to sizzling skillets and decadent desserts, every dish is
-  a celebration of vibrant spice and classic comfort.
+name: Salsa & Sizzle
+description: Step into a vibrant atmosphere where fresh flavors and festive spices
+  unite. Enjoy a colorful array of Tex-Mex and Mexican-inspired favorites, perfect
+  for any craving from breakfast to dinner.
 rating: 1.0
 progenitor_customer: customer_0019
 menu_features:
-  Tamarind Spiced Agua Fresca: 4.2
-  Pineapple Jalapeno Sangria: 6.77
-  Green Chile Pork Stew: 16.17
-  Sweet Potato and Black Bean Tacos: 10.37
-  Peach Berry Sangria: 9.97
-  Beef Fajita Skillet: 14.49
-  Sweet Corn Tamale Cake: 9.05
-  Horchata Iced Latte: 5.79
-  Smoky Black Bean Enchiladas: 13.58
-  Coconut Lime Shrimp Skewers: 13.28
-  Crispy Avocado Nachos: 6.53
-  Hatch Green Chile Stew: 9.41
-  Hibiscus Iced Tea: 3.29
-  Grilled Pineapple Salsa: 5.83
-  Ancho Chile BBQ Ribs: 19.7
-  Mexican Chocolate Lava Cake: 6.65
-  Street Corn Fritters: 6.35
+  Crispy Fish Baja Bowl: 12.78
+  Chili Lime Street Corn: 6.4
+  Honey Chipotle Shrimp Bowl: 15.2
+  Avocado Lime Empanadas: 7.3
+  Hatch Green Chile Stew: 14.06
+  Tamale Trio Sampler: 12.51
+  Verde Ranchero Huevos: 10.61
+  Roasted Tomato Salsa Dip: 3.73
+  Crispy Avocado Tacos: 9.9
+  Sizzling Fajita Fiesta: 14.69
+  Spicy Cucumber Margarita: 10.19
+  Mini Street Tacos Platter: 10.22
+  Avocado & Tomato Breakfast Tostadas: 8.58
+  Classic Flan Delight: 5.1
+  Black Bean Avocado Enchiladas: 10.03
+  Zesty Lime Grilled Chicken: 15.08
+  Smoky Chipotle BBQ Ribs: 18.05
+  Pineapple Habanero Margarita: 9.97
 amenity_features: {}
-min_price_factor: 0.71
+min_price_factor: 0.92
 minimum_menu_prices:
-  Tamarind Spiced Agua Fresca: 2.98
-  Pineapple Jalapeno Sangria: 4.81
-  Green Chile Pork Stew: 11.48
-  Sweet Potato and Black Bean Tacos: 7.36
-  Peach Berry Sangria: 7.08
-  Beef Fajita Skillet: 10.29
-  Sweet Corn Tamale Cake: 6.43
-  Horchata Iced Latte: 4.11
-  Smoky Black Bean Enchiladas: 9.64
-  Coconut Lime Shrimp Skewers: 9.43
-  Crispy Avocado Nachos: 4.64
-  Hatch Green Chile Stew: 6.68
-  Hibiscus Iced Tea: 2.34
-  Grilled Pineapple Salsa: 4.14
-  Ancho Chile BBQ Ribs: 13.99
-  Mexican Chocolate Lava Cake: 4.72
-  Street Corn Fritters: 4.51
+  Crispy Fish Baja Bowl: 11.76
+  Chili Lime Street Corn: 5.89
+  Honey Chipotle Shrimp Bowl: 13.98
+  Avocado Lime Empanadas: 6.72
+  Hatch Green Chile Stew: 12.94
+  Tamale Trio Sampler: 11.51
+  Verde Ranchero Huevos: 9.76
+  Roasted Tomato Salsa Dip: 3.35
+  Crispy Avocado Tacos: 9.11
+  Sizzling Fajita Fiesta: 13.43
+  Spicy Cucumber Margarita: 9.37
+  Mini Street Tacos Platter: 9.4
+  Avocado & Tomato Breakfast Tostadas: 7.89
+  Classic Flan Delight: 4.69
+  Black Bean Avocado Enchiladas: 9.14
+  Zesty Lime Grilled Chicken: 13.87
+  Smoky Chipotle BBQ Ribs: 16.61
+  Pineapple Habanero Margarita: 9.17

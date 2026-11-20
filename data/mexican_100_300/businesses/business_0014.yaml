@@ -1,41 +1,39 @@
 id: business_0014
-name: Casa del Sabor
-description: Casa del Sabor offers a warm and vibrant atmosphere where classic Mexican
-  and Tex-Mex favorites meet bold, modern flavors. Enjoy an array of fresh, creative
-  dishes and signature beverages inspired by the heart of Mexico.
+name: Citrus & Spice Eatery
+description: Experience a fresh take on Mexican and Tex-Mex classics, blending vibrant
+  flavors, zesty citrus, and bold spices in a lively, modern atmosphere. Perfect for
+  food lovers seeking a unique twist on beloved favorites.
 rating: 1.0
 progenitor_customer: customer_0005
 menu_features:
-  Blueberry Jalapeno Margarita: 10.55
-  Caramel Apple Empanadas: 5.33
-  Spicy Chipotle Chicken Wrap: 9.99
-  Pork Carnitas Platter: 14.82
-  Flamin' Skillet Fajitas: 15.06
-  "Strawberry Jalape\xF1o Mocktail": 6.55
-  Smoky Chipotle BBQ Nachos: 9.4
-  Classic Beef Tacos with Zesty Slaw: 13.32
-  Sea Breeze Ceviche: 9.74
-  Cactus Jack Quesadilla: 9.85
-  Horchata Cold Brew Coffee: 4.68
-  Three-Cheese Enchilada Stack: 13.61
-  Classic Beef Enchiladas: 10.6
-  Street Corn Elote: 5.11
-  Crispy Avocado Burrito: 9.94
+  Chili Lime Street Corn: 6.77
+  Crispy Chicken Tostada Bowls: 12.82
+  Passionfruit Paloma: 8.13
+  Roasted Corn Elote: 4.01
+  Cheesy Jalapeno Poppers: 8.79
+  Carnitas Breakfast Burrito: 12.42
+  Savory Chorizo Street Tacos: 9.01
+  Roasted Pecan Flan: 6.38
+  Margarita Lime Cheesecake: 5.98
+  Passion Fruit Mojito: 9.85
+  Mexican Chocolate Brownie: 5.64
+  Avocado Lime Dip: 5.78
+  Black Bean Stuffed Bell Peppers: 10.74
+  Smoky Black Bean Nachos: 7.06
 amenity_features: {}
-min_price_factor: 0.88
+min_price_factor: 0.77
 minimum_menu_prices:
-  Blueberry Jalapeno Margarita: 9.28
-  Caramel Apple Empanadas: 4.69
-  Spicy Chipotle Chicken Wrap: 8.79
-  Pork Carnitas Platter: 13.04
-  Flamin' Skillet Fajitas: 13.25
-  "Strawberry Jalape\xF1o Mocktail": 5.76
-  Smoky Chipotle BBQ Nachos: 8.27
-  Classic Beef Tacos with Zesty Slaw: 11.72
-  Sea Breeze Ceviche: 8.57
-  Cactus Jack Quesadilla: 8.67
-  Horchata Cold Brew Coffee: 4.12
-  Three-Cheese Enchilada Stack: 11.98
-  Classic Beef Enchiladas: 9.33
-  Street Corn Elote: 4.5
-  Crispy Avocado Burrito: 8.75
+  Chili Lime Street Corn: 5.21
+  Crispy Chicken Tostada Bowls: 9.87
+  Passionfruit Paloma: 6.26
+  Roasted Corn Elote: 3.3
+  Cheesy Jalapeno Poppers: 6.77
+  Carnitas Breakfast Burrito: 9.78
+  Savory Chorizo Street Tacos: 6.94
+  Roasted Pecan Flan: 4.91
+  Margarita Lime Cheesecake: 4.6
+  Passion Fruit Mojito: 7.58
+  Mexican Chocolate Brownie: 4.34
+  Avocado Lime Dip: 4.45
+  Black Bean Stuffed Bell Peppers: 8.27
+  Smoky Black Bean Nachos: 5.44

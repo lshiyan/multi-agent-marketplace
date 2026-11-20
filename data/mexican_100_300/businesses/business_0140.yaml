@@ -1,47 +1,43 @@
 id: business_0140
-name: Fajita Fiesta
-description: Savor bold flavors and sizzling plates at Fajita Fiesta, where classic
-  Mexican and Tex-Mex favorites come alive. Fresh ingredients and vibrant spices create
-  an unforgettable dining experience in a welcoming, festive atmosphere.
+name: Wrap 'n' Rollada
+description: A lively Tex-Mex spot where fresh flavors, zesty salsas, and bold spices
+  wrap you up in deliciousness. Join us for creative classics, vibrant bowls, and
+  sweet treats inspired by Mexican and Southwestern traditions.
 rating: 1.0
 progenitor_customer: customer_0047
 menu_features:
-  Sizzling Steak Fajitas: 17.54
-  Chipotle Lime Shrimp Tacos: 15.49
-  Coconut Flan Delight: 7.4
-  Beef Fajita Skillet: 14.42
-  Stuffed Avocado Delight: 8.13
-  Margarita Grilled Chicken: 16.1
-  Loaded Nacho Supreme: 11.27
-  Crispy Avocado Tostadas: 10.54
-  Spicy Mango Margarita: 10.31
-  Mexican Street Corn Dip: 9.84
-  Zesty Lime Shrimp Tostadas: 13.3
-  Savory Carne Asada Burrito: 11.5
-  Crispy Carnitas Tacos: 12.85
-  Honey Lime Grilled Chicken: 13.74
-  Mesquite Grilled Steak Fajitas: 17.11
-  Spicy Chorizo Enchiladas: 14.09
-  Sea Breeze Ceviche: 13.09
-  Sizzling Carne Asada: 17.29
+  Fresh Mango Salsa Nachos: 9.18
+  Tex-Mex Fajita Wrap: 10.31
+  Smoky Chipotle Enchiladas: 13.03
+  Chipotle Lime Cauliflower Tacos: 10.76
+  Shrimp Ceviche Bowl: 13.78
+  Minty Mojito Refresher: 7.55
+  Zesty Shrimp Quesadillas: 10.42
+  Spicy Pork Tamales: 11.28
+  Breakfast Chilaquiles Verde: 10.51
+  Black Bean & Corn Enchiladas: 10.13
+  Tex-Mex Big Breakfast Bowl: 11.71
+  Breakfast Tostada Stack: 10.79
+  Cinnamon Sugar Churros: 5.28
+  Fresh Lime and Cilantro Guacamole: 8.2
+  Caramel Corn Flan: 7.36
+  Sweet Chili Lime Elote: 5.01
 amenity_features: {}
-min_price_factor: 0.7
+min_price_factor: 0.73
 minimum_menu_prices:
-  Sizzling Steak Fajitas: 12.28
-  Chipotle Lime Shrimp Tacos: 10.84
-  Coconut Flan Delight: 5.18
-  Beef Fajita Skillet: 10.09
-  Stuffed Avocado Delight: 5.69
-  Margarita Grilled Chicken: 11.27
-  Loaded Nacho Supreme: 7.89
-  Crispy Avocado Tostadas: 7.38
-  Spicy Mango Margarita: 7.22
-  Mexican Street Corn Dip: 6.89
-  Zesty Lime Shrimp Tostadas: 9.31
-  Savory Carne Asada Burrito: 8.05
-  Crispy Carnitas Tacos: 8.99
-  Honey Lime Grilled Chicken: 9.62
-  Mesquite Grilled Steak Fajitas: 11.98
-  Spicy Chorizo Enchiladas: 9.86
-  Sea Breeze Ceviche: 9.16
-  Sizzling Carne Asada: 12.1
+  Fresh Mango Salsa Nachos: 6.7
+  Tex-Mex Fajita Wrap: 7.53
+  Smoky Chipotle Enchiladas: 9.51
+  Chipotle Lime Cauliflower Tacos: 7.85
+  Shrimp Ceviche Bowl: 10.06
+  Minty Mojito Refresher: 5.51
+  Zesty Shrimp Quesadillas: 7.61
+  Spicy Pork Tamales: 8.23
+  Breakfast Chilaquiles Verde: 7.67
+  Black Bean & Corn Enchiladas: 7.39
+  Tex-Mex Big Breakfast Bowl: 8.55
+  Breakfast Tostada Stack: 7.88
+  Cinnamon Sugar Churros: 3.85
+  Fresh Lime and Cilantro Guacamole: 5.99
+  Caramel Corn Flan: 5.37
+  Sweet Chili Lime Elote: 3.66

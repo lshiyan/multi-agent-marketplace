@@ -1,11 +1,11 @@
 id: customer_0073
-name: Ethan Morales
-request: 'Could you please find a business that offers the following menu items: one
-  Avocado Lime Salad, one Tamale Pie Casserole, and one Zesty Shrimp Ceviche? It is
-  important that the business provides all of these items as I intend to place an
-  order for them. Thank you!'
+name: Mia Liu
+request: Could you please help me find a restaurant that offers the following menu
+  items? I would like to place an order for 1 Chocolate Molten Tamale, 1 Zesty Lime
+  Chicken Enchiladas, and 1 Ultimate Nacho Platter. It's important that the restaurant
+  offers all three items together. Thank you!
 menu_features:
-  Avocado Lime Salad: 8.79
-  Tamale Pie Casserole: 13.99
-  Zesty Shrimp Ceviche: 12.99
+  Chocolate Molten Tamale: 6.44
+  Zesty Lime Chicken Enchiladas: 14.53
+  Ultimate Nacho Platter: 10.41
 amenity_features: []

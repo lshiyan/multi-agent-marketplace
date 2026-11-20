@@ -1,41 +1,37 @@
 id: business_0204
-name: Sunrise & Spice
-description: Wake up your senses at Sunrise & Spice, where vibrant Mexican and Tex-Mex
-  flavors meet fresh mornings and zesty evenings. Enjoy creative breakfasts, savory
-  tacos, fresh salads, and indulgent desserts in a lively, welcoming atmosphere.
+name: La Noche Saborosa
+description: Discover vibrant flavors and inventive twists on classic Mexican and
+  Tex-Mex favorites at La Noche Saborosa. Enjoy fresh, bold dishes and sweet treats
+  crafted with a passion for spice, citrus, and authentic taste.
 rating: 1.0
 progenitor_customer: customer_0068
 menu_features:
-  Sunrise Breakfast Tacos: 9.15
-  Al Pastor Quesadilla: 10.97
-  Crispy Fish Street Tacos: 14.67
-  Chipotle Lime Shrimp Skewers: 13.26
-  Avocado Lime Cheesecake: 6.73
-  Breakfast Burrito Bowl: 8.77
-  Warm Churro Bites: 6.07
-  Blueberry Jalapeno Margarita: 11.86
-  Chipotle Chicken Burrito Bowl: 13.6
-  Horchata Iced Latte: 4.46
-  Breakfast Chorizo Tostadas: 9.87
-  Chipotle Lime Chicken Salad: 9.47
-  Chocolate Mole Brownie: 6.7
-  Three-Cheese Chile Rellenos: 14.39
-  Spicy Mango Margarita: 8.32
+  Chorizo Breakfast Tacos: 10.35
+  Chili Chocolate Lava Cake: 7.03
+  Baja Fish Taco Bowl: 10.8
+  Shrimp and Avocado Ceviche: 12.53
+  "Spicy Jalape\xF1o Limeade": 2.95
+  Citrus Grilled Chicken Tacos: 13.33
+  Honey Lime Chicken Fajitas: 19.79
+  Midnight Mole Enchiladas: 13.64
+  Chili Lime Street Corn: 5.45
+  Lime-Garlic Grilled Chicken: 14.6
+  Margarita Lime Pie: 5.96
+  Chipotle BBQ Tacos: 11.31
+  Mango Habanero Salsa: 3.84
 amenity_features: {}
-min_price_factor: 0.67
+min_price_factor: 0.83
 minimum_menu_prices:
-  Sunrise Breakfast Tacos: 6.13
-  Al Pastor Quesadilla: 7.35
-  Crispy Fish Street Tacos: 9.83
-  Chipotle Lime Shrimp Skewers: 8.88
-  Avocado Lime Cheesecake: 4.51
-  Breakfast Burrito Bowl: 5.88
-  Warm Churro Bites: 4.07
-  Blueberry Jalapeno Margarita: 7.95
-  Chipotle Chicken Burrito Bowl: 9.11
-  Horchata Iced Latte: 2.99
-  Breakfast Chorizo Tostadas: 6.61
-  Chipotle Lime Chicken Salad: 6.34
-  Chocolate Mole Brownie: 4.49
-  Three-Cheese Chile Rellenos: 9.64
-  Spicy Mango Margarita: 5.57
+  Chorizo Breakfast Tacos: 8.59
+  Chili Chocolate Lava Cake: 5.83
+  Baja Fish Taco Bowl: 8.96
+  Shrimp and Avocado Ceviche: 10.4
+  "Spicy Jalape\xF1o Limeade": 2.45
+  Citrus Grilled Chicken Tacos: 11.79
+  Honey Lime Chicken Fajitas: 16.43
+  Midnight Mole Enchiladas: 11.32
+  Chili Lime Street Corn: 4.52
+  Lime-Garlic Grilled Chicken: 12.12
+  Margarita Lime Pie: 4.95
+  Chipotle BBQ Tacos: 10.07
+  Mango Habanero Salsa: 3.19

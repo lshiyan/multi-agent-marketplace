@@ -1,8 +1,11 @@
 id: customer_0074
-name: Chloe Patel
-request: Could you please help me find a business that serves Smoky Chipotle Enchiladas
-  in a quantity of 1? Once you identify a suitable business, I intend to place an
-  order for this item. Thank you for your assistance.
+name: Emma Rodriguez
+request: 'I am looking to place an order for the following menu items from a suitable
+  business: 1 Spicy Chocolate Churro, 1 Cilantro Lime Chicken Taco, and 1 Spicy Black
+  Bean and Cheese Quesadilla. Could you please help me find a business that offers
+  all these items so I can proceed with the purchase? Thank you.'
 menu_features:
-  Smoky Chipotle Enchiladas: 13.49
+  Spicy Chocolate Churros: 4.77
+  Cilantro Lime Chicken Tacos: 13.84
+  Spicy Black Bean and Cheese Quesadilla: 8.79
 amenity_features: []

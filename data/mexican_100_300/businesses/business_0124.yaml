@@ -1,44 +1,43 @@
 id: business_0124
-name: Holy Enchilada!
-description: A playful twist on Mexican and Tex-Mex classics with a bold, modern flair.
-  Dive into vibrant flavors, zesty creations, and a sweet selection of decadent desserts.
+name: Holy Guac & Mole-y
+description: Dive into a bold fusion of classic Mexican and playful Tex-Mex flavors
+  with fresh twists on timeless favorites. Sip, savor, and spice up your day with
+  vibrant dishes and zesty cocktails in a fun, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0042
 menu_features:
-  Black Bean & Cheese Enchiladas: 11.51
-  Chocolate Dipped Flan: 5.16
-  Coffee Cinnamon Mexican Mocha: 5.06
-  Green Chile Cheesesteak: 13.32
-  Cilantro Lime Shrimp Skewers: 13.36
-  Zesty Lime Shrimp Tostadas: 12.74
-  Mexican Chocolate Flan: 6.7
-  Chipotle Chicken Enchiladas: 15.28
-  Tequila Lime Flan: 7.9
-  Honey Chipotle Shrimp Bowl: 15.92
-  Chocolate Mole Brownie: 6.54
-  Roasted Pumpkin Tamale: 6.52
-  Fresh Mango Salsa Nachos: 10.72
-  Pineapple Pico de Gallo Nachos: 9.55
-  Southwest Chopped Salad: 7.61
-  Avocado Lime Enchiladas: 12.25
-  Creamy Avocado Caesar Salad: 11.64
+  Spicy Chicken Chimichanga: 8.66
+  Frozen Mango Margarita: 8.02
+  Crispy Avocado and Lime Tacos: 11.85
+  Raspberry Jalapeno Mojito: 9.09
+  Avocado Lime Quinoa Bowl: 11.24
+  Chocolate Dipped Flan: 6.62
+  Chocolate Mole Brownie: 7.25
+  Hatch Green Chile Burger: 12.02
+  Creamy Poblano Corn Chowder: 8.62
+  Zesty Shrimp Quesadillas: 13.2
+  Mango Habanero Salsa: 4.53
+  Passionfruit Agua Fresca: 2.39
+  Charred Corn & Cotija Nachos: 9.85
+  Ranchero Steak Fajitas: 15.66
+  Smoky Chipotle Quesadillas: 10.09
+  Smoky Black Bean Tostadas: 6.85
 amenity_features: {}
-min_price_factor: 0.92
+min_price_factor: 0.71
 minimum_menu_prices:
-  Black Bean & Cheese Enchiladas: 10.59
-  Chocolate Dipped Flan: 4.75
-  Coffee Cinnamon Mexican Mocha: 4.66
-  Green Chile Cheesesteak: 12.25
-  Cilantro Lime Shrimp Skewers: 12.29
-  Zesty Lime Shrimp Tostadas: 11.72
-  Mexican Chocolate Flan: 6.16
-  Chipotle Chicken Enchiladas: 14.06
-  Tequila Lime Flan: 7.27
-  Honey Chipotle Shrimp Bowl: 14.65
-  Chocolate Mole Brownie: 6.02
-  Roasted Pumpkin Tamale: 6.0
-  Fresh Mango Salsa Nachos: 9.86
-  Pineapple Pico de Gallo Nachos: 8.79
-  Southwest Chopped Salad: 7.0
-  Avocado Lime Enchiladas: 11.27
-  Creamy Avocado Caesar Salad: 10.71
+  Spicy Chicken Chimichanga: 6.15
+  Frozen Mango Margarita: 5.69
+  Crispy Avocado and Lime Tacos: 8.41
+  Raspberry Jalapeno Mojito: 6.45
+  Avocado Lime Quinoa Bowl: 7.98
+  Chocolate Dipped Flan: 4.7
+  Chocolate Mole Brownie: 5.15
+  Hatch Green Chile Burger: 8.53
+  Creamy Poblano Corn Chowder: 6.12
+  Zesty Shrimp Quesadillas: 9.37
+  Mango Habanero Salsa: 3.22
+  Passionfruit Agua Fresca: 2.22
+  Charred Corn & Cotija Nachos: 6.99
+  Ranchero Steak Fajitas: 11.64
+  Smoky Chipotle Quesadillas: 7.16
+  Smoky Black Bean Tostadas: 4.86

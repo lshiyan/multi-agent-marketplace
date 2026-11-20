@@ -1,45 +1,33 @@
 id: business_0293
-name: Dip, Sip & Flan-tastic
-description: Celebrate bold flavors and sweet finishes at this vibrant spot serving
-  crave-worthy dips, refreshing drinks, and irresistible desserts. Dive into the heart
-  of Mexican and Tex-Mex cuisine with every cheerful bite and sip.
+name: La Mesa Dorada del Sol
+description: Experience the vibrant flavors of Mexico and the Southwest with our inspired
+  takes on classic favorites. From fresh street tacos to sizzling specialties, enjoy
+  every bite in a warm and inviting atmosphere.
 rating: 1.0
 progenitor_customer: customer_0098
 menu_features:
-  Roasted Tomato Salsa Dip: 3.33
-  Chocolate Sopapilla Bites: 4.72
-  Fresh Lime and Cilantro Guacamole: 10.44
-  Horchata Latte: 5.46
-  Flan with Caramel Drizzle: 4.62
-  Cinnamon Churro Bites: 4.49
-  Chili Lime Skirt Steak: 18.41
-  Stuffed Avocado Delight: 7.61
-  Pineapple Pico de Gallo Nachos: 10.95
-  Fiesta Street Corn: 5.63
-  Mexican Coffee Flan: 5.85
-  Jicama and Citrus Salad: 8.22
-  Sizzling Beef Alambre: 12.03
-  Spicy Black Bean Nacho Platter: 10.39
-  Black Bean Avocado Enchiladas: 11.3
-  Loaded Chorizo Nachos: 8.58
-  Smoky Black Bean Tostadas: 8.83
+  Bacon and Egg Tostada: 11.92
+  Citrus Marinated Carne Asada: 12.22
+  Loaded Chorizo Nachos: 8.65
+  Avocado Street Tacos: 10.32
+  Ancho Honey-Glazed Salmon: 17.17
+  Sizzling Fajita Skillet: 14.97
+  Mango Habanero Wings: 10.15
+  Roasted Corn and Black Bean Salsa: 7.65
+  Margarita Lime Pie: 5.54
+  Roasted Pecan Flan: 6.36
+  Frozen Mango Margarita: 9.17
 amenity_features: {}
-min_price_factor: 0.95
+min_price_factor: 0.91
 minimum_menu_prices:
-  Roasted Tomato Salsa Dip: 3.16
-  Chocolate Sopapilla Bites: 4.48
-  Fresh Lime and Cilantro Guacamole: 9.92
-  Horchata Latte: 5.19
-  Flan with Caramel Drizzle: 4.39
-  Cinnamon Churro Bites: 4.27
-  Chili Lime Skirt Steak: 17.49
-  Stuffed Avocado Delight: 7.23
-  Pineapple Pico de Gallo Nachos: 10.4
-  Fiesta Street Corn: 5.35
-  Mexican Coffee Flan: 5.56
-  Jicama and Citrus Salad: 7.81
-  Sizzling Beef Alambre: 11.43
-  Spicy Black Bean Nacho Platter: 9.87
-  Black Bean Avocado Enchiladas: 10.73
-  Loaded Chorizo Nachos: 8.15
-  Smoky Black Bean Tostadas: 8.39
+  Bacon and Egg Tostada: 8.24
+  Citrus Marinated Carne Asada: 11.12
+  Loaded Chorizo Nachos: 7.87
+  Avocado Street Tacos: 9.39
+  Ancho Honey-Glazed Salmon: 15.62
+  Sizzling Fajita Skillet: 13.62
+  Mango Habanero Wings: 9.24
+  Roasted Corn and Black Bean Salsa: 6.96
+  Margarita Lime Pie: 5.04
+  Roasted Pecan Flan: 5.79
+  Frozen Mango Margarita: 8.34

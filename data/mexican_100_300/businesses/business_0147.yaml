@@ -1,43 +1,43 @@
 id: business_0147
-name: La Mesa de Avocado
-description: Experience a vibrant blend of modern Mexican and Tex-Mex flavors, highlighting
-  fresh avocados, zesty peppers, and bold, smoky accents. Gather around our table
-  for handcrafted dishes and creative cocktails in a lively, welcoming atmosphere.
+name: Chipotle & Citrus Cantina
+description: Dive into vibrant flavors at Chipotle & Citrus Cantina, where smoky,
+  zesty, and refreshing tastes come together in every dish and drink. Enjoy a bright
+  and lively atmosphere inspired by the heart of Mexican and Tex-Mex cuisine.
 rating: 1.0
 progenitor_customer: customer_0049
 menu_features:
-  Smoky Chipotle Quesadillas: 10.04
-  Crispy Avocado Tostadas: 9.12
-  Roasted Pepper Queso Dip: 6.5
-  Avocado & Tomato Breakfast Tostadas: 7.39
-  Stuffed Avocado Boats: 8.68
-  Classic Lime Margarita: 10.84
-  Blue Corn Tortilla Soup: 6.66
-  Black Bean Burgers: 12.98
-  Chili Chocolate Lava Cake: 7.54
-  Spiced Chocolate Flan: 6.8
-  Smoky Chipotle Black Bean Soup: 8.06
-  Spicy Chocolate Lava Cake: 8.34
-  Grilled Steak Quesadilla: 11.63
-  Shrimp and Avocado Ceviche: 13.25
-  Spiced Pumpkin Empanadas: 5.1
-  Black Bean and Avocado Wrap: 9.47
+  Sweet Corn Tamale Bites: 5.81
+  Black Bean and Corn Fiesta Salad: 8.49
+  Strawberry Jalapeno Lemonade: 4.0
+  Smoky Chipotle BBQ Nachos: 11.42
+  Zesty Shrimp Ceviche: 15.51
+  Twice-Baked Sweet Potato: 7.69
+  Hatch Green Chile Quesadilla: 10.12
+  Spiced Agave Margarita: 10.88
+  Smoky Chipotle Black Bean Soup: 8.21
+  Chili Lime Skirt Steak: 17.78
+  Caramel Apple Empanadas: 5.15
+  Avocado Lime Grilled Shrimp: 17.35
+  Chipotle Lime Shrimp Tacos: 14.72
+  Sizzling Fajita Platter: 18.24
+  Roasted Poblano Corn Chowder: 9.03
+  Grilled Shrimp Fajita Bowl: 12.06
 amenity_features: {}
-min_price_factor: 0.92
+min_price_factor: 0.89
 minimum_menu_prices:
-  Smoky Chipotle Quesadillas: 9.24
-  Crispy Avocado Tostadas: 8.39
-  Roasted Pepper Queso Dip: 5.98
-  Avocado & Tomato Breakfast Tostadas: 6.8
-  Stuffed Avocado Boats: 7.99
-  Classic Lime Margarita: 9.97
-  Blue Corn Tortilla Soup: 6.13
-  Black Bean Burgers: 11.94
-  Chili Chocolate Lava Cake: 6.94
-  Spiced Chocolate Flan: 6.26
-  Smoky Chipotle Black Bean Soup: 7.42
-  Spicy Chocolate Lava Cake: 7.67
-  Grilled Steak Quesadilla: 10.7
-  Shrimp and Avocado Ceviche: 12.19
-  Spiced Pumpkin Empanadas: 4.69
-  Black Bean and Avocado Wrap: 8.71
+  Sweet Corn Tamale Bites: 5.0
+  Black Bean and Corn Fiesta Salad: 7.56
+  Strawberry Jalapeno Lemonade: 3.56
+  Smoky Chipotle BBQ Nachos: 10.16
+  Zesty Shrimp Ceviche: 13.8
+  Twice-Baked Sweet Potato: 6.67
+  Hatch Green Chile Quesadilla: 9.01
+  Spiced Agave Margarita: 9.68
+  Smoky Chipotle Black Bean Soup: 7.14
+  Chili Lime Skirt Steak: 15.82
+  Caramel Apple Empanadas: 4.58
+  Avocado Lime Grilled Shrimp: 15.44
+  Chipotle Lime Shrimp Tacos: 13.1
+  Sizzling Fajita Platter: 16.23
+  Roasted Poblano Corn Chowder: 8.04
+  Grilled Shrimp Fajita Bowl: 10.73

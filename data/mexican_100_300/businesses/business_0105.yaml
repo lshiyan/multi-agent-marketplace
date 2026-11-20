@@ -1,41 +1,40 @@
 id: business_0105
-name: Fajita Fusion
-description: Experience a fresh twist on Mexican and Tex-Mex comfort classics, sizzling
-  with bold flavors and vibrant ingredients. From savory starters to sweet finishes,
-  Fajita Fusion promises a lively and delicious dining adventure.
+name: "El Saz\xF3n y Brisa"
+description: "El Saz\xF3n y Brisa invites you to savor the lively essence of Mexican\
+  \ and Tex-Mex cuisine in a vibrant and welcoming atmosphere. Enjoy a colorful array\
+  \ of classic dishes, creative cocktails, and fresh flavors inspired by the sun and\
+  \ spirit of the Southwest."
 rating: 1.0
 progenitor_customer: customer_0035
 menu_features:
-  Ranchero Steak Fajitas: 18.05
-  Tex-Mex Fajita Wrap: 11.87
-  Blue Corn Enchilada Bake: 10.35
-  Sizzling Fajita Skillet: 15.63
-  Bacon Wrapped Jalapeno Bites: 7.82
-  Tequila Lime Flan: 8.8
-  Tex-Mex Breakfast Skillet: 9.02
-  Green Chile Cheesesteak: 12.17
-  Honey Lime Grilled Fajitas: 12.95
-  Crispy Avocado Burrito: 11.71
-  Spicy Chipotle Chicken Wings: 8.53
-  Creamy Queso Dip: 9.31
-  "Cheesy Jalape\xF1o Queso Dip": 9.8
-  Grilled Chipotle Chicken Burrito: 11.4
-  Spicy Avocado Smash Burger: 13.87
+  Chili-Lime Cauliflower Bites: 7.41
+  Sizzling Beef Alambre: 15.38
+  Pineapple Habanero Margarita: 10.41
+  Vanilla Flan with Caramel Sauce: 6.43
+  Spiced Chocolate Tres Leches: 5.87
+  Hatch Chile Queso Dip: 8.34
+  Baja Fish Taco Bowl: 10.9
+  Coconut Lime Margarita: 8.68
+  Chipotle Bean Burrito: 8.14
+  Sizzling Fajita Platter: 15.72
+  Grilled Pineapple Salsa: 7.84
+  Honey Lime Chicken Fajitas: 15.34
+  Roasted Poblano Corn Chowder: 7.62
+  Spicy Beef Empanadas: 9.52
 amenity_features: {}
-min_price_factor: 0.63
+min_price_factor: 0.87
 minimum_menu_prices:
-  Ranchero Steak Fajitas: 11.37
-  Tex-Mex Fajita Wrap: 7.48
-  Blue Corn Enchilada Bake: 6.52
-  Sizzling Fajita Skillet: 9.85
-  Bacon Wrapped Jalapeno Bites: 4.93
-  Tequila Lime Flan: 5.54
-  Tex-Mex Breakfast Skillet: 5.68
-  Green Chile Cheesesteak: 7.67
-  Honey Lime Grilled Fajitas: 8.16
-  Crispy Avocado Burrito: 7.38
-  Spicy Chipotle Chicken Wings: 5.37
-  Creamy Queso Dip: 5.87
-  "Cheesy Jalape\xF1o Queso Dip": 6.17
-  Grilled Chipotle Chicken Burrito: 7.18
-  Spicy Avocado Smash Burger: 8.74
+  Chili-Lime Cauliflower Bites: 6.45
+  Sizzling Beef Alambre: 13.38
+  Pineapple Habanero Margarita: 9.06
+  Vanilla Flan with Caramel Sauce: 5.59
+  Spiced Chocolate Tres Leches: 5.11
+  Hatch Chile Queso Dip: 7.26
+  Baja Fish Taco Bowl: 9.48
+  Coconut Lime Margarita: 7.55
+  Chipotle Bean Burrito: 7.08
+  Sizzling Fajita Platter: 13.68
+  Grilled Pineapple Salsa: 6.53
+  Honey Lime Chicken Fajitas: 13.35
+  Roasted Poblano Corn Chowder: 6.63
+  Spicy Beef Empanadas: 8.0

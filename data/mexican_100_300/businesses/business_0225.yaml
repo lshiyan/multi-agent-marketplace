@@ -1,43 +1,45 @@
 id: business_0225
-name: Shrimp & Sizzle Cantina
-description: Dive into bold Tex-Mex and Mexican flavors with modern flair at Shrimp
-  & Sizzle Cantina. Savor signature tacos, vibrant salads, inventive cocktails, and
-  zesty appetizers in a lively, welcoming atmosphere.
+name: The Modern Molcajete
+description: Experience bold flavors and inventive Mexican-inspired cuisine in a vibrant
+  setting. Savor fresh ingredients, sizzling plates, and unique twists on classic
+  dishes.
 rating: 1.0
 progenitor_customer: customer_0075
 menu_features:
-  Chipotle Lime Shrimp Tacos: 16.11
-  Zesty Lime Shrimp Salad: 11.69
-  Vanilla Almond Horchata: 3.2
-  Passion Fruit Mojito: 8.76
-  Creamy Chipotle Pasta: 12.33
-  Honey-Lime Grilled Shrimp: 16.7
-  Creamy Poblano Corn Chowder: 9.54
-  Al Pastor Pork Tacos: 11.82
-  Honey Chipotle Wings: 12.29
-  Pineapple Pico de Gallo Salsa: 5.79
-  Spiced Agave Margarita: 9.97
-  Blue Corn Tostada Salad: 9.11
-  Chili Lime Street Corn: 6.75
-  Frozen Mango Margarita: 8.19
-  Hatch Green Chile Stew: 12.55
-  Spicy Shrimp Nacho Platter: 10.86
+  Sizzling Fajita Plate: 13.83
+  Three-Cheese Queso Dip: 6.79
+  Mexican Coffee Flan: 5.03
+  Blue Corn Tortilla Chips: 5.11
+  Honey-Lime Shrimp Skewers: 12.71
+  Carne Asada Fajitas: 14.64
+  Avocado Lime Cheesecake: 6.48
+  Grilled Shrimp Skewers: 16.82
+  Black Bean and Sweet Potato Empanadas: 9.55
+  Stuffed Avocado Boats: 9.49
+  Crispy Avocado Burrito: 13.34
+  Spicy Zucchini Tostadas: 10.69
+  Mexican Chocolate Milkshake: 4.98
+  Baja Fish Tacos: 10.27
+  Grilled Shrimp Quesadilla: 12.24
+  Spicy Mango Margarita: 9.0
+  Citrus Grilled Chicken Tacos: 10.56
 amenity_features: {}
-min_price_factor: 0.77
+min_price_factor: 0.65
 minimum_menu_prices:
-  Chipotle Lime Shrimp Tacos: 12.4
-  Zesty Lime Shrimp Salad: 9.0
-  Vanilla Almond Horchata: 2.46
-  Passion Fruit Mojito: 6.75
-  Creamy Chipotle Pasta: 9.49
-  Honey-Lime Grilled Shrimp: 12.86
-  Creamy Poblano Corn Chowder: 7.35
-  Al Pastor Pork Tacos: 9.1
-  Honey Chipotle Wings: 9.46
-  Pineapple Pico de Gallo Salsa: 4.46
-  Spiced Agave Margarita: 7.68
-  Blue Corn Tostada Salad: 7.01
-  Chili Lime Street Corn: 5.2
-  Frozen Mango Margarita: 6.31
-  Hatch Green Chile Stew: 9.66
-  Spicy Shrimp Nacho Platter: 8.36
+  Sizzling Fajita Plate: 8.99
+  Three-Cheese Queso Dip: 4.41
+  Mexican Coffee Flan: 3.27
+  Blue Corn Tortilla Chips: 3.32
+  Honey-Lime Shrimp Skewers: 8.26
+  Carne Asada Fajitas: 9.52
+  Avocado Lime Cheesecake: 4.21
+  Grilled Shrimp Skewers: 10.93
+  Black Bean and Sweet Potato Empanadas: 6.21
+  Stuffed Avocado Boats: 6.17
+  Crispy Avocado Burrito: 8.67
+  Spicy Zucchini Tostadas: 6.95
+  Mexican Chocolate Milkshake: 3.66
+  Baja Fish Tacos: 6.68
+  Grilled Shrimp Quesadilla: 7.96
+  Spicy Mango Margarita: 5.85
+  Citrus Grilled Chicken Tacos: 7.29

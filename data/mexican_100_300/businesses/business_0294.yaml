@@ -1,43 +1,41 @@
 id: business_0294
-name: El Sabor Sizzler
-description: Experience vibrant Mexican and Tex-Mex flavors served hot off the skillet
-  in a lively, welcoming atmosphere. From sizzling specialties to refreshing drinks
-  and decadent desserts, every meal is a celebration of taste.
+name: Avocado Ember Social
+description: A vibrant modern eatery bringing bold Mexican and Tex-Mex flavors to
+  life with fresh ingredients, playful twists, and signature desserts. Enjoy crave-worthy
+  classics and inventive specialties in a lively, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0098
 menu_features:
-  Sizzling Fajita Skillet: 14.78
-  Baja Fish Tacos: 13.52
-  Black Bean Chili Bowl: 10.15
-  Sweet Corn Tostadas: 8.0
-  Ancho Chili Spiced Ribs: 14.2
-  Spicy Cucumber Margarita: 8.49
-  Chipotle Chicken Enchiladas: 14.1
-  Mexican Chocolate Lava Cake: 9.31
-  Tex-Mex Fajita Wrap: 12.2
-  Smoky Black Bean Nachos: 8.5
-  Tequila Lime Grilled Shrimp: 12.04
-  Grilled Chipotle Chicken Burrito: 12.06
-  Tropical Pineapple Salsa: 2.05
-  Stuffed Poblano Peppers: 11.31
-  Flan with Caramel Drizzle: 5.38
-  Sizzling Beef Alambre: 14.09
+  Smoky Chipotle Quesadillas: 8.16
+  Choco Flan Combo: 6.87
+  Avocado Street Tacos: 11.55
+  Blue Corn Tostada Salad: 10.49
+  Stuffed Avocado Boats: 9.64
+  Twisted Tequila Sunrise: 6.43
+  Vanilla Flan with Caramel Sauce: 6.76
+  Horchata Milkshake: 5.72
+  Chipotle Shrimp Skewers: 11.67
+  Margarita Lime Cheesecake: 7.4
+  Chili Chocolate Lava Cake: 9.78
+  Black Bean Taco Bowl: 10.15
+  Chocolate Mole Chicken: 16.8
+  Bacon and Egg Tostada: 11.25
+  Roasted Red Pepper Quesadilla: 8.71
 amenity_features: {}
-min_price_factor: 0.92
+min_price_factor: 0.76
 minimum_menu_prices:
-  Sizzling Fajita Skillet: 13.6
-  Baja Fish Tacos: 12.44
-  Black Bean Chili Bowl: 9.34
-  Sweet Corn Tostadas: 7.36
-  Ancho Chili Spiced Ribs: 13.06
-  Spicy Cucumber Margarita: 7.81
-  Chipotle Chicken Enchiladas: 12.97
-  Mexican Chocolate Lava Cake: 8.57
-  Tex-Mex Fajita Wrap: 11.22
-  Smoky Black Bean Nachos: 7.82
-  Tequila Lime Grilled Shrimp: 11.08
-  Grilled Chipotle Chicken Burrito: 11.1
-  Tropical Pineapple Salsa: 1.89
-  Stuffed Poblano Peppers: 10.41
-  Flan with Caramel Drizzle: 4.95
-  Sizzling Beef Alambre: 12.96
+  Smoky Chipotle Quesadillas: 6.2
+  Choco Flan Combo: 5.22
+  Avocado Street Tacos: 8.78
+  Blue Corn Tostada Salad: 7.97
+  Stuffed Avocado Boats: 7.33
+  Twisted Tequila Sunrise: 4.89
+  Vanilla Flan with Caramel Sauce: 5.14
+  Horchata Milkshake: 4.35
+  Chipotle Shrimp Skewers: 8.87
+  Margarita Lime Cheesecake: 5.62
+  Chili Chocolate Lava Cake: 7.43
+  Black Bean Taco Bowl: 7.71
+  Chocolate Mole Chicken: 12.77
+  Bacon and Egg Tostada: 6.95
+  Roasted Red Pepper Quesadilla: 6.62

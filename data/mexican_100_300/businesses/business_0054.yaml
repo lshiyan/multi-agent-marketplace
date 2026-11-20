@@ -1,33 +1,47 @@
 id: business_0054
-name: Queso, Carnitas & Quirk
-description: A vibrant spot serving up inventive Mexican and Tex-Mex classics with
-  a twist. Come savor bold flavors, colorful dishes, and a playful spirit in every
-  bite.
+name: Mango Ember Cantina
+description: Mango Ember Cantina serves up bold Mexican and Tex-Mex flavors with a
+  fresh, vibrant twist. Enjoy creative salsas, sizzling plates, and inventive cocktails
+  in a lively, modern setting.
 rating: 1.0
 progenitor_customer: customer_0018
 menu_features:
-  Coconut Lime Paleta: 3.23
-  Jicama and Citrus Salad: 8.62
-  Spicy Black Bean Nacho Platter: 10.2
-  Chipotle Bourbon Carnitas: 16.35
-  Sweet Plantain Empanadas: 7.91
-  Hatch Chile Queso Dip: 7.91
-  Pork Carnitas Platter: 13.28
-  Crispy Avocado Wedges: 7.41
-  Ranchero Eggs Benedict: 13.18
-  Roasted Poblano Veggie Skillet: 9.8
-  Grilled Steak Fajita Platter: 14.22
+  Huevos Rancheros: 9.3
+  Ultimate Nacho Platter: 9.8
+  Blueberry Tequila Sunrise: 9.95
+  Pineapple Habanero Sake: 9.12
+  Chocolate Mole Chicken: 19.22
+  Roasted Pecan Flan: 5.44
+  Pineapple Jalapeno Sangria: 8.34
+  Roasted Poblano Quesadilla: 11.23
+  Grilled Shrimp Quesadilla: 9.07
+  Fresh Mango Salsa Nachos: 9.55
+  Sizzling Chicken Fajitas: 15.15
+  Sizzling Fajita Plate: 13.73
+  Caramelized Banana Flan: 6.43
+  Black Bean and Corn Fiesta Salad: 5.86
+  Roasted Tomato Salsa Dip: 2.92
+  Black Bean Avocado Enchiladas: 12.82
+  Stuffed Chicken Poblano: 10.64
+  Coconut Lime Rice Bowl: 11.24
 amenity_features: {}
-min_price_factor: 0.68
+min_price_factor: 0.88
 minimum_menu_prices:
-  Coconut Lime Paleta: 2.2
-  Jicama and Citrus Salad: 5.86
-  Spicy Black Bean Nacho Platter: 6.94
-  Chipotle Bourbon Carnitas: 11.12
-  Sweet Plantain Empanadas: 5.38
-  Hatch Chile Queso Dip: 5.38
-  Pork Carnitas Platter: 9.03
-  Crispy Avocado Wedges: 5.04
-  Ranchero Eggs Benedict: 8.96
-  Roasted Poblano Veggie Skillet: 6.66
-  Grilled Steak Fajita Platter: 9.67
+  Huevos Rancheros: 8.18
+  Ultimate Nacho Platter: 8.75
+  Blueberry Tequila Sunrise: 8.76
+  Pineapple Habanero Sake: 8.03
+  Chocolate Mole Chicken: 16.91
+  Roasted Pecan Flan: 4.79
+  Pineapple Jalapeno Sangria: 7.34
+  Roasted Poblano Quesadilla: 9.88
+  Grilled Shrimp Quesadilla: 7.98
+  Fresh Mango Salsa Nachos: 8.4
+  Sizzling Chicken Fajitas: 13.33
+  Sizzling Fajita Plate: 12.08
+  Caramelized Banana Flan: 5.66
+  Black Bean and Corn Fiesta Salad: 5.16
+  Roasted Tomato Salsa Dip: 2.69
+  Black Bean Avocado Enchiladas: 11.4
+  Stuffed Chicken Poblano: 9.36
+  Coconut Lime Rice Bowl: 9.89

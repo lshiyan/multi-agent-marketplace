@@ -1,8 +1,10 @@
 id: customer_0062
-name: Megan Hernandez
-request: Could you please locate a business that offers 'Cinnamon Sugar Sopapillas'
-  and assist in placing an order for 1 of these? It's very important that the business
-  meets this specific menu item requirement. Thank you!
+name: Emma Garcia
+request: 'I am looking to place an order from a business that offers the following
+  menu items: 1 Spicy Pineapple Salsa Dip and 1 Vanilla Flan Delight. These items
+  are very important to me, and I would like to make a purchase once you find a business
+  that provides both. Thank you!'
 menu_features:
-  Cinnamon Sugar Sopapillas: 5.49
+  Spicy Pineapple Salsa Dip: 6.36
+  Vanilla Flan Delight: 7.23
 amenity_features: []

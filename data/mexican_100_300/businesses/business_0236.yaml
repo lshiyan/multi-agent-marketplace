@@ -1,39 +1,39 @@
 id: business_0236
-name: La Mesa Sabrosa
-description: Experience vibrant Mexican and Tex-Mex flavors in a warm and inviting
-  setting. La Mesa Sabrosa serves up a festive array of creative small plates, tacos,
-  bold cocktails, and classic desserts for a true taste of fiesta.
+name: Crisp & Citrus Cocina
+description: A vibrant, modern spot serving up creative Mexican and Tex-Mex flavors
+  with fresh, zesty twists. Enjoy bold tacos, sizzling skillets, and inventive cocktails
+  in a lively, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0079
 menu_features:
-  Smoky Black Bean Tostadas: 7.65
-  Stuffed Avocado Delight: 8.09
-  Chipotle Shrimp Skewers: 13.92
-  Braised Beef Barbacoa Tacos: 11.8
-  Blueberry Agave Mojito: 9.88
-  Loaded Nacho Skillet: 8.75
-  Black Bean & Cheese Tostadas: 9.21
-  Strawberry Jalapeno Lemonade: 4.02
-  Spicy Chicken Chimichanga: 11.02
-  Pineapple Jalapeno Margarita: 9.67
-  Grilled Shrimp Skewers: 16.77
-  Fiesta Street Corn: 4.6
-  Chocolate Cinnamon Flan: 4.24
-  Spicy Shrimp Nacho Platter: 9.94
+  Crispy Fish Tacos: 13.11
+  Carne Asada Fajitas: 13.92
+  Sizzling Fajita Skillet: 19.31
+  Spicy Mango Margarita: 11.05
+  Pineapple Salsa Pork Tacos: 11.05
+  Fresh Mint Mojito: 11.24
+  Agave Lime Chicken Skewers: 12.56
+  Stuffed Chicken Poblano: 14.57
+  Shrimp Ceviche Bowl: 15.17
+  Sizzling Fajita Plate: 14.28
+  Blueberry Tequila Sunrise: 9.21
+  Chorizo and Egg Tacos: 7.01
+  Chili Con Queso Supreme: 9.29
+  Roasted Corn and Black Bean Salsa: 6.86
 amenity_features: {}
-min_price_factor: 0.85
+min_price_factor: 0.82
 minimum_menu_prices:
-  Smoky Black Bean Tostadas: 6.5
-  Stuffed Avocado Delight: 6.88
-  Chipotle Shrimp Skewers: 11.83
-  Braised Beef Barbacoa Tacos: 10.03
-  Blueberry Agave Mojito: 8.4
-  Loaded Nacho Skillet: 7.44
-  Black Bean & Cheese Tostadas: 7.83
-  Strawberry Jalapeno Lemonade: 3.42
-  Spicy Chicken Chimichanga: 9.37
-  Pineapple Jalapeno Margarita: 8.22
-  Grilled Shrimp Skewers: 14.25
-  Fiesta Street Corn: 3.91
-  Chocolate Cinnamon Flan: 3.6
-  Spicy Shrimp Nacho Platter: 8.45
+  Crispy Fish Tacos: 10.75
+  Carne Asada Fajitas: 11.41
+  Sizzling Fajita Skillet: 15.83
+  Spicy Mango Margarita: 9.06
+  Pineapple Salsa Pork Tacos: 9.06
+  Fresh Mint Mojito: 9.22
+  Agave Lime Chicken Skewers: 10.3
+  Stuffed Chicken Poblano: 11.95
+  Shrimp Ceviche Bowl: 12.44
+  Sizzling Fajita Plate: 11.71
+  Blueberry Tequila Sunrise: 7.55
+  Chorizo and Egg Tacos: 5.75
+  Chili Con Queso Supreme: 5.75
+  Roasted Corn and Black Bean Salsa: 5.63

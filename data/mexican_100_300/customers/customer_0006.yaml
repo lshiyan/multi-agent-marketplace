@@ -1,10 +1,10 @@
 id: customer_0006
-name: Daniel Lee
-request: 'Please help me find a restaurant where I can place an order for the following
-  items: 1 Beef Enchiladas Verdes and 1 Baja Shrimp Quesadilla. It is important that
-  the restaurant offers both these menu items. Once you find such a place, I intend
-  to place this order. Thank you!'
+name: Lucas Hill
+request: I would like assistance in finding a business where I can place an order
+  for a Spicy Avocado Burger (1) and a Hibiscus Agua Fresca (1). It is very important
+  that the business meets these specific menu item requirements, as I intend to make
+  a purchase. Thank you for your help.
 menu_features:
-  Beef Enchiladas Verdes: 12.99
-  Baja Shrimp Quesadilla: 13.29
+  Spicy Avocado Burger: 13.58
+  Hibiscus Agua Fresca: 3.42
 amenity_features: []

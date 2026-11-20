@@ -1,8 +1,11 @@
 id: customer_0018
-name: Matthew Kimura
-request: I am looking for a business that serves 'Chipotle Bourbon Carnitas' and would
-  like to place an order for 1 of this item. Please find a suitable business that
-  can fulfill this request. Thank you.
+name: Eric Thompson
+request: 'Please help me find a business that offers the following items on their
+  menu: 1 Black Bean Avocado Enchilada, 1 Ultimate Nacho Platter, and 1 Roasted Tomato
+  Salsa Dip. I intend to place an order once you confirm the availability of these
+  items. Thank you!'
 menu_features:
-  Chipotle Bourbon Carnitas: 14.99
+  Black Bean Avocado Enchiladas: 13.11
+  Ultimate Nacho Platter: 11.01
+  Roasted Tomato Salsa Dip: 3.63
 amenity_features: []

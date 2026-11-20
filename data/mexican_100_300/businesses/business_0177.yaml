@@ -1,48 +1,45 @@
 id: business_0177
-name: Guac to the Sizzle
-description: Experience a bold twist on Mexican and Tex-Mex classics at Guac to the
-  Sizzle, where vibrant flavors meet a playful atmosphere. From fresh, zesty drinks
-  to sizzling mains and sweet desserts, every bite promises a fiesta for your taste
-  buds.
+name: La Palma Mexicana
+description: Step into a vibrant world of classic Mexican and Tex-Mex flavors with
+  a modern twist. Enjoy fresh salads, sizzling skillets, tempting desserts, and signature
+  drinks in a warm, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0059
 menu_features:
-  Fresh Limeade: 4.29
-  Crispy Avocado Wedges: 10.24
-  "Cheesy Jalape\xF1o Queso Dip": 8.97
-  Tres Leches Cake: 6.83
-  Spicy Avocado Burger: 14.1
-  Sizzling Fajita Plate: 14.46
-  Spicy Chipotle Chicken Wings: 9.33
-  Chipotle Lime Cauliflower Tacos: 12.94
-  Sweet Corn Tostadas: 9.09
-  Ancho Chili Braised Beef Enchiladas: 15.54
-  Tequila Lime Shrimp Skewers: 15.86
-  Al Pastor Pork Tacos: 10.92
-  Fajita Veggie Burrito Bowl: 13.77
-  Chipotle Bean Burrito: 10.01
-  Carne Asada Fajitas: 16.55
-  Savory Carne Asada Burrito: 12.23
-  Stuffed Poblano Peppers: 13.02
-  Caramelized Plantain Empanadas: 5.99
+  Coconut Lime Paleta: 3.82
+  Agave Lime Margarita: 10.7
+  Beef Fajita Skillet: 17.17
+  Golden Tequila Sunrise: 9.68
+  Black Bean and Corn Fiesta Salad: 6.85
+  Honey Lime Chicken Skewers: 10.83
+  Huevos Rancheros: 11.62
+  Loaded Chorizo Nachos: 7.54
+  Choco-Chili Volcano Cake: 6.38
+  Avocado Lime Empanadas: 9.77
+  Choco Flan Combo: 7.38
+  Southwest Chopped Salad: 10.32
+  Coffee Cinnamon Mexican Mocha: 4.7
+  Grilled Elote Corn: 6.09
+  Raspberry Jalapeno Mojito: 10.48
+  Fire Roasted Salsa Sampler: 5.45
+  Mango Jalapeno Salsa and Chips: 6.11
 amenity_features: {}
-min_price_factor: 0.75
+min_price_factor: 0.7
 minimum_menu_prices:
-  Fresh Limeade: 3.22
-  Crispy Avocado Wedges: 7.68
-  "Cheesy Jalape\xF1o Queso Dip": 6.73
-  Tres Leches Cake: 5.12
-  Spicy Avocado Burger: 10.57
-  Sizzling Fajita Plate: 10.85
-  Spicy Chipotle Chicken Wings: 7.0
-  Chipotle Lime Cauliflower Tacos: 9.71
-  Sweet Corn Tostadas: 6.82
-  Ancho Chili Braised Beef Enchiladas: 11.65
-  Tequila Lime Shrimp Skewers: 11.89
-  Al Pastor Pork Tacos: 8.19
-  Fajita Veggie Burrito Bowl: 10.33
-  Chipotle Bean Burrito: 7.51
-  Carne Asada Fajitas: 12.41
-  Savory Carne Asada Burrito: 9.17
-  Stuffed Poblano Peppers: 9.77
-  Caramelized Plantain Empanadas: 4.49
+  Coconut Lime Paleta: 2.67
+  Agave Lime Margarita: 7.49
+  Beef Fajita Skillet: 12.02
+  Golden Tequila Sunrise: 6.78
+  Black Bean and Corn Fiesta Salad: 4.79
+  Honey Lime Chicken Skewers: 7.58
+  Huevos Rancheros: 8.13
+  Loaded Chorizo Nachos: 5.28
+  Choco-Chili Volcano Cake: 4.47
+  Avocado Lime Empanadas: 6.84
+  Choco Flan Combo: 5.17
+  Southwest Chopped Salad: 7.22
+  Coffee Cinnamon Mexican Mocha: 2.98
+  Grilled Elote Corn: 3.96
+  Raspberry Jalapeno Mojito: 7.34
+  Fire Roasted Salsa Sampler: 3.81
+  Mango Jalapeno Salsa and Chips: 4.28

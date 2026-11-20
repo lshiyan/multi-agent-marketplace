@@ -1,43 +1,37 @@
 id: business_0033
-name: Lima & Luz
-description: Experience vibrant Mexican and Tex-Mex flavors in a lively, modern setting.
-  From sizzling skewers and zesty tacos to tropical drinks and decadent desserts,
-  every bite at Lima & Luz is a fresh celebration.
+name: Sonrisa Mexicana
+description: Experience vibrant Mexican and Tex-Mex flavors in a lively, welcoming
+  setting. From savory small plates to bold, refreshing drinks, Sonrisa Mexicana brings
+  a joyful twist to classic favorites.
 rating: 1.0
 progenitor_customer: customer_0011
 menu_features:
-  Chipotle Lime Chicken Skewers: 12.65
-  Spicy Chipotle Chicken Wings: 8.65
-  Black Bean Avocado Tostadas: 12.2
-  Black Bean & Corn Quesadilla: 8.71
-  Black Bean Taco Bowl: 9.98
-  Baja Fish Tacos: 14.9
-  Mexican Street Corn Dip: 9.04
-  Tropical Coconut Margarita: 9.68
-  Chocolate Dipped Flan: 5.41
-  Choco Flan Combo: 7.92
-  Mango Agua Fresca: 3.61
-  Savory Carne Asada Burrito: 10.98
-  Molten Queso Fundido: 8.32
-  Churro Ice Cream Sandwich: 7.21
-  Blueberry Tequila Sunrise: 9.13
-  Smoky Black Bean Enchiladas: 11.91
+  Roasted Pepper Queso Dip: 6.76
+  Fajita Veggie Burrito Bowl: 16.52
+  Pineapple Habanero Sake: 9.42
+  Shrimp Ceviche Bowl: 11.19
+  Black Bean and Cilantro Rice: 3.8
+  Pico Avocado Toast: 7.74
+  Sizzling Fajita Skillet: 15.51
+  Peach Berry Sangria: 7.41
+  "Spicy Jalape\xF1o Limeade": 2.63
+  Cilantro Lime Shrimp Skewers: 11.94
+  Baja Shrimp Quesadilla: 11.62
+  Roasted Corn and Avocado Salad: 8.89
+  Tangy Tomato Salsa Soup: 8.72
 amenity_features: {}
 min_price_factor: 0.81
 minimum_menu_prices:
-  Chipotle Lime Chicken Skewers: 10.25
-  Spicy Chipotle Chicken Wings: 7.01
-  Black Bean Avocado Tostadas: 9.88
-  Black Bean & Corn Quesadilla: 7.06
-  Black Bean Taco Bowl: 8.08
-  Baja Fish Tacos: 12.07
-  Mexican Street Corn Dip: 7.32
-  Tropical Coconut Margarita: 7.84
-  Chocolate Dipped Flan: 4.38
-  Choco Flan Combo: 6.42
-  Mango Agua Fresca: 2.92
-  Savory Carne Asada Burrito: 8.89
-  Molten Queso Fundido: 6.74
-  Churro Ice Cream Sandwich: 5.84
-  Blueberry Tequila Sunrise: 7.4
-  Smoky Black Bean Enchiladas: 9.65
+  Roasted Pepper Queso Dip: 6.16
+  Fajita Veggie Burrito Bowl: 13.38
+  Pineapple Habanero Sake: 7.63
+  Shrimp Ceviche Bowl: 9.06
+  Black Bean and Cilantro Rice: 3.08
+  Pico Avocado Toast: 6.27
+  Sizzling Fajita Skillet: 12.56
+  Peach Berry Sangria: 6.71
+  "Spicy Jalape\xF1o Limeade": 2.13
+  Cilantro Lime Shrimp Skewers: 9.67
+  Baja Shrimp Quesadilla: 10.25
+  Roasted Corn and Avocado Salad: 7.2
+  Tangy Tomato Salsa Soup: 7.06

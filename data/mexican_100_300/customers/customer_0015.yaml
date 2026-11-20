@@ -1,7 +1,8 @@
 id: customer_0015
-name: Amelia Zhang
-request: Please find a business that offers 'Shrimp Ceviche Cups' and place an order
-  for 1. It is important that the business can fulfill this exact request. Thank you.
+name: Olivia Parker
+request: 'Could you please help me find a business where I can place an order for
+  the following menu item: Spicy Chorizo Enchiladas (1)? I would like to proceed with
+  purchasing this item. Thank you for your assistance.'
 menu_features:
-  Shrimp Ceviche Cups: 10.99
+  Spicy Chorizo Enchiladas: 17.2
 amenity_features: []

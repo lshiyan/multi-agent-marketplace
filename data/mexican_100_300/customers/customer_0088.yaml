@@ -1,10 +1,9 @@
 id: customer_0088
-name: Thomas Robinson
-request: 'Please help me find a business where I can place an order for the following
-  items: 1 Mango Habanero Margarita and 1 Cheesy Jalapeno Queso. It is very important
-  that the business offers both these items as listed, as I intend to purchase them.
-  Thank you!'
+name: James Thompson
+request: 'Could you please help me place an order with a business that serves the
+  following items: 1 Black Bean Breakfast Burrito and 1 Three-Cheese Enchilada Stack?
+  It is important that both items are available. Thank you!'
 menu_features:
-  Mango Habanero Margarita: 9.99
-  Cheesy Jalapeno Queso: 7.99
+  Black Bean Breakfast Burrito: 10.48
+  Three-Cheese Enchilada Stack: 13.4
 amenity_features: []

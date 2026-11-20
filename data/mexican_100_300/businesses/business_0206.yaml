@@ -1,37 +1,39 @@
 id: business_0206
-name: Sabor & Citro
-description: Sabor & Citro brings a fresh take on Mexican and Tex-Mex classics, blending
-  zesty citrus and savory flavors in a lively, modern setting. Enjoy bold dishes and
-  creative drinks crafted with a passion for authentic taste and vibrant ingredients.
+name: Sabores del Amanecer Mexicano
+description: Experience a vibrant blend of classic Mexican and Tex-Mex favorites in
+  a lively, inviting atmosphere. At Sabores del Amanecer Mexicano, fresh flavors and
+  bold spices come together to wake up your senses from sunrise to sunset.
 rating: 1.0
 progenitor_customer: customer_0069
 menu_features:
-  Chocolate Cinnamon Flan: 5.98
-  Grilled Pineapple & Shrimp Quesadillas: 12.16
-  Frozen Strawberry Daiquiri: 8.66
-  Black Bean Stuffed Sweet Potatoes: 6.41
-  Baja Fish Tacos: 15.06
-  Spicy Mango Margarita: 8.42
-  Black Bean and Avocado Wrap: 9.94
-  Cheesy Jalapeno Queso: 7.08
-  Red Chili Chicken Pozole: 10.11
-  Classic Lime Margarita: 9.7
-  Mesquite Grilled Steak Fajitas: 15.41
-  Blue Corn Tortilla Chips: 6.49
-  Honey Lime Fajita Sizzlers: 17.07
+  Chipotle Bean Burrito: 9.85
+  Tequila Sunrise Smoothie: 9.42
+  Chocolate Cinnamon Flan: 5.13
+  "Cheesy Jalape\xF1o Poppers": 6.62
+  Crispy Tinga Chicken Tacos: 8.43
+  Mole Chicken Quesadilla: 9.57
+  Beef Enchiladas Verdes: 14.1
+  Crispy Avocado and Lime Tacos: 13.89
+  Blue Agave Tequila Sunrise: 7.55
+  Stuffed Avocado Delight: 6.05
+  Raspberry Chipotle Barbecue Ribs: 16.11
+  Frozen Mango Margarita: 10.46
+  Breakfast Tostada Stack: 11.49
+  Loaded Nacho Skillet: 10.88
 amenity_features: {}
-min_price_factor: 0.8
+min_price_factor: 0.72
 minimum_menu_prices:
-  Chocolate Cinnamon Flan: 4.78
-  Grilled Pineapple & Shrimp Quesadillas: 9.73
-  Frozen Strawberry Daiquiri: 6.93
-  Black Bean Stuffed Sweet Potatoes: 5.13
-  Baja Fish Tacos: 12.05
-  Spicy Mango Margarita: 6.74
-  Black Bean and Avocado Wrap: 7.95
-  Cheesy Jalapeno Queso: 5.66
-  Red Chili Chicken Pozole: 8.09
-  Classic Lime Margarita: 7.76
-  Mesquite Grilled Steak Fajitas: 12.33
-  Blue Corn Tortilla Chips: 5.19
-  Honey Lime Fajita Sizzlers: 13.66
+  Chipotle Bean Burrito: 7.09
+  Tequila Sunrise Smoothie: 6.78
+  Chocolate Cinnamon Flan: 4.32
+  "Cheesy Jalape\xF1o Poppers": 5.5
+  Crispy Tinga Chicken Tacos: 6.07
+  Mole Chicken Quesadilla: 6.89
+  Beef Enchiladas Verdes: 10.15
+  Crispy Avocado and Lime Tacos: 10.0
+  Blue Agave Tequila Sunrise: 6.17
+  Stuffed Avocado Delight: 4.36
+  Raspberry Chipotle Barbecue Ribs: 11.6
+  Frozen Mango Margarita: 7.53
+  Breakfast Tostada Stack: 8.27
+  Loaded Nacho Skillet: 7.83

@@ -1,41 +1,39 @@
 id: business_0145
-name: Chili & Char Kitchen
-description: Spice, smoke, and sizzling flavor come together at Chili & Char Kitchen,
-  where Mexican and Tex-Mex classics get a vibrant, modern twist. Enjoy a delicious
-  medley of creative dishes and bold, memorable desserts in a warm and inviting atmosphere.
+name: Sizzle & Sweetcorn
+description: Experience a vibrant fusion of grilled favorites and sweet, savory flavors
+  at Sizzle & Sweetcorn. Indulge in a fresh twist on classic Mexican and Tex-Mex fare,
+  all served in a warm, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0049
 menu_features:
-  Caramelized Onion and Chorizo Quesadilla: 9.1
-  Loaded Nachos Grande: 11.93
-  Chili Lime Shrimp Skewers: 11.76
-  Green Chile Cheesesteak: 13.39
-  Smoky Chipotle Quesadillas: 10.77
-  Red Chili Chicken Pozole: 12.26
-  Creamy Poblano Corn Chowder: 10.03
-  Chocolate Cinnamon Flan: 6.2
-  Pineapple Chipotle Salsa & Chips: 6.09
-  Fajita Veggie Burrito Bowl: 14.88
-  Grilled Chipotle Chicken Burrito: 11.92
-  Mushroom & Cheese Tamales: 10.9
-  Crispy Fish Baja Bowl: 14.48
-  Grilled Shrimp Skewers: 15.97
-  Chili Chocolate Lava Cake: 8.09
+  Carne Asada Fajitas: 18.03
+  Breakfast Burrito Bowl: 11.14
+  Ancho Chili Spiced Ribs: 15.01
+  Honey-Lime Grilled Shrimp: 12.25
+  Twice-Baked Sweet Potato: 6.04
+  Tequila Lime Grilled Chicken: 15.08
+  Grilled Chipotle Chicken Burrito: 10.77
+  Sweet Corn Tostadas: 9.49
+  Sweet Corn Tamale Bites: 5.92
+  Grilled Steak Quesadilla: 10.76
+  Raspberry Chipotle Barbecue Ribs: 15.07
+  Creamy Avocado Soup: 6.74
+  Smoky Chipotle Black Bean Soup: 7.21
+  Spicy Cucumber Margarita: 10.49
 amenity_features: {}
-min_price_factor: 0.72
+min_price_factor: 0.67
 minimum_menu_prices:
-  Caramelized Onion and Chorizo Quesadilla: 6.55
-  Loaded Nachos Grande: 8.59
-  Chili Lime Shrimp Skewers: 8.47
-  Green Chile Cheesesteak: 9.64
-  Smoky Chipotle Quesadillas: 7.75
-  Red Chili Chicken Pozole: 8.83
-  Creamy Poblano Corn Chowder: 7.22
-  Chocolate Cinnamon Flan: 4.46
-  Pineapple Chipotle Salsa & Chips: 4.38
-  Fajita Veggie Burrito Bowl: 10.71
-  Grilled Chipotle Chicken Burrito: 8.58
-  Mushroom & Cheese Tamales: 7.85
-  Crispy Fish Baja Bowl: 10.43
-  Grilled Shrimp Skewers: 11.5
-  Chili Chocolate Lava Cake: 5.82
+  Carne Asada Fajitas: 12.08
+  Breakfast Burrito Bowl: 7.46
+  Ancho Chili Spiced Ribs: 10.06
+  Honey-Lime Grilled Shrimp: 8.21
+  Twice-Baked Sweet Potato: 4.77
+  Tequila Lime Grilled Chicken: 10.1
+  Grilled Chipotle Chicken Burrito: 7.22
+  Sweet Corn Tostadas: 6.36
+  Sweet Corn Tamale Bites: 4.68
+  Grilled Steak Quesadilla: 7.21
+  Raspberry Chipotle Barbecue Ribs: 10.1
+  Creamy Avocado Soup: 4.52
+  Smoky Chipotle Black Bean Soup: 5.63
+  Spicy Cucumber Margarita: 7.03

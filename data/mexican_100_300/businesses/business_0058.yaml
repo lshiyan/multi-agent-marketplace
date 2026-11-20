@@ -1,40 +1,47 @@
 id: business_0058
-name: Cultura Cocina
-description: A modern Mexican and Tex-Mex eatery celebrating bold flavors and creative
-  twists. Enjoy vibrant dishes and inventive drinks in a stylish, welcoming setting.
+name: "Ma\xEDz & Margarita Market"
+description: "Experience a lively blend of traditional and modern flavors at Ma\xED\
+  z & Margarita Market, where fresh salads, creative cocktails, and vibrant Tex-Mex\
+  \ classics await. Enjoy a colorful, welcoming atmosphere perfect for any occasion."
 rating: 1.0
 progenitor_customer: customer_0020
 menu_features:
-  Cactus Jack Quesadilla: 11.08
-  Carnitas Plantain Burrito: 14.15
-  Honey Lime Grilled Corn: 5.71
-  Caramelized Banana Flan: 6.33
-  Pineapple Jalapeno Sangria: 8.65
-  Roasted Pecan Flan: 6.18
-  Mexican Chocolate Milkshake: 6.98
-  Chocolate Sopapilla Bites: 4.81
-  Blueberry Hibiscus Margarita: 8.57
-  Avocado & Tomato Breakfast Tostadas: 7.42
-  Passionfruit Agua Fresca: 3.11
-  Chipotle Lime Chicken Skewers: 12.33
-  Pineapple Jalapeno Salsa: 4.51
-  Coconut Lime Shrimp Skewers: 19.04
-  Adobo Pork Sliders: 9.45
+  Cinnamon Sugar Sopapillas: 4.15
+  Pumpkin Spice Churros: 3.44
+  Mango Habanero Margarita: 11.03
+  Roasted Corn and Avocado Salad: 8.99
+  Chili Lime Margarita: 7.82
+  Blue Corn Tortilla Chips: 5.17
+  Coconut Lime Flan: 6.91
+  Minty Mojito Refresher: 7.35
+  Frozen Mango Margarita: 10.76
+  Spice-Rubbed Grilled Fajitas: 15.13
+  Blue Corn Tortilla Tacos: 12.96
+  Tangy Tomato Salsa Soup: 9.86
+  Street Corn Elote: 5.44
+  Sweet Corn Tamale Cake: 5.71
+  Chipotle Lime Cauliflower Tacos: 9.6
+  Breakfast Burrito Supreme: 9.93
+  Crispy Fish Baja Bowl: 12.69
+  Black Bean Taco Bowl: 9.31
 amenity_features: {}
-min_price_factor: 0.8
+min_price_factor: 0.63
 minimum_menu_prices:
-  Cactus Jack Quesadilla: 8.86
-  Carnitas Plantain Burrito: 11.32
-  Honey Lime Grilled Corn: 4.57
-  Caramelized Banana Flan: 5.06
-  Pineapple Jalapeno Sangria: 6.92
-  Roasted Pecan Flan: 4.94
-  Mexican Chocolate Milkshake: 5.58
-  Chocolate Sopapilla Bites: 3.85
-  Blueberry Hibiscus Margarita: 6.86
-  Avocado & Tomato Breakfast Tostadas: 5.94
-  Passionfruit Agua Fresca: 2.49
-  Chipotle Lime Chicken Skewers: 9.86
-  Pineapple Jalapeno Salsa: 3.61
-  Coconut Lime Shrimp Skewers: 15.23
-  Adobo Pork Sliders: 7.56
+  Cinnamon Sugar Sopapillas: 2.61
+  Pumpkin Spice Churros: 2.78
+  Mango Habanero Margarita: 6.95
+  Roasted Corn and Avocado Salad: 5.66
+  Chili Lime Margarita: 5.54
+  Blue Corn Tortilla Chips: 3.26
+  Coconut Lime Flan: 4.35
+  Minty Mojito Refresher: 4.63
+  Frozen Mango Margarita: 6.78
+  Spice-Rubbed Grilled Fajitas: 9.53
+  Blue Corn Tortilla Tacos: 8.16
+  Tangy Tomato Salsa Soup: 6.21
+  Street Corn Elote: 3.43
+  Sweet Corn Tamale Cake: 4.21
+  Chipotle Lime Cauliflower Tacos: 6.05
+  Breakfast Burrito Supreme: 6.26
+  Crispy Fish Baja Bowl: 7.99
+  Black Bean Taco Bowl: 5.87

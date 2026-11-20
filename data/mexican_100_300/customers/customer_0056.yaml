@@ -1,12 +1,10 @@
 id: customer_0056
-name: Chloe Jones
-request: 'Could you please help me find a business that can fulfill the following
-  order for me? I need to purchase the following items: 1 Roasted Corn and Black Bean
-  Salsa, 1 Loaded Nacho Supreme, and 1 Honey Lime Grilled Chicken. It''s very important
-  that the business serves all these items. Once found, I intend to place an order
-  with them. Thank you for your assistance.'
+name: Elijah Adams
+request: 'Could you please assist me in finding a business that offers both ''Mesquite
+  Grilled Steak Fajitas'' (quantity: 1) and ''Vegetarian Tamale Platter'' (quantity:
+  1)? It''s very important that both these items are available. Once you find such
+  a business, I would like to place an order for them. Thank you for your assistance.'
 menu_features:
-  Roasted Corn and Black Bean Salsa: 6.99
-  Loaded Nacho Supreme: 9.99
-  Honey Lime Grilled Chicken: 14.49
+  Mesquite Grilled Steak Fajitas: 13.81
+  Vegetarian Tamale Platter: 13.26
 amenity_features: []

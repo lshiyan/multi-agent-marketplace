@@ -1,8 +1,11 @@
 id: customer_0024
-name: Christopher Wong
-request: Could you please assist me in finding a business that offers the 'Tamale
-  Trio Platter'? I would like to place an order for 1 of these. Thank you for your
-  help.
+name: Kevin Hall
+request: Could you please assist me in finding a business that serves the following
+  menu items to fulfill my order? I need 1 Braised Beef Barbacoa Tacos, 1 Sizzling
+  Fajita Fiesta, and 1 Garlic Lime Shrimp Salad. It is important that the business
+  offers all of these items, as I intend to make a purchase. Thank you for your assistance.
 menu_features:
-  Tamale Trio Platter: 14.99
+  Braised Beef Barbacoa Tacos: 11.61
+  Sizzling Fajita Fiesta: 15.01
+  Garlic Lime Shrimp Salad: 13.04
 amenity_features: []

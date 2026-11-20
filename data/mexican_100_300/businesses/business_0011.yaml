@@ -1,41 +1,39 @@
 id: business_0011
-name: Pepper Patch
-description: Pepper Patch serves up vibrant Mexican and Tex-Mex flavors with fresh
-  salads, zesty street tacos, and refreshing house-made beverages. Dive into a colorful
-  menu inspired by classic and creative combinations in a warm, welcoming setting.
+name: Sol y Sabor Cocina
+description: Experience vibrant Tex-Mex flavors and creative classics in a lively,
+  welcoming atmosphere. From zesty grilled dishes to sweet traditional treats, every
+  bite celebrates the sunny spirit of Mexican cuisine.
 rating: 1.0
 progenitor_customer: customer_0004
 menu_features:
-  Black Bean and Corn Fiesta Salad: 10.63
-  Sizzling Carne Asada: 14.57
-  Cactus Flower Iced Tea: 3.8
-  Paloma Breeze Cocktail: 9.36
-  Blueberry Jalapeno Lemonade: 4.39
-  Spicy Chicken Tortilla Soup: 6.6
-  Mole Chicken Quesadilla: 10.24
-  Roasted Poblano Corn Chowder: 7.08
-  Ancho Chile Chicken Salad: 11.36
-  Braised Beef Barbacoa Tacos: 12.27
-  Sweet Plantain Empanadas: 7.3
-  Pineapple Salsa Shrimp Tacos: 12.74
-  Avocado Street Tacos: 10.16
-  Fiesta Street Corn: 3.93
-  Black Bean Taco Bowl: 8.86
+  Classic Horchata Smoothie: 4.64
+  Pumpkin Spice Churros: 5.02
+  Horchata Iced Latte: 5.1
+  Zesty Lime Grilled Chicken: 17.42
+  Loaded Nacho Fiesta: 9.61
+  Chili Lime Margarita: 8.14
+  Avocado Lime Crema Tostadas: 11.16
+  Fresh Lime Cilantro Rice: 3.03
+  Green Chile Cheesesteak: 14.27
+  Black Bean and Corn Fiesta Salad: 7.62
+  Tamale Pie Casserole: 15.58
+  Crispy Carnitas Quesadilla: 10.3
+  Tex-Mex Breakfast Skillet: 8.34
+  Vanilla Flan with Caramel Sauce: 7.64
 amenity_features: {}
-min_price_factor: 0.73
+min_price_factor: 0.7
 minimum_menu_prices:
-  Black Bean and Corn Fiesta Salad: 7.76
-  Sizzling Carne Asada: 10.64
-  Cactus Flower Iced Tea: 2.77
-  Paloma Breeze Cocktail: 6.83
-  Blueberry Jalapeno Lemonade: 3.2
-  Spicy Chicken Tortilla Soup: 4.82
-  Mole Chicken Quesadilla: 7.48
-  Roasted Poblano Corn Chowder: 5.17
-  Ancho Chile Chicken Salad: 8.29
-  Braised Beef Barbacoa Tacos: 8.96
-  Sweet Plantain Empanadas: 5.33
-  Pineapple Salsa Shrimp Tacos: 9.3
-  Avocado Street Tacos: 7.42
-  Fiesta Street Corn: 2.87
-  Black Bean Taco Bowl: 6.47
+  Classic Horchata Smoothie: 3.5
+  Pumpkin Spice Churros: 3.77
+  Horchata Iced Latte: 3.57
+  Zesty Lime Grilled Chicken: 12.19
+  Loaded Nacho Fiesta: 6.73
+  Chili Lime Margarita: 5.95
+  Avocado Lime Crema Tostadas: 7.81
+  Fresh Lime Cilantro Rice: 2.12
+  Green Chile Cheesesteak: 9.99
+  Black Bean and Corn Fiesta Salad: 5.33
+  Tamale Pie Casserole: 10.91
+  Crispy Carnitas Quesadilla: 7.21
+  Tex-Mex Breakfast Skillet: 5.84
+  Vanilla Flan with Caramel Sauce: 5.35

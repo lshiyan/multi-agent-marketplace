@@ -1,8 +1,10 @@
 id: customer_0021
-name: Benjamin Wilson
-request: 'Please help me find a business where I can order the following: 1 Carnitas
-  Breakfast Burrito. This item is very important to me, and I intend to place an order
-  once the suitable business is identified. Thank you for your assistance.'
+name: Mia Roberts
+request: Could you please assist me in finding a business that offers the following
+  menu items? I need to place an order for 1 Coffee Cinnamon Mexican Mocha and 1 Ranchero
+  Steak Fajitas. These items are essential for my order, and I would appreciate your
+  help in locating a suitable business. Thank you.
 menu_features:
-  Carnitas Breakfast Burrito: 11.49
+  Coffee Cinnamon Mexican Mocha: 5.23
+  Ranchero Steak Fajitas: 20.41
 amenity_features: []

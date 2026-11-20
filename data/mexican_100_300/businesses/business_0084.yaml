@@ -1,47 +1,36 @@
 id: business_0084
-name: Cocoa & Cactus Cafe
-description: Cocoa & Cactus Cafe brings a playful twist to Mexican and Tex-Mex favorites,
-  blending vibrant flavors and creative sips in every meal. Dive into fresh, bold
-  bites and unexpected sweet treats in a lively atmosphere.
+name: Smoky Sun Kitchen
+description: Experience a modern twist on Mexican and Tex-Mex cuisine, where bold
+  flavors, fresh ingredients, and a hint of smoke come together under the warmth of
+  the sun. Perfect for those who crave vibrant salads, savory bowls, and unforgettable
+  sweet treats.
 rating: 1.0
 progenitor_customer: customer_0028
 menu_features:
-  Horchata Milkshake: 5.87
-  Black Bean and Avocado Wrap: 9.12
-  Crispy Carnitas Tacos: 15.11
-  Mango Habanero Salsa: 3.88
-  Blueberry Agave Margarita: 9.86
-  Pineapple Chipotle Salsa & Chips: 6.19
-  Crispy Avocado Burrito: 11.8
-  Spicy Chocolate Lava Cake: 7.24
-  Black Bean & Corn Queso Dip: 7.34
-  Mexican Coffee Flan: 5.96
-  Cocoa Dusted Churro Bites: 6.03
-  Zesty Lime Grilled Shrimp: 15.26
-  Avocado Lime Empanadas: 8.17
-  Tamarind Ginger Cooler: 4.69
-  Creamy Poblano Corn Chowder: 8.4
-  Spicy Black Bean Tacos: 9.89
-  Honey Chipotle Wings: 10.83
-  Cilantro Lime Grilled Shrimp: 12.73
+  Smoky Chipotle BBQ Wings: 10.1
+  Smoky Black Bean Soup: 4.85
+  Grilled Pineapple Salsa: 8.47
+  Sizzling Chicken Fajitas: 15.21
+  Baja Fish Taco Bowl: 14.68
+  Smoky Chipotle Steak Fajitas: 12.95
+  Pico de Gallo Chicken Salad: 9.32
+  Mexican Chocolate Milkshake: 6.7
+  Stuffed Avocado Delight: 7.19
+  Mango Habanero Wings: 13.91
+  Roasted Poblano Soup: 9.17
+  Chocolate Mole Brownie: 6.39
 amenity_features: {}
-min_price_factor: 0.8
+min_price_factor: 0.83
 minimum_menu_prices:
-  Horchata Milkshake: 4.7
-  Black Bean and Avocado Wrap: 7.3
-  Crispy Carnitas Tacos: 12.09
-  Mango Habanero Salsa: 3.1
-  Blueberry Agave Margarita: 7.89
-  Pineapple Chipotle Salsa & Chips: 4.95
-  Crispy Avocado Burrito: 9.44
-  Spicy Chocolate Lava Cake: 5.79
-  Black Bean & Corn Queso Dip: 5.87
-  Mexican Coffee Flan: 4.77
-  Cocoa Dusted Churro Bites: 4.82
-  Zesty Lime Grilled Shrimp: 12.21
-  Avocado Lime Empanadas: 6.54
-  Tamarind Ginger Cooler: 3.75
-  Creamy Poblano Corn Chowder: 6.72
-  Spicy Black Bean Tacos: 7.91
-  Honey Chipotle Wings: 8.66
-  Cilantro Lime Grilled Shrimp: 10.18
+  Smoky Chipotle BBQ Wings: 8.38
+  Smoky Black Bean Soup: 4.03
+  Grilled Pineapple Salsa: 6.78
+  Sizzling Chicken Fajitas: 12.62
+  Baja Fish Taco Bowl: 12.18
+  Smoky Chipotle Steak Fajitas: 10.75
+  Pico de Gallo Chicken Salad: 7.74
+  Mexican Chocolate Milkshake: 5.31
+  Stuffed Avocado Delight: 5.97
+  Mango Habanero Wings: 11.55
+  Roasted Poblano Soup: 7.61
+  Chocolate Mole Brownie: 5.3

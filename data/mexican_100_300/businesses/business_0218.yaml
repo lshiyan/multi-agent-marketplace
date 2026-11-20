@@ -1,41 +1,41 @@
 id: business_0218
-name: Sabores del Encanto
-description: Discover a vibrant blend of Mexican and Tex-Mex classics in a warm, inviting
-  setting. Enjoy creative plates, fresh salads, bold flavors, and unique house-made
-  drinks and sweets.
+name: Pepper & Palate
+description: Pepper & Palate is a vibrant Mexican and Tex-Mex restaurant serving up
+  a bold blend of fresh flavors, zesty salsas, and creative plates. Experience lively
+  tastes and friendly hospitality in a welcoming setting.
 rating: 1.0
 progenitor_customer: customer_0073
 menu_features:
-  Loaded Nacho Platter: 10.53
-  Crispy Chicken Tostada Bowls: 13.43
-  Breakfast Burrito Supreme: 9.53
-  Roasted Corn and Avocado Salad: 8.54
-  Blueberry Jalapeno Lemonade: 4.0
-  Tamale Pie Casserole: 13.7
-  Black Bean Crunch Wrap: 10.76
-  Black Bean & Corn Enchiladas: 8.87
-  Creamy Queso Dip: 6.87
-  Zesty Shrimp Ceviche: 13.72
-  Avocado Lime Salad: 9.22
-  Coconut Lime Paleta: 3.54
-  Margarita Lime Cheesecake: 8.66
-  Grilled Shrimp Skewers: 12.66
-  Classic Horchata Smoothie: 4.7
+  Shrimp and Avocado Ceviche: 12.94
+  Spicy Chipotle Chicken Wings: 9.52
+  Black Bean Burgers: 10.22
+  Grilled Shrimp Fajita Bowl: 14.75
+  Pineapple Chipotle Salsa & Chips: 6.86
+  Classic Tortilla Soup: 6.28
+  Cucumber Jalapeno Agua Fresca: 3.82
+  Zesty Lime Chicken Enchiladas: 11.13
+  Zesty Lime Grilled Chicken: 15.0
+  Lime-Garlic Grilled Chicken: 14.01
+  Crispy Avocado Wedges: 7.93
+  Loaded Chorizo Nachos: 8.77
+  Mango Jalapeno Salsa and Chips: 5.46
+  Chocolate Molten Tamale: 4.78
+  Ultimate Nacho Platter: 6.98
 amenity_features: {}
-min_price_factor: 0.73
+min_price_factor: 0.64
 minimum_menu_prices:
-  Loaded Nacho Platter: 7.69
-  Crispy Chicken Tostada Bowls: 9.8
-  Breakfast Burrito Supreme: 6.96
-  Roasted Corn and Avocado Salad: 6.23
-  Blueberry Jalapeno Lemonade: 2.92
-  Tamale Pie Casserole: 10.0
-  Black Bean Crunch Wrap: 7.85
-  Black Bean & Corn Enchiladas: 6.48
-  Creamy Queso Dip: 5.02
-  Zesty Shrimp Ceviche: 10.02
-  Avocado Lime Salad: 6.73
-  Coconut Lime Paleta: 2.58
-  Margarita Lime Cheesecake: 6.32
-  Grilled Shrimp Skewers: 9.24
-  Classic Horchata Smoothie: 3.43
+  Shrimp and Avocado Ceviche: 8.28
+  Spicy Chipotle Chicken Wings: 6.09
+  Black Bean Burgers: 6.54
+  Grilled Shrimp Fajita Bowl: 9.44
+  Pineapple Chipotle Salsa & Chips: 4.39
+  Classic Tortilla Soup: 4.02
+  Cucumber Jalapeno Agua Fresca: 2.44
+  Zesty Lime Chicken Enchiladas: 8.88
+  Zesty Lime Grilled Chicken: 9.6
+  Lime-Garlic Grilled Chicken: 8.97
+  Crispy Avocado Wedges: 5.08
+  Loaded Chorizo Nachos: 5.61
+  Mango Jalapeno Salsa and Chips: 3.49
+  Chocolate Molten Tamale: 4.78
+  Ultimate Nacho Platter: 6.23

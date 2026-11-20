@@ -1,45 +1,38 @@
 id: business_0267
-name: Citrus & Cilantro Cantina
-description: Fresh flavors meet bold spices at Citrus & Cilantro Cantina, where every
-  dish is crafted with vibrant ingredients and a zest for tradition. Experience Tex-Mex
-  favorites and refreshing drinks in a lively, welcoming atmosphere.
+name: 'Grill Power: Tex-Mex & More'
+description: Ignite your appetite with bold, vibrant Tex-Mex flavors where veggies,
+  sizzled meats, and southwest-inspired bites come together in every colorful dish.
+  Sip a fresh margarita and savor sweet, spicy, and smoky creations wrapped in friendly,
+  lively vibes.
 rating: 1.0
 progenitor_customer: customer_0089
 menu_features:
-  Pico de Gallo Chicken Salad: 11.84
-  Tequila Sunrise Smoothie: 8.99
-  Smoky Chipotle BBQ Wings: 10.24
-  Three-Cheese Chile Rellenos: 12.28
-  Coconut Lime Margarita: 10.28
-  Honey Lime Chicken Skewers: 12.24
-  Poblano Pepper Relleno Plate: 14.26
-  Spice-Rubbed Grilled Fajitas: 12.01
-  Avocado Lime Salsa: 5.06
-  Zesty Lime Grilled Chicken: 12.02
-  Breakfast Burrito Supreme: 10.37
-  Classic Beef Tacos with Zesty Slaw: 12.87
-  Warm Cinnamon Churros: 4.82
-  Creamy Chipotle Pasta: 11.5
-  Crispy Avocado Fritters: 8.69
-  Blue Agave Tequila Sunrise: 9.2
-  Roasted Tomato Salsa Dip: 2.93
+  Sunset Grilled Veggie Tacos: 13.76
+  Southwestern Quinoa Salad: 9.85
+  Roasted Pumpkin Tamale: 7.83
+  Molten Queso Fundido: 8.81
+  Stuffed Poblano Peppers: 13.7
+  Black Bean and Avocado Wrap: 10.86
+  Avocado Ranch Burrito Bowl: 12.03
+  Jalapeno Mango Margarita: 8.23
+  Grilled Pineapple Dessert Quesadilla: 7.18
+  Breakfast Burrito Bonanza: 8.53
+  Sizzling Chicken Fajitas: 14.25
+  Sizzling Beef Alambre: 12.7
+  Raspberry Jalapeno Mojito: 8.86
 amenity_features: {}
-min_price_factor: 0.6
+min_price_factor: 0.75
 minimum_menu_prices:
-  Pico de Gallo Chicken Salad: 7.1
-  Tequila Sunrise Smoothie: 5.39
-  Smoky Chipotle BBQ Wings: 6.14
-  Three-Cheese Chile Rellenos: 7.37
-  Coconut Lime Margarita: 6.17
-  Honey Lime Chicken Skewers: 7.34
-  Poblano Pepper Relleno Plate: 8.56
-  Spice-Rubbed Grilled Fajitas: 7.21
-  Avocado Lime Salsa: 3.04
-  Zesty Lime Grilled Chicken: 7.21
-  Breakfast Burrito Supreme: 6.22
-  Classic Beef Tacos with Zesty Slaw: 7.72
-  Warm Cinnamon Churros: 2.89
-  Creamy Chipotle Pasta: 6.9
-  Crispy Avocado Fritters: 5.21
-  Blue Agave Tequila Sunrise: 5.52
-  Roasted Tomato Salsa Dip: 1.76
+  Sunset Grilled Veggie Tacos: 10.32
+  Southwestern Quinoa Salad: 7.39
+  Roasted Pumpkin Tamale: 5.87
+  Molten Queso Fundido: 6.61
+  Stuffed Poblano Peppers: 10.39
+  Black Bean and Avocado Wrap: 8.14
+  Avocado Ranch Burrito Bowl: 9.02
+  Jalapeno Mango Margarita: 6.17
+  Grilled Pineapple Dessert Quesadilla: 5.38
+  Breakfast Burrito Bonanza: 6.4
+  Sizzling Chicken Fajitas: 10.69
+  Sizzling Beef Alambre: 9.52
+  Raspberry Jalapeno Mojito: 6.64

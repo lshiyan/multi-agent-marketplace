@@ -1,35 +1,35 @@
 id: business_0169
-name: Mezcal & Mornings
-description: Wake up your cravings with bold, smoky flavors and vibrant twists on
-  Mexican and Tex-Mex classics. From sunrise sips to sizzling grills, every meal here
-  is a fiesta for the senses.
+name: Casa de la Llama y Lima
+description: Experience a fresh spin on classic Mexican and Tex-Mex fare, blending
+  bold flavors and zesty ingredients in a vibrant setting. Enjoy house-crafted cocktails
+  and creative bites prepared with a modern twist.
 rating: 1.0
 progenitor_customer: customer_0057
 menu_features:
-  Smoky Mezcal Mule: 9.05
-  Twisted Tequila Sunrise: 8.69
-  Cactus Jack Quesadilla: 11.69
-  Chipotle Lime Shrimp Skewers: 13.33
-  Mesquite Grilled Steak Fajitas: 15.15
-  Breakfast Chilaquiles Verde: 11.39
-  Grilled Street Corn: 4.33
-  Huevos Rancheros: 9.42
-  Loaded Nacho Fiesta: 10.45
-  Crispy Tinga Chicken Tacos: 8.23
-  Grilled Shrimp Quesadilla: 12.21
-  Roasted Pumpkin Tamale: 5.75
+  Chipotle Lime Chicken Skewers: 13.67
+  Black Bean Sweet Potato Burrito: 10.44
+  Tequila Sunrise Smoothie: 7.33
+  Blueberry Agave Mojito: 7.52
+  Crispy Avocado Nachos: 6.26
+  Tequila Lime Flan: 8.23
+  Black Bean and Corn Salsa: 7.67
+  Pineapple Jalapeno Sangria: 8.52
+  Roasted Corn and Black Bean Salsa: 7.07
+  Creamy Chipotle Pasta: 11.51
+  Tamarind Ginger Cooler: 4.48
+  Classic Beef Enchiladas: 13.69
 amenity_features: {}
-min_price_factor: 0.64
+min_price_factor: 0.85
 minimum_menu_prices:
-  Smoky Mezcal Mule: 5.79
-  Twisted Tequila Sunrise: 5.56
-  Cactus Jack Quesadilla: 7.48
-  Chipotle Lime Shrimp Skewers: 8.53
-  Mesquite Grilled Steak Fajitas: 9.7
-  Breakfast Chilaquiles Verde: 7.29
-  Grilled Street Corn: 2.77
-  Huevos Rancheros: 6.03
-  Loaded Nacho Fiesta: 6.69
-  Crispy Tinga Chicken Tacos: 5.27
-  Grilled Shrimp Quesadilla: 7.81
-  Roasted Pumpkin Tamale: 3.68
+  Chipotle Lime Chicken Skewers: 11.62
+  Black Bean Sweet Potato Burrito: 8.87
+  Tequila Sunrise Smoothie: 6.23
+  Blueberry Agave Mojito: 6.39
+  Crispy Avocado Nachos: 5.32
+  Tequila Lime Flan: 7.0
+  Black Bean and Corn Salsa: 4.23
+  Pineapple Jalapeno Sangria: 7.24
+  Roasted Corn and Black Bean Salsa: 6.01
+  Creamy Chipotle Pasta: 9.78
+  Tamarind Ginger Cooler: 3.81
+  Classic Beef Enchiladas: 11.64

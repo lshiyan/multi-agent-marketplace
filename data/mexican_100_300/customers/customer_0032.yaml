@@ -1,12 +1,8 @@
 id: customer_0032
-name: Benjamin Clark
-request: 'I am looking to place an order with a business that can provide the following
-  menu items: 1 Caramelized Onion Queso Dip, 1 Adobo Roasted Corn Salad, and 1 Classic
-  Tortilla Soup. It''s important to me that all of these items are available. Could
-  you please find such a business for me, as I intend to proceed with this order?
-  Thank you.'
+name: Chloe Garcia
+request: Could you please find and connect me with a business that offers the 'Gourmet
+  Nacho Platter'? I would like to place an order for one of these. Thank you for your
+  assistance.
 menu_features:
-  Caramelized Onion Queso Dip: 7.49
-  Adobo Roasted Corn Salad: 8.49
-  Classic Tortilla Soup: 6.49
+  Gourmet Nacho Platter: 13.52
 amenity_features: []

@@ -1,10 +1,8 @@
 id: customer_0091
-name: Zoe Murphy
-request: Could you please find a business that offers the following menu items and
-  assist me in placing an order? I need 1 Passion Fruit Agua Fresca, 1 Black Bean
-  and Lime Soup, and 1 Black Bean and Corn Salsa. Thank you.
+name: Henry Chen
+request: 'Please find a business where I can place an order for the following item:
+  1 Guava Limeade Cooler. It is important that the business can fulfill this specific
+  order. Thank you!'
 menu_features:
-  Passion Fruit Agua Fresca: 3.99
-  Black Bean and Lime Soup: 6.99
-  Black Bean and Corn Salsa: 4.99
+  Guava Limeade Cooler: 9.0
 amenity_features: []

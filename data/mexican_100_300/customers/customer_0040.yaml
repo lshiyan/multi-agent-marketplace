@@ -1,9 +1,11 @@
 id: customer_0040
-name: Lucas Gonzalez
-request: 'I would like to place an order for the following menu items: 1 Twisted Tequila
-  Sunrise and 1 Pineapple Chipotle Pork. Please find a business that can fulfill this
-  order exactly as specified, as it is very important to me. Thank you.'
+name: Charlotte Morris
+request: "Could you please find a business where I can place an order with the following\
+  \ items: 1 Chocolate Tamale Cake, 1 Coconut Horchata Latt\xE9, and 1 Beef Barbacoa\
+  \ Tostadas? It is important that the business offers all these items as I intend\
+  \ to purchase them. Thank you very much for your assistance."
 menu_features:
-  Twisted Tequila Sunrise: 8.49
-  Pineapple Chipotle Pork: 14.29
+  Chocolate Tamale Cake: 7.41
+  "Coconut Horchata Latt\xE9": 4.25
+  Beef Barbacoa Tostadas: 14.06
 amenity_features: []

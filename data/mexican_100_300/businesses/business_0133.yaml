@@ -1,35 +1,45 @@
 id: business_0133
-name: La Plazita Mexicana
-description: La Plazita Mexicana offers a fresh take on classic Mexican and Tex-Mex
-  cuisine, blending vibrant flavors and seasonal ingredients. Enjoy a welcoming atmosphere
-  and a delicious variety of handcrafted dishes and refreshing drinks.
+name: Chipotle Grove Kitchen
+description: Discover bold, modern Mexican and Tex-Mex flavors in a vibrant, welcoming
+  space. Enjoy a fresh twist on classic dishes, signature cocktails, and seasonal
+  specialties.
 rating: 1.0
 progenitor_customer: customer_0045
 menu_features:
-  Fresh Lime Cilantro Rice: 3.65
-  Crisp Jicama Slaw: 4.29
-  Loaded Nacho Bowl: 9.36
-  Caramelized Onion and Goat Cheese Empanadas: 7.22
-  Black Bean and Sweet Potato Empanadas: 13.42
-  Grilled Pineapple and Shrimp Salad: 12.74
-  Vanilla Cinnamon Horchata: 3.33
-  Breakfast Burrito Bowl: 8.31
-  Verde Ranchero Huevos: 8.85
-  Pumpkin Spice Flan: 6.24
-  Three Cheese Sope: 9.69
-  Fresh Limeade: 3.73
+  Poblano Pepper Relleno Plate: 11.93
+  Spicy Pineapple Chipotle Margarita: 8.66
+  Sweet Corn Tostadas: 8.73
+  Grilled Chipotle Chicken Burrito: 9.51
+  Mango Habanero Wings: 12.57
+  Crispy Avocado Tostadas: 12.73
+  Tamale Trio Platter: 19.37
+  Passion Fruit Mojito: 9.26
+  Jalapeno Mango Margarita: 9.39
+  Black Bean and Corn Fiesta Salad: 8.78
+  Sizzling Fajita Skillet: 16.92
+  Tamale Trio Sampler: 11.34
+  Spicy Avocado Burger: 11.01
+  Grilled Pineapple Mojito: 9.45
+  Smoky Chipotle BBQ Wings: 11.59
+  Creamy Chipotle Pasta: 11.05
+  Smoky Ancho Chicken Enchiladas: 12.94
 amenity_features: {}
-min_price_factor: 0.67
+min_price_factor: 0.93
 minimum_menu_prices:
-  Fresh Lime Cilantro Rice: 2.45
-  Crisp Jicama Slaw: 2.87
-  Loaded Nacho Bowl: 6.27
-  Caramelized Onion and Goat Cheese Empanadas: 4.84
-  Black Bean and Sweet Potato Empanadas: 8.99
-  Grilled Pineapple and Shrimp Salad: 8.54
-  Vanilla Cinnamon Horchata: 2.23
-  Breakfast Burrito Bowl: 5.57
-  Verde Ranchero Huevos: 5.93
-  Pumpkin Spice Flan: 4.18
-  Three Cheese Sope: 6.49
-  Fresh Limeade: 2.5
+  Poblano Pepper Relleno Plate: 10.5
+  Spicy Pineapple Chipotle Margarita: 8.05
+  Sweet Corn Tostadas: 8.12
+  Grilled Chipotle Chicken Burrito: 8.84
+  Mango Habanero Wings: 11.69
+  Crispy Avocado Tostadas: 11.84
+  Tamale Trio Platter: 18.01
+  Passion Fruit Mojito: 8.61
+  Jalapeno Mango Margarita: 8.73
+  Black Bean and Corn Fiesta Salad: 8.17
+  Sizzling Fajita Skillet: 15.74
+  Tamale Trio Sampler: 10.55
+  Spicy Avocado Burger: 9.64
+  Grilled Pineapple Mojito: 8.79
+  Smoky Chipotle BBQ Wings: 10.78
+  Creamy Chipotle Pasta: 10.28
+  Smoky Ancho Chicken Enchiladas: 12.03

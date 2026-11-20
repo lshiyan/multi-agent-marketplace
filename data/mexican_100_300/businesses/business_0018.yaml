@@ -1,44 +1,43 @@
 id: business_0018
-name: Wrap & Roll Fiesta
-description: Bright flavors meet bold creativity at Wrap & Roll Fiesta, where Tex-Mex
-  favorites are reimagined with a fresh, modern twist. Dive into a vibrant mix of
-  sizzling wraps, crave-worthy dips, zesty salads, and refreshing drinks all crafted
-  for a fiesta in every bite.
+name: Guac n' Awe
+description: Experience bold flavors and inventive twists on classic Mexican and Tex-Mex
+  fare in a vibrant, laid-back setting. From zesty shrimp to sizzling, spicy specialties
+  and refreshing beverages, every bite is sure to surprise and delight.
 rating: 1.0
 progenitor_customer: customer_0006
 menu_features:
-  Tropical Pineapple Salsa: 3.68
-  Molten Queso Fundido: 5.8
-  Black Bean and Avocado Wrap: 11.22
-  Tex-Mex Fajita Wrap: 12.51
-  Smoky Chipotle Black Bean Soup: 8.49
-  Loaded Nachos Grande: 10.87
-  Tomatillo Salsa Verde Nachos: 6.0
-  Three-Cheese Queso Dip: 7.75
-  Beef Enchiladas Verdes: 11.33
-  Fresh Watermelon Aqua Fresca: 4.15
-  Ancho Chile Chicken Salad: 11.87
-  Chipotle Lime Shrimp Skewers: 15.11
-  Ranchero Eggs Benedict: 13.81
-  Creamy Queso Dip: 6.09
-  Crispy Avocado Tostadas: 12.59
-  Baja Shrimp Quesadilla: 12.14
+  Honey-Lime Shrimp Skewers: 17.29
+  Raspberry Jalapeno Mojito: 7.84
+  Black Bean Crunch Wrap: 8.36
+  Grilled Pineapple Dessert Quesadilla: 10.91
+  Cilantro Lime Shrimp Skewers: 12.17
+  Spicy Avocado Burger: 12.4
+  Flamin' Skillet Fajitas: 13.26
+  Cilantro Lime Rice Bowl: 10.21
+  Sizzling Fajita Plate: 12.13
+  Spiked Horchata Cooler: 7.98
+  Ancho Honey-Glazed Salmon: 16.88
+  Hibiscus Agua Fresca: 2.47
+  Stuffed Avocado Delight: 8.71
+  Chipotle Bourbon Carnitas: 16.25
+  Zesty Shrimp Quesadillas: 13.44
+  Horchata Latte: 5.04
 amenity_features: {}
-min_price_factor: 0.83
+min_price_factor: 0.71
 minimum_menu_prices:
-  Tropical Pineapple Salsa: 3.05
-  Molten Queso Fundido: 4.81
-  Black Bean and Avocado Wrap: 9.31
-  Tex-Mex Fajita Wrap: 10.38
-  Smoky Chipotle Black Bean Soup: 7.05
-  Loaded Nachos Grande: 9.02
-  Tomatillo Salsa Verde Nachos: 4.98
-  Three-Cheese Queso Dip: 6.43
-  Beef Enchiladas Verdes: 9.4
-  Fresh Watermelon Aqua Fresca: 3.44
-  Ancho Chile Chicken Salad: 9.85
-  Chipotle Lime Shrimp Skewers: 12.54
-  Ranchero Eggs Benedict: 11.46
-  Creamy Queso Dip: 5.05
-  Crispy Avocado Tostadas: 10.45
-  Baja Shrimp Quesadilla: 10.08
+  Honey-Lime Shrimp Skewers: 12.28
+  Raspberry Jalapeno Mojito: 5.57
+  Black Bean Crunch Wrap: 5.94
+  Grilled Pineapple Dessert Quesadilla: 7.75
+  Cilantro Lime Shrimp Skewers: 8.64
+  Spicy Avocado Burger: 9.02
+  Flamin' Skillet Fajitas: 9.41
+  Cilantro Lime Rice Bowl: 7.25
+  Sizzling Fajita Plate: 8.61
+  Spiked Horchata Cooler: 5.67
+  Ancho Honey-Glazed Salmon: 11.98
+  Hibiscus Agua Fresca: 1.97
+  Stuffed Avocado Delight: 6.18
+  Chipotle Bourbon Carnitas: 11.54
+  Zesty Shrimp Quesadillas: 9.54
+  Horchata Latte: 3.58

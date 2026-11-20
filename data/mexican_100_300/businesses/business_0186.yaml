@@ -1,43 +1,41 @@
 id: business_0186
-name: La Parrilla Aurora
-description: Experience vibrant Mexican and Tex-Mex flavors in a lively, welcoming
-  atmosphere. Enjoy fresh grilled specialties and thoughtfully crafted cocktails inspired
-  by both tradition and seasonal produce.
+name: Skewered & Sauced
+description: Dive into a playful blend of vibrant Mexican and Tex-Mex flavors, where
+  every plate comes sizzling and every bite is sauced to perfection. From zesty skewers
+  to decadent desserts, it's a fiesta for your tastebuds!
 rating: 1.0
 progenitor_customer: customer_0062
 menu_features:
-  Roasted Poblano Veggie Skillet: 9.36
-  Spicy Mango Margarita: 8.14
-  Garlic Lime Shrimp Salad: 15.13
-  Tex-Mex Fajita Wrap: 11.21
-  Pineapple Jalapeno Sangria: 9.5
-  Grilled Steak Fajita Platter: 16.29
-  Creamy Queso Dip: 8.06
-  Tropical Pineapple Salsa: 3.16
-  Fresh Watermelon Aqua Fresca: 4.04
-  Spicy Black Bean Nacho Platter: 10.26
-  Sweet Potato and Black Bean Tacos: 11.46
-  Baja Fish Taco Plate: 13.65
-  Zesty Lime Chicken Enchiladas: 10.84
-  Cinnamon Sugar Sopapillas: 4.55
-  Pineapple Habanero Margarita: 11.47
-  Chipotle Lime Shrimp Tacos: 14.36
+  Vanilla Flan Delight: 5.7
+  Honey-Lime Grilled Salmon: 16.91
+  Sizzling Fajita Skillet: 17.2
+  Loaded Chorizo Nachos: 10.37
+  Choco Flan Combo: 6.34
+  Mango Habanero Margarita: 12.35
+  Avocado Lime Grilled Shrimp: 14.27
+  Honey Lime Chicken Fajitas: 15.88
+  Baja Fish Tacos: 10.8
+  Honey-Lime Shrimp Skewers: 15.48
+  Agave Lime Chicken Skewers: 10.75
+  Mexican Hot Chocolate: 5.39
+  Mexican Chocolate Brownie: 4.7
+  Spicy Pineapple Salsa Dip: 6.54
+  Sizzling Pork Carnitas Bowl: 15.11
 amenity_features: {}
-min_price_factor: 0.74
+min_price_factor: 0.77
 minimum_menu_prices:
-  Roasted Poblano Veggie Skillet: 6.93
-  Spicy Mango Margarita: 6.02
-  Garlic Lime Shrimp Salad: 11.2
-  Tex-Mex Fajita Wrap: 8.3
-  Pineapple Jalapeno Sangria: 7.03
-  Grilled Steak Fajita Platter: 12.05
-  Creamy Queso Dip: 5.96
-  Tropical Pineapple Salsa: 2.34
-  Fresh Watermelon Aqua Fresca: 2.99
-  Spicy Black Bean Nacho Platter: 7.59
-  Sweet Potato and Black Bean Tacos: 8.48
-  Baja Fish Taco Plate: 10.1
-  Zesty Lime Chicken Enchiladas: 8.02
-  Cinnamon Sugar Sopapillas: 3.37
-  Pineapple Habanero Margarita: 8.49
-  Chipotle Lime Shrimp Tacos: 10.63
+  Vanilla Flan Delight: 4.07
+  Honey-Lime Grilled Salmon: 13.02
+  Sizzling Fajita Skillet: 13.24
+  Loaded Chorizo Nachos: 7.98
+  Choco Flan Combo: 4.88
+  Mango Habanero Margarita: 9.51
+  Avocado Lime Grilled Shrimp: 10.99
+  Honey Lime Chicken Fajitas: 12.23
+  Baja Fish Tacos: 8.32
+  Honey-Lime Shrimp Skewers: 11.92
+  Agave Lime Chicken Skewers: 8.28
+  Mexican Hot Chocolate: 4.15
+  Mexican Chocolate Brownie: 3.62
+  Spicy Pineapple Salsa Dip: 4.71
+  Sizzling Pork Carnitas Bowl: 11.63

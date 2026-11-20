@@ -1,39 +1,37 @@
 id: business_0076
-name: Crave Cantina
-description: Crave Cantina brings a fresh, vibrant twist to Mexican and Tex-Mex classics,
-  featuring bold flavors, sizzling platters, and refreshing drinks in a lively, modern
-  space. Satisfy your cravings with inventive dishes and a welcoming atmosphere.
+name: Poblano Paradise
+description: Step into a vibrant haven where fresh flavors, creative margaritas, and
+  garden-inspired dishes take center stage. Unwind with a unique twist on Mexican
+  and Tex-Mex favorites in a colorful, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0026
 menu_features:
-  Honey-Lime Grilled Salmon: 13.13
-  Sizzling Fajita Platter: 18.66
-  Flan with Caramel Drizzle: 6.24
-  Tequila Lime Shrimp Skewers: 17.29
-  Hatch Green Chile Stew: 14.41
-  Grilled Steak Fajita Platter: 17.34
-  Classic Mojito with Mint: 8.97
-  Honey Lime Fajita Sizzlers: 17.92
-  Crispy Avocado Bites: 7.32
-  Adobo Pork Sliders: 11.26
-  Spicy Chipotle Chicken Wings: 9.27
-  Pico Avocado Toast: 9.05
-  Baja Fish Tacos: 14.06
-  Citrus Cilantro Rice: 5.98
+  Tropical Coconut Margarita: 8.48
+  Stuffed Chicken Poblano: 16.07
+  Creamy Queso Dip: 5.25
+  Black Bean Chili Bowl: 8.38
+  Spicy Cucumber Margarita: 9.46
+  Crispy Avocado Bites: 7.67
+  Blueberry Hibiscus Margarita: 10.59
+  Roasted Pumpkin Tamale: 6.03
+  Stuffed Poblano Pepper Delight: 10.06
+  Breakfast Tostada Stack: 9.93
+  Roasted Poblano Quesadilla: 11.3
+  Avocado Lime Grilled Shrimp: 14.89
+  Grilled Avocado and Quinoa Bowl: 11.51
 amenity_features: {}
-min_price_factor: 0.66
+min_price_factor: 0.86
 minimum_menu_prices:
-  Honey-Lime Grilled Salmon: 8.67
-  Sizzling Fajita Platter: 12.32
-  Flan with Caramel Drizzle: 4.12
-  Tequila Lime Shrimp Skewers: 11.41
-  Hatch Green Chile Stew: 9.51
-  Grilled Steak Fajita Platter: 11.44
-  Classic Mojito with Mint: 5.92
-  Honey Lime Fajita Sizzlers: 11.83
-  Crispy Avocado Bites: 4.83
-  Adobo Pork Sliders: 7.43
-  Spicy Chipotle Chicken Wings: 6.12
-  Pico Avocado Toast: 5.97
-  Baja Fish Tacos: 9.28
-  Citrus Cilantro Rice: 3.95
+  Tropical Coconut Margarita: 7.29
+  Stuffed Chicken Poblano: 13.82
+  Creamy Queso Dip: 4.51
+  Black Bean Chili Bowl: 7.21
+  Spicy Cucumber Margarita: 8.14
+  Crispy Avocado Bites: 6.6
+  Blueberry Hibiscus Margarita: 6.65
+  Roasted Pumpkin Tamale: 5.19
+  Stuffed Poblano Pepper Delight: 8.65
+  Breakfast Tostada Stack: 8.54
+  Roasted Poblano Quesadilla: 9.72
+  Avocado Lime Grilled Shrimp: 12.81
+  Grilled Avocado and Quinoa Bowl: 9.9

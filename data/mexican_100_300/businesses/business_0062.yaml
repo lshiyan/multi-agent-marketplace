@@ -1,35 +1,39 @@
 id: business_0062
-name: "Saz\xF3n & Shrimp"
-description: Discover vibrant, modern Mexican and Tex-Mex cuisine with bold flavors,
-  fresh ingredients, and creative twists on classic favorites. Perfect for anyone
-  craving a lively dining experience with a touch of coastal flair.
+name: Holy Guacamole & Mocha
+description: A playful Tex-Mex eatery serving up bold flavors, creative cocktails,
+  and sweet treats in a vibrant, friendly setting. Enjoy signature tacos, hearty specialties,
+  and artisan coffee drinks for a delicious twist on tradition.
 rating: 1.0
 progenitor_customer: customer_0021
 menu_features:
-  Avocado Lime Grilled Shrimp: 11.32
-  Avocado Lime Empanadas: 8.04
-  Adobo Pork Sliders: 11.21
-  Blueberry Agave Agua Fresca: 4.55
-  Coconut Tres Leches: 6.6
-  Vanilla Flan Delight: 4.98
-  Ranchero Steak Fajitas: 14.74
-  Cinnamon Sugar Churro Sticks: 5.74
-  Carnitas Breakfast Burrito: 11.9
-  Queso Fundido Supreme: 8.19
-  Chocolate Mole Brownie: 5.95
-  Three Cheese Sope: 7.78
+  Coffee Cinnamon Mexican Mocha: 3.01
+  Sizzling Beef Alambre: 16.83
+  Avocado Street Tacos: 12.73
+  Spicy Pineapple Chipotle Margarita: 7.74
+  Crispy Avocado and Lime Tacos: 8.38
+  Ancho Honey-Glazed Salmon: 18.37
+  Hatch Green Chile Stew: 9.04
+  Tequila Lime Flan: 7.16
+  Cocoa Dusted Churro Bites: 6.0
+  Ranchero Steak Fajitas: 16.72
+  Smoky Black Bean Nachos: 12.03
+  Cucumber Jalapeno Agua Fresca: 4.4
+  Creamy Poblano Corn Chowder: 9.09
+  Roasted Pecan Flan: 6.31
 amenity_features: {}
-min_price_factor: 0.86
+min_price_factor: 0.61
 minimum_menu_prices:
-  Avocado Lime Grilled Shrimp: 9.74
-  Avocado Lime Empanadas: 6.91
-  Adobo Pork Sliders: 9.64
-  Blueberry Agave Agua Fresca: 3.91
-  Coconut Tres Leches: 5.68
-  Vanilla Flan Delight: 4.28
-  Ranchero Steak Fajitas: 12.68
-  Cinnamon Sugar Churro Sticks: 4.94
-  Carnitas Breakfast Burrito: 10.23
-  Queso Fundido Supreme: 7.04
-  Chocolate Mole Brownie: 5.12
-  Three Cheese Sope: 6.69
+  Coffee Cinnamon Mexican Mocha: 3.01
+  Sizzling Beef Alambre: 10.27
+  Avocado Street Tacos: 7.77
+  Spicy Pineapple Chipotle Margarita: 4.72
+  Crispy Avocado and Lime Tacos: 5.11
+  Ancho Honey-Glazed Salmon: 11.21
+  Hatch Green Chile Stew: 5.51
+  Tequila Lime Flan: 4.37
+  Cocoa Dusted Churro Bites: 3.66
+  Ranchero Steak Fajitas: 12.6
+  Smoky Black Bean Nachos: 7.34
+  Cucumber Jalapeno Agua Fresca: 2.68
+  Creamy Poblano Corn Chowder: 5.54
+  Roasted Pecan Flan: 3.85

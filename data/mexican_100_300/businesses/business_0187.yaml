@@ -1,44 +1,39 @@
 id: business_0187
-name: "La Mesa del Ma\xEDz Negro"
-description: "Experience a colorful and inviting take on classic Mexican and Tex-Mex\
-  \ flavors, from bold chili bowls to vibrant street food favorites. La Mesa del Ma\xED\
-  z Negro offers a lively atmosphere perfect for enjoying fresh salsas, smoky spices,\
-  \ and sweet treats."
+name: Citrus Coast Cantina
+description: Experience a vibrant twist on Mexican and Tex-Mex favorites, where bold
+  citrus, fresh herbs, and savory street eats meet in every dish. Enjoy a lively atmosphere
+  with creative cocktails and colorful, modern cuisine.
 rating: 1.0
 progenitor_customer: customer_0063
 menu_features:
-  Black Bean Chili Bowl: 9.56
-  Loaded Chorizo Nachos: 9.16
-  Spicy Chicken Tortilla Soup: 6.15
-  Baja Fish Taco Bowl: 14.14
-  Tangy Tomato Salsa Soup: 9.92
-  Mexican Chocolate Flan: 7.63
-  Spicy Mango Margarita: 11.01
-  "Cheesy Jalape\xF1o Queso Dip": 8.12
-  Smoky BBQ Pork Tostadas: 10.15
-  Stuffed Poblano Peppers: 13.61
-  Fresh Corn Elote: 3.99
-  Mango Habanero Wings: 13.93
-  Breakfast Burrito Bonanza: 8.62
-  Tex-Mex Breakfast Skillet: 8.69
-  Chili Lime Roasted Corn: 5.53
-  Classic Horchata Smoothie: 5.07
+  Cilantro Lime Rice Bowl: 8.38
+  Charred Corn & Cotija Nachos: 7.69
+  Spicy Shrimp Ceviche: 7.12
+  Grilled Street Corn: 5.91
+  Salted Caramel Margarita: 8.63
+  Pineapple Pico de Gallo Salsa: 6.87
+  Crispy Carnitas Quesadilla: 9.43
+  Golden Tequila Sunrise: 10.06
+  Street Corn Fritters: 7.54
+  Stuffed Avocado Delight: 8.36
+  Roasted Corn and Avocado Salad: 9.22
+  Loaded Nacho Bowl: 10.16
+  Spicy Chicken Tortilla Soup: 6.74
+  Shrimp Ceviche Bowl: 15.27
 amenity_features: {}
-min_price_factor: 0.72
+min_price_factor: 0.66
 minimum_menu_prices:
-  Black Bean Chili Bowl: 6.88
-  Loaded Chorizo Nachos: 6.6
-  Spicy Chicken Tortilla Soup: 4.43
-  Baja Fish Taco Bowl: 10.18
-  Tangy Tomato Salsa Soup: 7.14
-  Mexican Chocolate Flan: 5.49
-  Spicy Mango Margarita: 7.93
-  "Cheesy Jalape\xF1o Queso Dip": 5.85
-  Smoky BBQ Pork Tostadas: 7.31
-  Stuffed Poblano Peppers: 9.8
-  Fresh Corn Elote: 2.87
-  Mango Habanero Wings: 10.03
-  Breakfast Burrito Bonanza: 6.21
-  Tex-Mex Breakfast Skillet: 6.26
-  Chili Lime Roasted Corn: 3.98
-  Classic Horchata Smoothie: 3.65
+  Cilantro Lime Rice Bowl: 5.53
+  Charred Corn & Cotija Nachos: 5.08
+  Spicy Shrimp Ceviche: 5.39
+  Grilled Street Corn: 3.9
+  Salted Caramel Margarita: 5.7
+  Pineapple Pico de Gallo Salsa: 4.53
+  Crispy Carnitas Quesadilla: 6.22
+  Golden Tequila Sunrise: 6.64
+  Street Corn Fritters: 4.98
+  Stuffed Avocado Delight: 5.52
+  Roasted Corn and Avocado Salad: 6.09
+  Loaded Nacho Bowl: 7.4
+  Spicy Chicken Tortilla Soup: 4.45
+  Shrimp Ceviche Bowl: 10.08

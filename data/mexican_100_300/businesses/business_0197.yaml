@@ -1,38 +1,37 @@
 id: business_0197
-name: Casa Verde y Sol
-description: Experience the vibrant flavors of Mexico and the Southwest at Casa Verde
-  y Sol, where fresh ingredients and bright citrus pairings highlight every plate.
-  Enjoy a warm, inviting atmosphere with a menu full of creative classics and modern
-  favorites.
+name: Chili Con Charm
+description: Turn up the heat and satisfy your cravings at Chili Con Charm, where
+  Tex-Mex classics meet a playful twist. Enjoy bold flavors, zesty salads, fiery dips,
+  and decadent desserts in a vibrant, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0066
 menu_features:
-  Avocado Lime Quinoa Bowl: 10.14
-  Caramelized Plantain Empanadas: 6.95
-  Tamale Trio Sampler: 11.38
-  Shrimp and Avocado Ceviche: 12.44
-  Blueberry Tequila Sunrise: 8.19
-  Chili Lime Jicama Sticks: 6.5
-  Pork Carnitas Platter: 11.24
-  Citrus Cilantro Rice: 4.76
-  Chipotle Lime Shrimp Tacos: 16.04
-  Al Pastor Pork Tacos: 13.35
-  Zesty Shrimp Ceviche: 14.95
-  Avocado Lime Salad: 9.68
-  Grilled Pineapple Salsa: 7.7
+  Chipotle Lime Chicken Salad: 10.07
+  Hatch Chile Queso Dip: 8.18
+  Black Bean Chili Bowl: 10.97
+  Spicy Chicken Chimichanga: 11.96
+  Fire Roasted Salsa Sampler: 6.36
+  Vanilla Cinnamon Horchata: 6.65
+  Chipotle Bean Burrito: 8.77
+  Chili Chocolate Lava Cake: 6.85
+  Blueberry Jalapeno Lemonade: 3.75
+  Tamale Trio Sampler: 11.92
+  Smoky BBQ Pork Tostadas: 10.44
+  Cinnamon Sugar Churros: 5.59
+  Tamale Trio Platter: 10.67
 amenity_features: {}
-min_price_factor: 0.69
+min_price_factor: 0.88
 minimum_menu_prices:
-  Avocado Lime Quinoa Bowl: 7.0
-  Caramelized Plantain Empanadas: 4.8
-  Tamale Trio Sampler: 7.85
-  Shrimp and Avocado Ceviche: 8.58
-  Blueberry Tequila Sunrise: 5.65
-  Chili Lime Jicama Sticks: 4.48
-  Pork Carnitas Platter: 7.76
-  Citrus Cilantro Rice: 3.28
-  Chipotle Lime Shrimp Tacos: 11.07
-  Al Pastor Pork Tacos: 9.21
-  Zesty Shrimp Ceviche: 10.32
-  Avocado Lime Salad: 6.68
-  Grilled Pineapple Salsa: 5.31
+  Chipotle Lime Chicken Salad: 8.86
+  Hatch Chile Queso Dip: 7.2
+  Black Bean Chili Bowl: 9.65
+  Spicy Chicken Chimichanga: 10.52
+  Fire Roasted Salsa Sampler: 5.6
+  Vanilla Cinnamon Horchata: 3.09
+  Chipotle Bean Burrito: 7.72
+  Chili Chocolate Lava Cake: 6.03
+  Blueberry Jalapeno Lemonade: 3.3
+  Tamale Trio Sampler: 10.49
+  Smoky BBQ Pork Tostadas: 9.19
+  Cinnamon Sugar Churros: 4.92
+  Tamale Trio Platter: 9.39

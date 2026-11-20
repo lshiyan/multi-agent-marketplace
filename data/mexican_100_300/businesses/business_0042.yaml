@@ -1,33 +1,43 @@
 id: business_0042
-name: Mango Mesa
-description: Step into Mango Mesa, where vibrant flavors and inventive pairings bring
-  the spirit of Mexico and the Southwest to your table. Enjoy refreshing sips and
-  zesty bites in a lively, welcoming setting.
+name: Lime After Lime
+description: A fresh take on Mexican and Tex-Mex fare, celebrating vibrant flavors
+  and inventive twists. Dive into zesty dishes and cool refreshments in a fun, laid-back
+  setting.
 rating: 1.0
 progenitor_customer: customer_0014
 menu_features:
-  Black Bean & Corn Queso Dip: 6.03
-  Tamarind Ginger Cooler: 4.99
-  Three-Cheese Queso Dip: 7.18
-  Creamy Jalapeno Corn Fritters: 7.59
-  Jalapeno Mango Margarita: 9.5
-  Pork Carnitas Platter: 15.8
-  Crisp Jicama Slaw: 5.19
-  Blue Corn Tortilla Tacos: 11.54
-  Green Chile Cheesesteak: 12.4
-  Classic Mojito with Mint: 7.43
-  Zesty Lime Grilled Chicken: 16.36
+  Citrus Marinated Carne Asada: 15.71
+  Minty Mojito Refresher: 5.8
+  Pineapple Salsa Shrimp Tacos: 16.12
+  Red Chili Braised Beef Brisket: 18.3
+  Coconut Lime Tres Leches: 6.55
+  Chorizo and Egg Tacos: 9.21
+  Toasted Coconut Flan: 4.64
+  Chipotle Lime Chicken Salad: 13.67
+  Chipotle Shrimp Skewers: 15.34
+  Blueberry Agave Mojito: 7.8
+  Black Bean Burgers: 11.02
+  Chocolate Dipped Flan: 5.58
+  Chili Lime Roasted Corn: 5.0
+  Mango Agua Fresca: 3.35
+  Black Bean and Corn Fiesta Salad: 9.22
+  Spice-Rubbed Grilled Fajitas: 13.87
 amenity_features: {}
-min_price_factor: 0.61
+min_price_factor: 0.84
 minimum_menu_prices:
-  Black Bean & Corn Queso Dip: 3.68
-  Tamarind Ginger Cooler: 3.04
-  Three-Cheese Queso Dip: 4.38
-  Creamy Jalapeno Corn Fritters: 4.63
-  Jalapeno Mango Margarita: 5.79
-  Pork Carnitas Platter: 9.64
-  Crisp Jicama Slaw: 3.17
-  Blue Corn Tortilla Tacos: 7.04
-  Green Chile Cheesesteak: 7.56
-  Classic Mojito with Mint: 4.53
-  Zesty Lime Grilled Chicken: 9.98
+  Citrus Marinated Carne Asada: 13.2
+  Minty Mojito Refresher: 4.87
+  Pineapple Salsa Shrimp Tacos: 13.54
+  Red Chili Braised Beef Brisket: 15.99
+  Coconut Lime Tres Leches: 5.5
+  Chorizo and Egg Tacos: 7.74
+  Toasted Coconut Flan: 3.9
+  Chipotle Lime Chicken Salad: 11.48
+  Chipotle Shrimp Skewers: 12.89
+  Blueberry Agave Mojito: 6.55
+  Black Bean Burgers: 9.26
+  Chocolate Dipped Flan: 4.69
+  Chili Lime Roasted Corn: 4.65
+  Mango Agua Fresca: 2.81
+  Black Bean and Corn Fiesta Salad: 7.74
+  Spice-Rubbed Grilled Fajitas: 11.65

@@ -1,42 +1,37 @@
 id: business_0241
-name: Modern Mesa Grill
-description: Modern Mesa Grill brings the vibrant flavors of contemporary Mexican
-  and Tex-Mex cuisine to your table, spotlighting sizzling plates, bold spices, and
-  fresh, creative fare. Enjoy a lively atmosphere where classic favorites meet inventive
-  twists, perfect for any gathering.
+name: Nacho Usual Suspects
+description: Where bold Tex-Mex flavors meet creative cocktails and crave-worthy eats
+  in a vibrant, fiesta-inspired setting. Come for the zesty snacks and stay for the
+  sips and sweets that make every meal a celebration.
 rating: 1.0
 progenitor_customer: customer_0081
 menu_features:
-  Carne Asada Nachos: 12.86
-  Smoky Chipotle Black Bean Soup: 7.97
-  Crispy Fish Tacos: 11.97
-  Spicy Shrimp Fajitas: 15.41
-  Mesquite Grilled Steak Fajitas: 14.45
-  Stuffed Chicken Poblano: 14.69
-  Horchata Cold Brew Coffee: 4.88
-  Veggie Fajita Platter: 14.03
-  Grilled Pineapple Salsa: 7.23
-  Passion Fruit Mojito: 8.63
-  Sizzling Pork Carnitas Bowl: 12.36
-  Breakfast Chorizo Tostadas: 11.03
-  Vanilla Flan with Caramel Sauce: 5.26
-  Pork Carnitas Platter: 15.24
-  Smoky Chipotle BBQ Ribs: 17.19
+  Minty Mojito Refresher: 7.9
+  "Blueberry Jalape\xF1o Margarita": 11.66
+  Adobo Roasted Corn Salad: 8.87
+  Loaded Chorizo Nachos: 9.01
+  Crispy Carnitas Tacos: 13.0
+  Poblano Pepper Queso Dip: 5.86
+  Tequila Sunrise Smoothie: 10.04
+  Spicy Black Bean Nachos: 9.72
+  Warm Cinnamon Churros: 6.64
+  Cinnamon Sugar Churros: 6.63
+  Tex-Mex Big Breakfast Bowl: 10.37
+  Spicy Avocado Smash Burger: 12.32
+  Street Corn Fritters: 6.47
 amenity_features: {}
-min_price_factor: 0.64
+min_price_factor: 0.85
 minimum_menu_prices:
-  Carne Asada Nachos: 8.23
-  Smoky Chipotle Black Bean Soup: 5.1
-  Crispy Fish Tacos: 7.66
-  Spicy Shrimp Fajitas: 9.86
-  Mesquite Grilled Steak Fajitas: 9.25
-  Stuffed Chicken Poblano: 9.4
-  Horchata Cold Brew Coffee: 3.12
-  Veggie Fajita Platter: 8.98
-  Grilled Pineapple Salsa: 4.63
-  Passion Fruit Mojito: 5.52
-  Sizzling Pork Carnitas Bowl: 7.91
-  Breakfast Chorizo Tostadas: 7.06
-  Vanilla Flan with Caramel Sauce: 3.37
-  Pork Carnitas Platter: 9.75
-  Smoky Chipotle BBQ Ribs: 11.0
+  Minty Mojito Refresher: 6.71
+  "Blueberry Jalape\xF1o Margarita": 10.67
+  Adobo Roasted Corn Salad: 7.54
+  Loaded Chorizo Nachos: 7.66
+  Crispy Carnitas Tacos: 11.87
+  Poblano Pepper Queso Dip: 5.45
+  Tequila Sunrise Smoothie: 8.53
+  Spicy Black Bean Nachos: 8.26
+  Warm Cinnamon Churros: 5.64
+  Cinnamon Sugar Churros: 5.64
+  Tex-Mex Big Breakfast Bowl: 8.81
+  Spicy Avocado Smash Burger: 10.47
+  Street Corn Fritters: 5.5

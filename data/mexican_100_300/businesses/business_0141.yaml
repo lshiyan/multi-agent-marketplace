@@ -1,41 +1,35 @@
 id: business_0141
-name: Carnitas & Crunch
-description: Experience bold Mexican and Tex-Mex flavors in a lively, vibrant setting,
-  featuring sizzling grilled favorites, savory tacos, and inventive desserts. Perfect
-  for anyone craving a fresh twist on classic dishes.
+name: Flan-tastic Voyage
+description: Embark on a bold Tex-Mex adventure where smoky, zesty, and sweet flavors
+  set the table for unforgettable bites. From creative small plates to irresistible
+  desserts, every dish is a journey across lively taste horizons.
 rating: 1.0
 progenitor_customer: customer_0047
 menu_features:
-  Tequila Lime Grilled Chicken: 12.37
-  Loaded Nacho Supreme: 8.2
-  Spicy Avocado Smash Burger: 13.81
-  Sweet Potato and Black Bean Tacos: 10.21
-  Crispy Carnitas Tacos: 12.92
-  Caramel Apple Empanadas: 5.73
-  Chocolate Mole Brownie: 5.89
-  Sizzling Chicken Fajitas: 13.91
-  "Spicy Jalape\xF1o Limeade": 3.72
-  Golden Tequila Sunrise: 10.75
-  Crispy Tinga Chicken Tacos: 10.94
-  Honey Lime Grilled Chicken: 14.92
-  Black Bean Burgers: 12.36
-  Fiesta Street Corn: 4.24
-  Classic Horchata Smoothie: 5.56
+  Street Corn Fritters: 6.71
+  Cilantro Lime Grilled Shrimp: 13.87
+  Sweet Chili Lime Elote: 5.43
+  Honey-Lime Shrimp Skewers: 12.8
+  Smoky Chipotle Queso: 5.8
+  Spicy Chipotle Chicken Wings: 10.2
+  Fresh Lime and Cilantro Guacamole: 7.53
+  Spicy Chicken Chimichanga: 9.96
+  Tequila Lime Flan: 7.09
+  Crispy Tinga Chicken Tacos: 7.62
+  Sizzling Pork Carnitas Bowl: 10.84
+  Black Bean and Sweet Potato Empanadas: 10.8
 amenity_features: {}
-min_price_factor: 0.83
+min_price_factor: 0.65
 minimum_menu_prices:
-  Tequila Lime Grilled Chicken: 10.27
-  Loaded Nacho Supreme: 6.81
-  Spicy Avocado Smash Burger: 11.46
-  Sweet Potato and Black Bean Tacos: 8.47
-  Crispy Carnitas Tacos: 10.72
-  Caramel Apple Empanadas: 4.76
-  Chocolate Mole Brownie: 4.89
-  Sizzling Chicken Fajitas: 11.55
-  "Spicy Jalape\xF1o Limeade": 3.09
-  Golden Tequila Sunrise: 8.92
-  Crispy Tinga Chicken Tacos: 9.08
-  Honey Lime Grilled Chicken: 12.38
-  Black Bean Burgers: 10.26
-  Fiesta Street Corn: 3.52
-  Classic Horchata Smoothie: 4.61
+  Street Corn Fritters: 4.36
+  Cilantro Lime Grilled Shrimp: 9.02
+  Sweet Chili Lime Elote: 3.93
+  Honey-Lime Shrimp Skewers: 8.32
+  Smoky Chipotle Queso: 3.77
+  Spicy Chipotle Chicken Wings: 6.63
+  Fresh Lime and Cilantro Guacamole: 5.3
+  Spicy Chicken Chimichanga: 6.47
+  Tequila Lime Flan: 4.61
+  Crispy Tinga Chicken Tacos: 4.95
+  Sizzling Pork Carnitas Bowl: 7.05
+  Black Bean and Sweet Potato Empanadas: 7.02

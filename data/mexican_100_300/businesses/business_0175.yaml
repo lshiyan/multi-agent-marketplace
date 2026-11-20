@@ -1,43 +1,41 @@
 id: business_0175
-name: Holy Mole & Grill
-description: An inventive Mexican and Tex-Mex spot where bold flavors and fresh ingredients
-  come together in every bite. Enjoy a vibrant menu of sizzling favorites and delicious
-  twists on classic dishes, all served in a festive, welcoming setting.
+name: Holy Guac & Roll
+description: Spice up your day with a flavorful fusion of classic and creative Mexican
+  and Tex-Mex dishes. From fresh, vibrant bowls to indulgent sweets and refreshing
+  sips, every bite is a fiesta for the senses.
 rating: 1.0
 progenitor_customer: customer_0059
 menu_features:
-  Sweet Corn Tamale Bites: 6.58
-  Blueberry Jalapeno Lemonade: 4.02
-  Carne Asada Fajitas: 14.39
-  Baja Fish Taco Plate: 13.57
-  Black Bean Avocado Enchiladas: 12.84
-  Spicy Avocado Burger: 12.71
-  Refreshing Agua Fresca Trio: 8.16
-  Creamy Chipotle Pasta: 12.4
-  Coconut Lime Shrimp Skewers: 20.6
-  Chipotle Lime Cauliflower Tacos: 9.83
-  Roasted Poblano and Cheese Empanadas: 7.95
-  Caramelized Onion and Goat Cheese Empanadas: 6.69
-  Mesquite Grilled Steak Fajitas: 10.73
-  Ranchero Steak Fajitas: 13.84
-  Ancho Chili Spiced Ribs: 19.28
-  Pork Carnitas Platter: 13.77
+  Tres Leches Cake: 6.09
+  Loaded Street Corn: 5.69
+  Black Bean & Cheese Tostadas: 8.91
+  Tamarind Citrus Margarita: 8.88
+  Coffee Cinnamon Mexican Mocha: 5.24
+  Avocado Lime Cheesecake: 7.34
+  Mexican Street Corn Dip: 11.05
+  Pomegranate Agua Fresca: 4.83
+  Zesty Shrimp Ceviche: 12.61
+  Blueberry Tequila Sunrise: 12.06
+  Avocado Ranch Burrito Bowl: 13.24
+  Sizzling Beef Alambre: 15.02
+  Frozen Mango Margarita: 9.81
+  Grilled Elote Corn: 4.94
+  Coconut Lime Paleta: 4.89
 amenity_features: {}
-min_price_factor: 0.86
+min_price_factor: 0.61
 minimum_menu_prices:
-  Sweet Corn Tamale Bites: 5.66
-  Blueberry Jalapeno Lemonade: 3.46
-  Carne Asada Fajitas: 12.38
-  Baja Fish Taco Plate: 11.67
-  Black Bean Avocado Enchiladas: 11.04
-  Spicy Avocado Burger: 10.93
-  Refreshing Agua Fresca Trio: 7.02
-  Creamy Chipotle Pasta: 10.66
-  Coconut Lime Shrimp Skewers: 17.72
-  Chipotle Lime Cauliflower Tacos: 8.45
-  Roasted Poblano and Cheese Empanadas: 6.84
-  Caramelized Onion and Goat Cheese Empanadas: 5.75
-  Mesquite Grilled Steak Fajitas: 9.23
-  Ranchero Steak Fajitas: 11.9
-  Ancho Chili Spiced Ribs: 16.58
-  Pork Carnitas Platter: 11.84
+  Tres Leches Cake: 3.71
+  Loaded Street Corn: 3.47
+  Black Bean & Cheese Tostadas: 5.44
+  Tamarind Citrus Margarita: 5.42
+  Coffee Cinnamon Mexican Mocha: 2.91
+  Avocado Lime Cheesecake: 4.48
+  Mexican Street Corn Dip: 6.74
+  Pomegranate Agua Fresca: 2.95
+  Zesty Shrimp Ceviche: 7.69
+  Blueberry Tequila Sunrise: 7.36
+  Avocado Ranch Burrito Bowl: 8.08
+  Sizzling Beef Alambre: 9.16
+  Frozen Mango Margarita: 5.98
+  Grilled Elote Corn: 2.73
+  Coconut Lime Paleta: 2.98

@@ -1,41 +1,48 @@
 id: business_0003
-name: Pico Pepper
-description: Experience a vibrant blend of traditional and modern Mexican flavors
-  at Pico Pepper. From zesty breakfast specialties to inventive classics with a twist,
-  our kitchen serves up a fiesta for every appetite.
+name: Casa del Sol Mexicano
+description: Casa del Sol Mexicano invites you to enjoy vibrant Mexican and Tex-Mex
+  flavors in a warm, sun-filled atmosphere. Experience a creative mix of traditional
+  favorites and modern twists, from refreshing cocktails to savory bites and sweet
+  treats.
 rating: 1.0
 progenitor_customer: customer_0001
 menu_features:
-  Avocado & Tomato Breakfast Tostadas: 9.71
-  Mexican Chocolate Milkshake: 6.46
-  Chocolate Mole Brownie: 5.35
-  Roasted Pumpkin Tamale: 7.46
-  Tamarind Ginger Cooler: 4.79
-  Breakfast Burrito Bowl: 6.47
-  Loaded Chorizo Nachos: 9.12
-  Street Corn Quesadilla: 11.54
-  Spiced Churro Bites: 6.54
-  Pineapple Tequila Chicken Skewers: 15.39
-  Ancho Chile BBQ Ribs: 24.47
-  Ranchero Eggs Benedict: 13.71
-  Beef Barbacoa Burrito Bowl: 11.84
-  Spicy Beef Chimichangas: 18.12
-  Grilled Pineapple & Shrimp Quesadillas: 15.26
+  Frozen Strawberry Daiquiri: 8.72
+  "Spicy Jalape\xF1o Limeade": 4.0
+  Chocolate Tamale Cake: 5.9
+  Raspberry Jalapeno Mojito: 7.95
+  Black Bean and Avocado Wrap: 9.71
+  "Coconut Horchata Latt\xE9": 3.43
+  Tex-Mex Big Breakfast Bowl: 8.35
+  Chocolate Dipped Flan: 6.34
+  Cilantro Lime Rice Bowl: 11.03
+  Honey-Lime Grilled Shrimp: 16.17
+  Coconut Lime Margarita: 8.9
+  Pineapple Chipotle Salsa & Chips: 5.69
+  Chili Chocolate Lava Cake: 8.29
+  Cinnamon Sugar Sopapillas: 6.52
+  Smoky Black Bean Enchiladas: 12.17
+  Agave Lime Chicken Skewers: 11.67
+  "Cheesy Jalape\xF1o Queso Dip": 9.26
+  Street Corn Elote: 6.08
 amenity_features: {}
-min_price_factor: 0.77
+min_price_factor: 0.71
 minimum_menu_prices:
-  Avocado & Tomato Breakfast Tostadas: 7.48
-  Mexican Chocolate Milkshake: 4.97
-  Chocolate Mole Brownie: 4.12
-  Roasted Pumpkin Tamale: 5.74
-  Tamarind Ginger Cooler: 3.69
-  Breakfast Burrito Bowl: 4.98
-  Loaded Chorizo Nachos: 7.02
-  Street Corn Quesadilla: 8.89
-  Spiced Churro Bites: 5.04
-  Pineapple Tequila Chicken Skewers: 11.85
-  Ancho Chile BBQ Ribs: 18.84
-  Ranchero Eggs Benedict: 10.56
-  Beef Barbacoa Burrito Bowl: 9.12
-  Spicy Beef Chimichangas: 13.95
-  Grilled Pineapple & Shrimp Quesadillas: 11.75
+  Frozen Strawberry Daiquiri: 6.19
+  "Spicy Jalape\xF1o Limeade": 2.84
+  Chocolate Tamale Cake: 5.13
+  Raspberry Jalapeno Mojito: 5.64
+  Black Bean and Avocado Wrap: 6.89
+  "Coconut Horchata Latt\xE9": 3.17
+  Tex-Mex Big Breakfast Bowl: 5.93
+  Chocolate Dipped Flan: 4.5
+  Cilantro Lime Rice Bowl: 7.83
+  Honey-Lime Grilled Shrimp: 11.48
+  Coconut Lime Margarita: 6.32
+  Pineapple Chipotle Salsa & Chips: 4.04
+  Chili Chocolate Lava Cake: 5.89
+  Cinnamon Sugar Sopapillas: 4.63
+  Smoky Black Bean Enchiladas: 9.63
+  Agave Lime Chicken Skewers: 8.29
+  "Cheesy Jalape\xF1o Queso Dip": 6.57
+  Street Corn Elote: 4.32

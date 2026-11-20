@@ -1,36 +1,43 @@
 id: business_0278
-name: Burrito Beato
-description: Burrito Beato serves up inventive Mexican and Tex-Mex classics, offering
-  a spirited twist on everything from hearty breakfast specials to bold, flavor-packed
-  wraps and refreshing cocktails. Indulge in a menu where savory meets a hint of sweet
-  in every bite.
+name: Crema & Cactus Cantina
+description: A vibrant Tex-Mex eatery celebrating bold flavors and fresh ingredients,
+  from creamy sauces to zesty street classics. Enjoy a welcoming atmosphere and a
+  menu crafted for both tradition and taste adventure.
 rating: 1.0
 progenitor_customer: customer_0093
 menu_features:
-  Carnitas Plantain Burrito: 11.99
-  Salted Caramel Margarita: 9.53
-  Three-Cheese Enchilada Stack: 11.78
-  Breakfast Burrito Bowl: 8.95
-  Blue Corn Tortilla Soup: 8.34
-  Spicy Chipotle Chicken Wrap: 10.11
-  Breakfast Chorizo Tostadas: 10.73
-  Gourmet Nacho Platter: 9.44
-  Carne Asada Nachos: 13.93
-  Jalapeno Cheddar Cornbread: 4.63
-  Chili Lime Watermelon Salad: 8.31
-  Roasted Poblano Veggie Skillet: 12.09
+  Classic Flan Delight: 7.18
+  Tequila Lime Shrimp Skewers: 8.09
+  Black Bean and Corn Fiesta Salad: 8.0
+  Avocado Lime Crema Tostadas: 11.34
+  Beef Enchiladas Verdes: 16.74
+  Baja Fish Burrito: 14.49
+  Cucumber Jalapeno Agua Fresca: 4.25
+  Grilled Street Corn: 6.6
+  Grilled Pineapple Mojito: 9.08
+  Honey Chipotle Wings: 9.46
+  Chipotle Lime Shrimp Tacos: 12.19
+  Beef Fajita Skillet: 15.93
+  Three-Cheese Queso Dip: 5.39
+  Loaded Nacho Bowl: 7.25
+  Mexican Chocolate Brownie: 5.58
+  Avocado Street Tacos: 11.69
 amenity_features: {}
-min_price_factor: 0.94
+min_price_factor: 0.87
 minimum_menu_prices:
-  Carnitas Plantain Burrito: 11.27
-  Salted Caramel Margarita: 8.96
-  Three-Cheese Enchilada Stack: 11.07
-  Breakfast Burrito Bowl: 8.41
-  Blue Corn Tortilla Soup: 7.84
-  Spicy Chipotle Chicken Wrap: 9.5
-  Breakfast Chorizo Tostadas: 10.09
-  Gourmet Nacho Platter: 8.87
-  Carne Asada Nachos: 13.09
-  Jalapeno Cheddar Cornbread: 4.35
-  Chili Lime Watermelon Salad: 7.81
-  Roasted Poblano Veggie Skillet: 11.36
+  Classic Flan Delight: 6.25
+  Tequila Lime Shrimp Skewers: 7.04
+  Black Bean and Corn Fiesta Salad: 6.96
+  Avocado Lime Crema Tostadas: 9.87
+  Beef Enchiladas Verdes: 14.56
+  Baja Fish Burrito: 12.46
+  Cucumber Jalapeno Agua Fresca: 3.7
+  Grilled Street Corn: 5.74
+  Grilled Pineapple Mojito: 7.9
+  Honey Chipotle Wings: 8.23
+  Chipotle Lime Shrimp Tacos: 10.61
+  Beef Fajita Skillet: 13.86
+  Three-Cheese Queso Dip: 4.69
+  Loaded Nacho Bowl: 6.16
+  Mexican Chocolate Brownie: 4.85
+  Avocado Street Tacos: 10.17

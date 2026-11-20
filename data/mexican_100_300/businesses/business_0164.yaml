@@ -1,39 +1,43 @@
 id: business_0164
-name: La Brisa de Fuego
-description: Experience vibrant Mexican and Tex-Mex flavors in an inviting atmosphere,
-  where zesty spices and bright citrus notes meet fresh, creative dishes. Perfect
-  for those seeking a lively meal with classic favorites and delicious modern touches.
+name: Pineapple & Pepper Kitchen
+description: A modern Tex-Mex eatery serving vibrant, flavor-packed dishes inspired
+  by bold Mexican traditions. Enjoy a unique fusion of classic favorites and inventive
+  twists in a lively, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0055
 menu_features:
-  Chili Lime Skirt Steak: 19.67
-  Mexican Chocolate Flan: 5.64
-  Chipotle Lime Cauliflower Tacos: 11.22
-  Passionfruit Agua Fresca: 3.28
-  Savory Chorizo Street Tacos: 8.98
-  Chipotle Lime Shrimp Skewers: 18.02
-  Street Corn Quesadilla: 10.39
-  Zesty Lime Chicken Enchiladas: 14.87
-  Carne Asada Fajitas: 12.34
-  Pineapple Habanero Sake: 10.13
-  Ancho Chili Spiced Ribs: 16.09
-  Southwest Chopped Salad: 9.28
-  Caramelized Onion and Chorizo Quesadilla: 7.54
-  Stuffed Poblano Peppers: 13.77
+  Crispy Tortilla Breakfast Bowl: 9.79
+  Blue Corn Enchilada Bake: 9.6
+  Pineapple Habanero Salsa: 5.25
+  Breakfast Chilaquiles Verde: 11.83
+  Raspberry Chipotle Barbecue Ribs: 13.58
+  Pumpkin Spice Flan: 7.18
+  Crispy Avocado Burrito: 12.65
+  Loaded Nacho Fries: 6.65
+  Coconut Lime Flan: 6.96
+  Black Bean Taco Bowl: 11.12
+  Spicy Black Bean Enchiladas: 10.37
+  Honey Lime Fajita Sizzlers: 15.76
+  Grilled Pineapple Dessert Quesadilla: 7.82
+  Cucumber Jalapeno Agua Fresca: 3.65
+  Adobo Roasted Corn Salad: 7.26
+  Zesty Lime Shrimp Skewers: 11.59
 amenity_features: {}
-min_price_factor: 0.79
+min_price_factor: 0.83
 minimum_menu_prices:
-  Chili Lime Skirt Steak: 15.54
-  Mexican Chocolate Flan: 4.46
-  Chipotle Lime Cauliflower Tacos: 8.86
-  Passionfruit Agua Fresca: 2.59
-  Savory Chorizo Street Tacos: 7.09
-  Chipotle Lime Shrimp Skewers: 14.24
-  Street Corn Quesadilla: 8.21
-  Zesty Lime Chicken Enchiladas: 11.75
-  Carne Asada Fajitas: 9.75
-  Pineapple Habanero Sake: 8.0
-  Ancho Chili Spiced Ribs: 12.71
-  Southwest Chopped Salad: 7.33
-  Caramelized Onion and Chorizo Quesadilla: 5.96
-  Stuffed Poblano Peppers: 10.88
+  Crispy Tortilla Breakfast Bowl: 8.13
+  Blue Corn Enchilada Bake: 8.91
+  Pineapple Habanero Salsa: 4.36
+  Breakfast Chilaquiles Verde: 9.82
+  Raspberry Chipotle Barbecue Ribs: 11.27
+  Pumpkin Spice Flan: 5.96
+  Crispy Avocado Burrito: 10.5
+  Loaded Nacho Fries: 5.52
+  Coconut Lime Flan: 5.78
+  Black Bean Taco Bowl: 9.23
+  Spicy Black Bean Enchiladas: 9.55
+  Honey Lime Fajita Sizzlers: 13.08
+  Grilled Pineapple Dessert Quesadilla: 6.49
+  Cucumber Jalapeno Agua Fresca: 3.03
+  Adobo Roasted Corn Salad: 6.03
+  Zesty Lime Shrimp Skewers: 10.57

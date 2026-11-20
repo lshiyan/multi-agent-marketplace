@@ -1,43 +1,47 @@
 id: business_0086
-name: Poblano Plaza
-description: Immerse yourself in bold, vibrant flavors at Poblano Plaza, where Tex-Mex
-  classics and creative specialties come together in a lively atmosphere. Enjoy handcrafted
-  salsas, savory bites, and refreshing drinks inspired by the heart of Mexico.
+name: Azul Marea Cocina
+description: A welcoming spot where vibrant Mexican and Tex-Mex flavors meet fresh,
+  seasonal ingredients. Enjoy a spirited menu inspired by coastal classics and timeless
+  favorites in a lively, relaxed setting.
 rating: 1.0
 progenitor_customer: customer_0029
 menu_features:
-  Street Style Quesadillas: 8.68
-  Chipotle BBQ Tacos: 13.47
-  Ancho Chili Braised Beef Enchiladas: 16.48
-  Three-Cheese Chile Rellenos: 14.88
-  Stuffed Poblano Peppers: 13.74
-  Spicy Shrimp Nacho Platter: 13.47
-  Chocolate Mole Brownie: 6.57
-  Smoky Mezcal Mule: 9.75
-  Chili Lime Watermelon Salad: 7.27
-  Pineapple Chipotle Salsa & Chips: 8.12
-  Fire Roasted Salsa Sampler: 5.41
-  Beef Barbacoa Burrito Bowl: 12.08
-  Margarita Grilled Chicken: 15.76
-  Spicy Chipotle Chicken Wings: 10.17
-  Spicy Beef Empanadas: 8.37
-  Black Bean & Corn Enchiladas: 8.27
+  Blue Corn Tortilla Tacos: 12.59
+  Horchata Milkshake: 5.19
+  Paloma Breeze Cocktail: 8.05
+  Black Bean Chili Bowl: 9.99
+  Crispy Carnitas Quesadilla: 11.34
+  Rich Chocolate Tres Leches: 4.7
+  Grilled Pineapple Mojito: 6.74
+  Spicy Zucchini Tostadas: 7.8
+  Sweet Corn Tamales: 11.9
+  Avocado Lime Dip: 5.9
+  Crispy Avocado Tacos: 13.83
+  Roasted Corn and Black Bean Salad: 8.93
+  Jalapeno Mango Margarita: 9.14
+  Cinnamon Sugar Sopapillas: 6.01
+  Crispy Fish Street Tacos: 11.08
+  Breakfast Burrito Bowl: 9.73
+  Grilled Shrimp Quesadilla: 11.58
+  Coconut Lime Rice Bowl: 11.36
 amenity_features: {}
-min_price_factor: 0.64
+min_price_factor: 0.7
 minimum_menu_prices:
-  Street Style Quesadillas: 5.56
-  Chipotle BBQ Tacos: 8.62
-  Ancho Chili Braised Beef Enchiladas: 10.55
-  Three-Cheese Chile Rellenos: 9.52
-  Stuffed Poblano Peppers: 8.79
-  Spicy Shrimp Nacho Platter: 8.62
-  Chocolate Mole Brownie: 4.2
-  Smoky Mezcal Mule: 6.24
-  Chili Lime Watermelon Salad: 4.65
-  Pineapple Chipotle Salsa & Chips: 5.2
-  Fire Roasted Salsa Sampler: 3.46
-  Beef Barbacoa Burrito Bowl: 7.73
-  Margarita Grilled Chicken: 10.09
-  Spicy Chipotle Chicken Wings: 6.51
-  Spicy Beef Empanadas: 5.36
-  Black Bean & Corn Enchiladas: 5.29
+  Blue Corn Tortilla Tacos: 8.81
+  Horchata Milkshake: 3.63
+  Paloma Breeze Cocktail: 7.08
+  Black Bean Chili Bowl: 6.99
+  Crispy Carnitas Quesadilla: 7.94
+  Rich Chocolate Tres Leches: 4.7
+  Grilled Pineapple Mojito: 4.72
+  Spicy Zucchini Tostadas: 5.46
+  Sweet Corn Tamales: 8.33
+  Avocado Lime Dip: 4.13
+  Crispy Avocado Tacos: 9.68
+  Roasted Corn and Black Bean Salad: 6.25
+  Jalapeno Mango Margarita: 6.4
+  Cinnamon Sugar Sopapillas: 4.21
+  Crispy Fish Street Tacos: 9.2
+  Breakfast Burrito Bowl: 6.81
+  Grilled Shrimp Quesadilla: 8.11
+  Coconut Lime Rice Bowl: 7.95

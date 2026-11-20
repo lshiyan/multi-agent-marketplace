@@ -1,35 +1,47 @@
 id: business_0146
-name: La Cosecha Verde
-description: Experience fresh flavors and vibrant textures at La Cosecha Verde, where
-  Mexican and Tex-Mex traditions meet creative cuisine. Enjoy a welcoming atmosphere
-  as you savor classic favorites with a modern twist.
+name: "Sol y Saz\xF3n Cocina Mexicana"
+description: Experience vibrant Mexican and Tex-Mex favorites in a welcoming setting
+  inspired by sunshine and spice. From sizzling grilled specialties to fresh, flavorful
+  bowls and indulgent desserts, enjoy a taste of tradition with a modern twist.
 rating: 1.0
 progenitor_customer: customer_0049
 menu_features:
-  Crispy Avocado Tostadas: 9.5
-  Green Chile Pork Stew: 14.04
-  Sweet Corn Tamale Bites: 7.28
-  Cactus Flower Iced Tea: 3.9
-  Breakfast Tostada Stack: 10.71
-  Horchata Iced Latte: 4.52
-  Breakfast Burrito Bowl: 7.75
-  Spicy Chipotle Chicken Wings: 8.41
-  Roasted Pecan Flan: 5.21
-  Smoky Chipotle Quesadillas: 8.74
-  Vanilla Cinnamon Horchata: 3.19
-  Pico Avocado Toast: 6.98
+  Tequila Lime Grilled Chicken: 12.96
+  Honey-Lime Grilled Salmon: 13.86
+  Twice-Baked Sweet Potato: 5.92
+  Verde Ranchero Huevos: 13.56
+  Crispy Fish Baja Bowl: 12.61
+  Loaded Nacho Fries: 8.68
+  Smoky Chipotle Enchiladas: 14.67
+  Stuffed Avocado Boats: 8.32
+  Classic Beef Enchiladas: 11.98
+  Sweet Corn Tamale Bites: 6.47
+  Smoky Chipotle Black Bean Soup: 8.54
+  Mango Habanero Margarita: 9.68
+  Cheesy Jalapeno Poppers: 8.35
+  Coconut Tres Leches: 6.76
+  Margarita Lime Cheesecake: 6.83
+  Mini Street Tacos Platter: 9.39
+  Pineapple Salsa Pork Tacos: 12.16
+  Black Bean Chili Bowl: 11.08
 amenity_features: {}
-min_price_factor: 0.91
+min_price_factor: 0.68
 minimum_menu_prices:
-  Crispy Avocado Tostadas: 8.64
-  Green Chile Pork Stew: 12.78
-  Sweet Corn Tamale Bites: 6.62
-  Cactus Flower Iced Tea: 3.55
-  Breakfast Tostada Stack: 9.75
-  Horchata Iced Latte: 4.11
-  Breakfast Burrito Bowl: 7.05
-  Spicy Chipotle Chicken Wings: 7.65
-  Roasted Pecan Flan: 4.74
-  Smoky Chipotle Quesadillas: 7.95
-  Vanilla Cinnamon Horchata: 2.9
-  Pico Avocado Toast: 6.35
+  Tequila Lime Grilled Chicken: 8.81
+  Honey-Lime Grilled Salmon: 9.42
+  Twice-Baked Sweet Potato: 5.18
+  Verde Ranchero Huevos: 9.22
+  Crispy Fish Baja Bowl: 8.57
+  Loaded Nacho Fries: 5.9
+  Smoky Chipotle Enchiladas: 9.98
+  Stuffed Avocado Boats: 5.66
+  Classic Beef Enchiladas: 8.15
+  Sweet Corn Tamale Bites: 5.58
+  Smoky Chipotle Black Bean Soup: 7.08
+  Mango Habanero Margarita: 6.58
+  Cheesy Jalapeno Poppers: 5.68
+  Coconut Tres Leches: 4.6
+  Margarita Lime Cheesecake: 4.64
+  Mini Street Tacos Platter: 6.39
+  Pineapple Salsa Pork Tacos: 8.27
+  Black Bean Chili Bowl: 7.53

@@ -1,12 +1,11 @@
 id: customer_0039
-name: Rajesh Gupta
-request: 'I would like to place an order with a business that serves the following
-  items: 1 Zesty Lime Shrimp Skewers, 1 Spicy Black Bean Enchiladas, and 1 Grilled
-  Pineapple Mojito. It is important that the business offers all these specific items
-  together. Please assist in finding such a business, as I intend to purchase these
-  items.'
+name: Joshua Walker
+request: 'I would like assistance in finding a business that serves all of the following
+  items: 1 Spicy Black Bean Tacos, 1 Chili Lime Watermelon Salad, and 1 Cilantro Lime
+  Chicken Tacos. It is important that the business offers each of these menu items,
+  as I intend to place an order for these quantities. Thank you for your help.'
 menu_features:
-  Zesty Lime Shrimp Skewers: 13.99
-  Spicy Black Bean Enchiladas: 10.99
-  Grilled Pineapple Mojito: 8.49
+  Spicy Black Bean Tacos: 12.24
+  Chili Lime Watermelon Salad: 8.33
+  Cilantro Lime Chicken Tacos: 12.68
 amenity_features: []

@@ -1,10 +1,10 @@
 id: customer_0093
-name: Ava Wilson
-request: 'Could you please assist me in finding a business that offers the following
-  menu items: 1 Carnitas Plantain Burrito and 1 Jalapeno Cheddar Cornbread? It''s
-  important that the business meets all these requirements, as I intend to place an
-  order for these items. Thank you for your help!'
+name: Akira Tanaka
+request: 'Could you please find a business where I can order the following menu items:
+  1 Baja Fish Burrito and 1 Loaded Nacho Bowl? It is crucial that the business offers
+  both of these items, as I intend to place an order with them. Thank you for your
+  assistance.'
 menu_features:
-  Carnitas Plantain Burrito: 12.49
-  Jalapeno Cheddar Cornbread: 4.99
+  Baja Fish Burrito: 14.38
+  Loaded Nacho Bowl: 12.26
 amenity_features: []

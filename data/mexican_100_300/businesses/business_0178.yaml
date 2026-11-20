@@ -1,37 +1,47 @@
 id: business_0178
-name: Pineapple & Pepper Pavilion
-description: Experience a vibrant fusion of classic and contemporary Mexican and Tex-Mex
-  flavors in a lively, welcoming setting. Fresh ingredients, bold spices, and creative
-  dishes await you at every visit.
+name: Sabor Street Kitchen
+description: Experience vibrant Mexican and Tex-Mex flavors with a modern twist in
+  a lively, welcoming atmosphere. From sizzling tacos to fresh ceviche and creative
+  cocktails, every bite brings you closer to the heart of street food culture.
 rating: 1.0
 progenitor_customer: customer_0060
 menu_features:
-  Sweet Corn Tamale Cake: 8.0
-  Cucumber Jalapeno Agua Fresca: 3.83
-  Ultimate Nacho Platter: 9.39
-  Grilled Pineapple and Pork Tacos: 15.06
-  Roasted Corn and Black Bean Salad: 8.76
-  Ranchero Eggs Benedict: 12.92
-  Ancho Chili Chocolate Cake: 6.49
-  Coconut Flan Delight: 7.01
-  Breakfast Burrito Bowl: 8.01
-  Ancho Chile BBQ Ribs: 21.57
-  Fresh Mango Salsa Nachos: 6.8
-  Coconut Lime Rice Bowl: 9.39
-  Baja Fish Taco Plate: 11.15
+  Al Pastor Pork Tacos: 12.58
+  Loaded Nacho Fiesta: 12.51
+  Tamale Trio Platter: 15.68
+  Ancho Honey-Glazed Salmon: 16.95
+  Passion Fruit Mojito: 8.57
+  Spicy Pineapple Chipotle Margarita: 7.65
+  Black Bean Crunch Wrap: 9.27
+  Caramelized Onion and Chorizo Quesadilla: 7.2
+  Savory Carne Asada Burrito: 9.71
+  Caramelized Onion and Goat Cheese Empanadas: 7.22
+  Sweet Corn Tamale Bites: 5.24
+  Coconut Tres Leches: 6.28
+  Charred Corn & Cotija Nachos: 7.98
+  Crispy Tortilla Breakfast Bowl: 10.28
+  Twice-Baked Sweet Potato: 7.48
+  Avocado Street Tacos: 7.77
+  Shrimp and Avocado Ceviche: 12.7
+  Margarita Grilled Chicken: 16.39
 amenity_features: {}
-min_price_factor: 0.62
+min_price_factor: 0.72
 minimum_menu_prices:
-  Sweet Corn Tamale Cake: 4.96
-  Cucumber Jalapeno Agua Fresca: 2.37
-  Ultimate Nacho Platter: 5.82
-  Grilled Pineapple and Pork Tacos: 9.34
-  Roasted Corn and Black Bean Salad: 5.43
-  Ranchero Eggs Benedict: 8.01
-  Ancho Chili Chocolate Cake: 4.02
-  Coconut Flan Delight: 4.35
-  Breakfast Burrito Bowl: 4.97
-  Ancho Chile BBQ Ribs: 13.37
-  Fresh Mango Salsa Nachos: 4.22
-  Coconut Lime Rice Bowl: 5.82
-  Baja Fish Taco Plate: 6.91
+  Al Pastor Pork Tacos: 9.06
+  Loaded Nacho Fiesta: 9.01
+  Tamale Trio Platter: 11.29
+  Ancho Honey-Glazed Salmon: 12.2
+  Passion Fruit Mojito: 6.17
+  Spicy Pineapple Chipotle Margarita: 5.51
+  Black Bean Crunch Wrap: 6.67
+  Caramelized Onion and Chorizo Quesadilla: 5.96
+  Savory Carne Asada Burrito: 6.99
+  Caramelized Onion and Goat Cheese Empanadas: 5.2
+  Sweet Corn Tamale Bites: 4.42
+  Coconut Tres Leches: 4.52
+  Charred Corn & Cotija Nachos: 5.75
+  Crispy Tortilla Breakfast Bowl: 7.4
+  Twice-Baked Sweet Potato: 6.18
+  Avocado Street Tacos: 5.59
+  Shrimp and Avocado Ceviche: 9.14
+  Margarita Grilled Chicken: 11.8

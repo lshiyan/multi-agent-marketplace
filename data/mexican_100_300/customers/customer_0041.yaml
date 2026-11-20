@@ -1,8 +1,9 @@
 id: customer_0041
-name: Samuel Rodriguez
-request: Could you please assist me in placing an order for the following item from
-  a business that serves it? I need 1 Horchata Iced Coffee. Thank you for your help
-  in ensuring this request is fulfilled.
+name: Charlotte Zhang
+request: Could you please find a business that serves both the Smoky Chipotle Chicken
+  and Ranchero Eggs Benedict? I would like to order 1 of each. It's important that
+  the business offers both items. Thank you!
 menu_features:
-  Horchata Iced Coffee: 4.49
+  Smoky Chipotle Chicken: 15.09
+  Ranchero Eggs Benedict: 11.8
 amenity_features: []

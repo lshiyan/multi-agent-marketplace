@@ -1,36 +1,38 @@
 id: business_0138
-name: Lime Leaf Lounge
-description: Step into a vibrant oasis where zesty flavors meet bold creativity. Enjoy
-  a fresh take on Mexican and Tex-Mex classics in a lively, welcoming setting.
+name: Mango & Mesa
+description: Savor the vibrant flavors of Mexico and the Southwest with fresh, spicy
+  dishes and creative cocktails in a lively, welcoming atmosphere. From grilled classics
+  to zesty salsas and sweet, decadent desserts, every meal is a celebration at Mango
+  & Mesa.
 rating: 1.0
 progenitor_customer: customer_0046
 menu_features:
-  Coconut Lime Margarita: 10.52
-  Spice-Rubbed Grilled Fajitas: 15.89
-  Blue Corn Tortilla Chips: 5.52
-  Black Bean Street Tacos: 9.27
-  Hatch Green Chile Burger: 11.04
-  Chipotle Lime Shrimp Tacos: 14.56
-  Tamarind-Glazed Ribs: 16.53
-  Breakfast Burrito Bonanza: 8.03
-  Honey-Lime Shrimp Skewers: 14.37
-  Street Corn Elote: 4.34
-  Loaded Nacho Fries: 8.98
-  Avocado Lime Quinoa Bowl: 11.94
-  Cheesy Jalapeno Poppers: 8.16
+  Spicy Chipotle Chicken Wrap: 9.72
+  Crispy Chicken Tostada Bowls: 12.67
+  Pico Avocado Toast: 8.15
+  Stuffed Avocado Delight: 7.29
+  Mexican Street Corn Dip: 6.6
+  Frozen Mango Margarita: 11.21
+  Golden Tequila Sunrise: 9.83
+  Shrimp Ceviche Cups: 9.33
+  Fresh Mango Salsa Nachos: 9.16
+  Honey Lime Grilled Fajitas: 14.34
+  Grilled Street Corn: 5.53
+  Spiced Chocolate Tres Leches: 6.59
+  Margarita Lime Cheesecake: 7.55
 amenity_features: {}
-min_price_factor: 0.66
+min_price_factor: 0.71
 minimum_menu_prices:
-  Coconut Lime Margarita: 6.94
-  Spice-Rubbed Grilled Fajitas: 10.49
-  Blue Corn Tortilla Chips: 3.64
-  Black Bean Street Tacos: 6.12
-  Hatch Green Chile Burger: 7.29
-  Chipotle Lime Shrimp Tacos: 9.61
-  Tamarind-Glazed Ribs: 10.91
-  Breakfast Burrito Bonanza: 5.3
-  Honey-Lime Shrimp Skewers: 9.48
-  Street Corn Elote: 2.86
-  Loaded Nacho Fries: 5.93
-  Avocado Lime Quinoa Bowl: 7.88
-  Cheesy Jalapeno Poppers: 5.39
+  Spicy Chipotle Chicken Wrap: 6.9
+  Crispy Chicken Tostada Bowls: 9.0
+  Pico Avocado Toast: 5.79
+  Stuffed Avocado Delight: 5.18
+  Mexican Street Corn Dip: 4.69
+  Frozen Mango Margarita: 7.96
+  Golden Tequila Sunrise: 6.98
+  Shrimp Ceviche Cups: 6.62
+  Fresh Mango Salsa Nachos: 6.5
+  Honey Lime Grilled Fajitas: 10.83
+  Grilled Street Corn: 3.93
+  Spiced Chocolate Tres Leches: 4.68
+  Margarita Lime Cheesecake: 5.36

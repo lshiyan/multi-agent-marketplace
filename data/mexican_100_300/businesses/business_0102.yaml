@@ -1,48 +1,41 @@
 id: business_0102
-name: Citrus Ember Kitchen
-description: Citrus Ember Kitchen brings vibrant, modern Mexican and Tex-Mex flavors
-  to the table, combining bold spices, grilled specialties, and fresh citrus accents.
-  Our creative menu highlights classic favorites with an inventive twist in a lively,
-  welcoming setting.
+name: Citrus Ember Grill
+description: Citrus Ember Grill serves up bold Mexican and Tex-Mex flavors with a
+  fresh, modern twist. Enjoy vibrant dishes, signature cocktails, and plenty of sizzle
+  in a lively atmosphere.
 rating: 1.0
 progenitor_customer: customer_0034
 menu_features:
-  Lime-Garlic Grilled Chicken: 14.31
-  Chili Chocolate Lava Cake: 6.58
-  Three Cheese Sope: 9.47
-  Vanilla Cinnamon Horchata: 3.65
-  Fresh Limeade: 3.04
-  Tex-Mex Breakfast Skillet: 10.22
-  Hatch Green Chile Rice: 5.7
-  Poblano Pepper Relleno Plate: 13.29
-  Loaded Nacho Fiesta: 11.44
-  Loaded Chorizo Nachos: 9.18
-  Grilled Avocado and Quinoa Bowl: 9.05
-  Spiced Chocolate Flan: 6.2
-  Green Chile Pork Stew: 16.75
-  Avocado Street Tacos: 11.22
-  Breakfast Chorizo Tostadas: 9.85
-  Midnight Mole Enchiladas: 14.74
-  Ancho Chili Rubbed Steak: 15.59
-  Pineapple Pico de Gallo Salsa: 6.74
+  Roasted Poblano Corn Chowder: 7.83
+  Chorizo Breakfast Burrito: 7.57
+  Mango Habanero Margarita: 8.75
+  Vanilla Almond Horchata: 3.99
+  Black Bean and Avocado Wrap: 9.35
+  Sizzling Steak Fajitas: 13.39
+  Smoky Chipotle Queso: 5.62
+  Chipotle Shrimp Skewers: 14.38
+  Mexican Chocolate Lava Cake: 8.58
+  Grilled Shrimp Quesadilla: 15.36
+  Beef Fajita Skillet: 15.83
+  Green Chile Cheesesteak: 11.73
+  Creamy Queso Dip: 6.87
+  Zesty Lime Grilled Chicken: 12.94
+  Mexican Spiced Chocolate Cake: 7.14
 amenity_features: {}
-min_price_factor: 0.9
+min_price_factor: 0.81
 minimum_menu_prices:
-  Lime-Garlic Grilled Chicken: 12.88
-  Chili Chocolate Lava Cake: 5.92
-  Three Cheese Sope: 8.52
-  Vanilla Cinnamon Horchata: 3.29
-  Fresh Limeade: 2.74
-  Tex-Mex Breakfast Skillet: 9.2
-  Hatch Green Chile Rice: 5.13
-  Poblano Pepper Relleno Plate: 11.96
-  Loaded Nacho Fiesta: 10.3
-  Loaded Chorizo Nachos: 8.26
-  Grilled Avocado and Quinoa Bowl: 8.15
-  Spiced Chocolate Flan: 5.58
-  Green Chile Pork Stew: 15.08
-  Avocado Street Tacos: 10.1
-  Breakfast Chorizo Tostadas: 8.87
-  Midnight Mole Enchiladas: 13.27
-  Ancho Chili Rubbed Steak: 14.03
-  Pineapple Pico de Gallo Salsa: 6.07
+  Roasted Poblano Corn Chowder: 6.34
+  Chorizo Breakfast Burrito: 6.64
+  Mango Habanero Margarita: 7.09
+  Vanilla Almond Horchata: 3.23
+  Black Bean and Avocado Wrap: 7.57
+  Sizzling Steak Fajitas: 11.36
+  Smoky Chipotle Queso: 4.55
+  Chipotle Shrimp Skewers: 11.65
+  Mexican Chocolate Lava Cake: 6.95
+  Grilled Shrimp Quesadilla: 12.44
+  Beef Fajita Skillet: 12.82
+  Green Chile Cheesesteak: 9.5
+  Creamy Queso Dip: 5.56
+  Zesty Lime Grilled Chicken: 10.48
+  Mexican Spiced Chocolate Cake: 5.78

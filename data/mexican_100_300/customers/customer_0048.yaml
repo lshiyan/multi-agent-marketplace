@@ -1,8 +1,8 @@
 id: customer_0048
-name: Lucas Young
-request: Please help me find a business that offers Raspberry Chipotle Barbecue Ribs,
-  as I would like to place an order for 1 of this item. It is important to me that
-  the business has exactly what I'm looking for. Thank you.
+name: James Patel
+request: Please help me find a business that serves 'Sizzling Carne Asada' so that
+  I can place an order for 1 of these. It is important that the business can provide
+  this specific menu item. Thank you.
 menu_features:
-  Raspberry Chipotle Barbecue Ribs: 14.99
+  Sizzling Carne Asada: 16.49
 amenity_features: []

@@ -1,10 +1,10 @@
 id: customer_0023
-name: Amelia Thompson
-request: 'Could you please help me find a business where I can place an order for
-  the following items: 1 Ancho Chile Beef Chili and 1 Sunset Grilled Veggie Tacos?
-  It is important that the business offers both of these items as specified, as I
-  intend to purchase them. Thank you.'
+name: Emma Carter
+request: 'I am looking for a business where I can place an order for the following
+  menu items: 1 Adobo Pork Slider and 1 Poblano Pepper Relleno Plate. It is important
+  that the business offers both of these items. Once found, I intend to place an order
+  for them. Thank you for your assistance.'
 menu_features:
-  Ancho Chile Beef Chili: 12.49
-  Sunset Grilled Veggie Tacos: 11.49
+  Adobo Pork Sliders: 11.77
+  Poblano Pepper Relleno Plate: 14.85
 amenity_features: []

@@ -1,44 +1,35 @@
 id: business_0137
-name: Casa Picante y Fresca
-description: Experience the lively flavors of Mexico and the Southwest at Casa Picante
-  y Fresca, where bold chiles, fresh citrus, and vibrant herbs come together in every
-  dish and drink. Enjoy a welcoming atmosphere inspired by traditional and contemporary
-  tastes.
+name: Guac to the Rhythm
+description: "Spice up your day with vibrant Tex-Mex flavors, fresh sips, and sweet\
+  \ treats in an upbeat, feel-good space. From zesty starters to decadent desserts,\
+  \ there\u2019s something for everyone to savor at our lively table."
 rating: 1.0
 progenitor_customer: customer_0046
 menu_features:
-  Fresh Limeade: 3.49
-  Red Chili Chicken Pozole: 11.15
-  Ancho Chili Spiced Ribs: 13.98
-  Fiesta Street Corn: 4.9
-  Pineapple Jalapeno Margarita: 8.68
-  "Cheesy Jalape\xF1o Quesadillas": 10.51
-  "Spicy Jalape\xF1o Limeade": 3.9
-  Spicy Chicken Tortilla Soup: 6.69
-  Honey-Lime Shrimp Skewers: 15.59
-  Avocado Lime Empanadas: 8.62
-  Spiked Horchata Cooler: 5.49
-  Fajita Veggie Burrito Bowl: 15.0
-  Creamy Avocado Caesar Salad: 10.15
-  Roasted Poblano Veggie Skillet: 10.43
-  Grilled Shrimp Skewers: 15.16
-  Three-Cheese Chile Rellenos: 14.02
+  Coconut Tres Leches: 8.43
+  Tamale Trio Sampler: 13.93
+  Pineapple Agua Fresca: 3.09
+  Roasted Corn and Avocado Salad: 8.11
+  Cinnamon Sugar Sopapillas: 4.64
+  Tomatillo Salsa Verde Nachos: 12.63
+  Honey Lime Grilled Fajitas: 15.83
+  Pineapple Jalapeno Sangria: 10.58
+  Warm Cinnamon Churros: 4.77
+  Mango Habanero Margarita: 9.11
+  Fresh Mint Mojito: 8.61
+  Avocado Lime Crema Tostadas: 8.24
 amenity_features: {}
-min_price_factor: 0.63
+min_price_factor: 0.8
 minimum_menu_prices:
-  Fresh Limeade: 2.2
-  Red Chili Chicken Pozole: 7.02
-  Ancho Chili Spiced Ribs: 8.81
-  Fiesta Street Corn: 3.09
-  Pineapple Jalapeno Margarita: 5.47
-  "Cheesy Jalape\xF1o Quesadillas": 6.62
-  "Spicy Jalape\xF1o Limeade": 2.46
-  Spicy Chicken Tortilla Soup: 4.21
-  Honey-Lime Shrimp Skewers: 9.82
-  Avocado Lime Empanadas: 5.43
-  Spiked Horchata Cooler: 3.46
-  Fajita Veggie Burrito Bowl: 9.45
-  Creamy Avocado Caesar Salad: 6.39
-  Roasted Poblano Veggie Skillet: 6.57
-  Grilled Shrimp Skewers: 9.55
-  Three-Cheese Chile Rellenos: 8.83
+  Coconut Tres Leches: 6.74
+  Tamale Trio Sampler: 11.14
+  Pineapple Agua Fresca: 2.47
+  Roasted Corn and Avocado Salad: 6.49
+  Cinnamon Sugar Sopapillas: 3.71
+  Tomatillo Salsa Verde Nachos: 10.1
+  Honey Lime Grilled Fajitas: 12.86
+  Pineapple Jalapeno Sangria: 8.46
+  Warm Cinnamon Churros: 3.82
+  Mango Habanero Margarita: 7.29
+  Fresh Mint Mojito: 6.89
+  Avocado Lime Crema Tostadas: 6.59

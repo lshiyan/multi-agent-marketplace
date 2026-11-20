@@ -1,43 +1,42 @@
 id: business_0122
-name: "Caf\xE9 Canela Mexicana"
-description: "Caf\xE9 Canela Mexicana celebrates vibrant Mexican and Tex-Mex flavors,\
-  \ offering a warm and inviting atmosphere. Savor bold, comforting classics, inventive\
-  \ coffee creations, and sweet treats inspired by regional traditions."
+name: Fajita the Heat
+description: "Turn up the flavor at this playful spot mixing grilled goodness, zesty\
+  \ spices, and a colorful twist on classic Mexican and Tex-Mex favorites. Satisfy\
+  \ your cravings with sizzlin\u2019 skillets, vibrant salsas, and fresh, festive\
+  \ creations."
 rating: 1.0
 progenitor_customer: customer_0041
 menu_features:
-  Chocolate Cinnamon Flan: 5.08
-  Hatch Green Chile Stew: 12.67
-  Crispy Fish Tacos: 11.54
-  Horchata Iced Coffee: 4.23
-  Coffee Cinnamon Mexican Mocha: 4.08
-  Creamy Chipotle Pasta: 12.26
-  Stuffed Chicken Poblano: 12.17
-  Three-Cheese Chile Rellenos: 14.36
-  Black Bean & Cheese Tostadas: 9.5
-  Chipotle Lime Shrimp Skewers: 15.93
-  Verde Ranchero Huevos: 7.56
-  Classic Lime Margarita: 9.17
-  Black Bean and Sweet Potato Empanadas: 8.89
-  "Coconut Horchata Latt\xE9": 3.52
-  Coconut Lime Shrimp Skewers: 16.47
-  Honey Chipotle Wings: 11.78
+  Margarita Grilled Chicken: 14.95
+  Roasted Poblano and Cheese Empanadas: 8.45
+  Smoky Chipotle Steak Fajitas: 13.33
+  Crispy Tinga Chicken Tacos: 11.18
+  Pumpkin Spice Flan: 5.6
+  Flamin' Skillet Fajitas: 22.41
+  Black Bean Stuffed Sweet Potatoes: 5.93
+  Grilled Shrimp Quesadilla: 12.56
+  Chili Lime Jicama Sticks: 5.91
+  Blueberry Agave Mojito: 7.54
+  Breakfast Tostada Stack: 9.76
+  Ranchero Eggs Benedict: 11.98
+  Pineapple Pico de Gallo Salsa: 7.83
+  Smoky Chipotle Chicken: 14.14
+  Carne Asada Fajitas: 16.35
 amenity_features: {}
-min_price_factor: 0.74
+min_price_factor: 0.9
 minimum_menu_prices:
-  Chocolate Cinnamon Flan: 3.76
-  Hatch Green Chile Stew: 9.38
-  Crispy Fish Tacos: 8.54
-  Horchata Iced Coffee: 3.13
-  Coffee Cinnamon Mexican Mocha: 3.02
-  Creamy Chipotle Pasta: 9.07
-  Stuffed Chicken Poblano: 9.01
-  Three-Cheese Chile Rellenos: 10.63
-  Black Bean & Cheese Tostadas: 7.03
-  Chipotle Lime Shrimp Skewers: 11.79
-  Verde Ranchero Huevos: 5.59
-  Classic Lime Margarita: 6.79
-  Black Bean and Sweet Potato Empanadas: 6.58
-  "Coconut Horchata Latt\xE9": 2.6
-  Coconut Lime Shrimp Skewers: 12.19
-  Honey Chipotle Wings: 8.72
+  Margarita Grilled Chicken: 13.46
+  Roasted Poblano and Cheese Empanadas: 7.6
+  Smoky Chipotle Steak Fajitas: 12.0
+  Crispy Tinga Chicken Tacos: 10.06
+  Pumpkin Spice Flan: 5.04
+  Flamin' Skillet Fajitas: 20.17
+  Black Bean Stuffed Sweet Potatoes: 5.34
+  Grilled Shrimp Quesadilla: 11.3
+  Chili Lime Jicama Sticks: 5.32
+  Blueberry Agave Mojito: 6.79
+  Breakfast Tostada Stack: 8.78
+  Ranchero Eggs Benedict: 10.77
+  Pineapple Pico de Gallo Salsa: 7.05
+  Smoky Chipotle Chicken: 12.72
+  Carne Asada Fajitas: 14.72

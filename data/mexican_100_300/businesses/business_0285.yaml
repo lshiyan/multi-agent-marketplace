@@ -1,43 +1,39 @@
 id: business_0285
-name: Savor & Cilantro
-description: Experience a fresh and modern twist on Mexican and Tex-Mex classics,
-  where vibrant flavors and inventive combinations celebrate every bite. Relax in
-  a lively atmosphere and enjoy a menu crafted for brunch, lunch, or dinner.
+name: Sizzle & Slaw
+description: Experience vibrant Mexican and Tex-Mex cuisine with a fresh twist. From
+  flame-grilled dishes to bright, refreshing flavors, every meal is a celebration
+  of color and taste.
 rating: 1.0
 progenitor_customer: customer_0095
 menu_features:
-  Cilantro Lime Chicken Tacos: 10.14
-  Grilled Steak Fajita Platter: 13.9
-  Spicy Shrimp Nacho Platter: 10.55
-  Chipotle Chicken Enchiladas: 13.97
-  Sizzling Steak Fajitas: 17.07
-  Roasted Corn Enchiladas: 10.57
-  Spicy Chipotle Chicken Wrap: 11.11
-  Caramelized Onion and Chorizo Quesadilla: 8.47
-  Spicy Avocado Smash Burger: 10.41
-  Honey-Lime Grilled Salmon: 16.12
-  Breakfast Chilaquiles Verde: 9.13
-  Black Bean and Avocado Wrap: 10.73
-  Pineapple Salsa Nachos: 11.68
-  Avocado Lime Crema Tostadas: 8.15
-  Strawberry Jalapeno Lemonade: 4.62
-  Mango Habanero Wings: 13.26
+  Sunset Grilled Veggie Tacos: 10.05
+  Classic Beef Tacos with Zesty Slaw: 12.58
+  Grilled Steak Quesadilla: 15.1
+  Chili Chocolate Lava Cake: 7.49
+  Mexican Spiced Chocolate Cake: 8.85
+  Passion Fruit Mojito: 8.99
+  Coconut Lime Margarita: 9.53
+  Frozen Strawberry Daiquiri: 8.47
+  Roasted Corn and Black Bean Salad: 8.32
+  Chipotle Lime Chicken Salad: 10.45
+  Fire Roasted Salsa Sampler: 6.04
+  Honey-Lime Grilled Shrimp: 13.42
+  Grilled Shrimp Quesadilla: 12.66
+  Avocado Lime Cheesecake: 5.45
 amenity_features: {}
-min_price_factor: 0.62
+min_price_factor: 0.88
 minimum_menu_prices:
-  Cilantro Lime Chicken Tacos: 6.29
-  Grilled Steak Fajita Platter: 8.62
-  Spicy Shrimp Nacho Platter: 6.54
-  Chipotle Chicken Enchiladas: 8.66
-  Sizzling Steak Fajitas: 10.58
-  Roasted Corn Enchiladas: 6.55
-  Spicy Chipotle Chicken Wrap: 6.89
-  Caramelized Onion and Chorizo Quesadilla: 5.25
-  Spicy Avocado Smash Burger: 6.45
-  Honey-Lime Grilled Salmon: 9.99
-  Breakfast Chilaquiles Verde: 5.66
-  Black Bean and Avocado Wrap: 6.65
-  Pineapple Salsa Nachos: 7.24
-  Avocado Lime Crema Tostadas: 5.05
-  Strawberry Jalapeno Lemonade: 2.86
-  Mango Habanero Wings: 8.22
+  Sunset Grilled Veggie Tacos: 8.84
+  Classic Beef Tacos with Zesty Slaw: 9.3
+  Grilled Steak Quesadilla: 13.29
+  Chili Chocolate Lava Cake: 6.59
+  Mexican Spiced Chocolate Cake: 7.79
+  Passion Fruit Mojito: 7.91
+  Coconut Lime Margarita: 8.39
+  Frozen Strawberry Daiquiri: 7.45
+  Roasted Corn and Black Bean Salad: 7.32
+  Chipotle Lime Chicken Salad: 9.2
+  Fire Roasted Salsa Sampler: 5.32
+  Honey-Lime Grilled Shrimp: 11.81
+  Grilled Shrimp Quesadilla: 11.14
+  Avocado Lime Cheesecake: 4.8

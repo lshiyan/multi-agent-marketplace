@@ -1,34 +1,37 @@
 id: business_0157
-name: Dip, Sip & Sizzle
-description: A vibrant Tex-Mex eatery where bold flavors meet playful twists, serving
-  up spicy wraps, sweet treats, and zesty cocktails in a lively, welcoming atmosphere.
+name: La Parrilla Verde
+description: La Parrilla Verde blends vibrant Mexican and Tex-Mex flavors with fresh,
+  bold ingredients in a lively and welcoming atmosphere. Enjoy sizzling platters,
+  refreshing salsas, and decadent desserts inspired by authentic culinary traditions.
 rating: 1.0
 progenitor_customer: customer_0053
 menu_features:
-  Spicy Chipotle Chicken Wrap: 10.25
-  Chipotle Bean Burrito: 9.68
-  Spiced Chocolate Flan: 7.67
-  Horchata Iced Latte: 5.65
-  "Cheesy Jalape\xF1o Poppers": 7.52
-  Paloma Breeze Cocktail: 7.16
-  Roasted Poblano Queso Dip: 6.24
-  Verde Ranchero Huevos: 11.24
-  Rich Chocolate Tres Leches: 8.76
-  Sweet Corn Tamale Bites: 6.67
-  Ancho Chili Braised Beef Enchiladas: 12.23
-  Avocado Lime Salsa: 5.78
+  Grilled Steak Fajita Platter: 13.74
+  Blue Corn Tostada Salad: 9.86
+  Pineapple Pico de Gallo Nachos: 8.04
+  Black Bean Taco Bowl: 11.18
+  Mexican Coffee Flan: 6.8
+  Avocado Lime Salsa: 5.49
+  Grilled Pineapple Mojito: 7.39
+  Chocolate Cinnamon Flan: 3.86
+  Smoky Chipotle Steak Fajitas: 14.06
+  Honey Chipotle Wings: 12.71
+  Zesty Shrimp Ceviche: 13.06
+  Ancho Chili Spiced Ribs: 18.41
+  Classic Carne Asada Burrito: 10.86
 amenity_features: {}
-min_price_factor: 0.91
+min_price_factor: 0.69
 minimum_menu_prices:
-  Spicy Chipotle Chicken Wrap: 9.33
-  Chipotle Bean Burrito: 8.81
-  Spiced Chocolate Flan: 6.98
-  Horchata Iced Latte: 5.14
-  "Cheesy Jalape\xF1o Poppers": 6.84
-  Paloma Breeze Cocktail: 6.52
-  Roasted Poblano Queso Dip: 5.68
-  Verde Ranchero Huevos: 10.23
-  Rich Chocolate Tres Leches: 7.97
-  Sweet Corn Tamale Bites: 6.07
-  Ancho Chili Braised Beef Enchiladas: 11.13
-  Avocado Lime Salsa: 5.26
+  Grilled Steak Fajita Platter: 11.51
+  Blue Corn Tostada Salad: 6.8
+  Pineapple Pico de Gallo Nachos: 7.53
+  Black Bean Taco Bowl: 7.71
+  Mexican Coffee Flan: 4.69
+  Avocado Lime Salsa: 3.79
+  Grilled Pineapple Mojito: 5.1
+  Chocolate Cinnamon Flan: 3.86
+  Smoky Chipotle Steak Fajitas: 9.7
+  Honey Chipotle Wings: 8.77
+  Zesty Shrimp Ceviche: 9.01
+  Ancho Chili Spiced Ribs: 12.7
+  Classic Carne Asada Burrito: 7.49

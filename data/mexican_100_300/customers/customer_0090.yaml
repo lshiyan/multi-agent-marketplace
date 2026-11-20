@@ -1,12 +1,10 @@
 id: customer_0090
-name: Lucas Anderson
-request: 'Could you please assist me in finding a business where I can place an order
-  for the following items: 1 Sweet Chili Lime Elote, 1 Breakfast Chorizo Torta, and
-  1 Sweet Corn Tamales? It is important that the business offers all of these menu
-  items exactly as listed. Once such a business is found, I intend to proceed with
-  placing the order. Thank you for your assistance.'
+name: Ethan Patel
+request: Could you please assist me in finding a business that can fulfill an order
+  containing exactly 1 'Red Chili Braised Beef Brisket' and 1 'Adobo Pork Sliders'?
+  It is important that the business offers both of these menu items. Once such a business
+  is identified, I intend to proceed with placing the order. Thank you for your help.
 menu_features:
-  Sweet Chili Lime Elote: 4.99
-  Breakfast Chorizo Torta: 8.99
-  Sweet Corn Tamales: 10.99
+  Red Chili Braised Beef Brisket: 18.19
+  Adobo Pork Sliders: 11.49
 amenity_features: []

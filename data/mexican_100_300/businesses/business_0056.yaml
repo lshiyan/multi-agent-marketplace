@@ -1,44 +1,43 @@
 id: business_0056
-name: Sabores del Mercado
-description: Experience the vibrant tastes of Mexico and the borderlands at Sabores
-  del Mercado, where bold flavors, fresh ingredients, and colorful dishes take center
-  stage in every meal. Join us for a classic Mexican dining experience in a warm and
-  welcoming setting.
+name: The Enchiladas Endgame
+description: Experience a sizzling twist on classic Mexican and Tex-Mex fare, packed
+  with bold flavors and vibrant, fresh ingredients. From hearty enchiladas to street
+  tacos and crave-worthy bowls, every meal here is a fiesta for your taste buds.
 rating: 1.0
 progenitor_customer: customer_0019
 menu_features:
-  "Cheesy Jalape\xF1o Queso Dip": 7.18
-  Peach Berry Sangria: 9.66
-  Chipotle Bean Burrito: 9.52
-  Street Corn Fritters: 7.48
-  Green Chile Pork Stew: 13.69
-  Ranchero Steak Fajitas: 24.98
-  Zesty Lime Grilled Chicken: 12.51
-  Hibiscus Iced Tea: 3.21
-  Spiced Pumpkin Empanadas: 7.65
-  Breakfast Burrito Bonanza: 9.22
-  Sweet Corn Tamale Cake: 8.52
-  Spice-Rubbed Grilled Fajitas: 15.11
-  Caramel Apple Empanadas: 5.17
-  Passion Fruit Mojito: 9.93
-  Classic Lime Margarita: 9.49
-  Chili Lime Skirt Steak: 21.72
+  Sizzling Fajita Skillet: 15.47
+  Black Bean & Corn Quesadilla: 10.17
+  Sizzling Fajita Fiesta: 9.45
+  Black Bean Street Tacos: 11.75
+  Avocado Ranch Burrito Bowl: 11.53
+  Avocado Lime Quinoa Bowl: 9.83
+  Black Bean Avocado Enchiladas: 11.06
+  Beef Enchiladas Verdes: 17.14
+  Roasted Poblano and Cheese Empanadas: 9.46
+  Creamy Queso Dip: 8.61
+  Classic Flan Delight: 6.01
+  Ancho Chili Braised Beef Enchiladas: 12.99
+  Cinnamon Sugar Sopapillas: 5.91
+  Choco Flan Combo: 7.51
+  Strawberry Jalapeno Lemonade: 4.01
+  Roasted Tomato Salsa Dip: 2.57
 amenity_features: {}
-min_price_factor: 0.83
+min_price_factor: 0.7
 minimum_menu_prices:
-  "Cheesy Jalape\xF1o Queso Dip": 5.96
-  Peach Berry Sangria: 8.02
-  Chipotle Bean Burrito: 7.9
-  Street Corn Fritters: 6.21
-  Green Chile Pork Stew: 11.36
-  Ranchero Steak Fajitas: 20.73
-  Zesty Lime Grilled Chicken: 10.38
-  Hibiscus Iced Tea: 2.66
-  Spiced Pumpkin Empanadas: 6.35
-  Breakfast Burrito Bonanza: 7.65
-  Sweet Corn Tamale Cake: 7.07
-  Spice-Rubbed Grilled Fajitas: 12.54
-  Caramel Apple Empanadas: 4.29
-  Passion Fruit Mojito: 8.24
-  Classic Lime Margarita: 7.88
-  Chili Lime Skirt Steak: 18.03
+  Sizzling Fajita Skillet: 10.83
+  Black Bean & Corn Quesadilla: 7.12
+  Sizzling Fajita Fiesta: 8.23
+  Black Bean Street Tacos: 8.22
+  Avocado Ranch Burrito Bowl: 8.07
+  Avocado Lime Quinoa Bowl: 6.88
+  Black Bean Avocado Enchiladas: 9.36
+  Beef Enchiladas Verdes: 12.0
+  Roasted Poblano and Cheese Empanadas: 6.62
+  Creamy Queso Dip: 6.03
+  Classic Flan Delight: 4.21
+  Ancho Chili Braised Beef Enchiladas: 9.09
+  Cinnamon Sugar Sopapillas: 4.14
+  Choco Flan Combo: 5.26
+  Strawberry Jalapeno Lemonade: 2.81
+  Roasted Tomato Salsa Dip: 2.57

@@ -1,41 +1,40 @@
 id: business_0173
-name: Sizzle & Skewer
-description: Experience the vibrant flavors of Mexican and Tex-Mex cuisine at Sizzle
-  & Skewer, where bold spices, grilled specialties, and fresh ingredients come together
-  in every dish. Perfect for those craving delicious food in a lively atmosphere.
+name: El Cielo Verde Cantina
+description: Step into El Cielo Verde Cantina for a vibrant Tex-Mex and Mexican dining
+  experience featuring bold flavors, garden-fresh ingredients, and colorful cocktails.
+  Whether you're craving a savory snack or a lively drink, our menu celebrates the
+  spirit of delicious, modern Mexican cuisine.
 rating: 1.0
 progenitor_customer: customer_0058
 menu_features:
-  Beef Fajita Skillet: 17.06
-  Spicy Chipotle Chicken Wrap: 11.89
-  Chipotle Lime Shrimp Skewers: 12.89
-  Crispy Carnitas Quesadilla: 10.97
-  Roasted Poblano Soup: 7.18
-  Ranchero Eggs Benedict: 12.62
-  Agave Lime Chicken Skewers: 12.2
-  Chipotle Lime Chicken Skewers: 10.27
-  Spiced Churro Bites: 5.31
-  Chili Lime Jicama Sticks: 6.53
-  Chili Lime Margarita: 7.73
-  Mesquite Grilled Steak Fajitas: 13.52
-  Coconut Lime Shrimp Skewers: 15.44
-  Queso Fundido with Chorizo: 9.97
-  Jicama and Citrus Salad: 7.12
+  Poblano Pepper Queso Dip: 7.82
+  Classic Mojito with Mint: 7.67
+  Hatch Green Chile Stew: 10.95
+  "Blueberry Jalape\xF1o Margarita": 10.56
+  Spiked Horchata Cooler: 6.72
+  Crispy Avocado Tostadas: 12.02
+  Loaded Nacho Fries: 7.83
+  Beef Enchiladas Verdes: 13.59
+  Roasted Corn and Black Bean Salsa: 7.17
+  Choco Flan Combo: 6.45
+  Coconut Lime Rice Bowl: 9.81
+  Chili Lime Street Corn: 6.24
+  Street Style Corn on the Cob: 5.3
+  Avocado Lime Salad: 8.04
 amenity_features: {}
-min_price_factor: 0.85
+min_price_factor: 0.82
 minimum_menu_prices:
-  Beef Fajita Skillet: 14.5
-  Spicy Chipotle Chicken Wrap: 10.11
-  Chipotle Lime Shrimp Skewers: 10.96
-  Crispy Carnitas Quesadilla: 9.32
-  Roasted Poblano Soup: 6.1
-  Ranchero Eggs Benedict: 10.73
-  Agave Lime Chicken Skewers: 10.37
-  Chipotle Lime Chicken Skewers: 8.73
-  Spiced Churro Bites: 4.51
-  Chili Lime Jicama Sticks: 5.55
-  Chili Lime Margarita: 6.57
-  Mesquite Grilled Steak Fajitas: 11.49
-  Coconut Lime Shrimp Skewers: 13.12
-  Queso Fundido with Chorizo: 8.47
-  Jicama and Citrus Salad: 6.05
+  Poblano Pepper Queso Dip: 7.08
+  Classic Mojito with Mint: 6.29
+  Hatch Green Chile Stew: 8.98
+  "Blueberry Jalape\xF1o Margarita": 9.45
+  Spiked Horchata Cooler: 5.51
+  Crispy Avocado Tostadas: 9.86
+  Loaded Nacho Fries: 6.42
+  Beef Enchiladas Verdes: 11.14
+  Roasted Corn and Black Bean Salsa: 5.88
+  Choco Flan Combo: 5.29
+  Coconut Lime Rice Bowl: 8.04
+  Chili Lime Street Corn: 5.12
+  Street Style Corn on the Cob: 4.35
+  Avocado Lime Salad: 7.27

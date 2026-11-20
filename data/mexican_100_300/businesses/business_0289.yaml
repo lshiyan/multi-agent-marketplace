@@ -1,43 +1,41 @@
 id: business_0289
-name: "Let's Give \u2018Em Something to Taco Pin-About"
-description: Get ready for a flavor fiesta where sweet, spicy, and savory come together
-  in every bite. From crispy quesadillas to zesty ceviche, our kitchen brings bold
-  Tex-Mex twists to classic favorites.
+name: Sierra Verde Cantina
+description: Experience vibrant Mexican and Tex-Mex flavors with a fresh twist at
+  Sierra Verde Cantina. Enjoy a colorful menu of bold, zesty dishes and signature
+  drinks in a lively, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0097
 menu_features:
-  Roasted Poblano Soup: 6.33
-  Spicy Shrimp Ceviche: 10.72
-  Jalapeno Cheddar Cornbread: 4.7
-  Sweet Potato and Black Bean Tacos: 10.94
-  Spicy Black Bean Nacho Platter: 13.51
-  Crispy Carnitas Quesadilla: 11.94
-  Grilled Pineapple Salsa: 6.11
-  Smoky Chipotle Chicken: 15.16
-  Blueberry Jalapeno Lemonade: 4.24
-  Blue Corn Tostada Salad: 12.04
-  Classic Horchata Smoothie: 4.85
-  Sweet Corn Tostadas: 8.33
-  Avocado Lime Empanadas: 7.34
-  Crispy Fish Tacos: 9.68
-  Roasted Pepper Queso Dip: 7.0
-  Frozen Mango Margarita: 9.55
+  Avocado Lime Quinoa Bowl: 9.58
+  Tropical Guava Mint Punch: 5.28
+  Grilled Steak Quesadilla: 14.4
+  Pineapple Habanero Salsa: 4.91
+  Tamale Trio Sampler: 11.22
+  Sizzling Fajita Skillet: 15.2
+  Roasted Corn and Avocado Salad: 8.37
+  Chipotle Bean Burrito: 10.72
+  Honey Chipotle Wings: 9.17
+  Cilantro Lime Shrimp Skewers: 13.41
+  Choco-Chili Volcano Cake: 5.71
+  Golden Tequila Sunrise: 8.82
+  Creamy Avocado Caesar Salad: 11.3
+  Spicy Shrimp Nacho Platter: 12.23
+  Avocado & Tomato Breakfast Tostadas: 10.01
 amenity_features: {}
-min_price_factor: 0.91
+min_price_factor: 0.86
 minimum_menu_prices:
-  Roasted Poblano Soup: 5.76
-  Spicy Shrimp Ceviche: 9.76
-  Jalapeno Cheddar Cornbread: 4.28
-  Sweet Potato and Black Bean Tacos: 9.96
-  Spicy Black Bean Nacho Platter: 12.29
-  Crispy Carnitas Quesadilla: 10.87
-  Grilled Pineapple Salsa: 5.56
-  Smoky Chipotle Chicken: 13.8
-  Blueberry Jalapeno Lemonade: 3.86
-  Blue Corn Tostada Salad: 10.96
-  Classic Horchata Smoothie: 4.41
-  Sweet Corn Tostadas: 7.58
-  Avocado Lime Empanadas: 6.68
-  Crispy Fish Tacos: 8.81
-  Roasted Pepper Queso Dip: 6.37
-  Frozen Mango Margarita: 8.69
+  Avocado Lime Quinoa Bowl: 8.24
+  Tropical Guava Mint Punch: 4.24
+  Grilled Steak Quesadilla: 12.38
+  Pineapple Habanero Salsa: 4.22
+  Tamale Trio Sampler: 9.65
+  Sizzling Fajita Skillet: 13.07
+  Roasted Corn and Avocado Salad: 7.2
+  Chipotle Bean Burrito: 9.22
+  Honey Chipotle Wings: 7.89
+  Cilantro Lime Shrimp Skewers: 11.53
+  Choco-Chili Volcano Cake: 4.91
+  Golden Tequila Sunrise: 7.59
+  Creamy Avocado Caesar Salad: 9.72
+  Spicy Shrimp Nacho Platter: 10.22
+  Avocado & Tomato Breakfast Tostadas: 8.61

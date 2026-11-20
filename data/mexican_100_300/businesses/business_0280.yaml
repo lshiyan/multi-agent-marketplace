@@ -1,35 +1,47 @@
 id: business_0280
-name: "Cocina Pi\xF1a Verde"
-description: A modern Mexican-inspired eatery celebrating fresh flavors and vibrant
-  dishes. Enjoy a creative menu featuring bold salsas, hearty bowls, and refreshing
-  drinks in a lively, welcoming atmosphere.
+name: Skillet & Skewer Social
+description: Step into a vibrant gathering place where bold flavors meet creative
+  Tex-Mex traditions. From sizzling skillets to smoky skewers, every bite is a celebration
+  of fresh ingredients and spirited hospitality.
 rating: 1.0
 progenitor_customer: customer_0094
 menu_features:
-  Pineapple Salsa Pork Tacos: 12.02
-  Tomatillo Ranch Enchiladas: 12.48
-  Hatch Chile Queso Dip: 9.25
-  Golden Tequila Sunrise: 9.08
-  Fajita Veggie Burrito Bowl: 13.31
-  Vegetarian Tamale Platter: 12.41
-  Ancho Honey-Glazed Salmon: 13.72
-  Coconut Lime Rice Bowl: 10.13
-  Roasted Corn Enchiladas: 12.11
-  Spicy Chicken Tortilla Soup: 5.03
-  Creamy Avocado Smoothie: 4.82
-  Black Bean and Avocado Wrap: 10.64
+  Chipotle Shrimp Skewers: 13.97
+  Pineapple Habanero Margarita: 11.51
+  Roasted Corn and Black Bean Salad: 9.89
+  Blue Corn Tortilla Chips: 3.82
+  Spicy Street Corn: 5.27
+  Spicy Chocolate Churros: 3.2
+  Avocado & Tomato Breakfast Tostadas: 9.01
+  Tex-Mex Breakfast Skillet: 9.14
+  Smoky Mezcal Mule: 10.33
+  Three-Cheese Queso Dip: 6.93
+  Loaded Sweet Potato Fries: 5.08
+  Coconut Lime Shrimp Skewers: 15.7
+  Cucumber Jalapeno Agua Fresca: 3.28
+  Crispy Avocado Wedges: 8.64
+  Crispy Chicken Tostada Bowls: 18.33
+  Tex-Mex Big Breakfast Bowl: 10.09
+  Honey Lime Grilled Chicken: 11.89
+  Spicy Shrimp Fajitas: 14.36
 amenity_features: {}
-min_price_factor: 0.75
+min_price_factor: 0.65
 minimum_menu_prices:
-  Pineapple Salsa Pork Tacos: 9.02
-  Tomatillo Ranch Enchiladas: 9.36
-  Hatch Chile Queso Dip: 6.94
-  Golden Tequila Sunrise: 6.81
-  Fajita Veggie Burrito Bowl: 9.98
-  Vegetarian Tamale Platter: 9.31
-  Ancho Honey-Glazed Salmon: 10.29
-  Coconut Lime Rice Bowl: 7.6
-  Roasted Corn Enchiladas: 9.08
-  Spicy Chicken Tortilla Soup: 3.77
-  Creamy Avocado Smoothie: 3.62
-  Black Bean and Avocado Wrap: 7.98
+  Chipotle Shrimp Skewers: 9.08
+  Pineapple Habanero Margarita: 7.48
+  Roasted Corn and Black Bean Salad: 6.43
+  Blue Corn Tortilla Chips: 2.48
+  Spicy Street Corn: 3.43
+  Spicy Chocolate Churros: 3.2
+  Avocado & Tomato Breakfast Tostadas: 5.86
+  Tex-Mex Breakfast Skillet: 5.94
+  Smoky Mezcal Mule: 6.71
+  Three-Cheese Queso Dip: 4.5
+  Loaded Sweet Potato Fries: 4.56
+  Coconut Lime Shrimp Skewers: 10.21
+  Cucumber Jalapeno Agua Fresca: 2.13
+  Crispy Avocado Wedges: 5.62
+  Crispy Chicken Tostada Bowls: 11.91
+  Tex-Mex Big Breakfast Bowl: 6.56
+  Honey Lime Grilled Chicken: 8.99
+  Spicy Shrimp Fajitas: 9.33

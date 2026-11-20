@@ -1,9 +1,12 @@
 id: customer_0019
-name: Fatima Khan
-request: Please locate a business that offers both a Peach Berry Sangria and Street
-  Corn Fritters, as I'd like to place an order for one of each. These specific items
-  are essential for my needs. Thank you for your assistance.
+name: Liam Gonzalez
+request: 'Could you please assist me in finding a restaurant or business that offers
+  the following menu items, as I would like to place an order: 1 Sizzling Fajita Fiesta,
+  1 Roasted Tomato Salsa Dip, and 1 Black Bean Avocado Enchiladas? I am specifically
+  looking for a place that can fulfill all of these menu items. Thank you for your
+  help.'
 menu_features:
-  Peach Berry Sangria: 8.99
-  Street Corn Fritters: 6.99
+  Sizzling Fajita Fiesta: 14.23
+  Roasted Tomato Salsa Dip: 3.94
+  Black Bean Avocado Enchiladas: 12.78
 amenity_features: []

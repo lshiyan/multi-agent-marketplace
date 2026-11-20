@@ -1,8 +1,10 @@
 id: customer_0043
-name: Liam Wright
-request: 'I would like to place an order for the following menu item: Blueberry Mint
-  Agua Fresca, quantity 1. Please find a business that can fulfill this order, as
-  it is very important to me. Thank you.'
+name: Henry Zhang
+request: Please help me find a business that offers both 'Ancho Chile Beef Chili'
+  and 'Green Chile Pork Stew', as I would like to place an order for 1 of each. It
+  is important that the business can fulfill these specific menu items. Thank you
+  for your assistance.
 menu_features:
-  Blueberry Mint Agua Fresca: 3.99
+  Ancho Chile Beef Chili: 15.54
+  Green Chile Pork Stew: 17.33
 amenity_features: []

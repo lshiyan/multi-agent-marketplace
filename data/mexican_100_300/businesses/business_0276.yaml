@@ -1,35 +1,33 @@
 id: business_0276
-name: "El Jard\xEDn del Lim\xF3n"
-description: "Experience the fresh flavors of Mexico and the Southwest in a vibrant,\
-  \ welcoming atmosphere. El Jard\xEDn del Lim\xF3n invites you to savor zesty, creative\
-  \ dishes and classic favorites crafted with bold, seasonal ingredients."
+name: Quirk & Quesadilla
+description: Step into a vibrant Tex-Mex hideaway where zesty sips and sizzling grills
+  come together for a fiesta of flavors. From classic cocktails to bold bites, every
+  meal is crafted to spark joy and satisfy your cravings.
 rating: 1.0
 progenitor_customer: customer_0092
 menu_features:
-  Fresh Limeade: 3.6
-  Loaded Street Corn: 6.12
-  Ranchero Eggs Benedict: 10.12
-  Avocado Lime Grilled Shrimp: 12.84
-  Avocado Lime Dip: 6.44
-  Smoky Black Bean Nachos: 10.76
-  Pumpkin Spice Flan: 8.52
-  Spicy Black Bean Tacos: 10.86
-  Bacon Wrapped Jalapeno Bites: 7.24
-  Tequila Lime Grilled Chicken: 13.89
-  Three-Cheese Queso Dip: 7.38
-  Tequila Lime Flan: 7.32
+  Refreshing Agua Fresca Trio: 7.44
+  Sizzling Chicken Fajitas: 15.79
+  Street Style Quesadillas: 11.41
+  Classic Mojito with Mint: 7.44
+  Golden Tequila Sunrise: 7.11
+  Grilled Chipotle Chicken Burrito: 12.07
+  Cinnamon Sugar Sopapillas: 5.69
+  Avocado Lime Grilled Shrimp: 13.41
+  Grilled Shrimp Skewers: 15.53
+  Roasted Red Pepper Quesadilla: 11.52
+  Tequila Lime Grilled Shrimp: 12.79
 amenity_features: {}
-min_price_factor: 0.7
+min_price_factor: 0.61
 minimum_menu_prices:
-  Fresh Limeade: 2.52
-  Loaded Street Corn: 4.28
-  Ranchero Eggs Benedict: 7.08
-  Avocado Lime Grilled Shrimp: 8.99
-  Avocado Lime Dip: 4.51
-  Smoky Black Bean Nachos: 7.53
-  Pumpkin Spice Flan: 5.96
-  Spicy Black Bean Tacos: 7.6
-  Bacon Wrapped Jalapeno Bites: 5.07
-  Tequila Lime Grilled Chicken: 9.72
-  Three-Cheese Queso Dip: 5.17
-  Tequila Lime Flan: 5.12
+  Refreshing Agua Fresca Trio: 4.54
+  Sizzling Chicken Fajitas: 9.63
+  Street Style Quesadillas: 6.96
+  Classic Mojito with Mint: 4.54
+  Golden Tequila Sunrise: 4.34
+  Grilled Chipotle Chicken Burrito: 7.36
+  Cinnamon Sugar Sopapillas: 3.47
+  Avocado Lime Grilled Shrimp: 8.18
+  Grilled Shrimp Skewers: 9.47
+  Roasted Red Pepper Quesadilla: 7.03
+  Tequila Lime Grilled Shrimp: 8.05

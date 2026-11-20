@@ -1,7 +1,11 @@
 id: customer_0077
-name: Emma Scott
-request: Could you please help me find a business that serves Citrus Grilled Chicken
-  Tacos, as I would like to place an order for 1 of these tacos? Thank you!
+name: Ethan Brooks
+request: Could you please assist me in finding a business that offers the following
+  menu items? I would like to place an order for 1 Cinnamon Churro Bites, 1 Bacon
+  Wrapped Jalapeno Bites, and 1 Baja Fish Taco Plate. It is crucial that the business
+  can fulfill this entire order. Thank you.
 menu_features:
-  Citrus Grilled Chicken Tacos: 11.99
+  Cinnamon Churro Bites: 4.27
+  Bacon Wrapped Jalapeno Bites: 9.77
+  Baja Fish Taco Plate: 16.28
 amenity_features: []

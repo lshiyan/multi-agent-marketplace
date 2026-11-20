@@ -1,8 +1,10 @@
 id: customer_0002
-name: Ava Clark
-request: Could you please assist me in finding a business that offers the menu item
-  'Mango Jalapeno Salsa and Chips'? I would like to place an order for 1 of these.
-  Thank you for your help in locating a suitable business that can fulfill this request.
+name: Lucas Singh
+request: 'Could you please find a business that offers and sells the following menu
+  items: 1 Lime-Cilantro Quinoa Salad, 1 Verde Chicken Enchiladas, and 1 Loaded Nachos
+  Grande? I intend to place an order for these items. Thank you.'
 menu_features:
-  Mango Jalapeno Salsa and Chips: 5.49
+  Lime-Cilantro Quinoa Salad: 10.88
+  Verde Chicken Enchiladas: 14.91
+  Loaded Nachos Grande: 11.77
 amenity_features: []

@@ -1,39 +1,35 @@
 id: business_0043
-name: Ember & Avocado
-description: Experience a fresh, modern take on Mexican and Tex-Mex favorites, where
-  vibrant flavors meet fire-roasted goodness. Gather with friends and unwind over
-  bold salads, sizzling skillets, and signature drinks in a lively, welcoming setting.
+name: Holy Mole & Roll
+description: A vibrant spot where bold flavors and playful twists on Mexican and Tex-Mex
+  classics come together. Indulge in zesty bites, creative salsas, and sweet surprises
+  that invite you to savor every moment.
 rating: 1.0
 progenitor_customer: customer_0015
 menu_features:
-  Roasted Poblano and Cheese Empanadas: 10.06
-  Smoky Chipotle BBQ Nachos: 11.78
-  Roasted Corn and Avocado Salad: 9.78
-  Huevos Rancheros: 12.68
-  Creamy Queso Dip: 7.18
-  Fresh Lime Cilantro Rice: 2.62
-  Beef Fajita Skillet: 12.31
-  Spicy Avocado Smash Burger: 11.46
-  Mexican Coffee Flan: 6.5
-  Strawberry Jalapeno Lemonade: 3.93
-  Fresh Limeade: 3.45
-  Lime-Garlic Grilled Chicken: 13.5
-  Smoky Black Bean Tostadas: 10.55
-  Shrimp Ceviche Cups: 10.6
+  Rich Chocolate Tamales: 7.7
+  Savory Carne Asada Burrito: 14.82
+  Creamy Queso Dip: 6.63
+  Tamale Trio Platter: 13.58
+  Beef Barbacoa Burrito Bowl: 11.6
+  Choco Flan Combo: 6.89
+  Hatch Green Chile Burger: 12.14
+  "Spicy Jalape\xF1o Limeade": 3.47
+  Avocado Lime Salsa: 4.39
+  Blue Corn Tortilla Chips: 5.03
+  Spicy Chorizo Enchiladas: 14.59
+  Black Bean Stuffed Bell Peppers: 9.47
 amenity_features: {}
-min_price_factor: 0.75
+min_price_factor: 0.82
 minimum_menu_prices:
-  Roasted Poblano and Cheese Empanadas: 7.54
-  Smoky Chipotle BBQ Nachos: 8.83
-  Roasted Corn and Avocado Salad: 7.33
-  Huevos Rancheros: 9.51
-  Creamy Queso Dip: 5.38
-  Fresh Lime Cilantro Rice: 1.97
-  Beef Fajita Skillet: 9.23
-  Spicy Avocado Smash Burger: 8.6
-  Mexican Coffee Flan: 4.88
-  Strawberry Jalapeno Lemonade: 2.95
-  Fresh Limeade: 2.59
-  Lime-Garlic Grilled Chicken: 10.12
-  Smoky Black Bean Tostadas: 7.91
-  Shrimp Ceviche Cups: 7.95
+  Rich Chocolate Tamales: 6.31
+  Savory Carne Asada Burrito: 12.15
+  Creamy Queso Dip: 5.44
+  Tamale Trio Platter: 11.14
+  Beef Barbacoa Burrito Bowl: 9.51
+  Choco Flan Combo: 5.65
+  Hatch Green Chile Burger: 9.95
+  "Spicy Jalape\xF1o Limeade": 2.85
+  Avocado Lime Salsa: 3.6
+  Blue Corn Tortilla Chips: 4.12
+  Spicy Chorizo Enchiladas: 10.33
+  Black Bean Stuffed Bell Peppers: 7.77

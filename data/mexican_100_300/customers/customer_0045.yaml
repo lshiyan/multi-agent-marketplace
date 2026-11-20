@@ -1,8 +1,9 @@
 id: customer_0045
-name: Daniel Ahmed
-request: I am looking for a business that offers a Grilled Pineapple and Shrimp Salad,
-  and I would like to place an order for 1 of these. Please assist me in finding such
-  a business that can fulfill this request. Thank you.
+name: Joshua Singh
+request: Could you please help me find a business that offers both a Spicy Avocado
+  Burger and a Poblano Pepper Relleno Plate? I would like to place an order for 1
+  Spicy Avocado Burger and 1 Poblano Pepper Relleno Plate. Thank you!
 menu_features:
-  Grilled Pineapple and Shrimp Salad: 12.99
+  Spicy Avocado Burger: 13.39
+  Poblano Pepper Relleno Plate: 15.15
 amenity_features: []

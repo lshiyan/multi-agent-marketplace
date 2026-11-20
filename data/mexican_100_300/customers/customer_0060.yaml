@@ -1,9 +1,11 @@
 id: customer_0060
-name: Leo Rossi
-request: Please find a business that offers both 'Cucumber Jalapeno Agua Fresca' and
-  'Roasted Corn and Black Bean Salad,' as I would like to place an order for 1 of
-  each. Thank you.
+name: "Ava M\xFCller"
+request: 'Could you please help me find a business that serves the following menu
+  items: 1 Caramelized Onion and Chorizo Quesadilla, 1 Sweet Corn Tamale Bites, and
+  1 Twice-Baked Sweet Potato? It''s important that the business offers exactly these
+  items as I intend to place an order once found. Thank you!'
 menu_features:
-  Cucumber Jalapeno Agua Fresca: 3.99
-  Roasted Corn and Black Bean Salad: 8.49
+  Caramelized Onion and Chorizo Quesadilla: 9.35
+  Sweet Corn Tamale Bites: 7.08
+  Twice-Baked Sweet Potato: 7.77
 amenity_features: []

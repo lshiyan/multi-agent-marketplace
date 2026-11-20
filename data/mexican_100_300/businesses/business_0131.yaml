@@ -1,45 +1,35 @@
 id: business_0131
-name: Sunfire Cantina
-description: Sunfire Cantina brings a vibrant twist to Mexican and Tex-Mex cuisine
-  with bold flavors, fresh ingredients, and creative cocktails. Relax in a lively,
-  modern space while savoring zesty small plates and handcrafted drinks.
+name: Rib & Ristra
+description: Experience the bold fusion of smoky, spicy, and sweet flavors in a vibrant
+  setting inspired by Mexican and Tex-Mex traditions. Our kitchen delivers inventive
+  dishes and refreshing drinks with a zest for every craving.
 rating: 1.0
 progenitor_customer: customer_0044
 menu_features:
-  Black Bean and Corn Salsa: 3.92
-  Peppered Steak Nachos: 13.02
-  Molten Queso Fundido: 8.09
-  Spicy Mango Margarita: 10.03
-  Pineapple Jalapeno Salsa: 5.21
-  Smoky Chipotle BBQ Nachos: 9.66
-  Passion Fruit Agua Fresca: 4.57
-  Tamarind Spiced Agua Fresca: 3.94
-  Paloma Breeze Cocktail: 6.47
-  Tres Leches Cake: 5.05
-  Vanilla Flan with Caramel Sauce: 6.43
-  Frozen Strawberry Margarita: 8.85
-  Passion Fruit Mojito: 7.74
-  Chili Lime Jicama Sticks: 5.74
-  Cactus Flower Iced Tea: 3.63
-  Spiced Churro Bites: 6.41
-  Zesty Lime Chicken Fajitas: 17.11
+  Queso Fundido with Chorizo: 7.78
+  Strawberry Jalapeno Lemonade: 4.06
+  Black Bean Sweet Potato Burrito: 8.3
+  Spicy Mango Margarita: 9.01
+  Fajita Veggie Burrito Bowl: 13.11
+  Loaded Nacho Skillet: 9.93
+  Ancho Chile Beef Chili: 10.61
+  Pineapple Salsa Pork Tacos: 11.98
+  Coconut Lime Rice Bowl: 9.49
+  Ancho Chili Spiced Ribs: 13.64
+  Roasted Poblano Queso Dip: 5.99
+  Coconut Lime Tres Leches: 7.42
 amenity_features: {}
-min_price_factor: 0.75
+min_price_factor: 0.64
 minimum_menu_prices:
-  Black Bean and Corn Salsa: 2.94
-  Peppered Steak Nachos: 9.77
-  Molten Queso Fundido: 6.07
-  Spicy Mango Margarita: 7.52
-  Pineapple Jalapeno Salsa: 3.91
-  Smoky Chipotle BBQ Nachos: 7.25
-  Passion Fruit Agua Fresca: 3.43
-  Tamarind Spiced Agua Fresca: 2.96
-  Paloma Breeze Cocktail: 4.85
-  Tres Leches Cake: 3.79
-  Vanilla Flan with Caramel Sauce: 4.82
-  Frozen Strawberry Margarita: 6.64
-  Passion Fruit Mojito: 5.8
-  Chili Lime Jicama Sticks: 4.3
-  Cactus Flower Iced Tea: 2.72
-  Spiced Churro Bites: 4.81
-  Zesty Lime Chicken Fajitas: 12.83
+  Queso Fundido with Chorizo: 4.98
+  Strawberry Jalapeno Lemonade: 2.6
+  Black Bean Sweet Potato Burrito: 5.31
+  Spicy Mango Margarita: 5.77
+  Fajita Veggie Burrito Bowl: 8.39
+  Loaded Nacho Skillet: 6.36
+  Ancho Chile Beef Chili: 7.65
+  Pineapple Salsa Pork Tacos: 7.67
+  Coconut Lime Rice Bowl: 6.07
+  Ancho Chili Spiced Ribs: 8.73
+  Roasted Poblano Queso Dip: 4.69
+  Coconut Lime Tres Leches: 4.75

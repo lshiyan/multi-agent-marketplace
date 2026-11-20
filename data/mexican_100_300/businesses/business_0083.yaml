@@ -1,39 +1,35 @@
 id: business_0083
-name: Sope & Sip
-description: Sope & Sip brings a fresh take on Mexican and Tex-Mex favorites, pairing
-  creative sopes, savory small plates, and vibrant drinks. Experience a fusion of
-  flavors both classic and sweet in a lively, welcoming atmosphere.
+name: "Jalape\xF1o & Joy"
+description: A vibrant spot to savor creative Mexican and Tex-Mex flavors with a modern
+  twist. Enjoy festive drinks, bold salsas, and unique dishes in a lively, welcoming
+  atmosphere.
 rating: 1.0
 progenitor_customer: customer_0028
 menu_features:
-  Three Cheese Sope: 10.88
-  Choco Flan Combo: 8.03
-  Sweet Corn Tamale Cake: 7.88
-  Horchata Milkshake: 5.88
-  Sweet Plantain Empanadas: 5.85
-  Black Bean & Corn Enchiladas: 11.6
-  Raspberry Jalapeno Mojito: 7.43
-  Cilantro Lime Grilled Shrimp: 11.74
-  Queso Fundido with Chorizo: 8.19
-  Crispy Carnitas Tacos: 12.2
-  Sweet Corn Tostadas: 7.09
-  Cactus Flower Iced Tea: 3.83
-  Grilled Shrimp Skewers: 14.24
-  Spiced Agave Margarita: 9.83
+  "Strawberry Jalape\xF1o Mocktail": 5.46
+  Agave Lime Margarita: 11.07
+  Breakfast Chilaquiles Verde: 11.68
+  Chocolate Mole Brownie: 8.89
+  Black Bean Stuffed Sweet Potatoes: 9.48
+  Smoky Chipotle Quesadillas: 10.27
+  Grilled Pineapple Salsa: 6.03
+  Three-Cheese Queso Dip: 6.0
+  Coconut Lime Margarita: 8.31
+  Tamarind Spiced Agua Fresca: 4.52
+  Chipotle Bourbon Carnitas: 14.85
+  Mexican Chocolate Milkshake: 7.18
 amenity_features: {}
-min_price_factor: 0.77
+min_price_factor: 0.66
 minimum_menu_prices:
-  Three Cheese Sope: 8.38
-  Choco Flan Combo: 6.18
-  Sweet Corn Tamale Cake: 6.07
-  Horchata Milkshake: 4.53
-  Sweet Plantain Empanadas: 4.5
-  Black Bean & Corn Enchiladas: 8.93
-  Raspberry Jalapeno Mojito: 5.72
-  Cilantro Lime Grilled Shrimp: 9.04
-  Queso Fundido with Chorizo: 6.31
-  Crispy Carnitas Tacos: 9.39
-  Sweet Corn Tostadas: 5.46
-  Cactus Flower Iced Tea: 2.95
-  Grilled Shrimp Skewers: 10.96
-  Spiced Agave Margarita: 7.57
+  "Strawberry Jalape\xF1o Mocktail": 3.6
+  Agave Lime Margarita: 7.31
+  Breakfast Chilaquiles Verde: 7.71
+  Chocolate Mole Brownie: 5.87
+  Black Bean Stuffed Sweet Potatoes: 6.26
+  Smoky Chipotle Quesadillas: 6.78
+  Grilled Pineapple Salsa: 4.1
+  Three-Cheese Queso Dip: 3.96
+  Coconut Lime Margarita: 5.48
+  Tamarind Spiced Agua Fresca: 2.98
+  Chipotle Bourbon Carnitas: 9.8
+  Mexican Chocolate Milkshake: 4.86

@@ -1,40 +1,39 @@
 id: business_0128
-name: Chipotle & Charm
-description: "A fiesta of bold flavors and playful twists, Chipotle & Charm brings\
-  \ you fresh, vibrant Mexican and Tex-Mex fare\u2014perfect for anyone craving a\
-  \ zesty, unforgettable experience. Indulge in lively salads, craveable small bites,\
-  \ and refreshing drinks in a spirited, welcoming setting."
+name: Rib, Rub & Roll
+description: Dig into bold, zesty Tex-Mex and Mexican classics where every dish packs
+  a punch. From ribs to wraps, our kitchen delivers vibrant flavors and mouthwatering
+  twists on beloved favorites.
 rating: 1.0
 progenitor_customer: customer_0043
 menu_features:
-  Chili Lime Watermelon Salad: 8.15
-  Creamy Chipotle Pasta: 11.83
-  Smoky Chipotle BBQ Nachos: 10.21
-  Avocado Lime Salsa: 5.49
-  Al Pastor Pork Tacos: 12.4
-  Classic Horchata Delight: 4.41
-  Blueberry Mint Agua Fresca: 4.13
-  Coconut Lime Tres Leches: 5.51
-  Blue Corn Enchilada Bake: 12.41
-  Zesty Lime Shrimp Salad: 14.06
-  Blueberry Hibiscus Margarita: 6.97
-  Margarita Grilled Chicken: 12.33
-  Bacon Wrapped Jalapeno Bites: 7.42
-  "Cheesy Jalape\xF1o Queso Dip": 6.71
+  Ancho Chile BBQ Ribs: 19.63
+  Pineapple Salsa Nachos: 10.53
+  Avocado Lime Crema Tostadas: 9.58
+  Al Pastor Pork Tacos: 14.51
+  Citrus Marinated Carne Asada: 16.04
+  Black Bean Burgers: 9.46
+  Green Chile Pork Stew: 12.66
+  Sizzling Beef Alambre: 13.63
+  Ancho Chile Beef Chili: 14.22
+  Tex-Mex Fajita Wrap: 12.32
+  Creamy Avocado Soup: 5.56
+  Grilled Shrimp Skewers: 15.38
+  Zesty Lime Shrimp Salad: 10.81
+  Fajita Veggie Burrito Bowl: 13.08
 amenity_features: {}
-min_price_factor: 0.66
+min_price_factor: 0.84
 minimum_menu_prices:
-  Chili Lime Watermelon Salad: 5.38
-  Creamy Chipotle Pasta: 7.81
-  Smoky Chipotle BBQ Nachos: 6.74
-  Avocado Lime Salsa: 3.62
-  Al Pastor Pork Tacos: 8.18
-  Classic Horchata Delight: 2.91
-  Blueberry Mint Agua Fresca: 2.73
-  Coconut Lime Tres Leches: 3.64
-  Blue Corn Enchilada Bake: 8.19
-  Zesty Lime Shrimp Salad: 9.28
-  Blueberry Hibiscus Margarita: 4.6
-  Margarita Grilled Chicken: 8.14
-  Bacon Wrapped Jalapeno Bites: 4.9
-  "Cheesy Jalape\xF1o Queso Dip": 4.43
+  Ancho Chile BBQ Ribs: 16.49
+  Pineapple Salsa Nachos: 8.85
+  Avocado Lime Crema Tostadas: 8.05
+  Al Pastor Pork Tacos: 12.19
+  Citrus Marinated Carne Asada: 13.47
+  Black Bean Burgers: 7.95
+  Green Chile Pork Stew: 11.45
+  Sizzling Beef Alambre: 11.45
+  Ancho Chile Beef Chili: 12.83
+  Tex-Mex Fajita Wrap: 10.35
+  Creamy Avocado Soup: 4.67
+  Grilled Shrimp Skewers: 12.92
+  Zesty Lime Shrimp Salad: 9.08
+  Fajita Veggie Burrito Bowl: 10.99

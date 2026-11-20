@@ -1,47 +1,35 @@
 id: business_0202
-name: Mucho Quesadilla About Nothing
-description: A cheerful Tex-Mex spot where melting cheese, vibrant salsas, and bold
-  flavors come together for a delightful dining experience. Savor creative takes on
-  classic favorites and refreshing drinks in a fun, laid-back setting.
+name: Chipotle Charm Cantina
+description: Experience bold Tex-Mex flavors and vibrant Mexican-inspired dishes in
+  a lively, welcoming setting. From smoky classics to spicy favorites, every plate
+  is crafted to deliver a delicious, memorable meal.
 rating: 1.0
 progenitor_customer: customer_0068
 menu_features:
-  Black Bean & Corn Quesadilla: 10.07
-  Vanilla Cinnamon Horchata: 3.99
-  Pork Carnitas Platter: 12.73
-  "Cheesy Jalape\xF1o Quesadillas": 8.47
-  Tropical Pineapple Salsa: 3.32
-  Avocado & Tomato Breakfast Tostadas: 8.47
-  Blueberry Hibiscus Margarita: 8.14
-  Crispy Fish Street Tacos: 11.4
-  Breakfast Tostada Stack: 10.19
-  Al Pastor Quesadilla: 13.15
-  Roasted Pecan Flan: 5.55
-  Spiced Chocolate Tres Leches: 5.63
-  Sweet Corn Tamale Bites: 6.06
-  Fresh Watermelon Aqua Fresca: 3.89
-  Savory Carne Asada Burrito: 12.66
-  Chipotle Chicken Burrito Bowl: 12.64
-  Zesty Lime Shrimp Salad: 13.79
-  Black Bean Crunch Wrap: 10.98
+  Chipotle BBQ Tacos: 11.01
+  Mexican Coffee Flan: 6.2
+  Spicy Shrimp Fajitas: 12.67
+  Citrus Grilled Chicken Tacos: 12.31
+  Mini Street Tacos Platter: 9.29
+  Smoky Chipotle BBQ Nachos: 10.85
+  Chili Lime Skirt Steak: 22.93
+  Chocolate Mole Brownie: 7.0
+  Loaded Nacho Supreme: 9.69
+  Honey Chipotle Shrimp Bowl: 17.88
+  Stuffed Chicken Poblano: 15.14
+  Avocado Lime Dip: 7.31
 amenity_features: {}
-min_price_factor: 0.63
+min_price_factor: 0.87
 minimum_menu_prices:
-  Black Bean & Corn Quesadilla: 6.34
-  Vanilla Cinnamon Horchata: 2.51
-  Pork Carnitas Platter: 8.02
-  "Cheesy Jalape\xF1o Quesadillas": 5.34
-  Tropical Pineapple Salsa: 2.09
-  Avocado & Tomato Breakfast Tostadas: 5.34
-  Blueberry Hibiscus Margarita: 5.13
-  Crispy Fish Street Tacos: 7.18
-  Breakfast Tostada Stack: 6.42
-  Al Pastor Quesadilla: 8.28
-  Roasted Pecan Flan: 3.5
-  Spiced Chocolate Tres Leches: 3.55
-  Sweet Corn Tamale Bites: 3.82
-  Fresh Watermelon Aqua Fresca: 2.45
-  Savory Carne Asada Burrito: 7.98
-  Chipotle Chicken Burrito Bowl: 7.96
-  Zesty Lime Shrimp Salad: 8.69
-  Black Bean Crunch Wrap: 6.92
+  Chipotle BBQ Tacos: 9.6
+  Mexican Coffee Flan: 5.39
+  Spicy Shrimp Fajitas: 11.02
+  Citrus Grilled Chicken Tacos: 10.73
+  Mini Street Tacos Platter: 8.08
+  Smoky Chipotle BBQ Nachos: 9.44
+  Chili Lime Skirt Steak: 19.95
+  Chocolate Mole Brownie: 6.09
+  Loaded Nacho Supreme: 8.43
+  Honey Chipotle Shrimp Bowl: 15.56
+  Stuffed Chicken Poblano: 13.17
+  Avocado Lime Dip: 6.36

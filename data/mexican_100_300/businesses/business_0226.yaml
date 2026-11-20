@@ -1,43 +1,45 @@
 id: business_0226
-name: Caramel & Cacao Cantina
-description: Experience a vibrant twist on Mexican and Tex-Mex cuisine, celebrating
-  bold flavors and sweet-spicy pairings in every dish. Sip creative cocktails and
-  delight in inventive desserts in a lively, welcoming atmosphere.
+name: Nacho Average Mint
+description: Dive into a fresh take on Tex-Mex classics, where zesty flavors, creative
+  drinks, and bold vegetarian options come together for a fiesta in every bite. Enjoy
+  a uniquely spirited atmosphere perfect for friends, family, and flavor seekers alike.
 rating: 1.0
 progenitor_customer: customer_0076
 menu_features:
-  Salted Caramel Margarita: 11.44
-  Baja Fish Tacos: 14.15
-  Black Bean Avocado Tostadas: 9.79
-  Mini Street Tacos Platter: 9.0
-  Queso Fundido Supreme: 8.85
-  Grilled Pineapple Salsa: 5.94
-  Chocolate Cinnamon Flan: 7.06
-  Chili Chocolate Lava Cake: 7.81
-  Ancho Chili Braised Beef Enchiladas: 9.7
-  Blueberry Jalapeno Margarita: 13.31
-  Chocolate Dipped Flan: 6.28
-  Crispy Avocado Burrito: 12.29
-  Loaded Nacho Platter: 10.89
-  Chipotle Chicken Enchiladas: 16.29
-  Mexican Chocolate Flan: 6.74
-  Spicy Chocolate Churros: 4.79
+  Blueberry Mint Agua Fresca: 3.28
+  Black Bean Burgers: 12.59
+  Loaded Nacho Fiesta: 10.94
+  Tamarind Ginger Cooler: 4.85
+  Pork Carnitas Platter: 10.54
+  Mango Habanero Margarita: 9.55
+  Frozen Strawberry Daiquiri: 6.94
+  Warm Cinnamon Churros: 5.79
+  Black Bean & Corn Queso Dip: 6.17
+  Creamy Avocado Caesar Salad: 11.56
+  Black Bean Crunch Wrap: 8.29
+  Loaded Nacho Fries: 9.15
+  Zesty Lime Shrimp Tostadas: 10.41
+  Blueberry Agave Mojito: 8.8
+  Queso Fundido with Chorizo: 7.29
+  Black Bean and Avocado Wrap: 8.36
+  Passion Fruit Mojito: 9.04
 amenity_features: {}
-min_price_factor: 0.92
+min_price_factor: 0.67
 minimum_menu_prices:
-  Salted Caramel Margarita: 10.52
-  Baja Fish Tacos: 13.02
-  Black Bean Avocado Tostadas: 9.01
-  Mini Street Tacos Platter: 8.28
-  Queso Fundido Supreme: 8.14
-  Grilled Pineapple Salsa: 5.46
-  Chocolate Cinnamon Flan: 6.5
-  Chili Chocolate Lava Cake: 7.19
-  Ancho Chili Braised Beef Enchiladas: 8.92
-  Blueberry Jalapeno Margarita: 12.25
-  Chocolate Dipped Flan: 5.78
-  Crispy Avocado Burrito: 11.31
-  Loaded Nacho Platter: 10.02
-  Chipotle Chicken Enchiladas: 14.99
-  Mexican Chocolate Flan: 6.2
-  Spicy Chocolate Churros: 4.41
+  Blueberry Mint Agua Fresca: 2.57
+  Black Bean Burgers: 8.44
+  Loaded Nacho Fiesta: 7.33
+  Tamarind Ginger Cooler: 3.25
+  Pork Carnitas Platter: 7.06
+  Mango Habanero Margarita: 6.4
+  Frozen Strawberry Daiquiri: 4.65
+  Warm Cinnamon Churros: 3.88
+  Black Bean & Corn Queso Dip: 4.13
+  Creamy Avocado Caesar Salad: 7.75
+  Black Bean Crunch Wrap: 5.55
+  Loaded Nacho Fries: 6.13
+  Zesty Lime Shrimp Tostadas: 7.35
+  Blueberry Agave Mojito: 5.9
+  Queso Fundido with Chorizo: 4.88
+  Black Bean and Avocado Wrap: 5.6
+  Passion Fruit Mojito: 6.06

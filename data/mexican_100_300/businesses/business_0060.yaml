@@ -1,45 +1,41 @@
 id: business_0060
-name: "Paleta & Pl\xE1tano"
-description: Experience a fresh, modern take on Mexican and Tex-Mex flavors with vibrant
-  dishes, zesty drinks, and creative twists on classic favorites. Each visit is a
-  celebration of bold tastes and colorful bites in a lively, welcoming atmosphere.
+name: Guac to the Future
+description: Step into a bold new era of Tex-Mex flavor, where classic favorites are
+  reimagined with fresh twists and creative flair. From sunrise bites to sweet finales,
+  every dish is a delicious leap forward.
 rating: 1.0
 progenitor_customer: customer_0020
 menu_features:
-  Honey Lime Grilled Corn: 3.95
-  Molten Queso Fundido: 7.48
-  Coconut Lime Paleta: 3.42
-  Carnitas Plantain Burrito: 13.48
-  Roasted Poblano Veggie Skillet: 8.43
-  Breakfast Tostada Stack: 12.53
-  Spiced Agave Margarita: 9.81
-  Roasted Poblano Quesadilla: 12.66
-  Pineapple Pico de Gallo Nachos: 10.43
-  Spiced Churro Bites: 5.38
-  Crispy Avocado Tostadas: 10.47
-  Tequila Lime Shrimp Skewers: 13.37
-  Housemade Horchata: 3.19
-  Tequila Lime Grilled Shrimp: 16.83
-  Spiked Horchata Cooler: 7.83
-  Chili Lime Watermelon Salad: 7.38
-  Creamy Avocado Caesar Salad: 10.72
+  Sweet Corn Tamale Cake: 6.57
+  Breakfast Burrito Supreme: 8.33
+  Horchata Iced Coffee: 4.81
+  Huevos Rancheros: 8.53
+  Pumpkin Spice Churros: 5.49
+  Street Style Quesadillas: 12.24
+  Avocado Lime Dip: 5.79
+  Margarita Grilled Chicken: 16.21
+  Avocado Lime Salsa: 5.19
+  Pomegranate Agua Fresca: 4.65
+  Blue Corn Tortilla Chips: 5.62
+  Black Bean Street Tacos: 10.87
+  Chili Lime Margarita: 8.71
+  Blueberry Agave Mojito: 8.78
+  Pineapple Jalapeno Salsa: 5.16
 amenity_features: {}
-min_price_factor: 0.77
+min_price_factor: 0.79
 minimum_menu_prices:
-  Honey Lime Grilled Corn: 3.04
-  Molten Queso Fundido: 5.76
-  Coconut Lime Paleta: 2.63
-  Carnitas Plantain Burrito: 10.38
-  Roasted Poblano Veggie Skillet: 6.49
-  Breakfast Tostada Stack: 9.65
-  Spiced Agave Margarita: 7.55
-  Roasted Poblano Quesadilla: 9.75
-  Pineapple Pico de Gallo Nachos: 8.03
-  Spiced Churro Bites: 4.14
-  Crispy Avocado Tostadas: 8.06
-  Tequila Lime Shrimp Skewers: 10.29
-  Housemade Horchata: 2.46
-  Tequila Lime Grilled Shrimp: 12.96
-  Spiked Horchata Cooler: 6.03
-  Chili Lime Watermelon Salad: 5.68
-  Creamy Avocado Caesar Salad: 8.25
+  Sweet Corn Tamale Cake: 5.7
+  Breakfast Burrito Supreme: 6.58
+  Horchata Iced Coffee: 3.8
+  Huevos Rancheros: 6.74
+  Pumpkin Spice Churros: 4.79
+  Street Style Quesadillas: 9.67
+  Avocado Lime Dip: 4.57
+  Margarita Grilled Chicken: 12.81
+  Avocado Lime Salsa: 4.1
+  Pomegranate Agua Fresca: 3.67
+  Blue Corn Tortilla Chips: 4.44
+  Black Bean Street Tacos: 8.59
+  Chili Lime Margarita: 7.51
+  Blueberry Agave Mojito: 6.94
+  Pineapple Jalapeno Salsa: 4.08

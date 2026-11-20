@@ -1,37 +1,43 @@
 id: business_0279
-name: Burrito, Churro & Cheers
-description: A vibrant spot serving up festive classics and sweet treats, pairing
-  bold Tex-Mex flavors with playful desserts and refreshing drinks. Come enjoy a warm,
-  lively atmosphere with a delicious twist on tradition.
+name: "Fishin\u2019 for Flavor"
+description: Dive into a sea of bold Mexican and Tex-Mex bites, where spicy, smoky,
+  and tangy flavors make waves. From sizzling skewers to fresh tacos, enjoy a fiesta
+  that reels you in every time.
 rating: 1.0
 progenitor_customer: customer_0093
 menu_features:
-  Rich Chocolate Tres Leches: 5.99
-  Warm Cinnamon Churros: 6.49
-  Pineapple Pico de Gallo Salsa: 7.36
-  Cinnamon Sugar Churros: 4.91
-  Spice-Rubbed Grilled Fajitas: 12.0
-  Frozen Mango Margarita: 5.82
-  Chocolate Mole Brownie: 9.03
-  Passionfruit Agua Fresca: 3.52
-  Carnitas Plantain Burrito: 13.72
-  Roasted Poblano Corn Chowder: 7.46
-  Grilled Pineapple Salsa: 4.68
-  Jalapeno Cheddar Cornbread: 5.79
-  Veggie Fajita Platter: 14.46
+  Baja Fish Burrito: 10.68
+  Crispy Fish Tacos: 10.57
+  Agave Lime Chicken Skewers: 10.51
+  Avocado Lime Enchiladas: 8.75
+  Chorizo and Egg Tacos: 7.88
+  Coconut Lime Flan: 5.73
+  Red Chili Chicken Pozole: 9.71
+  Loaded Nacho Bowl: 10.68
+  Hatch Green Chile Burger: 13.92
+  Chipotle Shrimp Skewers: 13.63
+  Grilled Pineapple Salmon: 17.75
+  Smoky Black Bean Tostadas: 9.63
+  Savory Carne Asada Burrito: 13.97
+  Honey Chipotle Wings: 10.9
+  Hatch Green Chile Rice: 4.62
+  Midnight Mole Enchiladas: 13.62
 amenity_features: {}
-min_price_factor: 0.89
+min_price_factor: 0.86
 minimum_menu_prices:
-  Rich Chocolate Tres Leches: 5.33
-  Warm Cinnamon Churros: 5.78
-  Pineapple Pico de Gallo Salsa: 6.55
-  Cinnamon Sugar Churros: 4.37
-  Spice-Rubbed Grilled Fajitas: 10.68
-  Frozen Mango Margarita: 5.18
-  Chocolate Mole Brownie: 8.04
-  Passionfruit Agua Fresca: 3.13
-  Carnitas Plantain Burrito: 12.21
-  Roasted Poblano Corn Chowder: 6.64
-  Grilled Pineapple Salsa: 4.17
-  Jalapeno Cheddar Cornbread: 5.15
-  Veggie Fajita Platter: 12.87
+  Baja Fish Burrito: 9.06
+  Crispy Fish Tacos: 9.09
+  Agave Lime Chicken Skewers: 9.04
+  Avocado Lime Enchiladas: 7.52
+  Chorizo and Egg Tacos: 6.78
+  Coconut Lime Flan: 4.93
+  Red Chili Chicken Pozole: 8.35
+  Loaded Nacho Bowl: 9.06
+  Hatch Green Chile Burger: 11.97
+  Chipotle Shrimp Skewers: 11.72
+  Grilled Pineapple Salmon: 15.27
+  Smoky Black Bean Tostadas: 8.28
+  Savory Carne Asada Burrito: 12.01
+  Honey Chipotle Wings: 9.37
+  Hatch Green Chile Rice: 3.97
+  Midnight Mole Enchiladas: 11.71

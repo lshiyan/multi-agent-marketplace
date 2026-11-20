@@ -1,36 +1,39 @@
 id: business_0207
-name: Citrus & Spice Social
-description: Discover bold, fresh flavors at Citrus & Spice Social, a modern eatery
-  serving vibrant Mexican and Tex-Mex dishes in a lively, welcoming atmosphere. Enjoy
-  a curated menu of sweet, tangy, and savory specialties, hand-crafted drinks, and
-  creative desserts.
+name: Nacho Nook
+description: Step into Nacho Nook, where vibrant flavors, zesty salsas, and refreshing
+  drinks create a lively Tex-Mex dining experience. Enjoy bold classics, creative
+  cocktails, and decadent desserts made with the freshest ingredients.
 rating: 1.0
 progenitor_customer: customer_0069
 menu_features:
-  Chili Lime Watermelon Salad: 8.53
-  Cinnamon Sugar Churro Sticks: 6.01
-  Black Bean Stuffed Sweet Potatoes: 8.98
-  Avocado Lime Grilled Shrimp: 15.32
-  Classic Lime Margarita: 11.02
-  Caramel Apple Empanadas: 5.83
-  Tamarind Glazed Wings: 12.24
-  Creamy Poblano Corn Chowder: 8.74
-  Cheesy Jalapeno Queso: 6.3
-  Frozen Strawberry Margarita: 9.0
-  Horchata Latte: 6.1
-  Sweet Corn Tamale Cake: 7.66
+  Loaded Nacho Supreme: 9.64
+  Blue Agave Tequila Sunrise: 7.4
+  Breakfast Burrito Supreme: 11.0
+  Horchata Iced Coffee: 4.62
+  Passion Fruit Mojito: 9.1
+  Chocolate Cinnamon Flan: 4.88
+  Blue Corn Tortilla Tacos: 12.07
+  Blue Corn Tostada Salad: 12.39
+  Tomatillo Ranch Enchiladas: 12.4
+  Spiced Agave Margarita: 10.02
+  Avocado Lime Salsa: 4.66
+  Shrimp and Avocado Ceviche: 11.88
+  "Cheesy Jalape\xF1o Poppers": 5.87
+  Mexican Street Corn Dip: 9.77
 amenity_features: {}
-min_price_factor: 0.87
+min_price_factor: 0.61
 minimum_menu_prices:
-  Chili Lime Watermelon Salad: 7.42
-  Cinnamon Sugar Churro Sticks: 5.23
-  Black Bean Stuffed Sweet Potatoes: 7.81
-  Avocado Lime Grilled Shrimp: 13.33
-  Classic Lime Margarita: 9.59
-  Caramel Apple Empanadas: 5.07
-  Tamarind Glazed Wings: 10.65
-  Creamy Poblano Corn Chowder: 7.6
-  Cheesy Jalapeno Queso: 5.48
-  Frozen Strawberry Margarita: 7.83
-  Horchata Latte: 5.31
-  Sweet Corn Tamale Cake: 6.66
+  Loaded Nacho Supreme: 5.88
+  Blue Agave Tequila Sunrise: 5.51
+  Breakfast Burrito Supreme: 6.71
+  Horchata Iced Coffee: 2.82
+  Passion Fruit Mojito: 5.55
+  Chocolate Cinnamon Flan: 3.97
+  Blue Corn Tortilla Tacos: 7.36
+  Blue Corn Tostada Salad: 7.56
+  Tomatillo Ranch Enchiladas: 7.56
+  Spiced Agave Margarita: 6.11
+  Avocado Lime Salsa: 2.84
+  Shrimp and Avocado Ceviche: 7.25
+  "Cheesy Jalape\xF1o Poppers": 4.58
+  Mexican Street Corn Dip: 5.96

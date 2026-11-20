@@ -1,11 +1,8 @@
 id: customer_0072
-name: James Carter
-request: 'I am looking for a business that can provide the following menu items: 1
-  Caramel Corn Flan, 1 Bacon and Egg Tostada, and 1 Zesty Shrimp Quesadillas. It is
-  essential that all three items are available. Once you find such a business, I would
-  like to place an order with them. Thank you for your assistance.'
+name: Lucas Kim
+request: Please assist me in finding a business that serves Chipotle Chicken Enchiladas.
+  I would like to place an order for 1 Chipotle Chicken Enchilada, as it is very important
+  to me. Thank you for your help.
 menu_features:
-  Caramel Corn Flan: 6.99
-  Bacon and Egg Tostada: 8.99
-  Zesty Shrimp Quesadillas: 13.49
+  Chipotle Chicken Enchiladas: 15.21
 amenity_features: []

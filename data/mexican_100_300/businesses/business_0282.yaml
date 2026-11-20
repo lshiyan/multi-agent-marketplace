@@ -1,33 +1,38 @@
 id: business_0282
-name: "Seas the Saz\xF3n"
-description: Dive into vibrant Mexican and Tex-Mex flavors with a fresh twist, featuring
-  zesty salads, smoky grilled dishes, and bold coastal inspirations. Experience a
-  splash of citrus, sizzle, and spice in every bite!
+name: Flare & Flan Fiesta
+description: Step into a vibrant celebration of Mexican and Tex-Mex flavors where
+  bold spices meet sweet delights. From inventive starters to irresistible desserts,
+  Flare & Flan Fiesta promises a fresh twist on classic favorites in a lively, welcoming
+  setting.
 rating: 1.0
 progenitor_customer: customer_0094
 menu_features:
-  Chipotle Lime Chicken Salad: 8.75
-  Ancho Honey-Glazed Salmon: 14.92
-  Blue Corn Tortilla Soup: 7.76
-  Garlic Lime Shrimp Salad: 13.68
-  Pineapple Jalapeno Sangria: 8.33
-  Honey-Lime Grilled Shrimp: 12.26
-  Honey-Lime Grilled Salmon: 15.36
-  Black Bean Chili Bowl: 10.44
-  Tequila Lime Shrimp Skewers: 16.88
-  Chili Lime Skirt Steak: 15.71
-  Roasted Corn Enchiladas: 7.94
+  Chocolate Dipped Flan: 6.15
+  Honey Lime Grilled Chicken: 14.74
+  "Strawberry Jalape\xF1o Mocktail": 5.39
+  Tamale Trio Sampler: 12.26
+  Red Chili Chicken Pozole: 10.59
+  Spicy Chocolate Churros: 3.59
+  Fresh Corn Elote: 3.8
+  Margarita Lime Cheesecake: 7.14
+  Loaded Sweet Potato Fries: 5.76
+  Blue Corn Tortilla Soup: 8.51
+  Spicy Black Bean Nacho Platter: 12.22
+  Avocado Ranch Burrito Bowl: 14.45
+  Street Style Quesadillas: 8.64
 amenity_features: {}
-min_price_factor: 0.86
+min_price_factor: 0.78
 minimum_menu_prices:
-  Chipotle Lime Chicken Salad: 7.52
-  Ancho Honey-Glazed Salmon: 12.83
-  Blue Corn Tortilla Soup: 6.67
-  Garlic Lime Shrimp Salad: 11.76
-  Pineapple Jalapeno Sangria: 7.16
-  Honey-Lime Grilled Shrimp: 10.54
-  Honey-Lime Grilled Salmon: 13.21
-  Black Bean Chili Bowl: 8.98
-  Tequila Lime Shrimp Skewers: 14.52
-  Chili Lime Skirt Steak: 13.51
-  Roasted Corn Enchiladas: 6.83
+  Chocolate Dipped Flan: 4.8
+  Honey Lime Grilled Chicken: 12.43
+  "Strawberry Jalape\xF1o Mocktail": 4.2
+  Tamale Trio Sampler: 9.56
+  Red Chili Chicken Pozole: 8.26
+  Spicy Chocolate Churros: 3.59
+  Fresh Corn Elote: 2.96
+  Margarita Lime Cheesecake: 5.57
+  Loaded Sweet Potato Fries: 5.43
+  Blue Corn Tortilla Soup: 6.64
+  Spicy Black Bean Nacho Platter: 9.53
+  Avocado Ranch Burrito Bowl: 11.27
+  Street Style Quesadillas: 6.74

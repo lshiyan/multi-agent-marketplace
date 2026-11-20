@@ -1,43 +1,45 @@
 id: business_0123
-name: Vibrant Cactus Kitchen
-description: A lively destination for creative Mexican and Tex-Mex cuisine, blending
-  bold flavors and fresh ingredients. Enjoy a colorful mix of classic favorites and
-  inventive bites in a modern, welcoming atmosphere.
+name: Sunset Sabor Kitchen
+description: Experience vibrant Mexican and Tex-Mex flavors with a modern twist at
+  Sunset Sabor Kitchen. From bright, citrusy mains to irresistible desserts and refreshing
+  craft cocktails, every meal is a celebration of bold taste and fresh ingredients.
 rating: 1.0
 progenitor_customer: customer_0041
 menu_features:
-  Horchata Iced Coffee: 3.9
-  Three-Cheese Enchilada Stack: 14.5
-  Tomatillo Ranch Enchiladas: 16.12
-  Molten Queso Fundido: 7.58
-  Roasted Pecan Flan: 6.65
-  Sea Breeze Ceviche: 10.98
-  Three-Cheese Chile Rellenos: 12.39
-  Caramelized Plantain Empanadas: 6.07
-  Zesty Lime Shrimp Salad: 12.75
-  Ancho Chili Spiced Ribs: 18.94
-  Crispy Tinga Chicken Tacos: 8.59
-  Coconut Lime Paleta: 3.72
-  Chipotle Bean Burrito: 9.42
-  Spicy Mango Margarita: 8.42
-  Loaded Nacho Fries: 7.62
-  Spiced Agave Margarita: 8.7
+  Sunset Grilled Veggie Tacos: 11.85
+  Loaded Street Corn: 8.3
+  Tequila Lime Flan: 7.08
+  Breakfast Tostada Stack: 11.88
+  Blueberry Agave Mojito: 8.48
+  Molten Queso Fundido: 8.23
+  Loaded Nacho Fiesta: 8.93
+  Hatch Green Chile Rice: 5.32
+  Crispy Fish Baja Bowl: 12.29
+  Smoky Chipotle Chicken: 13.2
+  Coconut Lime Flan: 7.52
+  Ranchero Eggs Benedict: 10.95
+  Citrus Marinated Carne Asada: 15.32
+  Verde Ranchero Huevos: 10.49
+  Cilantro Lime Grilled Shrimp: 13.85
+  Coconut Lime Paleta: 3.61
+  Ancho Honey-Glazed Salmon: 17.1
 amenity_features: {}
-min_price_factor: 0.75
+min_price_factor: 0.78
 minimum_menu_prices:
-  Horchata Iced Coffee: 2.92
-  Three-Cheese Enchilada Stack: 10.88
-  Tomatillo Ranch Enchiladas: 12.09
-  Molten Queso Fundido: 5.69
-  Roasted Pecan Flan: 4.99
-  Sea Breeze Ceviche: 8.23
-  Three-Cheese Chile Rellenos: 9.29
-  Caramelized Plantain Empanadas: 4.55
-  Zesty Lime Shrimp Salad: 9.56
-  Ancho Chili Spiced Ribs: 14.21
-  Crispy Tinga Chicken Tacos: 6.44
-  Coconut Lime Paleta: 2.79
-  Chipotle Bean Burrito: 7.06
-  Spicy Mango Margarita: 6.31
-  Loaded Nacho Fries: 5.71
-  Spiced Agave Margarita: 6.52
+  Sunset Grilled Veggie Tacos: 9.24
+  Loaded Street Corn: 6.47
+  Tequila Lime Flan: 5.52
+  Breakfast Tostada Stack: 9.27
+  Blueberry Agave Mojito: 6.61
+  Molten Queso Fundido: 6.42
+  Loaded Nacho Fiesta: 6.97
+  Hatch Green Chile Rice: 4.15
+  Crispy Fish Baja Bowl: 9.59
+  Smoky Chipotle Chicken: 11.59
+  Coconut Lime Flan: 5.87
+  Ranchero Eggs Benedict: 9.74
+  Citrus Marinated Carne Asada: 11.95
+  Verde Ranchero Huevos: 8.18
+  Cilantro Lime Grilled Shrimp: 10.8
+  Coconut Lime Paleta: 2.82
+  Ancho Honey-Glazed Salmon: 13.34

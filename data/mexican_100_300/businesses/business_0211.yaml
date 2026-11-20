@@ -1,37 +1,40 @@
 id: business_0211
-name: Cactus & Cocoa Cantina
-description: Delight in vibrant Mexican and Tex-Mex flavors where traditional favorites
-  meet creative twists, all served in a welcoming, lively atmosphere. Sip, savor,
-  and satisfy your cravings with our fresh, flavorful fare and unique house-made drinks.
+name: Bean There, Sun That
+description: A playful Tex-Mex oasis serving up bold flavors and sun-inspired sips.
+  Join us for vibrant bowls, inventive tacos, zesty bites, and refreshingly cool treats.
 rating: 1.0
 progenitor_customer: customer_0071
 menu_features:
-  Ancho Chili Braised Beef Enchiladas: 14.08
-  Margarita Grilled Chicken: 11.52
-  Classic Flan Delight: 6.96
-  Sunrise Breakfast Tacos: 12.1
-  Chili Lime Skirt Steak: 15.19
-  Mushroom & Cheese Tamales: 8.13
-  Tequila Lime Shrimp Skewers: 13.94
-  Chocolate Mole Brownie: 7.09
-  Tamarind Spiced Agua Fresca: 4.73
-  Cactus Flower Iced Tea: 4.49
-  Crispy Avocado Burrito: 13.76
-  Pineapple Pico de Gallo Nachos: 10.6
-  Tex-Mex Breakfast Skillet: 8.17
+  Black Bean Taco Bowl: 9.61
+  Al Pastor Pork Tacos: 12.53
+  Spiked Horchata Cooler: 9.31
+  Coconut Lime Paleta: 3.65
+  Black Bean & Corn Quesadilla: 9.98
+  Margarita Lime Pie: 5.92
+  Chorizo and Egg Tacos: 8.9
+  Cilantro Lime Grilled Shrimp: 9.11
+  Blueberry Agave Agua Fresca: 4.81
+  Red Chili Chicken Pozole: 9.38
+  Crispy Tortilla Breakfast Bowl: 8.43
+  Refreshing Agua Fresca Trio: 9.15
+  Pineapple Salsa Pork Tacos: 11.35
+  Sizzling Chicken Fajitas: 14.67
+  Tamarind Glazed Wings: 13.71
 amenity_features: {}
-min_price_factor: 0.64
+min_price_factor: 0.79
 minimum_menu_prices:
-  Ancho Chili Braised Beef Enchiladas: 9.01
-  Margarita Grilled Chicken: 7.37
-  Classic Flan Delight: 4.45
-  Sunrise Breakfast Tacos: 7.74
-  Chili Lime Skirt Steak: 9.72
-  Mushroom & Cheese Tamales: 5.2
-  Tequila Lime Shrimp Skewers: 8.92
-  Chocolate Mole Brownie: 4.54
-  Tamarind Spiced Agua Fresca: 3.03
-  Cactus Flower Iced Tea: 2.87
-  Crispy Avocado Burrito: 8.81
-  Pineapple Pico de Gallo Nachos: 6.78
-  Tex-Mex Breakfast Skillet: 5.23
+  Black Bean Taco Bowl: 7.59
+  Al Pastor Pork Tacos: 9.9
+  Spiked Horchata Cooler: 7.35
+  Coconut Lime Paleta: 2.88
+  Black Bean & Corn Quesadilla: 7.88
+  Margarita Lime Pie: 4.68
+  Chorizo and Egg Tacos: 7.03
+  Cilantro Lime Grilled Shrimp: 7.2
+  Blueberry Agave Agua Fresca: 3.8
+  Red Chili Chicken Pozole: 7.41
+  Crispy Tortilla Breakfast Bowl: 6.66
+  Refreshing Agua Fresca Trio: 7.23
+  Pineapple Salsa Pork Tacos: 8.97
+  Sizzling Chicken Fajitas: 11.59
+  Tamarind Glazed Wings: 10.29

@@ -1,33 +1,37 @@
 id: business_0212
-name: "Az\xFAcar & Alchemy"
-description: "Az\xFAcar & Alchemy brings vibrant Mexican and Tex-Mex flavors together\
-  \ with a creative, modern twist. Enjoy a fresh mix of sweet and spicy cocktails,\
-  \ savory shareables, and unique desserts in a lively, stylish setting."
+name: "Casa de Crema y Saz\xF3n"
+description: "Experience a vibrant twist on classic Mexican and Tex-Mex cuisine at\
+  \ Casa de Crema y Saz\xF3n. Enjoy fresh, flavorful dishes and refreshing sips in\
+  \ a welcoming, lively setting."
 rating: 1.0
 progenitor_customer: customer_0071
 menu_features:
-  Raspberry Jalapeno Mojito: 9.35
-  Loaded Nachos Grande: 10.75
-  Jalapeno Mango Margarita: 8.24
-  Avocado Lime Grilled Shrimp: 12.45
-  Queso Fundido with Chorizo: 8.86
-  Tamarind Glazed Wings: 9.42
-  Sweet Corn Tamale Cake: 8.73
-  Classic Flan Delight: 6.03
-  Breakfast Tostada Stack: 11.16
-  Coconut Lime Paleta: 4.08
-  Roasted Pepper Queso Dip: 8.23
+  Creamy Avocado Soup: 8.69
+  Classic Mojito with Mint: 7.42
+  Tamarind Glazed Wings: 12.39
+  Black Bean Chili Bowl: 9.14
+  Coconut Lime Tres Leches: 7.1
+  Coconut Lime Rice Bowl: 11.65
+  Chili Chocolate Lava Cake: 6.82
+  Tamarind Ginger Cooler: 4.37
+  Shrimp Ceviche Cups: 9.75
+  Spiced Churro Bites: 6.28
+  Loaded Nacho Skillet: 10.34
+  Hatch Green Chile Burger: 11.6
+  Sizzling Fajita Platter: 14.16
 amenity_features: {}
-min_price_factor: 0.85
+min_price_factor: 0.7
 minimum_menu_prices:
-  Raspberry Jalapeno Mojito: 7.95
-  Loaded Nachos Grande: 9.14
-  Jalapeno Mango Margarita: 7.0
-  Avocado Lime Grilled Shrimp: 10.58
-  Queso Fundido with Chorizo: 7.53
-  Tamarind Glazed Wings: 8.01
-  Sweet Corn Tamale Cake: 7.42
-  Classic Flan Delight: 5.13
-  Breakfast Tostada Stack: 9.49
-  Coconut Lime Paleta: 3.47
-  Roasted Pepper Queso Dip: 7.0
+  Creamy Avocado Soup: 6.08
+  Classic Mojito with Mint: 5.19
+  Tamarind Glazed Wings: 7.8
+  Black Bean Chili Bowl: 6.4
+  Coconut Lime Tres Leches: 4.97
+  Coconut Lime Rice Bowl: 8.15
+  Chili Chocolate Lava Cake: 4.77
+  Tamarind Ginger Cooler: 3.06
+  Shrimp Ceviche Cups: 6.82
+  Spiced Churro Bites: 4.4
+  Loaded Nacho Skillet: 7.24
+  Hatch Green Chile Burger: 8.12
+  Sizzling Fajita Platter: 9.91

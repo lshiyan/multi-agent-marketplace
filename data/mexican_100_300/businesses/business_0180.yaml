@@ -1,45 +1,37 @@
 id: business_0180
-name: "Mar y Ma\xEDz Cantina"
-description: "Bright flavors and fresh ingredients come together in a vibrant celebration\
-  \ of modern Mexican and Tex-Mex cuisine. From savory seafood to garden-fresh produce,\
-  \ Mar y Ma\xEDz Cantina is where every bite brings a taste of sunshine."
+name: Crema & Crunch Cantina
+description: Discover a fresh take on Tex-Mex and Mexican-inspired fare with toasty
+  tostadas, savory wraps, and sweet, inventive desserts. At Crema & Crunch Cantina,
+  bold flavors and vibrant ingredients come together in every bite.
 rating: 1.0
 progenitor_customer: customer_0060
 menu_features:
-  Sea Breeze Ceviche: 11.1
-  Roasted Corn and Avocado Salad: 10.56
-  Roasted Corn and Black Bean Salad: 8.05
-  "Cheesy Jalape\xF1o Quesadillas": 10.11
-  Smoky Chipotle Queso: 5.23
-  Pineapple Jalapeno Sangria: 9.15
-  Huevos Rancheros: 10.81
-  Tequila Lime Flan: 8.71
-  Creamy Avocado Smoothie: 5.96
-  Spicy Chipotle Chicken Wrap: 10.08
-  Honey-Lime Grilled Salmon: 11.55
-  Pineapple Salsa Nachos: 11.07
-  Spicy Chocolate Churros: 5.32
-  Avocado & Tomato Breakfast Tostadas: 7.59
-  Cucumber Jalapeno Agua Fresca: 3.71
-  Bacon Wrapped Jalapeno Bites: 8.81
-  Spicy Black Bean and Cheese Quesadilla: 10.23
+  Black Bean & Cheese Tostadas: 9.76
+  Caramelized Onion and Chorizo Quesadilla: 7.38
+  Three-Cheese Queso Dip: 6.36
+  Tex-Mex Big Breakfast Bowl: 12.16
+  Mexican Chocolate Flan: 6.67
+  Spicy Chipotle Chicken Wrap: 9.48
+  Sweet Corn Tamale Bites: 7.22
+  Avocado Lime Crema Tostadas: 9.51
+  Zesty Shrimp Quesadillas: 13.15
+  Beef Enchiladas Verdes: 11.42
+  Twice-Baked Sweet Potato: 7.35
+  Black Bean Crunch Wrap: 9.27
+  Horchata Cold Brew Coffee: 6.05
 amenity_features: {}
-min_price_factor: 0.77
+min_price_factor: 0.85
 minimum_menu_prices:
-  Sea Breeze Ceviche: 8.55
-  Roasted Corn and Avocado Salad: 8.13
-  Roasted Corn and Black Bean Salad: 6.2
-  "Cheesy Jalape\xF1o Quesadillas": 7.78
-  Smoky Chipotle Queso: 4.03
-  Pineapple Jalapeno Sangria: 7.05
-  Huevos Rancheros: 8.32
-  Tequila Lime Flan: 6.71
-  Creamy Avocado Smoothie: 4.59
-  Spicy Chipotle Chicken Wrap: 7.76
-  Honey-Lime Grilled Salmon: 8.89
-  Pineapple Salsa Nachos: 8.52
-  Spicy Chocolate Churros: 4.1
-  Avocado & Tomato Breakfast Tostadas: 5.84
-  Cucumber Jalapeno Agua Fresca: 2.86
-  Bacon Wrapped Jalapeno Bites: 6.78
-  Spicy Black Bean and Cheese Quesadilla: 7.88
+  Black Bean & Cheese Tostadas: 8.3
+  Caramelized Onion and Chorizo Quesadilla: 6.43
+  Three-Cheese Queso Dip: 5.41
+  Tex-Mex Big Breakfast Bowl: 10.34
+  Mexican Chocolate Flan: 5.67
+  Spicy Chipotle Chicken Wrap: 8.06
+  Sweet Corn Tamale Bites: 6.3
+  Avocado Lime Crema Tostadas: 8.08
+  Zesty Shrimp Quesadillas: 11.18
+  Beef Enchiladas Verdes: 9.71
+  Twice-Baked Sweet Potato: 6.41
+  Black Bean Crunch Wrap: 7.88
+  Horchata Cold Brew Coffee: 5.14

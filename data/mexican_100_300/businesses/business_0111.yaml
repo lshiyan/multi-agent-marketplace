@@ -1,35 +1,37 @@
 id: business_0111
-name: Sabor Encantado Cantina
-description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
-  inviting atmosphere. Our menu features fresh, zesty dishes and classic favorites
-  crafted with bold spices and a creative touch.
+name: Get Corny with Pine and Dine
+description: Dive into a fiesta of bright, bold flavors and tropical twists at our
+  Tex-Mex hideaway. From sizzling seafood to crave-worthy corn creations, every bite
+  brings a new reason to celebrate.
 rating: 1.0
 progenitor_customer: customer_0037
 menu_features:
-  Stuffed Chicken Poblano: 13.44
-  Chipotle Bean Burrito: 8.39
-  Roasted Pepper Queso Dip: 7.37
-  Citrus Marinated Carne Asada: 14.78
-  Pineapple Habanero Salsa: 4.07
-  Mexican Chocolate Brownie: 5.21
-  Chili Lime Margarita: 7.44
-  Spice-Rubbed Grilled Fajitas: 14.49
-  Spicy Chicken Chimichanga: 9.98
-  Horchata Iced Latte: 4.98
-  Tex-Mex Big Breakfast Bowl: 9.82
-  Coconut Lime Rice Bowl: 11.09
+  Grilled Pineapple Salmon: 17.75
+  Crispy Tortilla Breakfast Bowl: 10.15
+  Passionfruit Paloma: 9.12
+  Loaded Street Corn: 6.83
+  Pineapple Habanero Sake: 8.03
+  Loaded Nacho Skillet: 9.66
+  Stuffed Chicken Poblano: 11.14
+  Street Corn Fritters: 6.27
+  Creamy Poblano Corn Chowder: 7.72
+  Baja Fish Tacos: 12.75
+  Coconut Flan Delight: 9.98
+  Mexican Street Corn Dip: 9.37
+  Stuffed Avocado Boats: 7.49
 amenity_features: {}
-min_price_factor: 0.78
+min_price_factor: 0.9
 minimum_menu_prices:
-  Stuffed Chicken Poblano: 10.48
-  Chipotle Bean Burrito: 6.54
-  Roasted Pepper Queso Dip: 5.75
-  Citrus Marinated Carne Asada: 11.53
-  Pineapple Habanero Salsa: 3.17
-  Mexican Chocolate Brownie: 4.06
-  Chili Lime Margarita: 5.8
-  Spice-Rubbed Grilled Fajitas: 11.3
-  Spicy Chicken Chimichanga: 7.78
-  Horchata Iced Latte: 3.88
-  Tex-Mex Big Breakfast Bowl: 7.66
-  Coconut Lime Rice Bowl: 8.65
+  Grilled Pineapple Salmon: 15.97
+  Crispy Tortilla Breakfast Bowl: 9.13
+  Passionfruit Paloma: 8.21
+  Loaded Street Corn: 6.15
+  Pineapple Habanero Sake: 7.23
+  Loaded Nacho Skillet: 8.69
+  Stuffed Chicken Poblano: 10.03
+  Street Corn Fritters: 5.64
+  Creamy Poblano Corn Chowder: 6.95
+  Baja Fish Tacos: 11.47
+  Coconut Flan Delight: 6.25
+  Mexican Street Corn Dip: 8.43
+  Stuffed Avocado Boats: 6.74

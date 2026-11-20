@@ -1,36 +1,43 @@
 id: business_0199
-name: Quesa-dreams & Churro Scenes
-description: A whimsical Tex-Mex kitchen where cheesy bites and sweet treats shine.
-  Dive into bold flavors and unexpected twists that turn every meal into a fiesta.
+name: Tamale & Tango
+description: Experience a vibrant mix of traditional and modern Mexican and Tex-Mex
+  flavors in a lively, welcoming setting. Savor fresh, inventive dishes and sip on
+  refreshing beverages that celebrate the spirit of fiesta.
 rating: 1.0
 progenitor_customer: customer_0067
 menu_features:
-  Roasted Red Pepper Quesadilla: 9.62
-  Vanilla Flan with Caramel Sauce: 6.67
-  Spicy Shrimp Nacho Platter: 10.56
-  "Cheesy Jalape\xF1o Quesadillas": 10.75
-  Chipotle Lime Chicken Skewers: 13.05
-  Cocoa Cinnamon Tequila: 9.35
-  Spicy Beef Enchilada Bake: 10.92
-  Cinnamon Sugar Churros: 6.36
-  Tamarind-Glazed Ribs: 18.66
-  Blue Corn Tortilla Chips: 5.7
-  Chipotle Lime Shrimp Tacos: 15.04
-  Loaded Street Corn: 7.93
-  Margarita Lime Pie: 4.68
+  Savory Chorizo Street Tacos: 9.42
+  Three-Cheese Chile Rellenos: 14.45
+  Blueberry Agave Agua Fresca: 3.2
+  Tequila Lime Shrimp Skewers: 14.85
+  Black Bean and Corn Fiesta Salad: 6.82
+  Crispy Tinga Chicken Tacos: 10.38
+  Savory Carne Asada Burrito: 11.77
+  Roasted Pumpkin Tamale: 8.13
+  Zesty Shrimp Quesadillas: 11.81
+  Sweet Plantain Empanadas: 11.3
+  Tex-Mex Fajita Wrap: 12.81
+  Black Bean Burgers: 8.91
+  Choco-Chili Volcano Cake: 7.12
+  Classic Lime Margarita: 8.18
+  Raspberry Jalapeno Mojito: 9.53
+  Sweet and Spicy Chicken Tostadas: 12.11
 amenity_features: {}
-min_price_factor: 0.86
+min_price_factor: 0.93
 minimum_menu_prices:
-  Roasted Red Pepper Quesadilla: 8.27
-  Vanilla Flan with Caramel Sauce: 5.74
-  Spicy Shrimp Nacho Platter: 9.08
-  "Cheesy Jalape\xF1o Quesadillas": 9.24
-  Chipotle Lime Chicken Skewers: 11.22
-  Cocoa Cinnamon Tequila: 8.04
-  Spicy Beef Enchilada Bake: 9.39
-  Cinnamon Sugar Churros: 5.47
-  Tamarind-Glazed Ribs: 16.05
-  Blue Corn Tortilla Chips: 4.9
-  Chipotle Lime Shrimp Tacos: 12.93
-  Loaded Street Corn: 6.82
-  Margarita Lime Pie: 4.02
+  Savory Chorizo Street Tacos: 8.76
+  Three-Cheese Chile Rellenos: 13.44
+  Blueberry Agave Agua Fresca: 2.98
+  Tequila Lime Shrimp Skewers: 13.81
+  Black Bean and Corn Fiesta Salad: 6.34
+  Crispy Tinga Chicken Tacos: 9.65
+  Savory Carne Asada Burrito: 10.95
+  Roasted Pumpkin Tamale: 7.56
+  Zesty Shrimp Quesadillas: 10.98
+  Sweet Plantain Empanadas: 8.2
+  Tex-Mex Fajita Wrap: 11.91
+  Black Bean Burgers: 8.29
+  Choco-Chili Volcano Cake: 6.62
+  Classic Lime Margarita: 7.61
+  Raspberry Jalapeno Mojito: 8.86
+  Sweet and Spicy Chicken Tostadas: 11.26

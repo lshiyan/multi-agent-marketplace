@@ -1,41 +1,37 @@
 id: business_0250
-name: Cantina del Sol y Sabor
-description: Experience vibrant flavors and fresh ingredients in a warm, welcoming
-  setting that celebrates the spirit of Mexican and Tex-Mex cuisine. Enjoy a variety
-  of creative dishes and signature sips perfect for every occasion.
+name: Smoky Lime Kitchen
+description: Discover bold, modern Mexican and Tex-Mex flavors in a vibrant setting.
+  Enjoy a fresh take on classic dishes, inventive drinks, and indulgent desserts crafted
+  with lively ingredients.
 rating: 1.0
 progenitor_customer: customer_0084
 menu_features:
-  Pineapple Habanero Margarita: 9.2
-  Three-Cheese Chile Rellenos: 11.78
-  Roasted Corn and Avocado Salad: 6.95
-  Smoky Lime Quinoa Salad: 10.49
-  Hatch Green Chile Rice: 5.09
-  Roasted Poblano Veggie Skillet: 9.73
-  Roasted Red Pepper Quesadilla: 8.45
-  Grilled Avocado and Quinoa Bowl: 11.45
-  Creamy Avocado Soup: 7.3
-  Avocado & Tomato Breakfast Tostadas: 7.71
-  Sizzling Fajita Plate: 18.49
-  Chili-Lime Cauliflower Bites: 9.26
-  Crispy Avocado Burrito: 10.69
-  Hatch Green Chile Burger: 13.48
-  Fresh Mango Salsa Nachos: 8.26
+  Smoky Black Bean Soup: 5.56
+  Mexican Street Corn Dip: 9.12
+  Three-Cheese Queso Dip: 5.96
+  Cilantro Lime Rice Bowl: 11.55
+  Fresh Limeade: 2.64
+  Classic Lime Margarita: 8.42
+  Margarita Lime Pie: 5.38
+  Black Bean Stuffed Sweet Potatoes: 10.46
+  Blueberry Agave Agua Fresca: 4.49
+  Classic Beef Barbacoa: 12.74
+  Honey Lime Fajita Sizzlers: 16.6
+  Chocolate Molten Tamale: 5.81
+  Chocolate Sopapilla Bites: 4.84
 amenity_features: {}
-min_price_factor: 0.77
+min_price_factor: 0.71
 minimum_menu_prices:
-  Pineapple Habanero Margarita: 7.08
-  Three-Cheese Chile Rellenos: 9.07
-  Roasted Corn and Avocado Salad: 5.35
-  Smoky Lime Quinoa Salad: 8.08
-  Hatch Green Chile Rice: 3.92
-  Roasted Poblano Veggie Skillet: 7.49
-  Roasted Red Pepper Quesadilla: 6.51
-  Grilled Avocado and Quinoa Bowl: 8.82
-  Creamy Avocado Soup: 5.62
-  Avocado & Tomato Breakfast Tostadas: 5.94
-  Sizzling Fajita Plate: 14.24
-  Chili-Lime Cauliflower Bites: 7.13
-  Crispy Avocado Burrito: 8.23
-  Hatch Green Chile Burger: 10.38
-  Fresh Mango Salsa Nachos: 6.36
+  Smoky Black Bean Soup: 3.95
+  Mexican Street Corn Dip: 6.48
+  Three-Cheese Queso Dip: 4.23
+  Cilantro Lime Rice Bowl: 8.2
+  Fresh Limeade: 2.6
+  Classic Lime Margarita: 5.98
+  Margarita Lime Pie: 3.82
+  Black Bean Stuffed Sweet Potatoes: 7.43
+  Blueberry Agave Agua Fresca: 3.19
+  Classic Beef Barbacoa: 10.12
+  Honey Lime Fajita Sizzlers: 11.79
+  Chocolate Molten Tamale: 5.13
+  Chocolate Sopapilla Bites: 3.44

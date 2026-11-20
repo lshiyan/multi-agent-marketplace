@@ -1,40 +1,36 @@
 id: business_0130
-name: Canela & Coral Cantina
-description: "Experience the vibrant flavors of Mexico and the coast at Canela & Coral\
-  \ Cantina\u2014a welcoming spot for fresh ceviche, zesty bites, and sweet, cinnamon-kissed\
-  \ desserts. Enjoy lively spices, refreshing beverages, and a true taste of culinary\
-  \ tradition."
+name: Pepper Press Kitchen
+description: Pepper Press Kitchen serves up modern Mexican and Tex-Mex eats with a
+  bold twist, featuring vibrant flavors, zesty salsas, and inventive small plates.
+  Experience a fresh, casual atmosphere where every bite is packed with spice and
+  creativity.
 rating: 1.0
 progenitor_customer: customer_0044
 menu_features:
-  Coconut Flan Delight: 7.83
-  Mexican Street Corn Dip: 8.66
-  Black Bean and Corn Salsa: 5.14
-  Coffee Cinnamon Mexican Mocha: 4.68
-  Mango Habanero Salsa: 6.08
-  Fresh Limeade: 3.55
-  Passion Fruit Agua Fresca: 4.45
-  Peppered Steak Nachos: 12.79
-  Black Bean and Sweet Potato Empanadas: 8.49
-  Zesty Lime Grilled Shrimp: 13.29
-  Smoky Chipotle Queso: 6.27
-  Sea Breeze Ceviche: 11.28
-  Verde Ranchero Huevos: 9.58
-  Three-Cheese Enchilada Stack: 10.4
+  Spicy Chipotle Chicken Wings: 7.77
+  Tangy Tomato Salsa Soup: 8.68
+  Ancho Chile Beef Chili: 14.01
+  Avocado Lime Empanadas: 8.21
+  Mango Habanero Margarita: 9.41
+  Frozen Strawberry Daiquiri: 5.29
+  Roasted Poblano Queso Dip: 5.72
+  Spicy Pork Tamales: 8.7
+  Street Style Quesadillas: 11.06
+  Pineapple Pico de Gallo Salsa: 6.7
+  Street Corn Elote: 4.63
+  Smoky Black Bean Soup: 2.7
 amenity_features: {}
-min_price_factor: 0.92
+min_price_factor: 0.73
 minimum_menu_prices:
-  Coconut Flan Delight: 7.2
-  Mexican Street Corn Dip: 7.97
-  Black Bean and Corn Salsa: 4.73
-  Coffee Cinnamon Mexican Mocha: 4.31
-  Mango Habanero Salsa: 5.59
-  Fresh Limeade: 3.27
-  Passion Fruit Agua Fresca: 4.09
-  Peppered Steak Nachos: 11.77
-  Black Bean and Sweet Potato Empanadas: 7.81
-  Zesty Lime Grilled Shrimp: 12.23
-  Smoky Chipotle Queso: 5.77
-  Sea Breeze Ceviche: 10.38
-  Verde Ranchero Huevos: 8.81
-  Three-Cheese Enchilada Stack: 9.57
+  Spicy Chipotle Chicken Wings: 5.67
+  Tangy Tomato Salsa Soup: 6.34
+  Ancho Chile Beef Chili: 11.48
+  Avocado Lime Empanadas: 5.99
+  Mango Habanero Margarita: 6.87
+  Frozen Strawberry Daiquiri: 3.86
+  Roasted Poblano Queso Dip: 5.42
+  Spicy Pork Tamales: 6.35
+  Street Style Quesadillas: 8.07
+  Pineapple Pico de Gallo Salsa: 4.89
+  Street Corn Elote: 3.38
+  Smoky Black Bean Soup: 1.97

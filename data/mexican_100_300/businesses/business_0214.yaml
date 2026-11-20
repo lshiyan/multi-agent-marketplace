@@ -1,42 +1,33 @@
 id: business_0214
-name: Sizzle & Sip Mex Kitchen
-description: Dive into bold, modern flavors at Sizzle & Sip Mex Kitchen, where vibrant
-  Tex-Mex classics and refreshing drinks create the perfect spot to unwind. Enjoy
-  a lively atmosphere and a menu filled with crave-worthy favorites and sweet, shareable
-  treats.
+name: Skewered & Charmed
+description: Skewered & Charmed serves up a zesty twist on Mexican and Tex-Mex favorites,
+  featuring bold flavors, fresh ingredients, and a touch of culinary magic. Delight
+  in vibrant plates and sweet treats in a lively, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0072
 menu_features:
-  Sizzling Chicken Fajitas: 14.52
-  Zesty Shrimp Quesadillas: 13.41
-  Spicy Chicken Chimichanga: 11.7
-  Caramel Corn Flan: 7.23
-  Ranchero Steak Fajitas: 9.09
-  Smoky Mezcal Mule: 9.4
-  Zesty Lime Shrimp Salad: 12.15
-  Huevos Rancheros: 10.66
-  Spiked Horchata Cooler: 8.44
-  Jalapeno Mango Margarita: 10.87
-  Cocoa Dusted Churro Bites: 5.21
-  Refreshing Agua Fresca Trio: 6.82
-  Tequila Lime Flan: 7.98
-  Bacon and Egg Tostada: 10.31
-  Fresh Watermelon Aqua Fresca: 4.15
+  Tequila Lime Shrimp Skewers: 15.46
+  Chipotle Lime Cauliflower Tacos: 11.93
+  Creamy Avocado Smoothie: 4.92
+  Chipotle Chicken Enchiladas: 14.57
+  Smoky Lime Quinoa Salad: 8.98
+  Carne Asada Fajitas: 15.9
+  Toasted Coconut Flan: 4.77
+  Agave Lime Chicken Skewers: 11.87
+  Grilled Shrimp Fajita Bowl: 12.62
+  Midnight Mole Enchiladas: 11.65
+  Street Corn Quesadilla: 10.38
 amenity_features: {}
-min_price_factor: 0.69
+min_price_factor: 0.87
 minimum_menu_prices:
-  Sizzling Chicken Fajitas: 10.02
-  Zesty Shrimp Quesadillas: 9.25
-  Spicy Chicken Chimichanga: 8.07
-  Caramel Corn Flan: 4.99
-  Ranchero Steak Fajitas: 6.27
-  Smoky Mezcal Mule: 6.49
-  Zesty Lime Shrimp Salad: 8.38
-  Huevos Rancheros: 7.36
-  Spiked Horchata Cooler: 5.82
-  Jalapeno Mango Margarita: 7.5
-  Cocoa Dusted Churro Bites: 3.59
-  Refreshing Agua Fresca Trio: 4.71
-  Tequila Lime Flan: 5.51
-  Bacon and Egg Tostada: 7.11
-  Fresh Watermelon Aqua Fresca: 2.86
+  Tequila Lime Shrimp Skewers: 13.45
+  Chipotle Lime Cauliflower Tacos: 10.38
+  Creamy Avocado Smoothie: 4.28
+  Chipotle Chicken Enchiladas: 11.37
+  Smoky Lime Quinoa Salad: 7.81
+  Carne Asada Fajitas: 13.83
+  Toasted Coconut Flan: 4.15
+  Agave Lime Chicken Skewers: 10.33
+  Grilled Shrimp Fajita Bowl: 10.98
+  Midnight Mole Enchiladas: 10.14
+  Street Corn Quesadilla: 9.03

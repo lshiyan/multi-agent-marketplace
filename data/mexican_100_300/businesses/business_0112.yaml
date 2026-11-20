@@ -1,35 +1,37 @@
 id: business_0112
-name: Pepper Pine Kitchen
-description: Experience vibrant Mexican and Tex-Mex flavors with a creative twist
-  in a warm, inviting atmosphere. From zesty appetizers to refreshing beverages, every
-  dish celebrates bold spices and fresh ingredients.
+name: Chili & Citrus Cantina
+description: A vibrant spot where bold flavors and fresh ingredients meet in every
+  bite. Enjoy an inviting atmosphere and a creative twist on classic Mexican and Tex-Mex
+  fare.
 rating: 1.0
 progenitor_customer: customer_0038
 menu_features:
-  Mango Habanero Margarita: 11.99
-  Ancho Chili Spiced Ribs: 14.81
-  Hatch Chile Queso Dip: 9.27
-  "Spicy Jalape\xF1o Limeade": 3.32
-  Creamy Chipotle Pasta: 14.06
-  Crispy Avocado Nachos: 7.89
-  Roasted Red Pepper Quesadilla: 10.49
-  Grilled Pineapple and Pork Tacos: 10.81
-  Blue Corn Tortilla Chips: 5.27
-  Grilled Pineapple & Shrimp Quesadillas: 8.93
-  Grilled Shrimp Fajita Bowl: 9.16
-  Three-Cheese Queso Dip: 8.44
+  Peach Berry Sangria: 7.57
+  Tamale Trio Sampler: 12.48
+  Zesty Lime Grilled Chicken: 15.08
+  Roasted Corn Enchiladas: 12.41
+  Honey Lime Chicken Skewers: 9.32
+  Spicy Beef Chimichangas: 15.98
+  Refreshing Agua Fresca Trio: 7.09
+  Midnight Mole Enchiladas: 17.25
+  Chili Lime Jicama Sticks: 4.92
+  Pineapple Chipotle Pork: 15.05
+  Roasted Pepper Queso Dip: 6.91
+  Roasted Red Pepper Quesadilla: 10.61
+  Blue Corn Tortilla Chips: 5.75
 amenity_features: {}
-min_price_factor: 0.63
+min_price_factor: 0.86
 minimum_menu_prices:
-  Mango Habanero Margarita: 7.55
-  Ancho Chili Spiced Ribs: 9.33
-  Hatch Chile Queso Dip: 5.84
-  "Spicy Jalape\xF1o Limeade": 2.09
-  Creamy Chipotle Pasta: 8.86
-  Crispy Avocado Nachos: 4.97
-  Roasted Red Pepper Quesadilla: 6.61
-  Grilled Pineapple and Pork Tacos: 6.81
-  Blue Corn Tortilla Chips: 3.32
-  Grilled Pineapple & Shrimp Quesadillas: 5.63
-  Grilled Shrimp Fajita Bowl: 5.77
-  Three-Cheese Queso Dip: 5.32
+  Peach Berry Sangria: 6.97
+  Tamale Trio Sampler: 10.73
+  Zesty Lime Grilled Chicken: 12.97
+  Roasted Corn Enchiladas: 10.67
+  Honey Lime Chicken Skewers: 8.02
+  Spicy Beef Chimichangas: 14.58
+  Refreshing Agua Fresca Trio: 6.1
+  Midnight Mole Enchiladas: 14.83
+  Chili Lime Jicama Sticks: 4.23
+  Pineapple Chipotle Pork: 12.94
+  Roasted Pepper Queso Dip: 6.38
+  Roasted Red Pepper Quesadilla: 9.12
+  Blue Corn Tortilla Chips: 4.95

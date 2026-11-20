@@ -1,35 +1,39 @@
 id: business_0213
-name: Flan the Flames
-description: Ignite your cravings with a fiery fusion of Mexican and Tex-Mex classics,
-  all finished with a sweet flan flourish. From sizzling skillets to cool, creamy
-  desserts, Flan the Flames serves up bold flavors and unforgettable bites.
+name: Zestful Sunrise Kitchen
+description: Experience a vibrant blend of classic and modern Mexican flavors, where
+  every dish and drink is crafted with fresh, bold ingredients. Perfect for any time
+  of day, our kitchen brings a bright twist to your favorite Tex-Mex meals.
 rating: 1.0
 progenitor_customer: customer_0071
 menu_features:
-  Three-Cheese Queso Dip: 6.67
-  Ranchero Steak Fajitas: 15.99
-  Beef Fajita Skillet: 13.34
-  Classic Flan Delight: 5.67
-  Tequila Lime Flan: 7.84
-  Ancho Chile BBQ Ribs: 21.82
-  Classic Beef Enchiladas: 11.02
-  Crispy Fish Tacos: 11.81
-  Avocado Lime Salsa: 3.89
-  Ancho Chile Chicken Salad: 9.83
-  Three-Cheese Enchilada Stack: 16.19
-  Grilled Pineapple Dessert Quesadilla: 8.44
+  Pomegranate Agua Fresca: 3.71
+  Zesty Shrimp Quesadillas: 11.08
+  Pico de Gallo Chicken Salad: 7.86
+  Grilled Pineapple Mojito: 7.55
+  Tamarind Glazed Wings: 13.84
+  Classic Mojito with Mint: 8.97
+  Smoky Lime Quinoa Salad: 10.81
+  Three-Cheese Chile Rellenos: 12.66
+  Black Bean and Cilantro Rice: 4.58
+  Crispy Tortilla Breakfast Bowl: 10.34
+  Molten Queso Fundido: 8.01
+  Chorizo Breakfast Tacos: 9.51
+  Huevos Rancheros: 9.41
+  Sizzling Chicken Fajitas: 17.98
 amenity_features: {}
-min_price_factor: 0.66
+min_price_factor: 0.86
 minimum_menu_prices:
-  Three-Cheese Queso Dip: 4.4
-  Ranchero Steak Fajitas: 10.55
-  Beef Fajita Skillet: 8.8
-  Classic Flan Delight: 3.74
-  Tequila Lime Flan: 5.17
-  Ancho Chile BBQ Ribs: 14.4
-  Classic Beef Enchiladas: 7.27
-  Crispy Fish Tacos: 7.79
-  Avocado Lime Salsa: 2.57
-  Ancho Chile Chicken Salad: 6.49
-  Three-Cheese Enchilada Stack: 10.69
-  Grilled Pineapple Dessert Quesadilla: 5.57
+  Pomegranate Agua Fresca: 3.19
+  Zesty Shrimp Quesadillas: 9.53
+  Pico de Gallo Chicken Salad: 6.76
+  Grilled Pineapple Mojito: 6.49
+  Tamarind Glazed Wings: 10.48
+  Classic Mojito with Mint: 7.71
+  Smoky Lime Quinoa Salad: 9.3
+  Three-Cheese Chile Rellenos: 10.89
+  Black Bean and Cilantro Rice: 3.94
+  Crispy Tortilla Breakfast Bowl: 8.89
+  Molten Queso Fundido: 6.89
+  Chorizo Breakfast Tacos: 8.18
+  Huevos Rancheros: 8.09
+  Sizzling Chicken Fajitas: 15.46

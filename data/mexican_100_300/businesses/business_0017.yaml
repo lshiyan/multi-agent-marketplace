@@ -1,39 +1,39 @@
 id: business_0017
-name: Azul Paloma Cocina
-description: Experience vibrant flavors and bold traditions at Azul Paloma Cocina,
-  where classic Mexican and Tex-Mex dishes are crafted with fresh, southwest-inspired
-  ingredients in a lively, welcoming setting.
+name: Casa Verde Mexicana
+description: Experience the bold flavors of Mexican and Tex-Mex cuisine in a vibrant,
+  welcoming setting. Casa Verde Mexicana serves creative, fresh dishes and refreshing
+  house-made drinks perfect for any occasion.
 rating: 1.0
 progenitor_customer: customer_0006
 menu_features:
-  Blue Corn Tortilla Soup: 7.17
-  Stuffed Chicken Poblano: 13.92
-  Beef Enchiladas Verdes: 12.28
-  Stuffed Poblano Peppers: 9.81
-  Chocolate Mole Brownie: 5.88
-  Baja Shrimp Quesadilla: 13.07
-  Grilled Chipotle Chicken Burrito: 13.98
-  Sizzling Fajita Platter: 19.47
-  Crispy Fish Baja Bowl: 11.4
-  Chipotle Lime Shrimp Skewers: 13.49
-  Spicy Chorizo Enchiladas: 13.39
-  Jalapeno Mango Margarita: 8.9
-  Southwest Chopped Salad: 9.32
-  Spicy Black Bean Nacho Platter: 12.11
+  Spicy Avocado Burger: 11.7
+  Spicy Chipotle Chicken Wings: 8.13
+  Hibiscus Agua Fresca: 2.85
+  Smoky Black Bean Tostadas: 7.73
+  Tamale Trio Platter: 14.24
+  Roasted Pumpkin Tamale: 8.52
+  Blueberry Agave Agua Fresca: 4.78
+  Tamarind Spiced Agua Fresca: 4.58
+  Horchata Cold Brew Coffee: 5.64
+  Sizzling Fajita Plate: 16.34
+  Avocado Lime Enchiladas: 12.29
+  Caramelized Banana Flan: 7.01
+  Chili Lime Street Corn: 4.31
+  Hatch Green Chile Burger: 14.45
 amenity_features: {}
-min_price_factor: 0.86
+min_price_factor: 0.65
 minimum_menu_prices:
-  Blue Corn Tortilla Soup: 6.17
-  Stuffed Chicken Poblano: 11.97
-  Beef Enchiladas Verdes: 10.56
-  Stuffed Poblano Peppers: 8.44
-  Chocolate Mole Brownie: 5.06
-  Baja Shrimp Quesadilla: 11.24
-  Grilled Chipotle Chicken Burrito: 12.02
-  Sizzling Fajita Platter: 16.74
-  Crispy Fish Baja Bowl: 9.8
-  Chipotle Lime Shrimp Skewers: 11.6
-  Spicy Chorizo Enchiladas: 11.52
-  Jalapeno Mango Margarita: 7.65
-  Southwest Chopped Salad: 8.02
-  Spicy Black Bean Nacho Platter: 10.41
+  Spicy Avocado Burger: 8.03
+  Spicy Chipotle Chicken Wings: 5.28
+  Hibiscus Agua Fresca: 2.28
+  Smoky Black Bean Tostadas: 5.02
+  Tamale Trio Platter: 9.26
+  Roasted Pumpkin Tamale: 5.54
+  Blueberry Agave Agua Fresca: 3.11
+  Tamarind Spiced Agua Fresca: 2.98
+  Horchata Cold Brew Coffee: 3.67
+  Sizzling Fajita Plate: 10.62
+  Avocado Lime Enchiladas: 7.99
+  Caramelized Banana Flan: 4.56
+  Chili Lime Street Corn: 2.8
+  Hatch Green Chile Burger: 9.39

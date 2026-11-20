@@ -1,39 +1,35 @@
 id: business_0136
-name: La Mesa Dulce Mexicana
-description: Experience vibrant Mexican and Tex-Mex flavors in a warm, welcoming setting.
-  Our kitchen brings together tradition and creativity for unforgettable meals, from
-  savory breakfasts to sizzling dinner favorites.
+name: Limewood Cantina
+description: Limewood Cantina blends fresh, vibrant flavors with a modern twist on
+  Mexican and Tex-Mex classics. Gather with friends to enjoy creative small plates,
+  refreshing beverages, and a lively, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0046
 menu_features:
-  Three-Cheese Enchilada Stack: 14.46
-  Sizzling Carne Asada: 14.93
-  Coconut Lime Margarita: 8.85
-  Pork Carnitas Platter: 16.52
-  Breakfast Burrito Bowl: 7.3
-  Smoky Black Bean Enchiladas: 12.98
-  Tex-Mex Breakfast Skillet: 10.45
-  Honey Lime Chicken Fajitas: 14.34
-  Honey-Lime Shrimp Skewers: 11.82
-  Tamarind-Glazed Ribs: 18.38
-  Avocado & Tomato Breakfast Tostadas: 9.18
-  Blue Corn Tostada Salad: 8.85
-  Classic Mojito with Mint: 7.87
-  Roasted Corn Enchiladas: 11.5
+  Fresh Watermelon Aqua Fresca: 3.75
+  Agave Lime Chicken Skewers: 10.04
+  Mini Street Tacos Platter: 9.43
+  Classic Mojito with Mint: 8.07
+  Shrimp and Avocado Ceviche: 15.39
+  Tomatillo Ranch Enchiladas: 12.41
+  Street Corn Fritters: 7.3
+  Honey Lime Grilled Fajitas: 12.86
+  Pico de Gallo Chicken Salad: 10.49
+  Tamarind Citrus Margarita: 10.81
+  Ancho Chile BBQ Ribs: 14.24
+  Black Bean Sweet Potato Burrito: 8.21
 amenity_features: {}
-min_price_factor: 0.74
+min_price_factor: 0.68
 minimum_menu_prices:
-  Three-Cheese Enchilada Stack: 10.7
-  Sizzling Carne Asada: 11.05
-  Coconut Lime Margarita: 6.55
-  Pork Carnitas Platter: 12.22
-  Breakfast Burrito Bowl: 5.4
-  Smoky Black Bean Enchiladas: 9.61
-  Tex-Mex Breakfast Skillet: 7.73
-  Honey Lime Chicken Fajitas: 10.61
-  Honey-Lime Shrimp Skewers: 8.75
-  Tamarind-Glazed Ribs: 13.6
-  Avocado & Tomato Breakfast Tostadas: 6.79
-  Blue Corn Tostada Salad: 6.55
-  Classic Mojito with Mint: 5.82
-  Roasted Corn Enchiladas: 8.51
+  Fresh Watermelon Aqua Fresca: 2.55
+  Agave Lime Chicken Skewers: 6.83
+  Mini Street Tacos Platter: 6.41
+  Classic Mojito with Mint: 5.49
+  Shrimp and Avocado Ceviche: 10.47
+  Tomatillo Ranch Enchiladas: 8.44
+  Street Corn Fritters: 4.96
+  Honey Lime Grilled Fajitas: 7.63
+  Pico de Gallo Chicken Salad: 7.13
+  Tamarind Citrus Margarita: 7.35
+  Ancho Chile BBQ Ribs: 9.68
+  Black Bean Sweet Potato Burrito: 5.58

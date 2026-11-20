@@ -1,8 +1,11 @@
 id: customer_0053
-name: Amelia Turner
-request: "Could you please assist me in finding a business that offers Cheesy Jalape\xF1\
-  o Poppers? I would like to place an order for exactly 1 serving of this item. Thank\
-  \ you for your help."
+name: Jack Smith
+request: 'Could you please help me find a business that offers a menu with all of
+  the following items: 1 Chocolate Cinnamon Flan, 1 Pineapple Pico de Gallo Nachos,
+  and 1 Grilled Steak Fajita Platter? I would like to place an order for these specific
+  items. Thank you!'
 menu_features:
-  "Cheesy Jalape\xF1o Poppers": 6.99
+  Chocolate Cinnamon Flan: 6.3
+  Pineapple Pico de Gallo Nachos: 10.31
+  Grilled Steak Fajita Platter: 18.62
 amenity_features: []

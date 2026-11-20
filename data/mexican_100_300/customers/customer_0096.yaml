@@ -1,9 +1,11 @@
 id: customer_0096
-name: Mia O'Sullivan
-request: Please find a business that offers both the Mexican Street Corn Salad and
-  the Twice-Baked Sweet Potato. I need one of each and intend to place an order once
-  you identify a suitable business. Thank you!
+name: Ethan Harris
+request: 'I would like to place an order with a business that can provide exactly
+  the following menu items: ''Three Cheese Sope'' with a quantity of 1, and ''Pineapple
+  Tequila Chicken Skewers'' with a quantity of 1. It is important that the business
+  offers both of these items as described. Please let me know when you find a suitable
+  business so I can proceed with the order. Thank you!'
 menu_features:
-  Mexican Street Corn Salad: 7.49
-  Twice-Baked Sweet Potato: 7.49
+  Three Cheese Sope: 11.94
+  Pineapple Tequila Chicken Skewers: 14.93
 amenity_features: []

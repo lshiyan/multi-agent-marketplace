@@ -1,41 +1,44 @@
 id: business_0174
-name: Skewer Than Fiction
-description: Dive into bold Mexican and Tex-Mex flavors, from sizzling skewers to
-  crunchy, cocoa-dusted sweets and vibrant agua frescas. Each plate is a new delicious
-  chapter in modern comfort cuisine.
+name: Tamale & Taqueria Terrace
+description: Experience vibrant flavors and inventive Tex-Mex in a lively, welcoming
+  setting. Fresh salads, sizzling plates, and creative drinks make every meal a celebration.
 rating: 1.0
 progenitor_customer: customer_0058
 menu_features:
-  Baja Fish Taco Plate: 15.94
-  Spiced Pumpkin Empanadas: 6.86
-  Roasted Poblano Soup: 8.24
-  Refreshing Agua Fresca Trio: 7.73
-  Cocoa Dusted Churro Bites: 4.87
-  Roasted Corn Enchiladas: 10.17
-  Ranchero Steak Fajitas: 21.28
-  Blue Corn Tortilla Chips: 5.07
-  Fresh Watermelon Aqua Fresca: 3.7
-  Black Bean Crunch Wrap: 9.46
-  Tamarind Spiced Agua Fresca: 4.19
-  Grilled Steak Quesadilla: 13.59
-  Blueberry Agave Agua Fresca: 5.51
-  Agave Lime Chicken Skewers: 13.72
-  Spicy Shrimp Fajitas: 16.12
+  Roasted Pumpkin Tamale: 7.52
+  Refreshing Agua Fresca Trio: 6.68
+  Southwest Chopped Salad: 8.82
+  Tomatillo Salsa Verde Nachos: 14.59
+  Crispy Avocado Burrito: 14.73
+  Sizzling Fajita Plate: 15.98
+  Avocado Lime Salad: 9.9
+  Smoky Chipotle Queso: 8.29
+  Blue Corn Tortilla Tacos: 13.01
+  Spicy Chicken Chimichanga: 10.75
+  Sunset Grilled Veggie Tacos: 13.07
+  "Strawberry Jalape\xF1o Mocktail": 5.42
+  Blue Corn Tortilla Chips: 5.09
+  Coconut Lime Margarita: 7.15
+  "Blueberry Jalape\xF1o Margarita": 10.38
+  Poblano Pepper Queso Dip: 6.38
+  Loaded Chorizo Nachos: 8.0
 amenity_features: {}
-min_price_factor: 0.61
+min_price_factor: 0.95
 minimum_menu_prices:
-  Baja Fish Taco Plate: 9.72
-  Spiced Pumpkin Empanadas: 4.18
-  Roasted Poblano Soup: 5.03
-  Refreshing Agua Fresca Trio: 4.72
-  Cocoa Dusted Churro Bites: 2.97
-  Roasted Corn Enchiladas: 6.2
-  Ranchero Steak Fajitas: 12.98
-  Blue Corn Tortilla Chips: 3.09
-  Fresh Watermelon Aqua Fresca: 2.26
-  Black Bean Crunch Wrap: 5.77
-  Tamarind Spiced Agua Fresca: 2.56
-  Grilled Steak Quesadilla: 8.29
-  Blueberry Agave Agua Fresca: 3.36
-  Agave Lime Chicken Skewers: 8.37
-  Spicy Shrimp Fajitas: 9.83
+  Roasted Pumpkin Tamale: 7.14
+  Refreshing Agua Fresca Trio: 6.35
+  Southwest Chopped Salad: 8.38
+  Tomatillo Salsa Verde Nachos: 13.86
+  Crispy Avocado Burrito: 13.99
+  Sizzling Fajita Plate: 15.18
+  Avocado Lime Salad: 8.98
+  Smoky Chipotle Queso: 7.88
+  Blue Corn Tortilla Tacos: 12.36
+  Spicy Chicken Chimichanga: 10.21
+  Sunset Grilled Veggie Tacos: 12.42
+  "Strawberry Jalape\xF1o Mocktail": 5.15
+  Blue Corn Tortilla Chips: 4.84
+  Coconut Lime Margarita: 6.79
+  "Blueberry Jalape\xF1o Margarita": 9.43
+  Poblano Pepper Queso Dip: 5.63
+  Loaded Chorizo Nachos: 7.6

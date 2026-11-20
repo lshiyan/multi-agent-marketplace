@@ -1,43 +1,44 @@
 id: business_0208
-name: Casa de Sabores Brillantes
-description: Experience a vibrant fusion of Mexican and Tex-Mex classics, from cheesy
-  enchiladas and refreshing cocktails to bold, zesty bites. Gather with friends and
-  family for a festive atmosphere and unforgettable flavors.
+name: Guacward Glances
+description: Serving up vibrant Mexican and Tex-Mex flavors with an avocado twist,
+  Guacward Glances invites you to enjoy bold salsas, zesty drinks, and playful bites
+  in a lively, upbeat setting. Discover a fresh take on familiar favorites that will
+  have you coming back for more.
 rating: 1.0
 progenitor_customer: customer_0070
 menu_features:
-  Three-Cheese Enchilada Stack: 11.91
-  Roasted Poblano and Cheese Empanadas: 7.77
-  Frozen Mango Margarita: 9.07
-  Chili-Lime Cauliflower Bites: 6.39
-  Hatch Chile Queso Dip: 8.12
-  Ranchero Eggs Benedict: 13.56
-  Green Chile Cheesesteak: 14.79
-  Chili Lime Skirt Steak: 22.19
-  Creamy Avocado Soup: 8.9
-  Shrimp Ceviche Bowl: 10.92
-  Frozen Strawberry Daiquiri: 7.16
-  Charred Corn & Cotija Nachos: 6.54
-  Loaded Nachos Grande: 9.96
-  Sweet Corn Tostadas: 8.09
-  Spiked Horchata Cooler: 6.04
-  Ancho Chile Chicken Salad: 13.49
+  Twisted Tequila Sunrise: 10.09
+  Stuffed Avocado Delight: 8.19
+  Mango Habanero Wings: 10.93
+  Pico Avocado Toast: 8.83
+  Blueberry Tequila Sunrise: 10.86
+  Avocado Lime Salsa: 5.37
+  Mango Agua Fresca: 3.63
+  Hatch Chile Queso Dip: 7.82
+  Crispy Avocado Bites: 9.57
+  Three-Cheese Queso Dip: 6.43
+  Breakfast Chilaquiles Verde: 7.95
+  Churro Ice Cream Sandwich: 9.57
+  Passion Fruit Mojito: 8.67
+  Adobo Roasted Corn Salad: 8.75
+  Spicy Pineapple Chipotle Margarita: 7.8
+  Black Bean Crunch Wrap: 8.74
 amenity_features: {}
-min_price_factor: 0.73
+min_price_factor: 0.84
 minimum_menu_prices:
-  Three-Cheese Enchilada Stack: 8.69
-  Roasted Poblano and Cheese Empanadas: 5.67
-  Frozen Mango Margarita: 6.62
-  Chili-Lime Cauliflower Bites: 4.66
-  Hatch Chile Queso Dip: 5.93
-  Ranchero Eggs Benedict: 9.9
-  Green Chile Cheesesteak: 10.8
-  Chili Lime Skirt Steak: 16.2
-  Creamy Avocado Soup: 6.5
-  Shrimp Ceviche Bowl: 7.97
-  Frozen Strawberry Daiquiri: 5.23
-  Charred Corn & Cotija Nachos: 4.77
-  Loaded Nachos Grande: 7.27
-  Sweet Corn Tostadas: 5.91
-  Spiked Horchata Cooler: 4.41
-  Ancho Chile Chicken Salad: 9.85
+  Twisted Tequila Sunrise: 8.48
+  Stuffed Avocado Delight: 6.88
+  Mango Habanero Wings: 9.18
+  Pico Avocado Toast: 7.42
+  Blueberry Tequila Sunrise: 9.12
+  Avocado Lime Salsa: 4.51
+  Mango Agua Fresca: 3.05
+  Hatch Chile Queso Dip: 6.57
+  Crispy Avocado Bites: 8.04
+  Three-Cheese Queso Dip: 5.4
+  Breakfast Chilaquiles Verde: 6.68
+  Churro Ice Cream Sandwich: 5.97
+  Passion Fruit Mojito: 7.28
+  Adobo Roasted Corn Salad: 7.35
+  Spicy Pineapple Chipotle Margarita: 6.55
+  Black Bean Crunch Wrap: 7.34

@@ -1,34 +1,41 @@
 id: business_0229
-name: How the Queso Crumbles
-description: Serving up playful Tex-Mex flavors with a fresh twist, How the Queso
-  Crumbles is where comfort, creativity, and good times come together. Dig into vibrant
-  small plates, grilled favorites, and unforgettable desserts in a lively, welcoming
-  setting.
+name: La Playa Mexicana
+description: Experience the lively flavors of Mexico with a vibrant, coastal twist.
+  Our kitchen serves up a fresh blend of classic and contemporary dishes in a warm,
+  inviting atmosphere perfect for family and friends.
 rating: 1.0
 progenitor_customer: customer_0077
 menu_features:
-  Stuffed Chicken Poblano: 11.06
-  Salted Caramel Margarita: 9.27
-  Blue Corn Enchilada Bake: 11.56
-  Sweet Corn Tostadas: 7.59
-  Coconut Lime Paleta: 4.07
-  Classic Lime Margarita: 8.57
-  Tres Leches Cake: 7.15
-  Chili Lime Jicama Sticks: 6.03
-  Queso Fundido Supreme: 7.33
-  Citrus Grilled Chicken Tacos: 10.9
-  Pineapple Jalapeno Salsa: 4.15
+  Baja Fish Taco Plate: 12.82
+  Pineapple Salsa Nachos: 10.46
+  Mini Street Tacos Platter: 9.89
+  Sizzling Pork Carnitas Bowl: 12.66
+  Tamale Trio Platter: 18.4
+  Black Bean and Cilantro Rice: 4.53
+  Chipotle Lime Chicken Skewers: 13.3
+  Chocolate Mole Chicken: 15.35
+  Crisp Jicama Slaw: 4.12
+  Queso Fundido Supreme: 9.63
+  Spiced Churro Bites: 6.89
+  Pineapple Agua Fresca: 4.55
+  Cinnamon Churro Bites: 3.75
+  Bacon Wrapped Jalapeno Bites: 6.63
+  Zesty Shrimp Quesadillas: 14.95
 amenity_features: {}
-min_price_factor: 0.79
+min_price_factor: 0.76
 minimum_menu_prices:
-  Stuffed Chicken Poblano: 8.74
-  Salted Caramel Margarita: 7.32
-  Blue Corn Enchilada Bake: 9.13
-  Sweet Corn Tostadas: 6.0
-  Coconut Lime Paleta: 3.22
-  Classic Lime Margarita: 6.77
-  Tres Leches Cake: 5.65
-  Chili Lime Jicama Sticks: 4.76
-  Queso Fundido Supreme: 5.79
-  Citrus Grilled Chicken Tacos: 8.61
-  Pineapple Jalapeno Salsa: 3.28
+  Baja Fish Taco Plate: 10.65
+  Pineapple Salsa Nachos: 7.95
+  Mini Street Tacos Platter: 7.52
+  Sizzling Pork Carnitas Bowl: 9.62
+  Tamale Trio Platter: 13.98
+  Black Bean and Cilantro Rice: 3.44
+  Chipotle Lime Chicken Skewers: 10.11
+  Chocolate Mole Chicken: 11.67
+  Crisp Jicama Slaw: 3.13
+  Queso Fundido Supreme: 7.32
+  Spiced Churro Bites: 5.24
+  Pineapple Agua Fresca: 3.46
+  Cinnamon Churro Bites: 3.75
+  Bacon Wrapped Jalapeno Bites: 5.94
+  Zesty Shrimp Quesadillas: 11.36

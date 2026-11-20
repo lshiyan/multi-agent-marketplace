@@ -1,48 +1,43 @@
 id: business_0219
-name: Avocado Azul
-description: Discover fresh, colorful flavors at Avocado Azul, where creative Tex-Mex
-  and Mexican classics are reimagined with unique twists and vibrant ingredients.
-  Indulge in bold salads, inventive tacos, and decadent desserts in a lively, welcoming
-  atmosphere.
+name: Cielo & Salsa Mexicana
+description: Experience vibrant Mexican and Tex-Mex flavors in a lively, welcoming
+  atmosphere. Enjoy creative salsas, savory bites, and refreshing drinks crafted with
+  fresh, bold ingredients.
 rating: 1.0
 progenitor_customer: customer_0073
 menu_features:
-  Blue Corn Tostada Salad: 9.02
-  Spicy Chocolate Churros: 4.59
-  Vanilla Flan Delight: 4.22
-  Crispy Avocado Burrito: 11.61
-  "Blueberry Jalape\xF1o Margarita": 9.78
-  Choco-Chili Volcano Cake: 7.57
-  Avocado Lime Quinoa Bowl: 8.25
-  Pico Avocado Toast: 7.37
-  Tamale Pie Casserole: 14.05
-  Caramelized Banana Flan: 5.95
-  Chorizo and Egg Tacos: 8.09
-  Zesty Shrimp Ceviche: 15.03
-  Salted Caramel Margarita: 10.64
-  Caramel Apple Empanadas: 6.96
-  Ancho Chili Chocolate Cake: 7.57
-  Avocado Lime Salad: 8.33
-  Mexican Chocolate Milkshake: 4.67
-  Pineapple Salsa Shrimp Tacos: 10.89
+  Ultimate Nacho Platter: 8.55
+  Zesty Shrimp Ceviche: 13.13
+  Pineapple Pico de Gallo Salsa: 7.13
+  Pineapple Jalapeno Sangria: 10.23
+  Blueberry Agave Mojito: 10.13
+  Passion Fruit Mojito: 9.13
+  Chorizo and Egg Tacos: 8.61
+  Salted Caramel Margarita: 8.68
+  Avocado Lime Salsa: 5.04
+  Black Bean & Corn Queso Dip: 7.08
+  Caramelized Plantain Empanadas: 5.88
+  Sizzling Beef Alambre: 14.98
+  Avocado Lime Empanadas: 8.96
+  Chocolate Molten Tamale: 6.13
+  Zesty Lime Chicken Enchiladas: 13.48
+  "Spicy Jalape\xF1o Limeade": 3.67
 amenity_features: {}
-min_price_factor: 0.84
+min_price_factor: 0.82
 minimum_menu_prices:
-  Blue Corn Tostada Salad: 7.58
-  Spicy Chocolate Churros: 3.86
-  Vanilla Flan Delight: 3.54
-  Crispy Avocado Burrito: 9.75
-  "Blueberry Jalape\xF1o Margarita": 8.22
-  Choco-Chili Volcano Cake: 6.36
-  Avocado Lime Quinoa Bowl: 6.93
-  Pico Avocado Toast: 6.19
-  Tamale Pie Casserole: 11.8
-  Caramelized Banana Flan: 5.0
-  Chorizo and Egg Tacos: 6.8
-  Zesty Shrimp Ceviche: 12.63
-  Salted Caramel Margarita: 8.94
-  Caramel Apple Empanadas: 5.85
-  Ancho Chili Chocolate Cake: 6.36
-  Avocado Lime Salad: 7.0
-  Mexican Chocolate Milkshake: 3.92
-  Pineapple Salsa Shrimp Tacos: 9.15
+  Ultimate Nacho Platter: 7.81
+  Zesty Shrimp Ceviche: 10.77
+  Pineapple Pico de Gallo Salsa: 5.85
+  Pineapple Jalapeno Sangria: 8.39
+  Blueberry Agave Mojito: 8.31
+  Passion Fruit Mojito: 7.49
+  Chorizo and Egg Tacos: 7.06
+  Salted Caramel Margarita: 7.12
+  Avocado Lime Salsa: 4.13
+  Black Bean & Corn Queso Dip: 5.81
+  Caramelized Plantain Empanadas: 4.82
+  Sizzling Beef Alambre: 12.28
+  Avocado Lime Empanadas: 7.35
+  Chocolate Molten Tamale: 5.74
+  Zesty Lime Chicken Enchiladas: 12.05
+  "Spicy Jalape\xF1o Limeade": 3.01

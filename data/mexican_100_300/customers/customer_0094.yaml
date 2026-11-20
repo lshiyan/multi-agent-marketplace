@@ -1,8 +1,11 @@
 id: customer_0094
-name: Alexander Thompson
-request: Could you please assist me in placing an order with a business that offers
-  exactly 1 Ancho Honey-Glazed Salmon? It is important that all of my requirements
-  are met with this order. Thank you for your help.
+name: Victoria Hernandez
+request: 'Please find a business that offers the following menu items: 1 Spicy Chocolate
+  Churros, 1 Loaded Sweet Potato Fries, and 1 Honey Lime Grilled Chicken. It is essential
+  that the business can provide all of these items. Once identified, I would like
+  to place an order for these specific items. Thank you for your assistance.'
 menu_features:
-  Ancho Honey-Glazed Salmon: 15.99
+  Spicy Chocolate Churros: 5.16
+  Loaded Sweet Potato Fries: 5.88
+  Honey Lime Grilled Chicken: 12.52
 amenity_features: []

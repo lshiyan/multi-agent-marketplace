@@ -1,33 +1,39 @@
 id: business_0159
-name: El Mesquite Azul
-description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
-  inviting atmosphere. El Mesquite Azul serves up creative appetizers, grilled favorites,
-  fresh cocktails, and decadent desserts inspired by classic cantina traditions.
+name: La Senda del Sabor
+description: Experience the vibrant tastes of Mexico and Tex-Mex cuisine in a warm,
+  inviting setting. Enjoy fresh, zesty flavors and handcrafted drinks that celebrate
+  authentic culinary traditions with a modern twist.
 rating: 1.0
 progenitor_customer: customer_0053
 menu_features:
-  Mexican Street Corn Dip: 7.09
-  Vanilla Flan Delight: 5.09
-  Frozen Strawberry Daiquiri: 8.8
-  Tamarind Ginger Cooler: 4.54
-  Mesquite Grilled Steak Fajitas: 13.6
-  Blue Corn Tortilla Chips: 5.0
-  Lime-Garlic Grilled Chicken: 16.45
-  Chipotle BBQ Tacos: 13.09
-  Crispy Avocado Nachos: 8.29
-  "Cheesy Jalape\xF1o Poppers": 8.1
-  Sweet Potato and Black Bean Tacos: 14.68
+  Tamarind Citrus Margarita: 9.83
+  Tequila Sunrise Smoothie: 8.81
+  Grilled Shrimp Skewers: 11.62
+  Classic Mojito with Mint: 6.06
+  Mexican Street Corn Dip: 9.42
+  Black Bean and Cilantro Rice: 4.1
+  Grilled Steak Fajita Platter: 12.72
+  Honey-Lime Shrimp Skewers: 15.41
+  Chipotle Shrimp Skewers: 11.96
+  Honey-Lime Grilled Shrimp: 13.26
+  Pineapple Pico de Gallo Nachos: 8.88
+  Stuffed Avocado Delight: 7.41
+  Chocolate Cinnamon Flan: 5.35
+  Ancho Chili Braised Beef Enchiladas: 15.56
 amenity_features: {}
 min_price_factor: 0.69
 minimum_menu_prices:
-  Mexican Street Corn Dip: 4.89
-  Vanilla Flan Delight: 3.51
-  Frozen Strawberry Daiquiri: 6.07
-  Tamarind Ginger Cooler: 3.13
-  Mesquite Grilled Steak Fajitas: 9.38
-  Blue Corn Tortilla Chips: 3.45
-  Lime-Garlic Grilled Chicken: 11.35
-  Chipotle BBQ Tacos: 9.03
-  Crispy Avocado Nachos: 5.72
-  "Cheesy Jalape\xF1o Poppers": 5.59
-  Sweet Potato and Black Bean Tacos: 10.13
+  Tamarind Citrus Margarita: 6.78
+  Tequila Sunrise Smoothie: 6.08
+  Grilled Shrimp Skewers: 8.02
+  Classic Mojito with Mint: 4.18
+  Mexican Street Corn Dip: 6.5
+  Black Bean and Cilantro Rice: 2.83
+  Grilled Steak Fajita Platter: 10.81
+  Honey-Lime Shrimp Skewers: 10.63
+  Chipotle Shrimp Skewers: 8.25
+  Honey-Lime Grilled Shrimp: 9.15
+  Pineapple Pico de Gallo Nachos: 8.16
+  Stuffed Avocado Delight: 5.11
+  Chocolate Cinnamon Flan: 5.35
+  Ancho Chili Braised Beef Enchiladas: 10.74

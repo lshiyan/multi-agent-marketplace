@@ -1,43 +1,39 @@
 id: business_0165
-name: Casa del Campo Mexicano
-description: Step into a welcoming oasis where bold flavors and fresh ingredients
-  celebrate the spirit of Mexican and Tex-Mex cuisine. Experience handcrafted dishes
-  and vibrant drinks in a lively, relaxed setting perfect for any occasion.
+name: Enchanted Citrus Grill
+description: Step into a vibrant world of bold flavors and fresh ingredients, where
+  Tex-Mex and coastal Mexican inspirations meet. Enjoy sizzling grills, zesty citrus
+  accents, and a menu designed to add a refreshing twist to every bite.
 rating: 1.0
 progenitor_customer: customer_0055
 menu_features:
-  Savory Carne Asada Burrito: 11.47
-  Refreshing Agua Fresca Trio: 9.0
-  Passion Fruit Mojito: 8.55
-  Breakfast Burrito Supreme: 11.32
-  Roasted Tomato Salsa Dip: 4.3
-  Carne Asada Fajitas: 15.18
-  Chipotle BBQ Tacos: 11.58
-  Street Corn Quesadilla: 11.44
-  Creamy Poblano Corn Chowder: 7.96
-  Hatch Green Chile Burger: 11.9
-  Classic Horchata Delight: 4.55
-  Chipotle Lime Cauliflower Tacos: 10.97
-  Zesty Lime Shrimp Salad: 13.77
-  Cilantro Lime Chicken Tacos: 11.44
-  Horchata Iced Latte: 4.57
-  Salted Caramel Margarita: 9.49
+  Citrus Marinated Carne Asada: 14.67
+  Tropical Pineapple Salsa: 3.29
+  Sizzling Fajita Skillet: 13.61
+  Crispy Fish Baja Bowl: 14.77
+  Pineapple Jalapeno Sangria: 7.74
+  Spicy Black Bean Enchiladas: 6.55
+  Refreshing Agua Fresca Trio: 8.42
+  Warm Cinnamon Churros: 6.11
+  Sea Breeze Ceviche: 14.88
+  Blue Corn Enchilada Bake: 10.97
+  Zesty Lime Shrimp Skewers: 7.79
+  Tres Leches Cake: 7.58
+  Caramelized Onion and Goat Cheese Empanadas: 5.95
+  Street Corn Quesadilla: 8.16
 amenity_features: {}
-min_price_factor: 0.73
+min_price_factor: 0.6
 minimum_menu_prices:
-  Savory Carne Asada Burrito: 8.37
-  Refreshing Agua Fresca Trio: 6.57
-  Passion Fruit Mojito: 6.24
-  Breakfast Burrito Supreme: 8.26
-  Roasted Tomato Salsa Dip: 3.14
-  Carne Asada Fajitas: 11.08
-  Chipotle BBQ Tacos: 8.45
-  Street Corn Quesadilla: 8.35
-  Creamy Poblano Corn Chowder: 5.81
-  Hatch Green Chile Burger: 8.69
-  Classic Horchata Delight: 3.32
-  Chipotle Lime Cauliflower Tacos: 8.01
-  Zesty Lime Shrimp Salad: 10.05
-  Cilantro Lime Chicken Tacos: 8.35
-  Horchata Iced Latte: 3.34
-  Salted Caramel Margarita: 6.93
+  Citrus Marinated Carne Asada: 8.8
+  Tropical Pineapple Salsa: 1.97
+  Sizzling Fajita Skillet: 8.17
+  Crispy Fish Baja Bowl: 8.86
+  Pineapple Jalapeno Sangria: 4.64
+  Spicy Black Bean Enchiladas: 6.37
+  Refreshing Agua Fresca Trio: 5.05
+  Warm Cinnamon Churros: 3.67
+  Sea Breeze Ceviche: 8.93
+  Blue Corn Enchilada Bake: 9.02
+  Zesty Lime Shrimp Skewers: 7.11
+  Tres Leches Cake: 4.55
+  Caramelized Onion and Goat Cheese Empanadas: 3.57
+  Street Corn Quesadilla: 4.9

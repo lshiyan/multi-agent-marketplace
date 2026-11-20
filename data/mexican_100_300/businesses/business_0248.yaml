@@ -1,37 +1,37 @@
 id: business_0248
-name: Casa de Sabores Dulces y Picantes
-description: Discover a warm, lively spot where the vibrant flavors of classic and
-  modern Mexican cuisine come together. Enjoy fresh, spicy, and sweet creations inspired
-  by tradition and crafted with a contemporary twist.
+name: Holy Guacamole, It's Toastada!
+description: Step into a fiesta of bold flavors and fresh twists where crispy bites,
+  zesty salads, and creative Tex-Mex classics await. Your taste buds will thank you
+  with every crunch and sip.
 rating: 1.0
 progenitor_customer: customer_0083
 menu_features:
-  Three Cheese Sope: 9.05
-  Spicy Black Bean Tacos: 13.96
-  Pineapple Agua Fresca: 4.1
-  Chocolate Tamale Cake: 6.77
-  Spicy Chicken Tortilla Soup: 6.46
-  Savory Chorizo Street Tacos: 11.44
-  Stuffed Avocado Boats: 7.65
-  Ranchero Eggs Benedict: 13.37
-  Mexican Chocolate Flan: 5.11
-  Black Bean Sweet Potato Burrito: 12.54
-  Tomatillo Ranch Enchiladas: 14.1
-  Jicama and Citrus Salad: 9.13
-  Warm Churro Bites: 6.82
+  Crispy Avocado Bites: 9.54
+  Fresh Watermelon Aqua Fresca: 3.24
+  Hatch Green Chile Burger: 13.76
+  Classic Tortilla Soup: 5.54
+  Sweet Corn Tostadas: 9.26
+  Jicama and Citrus Salad: 9.54
+  Frozen Strawberry Daiquiri: 8.87
+  Three-Cheese Queso Dip: 7.53
+  Roasted Corn and Avocado Salad: 9.25
+  Green Chile Cheesesteak: 13.62
+  Sweet Chili Lime Elote: 5.43
+  Crispy Tortilla Breakfast Bowl: 10.37
+  Caramel Apple Empanadas: 5.77
 amenity_features: {}
-min_price_factor: 0.88
+min_price_factor: 0.84
 minimum_menu_prices:
-  Three Cheese Sope: 7.96
-  Spicy Black Bean Tacos: 12.28
-  Pineapple Agua Fresca: 3.61
-  Chocolate Tamale Cake: 5.96
-  Spicy Chicken Tortilla Soup: 5.68
-  Savory Chorizo Street Tacos: 10.07
-  Stuffed Avocado Boats: 6.73
-  Ranchero Eggs Benedict: 11.77
-  Mexican Chocolate Flan: 4.5
-  Black Bean Sweet Potato Burrito: 11.04
-  Tomatillo Ranch Enchiladas: 12.41
-  Jicama and Citrus Salad: 8.03
-  Warm Churro Bites: 6.0
+  Crispy Avocado Bites: 8.01
+  Fresh Watermelon Aqua Fresca: 2.72
+  Hatch Green Chile Burger: 11.56
+  Classic Tortilla Soup: 4.65
+  Sweet Corn Tostadas: 7.78
+  Jicama and Citrus Salad: 7.53
+  Frozen Strawberry Daiquiri: 7.45
+  Three-Cheese Queso Dip: 6.33
+  Roasted Corn and Avocado Salad: 7.77
+  Green Chile Cheesesteak: 11.44
+  Sweet Chili Lime Elote: 4.08
+  Crispy Tortilla Breakfast Bowl: 8.71
+  Caramel Apple Empanadas: 4.85

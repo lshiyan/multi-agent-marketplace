@@ -1,37 +1,38 @@
 id: business_0193
-name: Zest & Ember Cantina
-description: Experience bold, modern Mexican and Tex-Mex flavors with a creative twist,
-  from crave-worthy small plates to colorful cocktails. Zest & Ember Cantina is where
-  vibrant ingredients and smoky spices come together for a deliciously memorable meal.
+name: Tama-Lime for Breakfast
+description: Start your day or spice up your evening at Tama-Lime for Breakfast, where
+  zesty flavors meet classic comfort with inventive Tex-Mex and Mexican-inspired dishes
+  and drinks. Dig into a vibrant array of savory stacks, sizzling platters, and refreshing
+  smoothies in a lively, welcoming setting.
 rating: 1.0
 progenitor_customer: customer_0065
 menu_features:
-  Mango Habanero Wings: 10.83
-  Braised Beef Barbacoa Tacos: 13.39
-  Black Bean Stuffed Bell Peppers: 9.11
-  Spicy Chicken Tortilla Soup: 6.88
-  Blueberry Jalapeno Margarita: 12.09
-  Coconut Lime Margarita: 7.77
-  Frozen Strawberry Margarita: 10.9
-  Fresh Watermelon Aqua Fresca: 3.21
-  Spicy Chocolate Lava Cake: 7.35
-  Zesty Lime Grilled Shrimp: 12.01
-  Green Chile Pork Stew: 15.68
-  Stuffed Poblano Pepper Delight: 10.53
-  Avocado Lime Enchiladas: 12.31
+  Tequila Sunrise Smoothie: 8.69
+  Tamale Trio Platter: 14.11
+  Chocolate Mole Chicken: 19.29
+  Roasted Poblano Soup: 8.16
+  Zesty Lime Chicken Fajitas: 14.18
+  Breakfast Tostada Stack: 10.75
+  Fresh Mint Mojito: 9.22
+  Coconut Lime Tres Leches: 6.52
+  Smoky Lime Quinoa Salad: 10.15
+  Hatch Chile Queso Dip: 9.69
+  Classic Mojito with Mint: 8.43
+  Smoky BBQ Pork Tostadas: 12.86
+  Hatch Green Chile Burger: 12.19
 amenity_features: {}
-min_price_factor: 0.75
+min_price_factor: 0.74
 minimum_menu_prices:
-  Mango Habanero Wings: 8.12
-  Braised Beef Barbacoa Tacos: 10.04
-  Black Bean Stuffed Bell Peppers: 6.83
-  Spicy Chicken Tortilla Soup: 5.16
-  Blueberry Jalapeno Margarita: 9.07
-  Coconut Lime Margarita: 5.83
-  Frozen Strawberry Margarita: 8.18
-  Fresh Watermelon Aqua Fresca: 2.41
-  Spicy Chocolate Lava Cake: 5.51
-  Zesty Lime Grilled Shrimp: 9.01
-  Green Chile Pork Stew: 11.76
-  Stuffed Poblano Pepper Delight: 7.9
-  Avocado Lime Enchiladas: 9.23
+  Tequila Sunrise Smoothie: 6.43
+  Tamale Trio Platter: 10.44
+  Chocolate Mole Chicken: 14.27
+  Roasted Poblano Soup: 6.04
+  Zesty Lime Chicken Fajitas: 10.35
+  Breakfast Tostada Stack: 7.96
+  Fresh Mint Mojito: 6.82
+  Coconut Lime Tres Leches: 4.82
+  Smoky Lime Quinoa Salad: 7.51
+  Hatch Chile Queso Dip: 7.17
+  Classic Mojito with Mint: 6.24
+  Smoky BBQ Pork Tostadas: 9.52
+  Hatch Green Chile Burger: 9.02

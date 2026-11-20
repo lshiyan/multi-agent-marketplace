@@ -1,45 +1,39 @@
 id: business_0118
-name: Avocuddle & Spice
-description: Bright, bold, and full of flavor, Avocuddle & Spice serves up creative
-  Mexican and Tex-Mex favorites with fresh twists and a playful spirit. Cozy up with
-  vibrant salads, sizzling skillets, zesty mains, and sweet desserts in every bite.
+name: Cactus & Cocoa Cantina
+description: A vibrant Tex-Mex spot blending the bold flavors of the Southwest with
+  sweet surprises. Enjoy a lively atmosphere, creative margaritas, and unforgettable
+  dishes made for sharing.
 rating: 1.0
 progenitor_customer: customer_0040
 menu_features:
-  Roasted Corn and Avocado Salad: 7.19
-  Stuffed Poblano Peppers: 13.51
-  Tex-Mex Breakfast Skillet: 9.42
-  Spicy Pork Tamales: 11.88
-  Black Bean & Corn Enchiladas: 10.49
-  Twisted Tequila Sunrise: 9.8
-  Pineapple Chipotle Pork: 12.41
-  Creamy Avocado Caesar Salad: 9.29
-  Honey-Lime Grilled Shrimp: 14.42
-  Chocolate Dipped Flan: 6.66
-  Classic Horchata Smoothie: 6.28
-  Zesty Lime Grilled Chicken: 13.03
-  Black Bean & Corn Queso Dip: 5.46
-  Classic Beef Barbacoa: 13.07
-  Cocoa Dusted Churro Bites: 4.53
-  Vegetarian Tamale Platter: 10.64
-  Crispy Fish Tacos: 9.38
+  Spiced Agave Margarita: 10.27
+  Agave Lime Chicken Skewers: 12.94
+  Spicy Black Bean Nachos: 10.68
+  Chocolate Sopapilla Bites: 5.3
+  Cactus Cooler Margarita: 9.2
+  Cinnamon Sugar Churro Sticks: 5.44
+  Coconut Lime Shrimp Skewers: 16.6
+  Chocolate Tamale Cake: 5.99
+  Smoky Chipotle Quesadillas: 10.79
+  Spicy Cucumber Margarita: 6.62
+  "Coconut Horchata Latt\xE9": 4.41
+  Spicy Street Corn: 5.7
+  Tamale Pie Casserole: 13.61
+  Beef Barbacoa Tostadas: 9.65
 amenity_features: {}
-min_price_factor: 0.69
+min_price_factor: 0.76
 minimum_menu_prices:
-  Roasted Corn and Avocado Salad: 4.96
-  Stuffed Poblano Peppers: 9.32
-  Tex-Mex Breakfast Skillet: 6.5
-  Spicy Pork Tamales: 8.2
-  Black Bean & Corn Enchiladas: 7.24
-  Twisted Tequila Sunrise: 6.76
-  Pineapple Chipotle Pork: 8.56
-  Creamy Avocado Caesar Salad: 6.41
-  Honey-Lime Grilled Shrimp: 9.95
-  Chocolate Dipped Flan: 4.6
-  Classic Horchata Smoothie: 4.33
-  Zesty Lime Grilled Chicken: 8.99
-  Black Bean & Corn Queso Dip: 3.77
-  Classic Beef Barbacoa: 9.02
-  Cocoa Dusted Churro Bites: 3.13
-  Vegetarian Tamale Platter: 7.34
-  Crispy Fish Tacos: 6.47
+  Spiced Agave Margarita: 7.81
+  Agave Lime Chicken Skewers: 9.83
+  Spicy Black Bean Nachos: 8.12
+  Chocolate Sopapilla Bites: 4.03
+  Cactus Cooler Margarita: 6.99
+  Cinnamon Sugar Churro Sticks: 4.13
+  Coconut Lime Shrimp Skewers: 12.62
+  Chocolate Tamale Cake: 4.89
+  Smoky Chipotle Quesadillas: 8.2
+  Spicy Cucumber Margarita: 5.03
+  "Coconut Horchata Latt\xE9": 3.69
+  Spicy Street Corn: 4.33
+  Tamale Pie Casserole: 10.34
+  Beef Barbacoa Tostadas: 7.68

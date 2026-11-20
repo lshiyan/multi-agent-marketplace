@@ -1,45 +1,45 @@
 id: business_0295
-name: "Sol & Saz\xF3n Cocina Mexicana"
-description: Experience the vibrant spirit of Mexican and Tex-Mex cuisine in a lively,
-  sun-filled atmosphere. Fresh ingredients and bold flavors come together in creative
-  dishes and colorful sips perfect for any occasion.
+name: Crispy Coconut Cantina
+description: Crispy Coconut Cantina brings together bold, fresh flavors and inventive
+  takes on classic Tex-Mex favorites. Enjoy vibrant dishes inspired by the streets
+  of Mexico in a warm, inviting atmosphere.
 rating: 1.0
 progenitor_customer: customer_0099
 menu_features:
-  Avocado & Tomato Breakfast Tostadas: 5.9
-  Blueberry Hibiscus Margarita: 8.1
-  Ancho Chili Spiced Ribs: 16.68
-  Spicy Pineapple Chipotle Margarita: 9.88
-  Smoky Chipotle Chicken: 13.32
-  Black Bean & Corn Queso Dip: 6.53
-  Passion Fruit Mojito: 8.73
-  Creamy Queso Dip: 7.51
-  Spicy Black Bean Nacho Platter: 8.46
-  Sweet Corn Tamale Bites: 7.15
-  Stuffed Avocado Boats: 8.31
-  Passionfruit Agua Fresca: 3.36
-  Chorizo Breakfast Burrito: 10.23
-  Street Style Corn on the Cob: 5.26
-  Cocoa Cinnamon Tequila: 8.2
-  Roasted Corn and Avocado Salad: 10.12
-  Tex-Mex Fajita Wrap: 14.18
+  Coconut Tres Leches: 6.12
+  Spicy Street Corn: 5.99
+  Blue Corn Enchilada Bake: 9.52
+  Southwestern Quinoa Salad: 9.85
+  Coconut Lime Rice Bowl: 9.86
+  Smoky Chipotle BBQ Wings: 12.57
+  Al Pastor Quesadilla: 7.66
+  Loaded Chorizo Nachos: 6.99
+  Mexican Spiced Chocolate Cake: 9.39
+  Grilled Shrimp Fajita Bowl: 11.39
+  Mango Jalapeno Slush: 4.72
+  Classic Tortilla Soup: 5.86
+  Crispy Avocado Fritters: 7.47
+  Classic Carne Asada Burrito: 10.87
+  Loaded Nacho Skillet: 10.91
+  Chili-Lime Cauliflower Bites: 10.49
+  Chili Lime Street Corn: 7.0
 amenity_features: {}
-min_price_factor: 0.91
+min_price_factor: 0.66
 minimum_menu_prices:
-  Avocado & Tomato Breakfast Tostadas: 5.37
-  Blueberry Hibiscus Margarita: 7.37
-  Ancho Chili Spiced Ribs: 15.18
-  Spicy Pineapple Chipotle Margarita: 8.99
-  Smoky Chipotle Chicken: 12.12
-  Black Bean & Corn Queso Dip: 5.94
-  Passion Fruit Mojito: 7.94
-  Creamy Queso Dip: 6.83
-  Spicy Black Bean Nacho Platter: 7.7
-  Sweet Corn Tamale Bites: 6.51
-  Stuffed Avocado Boats: 7.56
-  Passionfruit Agua Fresca: 3.06
-  Chorizo Breakfast Burrito: 9.31
-  Street Style Corn on the Cob: 4.79
-  Cocoa Cinnamon Tequila: 7.46
-  Roasted Corn and Avocado Salad: 9.21
-  Tex-Mex Fajita Wrap: 12.9
+  Coconut Tres Leches: 4.04
+  Spicy Street Corn: 3.95
+  Blue Corn Enchilada Bake: 8.13
+  Southwestern Quinoa Salad: 6.5
+  Coconut Lime Rice Bowl: 6.51
+  Smoky Chipotle BBQ Wings: 8.3
+  Al Pastor Quesadilla: 6.9
+  Loaded Chorizo Nachos: 4.61
+  Mexican Spiced Chocolate Cake: 6.2
+  Grilled Shrimp Fajita Bowl: 7.52
+  Mango Jalapeno Slush: 3.12
+  Classic Tortilla Soup: 3.87
+  Crispy Avocado Fritters: 6.78
+  Classic Carne Asada Burrito: 7.17
+  Loaded Nacho Skillet: 7.2
+  Chili-Lime Cauliflower Bites: 6.92
+  Chili Lime Street Corn: 4.62

@@ -1,9 +1,9 @@
 id: customer_0026
-name: Jack Thompson
-request: 'Could you please assist me in finding a business that offers the following
-  menu items: 1 Crispy Avocado Bites and 1 Flan with Caramel Drizzle? I would like
-  to place an order for these specific items. Thank you for your help.'
+name: Ethan Kim
+request: 'Please find a business that can fulfill my order for the following item:
+  Blueberry Hibiscus Margarita (1). It is essential that any business considered can
+  meet this requirement exactly, as I intend to place an order. Thank you for your
+  assistance.'
 menu_features:
-  Crispy Avocado Bites: 8.49
-  Flan with Caramel Drizzle: 5.79
+  Blueberry Hibiscus Margarita: 13.6
 amenity_features: []

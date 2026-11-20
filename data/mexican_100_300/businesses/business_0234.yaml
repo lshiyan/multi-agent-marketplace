@@ -1,44 +1,39 @@
 id: business_0234
-name: Holy Skillet & Guacamole!
-description: Savor a vibrant blend of Tex-Mex and Mexican flavors at a neighborhood
-  eatery where zesty skillets, fresh guacamole, and creative classics are always on
-  the menu. Bright ingredients and bold spices make every bite a fiesta for your taste
-  buds.
+name: Avocado Ember Kitchen
+description: A modern Tex-Mex dining experience where vibrant flavors meet creative
+  flair. Enjoy a bold mix of sizzling plates, fresh ingredients, and decadent desserts
+  in a lively, welcoming setting.
 rating: 1.0
 progenitor_customer: customer_0078
 menu_features:
-  Zesty Shrimp Ceviche: 14.6
-  Ultimate Nacho Platter: 9.52
-  Pico de Gallo Chicken Salad: 8.02
-  Roasted Poblano Veggie Skillet: 10.5
-  Avocado & Tomato Breakfast Tostadas: 8.98
-  Fresh Limeade: 3.74
-  Roasted Poblano Quesadilla: 12.06
-  Chipotle BBQ Tacos: 13.1
-  Chocolate Mole Chicken: 18.48
-  Spiced Pumpkin Empanadas: 5.87
-  Tamale Trio Sampler: 12.09
-  Blue Corn Tortilla Soup: 7.02
-  "Coconut Horchata Latt\xE9": 4.93
-  Veggie Fajita Platter: 13.17
-  Cinnamon Sugar Churros: 5.85
-  Fajita Veggie Burrito Bowl: 12.09
+  Crispy Avocado Bites: 9.49
+  Peppered Steak Nachos: 11.47
+  Mexican Chocolate Flan: 5.82
+  Blueberry Jalapeno Margarita: 11.8
+  Pumpkin Spice Flan: 5.39
+  Choco Flan Combo: 6.47
+  Pineapple Salsa Nachos: 10.35
+  Coconut Lime Rice Bowl: 9.45
+  Chipotle Shrimp Skewers: 12.01
+  Honey Lime Fajita Sizzlers: 15.36
+  Sizzling Fajita Plate: 14.1
+  Chipotle Lime Cauliflower Tacos: 10.37
+  Tamarind Spiced Agua Fresca: 4.21
+  Passion Fruit Mojito: 8.71
 amenity_features: {}
-min_price_factor: 0.88
+min_price_factor: 0.73
 minimum_menu_prices:
-  Zesty Shrimp Ceviche: 12.85
-  Ultimate Nacho Platter: 8.38
-  Pico de Gallo Chicken Salad: 7.06
-  Roasted Poblano Veggie Skillet: 9.24
-  Avocado & Tomato Breakfast Tostadas: 7.9
-  Fresh Limeade: 3.29
-  Roasted Poblano Quesadilla: 10.61
-  Chipotle BBQ Tacos: 11.53
-  Chocolate Mole Chicken: 16.26
-  Spiced Pumpkin Empanadas: 5.17
-  Tamale Trio Sampler: 10.64
-  Blue Corn Tortilla Soup: 6.18
-  "Coconut Horchata Latt\xE9": 4.34
-  Veggie Fajita Platter: 11.59
-  Cinnamon Sugar Churros: 5.15
-  Fajita Veggie Burrito Bowl: 10.64
+  Crispy Avocado Bites: 6.93
+  Peppered Steak Nachos: 8.37
+  Mexican Chocolate Flan: 4.25
+  Blueberry Jalapeno Margarita: 7.32
+  Pumpkin Spice Flan: 3.93
+  Choco Flan Combo: 4.72
+  Pineapple Salsa Nachos: 7.56
+  Coconut Lime Rice Bowl: 6.9
+  Chipotle Shrimp Skewers: 8.77
+  Honey Lime Fajita Sizzlers: 11.21
+  Sizzling Fajita Plate: 10.29
+  Chipotle Lime Cauliflower Tacos: 7.57
+  Tamarind Spiced Agua Fresca: 3.07
+  Passion Fruit Mojito: 6.36

@@ -1,37 +1,39 @@
 id: business_0162
-name: Guac My World
-description: Dive into vibrant Tex-Mex flavors, where creamy avocados, fiery salsas,
-  and sweet surprises take center stage. Experience bold classics and inventive delights
-  in a lively atmosphere.
+name: Azul Mezquite Mexicano
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  inviting atmosphere. Savor creative takes on classic dishes, bursting with bold
+  spices and fresh ingredients.
 rating: 1.0
 progenitor_customer: customer_0054
 menu_features:
-  Chocolate Molten Tamale: 5.44
-  Creamy Avocado Smoothie: 4.91
-  Pineapple Habanero Margarita: 8.97
-  Zesty Shrimp Quesadillas: 13.19
-  Stuffed Avocado Boats: 7.29
-  Beef Barbacoa Burrito Bowl: 12.73
-  Breakfast Chilaquiles Verde: 9.89
-  Grilled Pineapple and Pork Tacos: 10.24
-  Caramel Corn Flan: 7.28
-  Cilantro Lime Chicken Tacos: 9.79
-  Blue Agave Tequila Sunrise: 7.59
-  Rich Chocolate Tamales: 6.08
-  Spicy Mango Margarita: 8.5
+  Hibiscus Iced Tea: 4.09
+  Crispy Tinga Chicken Tacos: 8.35
+  Roasted Red Pepper Quesadilla: 8.76
+  Coconut Lime Rice Bowl: 9.19
+  Honey Lime Grilled Corn: 4.4
+  Ancho Chili Spiced Ribs: 13.64
+  Mexican Chocolate Brownie: 6.69
+  Carne Asada Nachos: 11.04
+  Stuffed Avocado Delight: 4.71
+  Chipotle Lime Shrimp Skewers: 14.08
+  Street Style Corn on the Cob: 4.9
+  Savory Chorizo Street Tacos: 9.21
+  Tamarind Ginger Cooler: 5.05
+  Roasted Poblano Rellenos: 14.89
 amenity_features: {}
-min_price_factor: 0.65
+min_price_factor: 0.69
 minimum_menu_prices:
-  Chocolate Molten Tamale: 3.54
-  Creamy Avocado Smoothie: 3.19
-  Pineapple Habanero Margarita: 5.83
-  Zesty Shrimp Quesadillas: 8.57
-  Stuffed Avocado Boats: 4.74
-  Beef Barbacoa Burrito Bowl: 8.27
-  Breakfast Chilaquiles Verde: 6.43
-  Grilled Pineapple and Pork Tacos: 6.66
-  Caramel Corn Flan: 4.73
-  Cilantro Lime Chicken Tacos: 6.36
-  Blue Agave Tequila Sunrise: 4.93
-  Rich Chocolate Tamales: 3.95
-  Spicy Mango Margarita: 5.53
+  Hibiscus Iced Tea: 2.82
+  Crispy Tinga Chicken Tacos: 5.76
+  Roasted Red Pepper Quesadilla: 6.04
+  Coconut Lime Rice Bowl: 6.34
+  Honey Lime Grilled Corn: 3.04
+  Ancho Chili Spiced Ribs: 9.41
+  Mexican Chocolate Brownie: 4.62
+  Carne Asada Nachos: 7.62
+  Stuffed Avocado Delight: 3.25
+  Chipotle Lime Shrimp Skewers: 10.87
+  Street Style Corn on the Cob: 3.38
+  Savory Chorizo Street Tacos: 6.35
+  Tamarind Ginger Cooler: 3.48
+  Roasted Poblano Rellenos: 10.27

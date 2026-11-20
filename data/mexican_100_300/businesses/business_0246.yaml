@@ -1,35 +1,35 @@
 id: business_0246
-name: La Parrilla Brillante
-description: Experience a vibrant fusion of classic Mexican and modern Tex-Mex flavors
-  in a welcoming, lively atmosphere. Enjoy bold, smoky dishes and refreshing house-made
-  drinks crafted with the freshest ingredients.
+name: Caramel & Cacao Cocina
+description: Savor the vibrant spirit of Mexican cuisine with a creative twist on
+  sweet and savory classics, from fiery flavors to decadent desserts. Discover bold
+  salsas, sizzling skillets, and indulgent treats in a warm, festive atmosphere.
 rating: 1.0
 progenitor_customer: customer_0082
 menu_features:
-  Smoky Black Bean Tostadas: 8.74
-  Grilled Avocado and Quinoa Bowl: 10.36
-  Pomegranate Agua Fresca: 4.41
-  Mango Habanero Salsa: 4.81
-  Spicy Chipotle Chicken Wrap: 9.41
-  Gourmet Nacho Platter: 12.44
-  Tamarind Ginger Cooler: 4.56
-  Sizzling Fajita Plate: 13.88
-  Guava Limeade Cooler: 4.86
-  Smoky Chipotle Chicken: 9.71
-  Blueberry Jalapeno Lemonade: 3.31
-  Mexican Chocolate Milkshake: 5.81
+  Cocoa Cinnamon Tequila: 9.22
+  Choco-Chili Volcano Cake: 6.79
+  Caramel Corn Flan: 6.24
+  Caramel Apple Empanadas: 5.3
+  Beef Fajita Skillet: 13.95
+  Zesty Shrimp Ceviche: 13.32
+  Crispy Avocado Tacos: 11.53
+  Pineapple Habanero Salsa: 5.7
+  Horchata Iced Coffee: 4.31
+  Mexican Hot Chocolate: 5.43
+  Fiesta Street Corn: 7.19
+  Pineapple Jalapeno Sangria: 8.77
 amenity_features: {}
-min_price_factor: 0.74
+min_price_factor: 0.83
 minimum_menu_prices:
-  Smoky Black Bean Tostadas: 6.47
-  Grilled Avocado and Quinoa Bowl: 7.67
-  Pomegranate Agua Fresca: 3.26
-  Mango Habanero Salsa: 3.56
-  Spicy Chipotle Chicken Wrap: 6.96
-  Gourmet Nacho Platter: 9.21
-  Tamarind Ginger Cooler: 3.37
-  Sizzling Fajita Plate: 10.27
-  Guava Limeade Cooler: 3.6
-  Smoky Chipotle Chicken: 7.19
-  Blueberry Jalapeno Lemonade: 2.45
-  Mexican Chocolate Milkshake: 4.3
+  Cocoa Cinnamon Tequila: 7.65
+  Choco-Chili Volcano Cake: 5.64
+  Caramel Corn Flan: 5.18
+  Caramel Apple Empanadas: 4.4
+  Beef Fajita Skillet: 11.58
+  Zesty Shrimp Ceviche: 11.06
+  Crispy Avocado Tacos: 9.57
+  Pineapple Habanero Salsa: 4.73
+  Horchata Iced Coffee: 3.58
+  Mexican Hot Chocolate: 4.51
+  Fiesta Street Corn: 3.44
+  Pineapple Jalapeno Sangria: 7.28

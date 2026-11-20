@@ -1,39 +1,48 @@
 id: business_0252
-name: Quinoa & Queso
-description: "Quinoa & Queso serves up a vibrant mix of Southwestern and Mexican-inspired\
-  \ flavors in a warm, inviting atmosphere. Enjoy fresh salads, sizzling entr\xE9\
-  es, and refreshing drinks crafted from bold, zesty ingredients."
+name: Guac to the Lava
+description: Spice things up with a playful twist on Mexican and Tex-Mex favorites,
+  featuring bold flavors, inventive avocado dishes, and decadent chocolate delights.
+  Expect a fresh, vibrant menu that brings a little heat and a lot of heart to every
+  plate.
 rating: 1.0
 progenitor_customer: customer_0084
 menu_features:
-  Smoky Chipotle BBQ Ribs: 13.31
-  Pico de Gallo Chicken Salad: 11.32
-  Tamarind Spiced Agua Fresca: 4.17
-  Southwestern Quinoa Salad: 8.43
-  Honey Chipotle Wings: 7.95
-  Classic Beef Enchiladas: 10.71
-  Creamy Avocado Soup: 8.32
-  Coconut Lime Margarita: 9.56
-  Spicy Chorizo Enchiladas: 15.01
-  Tangy Tomato Salsa Soup: 9.15
-  Stuffed Avocado Boats: 7.85
-  Blue Corn Tostada Salad: 10.46
-  Smoky Lime Quinoa Salad: 11.0
-  Hatch Green Chile Rice: 5.76
+  Crispy Tinga Chicken Tacos: 7.89
+  Mexican Chocolate Lava Cake: 8.01
+  Pico Avocado Toast: 8.99
+  Smoky Chipotle Queso: 6.11
+  Classic Beef Barbacoa: 13.09
+  Stuffed Avocado Boats: 9.08
+  Chili Lime Jicama Sticks: 6.64
+  Chocolate Molten Tamale: 6.5
+  Southwestern Quinoa Salad: 6.84
+  Horchata Cold Brew Coffee: 4.81
+  Smoky Chipotle Quesadillas: 10.49
+  Stuffed Avocado Delight: 7.29
+  Spicy Black Bean Nachos: 10.23
+  Crisp Jicama Slaw: 3.97
+  Cinnamon Sugar Churros: 5.87
+  Black Bean Stuffed Sweet Potatoes: 6.96
+  Fresh Limeade: 2.96
+  Crispy Avocado Tacos: 14.62
 amenity_features: {}
-min_price_factor: 0.81
+min_price_factor: 0.74
 minimum_menu_prices:
-  Smoky Chipotle BBQ Ribs: 10.78
-  Pico de Gallo Chicken Salad: 9.17
-  Tamarind Spiced Agua Fresca: 3.38
-  Southwestern Quinoa Salad: 6.83
-  Honey Chipotle Wings: 6.44
-  Classic Beef Enchiladas: 8.68
-  Creamy Avocado Soup: 6.74
-  Coconut Lime Margarita: 7.74
-  Spicy Chorizo Enchiladas: 12.16
-  Tangy Tomato Salsa Soup: 7.41
-  Stuffed Avocado Boats: 6.36
-  Blue Corn Tostada Salad: 8.47
-  Smoky Lime Quinoa Salad: 8.91
-  Hatch Green Chile Rice: 4.67
+  Crispy Tinga Chicken Tacos: 5.84
+  Mexican Chocolate Lava Cake: 5.93
+  Pico Avocado Toast: 6.65
+  Smoky Chipotle Queso: 4.52
+  Classic Beef Barbacoa: 10.86
+  Stuffed Avocado Boats: 6.72
+  Chili Lime Jicama Sticks: 4.91
+  Chocolate Molten Tamale: 5.81
+  Southwestern Quinoa Salad: 5.06
+  Horchata Cold Brew Coffee: 3.56
+  Smoky Chipotle Quesadillas: 7.76
+  Stuffed Avocado Delight: 5.39
+  Spicy Black Bean Nachos: 7.57
+  Crisp Jicama Slaw: 2.94
+  Cinnamon Sugar Churros: 4.34
+  Black Bean Stuffed Sweet Potatoes: 5.15
+  Fresh Limeade: 2.96
+  Crispy Avocado Tacos: 10.82

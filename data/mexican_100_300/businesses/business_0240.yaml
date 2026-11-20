@@ -1,43 +1,39 @@
 id: business_0240
-name: Cacao & Flame Kitchen
-description: "Experience bold, vibrant flavors at Cacao & Flame Kitchen, where Mexico\u2019\
-  s classic comforts meet a modern, fiery twist. Perfect for those craving fresh drinks,\
-  \ sizzling plates, and delectable desserts in a warm, lively atmosphere."
+name: Carnitas & Citrus Corner
+description: Experience bold, modern Mexican and Tex-Mex flavors in a lively and welcoming
+  atmosphere. From sizzling fajitas to zesty citrus-inspired desserts, every dish
+  is crafted with fresh ingredients and a creative twist.
 rating: 1.0
 progenitor_customer: customer_0080
 menu_features:
-  Choco Flan Combo: 8.45
-  Fresh Mint Mojito: 8.25
-  Spicy Beef Enchilada Bake: 13.04
-  Mango Agua Fresca: 3.03
-  Grilled Steak Fajita Platter: 15.21
-  Mesquite Grilled Steak Fajitas: 17.68
-  Creamy Chipotle Pasta: 11.58
-  Roasted Poblano Rellenos: 15.12
-  Chili Chocolate Lava Cake: 7.06
-  Hatch Green Chile Stew: 12.99
-  Sizzling Fajita Plate: 14.31
-  Vanilla Flan with Caramel Sauce: 6.04
-  Black Bean Breakfast Burrito: 8.71
-  Salted Caramel Margarita: 10.49
-  Smoky Mezcal Mule: 10.75
-  Warm Cinnamon Churros: 4.9
+  Chipotle Bourbon Carnitas: 12.21
+  Sizzling Steak Fajitas: 14.69
+  Chorizo and Egg Tacos: 8.88
+  Sizzling Fajita Plate: 15.03
+  Caramelized Banana Flan: 6.29
+  Margarita Lime Pie: 6.05
+  Loaded Nacho Fries: 7.98
+  Fresh Lime and Cilantro Guacamole: 7.79
+  Crispy Avocado Bites: 9.08
+  Crispy Avocado Tacos: 9.83
+  Vanilla Flan with Caramel Sauce: 6.27
+  Cucumber Jalapeno Agua Fresca: 3.94
+  Grilled Shrimp Fajita Bowl: 12.43
+  Mole Chicken Quesadilla: 11.64
 amenity_features: {}
-min_price_factor: 0.64
+min_price_factor: 0.82
 minimum_menu_prices:
-  Choco Flan Combo: 5.41
-  Fresh Mint Mojito: 5.28
-  Spicy Beef Enchilada Bake: 8.35
-  Mango Agua Fresca: 1.94
-  Grilled Steak Fajita Platter: 9.73
-  Mesquite Grilled Steak Fajitas: 11.32
-  Creamy Chipotle Pasta: 7.41
-  Roasted Poblano Rellenos: 9.68
-  Chili Chocolate Lava Cake: 4.52
-  Hatch Green Chile Stew: 8.31
-  Sizzling Fajita Plate: 9.16
-  Vanilla Flan with Caramel Sauce: 3.87
-  Black Bean Breakfast Burrito: 5.57
-  Salted Caramel Margarita: 6.71
-  Smoky Mezcal Mule: 6.88
-  Warm Cinnamon Churros: 3.14
+  Chipotle Bourbon Carnitas: 10.01
+  Sizzling Steak Fajitas: 12.49
+  Chorizo and Egg Tacos: 7.28
+  Sizzling Fajita Plate: 12.32
+  Caramelized Banana Flan: 5.16
+  Margarita Lime Pie: 4.96
+  Loaded Nacho Fries: 6.54
+  Fresh Lime and Cilantro Guacamole: 6.83
+  Crispy Avocado Bites: 7.45
+  Crispy Avocado Tacos: 8.06
+  Vanilla Flan with Caramel Sauce: 5.14
+  Cucumber Jalapeno Agua Fresca: 3.23
+  Grilled Shrimp Fajita Bowl: 10.19
+  Mole Chicken Quesadilla: 9.54

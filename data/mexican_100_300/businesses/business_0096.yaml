@@ -1,47 +1,41 @@
 id: business_0096
-name: Cilantro & Stone
-description: Experience bold Mexican and Tex-Mex flavors with vibrant, fresh ingredients
-  in a modern, stylish setting. Classic comforts and creative favorites come together
-  for a taste of tradition reimagined.
+name: "Margarita & Ma\xEDz"
+description: "Step into a vibrant world of bold flavors, fresh ingredients, and handcrafted\
+  \ cocktails. Margarita & Ma\xEDz brings a festive twist to classic Mexican and Tex-Mex\
+  \ favorites in a lively, welcoming setting."
 rating: 1.0
 progenitor_customer: customer_0032
 menu_features:
-  Paloma Breeze Cocktail: 9.29
-  Fresh Lime and Cilantro Guacamole: 6.72
-  Classic Tortilla Soup: 5.78
-  Stuffed Poblano Peppers: 14.62
-  Tomatillo Ranch Enchiladas: 14.11
-  Pork Carnitas Platter: 13.41
-  Honey-Lime Grilled Salmon: 15.69
-  Tres Leches Cake: 7.49
-  Breakfast Burrito Bonanza: 9.26
-  Spicy Avocado Smash Burger: 14.5
-  Caramelized Onion Queso Dip: 6.89
-  Spicy Chicken Chimichanga: 10.16
-  Crisp Jicama Slaw: 4.62
-  Spicy Pork Tamales: 10.68
-  Green Chile Cheesesteak: 15.19
-  Adobo Roasted Corn Salad: 7.67
-  Grilled Pineapple and Pork Tacos: 13.96
-  Classic Lime Margarita: 7.64
+  Fresh Lime Cilantro Rice: 3.03
+  Salted Caramel Margarita: 9.01
+  Black Bean Crunch Wrap: 11.19
+  Smoky Chipotle Enchiladas: 11.25
+  Spicy Pineapple Chipotle Margarita: 8.45
+  Pomegranate Agua Fresca: 4.05
+  Honey Lime Grilled Corn: 4.82
+  Toasted Coconut Flan: 7.17
+  Honey Lime Fajita Sizzlers: 20.03
+  Spicy Shrimp Fajitas: 13.65
+  Vanilla Flan with Caramel Sauce: 7.46
+  Gourmet Nacho Platter: 12.15
+  Passionfruit Paloma: 7.57
+  Pineapple Jalapeno Salsa: 4.94
+  Grilled Street Corn: 7.28
 amenity_features: {}
-min_price_factor: 0.73
+min_price_factor: 0.8
 minimum_menu_prices:
-  Paloma Breeze Cocktail: 6.78
-  Fresh Lime and Cilantro Guacamole: 4.91
-  Classic Tortilla Soup: 4.22
-  Stuffed Poblano Peppers: 10.67
-  Tomatillo Ranch Enchiladas: 10.3
-  Pork Carnitas Platter: 9.79
-  Honey-Lime Grilled Salmon: 11.45
-  Tres Leches Cake: 5.47
-  Breakfast Burrito Bonanza: 6.76
-  Spicy Avocado Smash Burger: 10.58
-  Caramelized Onion Queso Dip: 5.03
-  Spicy Chicken Chimichanga: 7.42
-  Crisp Jicama Slaw: 3.37
-  Spicy Pork Tamales: 7.8
-  Green Chile Cheesesteak: 11.09
-  Adobo Roasted Corn Salad: 5.6
-  Grilled Pineapple and Pork Tacos: 10.19
-  Classic Lime Margarita: 5.58
+  Fresh Lime Cilantro Rice: 2.42
+  Salted Caramel Margarita: 7.21
+  Black Bean Crunch Wrap: 8.95
+  Smoky Chipotle Enchiladas: 9.0
+  Spicy Pineapple Chipotle Margarita: 6.76
+  Pomegranate Agua Fresca: 3.24
+  Honey Lime Grilled Corn: 3.86
+  Toasted Coconut Flan: 5.74
+  Honey Lime Fajita Sizzlers: 16.02
+  Spicy Shrimp Fajitas: 10.92
+  Vanilla Flan with Caramel Sauce: 5.97
+  Gourmet Nacho Platter: 8.31
+  Passionfruit Paloma: 6.06
+  Pineapple Jalapeno Salsa: 3.95
+  Grilled Street Corn: 5.82

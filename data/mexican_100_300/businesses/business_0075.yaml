@@ -1,33 +1,36 @@
 id: business_0075
-name: Bean There, Salsed That
-description: A playful twist on Mexican and Tex-Mex classics, featuring bold flavors
-  and inventive bites. Swing by for a fiesta of spice, sizzle, and fresh flair in
-  every dish.
+name: Bean There, Sipped That
+description: Dive into a vibrant fusion of Mexican and Tex-Mex flavors, where bold
+  desserts, refreshing aguas frescas, and inventive street eats meet. A delicious
+  destination for those craving a little spice, a little sweetness, and plenty of
+  fiesta in every bite.
 rating: 1.0
 progenitor_customer: customer_0025
 menu_features:
-  Loaded Nacho Platter: 11.1
-  Spicy Beef Enchilada Bake: 11.35
-  Raspberry Jalapeno Mojito: 9.88
-  Spiced Chocolate Tres Leches: 6.17
-  Black Bean Crunch Wrap: 9.91
-  Avocado & Tomato Breakfast Tostadas: 8.14
-  Zesty Lime Chicken Tacos: 11.15
-  Black Bean and Avocado Wrap: 8.43
-  Smoky Chipotle Queso: 6.21
-  Roasted Pumpkin Tamale: 6.5
-  Cocoa Dusted Churro Bites: 6.09
+  Vanilla Almond Horchata: 4.66
+  Horchata Latte: 3.82
+  Strawberry Jalapeno Lemonade: 4.14
+  Spicy Black Bean Nachos: 10.21
+  Mexican Chocolate Flan: 7.04
+  Spiced Chocolate Flan: 6.83
+  Grilled Street Corn: 6.31
+  Passionfruit Agua Fresca: 4.56
+  Tres Leches Cake: 8.1
+  Mexican Spiced Chocolate Cake: 8.07
+  Crispy Fish Tacos: 10.7
+  Choco-Chili Volcano Cake: 8.02
 amenity_features: {}
-min_price_factor: 0.74
+min_price_factor: 0.77
 minimum_menu_prices:
-  Loaded Nacho Platter: 8.21
-  Spicy Beef Enchilada Bake: 8.4
-  Raspberry Jalapeno Mojito: 7.31
-  Spiced Chocolate Tres Leches: 4.57
-  Black Bean Crunch Wrap: 7.33
-  Avocado & Tomato Breakfast Tostadas: 6.02
-  Zesty Lime Chicken Tacos: 8.25
-  Black Bean and Avocado Wrap: 6.24
-  Smoky Chipotle Queso: 4.6
-  Roasted Pumpkin Tamale: 4.81
-  Cocoa Dusted Churro Bites: 4.51
+  Vanilla Almond Horchata: 3.59
+  Horchata Latte: 2.94
+  Strawberry Jalapeno Lemonade: 3.19
+  Spicy Black Bean Nachos: 7.86
+  Mexican Chocolate Flan: 5.42
+  Spiced Chocolate Flan: 4.48
+  Grilled Street Corn: 4.86
+  Passionfruit Agua Fresca: 2.73
+  Tres Leches Cake: 6.24
+  Mexican Spiced Chocolate Cake: 6.21
+  Crispy Fish Tacos: 8.24
+  Choco-Chili Volcano Cake: 6.18

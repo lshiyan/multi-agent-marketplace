@@ -1,42 +1,37 @@
 id: business_0237
-name: Huevos & Harmony
-description: "Wake up your tastebuds with a playful, flavor-packed twist on classic\
-  \ Mexican and Tex-Mex fare, from loaded skillets and brunch bites to sweet, spiced\
-  \ desserts and vibrant beverages. Celebrate every meal\u2019s melody in our cozy\
-  \ cantina."
+name: Sabores del Campo Mexicano
+description: Experience the vibrant spirit of Mexican and Tex-Mex cuisine in a warm,
+  inviting setting. Savor bold flavors and creative dishes inspired by market-fresh
+  ingredients and traditional recipes with a modern twist.
 rating: 1.0
 progenitor_customer: customer_0079
 menu_features:
-  Refreshing Agua Fresca Trio: 8.0
-  Mexican Coffee Flan: 5.48
-  Breakfast Burrito Bonanza: 10.89
-  Roasted Red Pepper Quesadilla: 9.83
-  Cocoa Cinnamon Tequila: 8.86
-  Loaded Nacho Skillet: 11.36
-  Spicy Avocado Smash Burger: 11.77
-  Mesquite Grilled Steak Fajitas: 18.03
-  Spiced Chocolate Tres Leches: 5.78
-  Tequila Lime Shrimp Skewers: 13.0
-  Spicy Black Bean Tacos: 11.11
-  Coconut Flan Delight: 7.77
-  "Blueberry Jalape\xF1o Margarita": 9.04
-  Smoky Chipotle Chicken: 17.19
-  Classic Horchata Smoothie: 5.95
+  Black Bean and Sweet Potato Empanadas: 11.68
+  Street Corn Fritters: 7.37
+  Grilled Shrimp Skewers: 12.51
+  Three-Cheese Chile Rellenos: 12.6
+  Pumpkin Spice Flan: 5.71
+  Mexican Chocolate Lava Cake: 8.91
+  Black Bean Taco Bowl: 10.61
+  Margarita Lime Cheesecake: 7.23
+  Grilled Street Corn: 5.89
+  Chili Con Queso Supreme: 8.9
+  Minty Mojito Refresher: 8.06
+  Al Pastor Pork Tacos: 11.14
+  Loaded Chorizo Nachos: 9.23
 amenity_features: {}
-min_price_factor: 0.69
+min_price_factor: 0.82
 minimum_menu_prices:
-  Refreshing Agua Fresca Trio: 5.52
-  Mexican Coffee Flan: 3.78
-  Breakfast Burrito Bonanza: 7.51
-  Roasted Red Pepper Quesadilla: 6.78
-  Cocoa Cinnamon Tequila: 6.11
-  Loaded Nacho Skillet: 7.84
-  Spicy Avocado Smash Burger: 8.12
-  Mesquite Grilled Steak Fajitas: 12.44
-  Spiced Chocolate Tres Leches: 3.99
-  Tequila Lime Shrimp Skewers: 8.97
-  Spicy Black Bean Tacos: 7.67
-  Coconut Flan Delight: 5.36
-  "Blueberry Jalape\xF1o Margarita": 6.24
-  Smoky Chipotle Chicken: 11.86
-  Classic Horchata Smoothie: 4.11
+  Black Bean and Sweet Potato Empanadas: 9.58
+  Street Corn Fritters: 6.04
+  Grilled Shrimp Skewers: 10.26
+  Three-Cheese Chile Rellenos: 10.33
+  Pumpkin Spice Flan: 4.68
+  Mexican Chocolate Lava Cake: 7.31
+  Black Bean Taco Bowl: 8.7
+  Margarita Lime Cheesecake: 5.93
+  Grilled Street Corn: 4.83
+  Chili Con Queso Supreme: 5.09
+  Minty Mojito Refresher: 6.61
+  Al Pastor Pork Tacos: 9.13
+  Loaded Chorizo Nachos: 7.57

@@ -1,43 +1,43 @@
 id: business_0191
-name: Bean Me Up, Picante
-description: Where bold flavors and fresh ingredients fuse with a playful Tex-Mex
-  twist. Enjoy inventive brunch classics, zesty cocktails, and plenty of spice in
-  every bite.
+name: Skillet Me Softly
+description: Bringing bold flavors and sizzling Tex-Mex classics together, Skillet
+  Me Softly serves up crave-worthy eats with a vibrant twist. Experience fresh, fiery,
+  and unforgettable dishes in every bite.
 rating: 1.0
 progenitor_customer: customer_0064
 menu_features:
-  Verde Ranchero Huevos: 8.47
-  Spicy Cucumber Margarita: 8.35
-  Spicy Zucchini Tostadas: 7.88
-  Black Bean Sweet Potato Burrito: 10.79
-  Honey Chipotle Wings: 10.09
-  Caramelized Onion and Goat Cheese Empanadas: 7.42
-  Tex-Mex Breakfast Skillet: 9.9
-  Spicy Black Bean and Cheese Quesadilla: 10.8
-  Paloma Breeze Cocktail: 7.36
-  Strawberry Jalapeno Lemonade: 3.15
-  Ancho Chili Spiced Ribs: 14.2
-  Black Bean Crunch Wrap: 11.4
-  "Cheesy Jalape\xF1o Quesadillas": 11.24
-  Black Bean Stuffed Bell Peppers: 11.41
-  Ancho Chile Chicken Salad: 10.54
-  Cactus Cooler Margarita: 8.55
+  Loaded Nacho Fiesta: 10.84
+  Crispy Avocado Nachos: 9.22
+  Sweet and Spicy Chicken Tostadas: 10.34
+  Crispy Fish Baja Bowl: 15.84
+  Spiced Churro Bites: 6.19
+  Avocado Lime Enchiladas: 14.97
+  Tequila Lime Shrimp Skewers: 15.69
+  Smoky Chipotle Enchiladas: 14.3
+  Coconut Tres Leches: 6.75
+  Sizzling Fajita Plate: 12.98
+  Smoky BBQ Pork Tostadas: 10.93
+  Shrimp Ceviche Bowl: 15.98
+  Smoky Black Bean Tostadas: 7.16
+  Black Bean Avocado Tostadas: 13.46
+  Sizzling Fajita Skillet: 18.66
+  Agave Lime Margarita: 10.56
 amenity_features: {}
-min_price_factor: 0.81
+min_price_factor: 0.79
 minimum_menu_prices:
-  Verde Ranchero Huevos: 6.86
-  Spicy Cucumber Margarita: 6.76
-  Spicy Zucchini Tostadas: 6.38
-  Black Bean Sweet Potato Burrito: 8.74
-  Honey Chipotle Wings: 8.17
-  Caramelized Onion and Goat Cheese Empanadas: 6.01
-  Tex-Mex Breakfast Skillet: 8.02
-  Spicy Black Bean and Cheese Quesadilla: 8.75
-  Paloma Breeze Cocktail: 5.96
-  Strawberry Jalapeno Lemonade: 2.55
-  Ancho Chili Spiced Ribs: 11.5
-  Black Bean Crunch Wrap: 9.23
-  "Cheesy Jalape\xF1o Quesadillas": 9.1
-  Black Bean Stuffed Bell Peppers: 9.24
-  Ancho Chile Chicken Salad: 8.54
-  Cactus Cooler Margarita: 6.93
+  Loaded Nacho Fiesta: 8.56
+  Crispy Avocado Nachos: 7.28
+  Sweet and Spicy Chicken Tostadas: 8.17
+  Crispy Fish Baja Bowl: 12.51
+  Spiced Churro Bites: 4.89
+  Avocado Lime Enchiladas: 11.83
+  Tequila Lime Shrimp Skewers: 12.4
+  Smoky Chipotle Enchiladas: 11.3
+  Coconut Tres Leches: 5.33
+  Sizzling Fajita Plate: 10.25
+  Smoky BBQ Pork Tostadas: 8.63
+  Shrimp Ceviche Bowl: 12.62
+  Smoky Black Bean Tostadas: 5.66
+  Black Bean Avocado Tostadas: 9.96
+  Sizzling Fajita Skillet: 14.74
+  Agave Lime Margarita: 8.34

@@ -1,45 +1,45 @@
 id: business_0031
-name: Mesa Vibrante
-description: Experience fresh and bold flavors at Mesa Vibrante, where classic Mexican
-  and Tex-Mex favorites meet modern culinary creativity. Enjoy vibrant dishes and
-  handcrafted drinks in a lively, welcoming setting.
+name: The Quirky Cactus
+description: "Dig into a vibrant mix of modern Mexican and Tex-Mex flavors\u2014from\
+  \ sizzling skillets to refreshing agua frescas\u2014served with a creative twist.\
+  \ Come for the bold bites, stay for the fiesta vibes!"
 rating: 1.0
 progenitor_customer: customer_0011
 menu_features:
-  Black Bean Crunch Wrap: 9.0
-  Breakfast Burrito Bowl: 9.44
-  Ranchero Eggs Benedict: 12.5
-  Black Bean Avocado Tostadas: 9.09
-  Beef Fajita Skillet: 15.53
-  Tropical Coconut Margarita: 8.47
-  Pineapple Habanero Margarita: 8.55
-  Classic Horchata Delight: 4.09
-  Cactus Jack Quesadilla: 12.58
-  Chili Chocolate Lava Cake: 7.31
-  Sizzling Fajita Fiesta: 18.08
-  Churro Ice Cream Sandwich: 7.83
-  Blue Corn Tortilla Chips: 5.16
-  Crispy Avocado Burrito: 12.84
-  Black Bean Chili Bowl: 10.11
-  Loaded Nachos Grande: 13.02
-  Smoky Chipotle BBQ Ribs: 13.62
+  Cucumber Jalapeno Agua Fresca: 3.59
+  Sunset Grilled Veggie Tacos: 12.07
+  Baja Shrimp Quesadilla: 13.92
+  Black Bean Sweet Potato Burrito: 8.2
+  Breakfast Burrito Bowl: 11.21
+  Spicy Avocado Smash Burger: 12.07
+  Loaded Nacho Fiesta: 10.06
+  Charred Corn & Cotija Nachos: 8.89
+  Crispy Chicken Tostada Bowls: 14.29
+  Peach Berry Sangria: 10.95
+  Flamin' Skillet Fajitas: 18.25
+  Sweet and Spicy Chicken Tostadas: 11.63
+  Cinnamon Sugar Churro Sticks: 5.16
+  Horchata Iced Latte: 4.88
+  Fresh Watermelon Aqua Fresca: 5.06
+  Baja Fish Taco Bowl: 11.46
+  Roasted Pepper Queso Dip: 6.07
 amenity_features: {}
-min_price_factor: 0.7
+min_price_factor: 0.92
 minimum_menu_prices:
-  Black Bean Crunch Wrap: 6.3
-  Breakfast Burrito Bowl: 6.61
-  Ranchero Eggs Benedict: 8.75
-  Black Bean Avocado Tostadas: 6.36
-  Beef Fajita Skillet: 10.87
-  Tropical Coconut Margarita: 5.93
-  Pineapple Habanero Margarita: 5.99
-  Classic Horchata Delight: 2.86
-  Cactus Jack Quesadilla: 8.81
-  Chili Chocolate Lava Cake: 5.12
-  Sizzling Fajita Fiesta: 12.66
-  Churro Ice Cream Sandwich: 5.48
-  Blue Corn Tortilla Chips: 3.61
-  Crispy Avocado Burrito: 8.99
-  Black Bean Chili Bowl: 7.08
-  Loaded Nachos Grande: 9.11
-  Smoky Chipotle BBQ Ribs: 9.53
+  Cucumber Jalapeno Agua Fresca: 3.3
+  Sunset Grilled Veggie Tacos: 11.1
+  Baja Shrimp Quesadilla: 12.79
+  Black Bean Sweet Potato Burrito: 7.54
+  Breakfast Burrito Bowl: 10.31
+  Spicy Avocado Smash Burger: 11.1
+  Loaded Nacho Fiesta: 9.26
+  Charred Corn & Cotija Nachos: 8.18
+  Crispy Chicken Tostada Bowls: 13.15
+  Peach Berry Sangria: 10.06
+  Flamin' Skillet Fajitas: 16.79
+  Sweet and Spicy Chicken Tostadas: 10.7
+  Cinnamon Sugar Churro Sticks: 4.75
+  Horchata Iced Latte: 4.49
+  Fresh Watermelon Aqua Fresca: 4.66
+  Baja Fish Taco Bowl: 10.54
+  Roasted Pepper Queso Dip: 5.57

@@ -1,35 +1,43 @@
 id: business_0126
-name: La Luna Dorada
-description: La Luna Dorada offers vibrant, flavorful Mexican and Tex-Mex fare in
-  a warm, inviting atmosphere. Enjoy a menu inspired by classic recipes and a variety
-  of inventive cocktails that capture the spirit of fiesta.
+name: Skillet & Sprout Cantina
+description: Experience bold, modern Mexican flavors with a fresh twist at Skillet
+  & Sprout Cantina. Our vibrant kitchen brings together fire-grilled classics and
+  garden-fresh ingredients for a truly memorable Tex-Mex feast.
 rating: 1.0
 progenitor_customer: customer_0042
 menu_features:
-  Black Bean & Cheese Enchiladas: 10.73
-  Pineapple Jalapeno Margarita: 10.42
-  Smoky BBQ Pork Tostadas: 13.1
-  Fiesta Street Corn: 5.27
-  Tequila Lime Shrimp Skewers: 12.93
-  Cocoa Cinnamon Tequila: 8.3
-  Honey Chipotle Shrimp Bowl: 13.53
-  Baja Fish Taco Plate: 10.92
-  Street Corn Elote: 5.42
-  Queso Fundido Supreme: 9.9
-  Tamarind Ginger Cooler: 4.54
-  Mango Agua Fresca: 3.33
+  Grilled Street Corn: 6.42
+  Queso Fundido Supreme: 9.12
+  Passionfruit Agua Fresca: 4.28
+  Breakfast Burrito Bonanza: 8.74
+  Street Style Quesadillas: 9.61
+  Three-Cheese Queso Dip: 7.96
+  Ranchero Steak Fajitas: 18.11
+  Cilantro Lime Shrimp Skewers: 11.71
+  Crispy Tortilla Breakfast Bowl: 12.01
+  Roasted Poblano Soup: 7.17
+  Black Bean Stuffed Bell Peppers: 10.69
+  Cinnamon Sugar Churros: 4.85
+  Roasted Poblano Corn Chowder: 7.29
+  Crispy Chicken Tostada Bowls: 13.72
+  Tequila Lime Shrimp Skewers: 14.72
+  Tequila Lime Grilled Chicken: 14.52
 amenity_features: {}
-min_price_factor: 0.7
+min_price_factor: 0.89
 minimum_menu_prices:
-  Black Bean & Cheese Enchiladas: 7.51
-  Pineapple Jalapeno Margarita: 7.29
-  Smoky BBQ Pork Tostadas: 9.17
-  Fiesta Street Corn: 3.69
-  Tequila Lime Shrimp Skewers: 9.05
-  Cocoa Cinnamon Tequila: 5.81
-  Honey Chipotle Shrimp Bowl: 9.47
-  Baja Fish Taco Plate: 7.64
-  Street Corn Elote: 3.79
-  Queso Fundido Supreme: 6.93
-  Tamarind Ginger Cooler: 3.18
-  Mango Agua Fresca: 2.33
+  Grilled Street Corn: 5.71
+  Queso Fundido Supreme: 8.12
+  Passionfruit Agua Fresca: 3.69
+  Breakfast Burrito Bonanza: 7.78
+  Street Style Quesadillas: 8.55
+  Three-Cheese Queso Dip: 7.08
+  Ranchero Steak Fajitas: 16.0
+  Cilantro Lime Shrimp Skewers: 10.42
+  Crispy Tortilla Breakfast Bowl: 10.69
+  Roasted Poblano Soup: 6.38
+  Black Bean Stuffed Bell Peppers: 9.51
+  Cinnamon Sugar Churros: 4.32
+  Roasted Poblano Corn Chowder: 6.49
+  Crispy Chicken Tostada Bowls: 12.21
+  Tequila Lime Shrimp Skewers: 13.1
+  Tequila Lime Grilled Chicken: 12.92

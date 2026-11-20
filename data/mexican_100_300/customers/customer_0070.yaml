@@ -1,12 +1,7 @@
 id: customer_0070
-name: James Anderson
-request: 'Please assist me in finding a business that can fulfill an order for the
-  following specific menu items: 1 Charred Corn & Cotija Nachos, 1 Creamy Avocado
-  Soup, and 1 Shrimp Ceviche Bowl. It''s important that all listed items are available
-  from the same business. Once found, I intend to place this order. Thank you for
-  your assistance.'
+name: Matthew Gonzalez
+request: Could you please help me place an order with a business that offers the 'Churro
+  Ice Cream Sandwich'? I would like to purchase 1 of this item. Thank you.
 menu_features:
-  Charred Corn & Cotija Nachos: 7.99
-  Creamy Avocado Soup: 7.49
-  Shrimp Ceviche Bowl: 13.49
+  Churro Ice Cream Sandwich: 11.27
 amenity_features: []

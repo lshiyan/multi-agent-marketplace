@@ -1,9 +1,8 @@
 id: customer_0071
-name: Lucas Hoffman
-request: 'Could you please assist me in finding a business where I can place an order
-  for the following menu item: Classic Flan Delight - 1? It is important that the
-  business can supply exactly what is listed, as I intend to purchase this item. Thank
-  you for your assistance.'
+name: Priya Kapoor
+request: Could you please find a business that offers the menu item 'Tamarind Glazed
+  Wings' and place an order for 1 serving? This item is very important to me, and
+  I intend to proceed with the purchase once a suitable business is found. Thank you!
 menu_features:
-  Classic Flan Delight: 6.49
+  Tamarind Glazed Wings: 15.44
 amenity_features: []

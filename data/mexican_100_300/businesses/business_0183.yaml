@@ -1,45 +1,41 @@
 id: business_0183
-name: Lime Blossom Kitchen
-description: Modern Mexican flavors bloom at Lime Blossom Kitchen, where fresh ingredients
-  and vibrant spices come together in delicious harmony. Enjoy classic favorites and
-  creative pairings in a lively, welcoming atmosphere.
+name: "El Ma\xEDz Dorado Mexicano"
+description: Celebrate bold flavors and fresh ingredients in a vibrant, welcoming
+  atmosphere that blends Mexican tradition with modern zest. Enjoy creative classics
+  and inventive delights from our colorful kitchen.
 rating: 1.0
 progenitor_customer: customer_0061
 menu_features:
-  Vanilla Flan Delight: 5.4
-  Fresh Lime Cilantro Rice: 2.69
-  Blue Corn Enchilada Bake: 12.79
-  Queso Fundido Supreme: 8.95
-  Veggie Fajita Platter: 13.33
-  Agave Lime Margarita: 10.55
-  Coconut Lime Margarita: 10.04
-  Sizzling Carne Asada: 16.17
-  Cocoa Dusted Churro Bites: 5.85
-  Red Chili Chicken Pozole: 10.54
-  Classic Horchata Smoothie: 4.37
-  Smoky Mezcal Mule: 11.7
-  Crispy Carnitas Quesadilla: 10.98
-  Agave Lime Chicken Skewers: 10.05
-  Al Pastor Pork Tacos: 12.76
-  "Blueberry Jalape\xF1o Margarita": 11.26
-  Caramelized Onion and Chorizo Quesadilla: 10.83
+  Creamy Jalapeno Corn Fritters: 7.84
+  Chipotle Lime Chicken Skewers: 12.18
+  Black Bean & Cheese Enchiladas: 10.07
+  Avocado Lime Cheesecake: 6.57
+  Fresh Mango Salsa Nachos: 9.18
+  Blue Corn Tortilla Tacos: 10.3
+  Crispy Avocado Bites: 10.24
+  Honey Lime Chicken Fajitas: 14.47
+  Pineapple Salsa Pork Tacos: 10.91
+  Sizzling Chicken Fajitas: 11.93
+  Black Bean & Corn Enchiladas: 11.64
+  Fresh Corn Elote: 4.53
+  Avocado Lime Enchiladas: 15.06
+  Baja Fish Taco Bowl: 12.39
+  Smoky Chipotle Enchiladas: 13.31
 amenity_features: {}
-min_price_factor: 0.84
+min_price_factor: 0.61
 minimum_menu_prices:
-  Vanilla Flan Delight: 4.54
-  Fresh Lime Cilantro Rice: 2.26
-  Blue Corn Enchilada Bake: 10.74
-  Queso Fundido Supreme: 7.52
-  Veggie Fajita Platter: 11.2
-  Agave Lime Margarita: 8.86
-  Coconut Lime Margarita: 8.43
-  Sizzling Carne Asada: 13.58
-  Cocoa Dusted Churro Bites: 4.91
-  Red Chili Chicken Pozole: 8.85
-  Classic Horchata Smoothie: 3.67
-  Smoky Mezcal Mule: 9.83
-  Crispy Carnitas Quesadilla: 9.22
-  Agave Lime Chicken Skewers: 8.44
-  Al Pastor Pork Tacos: 10.72
-  "Blueberry Jalape\xF1o Margarita": 9.46
-  Caramelized Onion and Chorizo Quesadilla: 9.1
+  Creamy Jalapeno Corn Fritters: 4.78
+  Chipotle Lime Chicken Skewers: 7.43
+  Black Bean & Cheese Enchiladas: 5.73
+  Avocado Lime Cheesecake: 4.01
+  Fresh Mango Salsa Nachos: 5.6
+  Blue Corn Tortilla Tacos: 6.28
+  Crispy Avocado Bites: 6.25
+  Honey Lime Chicken Fajitas: 8.83
+  Pineapple Salsa Pork Tacos: 6.66
+  Sizzling Chicken Fajitas: 7.28
+  Black Bean & Corn Enchiladas: 7.1
+  Fresh Corn Elote: 2.76
+  Avocado Lime Enchiladas: 9.19
+  Baja Fish Taco Bowl: 7.56
+  Smoky Chipotle Enchiladas: 8.12

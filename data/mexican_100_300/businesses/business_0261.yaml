@@ -1,41 +1,43 @@
 id: business_0261
-name: Stack to the Future
-description: Step into a vibrant, modern eatery where Tex-Mex classics get a creative
-  twist. From sizzling skillets to sweet surprises, every dish brings a fresh burst
-  of bold flavor.
+name: Lime & Ember Eatery
+description: A vibrant spot serving modern Mexican and Tex-Mex fare, where fresh flavors
+  meet a bold, creative twist. Enjoy a relaxed, contemporary atmosphere and innovative
+  bites crafted with the zest of tradition and a hint of the unexpected.
 rating: 1.0
 progenitor_customer: customer_0087
 menu_features:
-  Verde Chicken Enchiladas: 12.2
-  Grilled Pineapple Dessert Quesadilla: 8.68
-  Chorizo Breakfast Tacos: 9.39
-  Pico Avocado Toast: 5.91
-  Breakfast Tostada Stack: 10.46
-  Sizzling Fajita Fiesta: 12.87
-  Smoky Black Bean Tostadas: 6.31
-  Zesty Lime Grilled Chicken: 9.01
-  Roasted Red Pepper Quesadilla: 8.16
-  Classic Beef Tacos with Zesty Slaw: 12.12
-  Classic Carne Asada Burrito: 15.39
-  Grilled Pineapple Salmon: 15.09
-  Spicy Cucumber Margarita: 10.83
-  Cheesy Jalapeno Poppers: 8.12
-  Crispy Avocado Tostadas: 11.14
+  Avocado Lime Empanadas: 9.52
+  Spicy Chicken Tortilla Soup: 5.54
+  Fresh Watermelon Aqua Fresca: 3.49
+  Sweet Corn Tamales: 10.44
+  Jalapeno Cheddar Cornbread: 4.87
+  Mango Jalapeno Slush: 4.93
+  Crispy Tinga Chicken Tacos: 12.07
+  Cheesy Jalapeno Queso: 10.14
+  Grilled Pineapple Dessert Quesadilla: 7.65
+  Grilled Avocado and Quinoa Bowl: 9.19
+  Blue Corn Tortilla Soup: 5.45
+  Avocado Ranch Burrito Bowl: 13.06
+  Sizzling Fajita Plate: 17.58
+  Tequila Lime Flan: 9.07
+  Creamy Chipotle Pasta: 10.52
+  Mango Habanero Margarita: 10.79
 amenity_features: {}
-min_price_factor: 0.83
+min_price_factor: 0.85
 minimum_menu_prices:
-  Verde Chicken Enchiladas: 10.13
-  Grilled Pineapple Dessert Quesadilla: 7.2
-  Chorizo Breakfast Tacos: 7.79
-  Pico Avocado Toast: 4.91
-  Breakfast Tostada Stack: 8.68
-  Sizzling Fajita Fiesta: 10.68
-  Smoky Black Bean Tostadas: 5.24
-  Zesty Lime Grilled Chicken: 7.48
-  Roasted Red Pepper Quesadilla: 6.77
-  Classic Beef Tacos with Zesty Slaw: 10.06
-  Classic Carne Asada Burrito: 12.77
-  Grilled Pineapple Salmon: 12.52
-  Spicy Cucumber Margarita: 8.99
-  Cheesy Jalapeno Poppers: 6.74
-  Crispy Avocado Tostadas: 9.25
+  Avocado Lime Empanadas: 8.09
+  Spicy Chicken Tortilla Soup: 4.71
+  Fresh Watermelon Aqua Fresca: 2.97
+  Sweet Corn Tamales: 8.87
+  Jalapeno Cheddar Cornbread: 4.14
+  Mango Jalapeno Slush: 4.19
+  Crispy Tinga Chicken Tacos: 10.26
+  Cheesy Jalapeno Queso: 6.22
+  Grilled Pineapple Dessert Quesadilla: 6.5
+  Grilled Avocado and Quinoa Bowl: 7.81
+  Blue Corn Tortilla Soup: 4.63
+  Avocado Ranch Burrito Bowl: 11.1
+  Sizzling Fajita Plate: 14.94
+  Tequila Lime Flan: 7.71
+  Creamy Chipotle Pasta: 8.94
+  Mango Habanero Margarita: 9.17

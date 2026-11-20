@@ -1,41 +1,36 @@
 id: business_0037
-name: El Sabor del Valle
-description: Experience vibrant Mexican and Tex-Mex flavors, crafted with fresh ingredients
-  and bold spices in a warm, inviting setting. From zesty grilled specialties to decadent
-  desserts, every dish celebrates the rich culinary traditions of Mexico.
+name: Sal y Fuego Grill
+description: Experience vibrant Mexican and Tex-Mex cuisine with a modern twist, featuring
+  bold flavors, fresh ingredients, and tropical influences. From sunrise breakfasts
+  to mouthwatering mains and signature drinks, every bite brings a burst of color
+  and spice.
 rating: 1.0
 progenitor_customer: customer_0013
 menu_features:
-  Garlic Lime Shrimp Salad: 13.09
-  Crispy Chicken Tostada Bowls: 14.13
-  Stuffed Poblano Peppers: 12.7
-  Vanilla Flan Delight: 6.94
-  Spiced Chocolate Tres Leches: 6.73
-  Breakfast Burrito Supreme: 6.61
-  Blueberry Agave Margarita: 11.06
-  Spicy Chipotle Chicken Wings: 8.85
-  Smoky Chipotle Steak Fajitas: 14.36
-  Spicy Chocolate Churros: 4.66
-  Zesty Lime Grilled Chicken: 14.66
-  Smoky Ancho Chicken Enchiladas: 14.74
-  Poblano Pepper Relleno Plate: 13.43
-  Crispy Carnitas Quesadilla: 10.45
-  Sweet Corn Tamale Cake: 8.57
+  Grilled Pineapple Salmon: 18.73
+  Sunrise Breakfast Tacos: 10.84
+  Pineapple Habanero Sake: 7.9
+  Tamale Trio Sampler: 11.8
+  Classic Lime Margarita: 8.73
+  Peppered Steak Nachos: 11.08
+  Ancho Chile BBQ Ribs: 20.79
+  Tropical Pineapple Salsa: 3.31
+  Pineapple Agua Fresca: 4.34
+  Green Chile Cheesesteak: 12.01
+  Tres Leches Cake: 7.71
+  Tamale Trio Platter: 14.81
 amenity_features: {}
-min_price_factor: 0.61
+min_price_factor: 0.67
 minimum_menu_prices:
-  Garlic Lime Shrimp Salad: 7.98
-  Crispy Chicken Tostada Bowls: 8.62
-  Stuffed Poblano Peppers: 7.75
-  Vanilla Flan Delight: 4.23
-  Spiced Chocolate Tres Leches: 4.11
-  Breakfast Burrito Supreme: 4.03
-  Blueberry Agave Margarita: 6.75
-  Spicy Chipotle Chicken Wings: 5.4
-  Smoky Chipotle Steak Fajitas: 8.76
-  Spicy Chocolate Churros: 2.84
-  Zesty Lime Grilled Chicken: 8.94
-  Smoky Ancho Chicken Enchiladas: 8.99
-  Poblano Pepper Relleno Plate: 8.19
-  Crispy Carnitas Quesadilla: 6.37
-  Sweet Corn Tamale Cake: 5.23
+  Grilled Pineapple Salmon: 12.55
+  Sunrise Breakfast Tacos: 6.76
+  Pineapple Habanero Sake: 5.29
+  Tamale Trio Sampler: 7.91
+  Classic Lime Margarita: 5.85
+  Peppered Steak Nachos: 7.42
+  Ancho Chile BBQ Ribs: 13.93
+  Tropical Pineapple Salsa: 2.22
+  Pineapple Agua Fresca: 2.91
+  Green Chile Cheesesteak: 8.05
+  Tres Leches Cake: 5.17
+  Tamale Trio Platter: 9.92

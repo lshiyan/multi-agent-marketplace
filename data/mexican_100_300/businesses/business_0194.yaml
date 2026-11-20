@@ -1,44 +1,44 @@
 id: business_0194
-name: El Patio de Brisa
-description: Experience bold Mexican and Tex-Mex flavors with a refreshing twist in
-  a vibrant, welcoming setting. From savory grilled delights to creative takes on
-  classic favorites, every meal at El Patio de Brisa is a celebration of taste and
-  tradition.
+name: La Costa y Campo Mexicana
+description: Celebrate the vibrant flavors of Mexico and the Southwest at La Costa
+  y Campo Mexicana, where fresh coastal seafood and bold countryside classics come
+  together in a lively, welcoming setting. Enjoy a diverse selection of handmade specialties
+  inspired by both surf and turf.
 rating: 1.0
 progenitor_customer: customer_0065
 menu_features:
-  Chipotle Lime Chicken Skewers: 12.2
-  Crispy Avocado and Lime Tacos: 14.32
-  Crispy Avocado Wedges: 9.61
-  Creamy Avocado Caesar Salad: 10.1
-  Tex-Mex Breakfast Skillet: 8.61
-  Black Bean Stuffed Bell Peppers: 11.12
-  Grilled Pineapple & Shrimp Quesadillas: 11.85
-  Mexican Chocolate Lava Cake: 8.3
-  Loaded Street Corn: 6.73
-  Stuffed Poblano Pepper Delight: 10.73
-  Smoky Chipotle Chicken: 13.03
-  Chipotle Lime Shrimp Tacos: 12.72
-  Paloma Breeze Cocktail: 8.74
-  Vanilla Flan Delight: 5.89
-  Sea Breeze Ceviche: 12.33
-  Tequila Lime Grilled Chicken: 11.32
+  Chipotle Shrimp Skewers: 13.31
+  Shrimp Ceviche Cups: 11.04
+  Chipotle Bean Burrito: 10.7
+  Hatch Green Chile Stew: 10.92
+  Mango Jalapeno Salsa and Chips: 6.49
+  Loaded Chorizo Nachos: 7.44
+  Zesty Lime Chicken Fajitas: 15.32
+  Chorizo and Egg Tacos: 7.79
+  Cilantro Lime Grilled Shrimp: 16.42
+  Creamy Jalapeno Corn Fritters: 5.86
+  Crispy Avocado Wedges: 6.31
+  Chocolate Mole Chicken: 11.44
+  Creamy Avocado Smoothie: 5.66
+  Sizzling Fajita Platter: 15.52
+  Carnitas Plantain Burrito: 12.05
+  Verde Ranchero Huevos: 11.42
 amenity_features: {}
-min_price_factor: 0.78
+min_price_factor: 0.8
 minimum_menu_prices:
-  Chipotle Lime Chicken Skewers: 9.52
-  Crispy Avocado and Lime Tacos: 11.17
-  Crispy Avocado Wedges: 7.5
-  Creamy Avocado Caesar Salad: 7.88
-  Tex-Mex Breakfast Skillet: 6.72
-  Black Bean Stuffed Bell Peppers: 8.67
-  Grilled Pineapple & Shrimp Quesadillas: 9.24
-  Mexican Chocolate Lava Cake: 6.47
-  Loaded Street Corn: 5.25
-  Stuffed Poblano Pepper Delight: 8.37
-  Smoky Chipotle Chicken: 10.16
-  Chipotle Lime Shrimp Tacos: 9.92
-  Paloma Breeze Cocktail: 6.82
-  Vanilla Flan Delight: 4.59
-  Sea Breeze Ceviche: 9.62
-  Tequila Lime Grilled Chicken: 8.83
+  Chipotle Shrimp Skewers: 10.65
+  Shrimp Ceviche Cups: 8.83
+  Chipotle Bean Burrito: 8.56
+  Hatch Green Chile Stew: 8.74
+  Mango Jalapeno Salsa and Chips: 5.19
+  Loaded Chorizo Nachos: 5.95
+  Zesty Lime Chicken Fajitas: 12.11
+  Chorizo and Egg Tacos: 6.23
+  Cilantro Lime Grilled Shrimp: 13.14
+  Creamy Jalapeno Corn Fritters: 4.69
+  Crispy Avocado Wedges: 5.05
+  Chocolate Mole Chicken: 9.15
+  Creamy Avocado Smoothie: 4.53
+  Sizzling Fajita Platter: 12.42
+  Carnitas Plantain Burrito: 9.64
+  Verde Ranchero Huevos: 9.14

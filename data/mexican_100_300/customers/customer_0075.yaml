@@ -1,8 +1,8 @@
 id: customer_0075
-name: Amelia Walker
-request: 'Could you please assist me in placing an order from a business that offers
-  the following specific menu item: 1 Vanilla Almond Horchata? It is important that
-  the business can fulfill exactly these needs. Thank you!'
+name: Daniel Rodriguez
+request: Could you please find a business that serves both a Mexican Chocolate Milkshake
+  and Citrus Grilled Chicken Tacos and place an order for 1 of each? Thank you.
 menu_features:
-  Vanilla Almond Horchata: 3.99
+  Mexican Chocolate Milkshake: 8.21
+  Citrus Grilled Chicken Tacos: 12.25
 amenity_features: []

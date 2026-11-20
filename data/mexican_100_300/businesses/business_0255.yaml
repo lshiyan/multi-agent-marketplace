@@ -1,45 +1,39 @@
 id: business_0255
-name: Cantina Pecanero
-description: Experience vibrant Tex-Mex and Mexican-inspired flavors, where classic
-  favorites meet bold, modern twists. Enjoy a warm, lively atmosphere and dishes crafted
-  with fresh ingredients and creative flair.
+name: La Mesa Dorada Mexicana
+description: Discover vibrant Mexican and Tex-Mex cuisine at La Mesa Dorada Mexicana,
+  where bold flavors meet creative, modern touches in a welcoming setting. Enjoy a
+  delicious array of savory and sweet dishes inspired by the heart of Mexico.
 rating: 1.0
 progenitor_customer: customer_0085
 menu_features:
-  Roasted Pecan Flan: 6.52
-  Blueberry Jalapeno Margarita: 11.06
-  Black Bean & Cheese Tostadas: 10.39
-  Crispy Avocado Bites: 5.93
-  Spicy Chipotle Chicken Wings: 9.42
-  Blueberry Agave Agua Fresca: 4.62
-  Avocado Lime Enchiladas: 11.88
-  Classic Beef Barbacoa: 15.82
-  Sizzling Carne Asada: 16.73
-  Three Cheese Sope: 9.43
-  Smoky Ancho Chicken Enchiladas: 13.89
-  Chocolate Sopapilla Bites: 5.58
-  Tequila Lime Grilled Shrimp: 14.8
-  Zesty Lime Grilled Chicken: 16.73
-  Mango Habanero Salsa: 4.47
-  Spicy Shrimp Nacho Platter: 10.44
-  Spicy Shrimp Ceviche: 8.21
+  Crispy Carnitas Quesadilla: 10.06
+  Sizzling Fajita Plate: 14.17
+  Black Bean Stuffed Sweet Potatoes: 8.6
+  Chipotle Lime Chicken Salad: 12.42
+  Roasted Poblano and Cheese Empanadas: 8.71
+  Zesty Lime Shrimp Salad: 15.18
+  Honey Chipotle Wings: 10.8
+  Pineapple Salsa Nachos: 9.19
+  Chili Lime Shrimp Skewers: 13.74
+  Tequila Lime Chicken Wings: 8.58
+  Caramelized Plantain Empanadas: 6.89
+  Citrus Cilantro Rice: 4.02
+  Sizzling Pork Carnitas Bowl: 14.86
+  Grilled Street Corn: 5.12
 amenity_features: {}
-min_price_factor: 0.68
+min_price_factor: 0.88
 minimum_menu_prices:
-  Roasted Pecan Flan: 4.43
-  Blueberry Jalapeno Margarita: 7.52
-  Black Bean & Cheese Tostadas: 7.07
-  Crispy Avocado Bites: 4.03
-  Spicy Chipotle Chicken Wings: 6.41
-  Blueberry Agave Agua Fresca: 3.14
-  Avocado Lime Enchiladas: 8.08
-  Classic Beef Barbacoa: 10.76
-  Sizzling Carne Asada: 11.38
-  Three Cheese Sope: 6.41
-  Smoky Ancho Chicken Enchiladas: 9.45
-  Chocolate Sopapilla Bites: 3.79
-  Tequila Lime Grilled Shrimp: 10.06
-  Zesty Lime Grilled Chicken: 11.38
-  Mango Habanero Salsa: 3.04
-  Spicy Shrimp Nacho Platter: 7.1
-  Spicy Shrimp Ceviche: 5.58
+  Crispy Carnitas Quesadilla: 8.85
+  Sizzling Fajita Plate: 12.47
+  Black Bean Stuffed Sweet Potatoes: 7.57
+  Chipotle Lime Chicken Salad: 10.93
+  Roasted Poblano and Cheese Empanadas: 7.66
+  Zesty Lime Shrimp Salad: 13.36
+  Honey Chipotle Wings: 9.5
+  Pineapple Salsa Nachos: 8.09
+  Chili Lime Shrimp Skewers: 12.28
+  Tequila Lime Chicken Wings: 7.74
+  Caramelized Plantain Empanadas: 6.06
+  Citrus Cilantro Rice: 3.73
+  Sizzling Pork Carnitas Bowl: 13.08
+  Grilled Street Corn: 4.51

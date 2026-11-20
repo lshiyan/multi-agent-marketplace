@@ -1,40 +1,45 @@
 id: business_0057
-name: La Mesa Escondida
-description: Discover vibrant Mexican and Tex-Mex flavors at this inviting cantina,
-  where fresh, bold ingredients and creative cocktails await. Satisfy your cravings
-  with a blend of classic dishes and unique contemporary twists in a warm, colorful
-  setting.
+name: Nacho S'more Fiesta
+description: Dive into a vibrant celebration of Mexican and Tex-Mex flavors, from
+  zesty street snacks to sweet chocolatey treats all under one festive roof. Experience
+  the joy of lively dishes, fresh sips, and a fiesta in every bite.
 rating: 1.0
 progenitor_customer: customer_0019
 menu_features:
-  Southwestern Quinoa Salad: 8.05
-  Frozen Mango Margarita: 10.26
-  Vanilla Flan Delight: 6.61
-  Peach Berry Sangria: 9.87
-  Three-Cheese Chile Rellenos: 10.69
-  Pineapple Habanero Sake: 9.01
-  Lime-Garlic Grilled Chicken: 13.96
-  Loaded Nachos Grande: 10.88
-  Street Corn Fritters: 8.05
-  Garlic Lime Shrimp Salad: 12.22
-  Spiced Agave Margarita: 8.12
-  Mango Habanero Wings: 10.95
-  Avocado Lime Quinoa Bowl: 10.45
-  Choco-Chili Volcano Cake: 9.36
+  Fresh Watermelon Aqua Fresca: 3.66
+  Chocolate Mole Brownie: 8.03
+  Mexican Street Corn Salad: 7.62
+  Roasted Tomato Salsa Dip: 2.44
+  Pineapple Salsa Nachos: 10.68
+  Grilled Shrimp Quesadilla: 11.8
+  Jalapeno Cheddar Cornbread: 4.87
+  Black Bean Avocado Enchiladas: 8.7
+  Coconut Lime Shrimp Skewers: 14.5
+  Blueberry Agave Agua Fresca: 3.46
+  Loaded Nacho Supreme: 8.8
+  Roasted Pumpkin Tamale: 7.8
+  Baja Fish Tacos: 13.26
+  "Spicy Jalape\xF1o Limeade": 3.23
+  Chocolate Sopapilla Bites: 4.76
+  Sizzling Fajita Fiesta: 9.66
+  Creamy Chipotle Pasta: 10.19
 amenity_features: {}
-min_price_factor: 0.79
+min_price_factor: 0.64
 minimum_menu_prices:
-  Southwestern Quinoa Salad: 6.36
-  Frozen Mango Margarita: 8.11
-  Vanilla Flan Delight: 5.22
-  Peach Berry Sangria: 7.8
-  Three-Cheese Chile Rellenos: 8.45
-  Pineapple Habanero Sake: 7.12
-  Lime-Garlic Grilled Chicken: 11.03
-  Loaded Nachos Grande: 8.6
-  Street Corn Fritters: 6.36
-  Garlic Lime Shrimp Salad: 9.65
-  Spiced Agave Margarita: 6.41
-  Mango Habanero Wings: 8.65
-  Avocado Lime Quinoa Bowl: 8.26
-  Choco-Chili Volcano Cake: 7.39
+  Fresh Watermelon Aqua Fresca: 2.34
+  Chocolate Mole Brownie: 5.14
+  Mexican Street Corn Salad: 4.88
+  Roasted Tomato Salsa Dip: 2.44
+  Pineapple Salsa Nachos: 6.84
+  Grilled Shrimp Quesadilla: 7.55
+  Jalapeno Cheddar Cornbread: 3.12
+  Black Bean Avocado Enchiladas: 6.91
+  Coconut Lime Shrimp Skewers: 9.28
+  Blueberry Agave Agua Fresca: 2.21
+  Loaded Nacho Supreme: 5.63
+  Roasted Pumpkin Tamale: 4.99
+  Baja Fish Tacos: 8.49
+  "Spicy Jalape\xF1o Limeade": 2.07
+  Chocolate Sopapilla Bites: 3.05
+  Sizzling Fajita Fiesta: 7.58
+  Creamy Chipotle Pasta: 6.52

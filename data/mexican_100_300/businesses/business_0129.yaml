@@ -1,43 +1,43 @@
 id: business_0129
-name: "Let\u2019s Give \u2018Em Something to Taco \u2018Bout"
-description: A playful Tex-Mex eatery serving creative twists on classic favorites,
-  refreshing aguas frescas, and vibrant bites packed with bold flavors. Step inside
-  for a fiesta of fresh ingredients, inventive dishes, and fun in every bite!
+name: Rib, Dip & Roll
+description: Savor a bold blend of Tex-Mex flavors with fire-roasted salsas, smoky
+  meats, and creative comfort classics. Let every bite take you on a tasty adventure
+  through the heart of Mexican-inspired cuisine.
 rating: 1.0
 progenitor_customer: customer_0043
 menu_features:
-  Blueberry Mint Agua Fresca: 4.44
-  Avocado Lime Enchiladas: 12.85
-  Passionfruit Agua Fresca: 2.99
-  Roasted Poblano and Cheese Empanadas: 10.21
-  Coconut Tres Leches: 6.21
-  Creamy Poblano Corn Chowder: 7.56
-  Black Bean and Corn Fiesta Salad: 7.47
-  Crispy Carnitas Quesadilla: 9.42
-  Spiced Pumpkin Empanadas: 4.93
-  Coconut Lime Flan: 5.62
-  Hibiscus Agua Fresca: 2.81
-  Loaded Nachos Grande: 11.43
-  Spicy Shrimp Ceviche: 10.45
-  Honey-Lime Grilled Salmon: 18.79
-  Crispy Avocado Wedges: 7.96
-  Southwestern Quinoa Salad: 8.3
+  Fire Roasted Salsa Sampler: 5.46
+  Caramelized Plantain Empanadas: 7.7
+  Smoky Chipotle BBQ Ribs: 18.62
+  Carnitas Plantain Burrito: 15.46
+  Black Bean & Corn Queso Dip: 8.57
+  Tamale Trio Sampler: 11.72
+  Red Chili Chicken Pozole: 9.28
+  Blue Corn Tortilla Tacos: 11.66
+  Chipotle Shrimp Skewers: 12.11
+  Tequila Sunrise Smoothie: 8.51
+  Cinnamon Sugar Churro Sticks: 5.86
+  Green Chile Pork Stew: 14.22
+  Sea Breeze Ceviche: 12.52
+  Ancho Chile Beef Chili: 8.41
+  Avocado Ranch Burrito Bowl: 14.09
+  Ancho Honey-Glazed Salmon: 15.26
 amenity_features: {}
-min_price_factor: 0.78
+min_price_factor: 0.68
 minimum_menu_prices:
-  Blueberry Mint Agua Fresca: 3.46
-  Avocado Lime Enchiladas: 10.02
-  Passionfruit Agua Fresca: 2.33
-  Roasted Poblano and Cheese Empanadas: 7.96
-  Coconut Tres Leches: 4.84
-  Creamy Poblano Corn Chowder: 5.9
-  Black Bean and Corn Fiesta Salad: 5.83
-  Crispy Carnitas Quesadilla: 7.35
-  Spiced Pumpkin Empanadas: 3.85
-  Coconut Lime Flan: 4.38
-  Hibiscus Agua Fresca: 2.19
-  Loaded Nachos Grande: 8.92
-  Spicy Shrimp Ceviche: 8.15
-  Honey-Lime Grilled Salmon: 14.66
-  Crispy Avocado Wedges: 6.21
-  Southwestern Quinoa Salad: 6.47
+  Fire Roasted Salsa Sampler: 3.71
+  Caramelized Plantain Empanadas: 5.24
+  Smoky Chipotle BBQ Ribs: 12.66
+  Carnitas Plantain Burrito: 10.51
+  Black Bean & Corn Queso Dip: 5.83
+  Tamale Trio Sampler: 7.97
+  Red Chili Chicken Pozole: 6.31
+  Blue Corn Tortilla Tacos: 7.93
+  Chipotle Shrimp Skewers: 8.23
+  Tequila Sunrise Smoothie: 5.79
+  Cinnamon Sugar Churro Sticks: 3.98
+  Green Chile Pork Stew: 11.7
+  Sea Breeze Ceviche: 8.51
+  Ancho Chile Beef Chili: 7.75
+  Avocado Ranch Burrito Bowl: 9.58
+  Ancho Honey-Glazed Salmon: 10.38

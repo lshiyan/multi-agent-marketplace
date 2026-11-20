@@ -1,11 +1,11 @@
 id: customer_0022
-name: Grace Powell
-request: I am looking to place an order with a business that offers both 'Spicy Street
-  Corn' and 'Black Bean & Cheese Enchiladas.' Specifically, I would like to order
-  1 Spicy Street Corn and 1 Black Bean & Cheese Enchiladas. Please assist me in finding
-  a suitable business that meets these requirements, as I intend to make this purchase.
-  Thank you.
+name: Ava Patel
+request: 'I am looking to place an order and need a business that offers the following
+  menu items: 1 Verde Chicken Enchiladas, 1 Paloma Breeze Cocktail, and 1 Sweet Potato
+  and Black Bean Tacos. Please find a business that can fulfill this exact order for
+  me. Thank you.'
 menu_features:
-  Spicy Street Corn: 5.49
-  Black Bean & Cheese Enchiladas: 11.49
+  Verde Chicken Enchiladas: 12.2
+  Paloma Breeze Cocktail: 9.95
+  Sweet Potato and Black Bean Tacos: 11.58
 amenity_features: []

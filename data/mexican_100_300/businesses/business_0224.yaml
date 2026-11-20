@@ -1,35 +1,37 @@
 id: business_0224
-name: Tostada & Tequila Tavern
-description: Discover bold flavors and vibrant sips in a lively setting inspired by
-  the heart of Mexican and Tex-Mex traditions. Fresh tostadas, sizzling grilled plates,
-  and creative margaritas await your next fiesta.
+name: Burrito Be So Bold
+description: Serving up classic and creative Tex-Mex flavor combinations, Burrito
+  Be So Bold invites you to savor hearty plates, sweet sips, and crave-worthy bites
+  in a lively and welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0075
 menu_features:
-  Black Bean Avocado Tostadas: 13.6
-  Chili Lime Margarita: 8.58
-  Caramel Apple Empanadas: 7.51
-  Grilled Steak Fajita Platter: 15.93
-  Salted Caramel Margarita: 9.47
-  Black Bean Street Tacos: 10.58
-  Black Bean and Sweet Potato Empanadas: 10.02
-  Vanilla Almond Horchata: 4.25
-  Tequila Lime Grilled Chicken: 14.34
-  Hatch Green Chile Stew: 9.89
-  Grilled Street Corn: 5.65
-  Vanilla Flan Delight: 6.72
+  Spiked Horchata Cooler: 7.45
+  Mexican Chocolate Milkshake: 7.18
+  Cinnamon Sugar Sopapillas: 5.05
+  Sizzling Pork Carnitas Bowl: 11.89
+  Chocolate Mole Chicken: 14.92
+  Black Bean Stuffed Bell Peppers: 11.02
+  Classic Carne Asada Burrito: 13.32
+  Smoky Black Bean Nachos: 8.09
+  Citrus Grilled Chicken Tacos: 10.21
+  Ancho Chili Braised Beef Enchiladas: 10.92
+  Golden Tequila Sunrise: 9.21
+  Pork Carnitas Platter: 17.2
+  Pineapple Chipotle Salsa & Chips: 6.81
 amenity_features: {}
-min_price_factor: 0.89
+min_price_factor: 0.92
 minimum_menu_prices:
-  Black Bean Avocado Tostadas: 12.1
-  Chili Lime Margarita: 7.64
-  Caramel Apple Empanadas: 6.68
-  Grilled Steak Fajita Platter: 14.18
-  Salted Caramel Margarita: 8.43
-  Black Bean Street Tacos: 9.42
-  Black Bean and Sweet Potato Empanadas: 8.92
-  Vanilla Almond Horchata: 3.78
-  Tequila Lime Grilled Chicken: 12.76
-  Hatch Green Chile Stew: 8.8
-  Grilled Street Corn: 5.03
-  Vanilla Flan Delight: 5.98
+  Spiked Horchata Cooler: 6.85
+  Mexican Chocolate Milkshake: 5.7
+  Cinnamon Sugar Sopapillas: 4.65
+  Sizzling Pork Carnitas Bowl: 10.94
+  Chocolate Mole Chicken: 13.73
+  Black Bean Stuffed Bell Peppers: 10.14
+  Classic Carne Asada Burrito: 12.25
+  Smoky Black Bean Nachos: 7.44
+  Citrus Grilled Chicken Tacos: 8.49
+  Ancho Chili Braised Beef Enchiladas: 10.05
+  Golden Tequila Sunrise: 8.47
+  Pork Carnitas Platter: 15.82
+  Pineapple Chipotle Salsa & Chips: 6.27

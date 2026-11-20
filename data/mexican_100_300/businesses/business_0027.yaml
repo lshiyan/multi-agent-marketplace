@@ -1,33 +1,40 @@
 id: business_0027
-name: Pico Palate
-description: Pico Palate brings fresh, vibrant flavors to classic and creative Mexican
-  and Tex-Mex favorites in a lively, welcoming space. From sizzling tacos to zesty
-  dips and sweet treats, every bite is a celebration.
+name: Casa Fresca Mexicana
+description: Experience a fresh take on Mexican and Tex-Mex classics, where vibrant
+  flavors, creative dishes, and a warm atmosphere come together for a memorable meal.
+  Enjoy delicious plates featuring savory vegetables, grilled seafood, and zesty house
+  specialties.
 rating: 1.0
 progenitor_customer: customer_0009
 menu_features:
-  Chorizo and Egg Tacos: 6.71
-  Margarita Grilled Chicken: 14.13
-  Warm Cinnamon Churros: 6.35
-  Pineapple Chipotle Salsa & Chips: 5.87
-  Zesty Lime Chicken Enchiladas: 13.0
-  Coconut Lime Rice Bowl: 9.51
-  Sweet Potato and Black Bean Tacos: 7.76
-  Passionfruit Paloma: 9.99
-  Sweet Corn Tamale Bites: 6.23
-  "Cheesy Jalape\xF1o Quesadillas": 9.35
-  Roasted Poblano Queso Dip: 5.43
+  Spicy Zucchini Tostadas: 9.14
+  Veggie Fajita Platter: 11.54
+  Avocado Lime Grilled Shrimp: 17.27
+  Baja Fish Taco Plate: 11.46
+  Crispy Avocado Burrito: 14.3
+  Coconut Lime Flan: 5.42
+  Smoky Chipotle Quesadillas: 9.62
+  Avocado Street Tacos: 10.12
+  Pineapple Jalapeno Salsa: 4.38
+  Chocolate Mole Chicken: 11.14
+  Coconut Lime Shrimp Skewers: 14.8
+  Shrimp and Avocado Ceviche: 11.26
+  Classic Horchata Delight: 2.31
+  Honey Lime Grilled Corn: 6.0
 amenity_features: {}
-min_price_factor: 0.77
+min_price_factor: 0.74
 minimum_menu_prices:
-  Chorizo and Egg Tacos: 5.17
-  Margarita Grilled Chicken: 10.88
-  Warm Cinnamon Churros: 4.89
-  Pineapple Chipotle Salsa & Chips: 4.52
-  Zesty Lime Chicken Enchiladas: 10.01
-  Coconut Lime Rice Bowl: 7.32
-  Sweet Potato and Black Bean Tacos: 5.98
-  Passionfruit Paloma: 7.69
-  Sweet Corn Tamale Bites: 4.8
-  "Cheesy Jalape\xF1o Quesadillas": 7.2
-  Roasted Poblano Queso Dip: 4.18
+  Spicy Zucchini Tostadas: 6.76
+  Veggie Fajita Platter: 10.16
+  Avocado Lime Grilled Shrimp: 12.78
+  Baja Fish Taco Plate: 10.1
+  Crispy Avocado Burrito: 10.58
+  Coconut Lime Flan: 4.01
+  Smoky Chipotle Quesadillas: 7.12
+  Avocado Street Tacos: 7.49
+  Pineapple Jalapeno Salsa: 3.24
+  Chocolate Mole Chicken: 8.24
+  Coconut Lime Shrimp Skewers: 10.95
+  Shrimp and Avocado Ceviche: 8.33
+  Classic Horchata Delight: 2.31
+  Honey Lime Grilled Corn: 4.44

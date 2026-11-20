@@ -1,37 +1,43 @@
 id: business_0091
-name: Kernel & Kaktus
-description: Step into Kernel & Kaktus, where fresh flavors and playful twists on
-  Mexican and Tex-Mex classics await. Kick back with a creative margarita and savor
-  vibrant dishes inspired by sunshine and spice.
+name: La Esquina Picante
+description: Savor a vibrant fusion of classic and contemporary Mexican and Tex-Mex
+  flavors in a lively, inviting setting. Enjoy street-style favorites and creative
+  house specialties, all crafted with fresh ingredients and bold spices.
 rating: 1.0
 progenitor_customer: customer_0031
 menu_features:
-  Mango Agua Fresca: 3.39
-  Roasted Poblano Corn Chowder: 7.19
-  Three-Cheese Chile Rellenos: 14.5
-  Jalapeno Mango Margarita: 8.37
-  Zesty Lime Grilled Chicken: 12.19
-  Loaded Street Corn: 8.13
-  Salted Caramel Margarita: 7.78
-  Breakfast Chilaquiles Verde: 10.03
-  Cactus Flower Iced Tea: 3.33
-  Tex-Mex Breakfast Skillet: 7.96
-  Poblano Pepper Relleno Plate: 13.7
-  Frozen Strawberry Margarita: 7.02
-  Smoky Black Bean Soup: 8.34
+  Spicy Street Corn: 5.64
+  Tamale Trio Sampler: 10.73
+  Salted Caramel Margarita: 9.91
+  Avocado Lime Grilled Shrimp: 16.67
+  Sizzling Beef Alambre: 13.18
+  Warm Churro Bites: 5.92
+  Zesty Lime Grilled Shrimp: 14.88
+  Mango Jalapeno Slush: 4.41
+  Mexican Street Corn Dip: 8.66
+  Carnitas Plantain Burrito: 7.07
+  Coconut Lime Rice Bowl: 7.6
+  Hatch Chile Queso Dip: 9.59
+  Ancho Chili Rubbed Steak: 17.36
+  Tres Leches Cake: 7.26
+  Classic Flan Delight: 5.9
+  Blue Corn Tortilla Chips: 5.26
 amenity_features: {}
-min_price_factor: 0.71
+min_price_factor: 0.78
 minimum_menu_prices:
-  Mango Agua Fresca: 2.41
-  Roasted Poblano Corn Chowder: 5.1
-  Three-Cheese Chile Rellenos: 10.29
-  Jalapeno Mango Margarita: 5.94
-  Zesty Lime Grilled Chicken: 8.65
-  Loaded Street Corn: 5.77
-  Salted Caramel Margarita: 5.52
-  Breakfast Chilaquiles Verde: 7.12
-  Cactus Flower Iced Tea: 2.36
-  Tex-Mex Breakfast Skillet: 5.65
-  Poblano Pepper Relleno Plate: 9.73
-  Frozen Strawberry Margarita: 4.98
-  Smoky Black Bean Soup: 5.92
+  Spicy Street Corn: 4.4
+  Tamale Trio Sampler: 8.37
+  Salted Caramel Margarita: 7.73
+  Avocado Lime Grilled Shrimp: 13.0
+  Sizzling Beef Alambre: 10.28
+  Warm Churro Bites: 4.62
+  Zesty Lime Grilled Shrimp: 11.61
+  Mango Jalapeno Slush: 3.44
+  Mexican Street Corn Dip: 6.75
+  Carnitas Plantain Burrito: 5.51
+  Coconut Lime Rice Bowl: 5.93
+  Hatch Chile Queso Dip: 7.48
+  Ancho Chili Rubbed Steak: 14.31
+  Tres Leches Cake: 5.66
+  Classic Flan Delight: 4.6
+  Blue Corn Tortilla Chips: 4.1

@@ -1,37 +1,40 @@
 id: business_0001
-name: Chile & Cheddar Cantina
-description: Experience bold flavors and vibrant dishes in a lively, welcoming setting.
-  Our menu blends classic Mexican and Tex-Mex favorites with inventive twists, perfect
-  for any occasion.
+name: Grill & Thrill En-chill-ada
+description: "Craving flavor with a twist? Dive into our fresh takes on Tex-Mex classics\
+  \ and vibrant drinks\u2014each bite and sip is a celebration of bold, sunny tastes."
 rating: 1.0
 progenitor_customer: customer_0001
 menu_features:
-  Smoky Mezcal Mule: 9.67
-  Three-Cheese Enchilada Stack: 10.73
-  Ranchero Eggs Benedict: 10.73
-  Zesty Lime Shrimp Tostadas: 12.3
-  Ancho Chili Spiced Ribs: 16.55
-  Spicy Beef Chimichangas: 13.74
-  Black Bean & Cheese Tostadas: 10.98
-  Spicy Shrimp Ceviche: 13.37
-  Vanilla Cinnamon Horchata: 3.17
-  Street Corn Quesadilla: 10.18
-  Tangy Tomato Salsa Soup: 8.47
-  Grilled Steak Quesadilla: 16.45
-  Pineapple Tequila Chicken Skewers: 14.04
+  Grilled Pineapple Mojito: 8.34
+  Roasted Corn and Black Bean Salad: 9.1
+  Street Corn Quesadilla: 9.32
+  Spicy Chicken Chimichanga: 11.67
+  Cinnamon Sugar Churros: 5.76
+  "Coconut Horchata Latt\xE9": 4.89
+  Roasted Corn and Avocado Salad: 5.99
+  Hibiscus Iced Tea: 3.57
+  Frozen Strawberry Daiquiri: 8.38
+  Chocolate Tamale Cake: 8.37
+  Classic Beef Enchiladas: 11.93
+  Smoky Black Bean Enchiladas: 13.77
+  Fresh Mint Mojito: 9.08
+  Cucumber Jalapeno Agua Fresca: 4.14
+  Breakfast Tostada Stack: 11.5
 amenity_features: {}
-min_price_factor: 0.81
+min_price_factor: 0.93
 minimum_menu_prices:
-  Smoky Mezcal Mule: 7.83
-  Three-Cheese Enchilada Stack: 8.69
-  Ranchero Eggs Benedict: 8.69
-  Zesty Lime Shrimp Tostadas: 9.96
-  Ancho Chili Spiced Ribs: 13.41
-  Spicy Beef Chimichangas: 11.13
-  Black Bean & Cheese Tostadas: 8.89
-  Spicy Shrimp Ceviche: 10.83
-  Vanilla Cinnamon Horchata: 2.57
-  Street Corn Quesadilla: 8.25
-  Tangy Tomato Salsa Soup: 6.86
-  Grilled Steak Quesadilla: 13.32
-  Pineapple Tequila Chicken Skewers: 11.37
+  Grilled Pineapple Mojito: 7.76
+  Roasted Corn and Black Bean Salad: 8.46
+  Street Corn Quesadilla: 8.67
+  Spicy Chicken Chimichanga: 10.85
+  Cinnamon Sugar Churros: 5.36
+  "Coconut Horchata Latt\xE9": 4.32
+  Roasted Corn and Avocado Salad: 5.57
+  Hibiscus Iced Tea: 3.32
+  Frozen Strawberry Daiquiri: 7.79
+  Chocolate Tamale Cake: 7.55
+  Classic Beef Enchiladas: 11.09
+  Smoky Black Bean Enchiladas: 12.57
+  Fresh Mint Mojito: 8.44
+  Cucumber Jalapeno Agua Fresca: 3.85
+  Breakfast Tostada Stack: 10.7

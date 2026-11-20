@@ -1,8 +1,12 @@
 id: customer_0016
-name: Ava Lee
-request: Could you please assist me in finding a business that serves 'Red Chili Braised
-  Beef Brisket'? I would like to place an order for 1 of this item. It's important
-  for me that the business meets these specific needs. Thank you!
+name: Maya King
+request: 'Please help me find a business that can fulfill an order for the following
+  items: 1 Caramelized Onion and Chorizo Quesadilla, 1 Charred Corn and Black Bean
+  Salad, and 1 Twice-Baked Sweet Potato. It is important that the business offers
+  all these specific menu items, as I intend to place an order for them. Thank you
+  for your assistance.'
 menu_features:
-  Red Chili Braised Beef Brisket: 14.59
+  Caramelized Onion and Chorizo Quesadilla: 8.92
+  Charred Corn and Black Bean Salad: 9.15
+  Twice-Baked Sweet Potato: 7.59
 amenity_features: []

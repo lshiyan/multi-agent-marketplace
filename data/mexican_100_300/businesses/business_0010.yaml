@@ -1,39 +1,41 @@
 id: business_0010
-name: Masa & Mingle
-description: A vibrant spot where fresh flavors and creative combinations come together
-  to celebrate the heart of Mexican and Tex-Mex cuisine. Join us for bold dishes,
-  sweet treats, and signature cocktails in a lively, welcoming setting.
+name: "Mango & Ma\xEDz Mercado"
+description: "Experience bold, vibrant flavors and refreshing drinks at Mango & Ma\xED\
+  z Mercado, where Tex-Mex favorites and creative twists come together. From zesty\
+  \ street tacos to handcrafted cocktails, every meal is a festive celebration."
 rating: 1.0
 progenitor_customer: customer_0004
 menu_features:
-  Zesty Lime Chicken Enchiladas: 15.47
-  Spicy Chocolate Lava Cake: 10.42
-  Mole Chicken Quesadilla: 10.27
-  Crispy Fish Tacos: 8.38
-  Smoky Black Bean Tostadas: 7.54
-  Roasted Pecan Flan: 6.24
-  Blueberry Jalapeno Margarita: 11.65
-  Coconut Lime Rice Bowl: 9.98
-  Verde Ranchero Huevos: 9.49
-  Cocoa Dusted Churro Bites: 6.44
-  Sweet Corn Tamale Bites: 7.05
-  Chili Chocolate Lava Cake: 8.23
-  Citrus Cilantro Rice: 6.49
-  Pineapple Salsa Pork Tacos: 10.71
+  Chili Lime Margarita: 9.9
+  Classic Horchata Smoothie: 5.37
+  Spicy Mango Margarita: 10.23
+  Savory Chorizo Street Tacos: 10.28
+  Smoky Black Bean Tostadas: 9.57
+  Grilled Pineapple Salmon: 17.17
+  Roasted Poblano Quesadilla: 10.79
+  Loaded Nacho Supreme: 9.47
+  Grilled Pineapple Mojito: 8.03
+  Pumpkin Spice Churros: 5.88
+  Black Bean and Corn Fiesta Salad: 10.37
+  Caramelized Banana Flan: 6.13
+  Grilled Street Corn: 6.48
+  Tequila Sunrise Smoothie: 7.36
+  Black Bean & Corn Quesadilla: 10.98
 amenity_features: {}
-min_price_factor: 0.83
+min_price_factor: 0.93
 minimum_menu_prices:
-  Zesty Lime Chicken Enchiladas: 12.84
-  Spicy Chocolate Lava Cake: 8.65
-  Mole Chicken Quesadilla: 8.52
-  Crispy Fish Tacos: 6.96
-  Smoky Black Bean Tostadas: 6.26
-  Roasted Pecan Flan: 5.18
-  Blueberry Jalapeno Margarita: 9.67
-  Coconut Lime Rice Bowl: 8.28
-  Verde Ranchero Huevos: 7.88
-  Cocoa Dusted Churro Bites: 5.35
-  Sweet Corn Tamale Bites: 5.85
-  Chili Chocolate Lava Cake: 6.83
-  Citrus Cilantro Rice: 5.39
-  Pineapple Salsa Pork Tacos: 8.89
+  Chili Lime Margarita: 8.76
+  Classic Horchata Smoothie: 4.55
+  Spicy Mango Margarita: 9.51
+  Savory Chorizo Street Tacos: 9.56
+  Smoky Black Bean Tostadas: 8.9
+  Grilled Pineapple Salmon: 15.97
+  Roasted Poblano Quesadilla: 10.03
+  Loaded Nacho Supreme: 8.81
+  Grilled Pineapple Mojito: 7.47
+  Pumpkin Spice Churros: 5.02
+  Black Bean and Corn Fiesta Salad: 9.64
+  Caramelized Banana Flan: 5.7
+  Grilled Street Corn: 6.03
+  Tequila Sunrise Smoothie: 6.84
+  Black Bean & Corn Quesadilla: 10.21

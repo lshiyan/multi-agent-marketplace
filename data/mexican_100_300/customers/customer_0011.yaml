@@ -1,9 +1,11 @@
 id: customer_0011
-name: Isabella Lee
-request: Could you please assist me in finding a business that offers both a Churro
-  Ice Cream Sandwich and a Tropical Coconut Margarita? I would like to order 1 of
-  each item. Thank you for your help!
+name: Lucas Allen
+request: 'I would like assistance in finding a business that offers the following
+  menu items: 1 Baja Shrimp Quesadilla, 1 Peach Berry Sangria, and 1 Roasted Pepper
+  Queso Dip. It is important that the business meets all of these requirements, as
+  I intend to place an order for these specific items. Thank you!'
 menu_features:
-  Churro Ice Cream Sandwich: 6.99
-  Tropical Coconut Margarita: 8.99
+  Baja Shrimp Quesadilla: 16.14
+  Peach Berry Sangria: 10.63
+  Roasted Pepper Queso Dip: 7.44
 amenity_features: []

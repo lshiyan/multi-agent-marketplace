@@ -1,39 +1,46 @@
 id: business_0163
-name: "Cielo y Saz\xF3n Cantina"
-description: Experience vibrant Mexican and Tex-Mex flavors in a warm, welcoming atmosphere.
-  From crisp salads to creative enchiladas, fresh salsas, and classic drinks, our
-  kitchen celebrates the perfect pairing of zest and tradition.
+name: Huevos a Crowd
+description: "Dive into bold flavors and vibrant twists at this playful Tex-Mex spot,\
+  \ where classic favorites and inventive bites come together for a fiesta in every\
+  \ meal. Perfect for group gatherings or solo cravings\u2014there\u2019s something\
+  \ to delight every palate."
 rating: 1.0
 progenitor_customer: customer_0055
 menu_features:
-  Garlic Lime Shrimp Salad: 13.98
-  Grilled Pineapple Salsa: 6.27
-  Vanilla Cinnamon Horchata: 2.72
-  Street Corn Quesadilla: 11.08
-  Creamy Chipotle Pasta: 9.99
-  Black Bean Avocado Tostadas: 10.56
-  Carne Asada Fajitas: 14.85
-  Black Bean & Corn Enchiladas: 9.6
-  Smoky Black Bean Enchiladas: 12.29
-  Chipotle Lime Shrimp Skewers: 17.12
-  Spiced Agave Margarita: 12.16
-  Chipotle Lime Cauliflower Tacos: 10.59
-  Black Bean and Corn Fiesta Salad: 8.91
-  Classic Horchata Delight: 3.85
+  Tamarind Spiced Agua Fresca: 3.76
+  Creamy Poblano Corn Chowder: 9.65
+  Spicy Black Bean Enchiladas: 11.24
+  Chipotle Lime Chicken Skewers: 16.15
+  Spicy Zucchini Tostadas: 11.27
+  Horchata Iced Coffee: 3.78
+  Citrus Marinated Carne Asada: 14.03
+  Caramelized Plantain Empanadas: 5.91
+  Verde Ranchero Huevos: 9.32
+  Cheesy Jalapeno Poppers: 8.03
+  Shrimp and Avocado Ceviche: 14.49
+  Blue Corn Enchilada Bake: 14.41
+  Cilantro Lime Rice Bowl: 10.15
+  Cactus Cooler Margarita: 9.61
+  Zesty Lime Shrimp Skewers: 13.19
+  Three-Cheese Chile Rellenos: 13.86
+  Red Chili Chicken Pozole: 13.06
 amenity_features: {}
-min_price_factor: 0.9
+min_price_factor: 0.87
 minimum_menu_prices:
-  Garlic Lime Shrimp Salad: 12.58
-  Grilled Pineapple Salsa: 5.64
-  Vanilla Cinnamon Horchata: 2.45
-  Street Corn Quesadilla: 9.97
-  Creamy Chipotle Pasta: 8.99
-  Black Bean Avocado Tostadas: 9.5
-  Carne Asada Fajitas: 13.37
-  Black Bean & Corn Enchiladas: 8.64
-  Smoky Black Bean Enchiladas: 11.06
-  Chipotle Lime Shrimp Skewers: 15.41
-  Spiced Agave Margarita: 10.94
-  Chipotle Lime Cauliflower Tacos: 9.53
-  Black Bean and Corn Fiesta Salad: 8.02
-  Classic Horchata Delight: 3.47
+  Tamarind Spiced Agua Fresca: 3.27
+  Creamy Poblano Corn Chowder: 8.4
+  Spicy Black Bean Enchiladas: 10.63
+  Chipotle Lime Chicken Skewers: 14.05
+  Spicy Zucchini Tostadas: 9.8
+  Horchata Iced Coffee: 3.29
+  Citrus Marinated Carne Asada: 12.21
+  Caramelized Plantain Empanadas: 5.14
+  Verde Ranchero Huevos: 8.11
+  Cheesy Jalapeno Poppers: 6.99
+  Shrimp and Avocado Ceviche: 12.61
+  Blue Corn Enchilada Bake: 13.39
+  Cilantro Lime Rice Bowl: 8.83
+  Cactus Cooler Margarita: 8.36
+  Zesty Lime Shrimp Skewers: 12.33
+  Three-Cheese Chile Rellenos: 12.06
+  Red Chili Chicken Pozole: 11.36

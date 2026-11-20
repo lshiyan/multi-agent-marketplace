@@ -1,39 +1,39 @@
 id: business_0232
-name: Pineapple & Peppercorn
-description: A vibrant Tex-Mex eatery serving bold, fresh flavors and creative twists
-  on classic favorites. Enjoy an inviting atmosphere with a menu highlighting bright
-  ingredients, savory spices, and sweet finishes.
+name: "El Para\xEDso del Paladar"
+description: Experience the vibrant flavors of Mexico and the Southwest in a warm,
+  inviting setting. From refreshing beverages to sizzling specialties and bold, colorful
+  creations, every visit is a celebration of taste and tradition.
 rating: 1.0
 progenitor_customer: customer_0078
 menu_features:
-  Zesty Shrimp Ceviche: 10.77
-  Blue Corn Enchilada Bake: 12.69
-  Grilled Pineapple Dessert Quesadilla: 8.37
-  Tamale Trio Sampler: 10.23
-  Cinnamon Sugar Churro Sticks: 4.42
-  Blue Corn Tostada Salad: 11.5
-  Creamy Avocado Caesar Salad: 10.69
-  Honey-Lime Grilled Shrimp: 12.31
-  Chocolate Mole Chicken: 20.18
-  Avocado Lime Quinoa Bowl: 12.19
-  Mushroom & Cheese Tamales: 8.27
-  Baja Fish Tacos: 12.54
-  "Spicy Jalape\xF1o Limeade": 3.38
-  Stuffed Avocado Boats: 6.91
+  Hibiscus Iced Tea: 3.28
+  Tequila Sunrise Smoothie: 8.32
+  Coconut Lime Paleta: 3.85
+  Pineapple Jalapeno Margarita: 11.25
+  Black Bean Sweet Potato Burrito: 9.05
+  Blueberry Jalapeno Margarita: 13.67
+  Molten Queso Fundido: 7.63
+  Honey-Lime Shrimp Skewers: 15.97
+  Golden Tequila Sunrise: 9.36
+  Blue Corn Tostada Salad: 10.34
+  Blueberry Agave Mojito: 7.83
+  Ancho Chile BBQ Ribs: 19.88
+  Breakfast Tostada Stack: 9.12
+  Tamarind Citrus Margarita: 8.0
 amenity_features: {}
-min_price_factor: 0.72
+min_price_factor: 0.94
 minimum_menu_prices:
-  Zesty Shrimp Ceviche: 7.75
-  Blue Corn Enchilada Bake: 9.14
-  Grilled Pineapple Dessert Quesadilla: 6.03
-  Tamale Trio Sampler: 7.37
-  Cinnamon Sugar Churro Sticks: 3.18
-  Blue Corn Tostada Salad: 8.28
-  Creamy Avocado Caesar Salad: 7.7
-  Honey-Lime Grilled Shrimp: 8.86
-  Chocolate Mole Chicken: 14.53
-  Avocado Lime Quinoa Bowl: 8.78
-  Mushroom & Cheese Tamales: 5.95
-  Baja Fish Tacos: 9.03
-  "Spicy Jalape\xF1o Limeade": 2.43
-  Stuffed Avocado Boats: 4.98
+  Hibiscus Iced Tea: 3.08
+  Tequila Sunrise Smoothie: 7.82
+  Coconut Lime Paleta: 3.62
+  Pineapple Jalapeno Margarita: 10.57
+  Black Bean Sweet Potato Burrito: 8.51
+  Blueberry Jalapeno Margarita: 10.51
+  Molten Queso Fundido: 7.17
+  Honey-Lime Shrimp Skewers: 15.01
+  Golden Tequila Sunrise: 8.8
+  Blue Corn Tostada Salad: 9.72
+  Blueberry Agave Mojito: 7.36
+  Ancho Chile BBQ Ribs: 18.69
+  Breakfast Tostada Stack: 8.57
+  Tamarind Citrus Margarita: 7.52

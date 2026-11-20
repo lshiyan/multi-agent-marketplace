@@ -1,11 +1,12 @@
 id: customer_0036
-name: Matthew Patel
-request: 'Please find a business that serves the following menu items: Poblano Pepper
-  Queso Dip (1), Mango Jalapeno Slush (1), and Tequila Lime Chicken Wings (1). These
-  items are essential, and I intend to place an order with a business that can meet
-  all these requirements. Thank you for your assistance.'
+name: Linda Nguyen
+request: 'I am looking to place an order from a business that can provide the following
+  menu items: 1 Crispy Avocado Fritters, 1 Blue Corn Enchilada Bake, and 1 Spicy Black
+  Bean Enchiladas. These items are essential for me, so I would appreciate your assistance
+  in finding a business that can fulfill this order. Thank you very much for your
+  help.'
 menu_features:
-  Poblano Pepper Queso Dip: 6.99
-  Mango Jalapeno Slush: 4.99
-  Tequila Lime Chicken Wings: 10.49
+  Crispy Avocado Fritters: 9.15
+  Blue Corn Enchilada Bake: 15.15
+  Spicy Black Bean Enchiladas: 11.24
 amenity_features: []

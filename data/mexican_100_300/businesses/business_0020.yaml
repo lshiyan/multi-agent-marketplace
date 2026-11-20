@@ -1,33 +1,41 @@
 id: business_0020
-name: Pepper Pine Cantina
-description: Experience a fresh twist on classic Mexican and Tex-Mex flavors at Pepper
-  Pine Cantina. Enjoy vibrant salsas, sizzling plates, and creative combinations inspired
-  by the bold tastes of the Southwest.
+name: Carnitas & Crunch Cantina
+description: Experience bold Mexican and Tex-Mex flavors in a vibrant setting, where
+  classic favorites meet creative twists. Enjoy a menu packed with zesty, savory,
+  and satisfying dishes, perfect for any craving.
 rating: 1.0
 progenitor_customer: customer_0007
 menu_features:
-  Black Bean and Cilantro Rice: 3.45
-  Grilled Pineapple & Shrimp Quesadillas: 14.85
-  Pineapple Jalapeno Salsa: 3.89
-  "Cheesy Jalape\xF1o Queso Dip": 6.65
-  Loaded Nachos Grande: 11.39
-  Veggie Fajita Platter: 12.53
-  Avocado Lime Salsa: 5.52
-  Chili Lime Jicama Sticks: 7.17
-  Sizzling Fajita Plate: 13.5
-  Savory Carne Asada Burrito: 13.56
-  Ancho Chile BBQ Ribs: 16.62
+  Black Bean & Corn Quesadilla: 11.3
+  Caramel Corn Flan: 7.75
+  Verde Ranchero Huevos: 12.12
+  Spiced Agave Margarita: 10.0
+  Cocoa Cinnamon Tequila: 11.59
+  Pineapple Jalapeno Salsa: 4.92
+  Sweet and Spicy Chicken Tostadas: 12.47
+  Spicy Beef Enchilada Bake: 13.16
+  Crispy Avocado Bites: 9.76
+  Breakfast Burrito Supreme: 11.63
+  Pork Carnitas Platter: 13.97
+  Fresh Lime Cilantro Rice: 3.54
+  Sunset Grilled Veggie Tacos: 12.35
+  Stuffed Avocado Boats: 8.33
+  Classic Beef Enchiladas: 13.49
 amenity_features: {}
-min_price_factor: 0.85
+min_price_factor: 0.78
 minimum_menu_prices:
-  Black Bean and Cilantro Rice: 2.93
-  Grilled Pineapple & Shrimp Quesadillas: 12.62
-  Pineapple Jalapeno Salsa: 3.31
-  "Cheesy Jalape\xF1o Queso Dip": 5.65
-  Loaded Nachos Grande: 9.68
-  Veggie Fajita Platter: 10.65
-  Avocado Lime Salsa: 4.69
-  Chili Lime Jicama Sticks: 6.09
-  Sizzling Fajita Plate: 11.47
-  Savory Carne Asada Burrito: 11.53
-  Ancho Chile BBQ Ribs: 14.13
+  Black Bean & Corn Quesadilla: 8.81
+  Caramel Corn Flan: 6.04
+  Verde Ranchero Huevos: 9.45
+  Spiced Agave Margarita: 7.8
+  Cocoa Cinnamon Tequila: 9.04
+  Pineapple Jalapeno Salsa: 3.84
+  Sweet and Spicy Chicken Tostadas: 9.73
+  Spicy Beef Enchilada Bake: 9.38
+  Crispy Avocado Bites: 7.61
+  Breakfast Burrito Supreme: 9.07
+  Pork Carnitas Platter: 10.9
+  Fresh Lime Cilantro Rice: 2.76
+  Sunset Grilled Veggie Tacos: 9.63
+  Stuffed Avocado Boats: 6.5
+  Classic Beef Enchiladas: 10.52

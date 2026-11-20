@@ -1,8 +1,12 @@
 id: customer_0004
-name: Anthony Patel
-request: Could you please help me find a business that offers a Mole Chicken Quesadilla?
-  I would like to place an order for 1 Mole Chicken Quesadilla as soon as possible.
-  Thank you for your assistance!
+name: Anthony Garcia
+request: 'Could you please assist me in finding a business that offers the following
+  items on their menu: 1 Classic Horchata Smoothie, 1 Chili Lime Margarita, and 1
+  Pumpkin Spice Churros? I would like to place an order for these specific items,
+  so it is important that the business has all of them available. Thank you for your
+  assistance!'
 menu_features:
-  Mole Chicken Quesadilla: 10.99
+  Classic Horchata Smoothie: 5.47
+  Chili Lime Margarita: 10.56
+  Pumpkin Spice Churros: 6.37
 amenity_features: []

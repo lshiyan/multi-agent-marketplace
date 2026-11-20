@@ -1,45 +1,41 @@
 id: business_0291
-name: Blue Cactus Kitchen
-description: Blue Cactus Kitchen brings a vibrant, modern twist to classic Mexican
-  and Tex-Mex comfort food. Enjoy fresh salads, savory mains, and sweet treats in
-  a welcoming, upbeat atmosphere.
+name: "El Jard\xEDn de Sabor"
+description: Experience a vibrant blend of classic Mexican and fresh Tex-Mex flavors
+  in a lively setting. From hearty burritos to zesty street tacos and indulgent desserts,
+  every bite celebrates the bold spirit of modern Mexican cuisine.
 rating: 1.0
 progenitor_customer: customer_0097
 menu_features:
-  Tres Leches Cake: 6.64
-  Blue Corn Tostada Salad: 10.62
-  Chipotle Lime Chicken Salad: 11.26
-  Tamarind-Glazed Ribs: 17.77
-  Roasted Poblano Soup: 7.72
-  Creamy Queso Dip: 6.86
-  Hatch Chile Queso Dip: 8.13
-  Crispy Avocado Burrito: 11.47
-  Loaded Nacho Bowl: 12.74
-  Blueberry Agave Agua Fresca: 5.64
-  Honey-Lime Grilled Salmon: 16.33
-  Golden Tequila Sunrise: 10.01
-  Horchata Latte: 5.79
-  Frozen Strawberry Margarita: 8.94
-  Honey Chipotle Wings: 11.16
-  Vanilla Flan with Caramel Sauce: 6.34
-  Jalapeno Cheddar Cornbread: 6.05
+  Classic Carne Asada Burrito: 14.95
+  Avocado Street Tacos: 9.29
+  Tropical Guava Mint Punch: 6.36
+  Southwestern Quinoa Salad: 10.05
+  Smoky Black Bean Nachos: 11.53
+  Chorizo Breakfast Tacos: 10.37
+  Smoky Chipotle BBQ Wings: 9.39
+  Crispy Tortilla Breakfast Bowl: 8.94
+  Crispy Avocado and Lime Tacos: 11.87
+  Mexican Chocolate Lava Cake: 8.51
+  Tropical Pineapple Salsa: 2.95
+  Ancho Chili Braised Beef Enchiladas: 15.8
+  Spicy Shrimp Nacho Platter: 9.13
+  Cilantro Lime Grilled Shrimp: 15.07
+  Coconut Lime Tres Leches: 6.82
 amenity_features: {}
-min_price_factor: 0.6
+min_price_factor: 0.73
 minimum_menu_prices:
-  Tres Leches Cake: 3.98
-  Blue Corn Tostada Salad: 6.37
-  Chipotle Lime Chicken Salad: 6.76
-  Tamarind-Glazed Ribs: 10.66
-  Roasted Poblano Soup: 4.63
-  Creamy Queso Dip: 4.12
-  Hatch Chile Queso Dip: 4.88
-  Crispy Avocado Burrito: 6.88
-  Loaded Nacho Bowl: 7.64
-  Blueberry Agave Agua Fresca: 3.38
-  Honey-Lime Grilled Salmon: 9.8
-  Golden Tequila Sunrise: 6.01
-  Horchata Latte: 3.47
-  Frozen Strawberry Margarita: 5.36
-  Honey Chipotle Wings: 6.7
-  Vanilla Flan with Caramel Sauce: 3.8
-  Jalapeno Cheddar Cornbread: 3.63
+  Classic Carne Asada Burrito: 10.91
+  Avocado Street Tacos: 6.78
+  Tropical Guava Mint Punch: 4.63
+  Southwestern Quinoa Salad: 7.34
+  Smoky Black Bean Nachos: 8.42
+  Chorizo Breakfast Tacos: 7.57
+  Smoky Chipotle BBQ Wings: 6.85
+  Crispy Tortilla Breakfast Bowl: 6.53
+  Crispy Avocado and Lime Tacos: 8.67
+  Mexican Chocolate Lava Cake: 6.21
+  Tropical Pineapple Salsa: 2.15
+  Ancho Chili Braised Beef Enchiladas: 11.53
+  Spicy Shrimp Nacho Platter: 6.65
+  Cilantro Lime Grilled Shrimp: 11.0
+  Coconut Lime Tres Leches: 4.98

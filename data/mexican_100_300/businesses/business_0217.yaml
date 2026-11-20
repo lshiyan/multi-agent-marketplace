@@ -1,45 +1,45 @@
 id: business_0217
-name: "Viva J\xEDcama Kitchen"
-description: Experience vibrant, modern Mexican and Tex-Mex flavors with a refreshing
-  twist. Enjoy creative small plates, craveable classics, and bold cocktails in a
-  lively, welcoming atmosphere.
+name: Flan in the Family
+description: A lively and welcoming spot serving up creative Mexican and Tex-Mex classics
+  with a sweet twist. Enjoy vibrant flavors, sizzling starters, and decadent desserts
+  in a fiesta-inspired atmosphere.
 rating: 1.0
 progenitor_customer: customer_0073
 menu_features:
-  Jicama and Citrus Salad: 7.05
-  Zesty Shrimp Ceviche: 11.48
-  Pico Avocado Toast: 8.98
-  Classic Lime Margarita: 8.49
-  Tamale Pie Casserole: 17.5
-  Grilled Shrimp Skewers: 11.39
-  Avocado Lime Salad: 9.02
-  Coconut Flan Delight: 7.37
-  Mango Habanero Wings: 13.1
-  Frozen Strawberry Daiquiri: 7.07
-  Tangy Tomato Salsa Soup: 8.27
-  Hatch Green Chile Burger: 11.59
-  Street Style Corn on the Cob: 4.36
-  Chocolate Cinnamon Flan: 5.79
-  Smoky Chipotle Chicken: 15.0
-  Sizzling Fajita Fiesta: 15.65
-  Cinnamon Sugar Churros: 5.1
+  Shrimp Ceviche Bowl: 14.61
+  Caramelized Banana Flan: 6.12
+  Mango Jalapeno Salsa and Chips: 6.56
+  Spicy Cucumber Margarita: 9.98
+  Zesty Lime Chicken Enchiladas: 9.22
+  Pumpkin Spice Flan: 6.46
+  Cilantro Lime Shrimp Skewers: 11.86
+  Creamy Chipotle Pasta: 10.54
+  Ultimate Nacho Platter: 7.77
+  Pineapple Chipotle Pork: 15.52
+  Southwest Chopped Salad: 8.68
+  Chocolate Molten Tamale: 4.58
+  Mexican Chocolate Brownie: 6.47
+  Crispy Avocado Tacos: 12.82
+  Black Bean and Sweet Potato Empanadas: 9.7
+  Crispy Tortilla Breakfast Bowl: 11.79
+  Shrimp Ceviche Cups: 11.25
 amenity_features: {}
-min_price_factor: 0.65
+min_price_factor: 0.64
 minimum_menu_prices:
-  Jicama and Citrus Salad: 4.58
-  Zesty Shrimp Ceviche: 7.46
-  Pico Avocado Toast: 5.84
-  Classic Lime Margarita: 5.52
-  Tamale Pie Casserole: 11.38
-  Grilled Shrimp Skewers: 7.4
-  Avocado Lime Salad: 5.86
-  Coconut Flan Delight: 4.79
-  Mango Habanero Wings: 8.52
-  Frozen Strawberry Daiquiri: 4.6
-  Tangy Tomato Salsa Soup: 5.38
-  Hatch Green Chile Burger: 7.53
-  Street Style Corn on the Cob: 2.83
-  Chocolate Cinnamon Flan: 3.76
-  Smoky Chipotle Chicken: 9.75
-  Sizzling Fajita Fiesta: 10.17
-  Cinnamon Sugar Churros: 3.31
+  Shrimp Ceviche Bowl: 9.35
+  Caramelized Banana Flan: 3.92
+  Mango Jalapeno Salsa and Chips: 4.2
+  Spicy Cucumber Margarita: 6.39
+  Zesty Lime Chicken Enchiladas: 7.33
+  Pumpkin Spice Flan: 4.13
+  Cilantro Lime Shrimp Skewers: 7.59
+  Creamy Chipotle Pasta: 6.75
+  Ultimate Nacho Platter: 6.41
+  Pineapple Chipotle Pork: 9.93
+  Southwest Chopped Salad: 5.56
+  Chocolate Molten Tamale: 4.36
+  Mexican Chocolate Brownie: 4.14
+  Crispy Avocado Tacos: 8.2
+  Black Bean and Sweet Potato Empanadas: 6.21
+  Crispy Tortilla Breakfast Bowl: 7.55
+  Shrimp Ceviche Cups: 7.2

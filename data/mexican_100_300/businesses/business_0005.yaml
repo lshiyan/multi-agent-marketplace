@@ -1,41 +1,39 @@
 id: business_0005
-name: Guac and Awe
-description: Experience bold Mexican and Tex-Mex flavors with a modern twist, from
-  zesty appetizers to decadent desserts. Every dish is crafted to surprise your senses
-  and leave you craving more.
+name: Zest & Sizzle
+description: Experience bold Mexican and Tex-Mex flavors in a vibrant, modern setting.
+  Our fresh takes on classic favorites are crafted to spice up your day and delight
+  your taste buds.
 rating: 1.0
 progenitor_customer: customer_0002
 menu_features:
-  Spicy Zucchini Tostadas: 9.6
-  Tequila Lime Shrimp Skewers: 12.25
-  Baja Fish Tacos: 13.35
-  Crispy Avocado Wedges: 6.29
-  Mushroom & Cheese Tamales: 6.84
-  Mango Jalapeno Salsa and Chips: 4.39
-  Roasted Corn Enchiladas: 12.74
-  Mexican Chocolate Lava Cake: 5.52
-  Loaded Nacho Bowl: 12.08
-  Chipotle Shrimp Skewers: 13.62
-  Coconut Lime Flan: 8.22
-  Rich Chocolate Tres Leches: 7.93
-  Raspberry Jalapeno Mojito: 8.36
-  Flamin' Skillet Fajitas: 17.17
-  Honey Lime Chicken Fajitas: 16.56
+  Loaded Nachos Grande: 7.89
+  Spicy Shrimp Fajitas: 16.58
+  Spicy Zucchini Tostadas: 10.68
+  Chipotle Chicken Burrito Bowl: 13.04
+  Hatch Green Chile Stew: 14.43
+  Smoky Mezcal Mule: 8.69
+  Smoky Chipotle Quesadillas: 11.26
+  Pineapple Chipotle Salsa & Chips: 5.14
+  Mexican Hot Chocolate: 4.39
+  Lime-Cilantro Quinoa Salad: 8.93
+  Verde Chicken Enchiladas: 11.68
+  Pico de Gallo Chicken Salad: 8.71
+  Carnitas Plantain Burrito: 12.34
+  Classic Lime Margarita: 8.3
 amenity_features: {}
-min_price_factor: 0.91
+min_price_factor: 0.8
 minimum_menu_prices:
-  Spicy Zucchini Tostadas: 8.74
-  Tequila Lime Shrimp Skewers: 11.15
-  Baja Fish Tacos: 12.15
-  Crispy Avocado Wedges: 5.72
-  Mushroom & Cheese Tamales: 6.22
-  Mango Jalapeno Salsa and Chips: 3.99
-  Roasted Corn Enchiladas: 11.59
-  Mexican Chocolate Lava Cake: 5.02
-  Loaded Nacho Bowl: 10.99
-  Chipotle Shrimp Skewers: 12.39
-  Coconut Lime Flan: 7.48
-  Rich Chocolate Tres Leches: 7.22
-  Raspberry Jalapeno Mojito: 7.61
-  Flamin' Skillet Fajitas: 15.62
-  Honey Lime Chicken Fajitas: 15.07
+  Loaded Nachos Grande: 7.28
+  Spicy Shrimp Fajitas: 13.26
+  Spicy Zucchini Tostadas: 8.54
+  Chipotle Chicken Burrito Bowl: 10.43
+  Hatch Green Chile Stew: 11.54
+  Smoky Mezcal Mule: 6.95
+  Smoky Chipotle Quesadillas: 9.01
+  Pineapple Chipotle Salsa & Chips: 4.11
+  Mexican Hot Chocolate: 3.51
+  Lime-Cilantro Quinoa Salad: 8.16
+  Verde Chicken Enchiladas: 10.48
+  Pico de Gallo Chicken Salad: 6.97
+  Carnitas Plantain Burrito: 9.87
+  Classic Lime Margarita: 6.64

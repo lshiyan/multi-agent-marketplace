@@ -1,40 +1,39 @@
 id: business_0160
-name: "Mesa Dulce & Saz\xF3n"
-description: "Savor bold, contemporary Mexican and Tex-Mex flavors in a vibrant setting,\
-  \ where fresh ingredients and creative culinary twists bring every dish to life.\
-  \ From zesty starters to indulgent desserts, Mesa Dulce & Saz\xF3n is your destination\
-  \ for a unique taste adventure."
+name: Shell We Sizzle?
+description: Spice up your cravings with zesty wings, loaded bites, and vibrant sips
+  at this fresh, festive Tex-Mex spot. Dive into bold flavors, sizzling skillets,
+  and sweet treats that keep the fiesta going all day long.
 rating: 1.0
 progenitor_customer: customer_0054
 menu_features:
-  Black Bean and Sweet Potato Empanadas: 8.99
-  Stuffed Poblano Peppers: 14.94
-  Avocado Lime Salsa: 4.62
-  Fresh Mango Salsa Nachos: 7.93
-  Chipotle Lime Shrimp Tacos: 14.63
-  Chocolate Sopapilla Bites: 5.88
-  Caramelized Banana Flan: 7.33
-  Roasted Poblano Queso Dip: 8.32
-  Caramel Corn Flan: 5.92
-  Breakfast Tostada Stack: 10.87
-  Zesty Shrimp Quesadillas: 14.94
-  Queso Fundido with Chorizo: 8.39
-  Rich Chocolate Tamales: 6.09
-  Tamarind Glazed Wings: 12.37
+  Smoky Chipotle BBQ Wings: 12.32
+  Loaded Nacho Supreme: 10.23
+  Refreshing Agua Fresca Trio: 7.1
+  Blueberry Jalapeno Lemonade: 4.02
+  Roasted Pumpkin Tamale: 6.47
+  Sizzling Fajita Skillet: 17.44
+  Pineapple Chipotle Salsa & Chips: 4.77
+  Frozen Mango Margarita: 8.25
+  Verde Ranchero Huevos: 11.14
+  Cinnamon Sugar Sopapillas: 4.51
+  Chipotle Lime Shrimp Skewers: 13.07
+  Loaded Street Corn: 6.9
+  Loaded Nacho Skillet: 11.19
+  Mango Habanero Margarita: 11.16
 amenity_features: {}
-min_price_factor: 0.68
+min_price_factor: 0.85
 minimum_menu_prices:
-  Black Bean and Sweet Potato Empanadas: 6.11
-  Stuffed Poblano Peppers: 10.16
-  Avocado Lime Salsa: 3.14
-  Fresh Mango Salsa Nachos: 5.39
-  Chipotle Lime Shrimp Tacos: 9.95
-  Chocolate Sopapilla Bites: 4.0
-  Caramelized Banana Flan: 4.98
-  Roasted Poblano Queso Dip: 5.66
-  Caramel Corn Flan: 4.03
-  Breakfast Tostada Stack: 7.39
-  Zesty Shrimp Quesadillas: 10.16
-  Queso Fundido with Chorizo: 5.71
-  Rich Chocolate Tamales: 4.14
-  Tamarind Glazed Wings: 8.41
+  Smoky Chipotle BBQ Wings: 10.47
+  Loaded Nacho Supreme: 8.7
+  Refreshing Agua Fresca Trio: 6.03
+  Blueberry Jalapeno Lemonade: 3.42
+  Roasted Pumpkin Tamale: 5.5
+  Sizzling Fajita Skillet: 14.82
+  Pineapple Chipotle Salsa & Chips: 4.05
+  Frozen Mango Margarita: 7.01
+  Verde Ranchero Huevos: 9.47
+  Cinnamon Sugar Sopapillas: 3.83
+  Chipotle Lime Shrimp Skewers: 9.35
+  Loaded Street Corn: 5.87
+  Loaded Nacho Skillet: 9.51
+  Mango Habanero Margarita: 9.49

@@ -1,45 +1,35 @@
 id: business_0088
-name: La Fogata Dorada
-description: Experience vibrant Mexican and Tex-Mex flavors in a lively setting, where
-  traditional and modern dishes meet sizzling street favorites. From tender barbacoa
-  to fresh, zesty creations, every meal brings a taste of celebration.
+name: Vibrant Roots Cantina
+description: Experience a lively blend of Mexican and Tex-Mex flavors, featuring fresh
+  salads, sizzling skillets, crafted cocktails, and bold, zesty creations. Our menu
+  celebrates bright ingredients and inventive twists on classic favorites.
 rating: 1.0
 progenitor_customer: customer_0030
 menu_features:
-  Classic Beef Barbacoa: 11.72
-  Gourmet Nacho Platter: 11.12
-  Cilantro Lime Chicken Tacos: 11.1
-  Chorizo and Egg Tacos: 7.44
-  Refreshing Agua Fresca Trio: 7.37
-  Spicy Black Bean Nacho Platter: 8.49
-  Al Pastor Quesadilla: 13.63
-  Avocado Lime Salsa: 5.26
-  Black Bean Taco Bowl: 8.9
-  Loaded Sweet Potato Fries: 8.26
-  Spicy Chocolate Lava Cake: 7.5
-  Avocado Lime Cheesecake: 5.35
-  Crispy Fish Street Tacos: 15.61
-  Black Bean Burgers: 12.93
-  Flamin' Skillet Fajitas: 15.52
-  Crispy Avocado and Lime Tacos: 14.81
-  Smoky BBQ Pork Tostadas: 10.94
+  Zesty Lime Shrimp Salad: 12.73
+  Black Bean Street Tacos: 8.28
+  Spicy Shrimp Fajitas: 15.26
+  Passion Fruit Agua Fresca: 5.56
+  Chipotle Chicken Burrito Bowl: 13.27
+  Frozen Strawberry Daiquiri: 9.53
+  Creamy Avocado Soup: 5.91
+  Tamarind Ginger Cooler: 4.24
+  Coconut Lime Rice Bowl: 12.11
+  Chocolate Mole Chicken: 17.82
+  Ancho Chile Chicken Salad: 8.95
+  Tex-Mex Breakfast Skillet: 8.17
 amenity_features: {}
-min_price_factor: 0.66
+min_price_factor: 0.77
 minimum_menu_prices:
-  Classic Beef Barbacoa: 7.74
-  Gourmet Nacho Platter: 7.34
-  Cilantro Lime Chicken Tacos: 7.33
-  Chorizo and Egg Tacos: 4.91
-  Refreshing Agua Fresca Trio: 4.86
-  Spicy Black Bean Nacho Platter: 5.6
-  Al Pastor Quesadilla: 9.0
-  Avocado Lime Salsa: 3.47
-  Black Bean Taco Bowl: 5.87
-  Loaded Sweet Potato Fries: 5.45
-  Spicy Chocolate Lava Cake: 4.95
-  Avocado Lime Cheesecake: 3.53
-  Crispy Fish Street Tacos: 10.3
-  Black Bean Burgers: 8.53
-  Flamin' Skillet Fajitas: 10.24
-  Crispy Avocado and Lime Tacos: 9.77
-  Smoky BBQ Pork Tostadas: 7.22
+  Zesty Lime Shrimp Salad: 9.8
+  Black Bean Street Tacos: 6.38
+  Spicy Shrimp Fajitas: 11.75
+  Passion Fruit Agua Fresca: 3.6
+  Chipotle Chicken Burrito Bowl: 10.22
+  Frozen Strawberry Daiquiri: 7.34
+  Creamy Avocado Soup: 4.55
+  Tamarind Ginger Cooler: 3.26
+  Coconut Lime Rice Bowl: 9.32
+  Chocolate Mole Chicken: 13.72
+  Ancho Chile Chicken Salad: 6.21
+  Tex-Mex Breakfast Skillet: 6.29

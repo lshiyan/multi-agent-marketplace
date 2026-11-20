@@ -1,37 +1,41 @@
 id: business_0077
-name: Wholly Guac & Roll
-description: Get ready to savor fresh, flavorful Tex-Mex and Mexican-inspired creations
-  in a lively, modern setting. From crisp bites to zesty sips, our menu puts a playful
-  twist on classic favorites.
+name: Just in Queso
+description: A lively Tex-Mex spot bringing together smoky flavors, zesty salads,
+  and sweet treats, all served with a dash of fun. Enjoy bold bites and creative cocktails
+  in a vibrant setting where every meal is a fiesta.
 rating: 1.0
 progenitor_customer: customer_0026
 menu_features:
-  Stuffed Avocado Boats: 11.53
-  Hibiscus Iced Tea: 3.4
-  Blueberry Jalapeno Margarita: 12.82
-  Tamarind Glazed Wings: 10.73
-  Loaded Street Corn: 8.55
-  Crispy Avocado Bites: 10.29
-  Spicy Shrimp Ceviche: 13.72
-  Spicy Black Bean Tacos: 9.79
-  Vegetarian Tamale Platter: 11.62
-  Flan with Caramel Drizzle: 4.67
-  Classic Mojito with Mint: 8.63
-  Tomatillo Ranch Enchiladas: 14.07
-  Crispy Avocado Burrito: 12.09
+  Roasted Corn and Black Bean Salad: 7.97
+  Honey Chipotle Wings: 10.19
+  Caramelized Plantain Empanadas: 5.21
+  Spicy Street Corn: 5.63
+  Mexican Chocolate Brownie: 7.16
+  Stuffed Poblano Pepper Delight: 11.48
+  Chipotle Lime Chicken Salad: 9.95
+  Fresh Corn Elote: 3.36
+  Jalapeno Mango Margarita: 7.14
+  Queso Fundido with Chorizo: 9.7
+  Blueberry Hibiscus Margarita: 11.27
+  Margarita Grilled Chicken: 15.4
+  Sizzling Beef Alambre: 16.59
+  Hatch Green Chile Burger: 13.97
+  Sea Breeze Ceviche: 14.1
 amenity_features: {}
-min_price_factor: 0.85
+min_price_factor: 0.89
 minimum_menu_prices:
-  Stuffed Avocado Boats: 9.8
-  Hibiscus Iced Tea: 2.89
-  Blueberry Jalapeno Margarita: 10.9
-  Tamarind Glazed Wings: 9.12
-  Loaded Street Corn: 7.27
-  Crispy Avocado Bites: 8.75
-  Spicy Shrimp Ceviche: 11.66
-  Spicy Black Bean Tacos: 8.32
-  Vegetarian Tamale Platter: 9.88
-  Flan with Caramel Drizzle: 3.97
-  Classic Mojito with Mint: 7.34
-  Tomatillo Ranch Enchiladas: 11.96
-  Crispy Avocado Burrito: 10.28
+  Roasted Corn and Black Bean Salad: 7.09
+  Honey Chipotle Wings: 9.07
+  Caramelized Plantain Empanadas: 4.64
+  Spicy Street Corn: 5.01
+  Mexican Chocolate Brownie: 6.37
+  Stuffed Poblano Pepper Delight: 10.22
+  Chipotle Lime Chicken Salad: 8.86
+  Fresh Corn Elote: 2.99
+  Jalapeno Mango Margarita: 6.35
+  Queso Fundido with Chorizo: 8.63
+  Blueberry Hibiscus Margarita: 7.81
+  Margarita Grilled Chicken: 13.71
+  Sizzling Beef Alambre: 14.77
+  Hatch Green Chile Burger: 12.43
+  Sea Breeze Ceviche: 12.55

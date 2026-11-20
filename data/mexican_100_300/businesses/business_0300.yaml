@@ -1,33 +1,35 @@
 id: business_0300
-name: Avocado Aura
-description: Step into Avocado Aura, where vibrant flavors and fresh ingredients come
-  together for a uniquely delicious Mexican and Tex-Mex dining experience. Enjoy a
-  lively, relaxed atmosphere perfect for savoring creative dishes and refreshing drinks.
+name: El Pimiento y Brasa Mexicana
+description: Experience the vibrant flavors of Mexico with a menu bursting with smoky,
+  spicy, and fresh creations. Our kitchen celebrates classic and contemporary favorites
+  served in a lively, inviting atmosphere.
 rating: 1.0
 progenitor_customer: customer_0100
 menu_features:
-  Avocado Street Tacos: 9.42
-  Tequila Sunrise Smoothie: 8.64
-  Paloma Breeze Cocktail: 9.23
-  Fresh Limeade: 4.04
-  Stuffed Avocado Delight: 9.05
-  Chipotle Chicken Enchiladas: 16.85
-  Smoky Chipotle Queso: 7.76
-  Spicy Shrimp Fajitas: 15.36
-  Sizzling Fajita Fiesta: 12.27
-  Toasted Coconut Flan: 5.04
-  Creamy Queso Dip: 8.01
+  Smoky Chipotle BBQ Nachos: 11.47
+  Pineapple Chipotle Salsa & Chips: 6.09
+  Raspberry Jalapeno Mojito: 8.11
+  Black Bean and Corn Fiesta Salad: 7.72
+  Ancho Chile BBQ Ribs: 20.8
+  "Strawberry Jalape\xF1o Mocktail": 6.04
+  Adobo Roasted Corn Salad: 9.6
+  Spiced Pumpkin Empanadas: 8.53
+  Loaded Street Corn: 6.67
+  Tamarind Ginger Cooler: 4.11
+  Sizzling Fajita Platter: 13.09
+  Roasted Poblano Soup: 8.88
 amenity_features: {}
-min_price_factor: 0.67
+min_price_factor: 0.94
 minimum_menu_prices:
-  Avocado Street Tacos: 6.31
-  Tequila Sunrise Smoothie: 5.79
-  Paloma Breeze Cocktail: 6.18
-  Fresh Limeade: 2.71
-  Stuffed Avocado Delight: 6.06
-  Chipotle Chicken Enchiladas: 11.29
-  Smoky Chipotle Queso: 5.2
-  Spicy Shrimp Fajitas: 10.29
-  Sizzling Fajita Fiesta: 8.22
-  Toasted Coconut Flan: 3.38
-  Creamy Queso Dip: 5.37
+  Smoky Chipotle BBQ Nachos: 10.78
+  Pineapple Chipotle Salsa & Chips: 5.72
+  Raspberry Jalapeno Mojito: 7.62
+  Black Bean and Corn Fiesta Salad: 7.26
+  Ancho Chile BBQ Ribs: 19.55
+  "Strawberry Jalape\xF1o Mocktail": 5.68
+  Adobo Roasted Corn Salad: 9.02
+  Spiced Pumpkin Empanadas: 4.73
+  Loaded Street Corn: 6.27
+  Tamarind Ginger Cooler: 3.86
+  Sizzling Fajita Platter: 12.3
+  Roasted Poblano Soup: 8.35

@@ -1,10 +1,8 @@
 id: customer_0057
-name: Amelia Wong
-request: 'Could you please assist me in finding a business that offers the following
-  items for purchase: 1 Grilled Shrimp Quesadilla and 1 Twisted Tequila Sunrise? It''s
-  important that the business serves both of these menu items. Once located, I would
-  like to place an order for them. Thank you for your help.'
+name: Lucas Evans
+request: Could you please find a business that serves Black Bean and Corn Salsa? We
+  need 1 order of this item. Once you identify a suitable business, I would like to
+  proceed with placing the order. Thank you for your assistance.
 menu_features:
-  Grilled Shrimp Quesadilla: 11.49
-  Twisted Tequila Sunrise: 8.49
+  Black Bean and Corn Salsa: 7.37
 amenity_features: []

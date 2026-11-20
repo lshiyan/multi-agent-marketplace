@@ -1,45 +1,33 @@
 id: business_0154
-name: Queso to the Limit
-description: Queso to the Limit invites you to savor bold Tex-Mex and Mexican-inspired
-  flavors, from decadent dips to zesty margaritas and sweet chocolatey treats. Experience
-  a fiesta of inventive cuisine and vibrant drinks in every bite and sip.
+name: Pineapple & Pepper Patio
+description: Experience a fresh take on Mexican and Tex-Mex favorites, featuring vibrant
+  flavors, zesty salsas, and creative cocktails in a welcoming atmosphere. Perfect
+  for those who love bold tastes and a relaxed dining experience.
 rating: 1.0
 progenitor_customer: customer_0052
 menu_features:
-  Chili Con Queso Supreme: 6.78
-  Chocolate Sopapilla Bites: 4.93
-  Chocolate Dipped Flan: 6.32
-  Poblano Pepper Queso Dip: 6.42
-  Hibiscus Agua Fresca: 3.4
-  Smoky Chipotle Black Bean Soup: 8.61
-  Red Chili Chicken Pozole: 9.59
-  Tomatillo Ranch Enchiladas: 15.07
-  Spicy Mango Margarita: 8.18
-  Chocolate Molten Tamale: 7.65
-  Sea Breeze Ceviche: 12.38
-  Black Bean and Lime Soup: 8.29
-  Cocoa Cinnamon Tequila: 9.58
-  Tequila Lime Chicken Wings: 10.28
-  Roasted Poblano Queso Dip: 8.2
-  Cinnamon Sugar Churro Sticks: 5.15
-  Pineapple Jalapeno Salsa: 3.73
+  Avocado Lime Quinoa Bowl: 11.08
+  Classic Flan Delight: 4.97
+  Sizzling Fajita Platter: 15.06
+  Tangy Tomato Salsa Soup: 8.69
+  Spicy Pineapple Chipotle Margarita: 9.02
+  Classic Lime Margarita: 10.26
+  Grilled Pineapple & Shrimp Quesadillas: 14.86
+  Tamale Trio Sampler: 10.5
+  Smoky Black Bean Tostadas: 5.88
+  Loaded Nacho Platter: 9.4
+  Chili Lime Skirt Steak: 11.2
 amenity_features: {}
-min_price_factor: 0.85
+min_price_factor: 0.9
 minimum_menu_prices:
-  Chili Con Queso Supreme: 5.76
-  Chocolate Sopapilla Bites: 4.19
-  Chocolate Dipped Flan: 5.37
-  Poblano Pepper Queso Dip: 5.46
-  Hibiscus Agua Fresca: 2.89
-  Smoky Chipotle Black Bean Soup: 7.32
-  Red Chili Chicken Pozole: 8.15
-  Tomatillo Ranch Enchiladas: 12.81
-  Spicy Mango Margarita: 6.95
-  Chocolate Molten Tamale: 6.5
-  Sea Breeze Ceviche: 10.52
-  Black Bean and Lime Soup: 7.05
-  Cocoa Cinnamon Tequila: 8.14
-  Tequila Lime Chicken Wings: 8.74
-  Roasted Poblano Queso Dip: 6.97
-  Cinnamon Sugar Churro Sticks: 4.38
-  Pineapple Jalapeno Salsa: 3.17
+  Avocado Lime Quinoa Bowl: 9.97
+  Classic Flan Delight: 4.47
+  Sizzling Fajita Platter: 13.55
+  Tangy Tomato Salsa Soup: 7.82
+  Spicy Pineapple Chipotle Margarita: 8.12
+  Classic Lime Margarita: 9.23
+  Grilled Pineapple & Shrimp Quesadillas: 11.91
+  Tamale Trio Sampler: 9.45
+  Smoky Black Bean Tostadas: 5.29
+  Loaded Nacho Platter: 8.46
+  Chili Lime Skirt Steak: 10.08

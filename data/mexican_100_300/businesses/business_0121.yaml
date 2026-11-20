@@ -1,33 +1,37 @@
 id: business_0121
-name: "Mol\xE9 & Mesa"
-description: Experience a fresh twist on Mexican and Tex-Mex classics in a vibrant,
-  welcoming setting. Savor bold flavors, creative drinks, and unforgettable desserts
-  crafted with care and authenticity.
+name: Citrus & Char Skillet
+description: Experience vibrant Mexican and Tex-Mex flavors with a twist, where citrus
+  zings and fire-kissed favorites meet in every dish. Enjoy fresh salsas, sizzling
+  skillets, and a sweet finish in a lively, welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0041
 menu_features:
-  Grilled Avocado and Quinoa Bowl: 9.64
-  Sizzling Fajita Skillet: 15.34
-  Spicy Chicken Tortilla Soup: 4.93
-  Horchata Iced Coffee: 3.9
-  Classic Beef Tacos with Zesty Slaw: 9.37
-  Classic Horchata Smoothie: 4.22
-  Sizzling Fajita Plate: 14.44
-  Tequila Lime Grilled Chicken: 13.25
-  Sweet Corn Tamale Cake: 7.2
-  Green Chile Pork Stew: 11.91
-  Mexican Chocolate Lava Cake: 6.95
+  Chili Lime Skirt Steak: 17.16
+  Pineapple Pico de Gallo Salsa: 6.24
+  Beef Enchiladas Verdes: 14.03
+  Beef Fajita Skillet: 13.49
+  Coconut Tres Leches: 7.6
+  Blueberry Tequila Sunrise: 10.6
+  Ranchero Eggs Benedict: 9.44
+  Minty Mojito Refresher: 6.11
+  Carne Asada Fajitas: 16.1
+  Vanilla Almond Horchata: 4.29
+  Smoky Chipotle Chicken: 12.97
+  Mexican Hot Chocolate: 4.02
+  Chocolate Dipped Flan: 6.26
 amenity_features: {}
-min_price_factor: 0.66
+min_price_factor: 0.65
 minimum_menu_prices:
-  Grilled Avocado and Quinoa Bowl: 6.36
-  Sizzling Fajita Skillet: 10.12
-  Spicy Chicken Tortilla Soup: 3.25
-  Horchata Iced Coffee: 2.57
-  Classic Beef Tacos with Zesty Slaw: 6.18
-  Classic Horchata Smoothie: 2.79
-  Sizzling Fajita Plate: 9.53
-  Tequila Lime Grilled Chicken: 8.75
-  Sweet Corn Tamale Cake: 4.75
-  Green Chile Pork Stew: 7.86
-  Mexican Chocolate Lava Cake: 4.59
+  Chili Lime Skirt Steak: 11.15
+  Pineapple Pico de Gallo Salsa: 4.06
+  Beef Enchiladas Verdes: 9.12
+  Beef Fajita Skillet: 8.77
+  Coconut Tres Leches: 4.94
+  Blueberry Tequila Sunrise: 6.89
+  Ranchero Eggs Benedict: 8.44
+  Minty Mojito Refresher: 3.97
+  Carne Asada Fajitas: 10.47
+  Vanilla Almond Horchata: 2.79
+  Smoky Chipotle Chicken: 10.73
+  Mexican Hot Chocolate: 2.61
+  Chocolate Dipped Flan: 4.07

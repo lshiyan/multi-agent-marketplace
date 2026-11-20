@@ -1,37 +1,47 @@
 id: business_0065
-name: Poblano Palate
-description: Experience a vibrant fusion of Mexican and Tex-Mex flavors, where fresh
-  ingredients and bold spices come together in every dish. Enjoy a lively atmosphere
-  and creative culinary twists perfect for any occasion.
+name: Casa del Cacao y Agave
+description: Experience a vibrant blend of classic Mexican and Tex-Mex flavors, crafted
+  with a creative twist. At Casa del Cacao y Agave, our lively atmosphere and inventive
+  drinks make every meal a celebration.
 rating: 1.0
 progenitor_customer: customer_0022
 menu_features:
-  Pineapple Pico de Gallo Salsa: 8.33
-  Black Bean & Cheese Enchiladas: 14.27
-  Spiced Churro Bites: 5.75
-  Roasted Poblano Queso Dip: 5.44
-  Raspberry Jalapeno Mojito: 9.03
-  Chocolate Cinnamon Flan: 6.15
-  Three-Cheese Chile Rellenos: 14.89
-  Tequila Lime Shrimp Skewers: 14.9
-  Spicy Street Corn: 4.89
-  Chipotle Bean Burrito: 8.78
-  Refreshing Agua Fresca Trio: 6.11
-  Roasted Poblano Veggie Skillet: 10.37
-  Coconut Lime Flan: 6.44
+  Spiced Agave Margarita: 9.6
+  Tamale Pie Casserole: 15.7
+  Spiced Chocolate Tres Leches: 5.05
+  Sweet Potato and Black Bean Tacos: 10.18
+  Paloma Breeze Cocktail: 6.65
+  Salted Caramel Margarita: 10.77
+  Chocolate Mole Chicken: 19.05
+  Ancho Chili Chocolate Cake: 7.38
+  Tequila Sunrise Smoothie: 7.73
+  Crispy Avocado Nachos: 9.42
+  Tangy Tomato Salsa Soup: 8.77
+  Tex-Mex Fajita Wrap: 13.21
+  Smoky Black Bean Tostadas: 9.78
+  Spicy Chicken Tortilla Soup: 5.18
+  Verde Chicken Enchiladas: 10.68
+  Honey-Lime Shrimp Skewers: 14.8
+  Loaded Nacho Platter: 12.09
+  Pomegranate Agua Fresca: 3.54
 amenity_features: {}
-min_price_factor: 0.86
+min_price_factor: 0.67
 minimum_menu_prices:
-  Pineapple Pico de Gallo Salsa: 7.16
-  Black Bean & Cheese Enchiladas: 12.27
-  Spiced Churro Bites: 4.95
-  Roasted Poblano Queso Dip: 4.68
-  Raspberry Jalapeno Mojito: 7.77
-  Chocolate Cinnamon Flan: 5.29
-  Three-Cheese Chile Rellenos: 12.81
-  Tequila Lime Shrimp Skewers: 12.81
-  Spicy Street Corn: 4.21
-  Chipotle Bean Burrito: 7.55
-  Refreshing Agua Fresca Trio: 5.25
-  Roasted Poblano Veggie Skillet: 8.92
-  Coconut Lime Flan: 5.54
+  Spiced Agave Margarita: 6.43
+  Tamale Pie Casserole: 10.52
+  Spiced Chocolate Tres Leches: 3.38
+  Sweet Potato and Black Bean Tacos: 8.97
+  Paloma Breeze Cocktail: 6.61
+  Salted Caramel Margarita: 7.22
+  Chocolate Mole Chicken: 12.76
+  Ancho Chili Chocolate Cake: 4.94
+  Tequila Sunrise Smoothie: 5.18
+  Crispy Avocado Nachos: 6.31
+  Tangy Tomato Salsa Soup: 5.88
+  Tex-Mex Fajita Wrap: 8.85
+  Smoky Black Bean Tostadas: 6.55
+  Spicy Chicken Tortilla Soup: 3.47
+  Verde Chicken Enchiladas: 9.31
+  Honey-Lime Shrimp Skewers: 9.92
+  Loaded Nacho Platter: 8.1
+  Pomegranate Agua Fresca: 2.37

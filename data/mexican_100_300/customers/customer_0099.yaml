@@ -1,9 +1,11 @@
 id: customer_0099
-name: Charlotte Rodriguez
-request: 'I am looking for a business that offers the following items from their menu:
-  1 Spicy Pineapple Chipotle Margarita and 1 Chorizo Breakfast Burrito. Please help
-  me find such a business, as I intend to place an order for these items. Thank you.'
+name: Katherine Schneider
+request: Could you please find a business that offers the following menu items so
+  I can place an order? I need exactly 1 Al Pastor Quesadilla, 1 Crispy Avocado Fritters,
+  and 1 Blue Corn Enchilada Bake. It's important that these specific items are available
+  as this will determine my purchase. Thank you for your assistance.
 menu_features:
-  Spicy Pineapple Chipotle Margarita: 9.49
-  Chorizo Breakfast Burrito: 8.99
+  Al Pastor Quesadilla: 13.37
+  Crispy Avocado Fritters: 6.98
+  Blue Corn Enchilada Bake: 14.46
 amenity_features: []

@@ -1,33 +1,43 @@
 id: business_0144
-name: Palma & Pico
-description: A vibrant modern eatery celebrating the fresh, lively flavors of Mexican
-  and Tex-Mex cuisine. Enjoy creative tacos, zesty salsas, and refreshing drinks in
-  a bright, inviting setting.
+name: El Mercado de Sabores
+description: Experience vibrant Mexican and Tex-Mex flavors at El Mercado de Sabores,
+  where traditional favorites meet modern twists. Savor fresh drinks, sizzling entrees,
+  and rich desserts in a lively and welcoming atmosphere.
 rating: 1.0
 progenitor_customer: customer_0048
 menu_features:
-  Creamy Avocado Smoothie: 4.96
-  Crispy Tinga Chicken Tacos: 11.05
-  Hibiscus Agua Fresca: 3.47
-  Pineapple Pico de Gallo Nachos: 9.72
-  Margarita Grilled Chicken: 16.04
-  Crispy Fish Tacos: 13.0
-  Golden Tequila Sunrise: 7.24
-  Raspberry Chipotle Barbecue Ribs: 11.7
-  Baja Fish Tacos: 13.2
-  Pineapple Chipotle Salsa & Chips: 6.29
-  Coconut Lime Flan: 6.46
+  Blueberry Agave Agua Fresca: 4.32
+  Queso Fundido Supreme: 9.16
+  Horchata Cold Brew Coffee: 5.92
+  Hatch Green Chile Burger: 14.31
+  Caramelized Plantain Empanadas: 6.0
+  Roasted Poblano Soup: 6.06
+  Chipotle Chicken Burrito Bowl: 12.48
+  Raspberry Jalapeno Mojito: 9.04
+  Street Style Corn on the Cob: 5.17
+  Agave Lime Chicken Skewers: 11.7
+  Hibiscus Iced Tea: 3.21
+  Sizzling Carne Asada: 13.98
+  Midnight Mole Enchiladas: 13.47
+  Tex-Mex Big Breakfast Bowl: 13.12
+  Pineapple Habanero Salsa: 3.61
+  Margarita Lime Cheesecake: 5.97
 amenity_features: {}
-min_price_factor: 0.68
+min_price_factor: 0.63
 minimum_menu_prices:
-  Creamy Avocado Smoothie: 3.37
-  Crispy Tinga Chicken Tacos: 7.51
-  Hibiscus Agua Fresca: 2.36
-  Pineapple Pico de Gallo Nachos: 6.61
-  Margarita Grilled Chicken: 10.91
-  Crispy Fish Tacos: 8.84
-  Golden Tequila Sunrise: 4.92
-  Raspberry Chipotle Barbecue Ribs: 7.96
-  Baja Fish Tacos: 8.98
-  Pineapple Chipotle Salsa & Chips: 4.28
-  Coconut Lime Flan: 4.39
+  Blueberry Agave Agua Fresca: 2.72
+  Queso Fundido Supreme: 5.77
+  Horchata Cold Brew Coffee: 3.73
+  Hatch Green Chile Burger: 9.02
+  Caramelized Plantain Empanadas: 3.78
+  Roasted Poblano Soup: 3.82
+  Chipotle Chicken Burrito Bowl: 7.86
+  Raspberry Jalapeno Mojito: 5.7
+  Street Style Corn on the Cob: 3.26
+  Agave Lime Chicken Skewers: 7.37
+  Hibiscus Iced Tea: 2.02
+  Sizzling Carne Asada: 9.32
+  Midnight Mole Enchiladas: 8.49
+  Tex-Mex Big Breakfast Bowl: 8.27
+  Pineapple Habanero Salsa: 2.27
+  Margarita Lime Cheesecake: 3.76

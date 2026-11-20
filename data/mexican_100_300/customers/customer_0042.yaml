@@ -1,10 +1,9 @@
 id: customer_0042
-name: Hannah Evans
-request: 'I am looking to place an order for the following items from a business that
-  can provide both: 1 Honey Chipotle Shrimp Bowl and 1 Black Bean & Cheese Enchiladas.
-  Please assist me in finding a business that can fulfill this order, as I intend
-  to purchase these items. Thank you for your help.'
+name: Nancy Kim
+request: Could you please locate a business that offers both a Passionfruit Agua Fresca
+  and Ranchero Steak Fajitas? I intend to place an order for 1 Passionfruit Agua Fresca
+  and 1 Ranchero Steak Fajitas. Thank you.
 menu_features:
-  Honey Chipotle Shrimp Bowl: 14.99
-  Black Bean & Cheese Enchiladas: 11.49
+  Passionfruit Agua Fresca: 4.68
+  Ranchero Steak Fajitas: 20.52
 amenity_features: []

@@ -1,46 +1,33 @@
 id: business_0081
-name: Salsa & Skewers
-description: Experience a vibrant twist on Mexican and Tex-Mex cuisine, featuring
-  zesty salsas, sizzling skewers, and creative street food favorites. Whether you
-  crave fresh flavors or bold spices, there's something for every palate in a lively,
-  welcoming atmosphere.
+name: Salsa & Skewer Social
+description: Savor bold Mexican and Tex-Mex flavors in a vibrant, welcoming space.
+  From savory grilled specialties to fresh salads and classic desserts, there's a
+  fiesta on every plate.
 rating: 1.0
 progenitor_customer: customer_0027
 menu_features:
-  Pineapple Pico de Gallo Salsa: 5.07
-  Chili Lime Shrimp Skewers: 10.18
-  Hatch Green Chile Stew: 9.53
-  Minty Mojito Refresher: 7.29
-  Caramelized Onion Queso Dip: 8.44
-  Spiced Chocolate Tres Leches: 6.91
-  Smoky BBQ Pork Tostadas: 10.68
-  Tangy Tomato Salsa Soup: 7.41
-  Crispy Avocado Burrito: 12.28
-  Smoky Chipotle Black Bean Soup: 9.08
-  Classic Tortilla Soup: 5.2
-  Chili Lime Street Corn: 6.04
-  Margarita Lime Cheesecake: 6.31
-  Chipotle Lime Chicken Skewers: 12.59
-  Spice-Rubbed Grilled Fajitas: 13.03
-  Honey-Lime Grilled Shrimp: 15.28
-  Creamy Jalapeno Corn Fritters: 7.22
+  Verde Ranchero Huevos: 10.11
+  Frozen Strawberry Margarita: 10.05
+  Loaded Nacho Fiesta: 8.03
+  Loaded Nacho Fries: 8.82
+  Classic Flan Delight: 7.13
+  Pico de Gallo Chicken Salad: 10.89
+  Honey-Lime Grilled Salmon: 15.14
+  Ancho Honey-Glazed Salmon: 14.31
+  Honey Lime Grilled Corn: 4.85
+  Grilled Shrimp Skewers: 15.7
+  Classic Carne Asada Burrito: 14.92
 amenity_features: {}
-min_price_factor: 0.71
+min_price_factor: 0.94
 minimum_menu_prices:
-  Pineapple Pico de Gallo Salsa: 3.6
-  Chili Lime Shrimp Skewers: 7.23
-  Hatch Green Chile Stew: 6.77
-  Minty Mojito Refresher: 5.18
-  Caramelized Onion Queso Dip: 5.99
-  Spiced Chocolate Tres Leches: 4.91
-  Smoky BBQ Pork Tostadas: 7.58
-  Tangy Tomato Salsa Soup: 5.26
-  Crispy Avocado Burrito: 8.72
-  Smoky Chipotle Black Bean Soup: 6.45
-  Classic Tortilla Soup: 3.69
-  Chili Lime Street Corn: 4.29
-  Margarita Lime Cheesecake: 4.48
-  Chipotle Lime Chicken Skewers: 8.94
-  Spice-Rubbed Grilled Fajitas: 9.25
-  Honey-Lime Grilled Shrimp: 10.85
-  Creamy Jalapeno Corn Fritters: 5.13
+  Verde Ranchero Huevos: 9.5
+  Frozen Strawberry Margarita: 6.79
+  Loaded Nacho Fiesta: 7.55
+  Loaded Nacho Fries: 8.29
+  Classic Flan Delight: 6.7
+  Pico de Gallo Chicken Salad: 10.24
+  Honey-Lime Grilled Salmon: 14.23
+  Ancho Honey-Glazed Salmon: 13.45
+  Honey Lime Grilled Corn: 4.56
+  Grilled Shrimp Skewers: 14.76
+  Classic Carne Asada Burrito: 14.02

@@ -1,33 +1,42 @@
 id: business_0019
-name: Cocina Vibrante
-description: Dive into the bold flavors and refreshing drinks of our modern Mexican
-  kitchen, where spice meets sweetness in every dish. Experience a vibrant twist on
-  classic favorites in a lively, welcoming setting.
+name: "Saz\xF3n Sunrise Cantina"
+description: "Start your day or unwind in the evening with flavorful Tex-Mex inspirations\
+  \ and vibrant Mexican classics made from the freshest ingredients. Saz\xF3n Sunrise\
+  \ Cantina offers a warm, festive atmosphere and refreshing drinks perfect for any\
+  \ occasion."
 rating: 1.0
 progenitor_customer: customer_0007
 menu_features:
-  Black Bean and Cilantro Rice: 3.61
-  Tamarind Spiced Agua Fresca: 3.54
-  Spicy Chocolate Churros: 5.21
-  Warm Cinnamon Churros: 7.3
-  Cinnamon Sugar Churros: 6.39
-  Passion Fruit Mojito: 10.14
-  Creamy Avocado Smoothie: 4.9
-  Ultimate Nacho Platter: 8.13
-  Coconut Flan Delight: 7.36
-  Classic Beef Barbacoa: 16.34
-  Spicy Pineapple Salsa Dip: 5.41
+  Tex-Mex Breakfast Skillet: 8.71
+  Spicy Beef Enchilada Bake: 12.9
+  Tamale Pie Casserole: 12.3
+  Roasted Poblano Corn Chowder: 8.0
+  Avocado & Tomato Breakfast Tostadas: 8.36
+  Grilled Shrimp Skewers: 12.68
+  Horchata Iced Latte: 4.46
+  Caramel Corn Flan: 7.42
+  Honey-Lime Shrimp Skewers: 16.37
+  Hatch Green Chile Stew: 9.25
+  Roasted Poblano Soup: 7.07
+  Grilled Pineapple Mojito: 9.52
+  "Strawberry Jalape\xF1o Mocktail": 5.4
+  Pineapple Jalapeno Margarita: 8.84
+  Salted Caramel Margarita: 9.39
 amenity_features: {}
-min_price_factor: 0.85
+min_price_factor: 0.75
 minimum_menu_prices:
-  Black Bean and Cilantro Rice: 3.07
-  Tamarind Spiced Agua Fresca: 3.01
-  Spicy Chocolate Churros: 4.43
-  Warm Cinnamon Churros: 6.21
-  Cinnamon Sugar Churros: 5.43
-  Passion Fruit Mojito: 8.62
-  Creamy Avocado Smoothie: 4.17
-  Ultimate Nacho Platter: 6.91
-  Coconut Flan Delight: 6.26
-  Classic Beef Barbacoa: 13.89
-  Spicy Pineapple Salsa Dip: 4.6
+  Tex-Mex Breakfast Skillet: 6.53
+  Spicy Beef Enchilada Bake: 8.89
+  Tamale Pie Casserole: 9.23
+  Roasted Poblano Corn Chowder: 6.0
+  Avocado & Tomato Breakfast Tostadas: 6.27
+  Grilled Shrimp Skewers: 9.51
+  Horchata Iced Latte: 3.34
+  Caramel Corn Flan: 5.56
+  Honey-Lime Shrimp Skewers: 12.28
+  Hatch Green Chile Stew: 6.94
+  Roasted Poblano Soup: 5.3
+  Grilled Pineapple Mojito: 7.14
+  "Strawberry Jalape\xF1o Mocktail": 4.05
+  Pineapple Jalapeno Margarita: 6.63
+  Salted Caramel Margarita: 7.04

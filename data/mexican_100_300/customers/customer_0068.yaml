@@ -1,11 +1,10 @@
 id: customer_0068
-name: Matthew Cohen
-request: Could you please help me find a business that offers the following menu items
-  so I can place an order? I need 1 Al Pastor Quesadilla, 1 Chipotle Chicken Burrito
-  Bowl, and 1 Crispy Fish Street Tacos. It is important that all these items are available
-  from the same business. Thank you!
+name: Lucas Lee
+request: Could you please assist me in placing an order for the following items from
+  a business that offers them? I need 1 Chipotle BBQ Taco and 1 Citrus Grilled Chicken
+  Taco. It is important to me that the business meets all these requirements, as I
+  intend to make a purchase. Thank you for your help!
 menu_features:
-  Al Pastor Quesadilla: 11.99
-  Chipotle Chicken Burrito Bowl: 12.49
-  Crispy Fish Street Tacos: 14.99
+  Chipotle BBQ Tacos: 15.21
+  Citrus Grilled Chicken Tacos: 14.91
 amenity_features: []

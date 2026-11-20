@@ -1,45 +1,39 @@
 id: business_0139
-name: Cantina del Mezquite
-description: Savor the vibrant flavors of Mexico and the Southwest at Cantina del
-  Mezquite, where classic dishes meet fresh, colorful ingredients. Enjoy delicious
-  plates and signature cocktails in a warm, inviting atmosphere.
+name: Cilantro Sunrise
+description: Wake up your senses with bold, fresh flavors and a vibrant twist on classic
+  Mexican and Tex-Mex favorites. From signature lattes to creative street snacks,
+  Cilantro Sunrise blends tradition and innovation in every bite.
 rating: 1.0
 progenitor_customer: customer_0047
 menu_features:
-  Chipotle Shrimp Skewers: 13.38
-  Roasted Pecan Flan: 6.38
-  Crispy Carnitas Quesadilla: 10.45
-  Loaded Nacho Platter: 10.57
-  Black Bean Chili Bowl: 10.08
-  Tropical Pineapple Salsa: 2.99
-  Honey Lime Grilled Chicken: 15.42
-  Frozen Strawberry Daiquiri: 8.83
-  Grilled Steak Quesadilla: 12.82
-  Three Cheese Sope: 9.82
-  Crispy Carnitas Tacos: 12.27
-  Salted Caramel Margarita: 9.65
-  Baja Fish Tacos: 11.55
-  Roasted Corn Enchiladas: 11.4
-  Breakfast Chorizo Tostadas: 8.72
-  Golden Tequila Sunrise: 8.57
-  Loaded Nacho Supreme: 10.28
+  Horchata Latte: 4.74
+  Fresh Lime and Cilantro Guacamole: 8.73
+  Refreshing Agua Fresca Trio: 8.02
+  Roasted Pumpkin Tamale: 6.68
+  Chipotle Bean Burrito: 9.79
+  Breakfast Burrito Bonanza: 9.02
+  Loaded Nacho Skillet: 10.78
+  Three-Cheese Queso Dip: 7.76
+  Loaded Nacho Fries: 8.31
+  Blue Corn Tostada Salad: 11.37
+  Sweet Chili Lime Elote: 4.05
+  Smoky Black Bean Soup: 7.11
+  Smoky Ancho Chicken Enchiladas: 15.73
+  Tamale Trio Sampler: 12.31
 amenity_features: {}
-min_price_factor: 0.66
+min_price_factor: 0.63
 minimum_menu_prices:
-  Chipotle Shrimp Skewers: 8.83
-  Roasted Pecan Flan: 4.21
-  Crispy Carnitas Quesadilla: 6.9
-  Loaded Nacho Platter: 6.98
-  Black Bean Chili Bowl: 6.65
-  Tropical Pineapple Salsa: 1.97
-  Honey Lime Grilled Chicken: 10.18
-  Frozen Strawberry Daiquiri: 5.83
-  Grilled Steak Quesadilla: 8.46
-  Three Cheese Sope: 6.48
-  Crispy Carnitas Tacos: 8.1
-  Salted Caramel Margarita: 6.37
-  Baja Fish Tacos: 7.62
-  Roasted Corn Enchiladas: 7.52
-  Breakfast Chorizo Tostadas: 5.76
-  Golden Tequila Sunrise: 5.66
-  Loaded Nacho Supreme: 6.78
+  Horchata Latte: 2.99
+  Fresh Lime and Cilantro Guacamole: 5.93
+  Refreshing Agua Fresca Trio: 5.05
+  Roasted Pumpkin Tamale: 4.21
+  Chipotle Bean Burrito: 6.17
+  Breakfast Burrito Bonanza: 5.68
+  Loaded Nacho Skillet: 6.79
+  Three-Cheese Queso Dip: 4.89
+  Loaded Nacho Fries: 5.24
+  Blue Corn Tostada Salad: 7.16
+  Sweet Chili Lime Elote: 2.98
+  Smoky Black Bean Soup: 4.48
+  Smoky Ancho Chicken Enchiladas: 9.91
+  Tamale Trio Sampler: 7.76

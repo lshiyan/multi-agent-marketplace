@@ -1,43 +1,38 @@
 id: business_0231
-name: "Saz\xF3n de Canela"
-description: Experience the bold flavors and vibrant spirit of Mexican and Tex-Mex
-  cuisine in a warm, welcoming atmosphere. From sizzling meats to decadent chocolate
-  desserts, every dish is crafted to delight your senses.
+name: Citrus & Smoke Cantina
+description: Experience a modern twist on Mexican and Tex-Mex favorites, where fresh
+  flavors, zesty accents, and smoky notes come together in a vibrant, welcoming space.
+  Savor creative plates inspired by coastal and classic traditions with a refreshing,
+  contemporary vibe.
 rating: 1.0
 progenitor_customer: customer_0077
 menu_features:
-  Breakfast Burrito Bowl: 8.28
-  "Cheesy Jalape\xF1o Queso Dip": 8.18
-  Hatch Green Chile Quesadilla: 12.12
-  Mexican Chocolate Flan: 6.09
-  Chocolate Cinnamon Flan: 7.82
-  Smoky BBQ Pork Tostadas: 12.85
-  Sizzling Carne Asada: 15.15
-  Citrus Grilled Chicken Tacos: 12.55
-  Mexican Hot Chocolate: 4.52
-  Rich Chocolate Tres Leches: 7.52
-  Roasted Tomato Salsa Dip: 3.66
-  Cilantro Lime Shrimp Skewers: 13.07
-  Black Bean Avocado Enchiladas: 11.33
-  Spicy Chorizo Enchiladas: 12.45
-  Blueberry Agave Mojito: 9.06
-  Smoky Chipotle BBQ Ribs: 17.22
+  Coconut Lime Flan: 5.4
+  Pineapple Pico de Gallo Salsa: 6.5
+  Smoky Lime Quinoa Salad: 9.26
+  Smoky BBQ Pork Tostadas: 11.3
+  Baja Fish Taco Plate: 11.3
+  Huevos Rancheros: 10.68
+  Cinnamon Churro Bites: 2.85
+  Warm Cinnamon Churros: 5.82
+  Roasted Poblano and Cheese Empanadas: 11.09
+  Creamy Avocado Soup: 8.48
+  Bacon Wrapped Jalapeno Bites: 6.39
+  Horchata Cold Brew Coffee: 5.5
+  Zesty Lime Shrimp Salad: 11.95
 amenity_features: {}
-min_price_factor: 0.65
+min_price_factor: 0.61
 minimum_menu_prices:
-  Breakfast Burrito Bowl: 5.38
-  "Cheesy Jalape\xF1o Queso Dip": 5.32
-  Hatch Green Chile Quesadilla: 7.88
-  Mexican Chocolate Flan: 3.96
-  Chocolate Cinnamon Flan: 5.08
-  Smoky BBQ Pork Tostadas: 8.35
-  Sizzling Carne Asada: 9.85
-  Citrus Grilled Chicken Tacos: 8.16
-  Mexican Hot Chocolate: 2.94
-  Rich Chocolate Tres Leches: 4.89
-  Roasted Tomato Salsa Dip: 2.38
-  Cilantro Lime Shrimp Skewers: 8.5
-  Black Bean Avocado Enchiladas: 7.36
-  Spicy Chorizo Enchiladas: 8.09
-  Blueberry Agave Mojito: 5.89
-  Smoky Chipotle BBQ Ribs: 11.19
+  Coconut Lime Flan: 3.29
+  Pineapple Pico de Gallo Salsa: 3.96
+  Smoky Lime Quinoa Salad: 5.65
+  Smoky BBQ Pork Tostadas: 6.89
+  Baja Fish Taco Plate: 8.43
+  Huevos Rancheros: 6.51
+  Cinnamon Churro Bites: 2.85
+  Warm Cinnamon Churros: 3.55
+  Roasted Poblano and Cheese Empanadas: 6.76
+  Creamy Avocado Soup: 5.17
+  Bacon Wrapped Jalapeno Bites: 5.23
+  Horchata Cold Brew Coffee: 3.35
+  Zesty Lime Shrimp Salad: 7.29

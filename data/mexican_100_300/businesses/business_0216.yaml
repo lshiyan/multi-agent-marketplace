@@ -1,48 +1,41 @@
 id: business_0216
-name: Tostada Trail
-description: Tostada Trail brings bold flavors and vibrant twists to classic Mexican
-  and Tex-Mex fare, with a colorful menu that spotlights house-made tostadas, zesty
-  starters, and fresh drinks. Embark on a flavor-filled journey from sunrise breakfasts
-  to lively evening bites in a warm, welcoming space.
+name: "Pl\xE1tano & Pepper"
+description: "Experience bold Mexican and Tex-Mex flavors with a colorful twist at\
+  \ Pl\xE1tano & Pepper. Enjoy vibrant appetizers, zesty mains, and irresistible desserts\u2014\
+  perfect for any fiesta."
 rating: 1.0
 progenitor_customer: customer_0072
 menu_features:
-  Bacon and Egg Tostada: 10.08
-  Blue Corn Tortilla Soup: 7.78
-  Smoky Chipotle BBQ Nachos: 15.13
-  Fiesta Street Corn: 5.79
-  Avocado & Tomato Breakfast Tostadas: 8.1
-  Caramel Corn Flan: 6.8
-  Creamy Jalapeno Corn Fritters: 9.82
-  Classic Lime Margarita: 8.06
-  Bacon Wrapped Jalapeno Bites: 8.83
-  Spicy Pork Tamales: 11.36
-  Mango Agua Fresca: 3.31
-  Grilled Pineapple Salmon: 15.18
-  Chipotle Lime Chicken Skewers: 10.05
-  Roasted Poblano Corn Chowder: 8.09
-  Zesty Shrimp Quesadillas: 14.58
-  Fajita Veggie Burrito Bowl: 10.94
-  Grilled Steak Quesadilla: 10.63
-  Zesty Lime Shrimp Tostadas: 11.89
+  Spicy Black Bean Nacho Platter: 11.91
+  Black Bean and Sweet Potato Empanadas: 7.62
+  Tomatillo Ranch Enchiladas: 14.13
+  Warm Churro Bites: 3.87
+  Caramelized Plantain Empanadas: 5.32
+  Pork Carnitas Platter: 14.35
+  Zesty Lime Grilled Chicken: 15.02
+  Carne Asada Fajitas: 12.82
+  Chipotle Chicken Enchiladas: 13.13
+  Tropical Pineapple Salsa: 4.16
+  Loaded Nacho Platter: 7.74
+  Mango Agua Fresca: 3.74
+  Street Style Quesadillas: 8.74
+  Roasted Corn Enchiladas: 9.24
+  Toasted Coconut Flan: 6.24
 amenity_features: {}
-min_price_factor: 0.76
+min_price_factor: 0.68
 minimum_menu_prices:
-  Bacon and Egg Tostada: 7.66
-  Blue Corn Tortilla Soup: 5.91
-  Smoky Chipotle BBQ Nachos: 11.5
-  Fiesta Street Corn: 4.4
-  Avocado & Tomato Breakfast Tostadas: 6.16
-  Caramel Corn Flan: 5.17
-  Creamy Jalapeno Corn Fritters: 7.46
-  Classic Lime Margarita: 6.13
-  Bacon Wrapped Jalapeno Bites: 6.71
-  Spicy Pork Tamales: 8.63
-  Mango Agua Fresca: 2.52
-  Grilled Pineapple Salmon: 11.54
-  Chipotle Lime Chicken Skewers: 7.64
-  Roasted Poblano Corn Chowder: 6.15
-  Zesty Shrimp Quesadillas: 11.08
-  Fajita Veggie Burrito Bowl: 8.31
-  Grilled Steak Quesadilla: 8.08
-  Zesty Lime Shrimp Tostadas: 9.04
+  Spicy Black Bean Nacho Platter: 8.1
+  Black Bean and Sweet Potato Empanadas: 5.18
+  Tomatillo Ranch Enchiladas: 9.61
+  Warm Churro Bites: 2.63
+  Caramelized Plantain Empanadas: 3.62
+  Pork Carnitas Platter: 9.76
+  Zesty Lime Grilled Chicken: 10.21
+  Carne Asada Fajitas: 8.72
+  Chipotle Chicken Enchiladas: 9.03
+  Tropical Pineapple Salsa: 2.83
+  Loaded Nacho Platter: 5.26
+  Mango Agua Fresca: 2.54
+  Street Style Quesadillas: 5.94
+  Roasted Corn Enchiladas: 6.28
+  Toasted Coconut Flan: 4.24

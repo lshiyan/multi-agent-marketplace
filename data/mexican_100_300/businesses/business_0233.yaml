@@ -1,37 +1,41 @@
 id: business_0233
-name: "Ma\xEDz Moderno"
-description: "Ma\xEDz Moderno serves up creative, vibrant Mexican and Tex-Mex cuisine\
-  \ in a lively, welcoming setting. Enjoy bold flavors and fresh ingredients with\
-  \ a modern twist on classic favorites."
+name: Churro & Cacao Cocina
+description: Churro & Cacao Cocina celebrates vibrant flavors and sweet indulgence
+  with a fresh take on Mexican and Tex-Mex classics. Enjoy a lively atmosphere and
+  unexpected combinations that turn every meal into a fiesta.
 rating: 1.0
 progenitor_customer: customer_0078
 menu_features:
-  Street Style Corn on the Cob: 2.69
-  Chocolate Mole Chicken: 16.42
-  Tamale Trio Sampler: 10.35
-  Ranchero Steak Fajitas: 18.1
-  Hibiscus Agua Fresca: 3.47
-  Caramelized Banana Flan: 6.61
-  Zesty Shrimp Ceviche: 11.62
-  Creamy Avocado Caesar Salad: 9.18
-  Spicy Cucumber Margarita: 8.3
-  Roasted Red Pepper Quesadilla: 7.86
-  Spicy Chicken Chimichanga: 10.17
-  Sizzling Steak Fajitas: 11.95
-  Strawberry Jalapeno Lemonade: 4.22
+  Mexican Spiced Chocolate Cake: 7.43
+  Chocolate Sopapilla Bites: 4.44
+  Cocoa Dusted Churro Bites: 6.22
+  Tomatillo Salsa Verde Nachos: 9.7
+  Tamarind Spiced Agua Fresca: 3.61
+  Blueberry Jalapeno Margarita: 12.5
+  Pineapple Jalapeno Margarita: 6.73
+  Honey-Lime Shrimp Skewers: 11.89
+  Hatch Green Chile Quesadilla: 11.62
+  Carne Asada Fajitas: 16.79
+  Zesty Shrimp Quesadillas: 9.74
+  Hatch Chile Queso Dip: 8.2
+  Tamale Pie Casserole: 16.06
+  Zesty Shrimp Ceviche: 13.66
+  Vanilla Flan with Caramel Sauce: 5.72
 amenity_features: {}
-min_price_factor: 0.85
+min_price_factor: 0.75
 minimum_menu_prices:
-  Street Style Corn on the Cob: 2.29
-  Chocolate Mole Chicken: 13.96
-  Tamale Trio Sampler: 8.8
-  Ranchero Steak Fajitas: 15.39
-  Hibiscus Agua Fresca: 2.95
-  Caramelized Banana Flan: 5.62
-  Zesty Shrimp Ceviche: 9.88
-  Creamy Avocado Caesar Salad: 7.8
-  Spicy Cucumber Margarita: 7.06
-  Roasted Red Pepper Quesadilla: 6.68
-  Spicy Chicken Chimichanga: 8.64
-  Sizzling Steak Fajitas: 10.16
-  Strawberry Jalapeno Lemonade: 3.59
+  Mexican Spiced Chocolate Cake: 5.57
+  Chocolate Sopapilla Bites: 3.33
+  Cocoa Dusted Churro Bites: 4.67
+  Tomatillo Salsa Verde Nachos: 7.27
+  Tamarind Spiced Agua Fresca: 2.71
+  Blueberry Jalapeno Margarita: 8.75
+  Pineapple Jalapeno Margarita: 5.05
+  Honey-Lime Shrimp Skewers: 8.92
+  Hatch Green Chile Quesadilla: 8.71
+  Carne Asada Fajitas: 12.59
+  Zesty Shrimp Quesadillas: 7.3
+  Hatch Chile Queso Dip: 6.15
+  Tamale Pie Casserole: 12.04
+  Zesty Shrimp Ceviche: 10.25
+  Vanilla Flan with Caramel Sauce: 4.29

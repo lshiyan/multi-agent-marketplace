@@ -1,36 +1,39 @@
 id: business_0026
-name: Fuego & Fresco
-description: Experience bold flavors and fresh ingredients with every bite at Fuego
-  & Fresco, where the vibrant spirit of Mexican and Tex-Mex cuisine comes alive in
-  every dish and drink. Join us for a sizzling meal that celebrates both tradition
-  and creativity.
+name: Lime & Leaf Lounge
+description: Experience vibrant Mexican and Tex-Mex flavors in a welcoming atmosphere,
+  where zesty, fresh ingredients and creative drinks take center stage. Enjoy a unique
+  blend of classic and modern favorites crafted with a wholesome twist.
 rating: 1.0
 progenitor_customer: customer_0009
 menu_features:
-  Tamarind Glazed Wings: 13.17
-  Loaded Nacho Fries: 9.27
-  Avocado Lime Grilled Shrimp: 15.33
-  Ancho Chile BBQ Ribs: 22.07
-  Queso Fundido with Chorizo: 9.86
-  Black Bean & Corn Queso Dip: 7.92
-  Spicy Mango Margarita: 9.98
-  Passionfruit Paloma: 9.47
-  Roasted Pecan Flan: 4.41
-  Sizzling Fajita Plate: 17.42
-  Hibiscus Agua Fresca: 3.75
-  Mexican Hot Chocolate: 4.34
+  Classic Horchata Delight: 3.09
+  Baja Fish Taco Plate: 12.22
+  Chili Lime Jicama Sticks: 4.93
+  Crispy Avocado Nachos: 10.67
+  Hibiscus Iced Tea: 3.51
+  Creamy Avocado Smoothie: 4.84
+  Adobo Roasted Corn Salad: 7.69
+  Avocado Lime Crema Tostadas: 8.94
+  Horchata Latte: 4.82
+  Mexican Street Corn Salad: 7.84
+  Smoky Lime Quinoa Salad: 10.61
+  Tex-Mex Breakfast Skillet: 8.71
+  Honey-Lime Grilled Salmon: 12.54
+  Veggie Fajita Platter: 11.69
 amenity_features: {}
-min_price_factor: 0.75
+min_price_factor: 0.78
 minimum_menu_prices:
-  Tamarind Glazed Wings: 9.88
-  Loaded Nacho Fries: 6.95
-  Avocado Lime Grilled Shrimp: 11.5
-  Ancho Chile BBQ Ribs: 16.55
-  Queso Fundido with Chorizo: 7.39
-  Black Bean & Corn Queso Dip: 5.94
-  Spicy Mango Margarita: 7.49
-  Passionfruit Paloma: 7.1
-  Roasted Pecan Flan: 3.31
-  Sizzling Fajita Plate: 13.07
-  Hibiscus Agua Fresca: 2.81
-  Mexican Hot Chocolate: 3.25
+  Classic Horchata Delight: 3.09
+  Baja Fish Taco Plate: 10.86
+  Chili Lime Jicama Sticks: 3.85
+  Crispy Avocado Nachos: 8.32
+  Hibiscus Iced Tea: 2.74
+  Creamy Avocado Smoothie: 3.78
+  Adobo Roasted Corn Salad: 6.0
+  Avocado Lime Crema Tostadas: 6.97
+  Horchata Latte: 3.76
+  Mexican Street Corn Salad: 6.12
+  Smoky Lime Quinoa Salad: 8.28
+  Tex-Mex Breakfast Skillet: 6.79
+  Honey-Lime Grilled Salmon: 9.78
+  Veggie Fajita Platter: 10.44

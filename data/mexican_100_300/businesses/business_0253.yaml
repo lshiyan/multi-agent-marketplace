@@ -1,35 +1,41 @@
 id: business_0253
-name: Smoky Citrus Cantina
-description: Experience vibrant Mexican and Tex-Mex flavors with a modern twist, featuring
-  smoky spices, fresh citrus, and bold, garden-inspired dishes in a lively, contemporary
-  setting.
+name: Queso & Quench Cantina
+description: Dive into a lively cantina experience where melty cheese meets zesty
+  refreshment. Savor vibrant Tex-Mex flavors and creative drinks in a warm, inviting
+  atmosphere.
 rating: 1.0
 progenitor_customer: customer_0085
 menu_features:
-  Smoky Ancho Chicken Enchiladas: 11.0
-  Chipotle Bean Burrito: 10.39
-  Crispy Avocado Bites: 8.91
-  Grilled Pineapple Salmon: 20.06
-  Coconut Lime Margarita: 8.77
-  Sweet Corn Tostadas: 7.76
-  Spicy Black Bean Nacho Platter: 10.84
-  Southwest Chopped Salad: 9.22
-  Smoky Black Bean Nachos: 10.71
-  Passionfruit Agua Fresca: 2.38
-  Grilled Avocado and Quinoa Bowl: 9.85
-  Ancho Chile BBQ Ribs: 16.74
+  Hatch Green Chile Quesadilla: 15.03
+  Blueberry Tequila Sunrise: 11.04
+  Black Bean Taco Bowl: 11.23
+  Breakfast Burrito Bonanza: 8.97
+  Citrus Cilantro Rice: 3.54
+  Classic Flan Delight: 6.61
+  Spicy Chicken Chimichanga: 9.39
+  Molten Queso Fundido: 8.34
+  Sizzling Fajita Skillet: 14.91
+  Tequila Lime Chicken Wings: 8.89
+  Creamy Queso Dip: 8.08
+  Fresh Watermelon Aqua Fresca: 4.41
+  Chili Lime Shrimp Skewers: 10.48
+  Creamy Avocado Caesar Salad: 11.28
+  Minty Mojito Refresher: 8.08
 amenity_features: {}
-min_price_factor: 0.76
+min_price_factor: 0.7
 minimum_menu_prices:
-  Smoky Ancho Chicken Enchiladas: 8.36
-  Chipotle Bean Burrito: 7.9
-  Crispy Avocado Bites: 6.77
-  Grilled Pineapple Salmon: 15.25
-  Coconut Lime Margarita: 6.67
-  Sweet Corn Tostadas: 5.9
-  Spicy Black Bean Nacho Platter: 8.24
-  Southwest Chopped Salad: 7.01
-  Smoky Black Bean Nachos: 8.14
-  Passionfruit Agua Fresca: 1.81
-  Grilled Avocado and Quinoa Bowl: 7.49
-  Ancho Chile BBQ Ribs: 12.72
+  Hatch Green Chile Quesadilla: 10.52
+  Blueberry Tequila Sunrise: 7.73
+  Black Bean Taco Bowl: 7.86
+  Breakfast Burrito Bonanza: 6.28
+  Citrus Cilantro Rice: 3.54
+  Classic Flan Delight: 4.63
+  Spicy Chicken Chimichanga: 6.57
+  Molten Queso Fundido: 5.84
+  Sizzling Fajita Skillet: 10.44
+  Tequila Lime Chicken Wings: 7.62
+  Creamy Queso Dip: 5.66
+  Fresh Watermelon Aqua Fresca: 3.09
+  Chili Lime Shrimp Skewers: 8.79
+  Creamy Avocado Caesar Salad: 7.9
+  Minty Mojito Refresher: 5.66

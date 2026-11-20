@@ -1,37 +1,46 @@
 id: business_0115
-name: Holy Chip & Queso!
-description: Dive into a flavor fiesta where smoky chiles, melty queso, and zesty
-  lime take center stage. Our Tex-Mex kitchen serves up creative takes on classic
-  dishes and refreshing drinks in a vibrant, welcoming atmosphere.
+name: Citrus Ember Cocina
+description: Dive into a vibrant fusion of bold flavors and fresh ingredients, where
+  every dish brings a taste of modern Mexican and Tex-Mex cuisine. Enjoy zesty salads,
+  sizzling grilled favorites, and creative twists on classic plates in a lively, welcoming
+  atmosphere.
 rating: 1.0
 progenitor_customer: customer_0039
 menu_features:
-  Roasted Poblano Corn Chowder: 7.68
-  Spicy Black Bean Enchiladas: 11.85
-  Roasted Red Pepper Quesadilla: 11.83
-  Smoky Chipotle Queso: 6.33
-  Grilled Pineapple Mojito: 9.39
-  Creamy Avocado Smoothie: 4.31
-  Rich Chocolate Tres Leches: 7.69
-  Zesty Lime Chicken Fajitas: 14.31
-  Beef Fajita Skillet: 15.68
-  Coffee Cinnamon Mexican Mocha: 4.95
-  Creamy Poblano Corn Chowder: 6.87
-  Spicy Zucchini Tostadas: 9.86
-  Zesty Lime Shrimp Skewers: 14.44
+  Chipotle Shrimp Skewers: 14.36
+  Chili Lime Watermelon Salad: 8.67
+  Cilantro Lime Shrimp Skewers: 9.17
+  Zesty Lime Shrimp Salad: 14.43
+  Chili Lime Skirt Steak: 20.33
+  Honey Lime Grilled Corn: 4.24
+  Sizzling Pork Carnitas Bowl: 12.08
+  Lime-Garlic Grilled Chicken: 14.36
+  Crispy Avocado Nachos: 9.09
+  Roasted Poblano Soup: 7.02
+  Avocado Lime Enchiladas: 13.99
+  Crispy Fish Baja Bowl: 13.53
+  Cilantro Lime Chicken Tacos: 10.85
+  Mango Jalapeno Slush: 3.74
+  Pineapple Salsa Shrimp Tacos: 13.68
+  Loaded Nacho Fries: 8.39
+  Spicy Black Bean Tacos: 10.07
 amenity_features: {}
-min_price_factor: 0.76
+min_price_factor: 0.82
 minimum_menu_prices:
-  Roasted Poblano Corn Chowder: 5.84
-  Spicy Black Bean Enchiladas: 9.01
-  Roasted Red Pepper Quesadilla: 8.99
-  Smoky Chipotle Queso: 4.81
-  Grilled Pineapple Mojito: 7.14
-  Creamy Avocado Smoothie: 3.28
-  Rich Chocolate Tres Leches: 5.84
-  Zesty Lime Chicken Fajitas: 10.88
-  Beef Fajita Skillet: 11.92
-  Coffee Cinnamon Mexican Mocha: 3.76
-  Creamy Poblano Corn Chowder: 5.22
-  Spicy Zucchini Tostadas: 7.49
-  Zesty Lime Shrimp Skewers: 10.97
+  Chipotle Shrimp Skewers: 11.78
+  Chili Lime Watermelon Salad: 8.04
+  Cilantro Lime Shrimp Skewers: 7.52
+  Zesty Lime Shrimp Salad: 11.83
+  Chili Lime Skirt Steak: 16.67
+  Honey Lime Grilled Corn: 3.48
+  Sizzling Pork Carnitas Bowl: 9.91
+  Lime-Garlic Grilled Chicken: 11.78
+  Crispy Avocado Nachos: 7.45
+  Roasted Poblano Soup: 5.76
+  Avocado Lime Enchiladas: 11.47
+  Crispy Fish Baja Bowl: 11.09
+  Cilantro Lime Chicken Tacos: 9.82
+  Mango Jalapeno Slush: 3.07
+  Pineapple Salsa Shrimp Tacos: 11.22
+  Loaded Nacho Fries: 6.88
+  Spicy Black Bean Tacos: 9.18

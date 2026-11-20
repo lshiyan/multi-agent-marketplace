@@ -1,46 +1,41 @@
 id: business_0254
-name: Crisp & Cocoa Cantina
-description: Delight in a vibrant twist on Mexican and Tex-Mex traditions, where bold
-  flavors and inventive pairings come together in a lively, welcoming atmosphere.
-  From zesty grilled fare to sweet, cinnamon-kissed treats, every bite brings a fresh
-  take on familiar favorites.
+name: Urban Cacao & Corn
+description: Experience a fresh take on Mexican and Tex-Mex cuisine, where classic
+  flavors meet inventive twists. From zesty bowls to decadent desserts and vibrant
+  street food, Urban Cacao & Corn serves up bold, modern eats in a lively atmosphere.
 rating: 1.0
 progenitor_customer: customer_0085
 menu_features:
-  Honey-Lime Grilled Shrimp: 13.03
-  Cocoa Cinnamon Tequila: 8.8
-  Crispy Avocado Bites: 9.44
-  Three-Cheese Chile Rellenos: 14.52
-  Smoky Ancho Chicken Enchiladas: 10.31
-  Roasted Poblano Corn Chowder: 8.42
-  Crispy Fish Tacos: 13.14
-  Three-Cheese Queso Dip: 7.26
-  Grilled Shrimp Skewers: 13.23
-  Tamarind Spiced Agua Fresca: 3.61
-  Crispy Carnitas Quesadilla: 11.82
-  Caramelized Banana Flan: 6.38
-  Breakfast Tostada Stack: 9.59
-  Adobo Pork Sliders: 10.84
-  Chipotle Chicken Enchiladas: 16.33
-  Frozen Strawberry Daiquiri: 7.97
-  Breakfast Chorizo Tostadas: 7.47
+  Chocolate Sopapilla Bites: 4.54
+  Avocado Ranch Burrito Bowl: 10.32
+  Spiced Chocolate Tres Leches: 6.46
+  Street Style Corn on the Cob: 4.85
+  Tex-Mex Big Breakfast Bowl: 9.53
+  Zesty Shrimp Ceviche: 12.84
+  Chili Lime Shrimp Skewers: 10.41
+  Coconut Lime Flan: 6.41
+  Tequila Lime Chicken Wings: 7.92
+  Mexican Coffee Flan: 6.06
+  Vanilla Almond Horchata: 3.51
+  Citrus Cilantro Rice: 2.94
+  Street Corn Quesadilla: 11.58
+  Black Bean Burgers: 10.68
+  Horchata Iced Latte: 4.49
 amenity_features: {}
-min_price_factor: 0.73
+min_price_factor: 0.61
 minimum_menu_prices:
-  Honey-Lime Grilled Shrimp: 9.51
-  Cocoa Cinnamon Tequila: 6.42
-  Crispy Avocado Bites: 6.89
-  Three-Cheese Chile Rellenos: 10.6
-  Smoky Ancho Chicken Enchiladas: 7.53
-  Roasted Poblano Corn Chowder: 6.15
-  Crispy Fish Tacos: 9.59
-  Three-Cheese Queso Dip: 5.3
-  Grilled Shrimp Skewers: 9.66
-  Tamarind Spiced Agua Fresca: 2.64
-  Crispy Carnitas Quesadilla: 8.63
-  Caramelized Banana Flan: 4.66
-  Breakfast Tostada Stack: 7.0
-  Adobo Pork Sliders: 7.91
-  Chipotle Chicken Enchiladas: 11.92
-  Frozen Strawberry Daiquiri: 5.82
-  Breakfast Chorizo Tostadas: 5.45
+  Chocolate Sopapilla Bites: 2.77
+  Avocado Ranch Burrito Bowl: 6.3
+  Spiced Chocolate Tres Leches: 3.94
+  Street Style Corn on the Cob: 2.96
+  Tex-Mex Big Breakfast Bowl: 5.81
+  Zesty Shrimp Ceviche: 7.83
+  Chili Lime Shrimp Skewers: 8.13
+  Coconut Lime Flan: 3.91
+  Tequila Lime Chicken Wings: 6.61
+  Mexican Coffee Flan: 3.7
+  Vanilla Almond Horchata: 2.14
+  Citrus Cilantro Rice: 2.94
+  Street Corn Quesadilla: 7.06
+  Black Bean Burgers: 6.51
+  Horchata Iced Latte: 2.74

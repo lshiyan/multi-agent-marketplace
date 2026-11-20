@@ -1,39 +1,37 @@
 id: business_0156
-name: La Mesa del Poblano
-description: Experience vibrant Mexican and Tex-Mex cuisine in a warm, inviting setting.
-  Our menu features fresh flavors, signature salsas, and savory classics crafted with
-  a modern twist.
+name: Shrimply Irresistible Cantina
+description: A vibrant spot serving up fresh, zesty, and crave-worthy Mexican and
+  Tex-Mex dishes, with plenty of coastal flair and a playful twist. Sip creative margaritas
+  and savor bold flavors in every bite.
 rating: 1.0
 progenitor_customer: customer_0052
 menu_features:
-  Black Bean and Lime Soup: 7.31
-  Tequila Lime Chicken Wings: 11.24
-  Caramelized Onion and Goat Cheese Empanadas: 7.51
-  Salted Caramel Margarita: 8.25
-  Poblano Pepper Queso Dip: 7.11
-  Grilled Pineapple Dessert Quesadilla: 7.23
-  Sweet Plantain Empanadas: 7.11
-  Pineapple Habanero Salsa: 4.7
-  Tex-Mex Fajita Wrap: 11.46
-  Roasted Red Pepper Quesadilla: 11.38
-  "Cheesy Jalape\xF1o Quesadillas": 8.89
-  Roasted Poblano Quesadilla: 13.2
-  Black Bean and Corn Fiesta Salad: 10.95
-  Smoky Black Bean Enchiladas: 14.33
+  Coconut Lime Shrimp Skewers: 14.86
+  Grilled Pineapple & Shrimp Quesadillas: 12.48
+  Honey-Lime Grilled Shrimp: 13.93
+  Cucumber Jalapeno Agua Fresca: 4.55
+  Spicy Black Bean Nacho Platter: 10.11
+  Mango Habanero Margarita: 7.68
+  Chipotle Bean Burrito: 9.66
+  Mango Jalapeno Salsa and Chips: 6.96
+  Mexican Coffee Flan: 8.84
+  Crispy Fish Baja Bowl: 13.69
+  Chorizo Breakfast Tacos: 11.84
+  Tequila Sunrise Smoothie: 6.8
+  Salted Caramel Margarita: 8.39
 amenity_features: {}
-min_price_factor: 0.82
+min_price_factor: 0.78
 minimum_menu_prices:
-  Black Bean and Lime Soup: 5.99
-  Tequila Lime Chicken Wings: 9.22
-  Caramelized Onion and Goat Cheese Empanadas: 6.16
-  Salted Caramel Margarita: 6.76
-  Poblano Pepper Queso Dip: 5.83
-  Grilled Pineapple Dessert Quesadilla: 5.93
-  Sweet Plantain Empanadas: 5.83
-  Pineapple Habanero Salsa: 3.85
-  Tex-Mex Fajita Wrap: 9.4
-  Roasted Red Pepper Quesadilla: 9.33
-  "Cheesy Jalape\xF1o Quesadillas": 7.29
-  Roasted Poblano Quesadilla: 10.82
-  Black Bean and Corn Fiesta Salad: 8.98
-  Smoky Black Bean Enchiladas: 11.75
+  Coconut Lime Shrimp Skewers: 11.59
+  Grilled Pineapple & Shrimp Quesadillas: 8.35
+  Honey-Lime Grilled Shrimp: 10.87
+  Cucumber Jalapeno Agua Fresca: 3.55
+  Spicy Black Bean Nacho Platter: 7.89
+  Mango Habanero Margarita: 5.99
+  Chipotle Bean Burrito: 7.53
+  Mango Jalapeno Salsa and Chips: 5.43
+  Mexican Coffee Flan: 6.9
+  Crispy Fish Baja Bowl: 10.68
+  Chorizo Breakfast Tacos: 9.24
+  Tequila Sunrise Smoothie: 5.3
+  Salted Caramel Margarita: 6.54

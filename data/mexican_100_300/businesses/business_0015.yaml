@@ -1,44 +1,35 @@
 id: business_0015
-name: Verde Urban Cantina
-description: Experience fresh, vibrant flavors at Verde Urban Cantina, where classic
-  Mexican and Tex-Mex favorites are reimagined with a modern twist. From sizzling
-  fajitas to inventive mocktails, our menu is crafted for those who crave something
-  exciting in every bite.
+name: Cilantro & Citrus Cocina
+description: Experience a vibrant fusion of Mexican and Tex-Mex flavors in a welcoming,
+  modern setting. From zesty grilled specialties to indulgent desserts and refreshing
+  beverages, every bite is a delicious celebration.
 rating: 1.0
 progenitor_customer: customer_0005
 menu_features:
-  Savory Carne Asada Burrito: 11.73
-  Spicy Shrimp Fajitas: 13.42
-  Vanilla Flan Delight: 4.63
-  Pineapple Pico de Gallo Nachos: 10.8
-  Smoky Mezcal Mule: 9.17
-  "Strawberry Jalape\xF1o Mocktail": 7.27
-  Honey Lime Fajita Sizzlers: 18.62
-  Crispy Avocado and Lime Tacos: 10.4
-  Horchata Cold Brew Coffee: 4.59
-  Chili Lime Shrimp Skewers: 11.67
-  Three Cheese Sope: 10.67
-  Spicy Chocolate Churros: 4.97
-  Breakfast Chorizo Tostadas: 11.2
-  Crispy Avocado Wedges: 9.41
-  Lime-Garlic Grilled Chicken: 11.56
-  Tomatillo Salsa Verde Nachos: 12.66
+  Lime-Garlic Grilled Chicken: 12.63
+  Ancho Chili Chocolate Cake: 6.81
+  Carnitas Breakfast Burrito: 11.94
+  Horchata Milkshake: 5.4
+  Passion Fruit Mojito: 8.9
+  Crispy Carnitas Quesadilla: 10.55
+  Roasted Corn Elote: 5.08
+  Margarita Lime Pie: 6.37
+  Black Bean and Cilantro Rice: 3.96
+  Tex-Mex Big Breakfast Bowl: 11.9
+  Breakfast Tostada Stack: 10.07
+  Spicy Chicken Tortilla Soup: 6.15
 amenity_features: {}
-min_price_factor: 0.93
+min_price_factor: 0.92
 minimum_menu_prices:
-  Savory Carne Asada Burrito: 10.91
-  Spicy Shrimp Fajitas: 12.48
-  Vanilla Flan Delight: 4.31
-  Pineapple Pico de Gallo Nachos: 10.04
-  Smoky Mezcal Mule: 8.53
-  "Strawberry Jalape\xF1o Mocktail": 6.76
-  Honey Lime Fajita Sizzlers: 17.32
-  Crispy Avocado and Lime Tacos: 9.67
-  Horchata Cold Brew Coffee: 4.27
-  Chili Lime Shrimp Skewers: 10.85
-  Three Cheese Sope: 9.92
-  Spicy Chocolate Churros: 4.62
-  Breakfast Chorizo Tostadas: 10.42
-  Crispy Avocado Wedges: 8.75
-  Lime-Garlic Grilled Chicken: 10.75
-  Tomatillo Salsa Verde Nachos: 11.77
+  Lime-Garlic Grilled Chicken: 11.62
+  Ancho Chili Chocolate Cake: 6.27
+  Carnitas Breakfast Burrito: 10.1
+  Horchata Milkshake: 4.97
+  Passion Fruit Mojito: 8.19
+  Crispy Carnitas Quesadilla: 9.71
+  Roasted Corn Elote: 3.79
+  Margarita Lime Pie: 5.86
+  Black Bean and Cilantro Rice: 3.64
+  Tex-Mex Big Breakfast Bowl: 10.95
+  Breakfast Tostada Stack: 9.26
+  Spicy Chicken Tortilla Soup: 5.66

@@ -1,10 +1,12 @@
 id: customer_0050
-name: Isabella Nguyen
-request: 'Could you please assist me in finding a business where I can place an order
-  for exactly the following items: 1 Mexican Spiced Chocolate Cake and 1 Cactus Cooler
-  Margarita? These items are very important to me, and I intend to purchase them immediately
-  once a business that offers both is identified. Thank you for your assistance.'
+name: Laura Wilson
+request: Could you please help me find a business that offers all of the following
+  menu items for an order? I need 1 Roasted Poblano Veggie Skillet, 1 Spicy Chocolate
+  Lava Cake, and 1 Fresh Limeade. It's very important that all of these items are
+  available from the same place, as I intend to place an order immediately. Thank
+  you.
 menu_features:
-  Mexican Spiced Chocolate Cake: 7.49
-  Cactus Cooler Margarita: 8.99
+  Roasted Poblano Veggie Skillet: 9.92
+  Spicy Chocolate Lava Cake: 7.39
+  Fresh Limeade: 3.13
 amenity_features: []

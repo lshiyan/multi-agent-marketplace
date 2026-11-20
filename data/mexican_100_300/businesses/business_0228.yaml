@@ -1,39 +1,37 @@
 id: business_0228
-name: "El Jard\xEDn de Sabores"
-description: Discover a vibrant fusion of classic Mexican and Tex-Mex flavors in a
-  lively, welcoming setting. From savory bites to refreshing sips and sweet finales,
-  every dish is crafted with fresh ingredients and bold spices.
+name: Holy Guac & Roly-Pollo
+description: Get ready to roll with bold Mexican flavors at this zesty eatery, where
+  crispy, spicy, and sweet dishes come together for a fiesta in every bite. Our creative
+  Tex-Mex twists keep taste buds guessing and craving more.
 rating: 1.0
 progenitor_customer: customer_0076
 menu_features:
-  Margarita Lime Cheesecake: 5.74
-  Hibiscus Agua Fresca: 3.24
-  Three-Cheese Queso Dip: 7.59
-  Queso Fundido with Chorizo: 10.97
-  Caramelized Onion and Chorizo Quesadilla: 9.4
-  Spiced Pumpkin Empanadas: 5.29
-  Honey Lime Chicken Skewers: 11.14
-  Crispy Avocado Burrito: 12.35
-  "Blueberry Jalape\xF1o Margarita": 9.7
-  Blue Agave Tequila Sunrise: 7.58
-  Smoky Black Bean Tostadas: 8.41
-  Crispy Fish Baja Bowl: 11.03
-  Black Bean Chili Bowl: 8.61
-  Mini Street Tacos Platter: 9.43
+  Crispy Avocado Burrito: 10.03
+  Smoky Chipotle BBQ Ribs: 14.86
+  Street Style Corn on the Cob: 5.51
+  Pineapple Habanero Salsa: 4.87
+  Warm Cinnamon Churros: 6.06
+  Hatch Green Chile Quesadilla: 11.23
+  Chili Lime Jicama Sticks: 7.24
+  Blueberry Mint Agua Fresca: 3.51
+  Spicy Zucchini Tostadas: 12.32
+  Zesty Lime Shrimp Tostadas: 10.82
+  Chocolate Mole Chicken: 18.05
+  Grilled Shrimp Fajita Bowl: 15.14
+  Pineapple Chipotle Pork: 15.6
 amenity_features: {}
-min_price_factor: 0.94
+min_price_factor: 0.77
 minimum_menu_prices:
-  Margarita Lime Cheesecake: 5.4
-  Hibiscus Agua Fresca: 3.05
-  Three-Cheese Queso Dip: 7.13
-  Queso Fundido with Chorizo: 10.31
-  Caramelized Onion and Chorizo Quesadilla: 8.84
-  Spiced Pumpkin Empanadas: 4.97
-  Honey Lime Chicken Skewers: 10.47
-  Crispy Avocado Burrito: 11.61
-  "Blueberry Jalape\xF1o Margarita": 9.12
-  Blue Agave Tequila Sunrise: 7.13
-  Smoky Black Bean Tostadas: 7.91
-  Crispy Fish Baja Bowl: 10.37
-  Black Bean Chili Bowl: 8.09
-  Mini Street Tacos Platter: 8.86
+  Crispy Avocado Burrito: 7.72
+  Smoky Chipotle BBQ Ribs: 11.44
+  Street Style Corn on the Cob: 4.24
+  Pineapple Habanero Salsa: 3.75
+  Warm Cinnamon Churros: 4.67
+  Hatch Green Chile Quesadilla: 8.65
+  Chili Lime Jicama Sticks: 5.57
+  Blueberry Mint Agua Fresca: 2.66
+  Spicy Zucchini Tostadas: 9.49
+  Zesty Lime Shrimp Tostadas: 8.29
+  Chocolate Mole Chicken: 13.9
+  Grilled Shrimp Fajita Bowl: 11.66
+  Pineapple Chipotle Pork: 12.01

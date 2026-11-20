@@ -1,33 +1,43 @@
 id: business_0274
-name: La Parrilla Viva
-description: Experience vibrant Mexican and Tex-Mex flavors, where sizzling platters
-  and refreshing specialties are served in a warm, lively setting. Join us for a celebration
-  of bold tastes and fresh ingredients.
+name: La Mesa de Sabores
+description: Experience the vibrant flavors of Mexico and the Southwest at La Mesa
+  de Sabores. Our kitchen crafts a lively array of classic and contemporary dishes
+  using fresh ingredients, bold spices, and time-honored traditions.
 rating: 1.0
 progenitor_customer: customer_0092
 menu_features:
-  Sizzling Fajita Platter: 12.94
-  Loaded Chorizo Nachos: 9.24
-  Cheesy Jalapeno Poppers: 8.87
-  Cilantro Lime Chicken Tacos: 11.2
-  Shrimp and Avocado Ceviche: 10.73
-  Avocado Lime Dip: 6.01
-  Spicy Cucumber Margarita: 7.95
-  Stuffed Avocado Boats: 9.34
-  Pork Carnitas Platter: 15.83
-  Horchata Latte: 4.99
-  Smoky Chipotle Black Bean Soup: 8.29
+  Classic Carne Asada Burrito: 11.67
+  Chipotle Shrimp Skewers: 13.4
+  Carne Asada Fajitas: 14.01
+  Avocado Lime Salsa: 5.32
+  Breakfast Chilaquiles Verde: 9.21
+  Breakfast Burrito Bonanza: 11.26
+  Creamy Avocado Soup: 7.06
+  Tequila Lime Grilled Chicken: 13.74
+  Roasted Corn and Black Bean Salad: 8.19
+  Refreshing Agua Fresca Trio: 8.27
+  Black Bean and Sweet Potato Empanadas: 11.07
+  Smoky Ancho Chicken Enchiladas: 11.21
+  Blue Corn Tostada Salad: 8.96
+  Tequila Lime Grilled Shrimp: 14.13
+  Smoky Chipotle BBQ Nachos: 9.76
+  Loaded Nacho Fries: 7.19
 amenity_features: {}
-min_price_factor: 0.8
+min_price_factor: 0.82
 minimum_menu_prices:
-  Sizzling Fajita Platter: 10.35
-  Loaded Chorizo Nachos: 7.39
-  Cheesy Jalapeno Poppers: 7.1
-  Cilantro Lime Chicken Tacos: 8.96
-  Shrimp and Avocado Ceviche: 8.58
-  Avocado Lime Dip: 4.81
-  Spicy Cucumber Margarita: 6.36
-  Stuffed Avocado Boats: 7.47
-  Pork Carnitas Platter: 12.66
-  Horchata Latte: 3.99
-  Smoky Chipotle Black Bean Soup: 6.63
+  Classic Carne Asada Burrito: 9.57
+  Chipotle Shrimp Skewers: 10.99
+  Carne Asada Fajitas: 11.49
+  Avocado Lime Salsa: 4.36
+  Breakfast Chilaquiles Verde: 7.55
+  Breakfast Burrito Bonanza: 9.23
+  Creamy Avocado Soup: 5.79
+  Tequila Lime Grilled Chicken: 11.27
+  Roasted Corn and Black Bean Salad: 6.72
+  Refreshing Agua Fresca Trio: 6.78
+  Black Bean and Sweet Potato Empanadas: 9.08
+  Smoky Ancho Chicken Enchiladas: 9.19
+  Blue Corn Tostada Salad: 7.35
+  Tequila Lime Grilled Shrimp: 10.68
+  Smoky Chipotle BBQ Nachos: 8.0
+  Loaded Nacho Fries: 5.9

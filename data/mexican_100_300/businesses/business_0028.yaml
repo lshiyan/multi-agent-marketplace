@@ -1,41 +1,41 @@
 id: business_0028
-name: Sizzle Verde Grill
-description: Sizzle Verde Grill brings vibrant Mexican and Tex-Mex flavors to your
-  plate with bold, fresh ingredients and inventive twists. Enjoy a lively atmosphere
-  and a menu that celebrates both tradition and creativity.
+name: Fiesta Flavors
+description: Step into a lively celebration of taste with vibrant, fresh, and flavorful
+  Mexican and Tex-Mex dishes. Perfect for those craving creative bites and festive
+  sips in a warm, inviting setting.
 rating: 1.0
 progenitor_customer: customer_0010
 menu_features:
-  Pineapple Habanero Sake: 8.42
-  Crispy Fish Baja Bowl: 13.54
-  Tequila Lime Grilled Chicken: 16.63
-  Classic Horchata Smoothie: 5.2
-  Black Bean Sweet Potato Burrito: 10.66
-  Grilled Elote Corn: 5.14
-  Lime-Garlic Grilled Chicken: 12.36
-  Southwestern Quinoa Salad: 8.96
-  Cucumber Jalapeno Agua Fresca: 3.73
-  Spicy Cucumber Margarita: 8.8
-  Creamy Queso Dip: 7.96
-  Cinnamon Sugar Churro Sticks: 5.22
-  Roasted Pumpkin Tamale: 7.45
-  Zesty Lime Grilled Chicken: 12.29
-  Spicy Chicken Chimichanga: 11.65
+  Chocolate Dipped Flan: 6.63
+  Pomegranate Agua Fresca: 4.09
+  Shrimp Ceviche Bowl: 14.43
+  Tex-Mex Fajita Wrap: 11.59
+  Roasted Poblano and Cheese Empanadas: 10.27
+  Baja Fish Taco Bowl: 15.2
+  Caramelized Onion Queso Dip: 6.07
+  Honey Chipotle Wings: 10.89
+  Grilled Pineapple and Shrimp Salad: 9.68
+  "Cheesy Jalape\xF1o Quesadillas": 8.77
+  Jalapeno Mango Margarita: 11.22
+  Mexican Hot Chocolate: 5.34
+  Coconut Lime Flan: 5.24
+  Chipotle Bean Burrito: 9.13
+  Black Bean & Cheese Tostadas: 9.21
 amenity_features: {}
-min_price_factor: 0.67
+min_price_factor: 0.68
 minimum_menu_prices:
-  Pineapple Habanero Sake: 5.64
-  Crispy Fish Baja Bowl: 9.07
-  Tequila Lime Grilled Chicken: 11.14
-  Classic Horchata Smoothie: 3.48
-  Black Bean Sweet Potato Burrito: 7.14
-  Grilled Elote Corn: 3.44
-  Lime-Garlic Grilled Chicken: 8.28
-  Southwestern Quinoa Salad: 6.0
-  Cucumber Jalapeno Agua Fresca: 2.5
-  Spicy Cucumber Margarita: 5.9
-  Creamy Queso Dip: 5.33
-  Cinnamon Sugar Churro Sticks: 3.5
-  Roasted Pumpkin Tamale: 4.99
-  Zesty Lime Grilled Chicken: 8.23
-  Spicy Chicken Chimichanga: 7.81
+  Chocolate Dipped Flan: 4.51
+  Pomegranate Agua Fresca: 2.78
+  Shrimp Ceviche Bowl: 9.81
+  Tex-Mex Fajita Wrap: 7.88
+  Roasted Poblano and Cheese Empanadas: 6.98
+  Baja Fish Taco Bowl: 10.34
+  Caramelized Onion Queso Dip: 5.81
+  Honey Chipotle Wings: 7.41
+  Grilled Pineapple and Shrimp Salad: 8.27
+  "Cheesy Jalape\xF1o Quesadillas": 7.65
+  Jalapeno Mango Margarita: 7.63
+  Mexican Hot Chocolate: 3.63
+  Coconut Lime Flan: 3.56
+  Chipotle Bean Burrito: 6.21
+  Black Bean & Cheese Tostadas: 6.26

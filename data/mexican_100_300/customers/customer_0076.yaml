@@ -1,7 +1,10 @@
 id: customer_0076
-name: Grace Kim
-request: "Could you please locate a business that offers the \u2018Mini Street Tacos\
-  \ Platter\u2019? I would like to place an order for 1 platter. Thank you!"
+name: Jacob Ramirez
+request: 'Could you please assist me in finding a business that offers the following
+  menu items for purchase: ''Blueberry Mint Agua Fresca'' (1) and ''Zesty Lime Shrimp
+  Tostadas'' (1)? It is important that both items are available at the same business,
+  as I intend to place an order for them. Thank you for your help.'
 menu_features:
-  Mini Street Tacos Platter: 9.99
+  Blueberry Mint Agua Fresca: 5.24
+  Zesty Lime Shrimp Tostadas: 11.0
 amenity_features: []

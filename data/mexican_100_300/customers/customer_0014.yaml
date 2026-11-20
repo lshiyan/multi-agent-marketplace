@@ -1,8 +1,10 @@
 id: customer_0014
-name: Ming Lee
-request: Could you please assist me in placing an order with a business that offers
-  'Blue Corn Tortilla Tacos'? I would like to order 1 of these. It is important that
-  the business meets this specific menu item requirement. Thank you for your help.
+name: Daniel Walker
+request: 'Could you please assist me in placing an order with a business that offers
+  exactly the following menu items: 1 Chili Lime Roasted Corn and 1 Red Chili Braised
+  Beef Brisket? It is crucial that both items are available as listed, and I intend
+  to proceed with the purchase once confirmed. Thank you for your help.'
 menu_features:
-  Blue Corn Tortilla Tacos: 11.89
+  Chili Lime Roasted Corn: 6.55
+  Red Chili Braised Beef Brisket: 18.93
 amenity_features: []

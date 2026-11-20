@@ -1,35 +1,36 @@
 id: business_0093
-name: Cocina Tamarindo
-description: Experience the vibrant flavors of Mexico and the Southwest in a warm
-  and lively setting. Cocina Tamarindo celebrates fresh, bold tastes with creative
-  sips and sizzling specialties.
+name: Urban Cactus Kitchen
+description: Experience vibrant Mexican and Tex-Mex flavors with a contemporary twist,
+  where every dish is crafted fresh and bursting with authentic ingredients. Enjoy
+  a lively atmosphere, inventive beverages, and signature desserts that celebrate
+  the bold spirit of modern Mexican cuisine.
 rating: 1.0
 progenitor_customer: customer_0031
 menu_features:
-  Tamarind Ginger Cooler: 4.39
-  Raspberry Jalapeno Mojito: 8.67
-  Pineapple Salsa Shrimp Tacos: 15.96
-  Green Chile Pork Stew: 13.73
-  Avocado Street Tacos: 9.87
-  Blueberry Agave Margarita: 10.98
-  Smoky Black Bean Soup: 7.64
-  Tequila Lime Grilled Chicken: 13.77
-  Black Bean Chili Bowl: 9.09
-  Crispy Avocado and Lime Tacos: 11.2
-  Flamin' Skillet Fajitas: 17.9
-  Vanilla Flan with Caramel Sauce: 4.96
+  Classic Flan Delight: 6.73
+  Al Pastor Pork Tacos: 9.53
+  Cactus Cooler Margarita: 8.35
+  Fresh Mango Salsa Nachos: 9.4
+  Street Style Corn on the Cob: 5.85
+  Smoky Chipotle Enchiladas: 15.66
+  Ancho Chili Rubbed Steak: 14.44
+  Chili Chocolate Lava Cake: 7.7
+  Raspberry Chipotle Barbecue Ribs: 15.41
+  Chipotle Bean Burrito: 11.15
+  Horchata Cold Brew Coffee: 4.9
+  Crispy Tinga Chicken Tacos: 10.99
 amenity_features: {}
-min_price_factor: 0.79
+min_price_factor: 0.64
 minimum_menu_prices:
-  Tamarind Ginger Cooler: 3.47
-  Raspberry Jalapeno Mojito: 6.85
-  Pineapple Salsa Shrimp Tacos: 12.61
-  Green Chile Pork Stew: 10.85
-  Avocado Street Tacos: 7.8
-  Blueberry Agave Margarita: 8.67
-  Smoky Black Bean Soup: 6.04
-  Tequila Lime Grilled Chicken: 10.88
-  Black Bean Chili Bowl: 7.18
-  Crispy Avocado and Lime Tacos: 8.85
-  Flamin' Skillet Fajitas: 14.14
-  Vanilla Flan with Caramel Sauce: 3.92
+  Classic Flan Delight: 4.31
+  Al Pastor Pork Tacos: 6.1
+  Cactus Cooler Margarita: 5.34
+  Fresh Mango Salsa Nachos: 6.02
+  Street Style Corn on the Cob: 3.74
+  Smoky Chipotle Enchiladas: 10.02
+  Ancho Chili Rubbed Steak: 8.45
+  Chili Chocolate Lava Cake: 4.93
+  Raspberry Chipotle Barbecue Ribs: 9.86
+  Chipotle Bean Burrito: 7.14
+  Horchata Cold Brew Coffee: 3.14
+  Crispy Tinga Chicken Tacos: 7.03

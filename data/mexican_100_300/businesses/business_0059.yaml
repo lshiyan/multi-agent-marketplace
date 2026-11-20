@@ -1,35 +1,37 @@
 id: business_0059
-name: Poblano & Pineapple
-description: Experience a vibrant fusion of classic Mexican and Tex-Mex flavors in
-  a lively, welcoming setting. Our creative dishes blend bold spices and fresh ingredients
-  for a memorable dining adventure.
+name: Citrus Ember Cantina
+description: Citrus Ember Cantina brings a fresh twist to classic Mexican and Tex-Mex
+  fare, blending bold flavors with modern flair. Enjoy vibrant small plates, zesty
+  cocktails, and sweet treats in a lively, inviting space.
 rating: 1.0
 progenitor_customer: customer_0020
 menu_features:
-  Stuffed Poblano Peppers: 14.06
-  Pineapple Pico de Gallo Salsa: 5.24
-  Garlic Lime Shrimp Salad: 15.84
-  Black Bean and Corn Fiesta Salad: 9.71
-  Ranchero Steak Fajitas: 18.23
-  Ancho Chili Spiced Ribs: 14.21
-  Carnitas Plantain Burrito: 11.54
-  Honey Lime Grilled Corn: 4.94
-  Spicy Chorizo Enchiladas: 16.86
-  Grilled Pineapple and Pork Tacos: 12.03
-  Tamarind Spiced Agua Fresca: 3.89
-  "Cheesy Jalape\xF1o Queso Dip": 7.68
+  Chili Lime Margarita: 6.49
+  Smoky Chipotle Quesadillas: 9.26
+  Flan with Caramel Drizzle: 6.22
+  Spicy Street Corn: 5.22
+  Sweet Corn Tamale Cake: 6.95
+  Honey Lime Chicken Fajitas: 16.23
+  Loaded Nacho Skillet: 10.36
+  Pumpkin Spice Churros: 4.16
+  Loaded Nacho Platter: 11.11
+  Beef Fajita Skillet: 15.57
+  Coconut Lime Paleta: 4.22
+  Mexican Chocolate Brownie: 6.42
+  Baja Fish Taco Bowl: 14.44
 amenity_features: {}
-min_price_factor: 0.93
+min_price_factor: 0.62
 minimum_menu_prices:
-  Stuffed Poblano Peppers: 13.08
-  Pineapple Pico de Gallo Salsa: 4.87
-  Garlic Lime Shrimp Salad: 14.73
-  Black Bean and Corn Fiesta Salad: 9.03
-  Ranchero Steak Fajitas: 16.95
-  Ancho Chili Spiced Ribs: 13.22
-  Carnitas Plantain Burrito: 10.73
-  Honey Lime Grilled Corn: 4.59
-  Spicy Chorizo Enchiladas: 15.68
-  Grilled Pineapple and Pork Tacos: 11.19
-  Tamarind Spiced Agua Fresca: 3.62
-  "Cheesy Jalape\xF1o Queso Dip": 7.14
+  Chili Lime Margarita: 4.99
+  Smoky Chipotle Quesadillas: 5.74
+  Flan with Caramel Drizzle: 3.86
+  Spicy Street Corn: 3.24
+  Sweet Corn Tamale Cake: 5.28
+  Honey Lime Chicken Fajitas: 10.06
+  Loaded Nacho Skillet: 6.42
+  Pumpkin Spice Churros: 3.55
+  Loaded Nacho Platter: 6.89
+  Beef Fajita Skillet: 9.65
+  Coconut Lime Paleta: 2.62
+  Mexican Chocolate Brownie: 3.98
+  Baja Fish Taco Bowl: 8.95

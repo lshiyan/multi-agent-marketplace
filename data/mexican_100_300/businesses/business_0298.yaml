@@ -1,40 +1,33 @@
 id: business_0298
-name: Crisp & Caramel Cantina
-description: Crisp & Caramel Cantina brings a modern twist to Mexican and Tex-Mex
-  flavors, featuring fresh ingredients, bold salsas, and decadent desserts in a vibrant,
-  welcoming atmosphere. Perfect for those seeking sizzling plates, zesty cocktails,
-  and a memorable dining experience.
+name: "La Brisa de Ma\xEDz Mexicana"
+description: Experience a vibrant celebration of Mexican and Tex-Mex flavors in a
+  warm, welcoming setting. From savory enchiladas to refreshing handcrafted beverages,
+  every dish is inspired by tradition and served with a modern twist.
 rating: 1.0
 progenitor_customer: customer_0100
 menu_features:
-  Spicy Cucumber Margarita: 9.5
-  Sizzling Fajita Skillet: 11.51
-  Vanilla Flan with Caramel Sauce: 7.2
-  Chili Lime Margarita: 7.65
-  Avocado Lime Enchiladas: 10.95
-  Black Bean & Cheese Tostadas: 9.7
-  Toasted Coconut Flan: 6.61
-  Chipotle Shrimp Skewers: 10.23
-  Crispy Avocado Tostadas: 10.58
-  Classic Beef Tacos with Zesty Slaw: 12.0
-  Hatch Green Chile Burger: 12.62
-  Black Bean and Corn Fiesta Salad: 10.05
-  Caramelized Onion and Chorizo Quesadilla: 11.02
-  Lime-Garlic Grilled Chicken: 16.49
+  Chili Lime Street Corn: 6.14
+  Roasted Corn Enchiladas: 10.36
+  Fresh Mint Mojito: 7.61
+  "Strawberry Jalape\xF1o Mocktail": 5.2
+  Peppered Steak Nachos: 10.68
+  Hatch Green Chile Quesadilla: 13.11
+  Loaded Street Corn: 5.45
+  Spiked Horchata Cooler: 6.51
+  Smoky Ancho Chicken Enchiladas: 13.36
+  Breakfast Burrito Bonanza: 6.98
+  Spiced Pumpkin Empanadas: 9.26
 amenity_features: {}
-min_price_factor: 0.89
+min_price_factor: 0.91
 minimum_menu_prices:
-  Spicy Cucumber Margarita: 8.46
-  Sizzling Fajita Skillet: 10.24
-  Vanilla Flan with Caramel Sauce: 6.41
-  Chili Lime Margarita: 6.81
-  Avocado Lime Enchiladas: 9.75
-  Black Bean & Cheese Tostadas: 8.63
-  Toasted Coconut Flan: 5.88
-  Chipotle Shrimp Skewers: 9.1
-  Crispy Avocado Tostadas: 9.42
-  Classic Beef Tacos with Zesty Slaw: 10.68
-  Hatch Green Chile Burger: 11.23
-  Black Bean and Corn Fiesta Salad: 8.94
-  Caramelized Onion and Chorizo Quesadilla: 9.81
-  Lime-Garlic Grilled Chicken: 14.68
+  Chili Lime Street Corn: 5.59
+  Roasted Corn Enchiladas: 9.43
+  Fresh Mint Mojito: 6.93
+  "Strawberry Jalape\xF1o Mocktail": 4.73
+  Peppered Steak Nachos: 9.72
+  Hatch Green Chile Quesadilla: 11.93
+  Loaded Street Corn: 4.96
+  Spiked Horchata Cooler: 5.92
+  Smoky Ancho Chicken Enchiladas: 12.16
+  Breakfast Burrito Bonanza: 6.35
+  Spiced Pumpkin Empanadas: 5.9

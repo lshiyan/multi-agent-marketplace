@@ -1,43 +1,47 @@
 id: business_0120
-name: Queso to Show
-description: Step into a fiesta of flavors where sizzling meats, zesty salsas, and
-  sweet-spicy indulgences come together. Queso to Show serves up craveworthy Mexican
-  and Tex-Mex classics with creative twists in a fun, vibrant atmosphere.
+name: Fiesta Flame
+description: Experience the vibrant tastes of Mexico and the Southwest with bold flavors,
+  fresh ingredients, and a creative twist on classic favorites. From sizzling skillets
+  to sweet treats, Fiesta Flame brings warmth and spice to every plate.
 rating: 1.0
 progenitor_customer: customer_0040
 menu_features:
-  Carne Asada Nachos: 12.42
-  Ancho Chili Chocolate Cake: 7.3
-  Sea Breeze Ceviche: 14.34
-  Grilled Steak Quesadilla: 11.1
-  Crispy Tinga Chicken Tacos: 9.4
-  Twisted Tequila Sunrise: 6.73
-  Zesty Lime Chicken Fajitas: 13.37
-  Tamarind-Glazed Ribs: 18.78
-  Spicy Cucumber Margarita: 7.86
-  Pineapple Chipotle Pork: 14.1
-  Spicy Black Bean Tacos: 12.5
-  Avocado Street Tacos: 10.73
-  Classic Lime Margarita: 8.53
-  Classic Horchata Smoothie: 6.19
-  Beef Barbacoa Burrito Bowl: 9.83
-  Mexican Chocolate Lava Cake: 9.61
+  Chipotle Lime Chicken Salad: 10.48
+  Tamale Trio Platter: 15.94
+  Tequila Lime Grilled Chicken: 16.53
+  Southwestern Quinoa Salad: 9.66
+  Spicy Street Corn: 5.38
+  Smoky Chipotle Quesadillas: 10.58
+  Grilled Shrimp Fajita Bowl: 16.55
+  Caramelized Banana Flan: 4.85
+  Chocolate Tamale Cake: 6.91
+  "Coconut Horchata Latt\xE9": 4.16
+  Warm Cinnamon Churros: 5.97
+  Beef Barbacoa Tostadas: 11.83
+  Margarita Lime Pie: 4.58
+  Mango Habanero Margarita: 7.4
+  Spicy Avocado Smash Burger: 11.49
+  Flamin' Skillet Fajitas: 20.97
+  Loaded Nacho Fiesta: 11.98
+  Frozen Strawberry Daiquiri: 7.43
 amenity_features: {}
-min_price_factor: 0.91
+min_price_factor: 0.87
 minimum_menu_prices:
-  Carne Asada Nachos: 11.3
-  Ancho Chili Chocolate Cake: 6.64
-  Sea Breeze Ceviche: 13.05
-  Grilled Steak Quesadilla: 10.1
-  Crispy Tinga Chicken Tacos: 8.55
-  Twisted Tequila Sunrise: 6.12
-  Zesty Lime Chicken Fajitas: 12.17
-  Tamarind-Glazed Ribs: 17.09
-  Spicy Cucumber Margarita: 7.15
-  Pineapple Chipotle Pork: 12.83
-  Spicy Black Bean Tacos: 11.38
-  Avocado Street Tacos: 9.76
-  Classic Lime Margarita: 7.76
-  Classic Horchata Smoothie: 5.63
-  Beef Barbacoa Burrito Bowl: 8.95
-  Mexican Chocolate Lava Cake: 8.75
+  Chipotle Lime Chicken Salad: 9.12
+  Tamale Trio Platter: 13.87
+  Tequila Lime Grilled Chicken: 14.38
+  Southwestern Quinoa Salad: 8.4
+  Spicy Street Corn: 4.68
+  Smoky Chipotle Quesadillas: 9.2
+  Grilled Shrimp Fajita Bowl: 14.4
+  Caramelized Banana Flan: 4.22
+  Chocolate Tamale Cake: 6.07
+  "Coconut Horchata Latt\xE9": 3.68
+  Warm Cinnamon Churros: 5.19
+  Beef Barbacoa Tostadas: 10.35
+  Margarita Lime Pie: 3.98
+  Mango Habanero Margarita: 6.44
+  Spicy Avocado Smash Burger: 10.0
+  Flamin' Skillet Fajitas: 18.24
+  Loaded Nacho Fiesta: 10.42
+  Frozen Strawberry Daiquiri: 6.46

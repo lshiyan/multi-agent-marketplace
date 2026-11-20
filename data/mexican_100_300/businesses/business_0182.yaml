@@ -1,39 +1,35 @@
 id: business_0182
-name: "Casa Jalape\xF1a"
-description: Experience vibrant Mexican and Tex-Mex flavors in a lively, welcoming
-  setting. From zesty starters to sweet, cinnamon-kissed desserts, every dish celebrates
-  bold, fresh ingredients and time-honored traditions.
+name: "El Jard\xEDn de Sazones"
+description: Discover vibrant Mexican and Tex-Mex flavors in a warm, welcoming atmosphere.
+  Our kitchen brings together fresh ingredients and classic recipes to create a memorable
+  dining experience.
 rating: 1.0
 progenitor_customer: customer_0061
 menu_features:
-  Cheesy Jalapeno Poppers: 7.33
-  Three Cheese Sope: 11.02
-  Breakfast Chilaquiles Verde: 12.27
-  Chocolate Sopapilla Bites: 5.09
-  Roasted Poblano Queso Dip: 8.37
-  Chipotle Lime Shrimp Skewers: 15.3
-  Loaded Chorizo Nachos: 8.15
-  Agave Lime Chicken Skewers: 11.43
-  Frozen Strawberry Daiquiri: 9.74
-  Mango Agua Fresca: 3.69
-  Roasted Pepper Queso Dip: 7.55
-  Savory Chorizo Street Tacos: 11.46
-  Agave Lime Margarita: 11.81
-  Cinnamon Sugar Churros: 6.15
+  Fajita Veggie Burrito Bowl: 15.67
+  Agave Lime Chicken Skewers: 11.01
+  Vanilla Almond Horchata: 3.18
+  Citrus Marinated Carne Asada: 16.56
+  Avocado Ranch Burrito Bowl: 13.31
+  Cilantro Lime Shrimp Skewers: 11.4
+  Shrimp and Avocado Ceviche: 11.04
+  Chipotle Lime Chicken Skewers: 10.95
+  Black Bean & Cheese Enchiladas: 10.77
+  Tamale Pie Casserole: 11.69
+  Roasted Poblano Soup: 7.57
+  Black Bean and Avocado Wrap: 8.45
 amenity_features: {}
-min_price_factor: 0.87
+min_price_factor: 0.83
 minimum_menu_prices:
-  Cheesy Jalapeno Poppers: 6.38
-  Three Cheese Sope: 9.59
-  Breakfast Chilaquiles Verde: 10.67
-  Chocolate Sopapilla Bites: 4.43
-  Roasted Poblano Queso Dip: 7.28
-  Chipotle Lime Shrimp Skewers: 13.31
-  Loaded Chorizo Nachos: 7.09
-  Agave Lime Chicken Skewers: 9.94
-  Frozen Strawberry Daiquiri: 8.47
-  Mango Agua Fresca: 3.21
-  Roasted Pepper Queso Dip: 6.57
-  Savory Chorizo Street Tacos: 9.97
-  Agave Lime Margarita: 10.27
-  Cinnamon Sugar Churros: 5.35
+  Fajita Veggie Burrito Bowl: 13.01
+  Agave Lime Chicken Skewers: 9.14
+  Vanilla Almond Horchata: 2.64
+  Citrus Marinated Carne Asada: 13.74
+  Avocado Ranch Burrito Bowl: 11.05
+  Cilantro Lime Shrimp Skewers: 9.46
+  Shrimp and Avocado Ceviche: 9.16
+  Chipotle Lime Chicken Skewers: 9.09
+  Black Bean & Cheese Enchiladas: 7.09
+  Tamale Pie Casserole: 9.7
+  Roasted Poblano Soup: 6.28
+  Black Bean and Avocado Wrap: 7.01

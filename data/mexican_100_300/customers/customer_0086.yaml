@@ -1,12 +1,7 @@
 id: customer_0086
-name: Eric Thompson
-request: 'I am looking to place an order with a business that serves the following
-  specific menu items: Chocolate Mole Chicken (1), Cilantro Lime Rice Bowl (1), and
-  Tamale Trio Sampler (1). It is important that all these items are available for
-  me to proceed with the order. Could you please assist in finding such a business
-  so I can make this purchase? Thank you.'
+name: Amina Khan
+request: Could you please help me find a business that serves Tamarind-Glazed Ribs?
+  I would like to place an order for 1 Tamarind-Glazed Ribs. Thank you for your assistance.
 menu_features:
-  Chocolate Mole Chicken: 15.99
-  Cilantro Lime Rice Bowl: 11.59
-  Tamale Trio Sampler: 11.99
+  Tamarind-Glazed Ribs: 17.14
 amenity_features: []

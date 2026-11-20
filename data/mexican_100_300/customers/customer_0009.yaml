@@ -1,8 +1,12 @@
 id: customer_0009
-name: Charlotte Anderson
-request: Could you please assist me in finding a business that offers exactly 1 Passionfruit
-  Paloma? It is important that the business meets this specific requirement as I intend
-  to place an order once it is confirmed. Thank you for your help.
+name: Ethan Lewis
+request: 'Hello, could you please help me find a business where I can place an order
+  that includes the following items: 1 Baja Fish Taco Plate, 1 Veggie Fajita Platter,
+  and 1 Classic Horchata Delight? It''s essential that the business offers all of
+  these exact items, as I''m ready to proceed with the purchase. Thank you for your
+  assistance!'
 menu_features:
-  Passionfruit Paloma: 8.49
+  Baja Fish Taco Plate: 14.98
+  Veggie Fajita Platter: 13.16
+  Classic Horchata Delight: 3.0
 amenity_features: []

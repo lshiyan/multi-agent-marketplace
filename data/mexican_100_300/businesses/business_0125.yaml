@@ -1,35 +1,41 @@
 id: business_0125
-name: Cilantro & Sunrise
-description: "Cilantro & Sunrise invites you to enjoy vibrant Mexican and Tex-Mex\
-  \ flavors in a fresh, modern setting. Savor zesty classics from sizzling skillets\
-  \ to refreshing ceviche\u2014perfect for sharing with friends and family."
+name: Mole & Midnight Mex
+description: A vibrant destination for Tex-Mex cravings, serving up creative twists
+  on classics, refreshing coolers, and sweet treats. Savor bold flavors in a welcoming
+  fiesta-inspired atmosphere.
 rating: 1.0
 progenitor_customer: customer_0042
 menu_features:
-  Cilantro Lime Chicken Tacos: 10.55
-  Ranchero Steak Fajitas: 13.52
-  Tex-Mex Breakfast Skillet: 6.01
-  Chipotle Lime Chicken Skewers: 9.41
-  Honey Chipotle Shrimp Bowl: 17.06
-  Black Bean & Cheese Enchiladas: 11.92
-  Avocado Lime Empanadas: 7.96
-  Frozen Strawberry Daiquiri: 8.56
-  Veggie Fajita Platter: 12.17
-  Fiesta Street Corn: 4.55
-  Sea Breeze Ceviche: 11.63
-  Tequila Lime Flan: 7.96
+  Blue Corn Tortilla Soup: 7.33
+  Loaded Nacho Supreme: 9.57
+  Spicy Chicken Chimichanga: 13.43
+  Tangy Tomato Salsa Soup: 10.35
+  Ranchero Steak Fajitas: 16.06
+  Breakfast Burrito Bowl: 9.28
+  Midnight Mole Enchiladas: 11.3
+  Spiked Horchata Cooler: 7.7
+  Tamarind Ginger Cooler: 4.85
+  Cilantro Lime Rice Bowl: 14.41
+  Caramelized Plantain Empanadas: 6.77
+  Ancho Chili Chocolate Cake: 7.5
+  Sizzling Fajita Skillet: 17.16
+  Passionfruit Agua Fresca: 2.44
+  Pico Avocado Toast: 6.15
 amenity_features: {}
-min_price_factor: 0.62
+min_price_factor: 0.74
 minimum_menu_prices:
-  Cilantro Lime Chicken Tacos: 6.54
-  Ranchero Steak Fajitas: 8.38
-  Tex-Mex Breakfast Skillet: 3.73
-  Chipotle Lime Chicken Skewers: 5.83
-  Honey Chipotle Shrimp Bowl: 10.58
-  Black Bean & Cheese Enchiladas: 7.39
-  Avocado Lime Empanadas: 4.94
-  Frozen Strawberry Daiquiri: 5.31
-  Veggie Fajita Platter: 7.55
-  Fiesta Street Corn: 2.82
-  Sea Breeze Ceviche: 7.21
-  Tequila Lime Flan: 4.94
+  Blue Corn Tortilla Soup: 5.42
+  Loaded Nacho Supreme: 7.08
+  Spicy Chicken Chimichanga: 9.94
+  Tangy Tomato Salsa Soup: 7.66
+  Ranchero Steak Fajitas: 12.43
+  Breakfast Burrito Bowl: 6.87
+  Midnight Mole Enchiladas: 8.36
+  Spiked Horchata Cooler: 5.7
+  Tamarind Ginger Cooler: 3.59
+  Cilantro Lime Rice Bowl: 10.66
+  Caramelized Plantain Empanadas: 5.01
+  Ancho Chili Chocolate Cake: 5.55
+  Sizzling Fajita Skillet: 12.7
+  Passionfruit Agua Fresca: 2.28
+  Pico Avocado Toast: 4.55

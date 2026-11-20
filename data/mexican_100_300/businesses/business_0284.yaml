@@ -1,39 +1,37 @@
 id: business_0284
-name: Holy Tostada!
-description: A vibrant spot where crispy creations meet bold Mexican flavors, Holy
-  Tostada! serves up fresh takes on classic plates and irresistible sweets with a
-  twist. Come savor colorful bites and indulge your adventurous palate.
+name: Casa Azulada Mexicana
+description: Step into a warm, welcoming space where vibrant Mexican and Tex-Mex flavors
+  come alive. At Casa Azulada Mexicana, each dish is thoughtfully crafted from fresh
+  ingredients to offer a delightful balance of tradition and creativity.
 rating: 1.0
 progenitor_customer: customer_0095
 menu_features:
-  Mexican Coffee Flan: 5.64
-  Poblano Pepper Relleno Plate: 12.11
-  Cheesy Jalapeno Poppers: 7.78
-  Shrimp and Avocado Ceviche: 13.47
-  Avocado Lime Crema Tostadas: 10.12
-  Chorizo and Egg Tacos: 7.83
-  Smoky BBQ Pork Tostadas: 8.82
-  Warm Churro Bites: 7.14
-  Pumpkin Spice Flan: 6.56
-  Avocado Lime Quinoa Bowl: 10.13
-  Black Bean Avocado Tostadas: 11.4
-  Fresh Mango Salsa Nachos: 9.5
-  Tomatillo Ranch Enchiladas: 13.73
-  Crispy Avocado Tostadas: 11.65
+  Sizzling Fajita Plate: 13.29
+  Blueberry Agave Agua Fresca: 4.65
+  Street Corn Elote: 4.53
+  Shrimp and Avocado Ceviche: 11.88
+  Cilantro Lime Shrimp Skewers: 14.22
+  Pineapple Salsa Nachos: 9.4
+  Caramel Apple Empanadas: 5.84
+  Black Bean and Avocado Wrap: 9.12
+  Black Bean and Sweet Potato Empanadas: 10.38
+  Grilled Shrimp Fajita Bowl: 13.43
+  Zesty Lime Shrimp Salad: 11.32
+  Pork Carnitas Platter: 15.42
+  Classic Beef Tacos with Zesty Slaw: 11.16
 amenity_features: {}
-min_price_factor: 0.81
+min_price_factor: 0.76
 minimum_menu_prices:
-  Mexican Coffee Flan: 4.57
-  Poblano Pepper Relleno Plate: 9.81
-  Cheesy Jalapeno Poppers: 6.3
-  Shrimp and Avocado Ceviche: 10.91
-  Avocado Lime Crema Tostadas: 8.2
-  Chorizo and Egg Tacos: 6.34
-  Smoky BBQ Pork Tostadas: 7.14
-  Warm Churro Bites: 5.78
-  Pumpkin Spice Flan: 5.31
-  Avocado Lime Quinoa Bowl: 8.21
-  Black Bean Avocado Tostadas: 9.23
-  Fresh Mango Salsa Nachos: 7.7
-  Tomatillo Ranch Enchiladas: 11.12
-  Crispy Avocado Tostadas: 9.44
+  Sizzling Fajita Plate: 10.1
+  Blueberry Agave Agua Fresca: 3.53
+  Street Corn Elote: 3.44
+  Shrimp and Avocado Ceviche: 9.03
+  Cilantro Lime Shrimp Skewers: 10.81
+  Pineapple Salsa Nachos: 7.14
+  Caramel Apple Empanadas: 4.44
+  Black Bean and Avocado Wrap: 6.93
+  Black Bean and Sweet Potato Empanadas: 7.89
+  Grilled Shrimp Fajita Bowl: 10.21
+  Zesty Lime Shrimp Salad: 8.6
+  Pork Carnitas Platter: 11.72
+  Classic Beef Tacos with Zesty Slaw: 6.86

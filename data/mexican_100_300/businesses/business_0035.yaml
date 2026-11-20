@@ -1,43 +1,45 @@
 id: business_0035
-name: Nacho Average Fiestaville
-description: "Colorful, creative, and full of bold flavors\u2014our kitchen serves\
-  \ up sizzling Tex-Mex classics and fresh Mexican-inspired plates. Come for the festive\
-  \ atmosphere, stay for the crave-worthy eats and refreshing margaritas."
+name: La Mesa de Frutas
+description: Celebrate the vibrant flavors of Mexico and the borderlands at La Mesa
+  de Frutas, where fresh fruits and bold spices take center stage. Enjoy creative
+  classics and contemporary Tex-Mex favorites in a welcoming, colorful setting.
 rating: 1.0
 progenitor_customer: customer_0012
 menu_features:
-  Pork Carnitas Platter: 12.34
-  Crispy Avocado Tacos: 14.5
-  Grilled Steak Quesadilla: 9.94
-  Veggie Fajita Platter: 11.22
-  Ancho Chile BBQ Ribs: 19.03
-  Coconut Lime Shrimp Skewers: 16.04
-  Sizzling Steak Fajitas: 13.3
-  Smoky Chipotle BBQ Nachos: 12.3
-  Chili Chocolate Lava Cake: 6.65
-  Stuffed Avocado Boats: 7.4
-  Loaded Nacho Bowl: 9.29
-  Refreshing Agua Fresca Trio: 8.07
-  Coconut Lime Margarita: 8.69
-  Black Bean and Sweet Potato Empanadas: 9.6
-  Spicy Cucumber Margarita: 8.88
-  "Cheesy Jalape\xF1o Queso Dip": 8.77
+  Street Corn Quesadilla: 9.55
+  Housemade Horchata: 5.32
+  Frozen Mango Margarita: 8.23
+  Mexican Coffee Flan: 7.24
+  Mexican Street Corn Salad: 6.34
+  Tex-Mex Breakfast Skillet: 10.02
+  Grilled Pineapple Salmon: 17.03
+  Fresh Mango Salsa Nachos: 9.53
+  Rich Chocolate Tamales: 7.26
+  "Strawberry Jalape\xF1o Mocktail": 5.68
+  Al Pastor Pork Tacos: 11.74
+  Blueberry Mint Agua Fresca: 5.33
+  Tamale Trio Platter: 11.09
+  Mexican Spiced Chocolate Cake: 8.24
+  Pineapple Jalapeno Sangria: 7.98
+  Choco-Chili Volcano Cake: 6.97
+  Crispy Tortilla Breakfast Bowl: 8.07
 amenity_features: {}
-min_price_factor: 0.93
+min_price_factor: 0.86
 minimum_menu_prices:
-  Pork Carnitas Platter: 11.48
-  Crispy Avocado Tacos: 13.49
-  Grilled Steak Quesadilla: 9.24
-  Veggie Fajita Platter: 10.43
-  Ancho Chile BBQ Ribs: 17.7
-  Coconut Lime Shrimp Skewers: 14.92
-  Sizzling Steak Fajitas: 12.37
-  Smoky Chipotle BBQ Nachos: 11.44
-  Chili Chocolate Lava Cake: 6.18
-  Stuffed Avocado Boats: 6.88
-  Loaded Nacho Bowl: 8.64
-  Refreshing Agua Fresca Trio: 7.51
-  Coconut Lime Margarita: 8.08
-  Black Bean and Sweet Potato Empanadas: 8.93
-  Spicy Cucumber Margarita: 8.26
-  "Cheesy Jalape\xF1o Queso Dip": 8.16
+  Street Corn Quesadilla: 8.21
+  Housemade Horchata: 3.47
+  Frozen Mango Margarita: 7.08
+  Mexican Coffee Flan: 6.23
+  Mexican Street Corn Salad: 5.45
+  Tex-Mex Breakfast Skillet: 8.62
+  Grilled Pineapple Salmon: 14.65
+  Fresh Mango Salsa Nachos: 8.2
+  Rich Chocolate Tamales: 6.24
+  "Strawberry Jalape\xF1o Mocktail": 4.88
+  Al Pastor Pork Tacos: 10.1
+  Blueberry Mint Agua Fresca: 3.48
+  Tamale Trio Platter: 9.54
+  Mexican Spiced Chocolate Cake: 7.09
+  Pineapple Jalapeno Sangria: 6.86
+  Choco-Chili Volcano Cake: 5.99
+  Crispy Tortilla Breakfast Bowl: 6.94

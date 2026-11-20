@@ -1,35 +1,47 @@
 id: business_0150
-name: Sabores del Desierto
-description: Discover bold and vibrant flavors inspired by the heart of Mexico and
-  the spirit of the Southwest. From savory classics to inventive sweets and sips,
-  every meal is a fiesta for your senses.
+name: Cinnamon & Cacao Cocina
+description: Experience the warmth and vibrancy of Mexican and Tex-Mex cuisine with
+  a creative twist on spices and chocolate. Our fresh, flavorful dishes and specialty
+  drinks promise a festive feast for every palate.
 rating: 1.0
 progenitor_customer: customer_0050
 menu_features:
-  Ancho Chili Chocolate Cake: 6.92
-  Pineapple Habanero Salsa: 3.75
-  Avocado & Tomato Breakfast Tostadas: 8.23
-  Black Bean & Corn Quesadilla: 8.67
-  Black Bean Avocado Enchiladas: 13.97
-  Roasted Poblano Queso Dip: 6.75
-  Cactus Cooler Margarita: 10.82
-  Pico de Gallo Chicken Salad: 7.88
-  Mexican Spiced Chocolate Cake: 7.55
-  Pineapple Pico de Gallo Nachos: 9.14
-  Savory Chorizo Street Tacos: 8.64
-  Sweet Plantain Empanadas: 6.44
+  Cocoa Cinnamon Tequila: 9.01
+  Pomegranate Agua Fresca: 5.03
+  Beef Fajita Skillet: 12.8
+  Smoky Chipotle BBQ Wings: 12.61
+  Roasted Poblano Veggie Skillet: 7.91
+  Pineapple Jalapeno Sangria: 9.28
+  Roasted Corn and Black Bean Salsa: 7.48
+  Mexican Hot Chocolate: 5.67
+  Breakfast Burrito Supreme: 10.11
+  Chili Lime Jicama Sticks: 5.22
+  Roasted Corn and Black Bean Salad: 8.5
+  Black Bean & Corn Queso Dip: 5.71
+  Fresh Limeade: 2.45
+  Choco-Chili Volcano Cake: 7.9
+  Crispy Avocado and Lime Tacos: 12.0
+  Grilled Shrimp Fajita Bowl: 13.19
+  Crispy Fish Baja Bowl: 15.76
+  Spicy Chocolate Lava Cake: 8.61
 amenity_features: {}
-min_price_factor: 0.74
+min_price_factor: 0.68
 minimum_menu_prices:
-  Ancho Chili Chocolate Cake: 5.12
-  Pineapple Habanero Salsa: 2.77
-  Avocado & Tomato Breakfast Tostadas: 6.09
-  Black Bean & Corn Quesadilla: 6.42
-  Black Bean Avocado Enchiladas: 10.34
-  Roasted Poblano Queso Dip: 5.0
-  Cactus Cooler Margarita: 8.01
-  Pico de Gallo Chicken Salad: 5.83
-  Mexican Spiced Chocolate Cake: 5.59
-  Pineapple Pico de Gallo Nachos: 6.76
-  Savory Chorizo Street Tacos: 6.39
-  Sweet Plantain Empanadas: 4.77
+  Cocoa Cinnamon Tequila: 6.13
+  Pomegranate Agua Fresca: 3.42
+  Beef Fajita Skillet: 8.7
+  Smoky Chipotle BBQ Wings: 8.57
+  Roasted Poblano Veggie Skillet: 6.41
+  Pineapple Jalapeno Sangria: 6.31
+  Roasted Corn and Black Bean Salsa: 5.09
+  Mexican Hot Chocolate: 3.86
+  Breakfast Burrito Supreme: 6.87
+  Chili Lime Jicama Sticks: 3.55
+  Roasted Corn and Black Bean Salad: 5.78
+  Black Bean & Corn Queso Dip: 3.88
+  Fresh Limeade: 2.45
+  Choco-Chili Volcano Cake: 5.37
+  Crispy Avocado and Lime Tacos: 8.16
+  Grilled Shrimp Fajita Bowl: 8.97
+  Crispy Fish Baja Bowl: 10.72
+  Spicy Chocolate Lava Cake: 6.89

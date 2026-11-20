@@ -1,45 +1,38 @@
 id: business_0210
-name: Tamarind & Tostada
-description: Step into a vibrant space where classic Mexican flavors meet fresh, bold
-  twists. Enjoy spirited fare and refreshing drinks in a lively atmosphere perfect
-  for gathering with friends or family.
+name: Cinnamon Vista Kitchen
+description: Experience a modern twist on Mexican and Tex-Mex classics, where bold
+  flavors meet fresh ingredients in a vibrant setting. From crave-worthy street snacks
+  to indulgent sweet treats, Cinnamon Vista Kitchen is your new go-to for unforgettable
+  bites and sips.
 rating: 1.0
 progenitor_customer: customer_0070
 menu_features:
-  Crispy Chicken Tostada Bowls: 13.75
-  Shrimp Ceviche Bowl: 11.35
-  Jicama and Citrus Salad: 6.16
-  Spicy Chocolate Churros: 4.63
-  Charred Corn & Cotija Nachos: 7.47
-  Ranchero Steak Fajitas: 17.35
-  Hibiscus Iced Tea: 3.23
-  Tequila Lime Grilled Chicken: 14.87
-  Huevos Rancheros: 11.96
-  Creamy Avocado Soup: 8.39
-  Mexican Coffee Flan: 5.12
-  Coconut Lime Flan: 6.21
-  Hibiscus Agua Fresca: 4.11
-  Choco-Chili Volcano Cake: 7.46
-  Tamarind Citrus Margarita: 7.73
-  Roasted Poblano Quesadilla: 9.17
-  Tamarind-Glazed Ribs: 22.08
+  Churro Ice Cream Sandwich: 9.27
+  Hatch Green Chile Quesadilla: 11.48
+  Loaded Nacho Supreme: 9.74
+  Black Bean & Corn Queso Dip: 7.49
+  Black Bean Crunch Wrap: 9.72
+  Breakfast Burrito Bonanza: 9.57
+  Cinnamon Sugar Churros: 4.84
+  Crispy Avocado Tacos: 11.71
+  Blue Corn Tortilla Tacos: 11.99
+  Horchata Cold Brew Coffee: 5.39
+  "Cheesy Jalape\xF1o Queso Dip": 8.1
+  Choco Flan Combo: 7.15
+  Spicy Cucumber Margarita: 8.44
 amenity_features: {}
-min_price_factor: 0.95
+min_price_factor: 0.83
 minimum_menu_prices:
-  Crispy Chicken Tostada Bowls: 13.06
-  Shrimp Ceviche Bowl: 10.78
-  Jicama and Citrus Salad: 5.85
-  Spicy Chocolate Churros: 4.4
-  Charred Corn & Cotija Nachos: 7.1
-  Ranchero Steak Fajitas: 16.48
-  Hibiscus Iced Tea: 3.07
-  Tequila Lime Grilled Chicken: 14.13
-  Huevos Rancheros: 11.36
-  Creamy Avocado Soup: 7.97
-  Mexican Coffee Flan: 4.86
-  Coconut Lime Flan: 5.9
-  Hibiscus Agua Fresca: 3.9
-  Choco-Chili Volcano Cake: 7.09
-  Tamarind Citrus Margarita: 7.34
-  Roasted Poblano Quesadilla: 8.71
-  Tamarind-Glazed Ribs: 20.98
+  Churro Ice Cream Sandwich: 5.45
+  Hatch Green Chile Quesadilla: 9.53
+  Loaded Nacho Supreme: 8.08
+  Black Bean & Corn Queso Dip: 6.22
+  Black Bean Crunch Wrap: 8.07
+  Breakfast Burrito Bonanza: 7.94
+  Cinnamon Sugar Churros: 4.02
+  Crispy Avocado Tacos: 9.72
+  Blue Corn Tortilla Tacos: 9.95
+  Horchata Cold Brew Coffee: 4.47
+  "Cheesy Jalape\xF1o Queso Dip": 6.72
+  Choco Flan Combo: 5.93
+  Spicy Cucumber Margarita: 7.01

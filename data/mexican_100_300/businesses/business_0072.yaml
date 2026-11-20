@@ -1,35 +1,45 @@
 id: business_0072
-name: Tierra Dulce Kitchen
-description: Experience vibrant Mexican and Tex-Mex flavors with a modern twist, from
-  craveworthy savory bites to irresistible sweet treats. Join us for inventive eats,
-  refreshing drinks, and a lively, welcoming atmosphere.
+name: "Grillin\u2019 Me Softly"
+description: Turn up the flavor with our fresh Tex-Mex creations, boldly seasoned
+  and sizzling to perfection. Enjoy zesty mains, crisp salads, and sweet endings in
+  a vibrant, welcoming spot!
 rating: 1.0
 progenitor_customer: customer_0024
 menu_features:
-  Spiced Chocolate Flan: 7.25
-  Three-Cheese Queso Dip: 5.64
-  Cinnamon Churro Bites: 5.27
-  Caramelized Onion and Chorizo Quesadilla: 10.2
-  Crispy Avocado Tostadas: 10.74
-  Grilled Pineapple and Pork Tacos: 9.8
-  Shrimp and Avocado Ceviche: 10.32
-  Tamarind Ginger Cooler: 4.02
-  Tamale Trio Platter: 13.87
-  Queso Fundido with Chorizo: 9.9
-  Mexican Street Corn Dip: 7.0
-  Frozen Strawberry Margarita: 7.7
+  Lime-Garlic Grilled Chicken: 15.04
+  "Spicy Jalape\xF1o Limeade": 2.94
+  Garlic Lime Shrimp Salad: 9.6
+  Sizzling Fajita Fiesta: 14.2
+  Vanilla Almond Horchata: 3.16
+  Black Bean and Cilantro Rice: 4.44
+  Pineapple Salsa Nachos: 11.01
+  Blueberry Tequila Sunrise: 12.84
+  Warm Cinnamon Churros: 5.77
+  Huevos Rancheros: 11.39
+  Roasted Poblano Corn Chowder: 7.44
+  Fresh Lime Cilantro Rice: 3.17
+  Smoky Black Bean Tostadas: 8.66
+  Peppered Steak Nachos: 13.14
+  Loaded Nacho Skillet: 8.62
+  Sizzling Fajita Plate: 14.71
+  Braised Beef Barbacoa Tacos: 9.47
 amenity_features: {}
-min_price_factor: 0.62
+min_price_factor: 0.79
 minimum_menu_prices:
-  Spiced Chocolate Flan: 4.5
-  Three-Cheese Queso Dip: 3.5
-  Cinnamon Churro Bites: 3.27
-  Caramelized Onion and Chorizo Quesadilla: 6.32
-  Crispy Avocado Tostadas: 6.66
-  Grilled Pineapple and Pork Tacos: 6.08
-  Shrimp and Avocado Ceviche: 6.4
-  Tamarind Ginger Cooler: 2.49
-  Tamale Trio Platter: 8.6
-  Queso Fundido with Chorizo: 6.14
-  Mexican Street Corn Dip: 4.34
-  Frozen Strawberry Margarita: 4.77
+  Lime-Garlic Grilled Chicken: 11.88
+  "Spicy Jalape\xF1o Limeade": 2.32
+  Garlic Lime Shrimp Salad: 9.08
+  Sizzling Fajita Fiesta: 12.71
+  Vanilla Almond Horchata: 2.5
+  Black Bean and Cilantro Rice: 3.51
+  Pineapple Salsa Nachos: 8.7
+  Blueberry Tequila Sunrise: 10.14
+  Warm Cinnamon Churros: 4.56
+  Huevos Rancheros: 9.0
+  Roasted Poblano Corn Chowder: 5.88
+  Fresh Lime Cilantro Rice: 2.5
+  Smoky Black Bean Tostadas: 6.84
+  Peppered Steak Nachos: 10.38
+  Loaded Nacho Skillet: 6.81
+  Sizzling Fajita Plate: 11.62
+  Braised Beef Barbacoa Tacos: 8.97

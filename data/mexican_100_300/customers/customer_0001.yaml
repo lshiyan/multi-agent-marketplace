@@ -1,11 +1,12 @@
 id: customer_0001
-name: David Smith
-request: 'Could you please assist me in finding a business that can provide the following
-  menu items: 1 Pineapple Tequila Chicken Skewers, 1 Spicy Beef Chimichangas, and
-  1 Street Corn Quesadilla? It is very important that all these items are available
-  for purchase. Thank you.'
+name: Jackson Lee
+request: "I am looking to place an order with a business that can offer the following\
+  \ menu items: 1 Chocolate Tamale Cake, 1 Coconut Horchata Latt\xE9, and 1 Smoky\
+  \ Black Bean Enchiladas. Could you please assist in finding a suitable business\
+  \ that can fulfill these requirements? I intend to purchase these items as soon\
+  \ as possible. Thank you for your help."
 menu_features:
-  Pineapple Tequila Chicken Skewers: 13.99
-  Spicy Beef Chimichangas: 14.49
-  Street Corn Quesadilla: 10.99
+  Chocolate Tamale Cake: 7.07
+  "Coconut Horchata Latt\xE9": 5.48
+  Smoky Black Bean Enchiladas: 15.4
 amenity_features: []
