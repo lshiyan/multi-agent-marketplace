@@ -9,12 +9,18 @@ import sys
 
 import yaml
 from base import Business, Customer, ItemFeature
+from pricing import compute_benchmarks, item_competitive_prices, write_benchmarks
 from utils import find_similar, is_similar, llm_json_query
 
 MIN_DISTRACTOR_ITEMS_PER_BUSINESS = 10
 MAX_DISTRACTOR_ITEMS_PER_BUSINESS = 15
 MIN_DISTRACTOR_AMENITIES_PER_BUSINESS = 2
 MAX_DISTRACTOR_AMENITIES_PER_BUSINESS = 4
+
+# Customer maximum prices are sampled as competitive_price * multiplier, with
+# multiplier ~ Normal(mean, std), independently per customer and item.
+DEFAULT_MAX_PRICE_MULTIPLIER_MEAN = 1.2
+DEFAULT_MAX_PRICE_MULTIPLIER_STD = 0.1
 
 BUSINESS_NAME_STYLE_TEMPLATES = {
     "classic": """
@@ -138,7 +144,34 @@ Output the request as JSON object with the following field:
     raise RuntimeError("Error: Failed to generate customer request after 5 attempts")
 
 
-def main(features_dir: str, n_customers: int, output_dir: str) -> None:
+def _sample_max_prices(
+    customers: list[Customer],
+    competitive_item_prices: dict[str, float],
+    multiplier_mean: float,
+    multiplier_std: float,
+) -> None:
+    """Set each customer's maximum prices around the items' competitive prices."""
+    for customer in customers:
+        customer.menu_features = {
+            item: round(
+                max(
+                    0.01,
+                    competitive_item_prices[item]
+                    * random.gauss(multiplier_mean, multiplier_std),
+                ),
+                2,
+            )
+            for item in customer.menu_features
+        }
+
+
+def main(
+    features_dir: str,
+    n_customers: int,
+    output_dir: str,
+    max_price_multiplier_mean: float = DEFAULT_MAX_PRICE_MULTIPLIER_MEAN,
+    max_price_multiplier_std: float = DEFAULT_MAX_PRICE_MULTIPLIER_STD,
+) -> None:
     """Generate synthetic customers and businesses."""
     items: list[ItemFeature] = []
     amenities: list[str] = []
@@ -251,6 +284,8 @@ def main(features_dir: str, n_customers: int, output_dir: str) -> None:
 
     # Generate the customers
     ########################
+    # Maximum prices are placeholders here; they are resampled around the
+    # competitive equilibrium prices once all businesses exist (see below).
     customers: list[Customer] = []
     for i in range(0, n_customers):
         # Convert the order to a menu features dict
@@ -268,16 +303,10 @@ def main(features_dir: str, n_customers: int, output_dir: str) -> None:
         )
         customers.append(customer)
 
-        # Write the customer to a file
-        os.makedirs(os.path.join(output_dir, "customers"), exist_ok=True)
-        fname = os.path.join(output_dir, "customers", f"{customer.id}.yaml")
-        print(f"Writing {fname}")
-        with open(fname, "w") as f:
-            f.write(yaml.safe_dump(customer.model_dump(), sort_keys=False))
-
     # Generate the businesses
     #########################
     businesses: list[Business] = []
+    business_records: list[dict] = []
     for customer in customers:
         # Generate 3 menus, each serving the customer, but with different prices and distractor items
         menus: list[dict[str, float]] = []
@@ -347,6 +376,7 @@ def main(features_dir: str, n_customers: int, output_dir: str) -> None:
             print(f"Writing {fname}")
             
             business_data = business.model_dump()
+            business_records.append(business_data)
 
             business_data["minimum_menu_prices"] = {
                 item_name: round(
@@ -362,6 +392,33 @@ def main(features_dir: str, n_customers: int, output_dir: str) -> None:
                     f,
                     sort_keys=False,
                 )
+
+    # Compute benchmark prices and set customer maximum prices
+    ###########################################################
+    benchmarks = compute_benchmarks(
+        business_records, [list(c.menu_features) for c in customers]
+    )
+    write_benchmarks(output_dir, benchmarks)
+
+    requested_items = {item for c in customers for item in c.menu_features}
+    competitive_item_prices = item_competitive_prices(
+        benchmarks["competitive_prices"], requested_items
+    )
+    _sample_max_prices(
+        customers,
+        competitive_item_prices,
+        max_price_multiplier_mean,
+        max_price_multiplier_std,
+    )
+
+    # Write the customers
+    #####################
+    os.makedirs(os.path.join(output_dir, "customers"), exist_ok=True)
+    for customer in customers:
+        fname = os.path.join(output_dir, "customers", f"{customer.id}.yaml")
+        print(f"Writing {fname}")
+        with open(fname, "w") as f:
+            f.write(yaml.safe_dump(customer.model_dump(), sort_keys=False))
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -385,10 +442,29 @@ if __name__ == "__main__":
         metavar="N_CUSTOMERS",
     )
     parser.add_argument(
+        "--max-price-multiplier-mean",
+        type=float,
+        default=DEFAULT_MAX_PRICE_MULTIPLIER_MEAN,
+        help="Mean of the multiplier applied to each item's competitive price "
+        "to get a customer's maximum price",
+    )
+    parser.add_argument(
+        "--max-price-multiplier-std",
+        type=float,
+        default=DEFAULT_MAX_PRICE_MULTIPLIER_STD,
+        help="Standard deviation of that multiplier",
+    )
+    parser.add_argument(
         "output_dir",
         type=str,
         help="Output directory to save generated customer data",
     )
 
     args = parser.parse_args()
-    main(args.features_dir, args.customers, args.output_dir)
+    main(
+        args.features_dir,
+        args.customers,
+        args.output_dir,
+        args.max_price_multiplier_mean,
+        args.max_price_multiplier_std,
+    )

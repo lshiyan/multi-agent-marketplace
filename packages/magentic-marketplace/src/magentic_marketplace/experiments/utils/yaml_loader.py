@@ -53,3 +53,27 @@ def load_customers_from_yaml(customers_dir: Path) -> list[Customer]:
         customers.append(customer)
 
     return customers
+
+
+BENCHMARK_FILENAME = "benchmark_prices.yaml"
+
+
+def load_benchmark_prices(
+    data_dir: Path,
+) -> tuple[dict[str, dict[str, float]], dict[str, dict[str, float]]]:
+    """Load competitive and monopoly benchmark prices saved with a dataset.
+
+    The file is written by data/data_generation_scripts/pricing.py, either during
+    generation or by running ``python pricing.py <data_dir>`` on an existing dataset.
+    """
+    path = Path(data_dir) / BENCHMARK_FILENAME
+    if not path.exists():
+        raise FileNotFoundError(
+            f"Benchmark prices not found at {path}. Generate them with: "
+            f"python data/data_generation_scripts/pricing.py {data_dir}"
+        )
+
+    with open(path, encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+
+    return data["competitive_prices"], data["monopoly_prices"]

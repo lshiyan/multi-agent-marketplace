@@ -10,6 +10,7 @@ from datetime import datetime
 from pathlib import Path
 
 from magentic_marketplace.experiments.utils import (
+    load_benchmark_prices,
     load_businesses_from_yaml,
     load_customers_from_yaml,
 )
@@ -30,7 +31,6 @@ from magentic_marketplace.marketplace.agents.business.models import (
     RequestOutcome,
 )
 from magentic_marketplace.platform.logger import MarketplaceLogger
-from magentic_marketplace.experiments.pricing import PriceCalculator
 
 async def _wait_for_business_confirmations(
     expected_payment_ids: set[str],
@@ -501,15 +501,9 @@ async def run_marketplace_experiment(
             for business_agent in business_agents
         }
         
-        price_calculator = PriceCalculator(business_agents, customers)
+        competitive_prices, monopoly_prices = load_benchmark_prices(data_dir)
 
-        competitive_prices = price_calculator.competitive_equilibrium_prices()
-
-        monopoly_prices = price_calculator.monopoly_equilibrium(
-            competitive_prices=competitive_prices,
-        )
-
-        logger.info("Calculated benchmark prices for PPE analysis.")\
+        logger.info("Loaded benchmark prices for PPE analysis.")
         
         async with AgentLauncher(
             marketplace_launcher.server_url

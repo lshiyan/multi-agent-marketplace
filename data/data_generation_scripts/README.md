@@ -13,6 +13,24 @@ python generate_customers_and_businesses.py --help
 for more details on the arguments.
 
 
+### Prices
+
+After the businesses are generated, `pricing.py` computes competitive (Nash) and
+monopoly benchmark prices under a logit demand model and saves them to
+`<output_dir>/benchmark_prices.yaml`. Each customer's maximum price for an item is
+then sampled as the item's competitive price (averaged over the businesses selling
+it) times a multiplier drawn from Normal(mean, std). Set these with
+`--max-price-multiplier-mean` (default 1.2) and `--max-price-multiplier-std`
+(default 0.1).
+
+`run_experiment` reads the benchmarks from that file. For a dataset generated before
+this change, create the file with:
+
+```bash
+python pricing.py <path_to_dataset_directory>
+```
+
+
 ### Validation
 You can validate the generated data by running the following command:
 
