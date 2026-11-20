@@ -323,10 +323,7 @@ def _calculate_period_average_welfare(
             # Calculate this completed sale's business welfare.
             try:
                 minimum_order_price = sum(
-                    business_agent.business.base_menu_features[
-                        item.item_name
-                    ]
-                    * business_agent.business.min_price_factor
+                    business_agent.business.minimum_unit_price(item.item_name)
                     * item.quantity
                     for item in fulfillment.items
                 )

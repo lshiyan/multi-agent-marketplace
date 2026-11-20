@@ -72,9 +72,8 @@ class BusinessAgent(BaseSimpleMarketplaceAgent[BusinessAgentProfile]):
         )
 
         self.minimum_prices: dict[str, float] = {
-            item_name: original_price * business.min_price_factor
-            for item_name, original_price
-            in business.menu_features.items()
+            item_name: business.minimum_unit_price(item_name)
+            for item_name in business.menu_features
         }
 
     @property

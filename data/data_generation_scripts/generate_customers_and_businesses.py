@@ -369,15 +369,9 @@ def main(
             )
             businesses.append(business)
 
-            
-            # Write the business to a file
-            os.makedirs(os.path.join(output_dir, "businesses"), exist_ok=True)
-            fname = os.path.join(output_dir, "businesses", f"{business.id}.yaml")
-            print(f"Writing {fname}")
-            
+            # Costs (minimum prices) come from the sampled prices and stay fixed
+            # when the listed prices are reset to competitive prices below.
             business_data = business.model_dump()
-            business_records.append(business_data)
-
             business_data["minimum_menu_prices"] = {
                 item_name: round(
                     max(0.01, listed_price * business.min_price_factor),
@@ -385,20 +379,31 @@ def main(
                 )
                 for item_name, listed_price in business.menu_features.items()
             }
+            business_records.append(business_data)
 
-            with open(fname, "w") as f:
-                yaml.safe_dump(
-                    business_data,
-                    f,
-                    sort_keys=False,
-                )
-
-    # Compute benchmark prices and set customer maximum prices
-    ###########################################################
+    # Compute benchmark prices
+    ##########################
     benchmarks = compute_benchmarks(
         business_records, [list(c.menu_features) for c in customers]
     )
     write_benchmarks(output_dir, benchmarks)
+
+    # Start every business at its competitive prices
+    ################################################
+    # Only requested items are priced by the equilibrium; distractor items keep
+    # their sampled prices.
+    os.makedirs(os.path.join(output_dir, "businesses"), exist_ok=True)
+    for business_data in business_records:
+        business_data["menu_features"] = dict(
+            benchmarks["competitive_prices"][business_data["id"]]
+        )
+        fname = os.path.join(output_dir, "businesses", f"{business_data['id']}.yaml")
+        print(f"Writing {fname}")
+        with open(fname, "w") as f:
+            yaml.safe_dump(business_data, f, sort_keys=False)
+
+    # Set customer maximum prices
+    #############################
 
     requested_items = {item for c in customers for item in c.menu_features}
     competitive_item_prices = item_competitive_prices(

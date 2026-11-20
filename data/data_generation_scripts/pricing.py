@@ -258,13 +258,15 @@ def item_competitive_prices(
 def business_price_data(business_records: list[dict]) -> list[dict]:
     """Convert business YAML-style records into PriceCalculator input.
 
-    Minimum prices are listed price * min_price_factor, matching BusinessAgent.
+    Uses the stored ``minimum_menu_prices`` when present. Older datasets without
+    them fall back to listed price * min_price_factor, matching BusinessAgent.
     """
     return [
         {
             "id": record["id"],
             "prices": record["menu_features"],
-            "minimum_prices": {
+            "minimum_prices": record.get("minimum_menu_prices")
+            or {
                 item: price * record["min_price_factor"]
                 for item, price in record["menu_features"].items()
             },
@@ -285,6 +287,7 @@ def compute_benchmarks(
 
 def write_benchmarks(output_dir: str, benchmarks: dict) -> str:
     """Write benchmark prices next to the dataset's customers/ and businesses/."""
+    os.makedirs(output_dir, exist_ok=True)
     fname = os.path.join(output_dir, BENCHMARK_FILENAME)
     with open(fname, "w") as f:
         yaml.safe_dump(benchmarks, f, sort_keys=True)

@@ -17,7 +17,10 @@ for more details on the arguments.
 
 After the businesses are generated, `pricing.py` computes competitive (Nash) and
 monopoly benchmark prices under a logit demand model and saves them to
-`<output_dir>/benchmark_prices.yaml`. Each customer's maximum price for an item is
+`<output_dir>/benchmark_prices.yaml`. Every business then starts at its competitive
+prices for the requested items (distractor items keep their sampled prices). Costs
+are fixed beforehand, from the sampled prices times `min_price_factor`, and stored as
+`minimum_menu_prices`, so resetting the listed prices doesn't move them. Each customer's maximum price for an item is
 then sampled as the item's competitive price (averaged over the businesses selling
 it) times a multiplier drawn from Normal(mean, std). Set these with
 `--max-price-multiplier-mean` (default 1.2) and `--max-price-multiplier-std`

@@ -37,6 +37,21 @@ class Business(BaseModel):
     base_menu_features: dict[str, float] = Field(description="Base menu item name -> price", default = {})
     amenity_features: dict[str, bool] = Field(description="Amenity name -> available")
     min_price_factor: float = Field(description="Minimum price factor for pricing")
+    minimum_menu_prices: dict[str, float] = Field(
+        description="Menu item name -> minimum price (marginal cost). If empty, "
+        "costs fall back to base price * min_price_factor.",
+        default={},
+    )
+
+    def minimum_unit_price(self, item_name: str) -> float:
+        """Return the minimum price (marginal cost) of one unit of an item.
+
+        Raises KeyError if the business does not sell the item.
+        """
+        if self.minimum_menu_prices:
+            return self.minimum_menu_prices[item_name]
+        base_prices = self.base_menu_features or self.menu_features
+        return base_prices[item_name] * self.min_price_factor
 
     def get_searchable_text(
         self,

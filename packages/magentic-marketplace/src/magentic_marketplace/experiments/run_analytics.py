@@ -602,16 +602,13 @@ class MarketplaceAnalytics:
         """Gets the minimum unit price (marginal cost) for a specific business and item."""
         business = self.business_agents[business_agent_id].business
 
-        if item_name not in business.base_menu_features:
+        try:
+            return business.minimum_unit_price(item_name)
+        except KeyError:
             raise KeyError(
                 f"Item {item_name!r} does not exist for "
                 f"business {business_agent_id!r}"
-            )
-
-        return (
-            business.base_menu_features[item_name]
-            * business.min_price_factor
-        )
+            ) from None
         
     def _get_minimum_order_price(
         self,
