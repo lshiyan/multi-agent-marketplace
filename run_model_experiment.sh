@@ -6,7 +6,10 @@ provider="$1"
 model="$2"
 runs="$3"
 
-suffix="${model//[-.]/_}"
+# Open-weight model ids can contain "/" or ":" (Qwen/Qwen3-8B, qwen2.5:7b).
+# The experiment name becomes an unquoted Postgres schema name, so reduce it
+# to [a-z0-9_].
+suffix="$(echo "${model##*/}" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]/_/g')"
 experiment_name="baseline_mexican_100_300_${suffix}"
 output_path="assets/${experiment_name}"
 

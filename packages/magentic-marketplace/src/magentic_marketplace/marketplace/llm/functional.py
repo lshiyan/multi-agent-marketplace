@@ -14,11 +14,12 @@ from .base import (
 )
 from .clients.anthropic import AnthropicClient, AnthropicConfig
 from .clients.gemini import GeminiClient, GeminiConfig
+from .clients.local import LocalClient, LocalConfig
 from .clients.openai import OpenAIClient, OpenAIConfig
 from .config import EXCLUDE_FIELDS, LLM_PROVIDER
 
 ConcreteLLMConfigs = Annotated[
-    AnthropicConfig | GeminiConfig | OpenAIConfig,
+    AnthropicConfig | GeminiConfig | OpenAIConfig | LocalConfig,
     Field(discriminator="provider"),
 ]
 ConcreteConfigAdapter: TypeAdapter[ConcreteLLMConfigs] = TypeAdapter(ConcreteLLMConfigs)
@@ -135,6 +136,8 @@ async def generate(
             client = OpenAIClient.from_cache(config)
         case "gemini":
             client = GeminiClient.from_cache(config)
+        case "local":
+            client = LocalClient.from_cache(config)
         case _:
             raise ValueError(f"Unsupported provider: {config.provider}")
 
@@ -154,3 +157,4 @@ def clear_client_caches() -> None:
     AnthropicClient._client_cache.clear()
     OpenAIClient._client_cache.clear()
     GeminiClient._client_cache.clear()
+    LocalClient._client_cache.clear()
