@@ -103,10 +103,11 @@ fi
 
 # Point project's existing OpenAI-compatible client to this local server.
 # Set AFTER starting services so these values have the desired precedence.
-export LLM_PROVIDER=openai
+export LLM_PROVIDER=local
 export LLM_MODEL="$MODEL_NAME"
-export OPENAI_BASE_URL="http://127.0.0.1:${PORT}/v1"
-export OPENAI_API_KEY=EMPTY
+export LOCAL_LLM_BASE_URL="http://127.0.0.1:8000/v1"
+export LOCAL_LLM_API_KEY="EMPTY"
+export LOCAL_LLM_STRUCTURED_MODE=json_schema
 printf '%s\n' "$MODEL_NAME" > "$output_path/model.txt"
 
 echo "Starting $experiment_name; output: $output_path"
