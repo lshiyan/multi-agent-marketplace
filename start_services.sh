@@ -16,7 +16,7 @@ done < .env
 
 export SINGULARITYENV_PGADMIN_LISTEN_PORT=8080
 
-POSTGRES_DATA="$HOME/singularity_data/postgres_data"
+POSTGRES_DATA="$SCRATCH/postgres/$SLURM_JOB_ID"
 POSTGRES_SOCKET="$HOME/singularity_data/postgres_socket"
 POSTGRES_IMAGE="postgres_16.sif"
 POSTGRES_PORT=5433
