@@ -15,6 +15,7 @@ while IFS='=' read -r var _; do
 done < .env
 
 export SINGULARITYENV_PGADMIN_LISTEN_PORT=8080
+export SINGULARITYENV_PGHOST=/postgres_socket
 
 POSTGRES_DATA="$SCRATCH/postgres/$SLURM_JOB_ID"
 POSTGRES_SOCKET="$HOME/singularity_data/postgres_socket"
